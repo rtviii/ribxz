@@ -1,0 +1,84 @@
+entry(entry_id: "3j9m") {
+    rcsb_id
+    rcsb_entry_info {
+      resolution_combined
+    }
+    rcsb_external_references {
+      link
+      type
+      id
+    }
+    exptl {
+      method
+    }
+    diffrn_source {
+      details
+      pdbx_synchrotron_beamline
+      pdbx_synchrotron_site
+      pdbx_wavelength
+      pdbx_wavelength_list
+      source
+      type
+    }
+    em_3d_reconstruction {
+      details
+      algorithm
+      resolution_method
+      actual_pixel_size
+      id
+      resolution
+      nominal_pixel_size
+      refinement_type
+      num_particles
+      magnification_calibration
+    }
+    citation {
+      rcsb_authors
+      year
+      title
+      pdbx_database_id_DOI
+    }
+    struct_keywords {
+      pdbx_keywords
+      text
+    }
+    polymer_entities {
+      entry {
+        rcsb_id
+      }
+      pfams {
+        rcsb_pfam_accession
+        rcsb_pfam_comment
+        rcsb_pfam_description
+      }
+      rcsb_entity_source_organism {
+        ncbi_taxonomy_id
+        scientific_name
+      }
+      uniprots {
+        rcsb_id
+      }
+      rcsb_polymer_entity {
+        pdbx_description
+      }
+      entity_poly {
+        pdbx_seq_one_letter_code
+        pdbx_seq_one_letter_code_can
+        pdbx_strand_id
+        rcsb_entity_polymer_type
+        rcsb_sample_sequence_length
+        type
+      }
+    }
+    nonpolymer_entities {
+      pdbx_entity_nonpoly {
+        comp_id
+        name
+        entity_id
+      }
+      rcsb_nonpolymer_entity {
+        formula_weight
+        pdbx_description
+      }
+    }
+  }

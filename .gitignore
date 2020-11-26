@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+static/
+_cif_archive/
+venv/
+__pycache__/
+.vscode/
+bin/
+ECOLI_TUNNELS/
