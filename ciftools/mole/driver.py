@@ -9,9 +9,6 @@ from makeconfig import make_input_config
 from cli_parser import makeparser
 import asyncio
 from dotenv import load_dotenv
-import numpy as np
-
-load_dotenv(dotenv_path='./.env')
 
 
 # sys.path.append(os.path.join(sys.path[0], 'mole2'))
@@ -23,6 +20,11 @@ load_dotenv(dotenv_path='./.env')
 # path_pdbstruct = os.path.join(os.path.dirname(sys.path[0]), 'static', 'pdb-structs', 'radiusobject.pdb')
 
 
+def root(abspath:str, rootname:str)->str:
+    # Pass envfile-path to dotenv or other environ consumers.
+    # envfile    = os.path.join(root(os.path.abspath(__file__),'ribxz'), '.env')
+    """Returns the rootpath for the project if it's unique in the current folder tree."""
+    return abspath[:str.find(abspath,rootname) + len(rootname)]
 
 if __name__ == "__main__":
 
@@ -35,26 +37,28 @@ if __name__ == "__main__":
     Don't forget to specify the input STRUCTURE file and OUTPUT were mole would write.
     """
     # load cli options
-    moleparser    =  makeparser()
+    moleparser = makeparser()
+    envfile    = os.path.join(root(os.path.abspath(__file__),'ribxz'), '.env')
 
-    load_dotenv(dotenv_path='./../../.env')
+    load_dotenv(dotenv_path=envfile)
 
-    MOLE_EXE       =  os.getenv('MOLE_EXECUTABLE')
-    ECOLI_TUNNELS  =  os.getenv("ECOLI_TUNNELS")
-
-    args       = moleparser.parse_args()
+    MOLE_EXE      = os.getenv('MOLE_EXECUTABLE')
+    ECOLI_TUNNELS = os.getenv("ECOLI_TUNNELS")
+    SCOOP_RADIUS  = os.getenv("SCOOP_RADIUS")
+    args          = moleparser.parse_args()
     #get rid of the unutilized arg options
 
     args        =  filter((lambda kvpair: None not in kvpair), vars(args).items())
     args        =  dict(args)
 
     pdbid       =  args['PDBID'].upper()
+
     if not os.path.exists(os.path.join(ECOLI_TUNNELS,pdbid)):
         os.makedirs(os.path.join(ECOLI_TUNNELS,pdbid) )
 
-    inputconfigpath  =  os.path.join(ECOLI_TUNNELS, pdbid, '{}_moleinput.xml'.format(pdbid) )
-    inputstructpath  =  os.path.join(ECOLI_TUNNELS, '{}_SCOOP60A_RESI2451.pdb'.format(pdbid))
-    outpath          =  os.path.join(ECOLI_TUNNELS, pdbid)
+    inputconfigpath = os.path.join(ECOLI_TUNNELS, pdbid, '{}_moleinput.xml'.format(pdbid) )
+    inputstructpath = os.path.join(ECOLI_TUNNELS,   pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
+    outpath         = os.path.join(ECOLI_TUNNELS, pdbid)
 
     args['Input']         =  inputstructpath
     args['Output']        =  outpath
@@ -72,13 +76,13 @@ if __name__ == "__main__":
 
 
 
-    args['Points']              =  pts
+    args['Points']             = pts
 
-    args['ProbeRadius']         =  "10"
-    args['InteriorThreshold']   =  "0.8"
-    args['BottleneckRadius']    =  "1"
-    args['SurfaceCoverRadius']  =  "10"
-    args['OriginRadius']        =  "5"
+    args['ProbeRadius']        = "10"
+    args['InteriorThreshold']  = "0.8"
+    args['BottleneckRadius']   = "1"
+    args['SurfaceCoverRadius'] = "10"
+    args['OriginRadius']       = "5"
 
     args['exports'] = "t"
 
