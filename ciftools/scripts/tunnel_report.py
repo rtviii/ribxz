@@ -1,72 +1,86 @@
 #!/usr/bin/env python3
 
-import sys
 from typing import List
-import os 
-import numpy
+import os,sys,json,re,numpy
+from numpy.core.fromnumeric import reshape
+ROOT= os.path.dirname(os.path.dirname( os.path.dirname(os.path.realpath(__file__)) ) )
+sys.path.append( os.path.dirname(os.path.dirname( os.path.dirname(os.path.realpath(__file__)) ) ))
 from pandas.core.indexes.range import RangeIndex
-# from ..structurestructure import fetchStructure
 from dotenv import load_dotenv
 import pandas as pd
-from ciftools.neoget import Neoget
+from ciftools.structure import fetchStructure
+from ciftools.neoget import _neoget
 from Bio.PDB.NeighborSearch import NeighborSearch
 from Bio.PDB import (Chain,Structure,Atom,Residue)
-import json
 
 
-envp = './../.env'
-load_dotenv(dotenv_path=envp)
 
+if __name__!="__main__":
+    """
+    First sysarg is the species taxid, say --562 for the ecoli top level.
+    Second argument is the pdbid.
+    ---------------------------------------------------------------------env:
+    TUNNELS_PATH
+    STATIC_ROOT
+    ---------------------------------------------------------------------
+    We grab the curated tunnels from the  [TUNNELS/$PDBID/tunnel-results.txt] file:
+    - either a comma-separated tunnel ids i.e. 2,8
+    - 0 for no results
+    - -1 for interfering molecule inside the tunnel/ any other artifacts to look into.
+    """
+    print("Run me as main.")
+    exit(1)
 
-AAs         = ["ALA",'ARG','ASN','ASP','CYS','GLN','GLU','GLY','HIS','ILE','LEU','LYS','MET','PHE','PRO','SER','THR','TRP','TYR','VAL','SEC','PYL']
-Nucleotides = ['A', 'U', 'G', 'C', 'T']
-STATIC_ROOT    =  os.getenv('STATIC_ROOT')
-ECOLI_TUNNELS  =  os.getenv("ECOLI_TUNNELS")
+if len( sys.argv )  < 3:
+    print("""
+        First sysarg is the species taxid, say --562 for the ecoli top level.
+        Second argument is the pdbid."""    )
+    exit(1)
 
-if __name__=="__main__":
+load_dotenv(dotenv_path=os.path.join(ROOT, '.env'))
+AAs          = ["ALA",'ARG','ASN','ASP','CYS','GLN','GLU','GLY','HIS','ILE','LEU','LYS','MET','PHE','PRO','SER','THR','TRP','TYR','VAL','SEC','PYL']
+Nucleotides  = ['A', 'U', 'G', 'C', 'T']
+STATIC_ROOT  = os.getenv('STATIC_ROOT')
+TUNNELS_PATH = os.path.join(ROOT, 'ciftools','TUNNELS')
+TUNNEL_LOG   = os.path.join(TUNNELS_PATH, 'TUNNEL_LOG.csv')
 
-    pdbid='';
-    tunneln=[]
+species        = sys.argv[1]
+pdbid          = sys.argv[2].upper()
 
-    if sys.argv[1] == '--ecoli':
-        print("Working with ecoli presets.")
-        pdbid = sys.argv[2].upper()
-        print("Got pdbid :", pdbid)
-        TUNNELS_PATH  =  os.path.join(ECOLI_TUNNELS,pdbid,'csv')
-        CHOICE_TXT    =  os.path.join(TUNNELS_PATH, 'choices.txt')
-        f = open(CHOICE_TXT)
-        for csv_number in f.read().split(","):
-            tunneln.append(csv_number)
+TUNNEL_RESULTS = os.path.join(TUNNELS_PATH,str(species),pdbid,'tunnels-results.txt')
+# The curated ids of tunnels(generated manually)
+tunneln        = []
 
+with open(TUNNEL_RESULTS) as chosentunnels:
+    chosentunnels = chosentunnels.read()
+
+    df:pd.DataFrame = pd.read_csv(TUNNEL_LOG)
+    index  = df[ df['pdbid']==pdbid ].index.values.astype(int)
+    if not index.size >0: 
+        #doestn exist
+        index = len(df.pdbid) + 1
+        df.loc[index] = [pdbid, species, chosentunnels]
     else:
-        pdbid   = sys.argv[1].upper()
-        tunneln = sys.argv[2].split(',')
+        # df.loc[index[0]] = [pdbid, species,chosentunnels]
+        df.append([pdbid, species,chosentunnels]) 
+    df.to_csv(TUNNEL_LOG,  index=False)
+    csv_number = open(TUNNEL_RESULTS).read().split(',')
+    print("Wrote {} -> {}, {} to {}".format(csv_number, pdbid,species, TUNNEL_LOG))
+    tunneln.extend(csv_number)
 
-        TUNNELS_PATH   =  os.path.join(STATIC_ROOT,pdbid,'TUNNEL','csv')
-
-    if len(pdbid) != 4 or len(tunneln) < 1:
-        print("Enter a valid RCSB Id followed by comma-sepated tunnel ids: [4UG0 1,2]")
-        exit(1)
+if tunneln[0]  in ['0', '-1']:
+    print("Got 0 or -1, exiting.")
+    exit(1)
 
 
 
-tunnelfiles = []
-for t in tunneln:
-    tpath = os.path.join(TUNNELS_PATH, f'tunnel_{t}.csv')
-    tunnelfiles.append(tpath)
 
-total = pd.DataFrame()
-for tunnelpath in tunnelfiles:
-    inst  = pd.read_csv(tunnelpath)
-    xyzr  = inst[["FreeRadius", "X","Y","Z"]]
-    total = total.append(xyzr, ignore_index=True)
-
+# Grab the structure from the bucket, init NeighborSearch
 struct = fetchStructure(pdbid)
 atoms  = list(struct.get_atoms())
 ns     = NeighborSearch(atoms,bucket_size=10)
 
 class TunnelWalls:
-    
     def __init__(self, pdbid:str) -> None:
         self.struct = pdbid.upper()
         self.rna                = {}
@@ -90,23 +104,26 @@ class TunnelWalls:
         if res.get_resname() not in [*AAs, *Nucleotides] and res not in self.ligands:
             self.ligands.append(res)
         if parentStrand not in self.adjacentRnaStrands and parentStrand not in self.adjacentRPStrands:
-            response = Neoget("""
-            match (n{{entity_poly_strand_id:"{parentStrand}"}})-[]-\
-            (r:RibosomeStructure{{rcsb_id:"{struct}"}}) \
+
+            response = _neoget("""
+            match (n{{entity_poly_strand_id:"{parentStrand}"}})-[]-(r:RibosomeStructure{{rcsb_id:"{struct}"}}) \
             return {{type: n.entity_poly_polymer_type, nomenclature:n.nomenclature}};""".format_map({
-                "parentStrand":parentStrand,
-                "struct":self.struct
+                "parentStrand": parentStrand,
+                "struct"      : self.struct
             }))
-            profile  = response.values()[0][0]
+            try:
+                profile = response[0]
+                print(profile)
+                if profile['type'] == 'RNA':
+                    self.adjacentRnaStrands.append(parentStrand)
+                    self.rna[parentStrand] = []
 
-            if profile['type'] == 'RNA':
-                self.adjacentRnaStrands.append(parentStrand)
-                self.rna[parentStrand] = []
-
-            if profile['type'] == 'Protein':
-                self.adjacentRPStrands.append(parentStrand)
-                self.rps            [parentStrand] = []
-                self.nomenclatureMap[parentStrand] = profile['nomenclature']
+                if profile['type'] == 'Protein':
+                    self.adjacentRPStrands.append(parentStrand)
+                    self.rps            [parentStrand] = []
+                    self.nomenclatureMap[parentStrand] = profile['nomenclature']
+            except:
+                pass
 
         if parentStrand in self.adjacentRnaStrands:
             if res in self.rna[parentStrand] :
@@ -120,6 +137,7 @@ class TunnelWalls:
                 self.rps[parentStrand].append(res)
 
         self.rescount +=1
+        print(self.rescount)
 
     def consumeMoleDataframe(self,df:pd.DataFrame, radius:float):
         """
@@ -133,7 +151,9 @@ class TunnelWalls:
             x = row['X'];
             y = row['Y'];
             z = row['Z']
+
             res:List[Residue.Residue] = ns.search(numpy.array([x,y,z]), radius,level='R')
+
             for nbr in res:
                 self.addResidue(nbr)
         df.apply(getVicinity, axis=1)
@@ -156,7 +176,9 @@ class TunnelWalls:
 
         for tpl in self.getProteinResidues().items():
             protwall[ tpl[0] ] = [getResInfo(x,nomMap=self.nomenclatureMap, polytype="Protein") for x in tpl[1]]
+
         for tpl in self.getRnaResidues().items():
+
             rnawall[ tpl[0] ] = [getResInfo(x,nomMap=self.nomenclatureMap, polytype="RNA") for x in tpl[1]]
 
         rprt           = {
@@ -173,9 +195,26 @@ class TunnelWalls:
             json.dump(rprt,writable)
 
 
-tws = TunnelWalls(pdbid=pdbid)
-tws.consumeMoleDataframe(total, 10)
+total = pd.DataFrame() #  dataframe containing the centerline coordinates of all the tunnels specified in tunnel_results
+
+# The correspondign set of csv coordinate files produced by MOLE
+tunnelfiles =[]
+for t in tunneln:
+    tpath = os.path.join(TUNNELS_PATH,species, pdbid, 'csv',f'tunnel_{t}.csv')
+    tunnelfiles.append(tpath)
+
+# Merging the files
+for tunnelpath in tunnelfiles:
+    inst  = pd.read_csv(tunnelpath)
+    xyzr  = inst[["FreeRadius", "X","Y","Z"]]
+    total = total.append(xyzr, ignore_index=True)
+
+tws = TunnelWalls(pdbid=pdbid) # Init tunnel walls
+tws.consumeMoleDataframe(total, 10) 
+
+# Outputpath
 reportPath = os.path.join(STATIC_ROOT,pdbid,'TUNNEL',f"{pdbid}_TUNNEL_REPORT.json")
+
 if not os.path.exists(os.path.dirname( reportPath )):
     os.makedirs(os.path.dirname( reportPath ))
 report =tws.generateReport(reportPath)

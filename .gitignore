@@ -7,4 +7,5 @@ venv/
 __pycache__/
 .vscode/
 bin/
-ECOLI_TUNNELS/
+**.cif
+**.pdb

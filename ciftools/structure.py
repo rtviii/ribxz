@@ -1,20 +1,8 @@
-from genericpath import exists
-from typing import Generator, List, Tuple, TypedDict
 from Bio.PDB.Structure import Structure
-from Bio.PDB.Atom import Atom
-from Bio.PDB.Chain import Chain
-from Bio.PDB.Residue import Residue
 from Bio.PDB.MMCIFParser import FastMMCIFParser
-import asyncio
-import argparse
 from os import path
 import os, sys
-from neo4j import GraphDatabase,BoltStatementResult
 from urllib.request import urlretrieve
-
-
-
-
 
 def fetchStructure(pdbid:str, custom_path='default') -> Structure:
     
