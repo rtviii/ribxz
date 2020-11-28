@@ -5,7 +5,10 @@ static/
 _cif_archive/
 venv/
 __pycache__/
+rxzvenv/
 .vscode/
 bin/
 **.cif
 **.pdb
+**.mesh
+*.gz
