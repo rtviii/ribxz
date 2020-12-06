@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from typing import List
 import os,sys,json,re,numpy
 from numpy.core.fromnumeric import reshape
@@ -12,8 +11,6 @@ from ciftools.structure import fetchStructure
 from ciftools.neoget import _neoget
 from Bio.PDB.NeighborSearch import NeighborSearch
 from Bio.PDB import (Chain,Structure,Atom,Residue)
-
-
 
 if __name__!="__main__":
     """
@@ -73,8 +70,6 @@ if tunneln[0]  in ['0', '-1']:
     exit(1)
 
 
-
-
 # Grab the structure from the bucket, init NeighborSearch
 struct = fetchStructure(pdbid)
 atoms  = list(struct.get_atoms())
@@ -103,6 +98,7 @@ class TunnelWalls:
         parentStrand = res.get_parent().get_id()
         if res.get_resname() not in [*AAs, *Nucleotides] and res not in self.ligands:
             self.ligands.append(res)
+
         if parentStrand not in self.adjacentRnaStrands and parentStrand not in self.adjacentRPStrands:
 
             response = _neoget("""
@@ -146,6 +142,7 @@ class TunnelWalls:
         Iterates over each row and applies neighbor search on each focus, appends non-redundant residues
         to appropriate registry on the object. 
         """
+
         self.radius = radius
         def getVicinity(row):
             x = row['X'];
@@ -194,11 +191,11 @@ class TunnelWalls:
         with open(pathtowrite, 'w') as writable:
             json.dump(rprt,writable)
 
-
 total = pd.DataFrame() #  dataframe containing the centerline coordinates of all the tunnels specified in tunnel_results
 
+
 # The correspondign set of csv coordinate files produced by MOLE
-tunnelfiles =[]
+tunnelfiles = []
 for t in tunneln:
     tpath = os.path.join(TUNNELS_PATH,species, pdbid, 'csv',f'tunnel_{t}.csv')
     tunnelfiles.append(tpath)
@@ -214,12 +211,7 @@ tws.consumeMoleDataframe(total, 10)
 
 # Outputpath
 reportPath = os.path.join(STATIC_ROOT,pdbid,'TUNNEL',f"{pdbid}_TUNNEL_REPORT.json")
-
 if not os.path.exists(os.path.dirname( reportPath )):
     os.makedirs(os.path.dirname( reportPath ))
-report =tws.generateReport(reportPath)
 
-
-
-
-
+report= tws.generateReport(reportPath)

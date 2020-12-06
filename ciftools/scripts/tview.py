@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 
 
 
+species      = '83333'
 def root(abspath:str, rootname:str)->str:
     # Pass envfile-path to dotenv or other environ consumers.
     # envfile    = os.path.join(root(os.path.abspath(__file__),'ribxz'), '.env')
@@ -15,12 +16,12 @@ def tview(pdbid:str):
 
     load_dotenv(dotenv_path="/home/rxz/dev/ribxz/.env")
 
-    pdbid           = pdbid.upper()
-    ECOLI_TUNNELS   = os.getenv("ECOLI_TUNNELS")
-    SCOOP_RADIUS    = os.getenv("SCOOP_RADIUS")
+    pdbid        = pdbid.upper()
+    TUNNELS      = os.getenv("TUNNELS")
+    SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
 
-    TUNNEL_SCRIPT   = os.path.join(ECOLI_TUNNELS, pdbid, 'pymol', 'complex.py')
-    inputstructpath = os.path.join(ECOLI_TUNNELS, pdbid, '{}_{}Ascoop.pdb'.format(pdbid,SCOOP_RADIUS))
+    TUNNEL_SCRIPT   = os.path.join(TUNNELS,species, pdbid, 'pymol', 'complex.py')
+    inputstructpath = os.path.join(TUNNELS,species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid,SCOOP_RADIUS))
 
 
     print("input", inputstructpath)
@@ -50,8 +51,8 @@ def twrite(pdbid, args):
     pdbid         = pdbid.upper()
     args          = args.split(' ')
 
-    ECOLI_TUNNELS = os.getenv("ECOLI_TUNNELS")
-    CHOICE_TXT    = os.path.join(ECOLI_TUNNELS, pdbid,  'tunnels-results.txt')
+    TUNNELS      = os.getenv("TUNNELS")
+    CHOICE_TXT    = os.path.join(TUNNELS,species, pdbid,  'tunnels-results.txt')
 
     # if len(args) == 1 and int( args[0] ) == 0:
     # then it failed thats what's up. just write it

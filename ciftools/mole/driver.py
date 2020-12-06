@@ -1,23 +1,14 @@
 #!/usr/bin/env python
-import json
-import os
-import xml
-import numpy
-from pymol import cmd
-import pymol
-from makeconfig import make_input_config
-from cli_parser import makeparser
+
 import asyncio
+
+import pymol
+import json,os,xml,numpy,sys
+sys.path.append(os.path.dirname( os.path.dirname( os.path.dirname(os.path.realpath(__file__)) ) ))
+from ciftools.mole.cli_parser import makeparser
+from ciftools.mole.makeconfig import make_input_config
 from dotenv import load_dotenv
 
-
-# sys.path.append(os.path.join(sys.path[0], 'mole2'))
-# sys.path.append(sys.path[0])
-# path_moleexe = os.path.join(sys.path[0], 'mole2', 'mole2.exe')
-
-# # path_moleconfig = os.path.join(sys.path[0],'input.xml')
-# path_moleconfig = os.path.join(sys.path[0], 'input-multiorigin.xml')
-# path_pdbstruct = os.path.join(os.path.dirname(sys.path[0]), 'static', 'pdb-structs', 'radiusobject.pdb')
 
 
 def root(abspath:str, rootname:str)->str:
@@ -35,6 +26,7 @@ if __name__ == "__main__":
     (An additional set of defaults is already written in makeconfig.)
     An xml file is then created with parameters for a particular run of mole.
     Don't forget to specify the input STRUCTURE file and OUTPUT were mole would write.
+
     """
     # load cli options
     moleparser = makeparser()
@@ -42,23 +34,21 @@ if __name__ == "__main__":
 
     load_dotenv(dotenv_path=envfile)
 
-    MOLE_EXE      = os.getenv('MOLE_EXECUTABLE')
-    ECOLI_TUNNELS = os.getenv("ECOLI_TUNNELS")
-    SCOOP_RADIUS  = os.getenv("SCOOP_RADIUS")
-    args          = moleparser.parse_args()
+    MOLE_EXE     = os.getenv('MOLE_EXECUTABLE')
+    TUNNELS      = os.getenv("TUNNELS")
+    SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
+    args         = moleparser.parse_args()
     #get rid of the unutilized arg options
 
     args        =  filter((lambda kvpair: None not in kvpair), vars(args).items())
     args        =  dict(args)
 
-    pdbid       =  args['PDBID'].upper()
-
-    if not os.path.exists(os.path.join(ECOLI_TUNNELS,pdbid)):
-        os.makedirs(os.path.join(ECOLI_TUNNELS,pdbid) )
-
-    inputconfigpath = os.path.join(ECOLI_TUNNELS, pdbid, '{}_moleinput.xml'.format(pdbid) )
-    inputstructpath = os.path.join(ECOLI_TUNNELS,   pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
-    outpath         = os.path.join(ECOLI_TUNNELS, pdbid)
+    pdbid   = args['PDBID'].upper()
+    species = args['taxid']
+    
+    inputconfigpath = os.path.join(TUNNELS, species, pdbid, '{}_moleinput.xml'.format(pdbid) )
+    inputstructpath = os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
+    outpath         = os.path.join(TUNNELS, species, pdbid)
 
     args['Input']         =  inputstructpath
     args['Output']        =  outpath
@@ -71,13 +61,9 @@ if __name__ == "__main__":
     pts = []
     for cord in cords:
         pt =   numpy.around(cord, 0)
-        print(pt)
         pts.append([ "{},{},{}".format(pt[0], pt[1], pt[2]) ])
 
-
-
     args['Points']             = pts
-
     args['ProbeRadius']        = "10"
     args['InteriorThreshold']  = "0.8"
     args['BottleneckRadius']   = "1"
@@ -88,4 +74,12 @@ if __name__ == "__main__":
 
     #Sensisble inputs 
     asyncio.run(make_input_config(args))
-    os.system("mono {} {}".format(MOLE_EXE, inputconfigpath))
+    possible = [os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, x)) for x in ['80','60','70']]
+
+    for scoop in possible:
+        args['Input']         =  scoop
+        try:
+            os.system("mono {} {}".format(MOLE_EXE, inputconfigpath))
+            break
+        except:
+            continue

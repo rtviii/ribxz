@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Tunnels Version="2.5.17.4.24" FoundOrigin="1" Timing="41323">
+<Tunnels Version="2.5.17.4.24" FoundOrigin="1" Timing="110970">
   <Tunnel Id="1" Cavity="1" Auto="0">
     <Properties Charge="0" NumPositives="1" NumNegatives="1" Hydrophobicity="-0.53" Hydropathy="-1.10" Polarity="16.32" Mutability="64" />
     <Profile>
