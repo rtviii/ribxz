@@ -14,12 +14,11 @@ def root(abspath:str, rootname:str)->str:
 
 def tview(pdbid:str):
 
-    load_dotenv(dotenv_path="/home/rxz/dev/ribxz/.env")
+    load_dotenv(dotenv_path="/home/rtviii/dev/ribxz/.env")
 
     pdbid        = pdbid.upper()
     TUNNELS      = os.getenv("TUNNELS")
     SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
-
     TUNNEL_SCRIPT   = os.path.join(TUNNELS,species, pdbid, 'pymol', 'complex.py')
     inputstructpath = os.path.join(TUNNELS,species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid,SCOOP_RADIUS))
 

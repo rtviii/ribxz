@@ -3,8 +3,8 @@
 **/static
 **/_cif_archive/
 **/venv
-**/__pycache__/
 **/rxzvenv
+**/__pycache__/
 **/TUNNELS
 **/.vscode
 .env
