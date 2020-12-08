@@ -4,6 +4,7 @@
 **/_cif_archive/
 **/venv
 **/rxzvenv
+**/ribxzvenv
 **/__pycache__/
 **/TUNNELS
 **/.vscode
