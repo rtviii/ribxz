@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-import os,sys,json,numpy
+import os,sys,numpy,json
 from dotenv import load_dotenv
+import matplotlib.pyplot  as plt
+
 def root_self(rootname:str='')->str:
     """Returns the rootpath for the project if it's unique in the current folder tree."""
     # Pass envfile-path to dotenv or other environ consumers.
@@ -9,13 +11,18 @@ def root_self(rootname:str='')->str:
     ROOT=os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
     sys.path.append(ROOT)
     load_dotenv(os.path.join(ROOT,'.env'))
-root_self('ribxz')
 
+if __name__=="__main__":
+    root_self('ribxz')
+
+import pandas as pd
 from typing import List
 from dotenv import load_dotenv
 from Bio.PDB.NeighborSearch import NeighborSearch
-from Bio.PDB import (Chain,Structure,Atom,Residue)
-import pandas as pd
+from Bio.PDB.Residue import Residue
+from Bio.PDB.Atom import Atom
+from Bio.PDB.Chain import Chain
+from Bio.PDB.Structure import Structure
 from ciftools.structure import fetchStructure
 from ciftools.neoget import _neoget
 
@@ -23,43 +30,111 @@ from ciftools.neoget import _neoget
 AAs          = ["ALA",'ARG','ASN','ASP','CYS','GLN','GLU','GLY','HIS','ILE','LEU','LYS','MET','PHE','PRO','SER','THR','TRP','TYR','VAL','SEC','PYL']
 Nucleotides  = ['A', 'U', 'G', 'C', 'T']
 
+
+def get_CA_or(res:Residue)->Atom:
+
+    """Returns the alpha carbon for the resiude if there is one, else the first atom in the list"""
+    atoms:List[Atom] =list( res.get_atoms() )
+    alphacarbons = list(filter(lambda atom: True if atom.get_name() == 'CA' else False ,atoms))
+    return atoms[0] if len(alphacarbons) == 0 else alphacarbons[0]
+
+
+
+
 class TunnelRecord:
 
-    def __init__(self,data_path:str, pdbid:str, taxid:int, moleoutputs:List[int], comments:List[str]=[""]):
-        self.__struct_data_loc    =  data_path
-        self.pdbid                =  pdbid
-        self.taxid                =  taxid
-        self.csv_choices          =  moleoutputs
-        self.comments             =  comments
-        self.total_df             =  pd.DataFrame()
-        self.computed_properties  =  {"cumulative_distance":  0}
-        """cumulative_distance | proteins_map | """
-        self.concat_mole_csvs()
+    def __init__(self,
+    data_path  : str,
+    pdbid      : str,
+    taxid      : int,
+    csv_choices: List[int],
+    comments   : List[str]=[""])->None: 
 
-    def concat_mole_csvs(self):
+        """The record is initiated from csv files, but the walls are not rendered automatically."""
 
-        total             =  pd.DataFrame()
+        self.struct_data_location   = data_path
+        self.pdbid               = pdbid
+        self.taxid               = taxid
+        self.csv_choices         = csv_choices
+        self.comments            = comments
+        self.mole_dataframes:List[pd.DataFrame]     = []
+        self.computed_properties = {"cumulaive_distance":  0}
+        self.tunnel_walls:TunnelWalls        = {}
+        self.has_rendered_walls = False
+
         distance          =  0
-        mole_chosen_csvs  =  [os.path.join(self.__struct_data_loc,'csv', 'tunnel_{}.csv'.format(x)) for x in self.csv_choices]
+
+        mole_chosen_csvs  =  [os.path.join(self.struct_data_location,'csv', 'tunnel_{}.csv'.format(x)) for x in self.csv_choices]
 
         for f in mole_chosen_csvs:
             tunnel_instance   =  pd.read_csv(f)
             xyzr              =  tunnel_instance[['Distance','FreeRadius', 'X','Y','Z']]
             rows              =  len(xyzr)
             distance         +=  xyzr.iloc[rows-1]['Distance']
-            total.append(xyzr)
+            self.mole_dataframes.append(tunnel_instance)
             
         self.computed_properties['cumulative_distance'] = distance
-        self.total_df =total
+
+    def render_walls(self, radius:int):
+        """Given a cif structure, render tunnel walls according to this record's  csv dataframes"""
+        walls      = TunnelWalls(self.pdbid, fetchStructure(self.pdbid))
+        total_data = pd.DataFrame()
+        for f in self.mole_dataframes:
+            total_data=total_data.append(f)
+        walls.consumeMoleDataframe(total_data,radius)
+        self.tunnel_walls = walls
+        self.has_rendered_walls  = True
+    def plot_radius(self)->None:
+        df   = self.get_total_df()
+        rd   = list(df['Radius'].array)
+        dist = list(df['Distance'].array)
+        plt.plot(dist, rd)
+
+        plt.show()
+    def get_total_df(self)->pd.DataFrame:
+        """If multiple tunnels are present, concatenating into one, reversing radii."""
+
+        if len(self.mole_dataframes) > 2:
+
+            raise Exception("Too many tunnels found.")
+
+        if len( self.mole_dataframes ) > 1:
+
+            assert(len(self.mole_dataframes) == 2)
+
+            pt1   = self.mole_dataframes[0][["Distance","Radius","X","Y","Z"]]
+            length1 = pt1["Distance"][ len(pt1) -1] #Grabbing the total distance for first tunnel
+            pt1['Distance'] = pt1[ 'Distance' ].values[::-1]
+            pt1 = pt1[::-1]
+            pt2   = self.mole_dataframes[1][["Distance","Radius","X","Y","Z"]]
+            pt2['Distance']= pt2['Distance'].apply(lambda row: row +length1) # increase the length by first tunnel's; without reversing
+            return pt1.append(pt2)
+
+        else:
+            assert(len(self.mole_dataframes)==1)
+            return self.mole_dataframes[0][["Radius","X","Y","Z"]]
+
+    def plot_all(self)->None:
+        df          = self.get_total_df()
+        xs          = df['X'].tolist()
+        ys          = df['Y'].tolist()
+        zs          = df['Z'].tolist()
+
+
+        fig = plt.figure()
+        ax  = plt.axes(projection='3d')
+        ax.scatter3D(xs,ys,zs)
+        ax.set_title(self.pdbid + ":" + ",".join(self.csv_choices))
+        plt.show()
+
 
 class TunnelWalls:
-    def __init__(self, pdbid:str, structure: Structure) -> None  :  
+
+    def __init__(self, pdbid:str, structure: Structure) -> None:  
         self.structure  =  structure
         self.pdbid      =  pdbid.upper()
-
         self.rna                 =  {}
         self.rps                 =  {}
-
         self.nomenclatureMap     =  {}
         self.other               =  []
         self.adjacentRnaStrands  =  []
@@ -68,15 +143,11 @@ class TunnelWalls:
         self.ligands             =  []
 
         self.rescount            =  0
-
-
     def getProteinResidues(self):
         return self.rps
-
     def getRnaResidues(self):
         return self.rna
-
-    def addResidue(self, res:Residue.Residue)->None:
+    def addResidue(self, res:Residue)->None:
         parentStrand = res.get_parent().get_id()
         if res.get_resname() not in [*AAs, *Nucleotides] and res not in self.ligands:
             self.ligands.append(res)
@@ -84,14 +155,13 @@ class TunnelWalls:
         if parentStrand not in self.adjacentRnaStrands and parentStrand not in self.adjacentRPStrands:
 
             response = _neoget("""
-            match (n{{entity_poly_strand_id:"{parentStrand}"}})-[]-(r:RibosomeStructure{{rcsb_id:"{struct}"}}) \
+            match (n{{entity_poly_strand_id:"{parentStrand}"}})-[]-(r:RibosomeStructure{{rcsb_id:"{pdbid}"}}) \
             return {{type: n.entity_poly_polymer_type, nomenclature:n.nomenclature}};""".format_map({
                 "parentStrand": parentStrand,
-                "struct"      : self.struct
+                "pdbid"      : self.pdbid
             }))
             try:
                 profile = response[0]
-                print(profile)
                 if profile['type'] == 'RNA':
                     self.adjacentRnaStrands.append(parentStrand)
                     self.rna[parentStrand] = []
@@ -115,10 +185,7 @@ class TunnelWalls:
                 self.rps[parentStrand].append(res)
 
         self.rescount +=1
-        print(self.rescount)
-
     def consumeMoleDataframe(self,df:pd.DataFrame, radius:float):
-
         """
         Takes a dataframe which must contain X,Y,Z columns assuming the centerline of the tunnel,
         although other columns can be present. Aimed at MOLE's mergd csv results.
@@ -130,7 +197,6 @@ class TunnelWalls:
         self.radius  =  radius
 
         def getVicinity(row):
-
             x = row['X'];
             y = row['Y'];
             z = row['Z']
@@ -141,43 +207,53 @@ class TunnelWalls:
                 self.addResidue(nbr)
 
         df.apply(getVicinity, axis=1)
-    
-    def generateReport(self, pathtowrite):
+        print("Total unique residues: ",self.rescount)
 
-        def getResInfo(res:Residue.Residue, nomMap, polytype:str ): 
-            parent                                                : Chain.Chain     = res.get_parent()
-            parentStrand                                          : str             = parent.get_id()
-            resid                                                 : int             = res.get_id()[1]
-            resname                                               : str             = res.get_resname()
+    def generateReport(self, write_to_path:str=""):
+        """Consume Mole Dataframe first. Things are empty otherwise. Should be in the appropriate record."""
+
+        def getResInfo(res:Residue, nomMap, polytype:str ): 
+
+            parent       : Chain.Chain = res.get_parent()
+            parentStrand: str          = parent.get_id()
+            resid        : int         = res.get_id()[1]
+            resname      : str         = res.get_resname()
+            rescoord                   = numpy.around(get_CA_or(res).get_coord(),decimals=1).tolist() 
+            
 
             nom   = nomMap[parentStrand] if polytype == "Protein" else None 
             islig = False if resname.upper() in [*Nucleotides, *AAs] else True
-            return {"strand": parentStrand, "resid" : resid, "resname": resname, "polytype": polytype, "nom": nom, "isligand": islig}
+            return {
+                "strand"  : parentStrand,
+                "resid"   : resid,
+                "resname" : resname,
+                "polytype": polytype,
+                "nom"     : nom,
+                "isligand": islig,
+                "rescoord": rescoord
+                }
         
         protwall  =  {}
         rnawall   =  {}
-
-        presentLigands = [getResInfo(l,nomMap=self.nomenclatureMap, polytype="Other") for l in tws.ligands]
-
+        presentLigands = [getResInfo(l,nomMap=self.nomenclatureMap, polytype="Other") for l in self.ligands]
         for tpl in self.getProteinResidues().items():
             protwall[ tpl[0] ] = [getResInfo(x,nomMap=self.nomenclatureMap, polytype="Protein") for x in tpl[1]]
 
         for tpl in self.getRnaResidues().items():
-
             rnawall[ tpl[0] ] = [getResInfo(x,nomMap=self.nomenclatureMap, polytype="RNA") for x in tpl[1]]
 
-        report           = {
-            "pdbid"        :  self.struct,
-            "probeRadius"  :  self.radius,
-            "rna"          :  rnawall,
-            "proteins"     :  protwall,
-            "ligands"      :  presentLigands,
-            "nomMap"       :  self.nomenclatureMap
+        report = {
+            "pdbid"      : self.pdbid,
+            "probeRadius": self.radius,
+            "rna"        : rnawall,
+            "proteins"   : protwall,
+            "ligands"    : presentLigands,
+            "nomMap"     : self.nomenclatureMap}
+        if write_to_path != "":
+            with open(write_to_path, "w") as outfile:
+                json.dump(report, write_to_path)
 
-        }
-
-        with open(pathtowrite, 'w') as writable:
-            json.dump(report,writable)
+        return report
 
 class Log:
 
@@ -203,18 +279,28 @@ class Log:
     def _struct(self,pdbid:str)->TunnelRecord:
         pdbid  =  pdbid.upper()
         row    =  self.log.loc[self.log['PDBID'] ==pdbid]
+
+        taxid = row['TaxId'].values[0]
+        molechoices = row['MoleStatus'].values[0].split(',')
+
         return TunnelRecord(
-        os.path.join(self.__tunnels_path,str(row['TaxId'][0]),row['PDBID'][0]),
-        row['PDBID'][0],
-        row['TaxId'][0],
-        row['MoleStatus'][0].split(','))
-
-log            =  Log(os.getenv('TUNNEL_LOG'))
-struct_record  =  log._struct('3jcd');
-
-TunnelWalls('3jcd', fetchStructure('3jcd'))
+            os.path.join(self.__tunnels_path,str(taxid),pdbid),
+            pdbid,
+            taxid,
+            molechoices)
 
 
+# PDBID=sys.argv[1].upper()
+
+LOG = Log(os.getenv('TUNNEL_LOG'))
+"""You have to render walls on a given records first before you generated the report or do anything else."""
+x = LOG._struct('6gxn')
+x.plot_all()
+
+# record_3jcd.render_walls(10)
+# PDBID              = '3JCD'
+# STRUCT_REPORT_PATH = os.path.join(os.getenv('STATIC_ROOT'),PDBID,'TUNNEL', f'{PDBID}_TUNNEL_REPORT.json')
+# x = record_3jcd.tunnel_walls.generateReport(write_to_path=STRUCT_REPORT_PATH)
 
 
 

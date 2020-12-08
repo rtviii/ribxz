@@ -2,23 +2,17 @@ from pymol import cmd
 import os, sys
 from dotenv import load_dotenv
 
-
-
-species      = '83333'
-def root(abspath:str, rootname:str)->str:
-    # Pass envfile-path to dotenv or other environ consumers.
-    # envfile    = os.path.join(root(os.path.abspath(__file__),'ribxz'), '.env')
-    """Returns the rootpath for the project if it's unique in the current folder tree."""
-    return abspath[:str.find(abspath,rootname) + len(rootname)]
-
+species      = '562'
 
 def tview(pdbid:str):
 
-    load_dotenv(dotenv_path="/home/rtviii/dev/ribxz/.env")
+    load_dotenv(dotenv_path="/home/rxz/dev/ribxz/.env")
 
     pdbid        = pdbid.upper()
+
     TUNNELS      = os.getenv("TUNNELS")
     SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
+
     TUNNEL_SCRIPT   = os.path.join(TUNNELS,species, pdbid, 'pymol', 'complex.py')
     inputstructpath = os.path.join(TUNNELS,species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid,SCOOP_RADIUS))
 
@@ -38,8 +32,6 @@ def tview(pdbid:str):
     cmd.hide('everything', 'Tunnels')
     cmd.show('mesh', 'Tunnels')
     cmd.reset()
-
-
 
 def twrite(pdbid, args):
     # Anticipating the missing tunnels, usually would write PDBID, [1 2 3] to choose tunnel.

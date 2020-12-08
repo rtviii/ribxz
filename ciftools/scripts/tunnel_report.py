@@ -95,18 +95,20 @@ class TunnelWalls:
         return self.rna
 
     def addResidue(self, res:Residue.Residue)->None:
+
         parentStrand = res.get_parent().get_id()
+
         if res.get_resname() not in [*AAs, *Nucleotides] and res not in self.ligands:
             self.ligands.append(res)
 
         if parentStrand not in self.adjacentRnaStrands and parentStrand not in self.adjacentRPStrands:
-
             response = _neoget("""
             match (n{{entity_poly_strand_id:"{parentStrand}"}})-[]-(r:RibosomeStructure{{rcsb_id:"{struct}"}}) \
             return {{type: n.entity_poly_polymer_type, nomenclature:n.nomenclature}};""".format_map({
                 "parentStrand": parentStrand,
                 "struct"      : self.struct
             }))
+
             try:
                 profile = response[0]
                 print(profile)
@@ -133,7 +135,6 @@ class TunnelWalls:
                 self.rps[parentStrand].append(res)
 
         self.rescount +=1
-        print(self.rescount)
 
     def consumeMoleDataframe(self,df:pd.DataFrame, radius:float):
         """
@@ -142,17 +143,17 @@ class TunnelWalls:
         Iterates over each row and applies neighbor search on each focus, appends non-redundant residues
         to appropriate registry on the object. 
         """
-
-        self.radius = radius
+        # self.radius = radius
         def getVicinity(row):
             x = row['X'];
             y = row['Y'];
             z = row['Z']
 
-            res:List[Residue.Residue] = ns.search(numpy.array([x,y,z]), radius,level='R')
+            residues:List[Residue.Residue] = ns.search(numpy.array([x,y,z]), radius,level='R')
 
-            for nbr in res:
+            for nbr in residues:
                 self.addResidue(nbr)
+
         df.apply(getVicinity, axis=1)
     
     def generateReport(self, pathtowrite):
@@ -196,6 +197,7 @@ total = pd.DataFrame() #  dataframe containing the centerline coordinates of all
 
 # The correspondign set of csv coordinate files produced by MOLE
 tunnelfiles = []
+
 for t in tunneln:
     tpath = os.path.join(TUNNELS_PATH,species, pdbid, 'csv',f'tunnel_{t}.csv')
     tunnelfiles.append(tpath)
