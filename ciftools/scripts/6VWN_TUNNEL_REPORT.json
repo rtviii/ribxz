@@ -1,0 +1,1075 @@
+{
+  "pdbid": "6VWN",
+  "probeRadius": 10,
+  "rna": {
+    "2": [
+      {
+        "strand": "2",
+        "resid": 2056,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [314.84698486328125, 290.37701416015625, 301.88800048828125]
+      },
+      {
+        "strand": "2",
+        "resid": 3023,
+        "resname": "MG",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": true,
+        "rescoord": [325.3970031738281, 303.46099853515625, 299.1319885253906]
+      },
+      {
+        "strand": "2",
+        "resid": 2507,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [324.3070068359375, 304.80999755859375, 304.2690124511719]
+      },
+      {
+        "strand": "2",
+        "resid": 2575,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [325.8559875488281, 300.5799865722656, 297.7200012207031]
+      },
+      {
+        "strand": "2",
+        "resid": 2452,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [315.1719970703125, 310.87701416015625, 303.83099365234375]
+      },
+      {
+        "strand": "2",
+        "resid": 2053,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [323.8479919433594, 292.00299072265625, 296.6820068359375]
+      },
+      {
+        "strand": "2",
+        "resid": 2504,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [311.53399658203125, 294.3330078125, 304.8760070800781]
+      },
+      {
+        "strand": "2",
+        "resid": 2572,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [322.7229919433594, 299.95599365234375, 292.52398681640625]
+      },
+      {
+        "strand": "2",
+        "resid": 2061,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [307.6759948730469, 293.5199890136719, 315.38299560546875]
+      },
+      {
+        "strand": "2",
+        "resid": 2500,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [303.71099853515625, 297.47601318359375, 300.7200012207031]
+      },
+      {
+        "strand": "2",
+        "resid": 2451,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [309.8689880371094, 311.0589904785156, 304.1080017089844]
+      },
+      {
+        "strand": "2",
+        "resid": 2577,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [326.23199462890625, 292.0140075683594, 303.6289978027344]
+      },
+      {
+        "strand": "2",
+        "resid": 2503,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [308.8389892578125, 290.81500244140625, 307.6099853515625]
+      },
+      {
+        "strand": "2",
+        "resid": 2055,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [313.0459899902344, 287.58599853515625, 297.4590148925781]
+      },
+      {
+        "strand": "2",
+        "resid": 2054,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [318.0039978027344, 290.531005859375, 296.70098876953125]
+      },
+      {
+        "strand": "2",
+        "resid": 2506,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [321.02398681640625, 300.31201171875, 304.9580078125]
+      },
+      {
+        "strand": "2",
+        "resid": 2574,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [327.2139892578125, 305.5570068359375, 296.1449890136719]
+      },
+      {
+        "strand": "2",
+        "resid": 2576,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [327.3059997558594, 296.3890075683594, 300.62701416015625]
+      },
+      {
+        "strand": "2",
+        "resid": 2453,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [318.0840148925781, 308.75201416015625, 300.2510070800781]
+      },
+      {
+        "strand": "2",
+        "resid": 2032,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [310.0849914550781, 300.15399169921875, 291.2590026855469]
+      },
+      {
+        "strand": "2",
+        "resid": 2573,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [322.8689880371094, 304.2179870605469, 297.78900146484375]
+      },
+      {
+        "strand": "2",
+        "resid": 2505,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.9490051269531, 294.76800537109375, 305.41400146484375]
+      },
+      {
+        "strand": "2",
+        "resid": 2447,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [300.0830078125, 297.94500732421875, 305.9169921875]
+      },
+      {
+        "strand": "2",
+        "resid": 2454,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [317.30499267578125, 306.3080139160156, 295.3169860839844]
+      },
+      {
+        "strand": "2",
+        "resid": 2501,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [306.1239929199219, 296.07501220703125, 305.14801025390625]
+      },
+      {
+        "strand": "2",
+        "resid": 2058,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [313.4259948730469, 284.07501220703125, 308.7799987792969]
+      },
+      {
+        "strand": "2",
+        "resid": 2063,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [311.2619934082031, 303.0039978027344, 319.09100341796875]
+      },
+      {
+        "strand": "2",
+        "resid": 2450,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [304.4360046386719, 308.5559997558594, 304.3179931640625]
+      },
+      {
+        "strand": "2",
+        "resid": 2585,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [323.2239990234375, 311.8689880371094, 316.96099853515625]
+      },
+      {
+        "strand": "2",
+        "resid": 2062,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [308.7250061035156, 297.8869934082031, 317.36700439453125]
+      },
+      {
+        "strand": "2",
+        "resid": 2584,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [328.8349914550781, 311.5369873046875, 317.0409851074219]
+      },
+      {
+        "strand": "2",
+        "resid": 2583,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [333.2139892578125, 307.6629943847656, 317.16400146484375]
+      },
+      {
+        "strand": "2",
+        "resid": 2508,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [328.1210021972656, 308.656005859375, 301.8599853515625]
+      },
+      {
+        "strand": "2",
+        "resid": 2553,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [338.0710144042969, 313.85400390625, 313.57000732421875]
+      },
+      {
+        "strand": "2",
+        "resid": 2493,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [319.7340087890625, 316.72601318359375, 297.9620056152344]
+      },
+      {
+        "strand": "2",
+        "resid": 2554,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [339.41900634765625, 311.760009765625, 308.7070007324219]
+      },
+      {
+        "strand": "2",
+        "resid": 2555,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [337.2430114746094, 312.30499267578125, 302.7969970703125]
+      },
+      {
+        "strand": "2",
+        "resid": 2603,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [322.7770080566406, 321.3760070800781, 315.3370056152344]
+      },
+      {
+        "strand": "2",
+        "resid": 2494,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.0889892578125, 319.2149963378906, 300.8919982910156]
+      },
+      {
+        "strand": "2",
+        "resid": 2492,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [320.5570068359375, 313.9020080566406, 293.07598876953125]
+      },
+      {
+        "strand": "2",
+        "resid": 2602,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [317.3970031738281, 321.9519958496094, 318.43499755859375]
+      },
+      {
+        "strand": "2",
+        "resid": 1942,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [329.69000244140625, 327.2070007324219, 313.072998046875]
+      },
+      {
+        "strand": "2",
+        "resid": 1943,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [332.62701416015625, 330.8789978027344, 309.4729919433594]
+      },
+      {
+        "strand": "2",
+        "resid": 2610,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [331.1510009765625, 293.8609924316406, 317.6610107421875]
+      },
+      {
+        "strand": "2",
+        "resid": 2586,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [323.6470031738281, 306.12701416015625, 319.8680114746094]
+      },
+      {
+        "strand": "2",
+        "resid": 2439,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [313.0400085449219, 307.97198486328125, 324.7690124511719]
+      },
+      {
+        "strand": "2",
+        "resid": 2581,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [335.72900390625, 298.1210021972656, 314.5270080566406]
+      },
+      {
+        "strand": "2",
+        "resid": 2609,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [331.4339904785156, 298.6730041503906, 320.74200439453125]
+      },
+      {
+        "strand": "2",
+        "resid": 2608,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [335.406005859375, 302.6090087890625, 322.9230041503906]
+      },
+      {
+        "strand": "2",
+        "resid": 1782,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [327.23699951171875, 293.9460144042969, 329.15899658203125]
+      },
+      {
+        "strand": "2",
+        "resid": 2611,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [329.91400146484375, 290.281005859375, 312.24798583984375]
+      },
+      {
+        "strand": "2",
+        "resid": 2059,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [312.7439880371094, 284.4020080566406, 313.8080139160156]
+      },
+      {
+        "strand": "2",
+        "resid": 2587,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [321.6990051269531, 306.7640075683594, 325.19500732421875]
+      },
+      {
+        "strand": "2",
+        "resid": 752,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [327.02099609375, 281.8039855957031, 329.9219970703125]
+      },
+      {
+        "strand": "2",
+        "resid": 2441,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.27801513671875, 302.593994140625, 326.60101318359375]
+      },
+      {
+        "strand": "2",
+        "resid": 2442,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [311.6809997558594, 299.2439880371094, 324.3320007324219]
+      },
+      {
+        "strand": "2",
+        "resid": 1781,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [330.593994140625, 290.62200927734375, 333.43798828125]
+      },
+      {
+        "strand": "2",
+        "resid": 791,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.343994140625, 291.50299072265625, 333.43499755859375]
+      },
+      {
+        "strand": "2",
+        "resid": 790,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [320.5299987792969, 286.88800048828125, 333.76300048828125]
+      },
+      {
+        "strand": "2",
+        "resid": 747,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [325.2300109863281, 281.6659851074219, 316.9020080566406]
+      },
+      {
+        "strand": "2",
+        "resid": 751,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [326.7200012207031, 276.9119873046875, 327.09698486328125]
+      },
+      {
+        "strand": "2",
+        "resid": 746,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [331.76300048828125, 280.3890075683594, 315.635986328125]
+      },
+      {
+        "strand": "2",
+        "resid": 789,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [318.24700927734375, 282.3900146484375, 337.2359924316406]
+      },
+      {
+        "strand": "2",
+        "resid": 462,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [315.531005859375, 266.4010009765625, 335.3370056152344]
+      },
+      {
+        "strand": "2",
+        "resid": 1614,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [323.6759948730469, 273.5610046386719, 331.90301513671875]
+      },
+      {
+        "strand": "2",
+        "resid": 463,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.67999267578125, 271.62298583984375, 336.3909912109375]
+      },
+      {
+        "strand": "2",
+        "resid": 461,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [313.3800048828125, 261.1579895019531, 336.9930114746094]
+      },
+      {
+        "strand": "2",
+        "resid": 1258,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [303.2229919433594, 271.6889953613281, 320.31201171875]
+      },
+      {
+        "strand": "2",
+        "resid": 468,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [300.7699890136719, 274.04998779296875, 340.1969909667969]
+      },
+      {
+        "strand": "2",
+        "resid": 1259,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [304.9079895019531, 266.2900085449219, 320.2330017089844]
+      },
+      {
+        "strand": "2",
+        "resid": 470,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [300.0539855957031, 267.4519958496094, 332.12200927734375]
+      },
+      {
+        "strand": "2",
+        "resid": 460,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [308.9599914550781, 260.5409851074219, 340.1510009765625]
+      },
+      {
+        "strand": "2",
+        "resid": 469,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [300.47601318359375, 272.52801513671875, 334.70599365234375]
+      },
+      {
+        "strand": "2",
+        "resid": 471,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [299.9960021972656, 263.3399963378906, 327.6520080566406]
+      },
+      {
+        "strand": "2",
+        "resid": 1322,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [322.8789978027344, 248.85800170898438, 319.614013671875]
+      },
+      {
+        "strand": "2",
+        "resid": 472,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [300.23199462890625, 259.12701416015625, 323.83599853515625]
+      },
+      {
+        "strand": "2",
+        "resid": 508,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [308.4169921875, 243.14500427246094, 320.906005859375]
+      },
+      {
+        "strand": "2",
+        "resid": 1321,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [326.0400085449219, 243.8179931640625, 319.4949951171875]
+      },
+      {
+        "strand": "2",
+        "resid": 507,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [307.4010009765625, 240.33099365234375, 316.4630126953125]
+      },
+      {
+        "strand": "2",
+        "resid": 1334,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [324.51300048828125, 250.58799743652344, 334.1449890136719]
+      },
+      {
+        "strand": "2",
+        "resid": 493,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.5010070800781, 239.91600036621094, 317.2080078125]
+      },
+      {
+        "strand": "2",
+        "resid": 492,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [320.48199462890625, 236.65699768066406, 319.5480041503906]
+      },
+      {
+        "strand": "2",
+        "resid": 481,
+        "resname": "G",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [303.572998046875, 226.88299560546875, 321.59698486328125]
+      },
+      {
+        "strand": "2",
+        "resid": 482,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [308.2820129394531, 229.96299743652344, 322.30999755859375]
+      },
+      {
+        "strand": "2",
+        "resid": 1335,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [321.0840148925781, 246.39500427246094, 335.37200927734375]
+      },
+      {
+        "strand": "2",
+        "resid": 490,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [331.0169982910156, 231.9149932861328, 318.3080139160156]
+      },
+      {
+        "strand": "2",
+        "resid": 1318,
+        "resname": "U",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [335.0159912109375, 236.2779998779297, 332.79400634765625]
+      }
+    ],
+    "5": [
+      {
+        "strand": "5",
+        "resid": 76,
+        "resname": "A",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [318.8320007324219, 315.7170104980469, 313.22900390625]
+      },
+      {
+        "strand": "5",
+        "resid": 75,
+        "resname": "C",
+        "polytype": "RNA",
+        "nom": null,
+        "isligand": false,
+        "rescoord": [316.635986328125, 320.71600341796875, 312.3190002441406]
+      }
+    ]
+  },
+  "proteins": {
+    "B": [
+      {
+        "strand": "B",
+        "resid": 150,
+        "resname": "GLN",
+        "polytype": "Protein",
+        "nom": ["uL3"],
+        "isligand": false,
+        "rescoord": [320.3479919433594, 295.1820068359375, 292.8089904785156]
+      },
+      {
+        "strand": "B",
+        "resid": 149,
+        "resname": "ASN",
+        "polytype": "Protein",
+        "nom": ["uL3"],
+        "isligand": false,
+        "rescoord": [323.8139953613281, 296.1289978027344, 294.12799072265625]
+      }
+    ],
+    "C": [
+      {
+        "strand": "C",
+        "resid": 61,
+        "resname": "ARG",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [307.27899169921875, 285.1860046386719, 326.0220031738281]
+      },
+      {
+        "strand": "C",
+        "resid": 64,
+        "resname": "GLY",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [311.8659973144531, 286.86700439453125, 320.23199462890625]
+      },
+      {
+        "strand": "C",
+        "resid": 63,
+        "resname": "LYS",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [308.4460144042969, 288.22100830078125, 321.12799072265625]
+      },
+      {
+        "strand": "C",
+        "resid": 65,
+        "resname": "THR",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [310.9580078125, 283.1860046386719, 320.5530090332031]
+      },
+      {
+        "strand": "C",
+        "resid": 66,
+        "resname": "GLY",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [309.9100036621094, 282.9110107421875, 316.9049987792969]
+      },
+      {
+        "strand": "C",
+        "resid": 60,
+        "resname": "TRP",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [306.6919860839844, 281.48199462890625, 326.6289978027344]
+      },
+      {
+        "strand": "C",
+        "resid": 67,
+        "resname": "ARG",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [306.7749938964844, 280.9620056152344, 317.8590087890625]
+      },
+      {
+        "strand": "C",
+        "resid": 59,
+        "resname": "PRO",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [304.04998779296875, 279.0769958496094, 327.968994140625]
+      },
+      {
+        "strand": "C",
+        "resid": 57,
+        "resname": "LYS",
+        "polytype": "Protein",
+        "nom": ["uL4"],
+        "isligand": false,
+        "rescoord": [301.10101318359375, 281.2720031738281, 332.97900390625]
+      }
+    ],
+    "Q": [
+      {
+        "strand": "Q",
+        "resid": 90,
+        "resname": "LYS",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [323.90899658203125, 278.73699951171875, 323.3160095214844]
+      },
+      {
+        "strand": "Q",
+        "resid": 92,
+        "resname": "ARG",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [319.9930114746094, 274.5570068359375, 322.9010009765625]
+      },
+      {
+        "strand": "Q",
+        "resid": 91,
+        "resname": "GLY",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [322.2669982910156, 276.1099853515625, 325.5329895019531]
+      },
+      {
+        "strand": "Q",
+        "resid": 89,
+        "resname": "ALA",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [326.00799560546875, 276.031005859375, 321.6099853515625]
+      },
+      {
+        "strand": "Q",
+        "resid": 93,
+        "resname": "ALA",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [319.3219909667969, 270.9599914550781, 321.8940124511719]
+      },
+      {
+        "strand": "Q",
+        "resid": 85,
+        "resname": "ILE",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [319.2569885253906, 264.5360107421875, 322.02301025390625]
+      },
+      {
+        "strand": "Q",
+        "resid": 95,
+        "resname": "ARG",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [317.5639953613281, 265.7539978027344, 317.5419921875]
+      },
+      {
+        "strand": "Q",
+        "resid": 83,
+        "resname": "LYS",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [315.96600341796875, 259.6369934082031, 318.32000732421875]
+      },
+      {
+        "strand": "Q",
+        "resid": 84,
+        "resname": "ARG",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [318.7200012207031, 261.0929870605469, 320.5]
+      },
+      {
+        "strand": "Q",
+        "resid": 82,
+        "resname": "MET",
+        "polytype": "Protein",
+        "nom": ["uL22"],
+        "isligand": false,
+        "rescoord": [315.6969909667969, 256.114013671875, 316.9289855957031]
+      }
+    ],
+    "R": [
+      {
+        "strand": "R",
+        "resid": 69,
+        "resname": "ARG",
+        "polytype": "Protein",
+        "nom": ["uL23"],
+        "isligand": false,
+        "rescoord": [315.7900085449219, 246.2779998779297, 338.7200012207031]
+      },
+      {
+        "strand": "R",
+        "resid": 72,
+        "resname": "GLN",
+        "polytype": "Protein",
+        "nom": ["uL23"],
+        "isligand": false,
+        "rescoord": [311.3340148925781, 246.656005859375, 334.4739990234375]
+      },
+      {
+        "strand": "R",
+        "resid": 71,
+        "resname": "GLY",
+        "polytype": "Protein",
+        "nom": ["uL23"],
+        "isligand": false,
+        "rescoord": [312.510009765625, 243.11900329589844, 335.197998046875]
+      }
+    ],
+    "S": [
+      {
+        "strand": "S",
+        "resid": 46,
+        "resname": "LYS",
+        "polytype": "Protein",
+        "nom": ["uL24", "eS4"],
+        "isligand": false,
+        "rescoord": [312.2850036621094, 224.03199768066406, 325.5270080566406]
+      },
+      {
+        "strand": "S",
+        "resid": 47,
+        "resname": "PRO",
+        "polytype": "Protein",
+        "nom": ["uL24", "eS4"],
+        "isligand": false,
+        "rescoord": [315.1080017089844, 221.82000732421875, 326.885009765625]
+      }
+    ]
+  },
+  "ligands": [
+    {
+      "strand": "2",
+      "resid": 3023,
+      "resname": "MG",
+      "polytype": "Other",
+      "nom": null,
+      "isligand": true,
+      "rescoord": [325.3970031738281, 303.46099853515625, 299.1319885253906]
+    }
+  ],
+  "nomMap": {
+    "B": ["uL3"],
+    "C": ["uL4"],
+    "Q": ["uL22"],
+    "R": ["uL23"],
+    "S": ["uL24", "eS4"]
+  }
+}

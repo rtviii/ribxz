@@ -2,7 +2,6 @@
 
 import os,sys,numpy,json
 from dotenv import load_dotenv
-import matplotlib.pyplot  as plt
 
 def root_self(rootname:str='')->str:
     """Returns the rootpath for the project if it's unique in the current folder tree."""
@@ -19,11 +18,40 @@ from ciftools.RibosomExitTunnels.TunnelLog import ( TunnelRecord, TunnelWalls, L
 
 LOG = Log(os.getenv('TUNNEL_LOG'))
 
-struct = LOG._struct('5j7l')
-struct.render_walls()
+
+pdibd = sys.argv[1]
+struct = LOG._struct(pdbid=pdibd)
+struct.render_walls(10)
 struct.tunnel_walls.generateReport(write_to_path='.')
 
-struct = LOG._struct('5j88')
-struct.render_walls()
-struct.tunnel_walls.generateReport(write_to_path='.')
+# struct = LOG._struct('5j88')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
 
+# struct = LOG._struct('5u9f')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
+
+# struct = LOG._struct('5dfe')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
+
+# struct = LOG._struct('5gag')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
+
+# struct = LOG._struct('6o9j')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
+
+# struct = LOG._struct('6s0k')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
+
+# struct = LOG._struct('6ouo')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
+
+# struct = LOG._struct('6vwn')
+# struct.render_walls(10)
+# struct.tunnel_walls.generateReport(write_to_path='.')
