@@ -4,9 +4,10 @@ from dotenv import load_dotenv
 
 species      = '562'
 
+
 def tview(pdbid:str):
 
-    load_dotenv(dotenv_path="/home/rxz/dev/ribxz/.env")
+    load_dotenv(dotenv_path="/home/rtviii/dev/ribxz/.env")
 
     pdbid        = pdbid.upper()
 
