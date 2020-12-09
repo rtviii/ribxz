@@ -26,10 +26,31 @@ from Bio.PDB.Structure import Structure
 from ciftools.structure import fetchStructure
 from ciftools.neoget import _neoget
 
-
 AAs          = ["ALA",'ARG','ASN','ASP','CYS','GLN','GLU','GLY','HIS','ILE','LEU','LYS','MET','PHE','PRO','SER','THR','TRP','TYR','VAL','SEC','PYL']
 Nucleotides  = ['A', 'U', 'G', 'C', 'T']
-
+AMINO_ACIDS ={
+"ALA"  :  0,
+'ARG'  :  1,
+'ASN'  :  0,
+'ASP'  :  -1,
+'CYS'  :  0,
+'GLN'  :  0,
+'GLU'  :  -1,
+'GLY'  :  0,
+'HIS'  :  0,
+'ILE'  :  0,
+'LEU'  :  0,
+'LYS'  :  1,
+'MET'  :  0,
+'PHE'  :  0,
+'PRO'  :  0,
+'SER'  :  0,
+'THR'  :  0,
+'TRP'  :  0,
+'TYR'  :  0,
+'VAL'  :  0,
+'SEC'  :  0,
+'PYL'  :  0}
 
 def get_CA_or(res:Residue)->Atom:
 
@@ -218,11 +239,13 @@ class TunnelWalls:
             parentStrand: str          = parent.get_id()
             resid        : int         = res.get_id()[1]
             resname      : str         = res.get_resname()
-            rescoord                   = numpy.around(get_CA_or(res).get_coord(),decimals=1).tolist() 
+            rescoord                   = numpy.around(get_CA_or(res).get_coord().tolist(),decimals=1)
             
 
             nom   = nomMap[parentStrand] if polytype == "Protein" else None 
             islig = False if resname.upper() in [*Nucleotides, *AAs] else True
+            print("Added residue ", resname)
+
             return {
                 "strand"  : parentStrand,
                 "resid"   : resid,
@@ -236,6 +259,7 @@ class TunnelWalls:
         protwall  =  {}
         rnawall   =  {}
         presentLigands = [getResInfo(l,nomMap=self.nomenclatureMap, polytype="Other") for l in self.ligands]
+
         for tpl in self.getProteinResidues().items():
             protwall[ tpl[0] ] = [getResInfo(x,nomMap=self.nomenclatureMap, polytype="Protein") for x in tpl[1]]
 
@@ -249,10 +273,15 @@ class TunnelWalls:
             "proteins"   : protwall,
             "ligands"    : presentLigands,
             "nomMap"     : self.nomenclatureMap}
-        if write_to_path != "":
-            with open(write_to_path, "w") as outfile:
-                json.dump(report, write_to_path)
 
+        if write_to_path != "":
+
+            FILENAME  =  "{}_TUNNEL_REPORT.json".format(self.pdbid)
+            OUTPATH   =  os.path.join(write_to_path,FILENAME)
+
+            with open(OUTPATH, "w") as outfile:
+                json.dump(report, outfile)
+                print("Has written to path {}".format(OUTPATH))
         return report
 
 class Log:
@@ -291,16 +320,15 @@ class Log:
 
 
 # PDBID=sys.argv[1].upper()
-
-LOG = Log(os.getenv('TUNNEL_LOG'))
-"""You have to render walls on a given records first before you generated the report or do anything else."""
-x = LOG._struct('6gxn')
-x.plot_all()
-
+# PDBID='3JCD'
+# LOG = Log(os.getenv('TUNNEL_LOG'))
+# """You have to render walls on a given records first before you generated the report or do anything else."""
+# record_3jcd = LOG._struct(PDBID)
+# # x.plot_all()
+# # 
 # record_3jcd.render_walls(10)
-# PDBID              = '3JCD'
-# STRUCT_REPORT_PATH = os.path.join(os.getenv('STATIC_ROOT'),PDBID,'TUNNEL', f'{PDBID}_TUNNEL_REPORT.json')
-# x = record_3jcd.tunnel_walls.generateReport(write_to_path=STRUCT_REPORT_PATH)
+# # STRUCT_REPORT_PATH = os.path.join(os.getenv('STATIC_ROOT'),PDBID,'TUNNEL', f'{PDBID}_TUNNEL_REPORT.json')
+# x = record_3jcd.tunnel_walls.generateReport(write_to_path='.')
 
 
 
