@@ -1,21 +1,20 @@
-from logging import StringTemplateStyle
 import os, sys,json,re
 from dotenv import load_dotenv
 from pymol import cmd
 
 
-species='562'
+#species='83333'
+# species='562'
 
 
-
-# Pymol select should be a no-trace decorator. So sick of typing these cunts out
-
-def tview(pdbid:str):
+# Pymol's cmd-select should be a no-trace decorator. So sick of typing these cunts out
+def tview(pdbid:str, species:str ):
 
 
     # globlog      = Log(os.getenv('TUNNEL_LOG'))
     # struct       = globlog._struct(pdbid)
 
+    cmd.delete('all')
 
     load_dotenv(dotenv_path='/home/rxz/dev/ribxz/.env')
     pdbid        = pdbid.upper()
@@ -96,10 +95,10 @@ def paint_tunnel(pdbid:str):
     def paint_protein_chain(strand:str, banName:str):
 
         colormap ={
-            'uL22': "cyan",
-            'uL4' : 'green',
-            'uL3' : "blue",
-            'uL23': "orange"
+            'uL22': "gray70",
+            'uL4' : 'gray70',
+            'uL3' : "gray70",
+            'uL23': "gray70"
         }
 
         if banName in colormap.keys():
@@ -111,7 +110,7 @@ def paint_tunnel(pdbid:str):
                    "c. {}".format(strand))
         cmd.create("{}__strand-{}".format(banName,strand), "_sele_chain_{}".format(strand),)
 
-        cmd.color('orange', "{}__strand-{}".format(banName,strand))
+        cmd.color('gray70', "{}__strand-{}".format(banName,strand))
         cmd.hide('everything',"{}__strand-{}".format(banName,strand))
         cmd.show('sticks',"{}__strand-{}".format(banName,strand))
 
@@ -177,7 +176,7 @@ def paint_tunnel(pdbid:str):
     cmd.hide('everything','rna_lining')
     cmd.show('surface','rna_lining')
     cmd.color('green', 'rna_lining')
-    cmd.set('transparency','0.5', 'rna_lining')
+    cmd.set('transparency','0.8', 'rna_lining')
     cmd.delete('sele')
     cmd.deselect()
     cmd.reset()
