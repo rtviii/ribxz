@@ -1,15 +1,26 @@
 import os, sys,json,re
 from dotenv import load_dotenv
+
+def root_self(rootname:str='')->str:
+    """Returns the rootpath for the project if it's unique in the current folder tree."""
+    ROOT=os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
+    sys.path.append(ROOT)
+    load_dotenv(os.path.join(ROOT,'.env'))
+
+root_self('ribxz')
+
+from ciftools.scripts.TunnelLog import Log, TunnelRecord,TunnelWalls
 from pymol import cmd
 
 
-#species='83333'
-# species='562'
 
+
+
+def loadmyshitplease():
+    [ print(x) for x in sys.path ]
 
 # Pymol's cmd-select should be a no-trace decorator. So sick of typing these cunts out
 def tview(pdbid:str, species:str ):
-
 
     # globlog      = Log(os.getenv('TUNNEL_LOG'))
     # struct       = globlog._struct(pdbid)
@@ -185,4 +196,5 @@ def paint_tunnel(pdbid:str):
 
 cmd.extend("tview", tview)
 cmd.extend("twrite", twrite)
+cmd.extend("lms", loadmyshitplease)
 cmd.extend("tunnel", paint_tunnel)

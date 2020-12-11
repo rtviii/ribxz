@@ -38,8 +38,6 @@ def fetchChain(pdbid:str, strandid: str, custom_path='default')->Chain:
     chain:Chain = struct[0][strandid]
     return chain
 
-
-
 def splitIntoChains(pdbid:str):
     pdbid = pdbid.upper()
     if len(pdbid) < 2:

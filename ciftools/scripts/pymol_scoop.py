@@ -12,10 +12,9 @@ def root(abspath:str, rootname:str)->str:
 
 
 def scoop(pdbid:str, species:int, radius:int):
+
     envfile= os.path.join(root(os.path.abspath(__file__),'ribxz'), '.env')
-
     load_dotenv(dotenv_path=envfile)
-
     STATIC_ROOT  = os.getenv('STATIC_ROOT')
     TUNNELS      = os.getenv('TUNNELS')
     # SCOOP_RADIUS = os.getenv('SCOOP_RADIUS')

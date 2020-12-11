@@ -39,6 +39,8 @@ def get_CA_or(res:Residue)->Atom:
 
 
 
+
+
 class TunnelRecord:
 
     def __init__(self,
@@ -116,19 +118,22 @@ class TunnelRecord:
             return self.mole_dataframes[0][["Radius","X","Y","Z"]]
 
     def plot_all(self)->None:
-        df          = self.get_total_df()
-        xs          = df['X'].tolist()
-        ys          = df['Y'].tolist()
-        zs          = df['Z'].tolist()
 
+        df          = self.get_total_df()
+
+        xs  = df['X'].tolist()
+        ys  = df['Y'].tolist()
+        zs  = df['Z'].tolist()
 
         fig = plt.figure()
+
         ax  = plt.axes(projection='3d')
         ax.scatter3D(xs,ys,zs)
         ax.set_title(self.pdbid + ":" + ",".join(self.csv_choices))
         plt.show()
 
 class TunnelWalls:
+
     def __init__(self, pdbid:str, structure: Structure) -> None:  
         self.structure  =  structure
         self.pdbid      =  pdbid.upper()
@@ -280,6 +285,7 @@ class TunnelWalls:
         return report
 
 class Log:
+
     """
     Log file itself is the interface to the csv files produced by MOLE.
     """
@@ -298,7 +304,7 @@ class Log:
     def _all_structs(self):
         yield self.log['pdbid'].tolist()
         
-    def _struct(self,pdbid:str)->TunnelRecord:
+    def get_record(self,pdbid:str)->TunnelRecord:
         pdbid  =  pdbid.upper()
         row    =  self.log.loc[self.log['PDBID'] ==pdbid]
 

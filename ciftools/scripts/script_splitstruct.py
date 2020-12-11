@@ -5,8 +5,6 @@ from splitStruct import splitIntoChains
 load_dotenv(dotenv_path='./../.env')
 STATIC_ROOT=os.getenv('STATIC_ROOT' )
 
-
-
 structs = os.listdir(STATIC_ROOT)
 
 for struct in structs:

@@ -5,7 +5,6 @@ import os, sys
 from urllib.request import urlretrieve
 
 def fetchStructure(pdbid:str, custom_path='default') -> Structure:
-    
     """
     Returns an open PDB.Bio.Structure.Structure object corresponding to <pdbid> from the default repository(specified in the .env)  
     or if custom_path is provided -- from there.
