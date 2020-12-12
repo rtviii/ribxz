@@ -17,7 +17,7 @@ def makeparser():
 
     #Pdbid
     parser.add_argument('-pdbid', '--pdb_id', dest='PDBID')
-    parser.add_argument('-taxid', '--taxid', dest='taxid')
+    # parser.add_argument('-taxid', '--taxid', dest='taxid')
 
     # Paths
     parser.add_argument('-output', '--output_path', dest='Output',  help='output folder for mole')

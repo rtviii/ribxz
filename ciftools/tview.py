@@ -1,39 +1,31 @@
 import os, sys,json,re
 from dotenv import load_dotenv
 
-def root_self(rootname:str='')->str:
-    """Returns the rootpath for the project if it's unique in the current folder tree."""
-    ROOT=os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
-    sys.path.append(ROOT)
-    load_dotenv(os.path.join(ROOT,'.env'))
 
-root_self('ribxz')
+ROOT='/home/rxz/dev/ribxz'
+sys.path.append(ROOT)
 
-from ciftools.scripts.TunnelLog import Log, TunnelRecord,TunnelWalls
+load_dotenv(os.path.join(ROOT,'.env'))
+from ciftools.TunnelLog import ( Log, TunnelRecord,TunnelWalls )
 from pymol import cmd
 
 
 
+log=Log(os.getenv('TUNNEL_LOG'))
 
-
-def loadmyshitplease():
-    [ print(x) for x in sys.path ]
 
 # Pymol's cmd-select should be a no-trace decorator. So sick of typing these cunts out
-def tview(pdbid:str, species:str ):
+def tview(pdbid:str):
 
-    # globlog      = Log(os.getenv('TUNNEL_LOG'))
-    # struct       = globlog._struct(pdbid)
-
+    species= str( log.get_record(pdbid).taxid )
     cmd.delete('all')
 
-    load_dotenv(dotenv_path='/home/rxz/dev/ribxz/.env')
-    pdbid        = pdbid.upper()
+    pdbid           = pdbid.upper()
 
-    TUNNELS      = os.getenv("TUNNELS")
-    SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
-
+    TUNNELS         = os.getenv("TUNNELS")
+    SCOOP_RADIUS    = os.getenv("SCOOP_RADIUS")
     TUNNEL_SCRIPT   = os.path.join(TUNNELS,species, pdbid, 'pymol', 'complex.py')
+
     inputstructpath = os.path.join(TUNNELS,species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid,SCOOP_RADIUS))
     csvpaths        = os.path.join(TUNNELS,species,pdbid,'csv',)
 
@@ -44,7 +36,6 @@ def tview(pdbid:str, species:str ):
 
     if not os.path.exists(TUNNEL_SCRIPT):
         print("TUNNEL SCRIPT NOT FOUND.")
-        twrite(pdbid, "0")
         return
 
     cmd.run(TUNNEL_SCRIPT)
@@ -52,14 +43,11 @@ def tview(pdbid:str, species:str ):
     cmd.hide('everything', 'Tunnels')
     cmd.show('mesh', 'Tunnels')
 
-    with open(os.path.join(TUNNELS,species,pdbid,'tunnels-results.txt')) as choices:
-        choices= choices.read().split(',')
+    # tunnels    = os.listdir(csvpaths)
+    # tunnumbers = map(lambda x: re.findall(r'\d+',x)[0], tunnels)
+    # [cmd.delete(f'Tunnel{tunN}') if tunN not in choices else None for tunN in tunnumbers]
 
-    tunnels    = os.listdir(csvpaths)
-    tunnumbers = map(lambda x: re.findall(r'\d+',x)[0], tunnels)
-    [cmd.delete(f'Tunnel{tunN}') if tunN not in choices else None for tunN in tunnumbers]
-
-    paint_tunnel(pdbid)
+    # paint_tunnel(pdbid)
 
     cmd.select('PTC', 'resi 2055 or resi 2056 or resi 2451 or resi 2452 or resi 2507 or resi 2506')
     cmd.create('PTC',"PTC")

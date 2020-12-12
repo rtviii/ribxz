@@ -22,8 +22,8 @@ from Bio.PDB.Residue import Residue
 from Bio.PDB.Atom import Atom
 from Bio.PDB.Chain import Chain
 from Bio.PDB.Structure import Structure
-from ciftools.structure import fetchStructure
-from ciftools.neoget import _neoget
+from ciftools.Structure import fetchStructure
+from ciftools.Neoget import _neoget
 
 Nucleotides  = ['A', 'U', 'G', 'C', 'T']
 # AAs by assumed charge
@@ -298,24 +298,40 @@ class Log:
         An assumption is made that the TUNNELS_LOG.csv resides in the 
         top-level directory which contains all the other tunnel files.
         """
-        self.log:pd.DataFrame   = pd.read_csv(path)
+        self.log :pd.DataFrame   = pd.read_csv(path)
+        self.path = path
         self.__tunnels_path     = os.path.dirname(path)
 
     def _all_structs(self):
-        yield self.log['pdbid'].tolist()
+        return self.log['pdbid'].tolist()
         
     def get_record(self,pdbid:str)->TunnelRecord:
-        pdbid  =  pdbid.upper()
-        row    =  self.log.loc[self.log['PDBID'] ==pdbid]
+        pdbid       = pdbid.upper()
+        row         = self.log.loc[self.log['pdbid'] ==pdbid]
 
-        taxid = row['TaxId'].values[0]
-        molechoices = row['MoleStatus'].values[0].split(',')
+        taxid       = row['taxid'].values[0]
+        molechoices = row['moletunnel']
 
         return TunnelRecord(
             os.path.join(self.__tunnels_path,str(taxid),pdbid),
             pdbid,
             taxid,
-            molechoices)
+            [])
 
+    def update_log(self, pdbid:str, taxid:int)->None:
+        pdbid = pdbid.upper()
+        ids   = self.log['pdbid']
+        row   = self.log.loc[self.log['pdbid'] ==pdbid]
+
+        if row.empty: 
+            newrecord = pd.DataFrame({"pdbid": [ pdbid ],"taxid": [ taxid ]})
+            self.log  = self.log.append(newrecord, ignore_index=True)
+
+        else:
+            self.log.update({
+                "pdbid":[pdbid],
+                "taxid":[taxid]
+            })
+        self.log.to_csv(self.path, index=False)
 
 

@@ -18,6 +18,10 @@ def root(abspath:str, rootname:str)->str:
     return abspath[:str.find(abspath,rootname) + len(rootname)]
 
 if __name__ == "__main__":
+    from ciftools.TunnelLog import Log
+
+
+
 
     """
     So here is how this works:
@@ -30,9 +34,8 @@ if __name__ == "__main__":
     """
     # load cli options
     moleparser = makeparser()
-    envfile    = os.path.join(root(os.path.abspath(__file__),'ribxz'), '.env')
 
-    load_dotenv(dotenv_path=envfile)
+    load_dotenv(dotenv_path='/home/rxz/dev/ribxz/.env')
 
     MOLE_EXE     = os.getenv('MOLE_EXECUTABLE')
     TUNNELS      = os.getenv("TUNNELS")
@@ -44,7 +47,12 @@ if __name__ == "__main__":
     args        =  dict(args)
 
     pdbid   = args['PDBID'].upper()
-    species = args['taxid']
+    load_dotenv('/home/rxz/dev/ribxz/.env')
+
+    log     = Log(os.getenv("TUNNEL_LOG"))
+    species = str( log.get_record(pdbid).taxid )
+
+    # species = args['taxid']
     
     inputconfigpath = os.path.join(TUNNELS, species, pdbid, '{}_moleinput.xml'.format(pdbid) )
     inputstructpath = os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
@@ -70,16 +78,8 @@ if __name__ == "__main__":
     args['SurfaceCoverRadius'] = "10"
     args['OriginRadius']       = "5"
 
-    args['exports'] = "t"
+    args['exports']            = "t"
 
     #Sensisble inputs 
     asyncio.run(make_input_config(args))
-    possible = [os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, x)) for x in ['80','60','70']]
-
-    for scoop in possible:
-        args['Input']         =  scoop
-        try:
-            os.system("mono {} {}".format(MOLE_EXE, inputconfigpath))
-            break
-        except:
-            continue
+    os.system("mono {} {}".format(MOLE_EXE, inputconfigpath))
