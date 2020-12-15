@@ -5,6 +5,7 @@ from Bio.PDB.Atom import Atom
 from Bio.PDB.Residue import Residue
 from dotenv import load_dotenv
 import numpy as np
+from numpy.core.defchararray import center
 
 from scipy.spatial.kdtree import KDTree
 def root_self(rootname:str='')->str:
@@ -42,9 +43,7 @@ def getConstrictedProteins(pdbid:str)->List[str]:
     where "uL4" in rp.nomenclature or "uL22" in rp.nomenclature
     return rp.entity_poly_strand_id,rp.nomenclature, n.rcsb_id
     """.format_map({"pdbid":pdbid.upper()})
-
     response=_neoget(cypher)
-
     return [*map(lambda x: ( x['rp.nomenclature'][0],x['rp.entity_poly_strand_id'] ), response)]
 
 
@@ -67,14 +66,15 @@ def written_L22_L4_to_log():
 
     log._write()
 
-
-
 def calc_constriction_site(pdbid:str):
     """Here the assumption is that the constriction site is unique and so is then the KDTree min then."""
-    pdbid    = pdbid.upper()
+    pdbid= pdbid.upper()
 
-    chainL22:str = log.get_struct(pdbid)['uL22'].values[0]
-    chainL4 :str = log.get_struct(pdbid)['uL4'].values[0]
+    chainL22:str                    = log.get_struct(pdbid)['uL22'].values[0]
+    chainL4  :str                   = log.get_struct(pdbid)['uL4'].values[0]
+
+    if ',' in chainL22:chainL22 = chainL22.split(',')[0]
+    if ',' in chainL4:chainL4   = chainL4.split(',')[0]
 
     struct = fetchStructure(pdbid)[0]
 
@@ -135,6 +135,32 @@ def calc_constriction_site(pdbid:str):
     }
 
 
+log.add_column('constrictionResidueL4_id')
+log.add_column('constrictionResidueL22_id')
 
-calc_constriction_site('5wfs')
+log.add_column('constrictionResidueL22_resname')
+log.add_column('constrictionResidueL4_resname')
 
+log.add_column('constriction_coord')
+
+
+
+
+for struct in log.all_structs():
+
+    resp  = calc_constriction_site(struct)
+    res22 = resp['uL22']
+    res4  = resp['uL4']
+    centerline   = resp['centerline']
+    try:
+        log.update_struct(struct, 
+        constrictionResidueL4_id       = res4.get_id()[1],
+        constrictionResidueL22_id      = res22.get_id()[1],
+        constrictionResidueL4_resname  = res4.get_resname(),
+        constrictionResidueL22_resname = res22.get_resname(),
+        constriction_coord             = str( centerline ))
+    except:
+        pass
+    log._write()
+
+# constriction_coord             = ",".join(stlist( centerline )))
