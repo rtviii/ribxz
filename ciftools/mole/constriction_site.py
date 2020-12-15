@@ -1,9 +1,12 @@
-from operator import index
+from itertools import chain
 import os,sys
-import numpy as np
-from typing import List
+from Bio.PDB.Chain import Chain
+from Bio.PDB.Atom import Atom
+from Bio.PDB.Residue import Residue
 from dotenv import load_dotenv
+import numpy as np
 
+from scipy.spatial.kdtree import KDTree
 def root_self(rootname:str='')->str:
     """Returns the rootpath for the project if it's unique in the current folder tree."""
     ROOT=os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
@@ -12,6 +15,9 @@ def root_self(rootname:str='')->str:
 
 if __name__=="__main__":
     root_self('ribxz')
+
+from ciftools.Structure import fetchStructure
+from typing import List
 
 from ciftools.TunnelLog import (Log)
 from ciftools.Neoget import _neoget
@@ -43,37 +49,92 @@ def getConstrictedProteins(pdbid:str)->List[str]:
 
 
 
-log.add_column('uL22')
-log.add_column('uL4')
+# Script
+def written_L22_L4_to_log():
+    for struct in log.all_structs():
+        noms:List= getConstrictedProteins(struct)
+        uL22 = None
+        uL4  = None
+        for nom in noms:
+            if nom[0]=="uL22":
+                uL22=nom[1]
+            if nom[0]=="uL4":
+                uL4=nom[1]
 
-for struct in log.all_structs():
-    log.update_struct(struct,uL22="AAA",uL4="BBB")
+        log.update_struct(struct, uL22=uL22,uL4=uL4 )
+        print(log.get_struct(struct))
 
 
-log._write()
-
-
-
-#To select rows whose column value equals a scalar, some_value, use ==:
-# df.loc[df['favorite_color'] == 'yellow']
-
-
-
-
-# log.add_column('uL22')
-# log.add_column('uL4')
-# log.add_column('ConstrictionSite')
+    log._write()
 
 
 
+def calc_constriction_site(pdbid:str):
+    """Here the assumption is that the constriction site is unique and so is then the KDTree min then."""
+    pdbid    = pdbid.upper()
+
+    chainL22:str = log.get_struct(pdbid)['uL22'].values[0]
+    chainL4 :str = log.get_struct(pdbid)['uL4'].values[0]
+
+    struct = fetchStructure(pdbid)[0]
+
+    L4 :Chain = struct[chainL4]
+    L22:Chain = struct[chainL22]
+
+
+    l4res       = [ *L4.get_atoms() ]
+    l22res      = [ *L22.get_atoms() ]
+
+    kdtreeonl4  = KDTree([*  map(lambda x : x.get_coord(), l4res)  ])
+    kdtreeonl22 = KDTree([*  map(lambda x : x.get_coord(), l22res)  ])
+
+    nbridin22: Atom = None
+    nbridin4 : Atom = None
+    atom     : Atom
+
+    distances_indexes =kdtreeonl4.query([* map(lambda x: x.get_coord(),l22res) ])
+    dist = 99999999
+    for x in zip( [* distances_indexes[0] ],[* distances_indexes[1] ] ):
+        if x[0] < dist:
+            dist     = x[0]
+            nbridin4 = x[1]
+
+    distances_indexes =kdtreeonl22.query([* map(lambda x: x.get_coord(),l4res) ])
+    dist = 99999999
+    for x in zip( [* distances_indexes[0] ],[* distances_indexes[1] ] ):
+        if x[0] < dist:
+            dist     = x[0]
+            nbridin22 = x[1]
+
+
+    l4atomcord  = l4res[nbridin4].get_coord()
+    l22atomcord = l22res[nbridin22].get_coord()
+    
+    centerline=np.mean([ l4atomcord,l22atomcord ], axis=0)
+    residueInL4:Residue  = l4res[nbridin4].get_parent()
+    residueInL22:Residue = l22res[nbridin22].get_parent()
+    
+
+    print("""{} {} in chain {}({}) is closest to {} {} in chain{}({}).\n Centerline:{}"""
+    .format(
+     residueInL22.get_resname(),
+     residueInL22.get_id()[1],
+     chainL22,
+     'uL22',
+     residueInL4.get_resname(),
+     residueInL4.get_id()[1],
+     chainL4,
+     'uL4',
+     centerline))
+
+    
+    return {
+        "uL22"      : residueInL22,
+        "uL4"       : residueInL4,
+        "centerline": centerline
+    }
 
 
 
-# print(getConstrictedProteins('5uyl'))
-
-
-
-
-
-
+calc_constriction_site('5wfs')
 

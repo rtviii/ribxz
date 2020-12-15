@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
 import os,sys,numpy,json,math
+from neo4j import Neo4jDriver
 from dotenv import load_dotenv
-from numpy.core.fromnumeric import around
+import numpy as np
 
 def root_self(rootname:str='')->str:
     """Returns the rootpath for the project if it's unique in the current folder tree."""
@@ -290,6 +291,7 @@ class Log:
     Log file itself is the interface to the csv files produced by MOLE.
     """
     def __init__(self, path:str)->None  :
+
         """Logging utility for keeping track of the ribosomal tunnels,
         cosuming and concatenating MOLE csv outputs,
         miscellaneous comments. \
@@ -302,9 +304,15 @@ class Log:
         self.path = path
         self.__tunnels_path     = os.path.dirname(path)
 
-    def _all_structs(self):
+    def _write(self)->None:
+        self.log.to_csv(self.path,index=False)
+        print("Has written successfully to {}".format(self.path))
+
+    def all_structs(self):
         return self.log['pdbid'].tolist()
         
+
+
     def get_record(self,pdbid:str)->TunnelRecord:
         pdbid       = pdbid.upper()
         row         = self.log.loc[self.log['pdbid'] ==pdbid]
@@ -318,20 +326,46 @@ class Log:
             taxid,
             [])
 
-    def update_log(self, pdbid:str, taxid:int)->None:
+
+    def drop_column(self,colname)->None:
+        self.log = self.log.drop([colname], axis=1)
+
+    def add_column(self,colname:str)->None:
+
+        if colname in self.log.columns.values:
+            print("Column {} exists already".format(colname))
+            return
+
+        dflen = len(self.log['pdbid'])
+        x     = np.zeros(dflen)
+        self.log[colname]=x
+        self._write()
+        
+
+    def update_struct(self, pdbid:str,**kwargs)->None:
         pdbid = pdbid.upper()
-        ids   = self.log['pdbid']
         row   = self.log.loc[self.log['pdbid'] ==pdbid]
 
         if row.empty: 
-            newrecord = pd.DataFrame({"pdbid": [ pdbid ],"taxid": [ taxid ]})
+            newrecord = pd.DataFrame({"pdbid": [ pdbid ],"uL22": [ "AAA" ]})
             self.log  = self.log.append(newrecord, ignore_index=True)
 
         else:
-            self.log.update({
-                "pdbid":[pdbid],
-                "taxid":[taxid]
-            })
-        self.log.to_csv(self.path, index=False)
+            for kvp in kwargs.items():
+                row[kvp[0]]=kvp[1]
+            self.log.loc[self.log['pdbid'] ==pdbid] = row
+
+
+        # self.log.to_csv(self.path, index=False)
+
+    def get_struct(self, pdbid:str)->pd.DataFrame:
+        pdbid = pdbid.upper()
+        row   = self.log.loc[self.log['pdbid'] ==pdbid]
+
+        if row.empty: 
+            return pd.DataFrame()
+        return row
+
+    
 
 

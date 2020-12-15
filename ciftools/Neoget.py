@@ -12,7 +12,7 @@ def _neoget(CYPHER_STRING:str)->Result:
     driver = GraphDatabase.driver(os.getenv( 'NEO4J_URI' ), auth= (os.getenv( 'NEO4J_USER' ),os.getenv( 'NEO4J_PASSWORD' )) )
     def parametrized_query(tx, **kwargs):
         result:Result = tx.run(CYPHER_STRING, **kwargs)
-        return result.value()
+        return result.data()
 
     with driver.session() as session:
         session.close()
