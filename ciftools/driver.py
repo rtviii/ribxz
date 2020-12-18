@@ -9,7 +9,7 @@ def root_self(rootname:str='')->str:
 
 if __name__=="__main__":
     root_self('ribxz')
-from ciftools.Tunnel.TunnelLog import Log
+from ciftools.TunnelLog import Log
 
 _562    = ["7K00", "5AFI", "3J9Y", "3J9Z", "3JA1", "3JCJ", "4UY8", "5GAD", "5GAE", "5GAG", "5GAH", "5JTE", "5JU8", "5L3P", "5LZA", "5LZD", "5LZE", "5MDV", "5MDW", "5MDZ", "5MGP", "5U9F", "5U9G", "5WDT", "5WE4", "5WE6", "5WF0", "5WFS", "6B4V", "6BOH", "6BOK", "6C4I", "6DNC", "6ENF", "6ENJ", "6ENU", "6GC0", "6GWT", "6GXM", "6GXN", "6GXO", "6HRM", "6I0Y", "6I7V", "6O9J", "6OGF", "6OGI", "6ORE", "6ORL", "6OSK", "6OSQ", "6OT3", "6OTR", "6OUO", "6OXA", "6OXI", "6PJ6", "6Q95", "6Q97", "6Q9A", "6S0K", "6U48", "6VU3", "6VWL", "6VWM", "6VWN", "6VYQ", "6VYR", "6VYS", "6WD0", "6WD1", "6WD2", "6WD3", "6WD4", "6WD5", "6WD7", "6WD8", "6WD9", "6WDA", "6WDD", "6WDE", "6WDK", "6WDM", "6WNT", "6WNV", "6WNW", "6X7F", "6X7K", "6XDQ", "6YSR", "6YSS", "6YST", "6YSU"]
 _83333  = ["3J7Z", "3JBU", "3JBV", "3JCD", "3JCE", "4U1U", "4U1V", "4U20", "4U24", "4U25", "4U26", "4U27", "4WF1", "4WOI", "4WWW", "4Y4O", "4YBB", "5CZP", "5DFE", "5FDU", "5FDV", "5GAG", "5H5U", "5IQR", "5IT8", "5J4D", "5J5B", "5J7L", "5J88", "5J8A", "5J91", "5JC9", "5JU8", "5KCR", "5KCS", "5KPS", "5KPW", "5KPX", "5L3P", "5MDY", "5NP6", "5NWY", "5O2R", "5U4I", "5U9F", "5U9G", "5UYK", "5UYL", "5UYM", "5UYP", "5UYQ", "5WFK", "6BU8", "6BY1", "6CFK", "6FKR", "6GBZ", "6GC8", "6OFX", "6OG7", "6SZS", "6WD6", "6WDF", "6WDG", "6WDJ", "6WDL", "6XZ7", "6XZA", "6XZB", "6Y69", "7BV8", "7JSS", "7JSW", "7JSZ", "7JT1", "7JT2", "7JT3"]
@@ -19,8 +19,6 @@ _300852 = ["1VY4", "1VY5", "1VY6", "1VY7", "4P6F", "4P70", "4TUA", "4TUB", "4TUC
 _559292 = ["3JCT", "4U3M", "4U3N", "4U3U", "4U4N", "4U4O", "4U4Q", "4U4R", "4U4U", "4U4Y", "4U4Z", "4U50", "4U51", "4U52", "4U53", "4U55", "4U56", "4U6F", "5APN", "5APO", "5DC3", "5FCI", "5FCJ", "5H4P", "5I4L", "5IT7", "5MC6", "5MEI", "5NDV", "5NDW", "5OBM", "5ON6", "5T62", "5TBW", "5Z3G", "6ELZ", "6EM1", "6EM3", "6EML", "6FAI", "6FYX", "6GQB", "6LQP", "6LQS", "6LQU", "6M62", "6N8J", "6N8K", "6N8L", "6N8M", "6N8N", "6N8O", "6RBD", "6RBE", "6Y7C", "6Z6J", "6Z6K", "6ZQB", "6ZQC", "6ZQD", "6ZQG", "7BT6", "7BTB"]
 
 species=int(sys.argv[1])
-
-
 
 log = Log(os.getenv('TUNNEL_LOG'))
 
@@ -48,6 +46,8 @@ if species== 300852:
 if species== 559292:
     for struct in _559292:
         print(struct)
+
+
 
 
 # for struct in _562:

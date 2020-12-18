@@ -343,6 +343,7 @@ class Log:
         
 
     def update_struct(self, pdbid:str,**kwargs)->None:
+
         pdbid = pdbid.upper()
         row   = self.log.loc[self.log['pdbid'] ==pdbid]
 

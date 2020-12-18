@@ -6,6 +6,7 @@ from Bio.PDB.Residue import Residue
 from dotenv import load_dotenv
 import numpy as np
 from numpy.core.defchararray import center
+from numpy.core.fromnumeric import around, round_
 
 from scipy.spatial.kdtree import KDTree
 def root_self(rootname:str='')->str:
@@ -134,33 +135,50 @@ def calc_constriction_site(pdbid:str):
         "centerline": centerline
     }
 
+def added_ptc_coordinates_residues():
+    # log.add_column('constrictionResidueL4_id')
+    # log.add_column('constrictionResidueL22_id')
 
-log.add_column('constrictionResidueL4_id')
-log.add_column('constrictionResidueL22_id')
+    # log.add_column('constrictionResidueL22_resname')
+    # log.add_column('constrictionResidueL4_resname')
 
-log.add_column('constrictionResidueL22_resname')
-log.add_column('constrictionResidueL4_resname')
-
-log.add_column('constriction_coord')
-
-
+    log.add_column('constriction_coord')
 
 
-for struct in log.all_structs():
 
-    resp  = calc_constriction_site(struct)
-    res22 = resp['uL22']
-    res4  = resp['uL4']
-    centerline   = resp['centerline']
-    try:
-        log.update_struct(struct, 
-        constrictionResidueL4_id       = res4.get_id()[1],
-        constrictionResidueL22_id      = res22.get_id()[1],
-        constrictionResidueL4_resname  = res4.get_resname(),
-        constrictionResidueL22_resname = res22.get_resname(),
-        constriction_coord             = str( centerline ))
-    except:
-        pass
-    log._write()
 
-# constriction_coord             = ",".join(stlist( centerline )))
+    for struct in log.all_structs():
+
+        resp       = calc_constriction_site(struct)
+        res22      = resp['uL22']
+        res4       = resp['uL4']
+
+        centerline = list( resp['centerline'] )
+
+        try:
+            centerline="{},{},{}".format(
+            around(centerline[0],decimals=2),
+            around(centerline[1],decimals=2),
+            around(centerline[2], decimals=2)
+            )
+
+            log.update_struct(struct, 
+            # constrictionResidueL4_id       = res4.get_id()[1],
+            # constrictionResidueL22_id      = res22.get_id()[1],
+            # constrictionResidueL4_resname  = res4.get_resname(),
+            # constrictionResidueL22_resname = res22.get_resname(),
+            constriction_coord             = str( centerline ))
+        except:
+            pass
+
+        log._write()
+
+
+
+
+
+
+
+
+
+

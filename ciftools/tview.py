@@ -1,5 +1,6 @@
 import os, sys,json,re
 from dotenv import load_dotenv
+import argparse
 
 
 ROOT='/home/rxz/dev/ribxz'
@@ -17,7 +18,14 @@ log=Log(os.getenv('TUNNEL_LOG'))
 # Pymol's cmd-select should be a no-trace decorator. So sick of typing these cunts out
 def tview(pdbid:str):
 
-    species= str( log.get_record(pdbid).taxid )
+    species  = str( int( log.get_record(pdbid).taxid ) )
+
+    l22chain = log.get_struct( pdbid ).uL22.values[0]
+    l4chain  = log.get_struct( pdbid ).uL4.values[0]
+
+    l22_res  = int( log.get_struct( pdbid ).constrictionResidueL22_id.values[0] )
+    l4_res   = int( log.get_struct( pdbid ).constrictionResidueL4_id.values[0] )
+
     cmd.delete('all')
 
     pdbid           = pdbid.upper()
@@ -28,6 +36,8 @@ def tview(pdbid:str):
 
     inputstructpath = os.path.join(TUNNELS,species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid,SCOOP_RADIUS))
     csvpaths        = os.path.join(TUNNELS,species,pdbid,'csv',)
+
+
 
 
 
@@ -49,9 +59,17 @@ def tview(pdbid:str):
 
     # paint_tunnel(pdbid)
 
+
     cmd.select('PTC', 'resi 2055 or resi 2056 or resi 2451 or resi 2452 or resi 2507 or resi 2506')
     cmd.create('PTC',"PTC")
     cmd.color('blue', 'PTC')
+
+    cmd.select('ConstrictionSite', 'c. {} and resi {} or c. {} and resi {}'
+    .format(l22chain,l22_res,l4chain,l4_res))
+
+    cmd.create('ConstrictionSite',"ConstrictionSite")
+    cmd.show('everything','ConstrictionSite')
+    cmd.color('magenta', 'ConstrictionSite')
 
     cmd.reset()
 
@@ -76,6 +94,18 @@ def twrite(pdbid, args):
     print(f"Wrote results to {CHOICE_TXT}")
     cmd.delete('all')
     print("Cleared all, pymol.")
+
+def choose_tunnel_mole(pdbid, args):
+
+
+    log.update_struct(pdbid,moletunnel=[args])
+    log._write()
+
+    print("Wrote to {}".format(pdbid))
+
+
+    
+
 
 
 def paint_tunnel(pdbid:str):
@@ -183,6 +213,5 @@ def paint_tunnel(pdbid:str):
 
 
 cmd.extend("tview", tview)
-cmd.extend("twrite", twrite)
-cmd.extend("lms", loadmyshitplease)
+cmd.extend("twrite", choose_tunnel_mole)
 cmd.extend("tunnel", paint_tunnel)

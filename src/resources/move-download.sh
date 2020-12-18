@@ -12,8 +12,6 @@ do
 	pdbid=$(basename $file)
 	pdbid=${pdbid::4}
 	pdbid=${pdbid^^}
-	echo $pdbid
-	echo $staticfiles$pdbid
 
 	if [ ! -d $staticfiles$pdbid ]; then
 		echo "$staticfiles$pdbid does not exist. Creating.."

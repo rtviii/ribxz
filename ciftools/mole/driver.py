@@ -1,14 +1,23 @@
 #!/usr/bin/env python
 
 import asyncio
-
 import pymol
-import json,os,xml,numpy,sys
+import json,os,xml,numpy,sys,re
 sys.path.append(os.path.dirname( os.path.dirname( os.path.dirname(os.path.realpath(__file__)) ) ))
 from ciftools.mole.cli_parser import makeparser
 from ciftools.mole.makeconfig import make_input_config
 from dotenv import load_dotenv
 
+
+# #original
+# args['Points']             = pts
+# args['ProbeRadius']        = "10"
+# args['InteriorThreshold']  = "0.8"
+# args['BottleneckRadius']   = "1"
+# args['SurfaceCoverRadius'] = "10"
+# args['OriginRadius']       = "5"
+# args['CustomExits']        = exits
+# args['exports']            = "t"
 
 
 def root(abspath:str, rootname:str)->str:
@@ -18,10 +27,8 @@ def root(abspath:str, rootname:str)->str:
     return abspath[:str.find(abspath,rootname) + len(rootname)]
 
 if __name__ == "__main__":
+
     from ciftools.TunnelLog import Log
-
-
-
 
     """
     So here is how this works:
@@ -41,19 +48,20 @@ if __name__ == "__main__":
     TUNNELS      = os.getenv("TUNNELS")
     SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
     args         = moleparser.parse_args()
-    #get rid of the unutilized arg options
 
     args        =  filter((lambda kvpair: None not in kvpair), vars(args).items())
     args        =  dict(args)
 
-    pdbid   = args['PDBID'].upper()
+    pdbid       = args['PDBID'].upper()
     load_dotenv('/home/rxz/dev/ribxz/.env')
 
     log     = Log(os.getenv("TUNNEL_LOG"))
-    species = str( log.get_record(pdbid).taxid )
+    record  = log.get_struct(pdbid)
 
-    # species = args['taxid']
-    
+    species      = str( record.taxid.values[0] )
+    constriction = record.constriction_coord.values[0]
+
+
     inputconfigpath = os.path.join(TUNNELS, species, pdbid, '{}_moleinput.xml'.format(pdbid) )
     inputstructpath = os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
     outpath         = os.path.join(TUNNELS, species, pdbid)
@@ -66,18 +74,44 @@ if __name__ == "__main__":
     pymol.cmd.select('PTC', 'resi 2506')
     cords = pymol.cmd.get_coords('PTC', 1)
 
-    pts = []
-    for cord in cords:
-        pt =   numpy.around(cord, 0)
-        pts.append([ "{},{},{}".format(pt[0], pt[1], pt[2]) ])
+    origins = []
+    exits   = []
 
-    args['Points']             = pts
+
+    for ptccord in cords:
+        origins.append([ "{},{},{}".format(ptccord[0], ptccord[1], ptccord[2]) ])
+
+
+    #yields "correct" tunnels for 6ofx
+    # args['Points']             = pts
+    # args['ProbeRadius']        = "10"
+    # args['InteriorThreshold']  = "0.8"
+    # args['BottleneckRadius']   = "2"
+    # args['SurfaceCoverRadius'] = "10"
+    # args['OriginRadius']       = "5"
+    # args['CustomExits']        = exits
+    # args['exports']            = "t"
+
+# ---------------------------------
+    
+
+    # args['Points']             = pts
+    # args['ProbeRadius']        = "5"
+    # args['InteriorThreshold']  = "0.8"
+    # args['BottleneckRadius']   = "2"
+    # args['SurfaceCoverRadius'] = "10"
+    # args['OriginRadius']       = "8"
+    # args['CustomExits']        = exits
+    # args['exports']            = "t"
+
+    #original
+    args['Points']             = origins
     args['ProbeRadius']        = "10"
     args['InteriorThreshold']  = "0.8"
     args['BottleneckRadius']   = "1"
     args['SurfaceCoverRadius'] = "10"
     args['OriginRadius']       = "5"
-
+    # args['CustomExits']        = exits
     args['exports']            = "t"
 
     #Sensisble inputs 
