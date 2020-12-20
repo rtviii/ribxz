@@ -23,7 +23,6 @@ current_db = os.getenv( 'NEO4J_CURRENTDB' )
 
 def Neoget(CYPHER):
     driver = GraphDatabase.driver(uri,auth=authglobal)
-
     def make_query(tx):
         return tx.run(CYPHER)
 

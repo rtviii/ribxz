@@ -7,18 +7,16 @@ ROOT='/home/rxz/dev/ribxz'
 sys.path.append(ROOT)
 
 load_dotenv(os.path.join(ROOT,'.env'))
-from ciftools.TunnelLog import ( Log, TunnelRecord,TunnelWalls )
+
+from ciftools.TunnelLog import ( Log)
 from pymol import cmd
 
-
-
 log=Log(os.getenv('TUNNEL_LOG'))
-
 
 # Pymol's cmd-select should be a no-trace decorator. So sick of typing these cunts out
 def tview(pdbid:str):
 
-    species  = str( int( log.get_record(pdbid).taxid ) )
+    species  = str( int( log.get_struct(pdbid)['taxid'].values[0] ) )
 
     l22chain = log.get_struct( pdbid ).uL22.values[0]
     l4chain  = log.get_struct( pdbid ).uL4.values[0]
@@ -103,16 +101,12 @@ def choose_tunnel_mole(pdbid, args):
 
     print("Wrote to {}".format(pdbid))
 
-
-    
-
-
-
 def paint_tunnel(pdbid:str):
-    cmd.set('cartoon_transparency', '0.8','all')
-    pdbid=pdbid.upper()
 
-    filename='{}_TUNNEL_REPORT.json'.format(pdbid) 
+    cmd.set('cartoon_transparency', '0.8','all')
+    pdbid    = pdbid.upper()
+    filename = '/home/rxz/dev/ribxz/static/{}/{}_TUNNEL_REPORT.json'.format(pdbid,pdbid)
+
     with open(filename) as report:
         report = json.load(report)
 
@@ -132,11 +126,13 @@ def paint_tunnel(pdbid:str):
 
         if banName in colormap.keys():
             color = colormap[banName]
+
         else:
             color='pink'
 
         cmd.select("_sele_chain_{}".format(strand),
                    "c. {}".format(strand))
+
         cmd.create("{}__strand-{}".format(banName,strand), "_sele_chain_{}".format(strand),)
 
         cmd.color('gray70', "{}__strand-{}".format(banName,strand))
@@ -144,6 +140,7 @@ def paint_tunnel(pdbid:str):
         cmd.show('sticks',"{}__strand-{}".format(banName,strand))
 
         residues = report['proteins'][strand]
+
         for res in residues:
             if res['resname'].upper() in ['LYS','ARG']:
                 color ="red"
@@ -169,7 +166,7 @@ def paint_tunnel(pdbid:str):
             'U':'tv_green'
         }
 
-        for nucleotide in report['rna'][strand]:
+        for nucleotide in report['adjacent_strands'][strand]:
 
             if nucleotide['resname'] in colormap.keys():
                 # target = 'sele_{}_{}'.format(strand,nucleotide['resid'] )
@@ -188,14 +185,20 @@ def paint_tunnel(pdbid:str):
 
                 
 
-    for rna in report['rna']:
+    rnaitems  = [* filter(lambda item: item[1]['type']=='RNA',report['nomenclatureMap'].items()) ]
+    rnasnames = [*map(lambda item: item[0],rnaitems)]
+
+    protitems = [* filter(lambda item: item[1]['type']=='Protein',report['nomenclatureMap'].items()) ]
+    protnames = [*map(lambda item: item[0],rnaitems)]
+    for rna in rnasnames:
         paint_rna(rna)
 
-    for chain in report['nomMap'].keys():
-        nomenclature = report['nomMap'][chain]
+    for chain in protnames:
+        nomenclature = report['nomenclatureMap'][chain]
 
         if len( nomenclature ) > 0:
-            banName = report['nomMap'][chain][0]
+            banName = report['nomenclatureMap'][chain]['nomenclature'][0]
+    
         else:
             banName= None
 
@@ -209,8 +212,6 @@ def paint_tunnel(pdbid:str):
     cmd.delete('sele')
     cmd.deselect()
     cmd.reset()
-
-
 
 cmd.extend("tview", tview)
 cmd.extend("twrite", choose_tunnel_mole)
