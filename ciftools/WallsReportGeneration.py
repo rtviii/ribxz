@@ -2,9 +2,11 @@
 
 import json
 import os,sys
+import pandas as pd
 from dotenv import load_dotenv
 
 def root_self(rootname:str='')->str:
+
     """Returns the rootpath for the project if it's unique in the current folder tree."""
     ROOT = os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
     sys.path.append(ROOT)
@@ -14,10 +16,9 @@ if __name__=="__main__":
     root_self('ribxz')
 
 
-from ciftools.TunnelLog import (Log, TunnelWalls, get_tunnels_dataframe)
+from ciftools.TunnelLog import (Log, TunnelWalls)
 from ciftools.Structure import fetchStructure
 from ciftools.Neoget import _neoget
-
 
 # _562    = ["7K00", "5AFI", "3J9Y", "3J9Z", "3JA1", "3JCJ", "4UY8", "5GAD", "5GAE", "5GAG", "5GAH", "5JTE", "5JU8", "5L3P", "5LZA", "5LZD", "5LZE", "5MDV", "5MDW", "5MDZ", "5MGP", "5U9F", "5U9G", "5WDT", "5WE4", "5WE6", "5WF0", "5WFS", "6B4V", "6BOH", "6BOK", "6C4I", "6DNC", "6ENF", "6ENJ", "6ENU", "6GC0", "6GWT", "6GXM", "6GXN", "6GXO", "6HRM", "6I0Y", "6I7V", "6O9J", "6OGF", "6OGI", "6ORE", "6ORL", "6OSK", "6OSQ", "6OT3", "6OTR", "6OUO", "6OXA", "6OXI", "6PJ6", "6Q95", "6Q97", "6Q9A", "6S0K", "6U48", "6VU3", "6VWL", "6VWM", "6VWN", "6VYQ", "6VYR", "6VYS", "6WD0", "6WD1", "6WD2", "6WD3", "6WD4", "6WD5", "6WD7", "6WD8", "6WD9", "6WDA", "6WDD", "6WDE", "6WDK", "6WDM", "6WNT", "6WNV", "6WNW", "6X7F", "6X7K", "6XDQ", "6YSR", "6YSS", "6YST", "6YSU"]
 # _83333  = ["3J7Z", "3JBU", "3JBV", "3JCD", "3JCE", "4U1U", "4U1V", "4U20", "4U24", "4U25", "4U26", "4U27", "4WF1", "4WOI", "4WWW", "4Y4O", "4YBB", "5CZP", "5DFE", "5FDU", "5FDV", "5GAG", "5H5U", "5IQR", "5IT8", "5J4D", "5J5B", "5J7L", "5J88", "5J8A", "5J91", "5JC9", "5JU8", "5KCR", "5KCS", "5KPS", "5KPW", "5KPX", "5L3P", "5MDY", "5NP6", "5NWY", "5O2R", "5U4I", "5U9F", "5U9G", "5UYK", "5UYL", "5UYM", "5UYP", "5UYQ", "5WFK", "6BU8", "6BY1", "6CFK", "6FKR", "6GBZ", "6GC8", "6OFX", "6OG7", "6SZS", "6WD6", "6WDF", "6WDG", "6WDJ", "6WDL", "6XZ7", "6XZA", "6XZB", "6Y69", "7BV8", "7JSS", "7JSW", "7JSZ", "7JT1", "7JT2", "7JT3"]
@@ -28,36 +29,41 @@ from ciftools.Neoget import _neoget
 
 TUNNELS     = os.getenv("TUNNELS")
 STATIC_ROOT = os.getenv("STATIC_ROOT")
-PDBID       = sys.argv[1].upper()
-STRUCT_REPORT_PATH = os.path.join(STATIC_ROOT, PDBID)
-STRUCT_REPORT_FILE = os.path.join(STRUCT_REPORT_PATH, f"{PDBID}_TUNNEL_REPORT.json")
-if not os.path.exists(STRUCT_REPORT_PATH):
-    os.makedirs(STRUCT_REPORT_PATH)
-    print("Created directory for {}".format(PDBID))
+# PDBID       = sys.argv[1].upper()
+# STRUCT_REPORT_PATH = os.path.join(STATIC_ROOT, PDBID)
+# STRUCT_REPORT_FILE = os.path.join(STRUCT_REPORT_PATH, f"{PDBID}_TUNNEL_REPORT.json")
+
+# if not os.path.exists(STRUCT_REPORT_PATH):
+#     os.makedirs(STRUCT_REPORT_PATH)
+#     print("Created directory for {}".format(PDBID))
 
 log    = Log(os.getenv('TUNNEL_LOG'))
 
-
-
 def InitWalls(pdbid:str)->TunnelWalls:
     """Initiate walls for a particular structure. This consumes a dataframe given that a choice of tunnel is present""" 
+    def get_tunnels_dataframe(csvpath:str)->pd.DataFrame:
+        tunnel_instance = pd.read_csv(csvpath)
+        xyzr            = tunnel_instance[['Distance','FreeRadius', 'X','Y','Z']]
+        return xyzr
 
-    struct = log.get_struct(PDBID)
-    taxid  = str(int(struct['taxid'].values[0]))
-    choice = int(struct['moletunnel'].values[0] )
+    TUNNELS = os.getenv("TUNNELS")
+    log     = Log(os.getenv('TUNNEL_LOG'))
+
+    struct  = log.get_struct(pdbid)
+    taxid   = str(int(struct['taxid'].values[0]))
+    choice  = int(struct['moletunnel'].values[0] )
+
+    tunnelfile = "tunnel_{}.csv".format(choice)
 
     if choice < 1:
         """See docs for disambiguation. Either mole hasn't succeeded or there is something blockign the tunnel."""
         print("Choice under 1.") 
         return
 
-    tunnelfile = "tunnel_{}.csv".format(choice)
-    tunnelcsv  = get_tunnels_dataframe('5AFI',os.path.join(TUNNELS,taxid,pdbid,'csv',tunnelfile ))
-    tw         = TunnelWalls(PDBID, fetchStructure(pdbid),tunnelcsv)
+    tunnelcsv  = get_tunnels_dataframe(os.path.join(TUNNELS,taxid,pdbid,'csv',tunnelfile ))
+    tw         = TunnelWalls(pdbid, fetchStructure(pdbid),tunnelcsv)
     tw.consumeMoleDataframe(10)
     return tw
-
-InitWalls(PDBID).mole_dataframe
 
 def add_nomenclature_map_to_report(pdbid:str):
 
@@ -93,8 +99,9 @@ def add_nomenclature_map_to_report(pdbid:str):
         json.dump(report, reportfile)
     print("Added nomenclature map to {}".format(STRUCT_REPORT_FILE))
 
-# generated_report_from_log(PDBID)
-
+# x = InitWalls(PDBID)
+# x.consumeMoleDataframe(10)
+# x.generateReport(STRUCT_REPORT_PATH)
 # add_nomenclature_map_to_report(PDBID)
 
 # match (n {{entity_poly_strand_id:"{parentStrand}"}})-[]-(r:RibosomeStructure{{rcsb_id:"{pdbid}"}}) \

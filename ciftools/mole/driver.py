@@ -47,8 +47,8 @@ if __name__ == "__main__":
     MOLE_EXE     = os.getenv('MOLE_EXECUTABLE')
     TUNNELS      = os.getenv("TUNNELS")
     SCOOP_RADIUS = os.getenv("SCOOP_RADIUS")
-    args         = moleparser.parse_args()
 
+    args         = moleparser.parse_args()
     args        =  filter((lambda kvpair: None not in kvpair), vars(args).items())
     args        =  dict(args)
 
@@ -58,9 +58,8 @@ if __name__ == "__main__":
     log     = Log(os.getenv("TUNNEL_LOG"))
     record  = log.get_struct(pdbid)
 
-    species      = str( record.taxid.values[0] )
-    constriction = record.constriction_coord.values[0]
-
+    species         = str( int( record.taxid.values[0] ) )
+    constriction    = record.constriction_coord.values[0]
 
     inputconfigpath = os.path.join(TUNNELS, species, pdbid, '{}_moleinput.xml'.format(pdbid) )
     inputstructpath = os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
@@ -95,25 +94,23 @@ if __name__ == "__main__":
 # ---------------------------------
     
 
-    # args['Points']             = pts
-    # args['ProbeRadius']        = "5"
-    # args['InteriorThreshold']  = "0.8"
-    # args['BottleneckRadius']   = "2"
-    # args['SurfaceCoverRadius'] = "10"
-    # args['OriginRadius']       = "8"
-    # args['CustomExits']        = exits
-    # args['exports']            = "t"
-
-    #original
+    #After Khanh's feedback
     args['Points']             = origins
-    args['ProbeRadius']        = "10"
-    args['InteriorThreshold']  = "0.8"
-    args['BottleneckRadius']   = "1"
+    args['ProbeRadius']        = "12"
+    args['InteriorThreshold']  = "1.25"
     args['SurfaceCoverRadius'] = "10"
     args['OriginRadius']       = "5"
-    # args['CustomExits']        = exits
-    args['exports']            = "t"
+    args['BottleneckRadius']   = "1"
 
-    #Sensisble inputs 
+    #original
+    # args['Points']             = origins
+    # args['ProbeRadius']        = "10"
+    # args['InteriorThreshold']  = "0.8"
+    # args['BottleneckRadius']   = "1"
+    # args['SurfaceCoverRadius'] = "10"
+    # args['OriginRadius']       = "5"
+    # args['CustomExits']        = exits
+
+    args['exports']            = "t"
     asyncio.run(make_input_config(args))
     os.system("mono {} {}".format(MOLE_EXE, inputconfigpath))

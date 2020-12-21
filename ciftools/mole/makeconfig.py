@@ -17,6 +17,7 @@ def prettify(elem):
 
 
 def apply_params_to_default(args):
+    print("got args", args)
     # Mole Defaults
     presets = {
         'Input': 'ENTER INPUT FILE',

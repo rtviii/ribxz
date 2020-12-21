@@ -118,11 +118,6 @@ class Log:
 
     
 
-def get_tunnels_dataframe(pdbid:str, csvpath:str)->pd.DataFrame:
-
-    tunnel_instance = pd.read_csv(csvpath)
-    xyzr            = tunnel_instance[['Distance','FreeRadius', 'X','Y','Z']]
-    return xyzr
 
 
 # The most useless fukcing class ever written. Congrats, bro.

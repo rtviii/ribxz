@@ -19,12 +19,12 @@ from  ciftools.TunnelLog import (Log,get_CA_or)
 from  ciftools.WallsReportGeneration import InitWalls
 
 
-PDBID              = sys.argv[1].upper()
-STATIC_ROOT        = os.getenv("STATIC_ROOT")
-STRUCT_REPORT_PATH = os.path.join(STATIC_ROOT,PDBID,f'{PDBID}_TUNNEL_REPORT.json')
+PDBID                  = sys.argv[1].upper()
+STATIC_ROOT            = os.getenv("STATIC_ROOT")
+STRUCT_REPORT_PATH     = os.path.join(STATIC_ROOT,PDBID,f'{PDBID}_TUNNEL_REPORT.json')
 
 log                    = Log(os.getenv('TUNNEL_LOG'))
-ProteinsColorgenerator =iter( ['purple','cyan','orange',"gray",'yellow','magenta','brown','turqoise','pink'] )
+ProteinsColorgenerator = iter( ['purple','cyan','orange',"gray",'yellow','magenta','brown','turqoise','pink'] )
 
 with open(STRUCT_REPORT_PATH, 'rb') as infile:
     report =  json.load(infile)
@@ -47,9 +47,8 @@ def locate_res_in_df(rescoords:List[float],tunnel_df:pd.DataFrame):
     
     return tunnel_df.loc[rowid]
 
-
-proteinsLegend=[]
-proteins= [* filter(lambda x: x[1]['type']=='Protein',report['nomenclatureMap'].items()) ]
+proteinsLegend = []
+proteins       = [* filter(lambda x: x[1]['type']=='Protein',report['nomenclatureMap'].items()) ]
 # print(proteins)
 
 
@@ -154,4 +153,5 @@ if sys.argv[2]=='save':
     plt.savefig('{}_radiusplot.png'.format(PDBID), dpi=1200)
 if sys.argv[2]=='show':
     plt.show()
+
     
