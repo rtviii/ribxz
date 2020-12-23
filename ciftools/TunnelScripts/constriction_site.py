@@ -1,6 +1,7 @@
 from itertools import chain
 import os,sys
 from Bio.PDB.Chain import Chain
+from typing import List
 from Bio.PDB.Atom import Atom
 from Bio.PDB.Residue import Residue
 from dotenv import load_dotenv
@@ -17,8 +18,6 @@ if __name__=="__main__":
     root_self('ribxz')
 
 from ciftools.Structure import fetchStructure
-from typing import List
-
 from ciftools.TunnelScripts.TunnelLog import (Log)
 from ciftools.Neoget import _neoget
 
@@ -32,22 +31,21 @@ def getConstrictedProteins(pdbid:str)->List[str]:
     return rp.entity_poly_strand_id,rp.nomenclature, n.rcsb_id
     """.format_map({"pdbid":pdbid.upper()})
     response = _neoget(cypher)
-    return [*map(lambda x: ( x['rp.nomenclature'][0],x['rp.entity_poly_strand_id'] ), response)]
+    resplist= [*map(lambda x: ( x['rp.nomenclature'][0],x['rp.entity_poly_strand_id'] ), response)]
+    uL22 = None
+    uL4  = None
+    for nom in resplist:
 
-def written_L22_L4_to_log():
-    for struct in log.all_structs():
-        noms:List= getConstrictedProteins(struct)
-        uL22 = None
-        uL4  = None
-        for nom in noms:
-            if nom[0]=="uL22":
-                uL22=nom[1]
-            if nom[0]=="uL4":
-                uL4=nom[1]
+        if nom[0]=="uL22":
+            uL22=nom[1]
+        if nom[0]=="uL4":
+            uL4=nom[1]
 
-        log.update_struct(struct, uL22=uL22,uL4=uL4 )
-        print(log.get_struct(struct))
-    log._write()
+    return {
+        "uL4" : uL4,
+        "uL22": uL22
+    }
+
 
 def calc_constriction_site(pdbid:str):
     """Here the assumption is that the constriction site is unique and so is then the KDTree min then."""
@@ -118,15 +116,6 @@ def calc_constriction_site(pdbid:str):
     }
 
 def added_ptc_coordinates_residues():
-    # log.add_column('constrictionResidueL4_id')
-    # log.add_column('constrictionResidueL22_id')
-
-    # log.add_column('constrictionResidueL22_resname')
-    # log.add_column('constrictionResidueL4_resname')
-
-    log.add_column('constriction_coord')
-
-
 
 
     for struct in log.all_structs():

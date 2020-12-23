@@ -58,7 +58,7 @@ def tview(pdbid:str):
     # paint_tunnel(pdbid)
 
 
-    sele_ptc_ecoli()
+    sele_ptc(9606)
     # cmd.select('PTC', 'resi 2055 or resi 2056 or resi 2451 or resi 2452 or resi 2507 or resi 2506')
     # cmd.create('PTC',"PTC")
     # cmd.color('blue', 'PTC')
@@ -215,10 +215,12 @@ def paint_tunnel(pdbid:str):
     cmd.reset()
 
 
-def sele_ptc_ecoli():
-
+def sele_ptc(spec:int):
     # cmd.color('gray','all')
-    cmd.select('PTC', 'resi 2055 or resi 2056 or resi 2451 or resi 2452 or resi 2507 or resi 2506')
+    if spec in [83333,562]:
+        cmd.select('PTC', 'resi 2055 or resi 2056 or resi 2451 or resi 2452 or resi 2507 or resi 2506')
+    if spec in [9606]:
+        cmd.select('PTC', 'resi 4452')
     cmd.create('PTC',"PTC")
     cmd.color('blue', 'PTC')
     cmd.reset()
@@ -226,4 +228,3 @@ def sele_ptc_ecoli():
 cmd.extend("tview",  tview)
 cmd.extend("twrite", choose_tunnel_mole)
 cmd.extend("tunnel", paint_tunnel)
-cmd.extend("ptc",    sele_ptc_ecoli)

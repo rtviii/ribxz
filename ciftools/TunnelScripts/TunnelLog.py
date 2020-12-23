@@ -88,7 +88,6 @@ class Log:
         return row
 
     def update_struct(self, pdbid:str, dowrite:bool=False, **kwargs)->None:
-        print("Got kwargs", kwargs)
 
         pdbid = pdbid.upper()
         row   = self.log.loc[self.log['pdbid'] ==pdbid]
@@ -97,6 +96,7 @@ class Log:
         if row.empty: 
             newrecord = pd.DataFrame({"pdbid": [ pdbid ],**kwargs})
             self.log  = self.log.append(newrecord, ignore_index=True)
+
         else:
             for item in kwargs.items():
                 self.log.at[index, item[0]]= item[1]
@@ -247,10 +247,11 @@ class TunnelWalls:
 
         self.mole_dataframe.apply(getVicinity, axis=1)
 
-    def get_ptc_residues(self)->List[Residue]:
+    def get_ptc_residues(self, ptc_reslist:List[int])->List[Residue]:
 
+        #ecoli=[ 2055 , 2056 , 2451 , 2452 , 2507 , 2506 ]
         def belongs_to_ptc(x:Residue):
-            return str(x.get_id()[1]) in ["2055","2056","2451","2452","2507","2506"]
+            return int(x.get_id()[1]) in ptc_reslist
 
         PTC_residues = filter(belongs_to_ptc, [*self.structure.get_residues()]) 
         return [* PTC_residues ]

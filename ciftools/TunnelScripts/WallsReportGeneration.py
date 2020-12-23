@@ -88,3 +88,5 @@ def add_nomenclature_map_to_report(pdbid:str,path_to_report:str):
     with open(path_to_report,'w') as reportfile:
         json.dump(report, reportfile)
     print("Added nomenclature map to {}".format(path_to_report))
+
+# x = InitWalls(PDBID)

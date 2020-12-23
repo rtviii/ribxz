@@ -1,3 +1,4 @@
+from logging import error
 import os,sys,json
 import numpy as np
 from typing import Iterator, List
@@ -16,12 +17,23 @@ def root_self(rootname:str='')->str:
 root_self('ribxz')
 
 from  ciftools.TunnelScripts.TunnelLog import (Log,get_CA_or)
-from  ciftools.TunnelScripts.WallsReportGeneration import InitWalls
+from  ciftools.TunnelScripts.WallsReportGeneration import InitWalls, add_nomenclature_map_to_report
 
 
 PDBID                  = sys.argv[1].upper()
 STATIC_ROOT            = os.getenv("STATIC_ROOT")
 STRUCT_REPORT_PATH     = os.path.join(STATIC_ROOT,PDBID,f'{PDBID}_TUNNEL_REPORT.json')
+
+# if not os.path.exists(STRUCT_REPORT_PATH):
+#     try:
+#         ## Generating report
+#         walls = InitWalls(PDBID)
+#         walls.consumeMoleDataframe(10)
+#         walls.generateReport(STRUCT_REPORT_PATH)
+#         add_nomenclature_map_to_report(PDBID,STRUCT_REPORT_PATH)
+#     except error:
+        # print(error)
+        # exit("Failed to generate report for {}. Does the tunnel csv exist?".format(PDBID))
 
 log                    = Log(os.getenv('TUNNEL_LOG'))
 ProteinsColorgenerator = iter( ['purple','cyan','orange',"gray",'yellow','magenta','brown','turqoise','pink'] )
@@ -111,7 +123,10 @@ for prot in proteins:
 
 ################### ADDING THE PTC
 
-ptcresidues       = walls.get_ptc_residues()
+#ecoli            = [ 2055 , 2056 , 2451 , 2452 , 2507 , 2506 ]
+#human            = [ 4452 ]
+
+ptcresidues       = walls.get_ptc_residues([ 2055 , 2056 , 2451 , 2452 , 2507 , 2506 ])
 ptc_res_locs      = [*map(lambda res: get_CA_or(res).get_coord().tolist(),ptcresidues) ]
 ptc_corresp_radii = [*map(lambda respos: locate_res_in_df(respos, tunneldf), ptc_res_locs)]
 ptc_corresp_radii = [*map(lambda row: ( row['Distance'],row['FreeRadius'] ),ptc_corresp_radii )]
