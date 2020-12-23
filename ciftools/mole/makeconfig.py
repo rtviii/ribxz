@@ -2,12 +2,7 @@ from xml.etree.ElementTree import Element, SubElement, Comment, tostring
 from xml.etree import ElementTree
 from xml.dom import minidom
 from operator import itemgetter as get, truediv
-import os
 
-import json
-import time
-
-import asyncio
 
 def prettify(elem):
     """Return a pretty-printed XML string for the Element."""

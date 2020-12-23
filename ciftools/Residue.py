@@ -25,7 +25,6 @@ class ResidueFullIdDict():
 
 
 
-
 def get_alpha_carbon(res:Residue)->Atom: 
     """Get the first(only) alpha carbon in the residue or an exception"""
     alpha_carbons: List[Atom] = list( filter(lambda internal_atom: internal_atom.get_id() =='CA', res.get_atoms()) )
