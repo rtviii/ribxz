@@ -23,10 +23,10 @@ log         = Log(os.getenv('TUNNEL_LOG'))
 
 
 
-def get_ptc_residues(struct:Structure, pdbid:str,conserved_nucleotides:List[str])->List[Residue]:
+def get_ptc_residues(struct:Structure, pdbid:str,conserved_nucleotides:List[int])->List[Residue]:
     ECOLI_PTC_CONSERVED_NUCLEOTIDES=['2055','2451','2452','2504','2505','2506','2507']
     def belongs_to_ptc(x:Residue):
-        return str(x.get_id()[1]) in conserved_nucleotides
+        return int(x.get_id()[1]) in conserved_nucleotides
     PTC_residues = filter(belongs_to_ptc, [*struct.get_residues()]) 
     return [* PTC_residues ]
 

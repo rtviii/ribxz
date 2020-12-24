@@ -37,7 +37,7 @@ if not os.path.exists(os.path.dirname( scoopsavepath )):
 
 
 cmd.load(structpath)
-x = cmd.select(f'resi 4452')
+x = cmd.select(f'resi 2504')
 cmd.select(f'br. {pdbid} w. {RADIUS} of \'sele\'')
 cmd.save( scoopsavepath, 'sele' )
 print("Saved to {}".format(scoopsavepath))

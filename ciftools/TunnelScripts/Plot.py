@@ -24,16 +24,16 @@ PDBID                  = sys.argv[1].upper()
 STATIC_ROOT            = os.getenv("STATIC_ROOT")
 STRUCT_REPORT_PATH     = os.path.join(STATIC_ROOT,PDBID,f'{PDBID}_TUNNEL_REPORT.json')
 
-# if not os.path.exists(STRUCT_REPORT_PATH):
-#     try:
-#         ## Generating report
-#         walls = InitWalls(PDBID)
-#         walls.consumeMoleDataframe(10)
-#         walls.generateReport(STRUCT_REPORT_PATH)
-#         add_nomenclature_map_to_report(PDBID,STRUCT_REPORT_PATH)
-#     except error:
-        # print(error)
-        # exit("Failed to generate report for {}. Does the tunnel csv exist?".format(PDBID))
+if not os.path.exists(STRUCT_REPORT_PATH):
+    try:
+        ## Generating report
+        walls = InitWalls(PDBID)
+        walls.consumeMoleDataframe(10)
+        walls.generateReport(STRUCT_REPORT_PATH)
+        add_nomenclature_map_to_report(PDBID,STRUCT_REPORT_PATH)
+    except error:
+        print(error)
+        exit("Failed to generate report for {}. Does the tunnel csv exist?".format(PDBID))
 
 log                    = Log(os.getenv('TUNNEL_LOG'))
 ProteinsColorgenerator = iter( ['purple','cyan','orange',"gray",'yellow','magenta','brown','turqoise','pink'] )
