@@ -1,0 +1,32 @@
+{
+  "name": "ribxyz",
+  "version": "1.0.0",
+  "description": "\"A cli for curating the typed data for the ribosomexyz database\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.11.2",
+    "@types/shelljs": "^0.8.8",
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "csv-parse": "^4.12.0",
+    "nodemon": "^2.0.4",
+    "shelljs": "^0.8.4",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.161",
+    "apollo-server": "^2.18.1",
+    "axios": "^0.20.0",
+    "csv-parser": "^2.3.3",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.3.0",
+    "lodash": "^4.17.20"
+  }
+}

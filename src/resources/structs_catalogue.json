@@ -1,0 +1,6890 @@
+{
+    "5I4L": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "ZN",
+            "UAM"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "6Q97": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6Q95": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli",
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)"
+        ]
+    },
+    "6Q9A": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6RBE": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6RBD": {
+        "reso": 3.47,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6RI5": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6TH6": {
+        "reso": 2.55,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+        ]
+    },
+    "6TMF": {
+        "reso": 2.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "ANP"
+        ],
+        "species": [
+            "Thermococcus celer Vu 13 = JCM 8558",
+            "Saccharolobus solfataricus"
+        ]
+    },
+    "6T59": {
+        "reso": 3.11,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "6SWC": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MET",
+            "GNP"
+        ],
+        "species": [
+            "Pyrococcus abyssi GE5",
+            "Saccharolobus solfataricus P2"
+        ]
+    },
+    "6SWA": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Mus musculus"
+        ]
+    },
+    "6SZS": {
+        "reso": 3.06,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Bacillus subtilis (strain 168)"
+        ]
+    },
+    "6TBV": {
+        "reso": 2.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "K",
+            "UNX",
+            "ZN",
+            "ORN"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "6TC3": {
+        "reso": 2.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "K",
+            "UNX",
+            "ZN",
+            "ORN"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "6UCQ": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "GDP",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6UO1": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6WD4": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GDP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD3": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GDP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD6": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GDP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6WD5": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GDP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD7": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6WD0": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD1": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WDL": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6WDM": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PHE",
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WDR": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6WDD": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WDF": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6WDE": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PHE",
+            "MET"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WDG": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PHE",
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6WDJ": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6WNV": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WNW": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WNT": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WOO": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GDP",
+            "U6A",
+            "MET"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6WRU": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "U7Y"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "6Y0G": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "3HE",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6Y2L": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "3HE",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6XQD": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "V7A",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "6XQE": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "ZN",
+            "V7A",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "6Y57": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6Y69": {
+        "reso": 2.86,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "OCW",
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6Y7C": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6XZ7": {
+        "reso": 2.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "DI0"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6XZA": {
+        "reso": 2.66,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "DI0"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "6XZB": {
+        "reso": 2.54,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "DI0"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6XYW": {
+        "reso": 3.86,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Arabidopsis thaliana"
+        ]
+    },
+    "6YHS": {
+        "reso": 2.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+        ]
+    },
+    "6YLH": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6YLG": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6YLY": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6YLX": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6XA1": {
+        "reso": 2.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "MVM",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6XIR": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "7JQL": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Bos taurus"
+        ]
+    },
+    "7JQM": {
+        "reso": 3.05,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Bos taurus"
+        ]
+    },
+    "7JT3": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "7JT1": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "7JT2": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "7BV8": {
+        "reso": 3.14,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "7K00": {
+        "reso": 1.98,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PAR",
+            "MG",
+            "SPD",
+            "SPM",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6N8K": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6N8J": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6N8M": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6N8L": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6N8O": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6N8N": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6O3M": {
+        "reso": 3.97,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6NSH": {
+        "reso": 3.397,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6NU2": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6NTA": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6NUO": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6O8X": {
+        "reso": 3.68,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Enterococcus faecalis"
+        ]
+    },
+    "6O8W": {
+        "reso": 3.53,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Enterococcus faecalis"
+        ]
+    },
+    "6O8Z": {
+        "reso": 3.49,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Enterococcus faecalis"
+        ]
+    },
+    "6NWY": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6O90": {
+        "reso": 3.49,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Enterococcus faecalis"
+        ]
+    },
+    "6O9J": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli ",
+            "Escherichia coli"
+        ]
+    },
+    "6OF6": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "SF4",
+            "ZN",
+            "A"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus"
+        ]
+    },
+    "6OF1": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "DI0",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6OGF": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6OGI": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6OG7": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6OFX": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6OIG": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6OJ2": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus"
+        ]
+    },
+    "6OM0": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6OLF": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6OLE": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6OLG": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6OLI": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6N9F": {
+        "reso": 3.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "6N9E": {
+        "reso": 3.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "6NDK": {
+        "reso": 3.64,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6MTE": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6MTB": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6MTD": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6MTC": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6GSK": {
+        "reso": 3.36,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6GSJ": {
+        "reso": 2.96,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6GSL": {
+        "reso": 3.16,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "6H4N": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli BW25113"
+        ]
+    },
+    "6GWT": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Apis mellifera"
+        ]
+    },
+    "6GXO": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Apis mellifera"
+        ]
+    },
+    "6GXN": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Apis mellifera"
+        ]
+    },
+    "6GXM": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6GZ4": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GNP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6GZ3": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GNP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6GZ5": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GNP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Enterobacteria phage SP6"
+        ]
+    },
+    "6GZQ": {
+        "reso": 3.28,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "6HA8": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "TEL",
+            "ATP"
+        ],
+        "species": [
+            "Bacillus subtilis (strain 168)"
+        ]
+    },
+    "6HA1": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "TEL"
+        ],
+        "species": [
+            "Bacillus subtilis (strain 168)"
+        ]
+    },
+    "6HCJ": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6HCF": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "4UG0": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "HOMO SAPIENS"
+        ]
+    },
+    "3JAG": {
+        "reso": 3.65,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "ADP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "3JAH": {
+        "reso": 3.45,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "ADP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "3JAI": {
+        "reso": 3.65,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "ADP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "3JA1": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "3JAJ": {
+        "reso": 3.75,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "3JAN": {
+        "reso": 3.75,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "3JCD": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "3JCE": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GNP",
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli k-12",
+            "Escherichia coli K-12"
+        ]
+    },
+    "3JCJ": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GNP",
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "3JBU": {
+        "reso": 3.64,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "3JBV": {
+        "reso": 3.32,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "CLM"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "3JCT": {
+        "reso": 3.08,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "3JCS": {
+        "reso": 2.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Leishmania donovani"
+        ]
+    },
+    "5F8K": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Bos taurus"
+        ]
+    },
+    "5FCJ": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "ANM"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5FCI": {
+        "reso": 3.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5FDV": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "A"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Escherichia coli K-12",
+            "Pyrrhocoris apterus"
+        ]
+    },
+    "5FDU": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "A",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli (strain K12)",
+            "Palomena prasina"
+        ]
+    },
+    "5FLX": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "ORYCTOLAGUS CUNICULUS"
+        ]
+    },
+    "5AFI": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "CL",
+            "FME",
+            "KIR",
+            "GDP",
+            "NA",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5AJ0": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "5AJ3": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Sus scrofa ",
+            "Sus scrofa"
+        ]
+    },
+    "5AJ4": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "SUS SCROFA"
+        ]
+    },
+    "4ZSN": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Proteus vulgaris",
+            "Thermus thermophilus  HB8"
+        ]
+    },
+    "5APO": {
+        "reso": 3.41,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "5APN": {
+        "reso": 3.91,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "5HL7": {
+        "reso": 3.55,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MN",
+            "MG",
+            "62B",
+            "MPD",
+            "SPD",
+            "EOH",
+            "EPE"
+        ],
+        "species": [
+            "Staphylococcus aureus subsp. aureus NCTC 8325"
+        ]
+    },
+    "5IBB": {
+        "reso": 2.96,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SPE",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5IB8": {
+        "reso": 3.13,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN",
+            "SPE"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5IMQ": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GCP"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "4U20": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "VIF",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus"
+        ]
+    },
+    "4U24": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "DOL",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus"
+        ]
+    },
+    "4U25": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "VIR",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus"
+        ]
+    },
+    "4U1U": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus",
+            "synthetic construct"
+        ]
+    },
+    "4U26": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "DOL",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus",
+            "synthetic construct"
+        ]
+    },
+    "4U1V": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "synthetic construct",
+            "Thermus thermophilus"
+        ]
+    },
+    "4U27": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "VIF",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus",
+            "synthetic construct"
+        ]
+    },
+    "4U3M": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "ANM"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U3N": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "A",
+            "C"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "5DM7": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "HGR"
+        ],
+        "species": [
+            "Deinococcus radiodurans"
+        ]
+    },
+    "5DM6": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Deinococcus radiodurans"
+        ]
+    },
+    "5E81": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5E7K": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5EL5": {
+        "reso": 3.15,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5EL4": {
+        "reso": 3.15,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5EL7": {
+        "reso": 3.15,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "5EL6": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus",
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "3J6B": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "NA",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "3J7Y": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "A",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "3J7P": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Sus scrofa"
+        ]
+    },
+    "3J7Q": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Sus scrofa"
+        ]
+    },
+    "3J7R": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Sus scrofa"
+        ]
+    },
+    "3J7O": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Sus scrofa"
+        ]
+    },
+    "3J80": {
+        "reso": 3.75,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Kluyveromyces lactis",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "3J9Z": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "3J9W": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Bacillus subtilis subsp. subtilis str. 168"
+        ]
+    },
+    "3J9Y": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli",
+            "Enterococcus faecalis"
+        ]
+    },
+    "3J9M": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "4Y4O": {
+        "reso": 2.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "MPD",
+            "ARG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "4Y4P": {
+        "reso": 2.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "4WZD": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4XEJ": {
+        "reso": 3.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB27"
+        ]
+    },
+    "4YBB": {
+        "reso": 2.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "ZN",
+            "PEG",
+            "SPD",
+            "1PE",
+            "PGE",
+            "ACY",
+            "EDO",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Escherichia coli"
+        ]
+    },
+    "4YPB": {
+        "reso": 3.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Proteus vulgaris"
+        ]
+    },
+    "5T2C": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "5T2A": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Leishmania donovani"
+        ]
+    },
+    "5T62": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "K",
+            "GNP"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5T5H": {
+        "reso": 2.54,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Trypanosoma cruzi"
+        ]
+    },
+    "5T7V": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "5TBW": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "7AL",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "5TGA": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "ZN",
+            "C",
+            "8AN",
+            "PRO"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5TGM": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "ZN",
+            "PHE",
+            "LEU",
+            "SPS",
+            "8AN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "4P70": {
+        "reso": 3.68,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "PAR",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4U4N": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "EDE",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U4O": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "GET",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U50": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3L2"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "4U51": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3KF"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U4Q": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "HMT"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U52": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3J2"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U4R": {
+        "reso": 2.801,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3H3"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "4U53": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3J6"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U3U": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3HE"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "4U55": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "3K8",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U4U": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3KD"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U56": {
+        "reso": 3.45,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "BLS"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U4Y": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "PCY",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4U4Z": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "3K5"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4TUE": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN",
+            "PPU"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4U6F": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "ZBA"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae ATCC 204508 / S288c"
+        ]
+    },
+    "4TUA": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN",
+            "PPU"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4TUB": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN",
+            "PPU"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4TUC": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "PPU"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4TUD": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN",
+            "PPU"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4U67": {
+        "reso": 3.65,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Deinococcus radiodurans"
+        ]
+    },
+    "1VY7": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "1VY6": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "1VY5": {
+        "reso": 2.55,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "1VY4": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6QDW": {
+        "reso": 2.83,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain B / BL21-DE3)",
+            "Bos taurus"
+        ]
+    },
+    "6QIK": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6QNR": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "K",
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "6QNQ": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "K",
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "6QT0": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae "
+        ]
+    },
+    "6R5Q": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "6R6P": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "6R6G": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens",
+            "Canis lupus familiaris"
+        ]
+    },
+    "6QTZ": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae "
+        ]
+    },
+    "6R84": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6R87": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6R86": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6R7Q": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens",
+            "Canis lupus familiaris"
+        ]
+    },
+    "6D9J": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "6D90": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "6DNC": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5XY3": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Trichomonas vaginalis"
+        ]
+    },
+    "5XXB": {
+        "reso": 3.17,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Toxoplasma gondii"
+        ]
+    },
+    "5XYI": {
+        "reso": 3.35,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Trichomonas vaginalis"
+        ]
+    },
+    "5XYM": {
+        "reso": 3.08,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)"
+        ]
+    },
+    "5XXU": {
+        "reso": 3.35,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Toxoplasma gondii"
+        ]
+    },
+    "5Z3G": {
+        "reso": 3.65,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae S288c",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5ZEP": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Mycobacterium smegmatis str. MC2 155"
+        ]
+    },
+    "5ZET": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Mycobacterium smegmatis str. MC2 155"
+        ]
+    },
+    "5ZEB": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Mycobacterium smegmatis str. MC2 155"
+        ]
+    },
+    "5ZLU": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ANP"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Pseudomonas aeruginosa"
+        ]
+    },
+    "5OBM": {
+        "reso": 3.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "LLL",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "5O2R": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Apis mellifera"
+        ]
+    },
+    "5O61": {
+        "reso": 3.31,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "PHE"
+        ],
+        "species": [
+            "Mycobacterium smegmatis str. MC2 155"
+        ]
+    },
+    "5O60": {
+        "reso": 3.203,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "PHE"
+        ],
+        "species": [
+            "Mycobacterium smegmatis str. MC2 155"
+        ]
+    },
+    "5NWY": {
+        "reso": 2.93,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Vibrio alginolyticus",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5ON6": {
+        "reso": 3.10000240787,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "HN8",
+            "GOL",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "5OOM": {
+        "reso": 3.03,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "PNS"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "5OOL": {
+        "reso": 3.06,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "PNS"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "5OQL": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719)"
+        ]
+    },
+    "5OT7": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6EK0": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "HMT",
+            "ZN",
+            "HYG"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6ELZ": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "6EM1": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6EM3": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6EML": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6ENU": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PRO"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6ENJ": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PRO"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6ENF": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6ERI": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "6DZI": {
+        "reso": 3.46,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Mycobacterium smegmatis str. MC2 155",
+            "Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)",
+            "Mycobacterium smegmatis"
+        ]
+    },
+    "6DZP": {
+        "reso": 3.42,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)",
+            "Mycobacterium smegmatis str. MC2 155"
+        ]
+    },
+    "6FAI": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6FKR": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Tursiops truncatus",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5UMD": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "YMZ",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Plasmodium falciparum 3D7"
+        ]
+    },
+    "5U4I": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Escherichia coli"
+        ]
+    },
+    "5U9F": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5U9G": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli K-12"
+        ]
+    },
+    "5UQ8": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5UQ7": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5V7Q": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "917"
+        ],
+        "species": [
+            "Mycobacterium tuberculosis"
+        ]
+    },
+    "5V8I": {
+        "reso": 3.25,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MPD",
+            "MG",
+            "ARG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Thermus thermophilus (strain HB27/ATCC BAA-163 / DSM 7039)",
+            "Thermus parvatiensis (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5UYQ": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "LYS",
+            "MG",
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5UYL": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5UYK": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5UYM": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "FME",
+            "PHE",
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5UYP": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "LYS",
+            "GCP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5CZP": {
+        "reso": 3.2999592266,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5DC3": {
+        "reso": 3.25,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5DAT": {
+        "reso": 3.15,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae",
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5DFE": {
+        "reso": 3.09997551079,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5DGV": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "ZN",
+            "SPS",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5DGE": {
+        "reso": 3.45,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN",
+            "SPS",
+            "PRO"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5DGF": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "ZN",
+            "SPS",
+            "MG",
+            "OHX"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5MLC": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5MMM": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5MMJ": {
+        "reso": 3.646,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5MMI": {
+        "reso": 3.25,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5MRC": {
+        "reso": 3.25,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "NA",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5MRE": {
+        "reso": 3.75,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "NA",
+            "ZN",
+            "GDP"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5NDG": {
+        "reso": 3.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "GET",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5NDJ": {
+        "reso": 3.15,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "8UZ",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5ND8": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Staphylococcus aureus (strain NCTC 8325)"
+        ]
+    },
+    "5ND9": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Staphylococcus aureus (strain NCTC 8325)",
+            "Staphylococcus aureus subsp. aureus NCTC 8325"
+        ]
+    },
+    "5NDV": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "PAR",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae (strain RM11-1a)",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5NDW": {
+        "reso": 3.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "8UZ",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5NDK": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "8UZ",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5NGM": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "5NP6": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Enterobacteria phage T4",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6G18": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6G5I": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6G5H": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6FYY": {
+        "reso": 3.05,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MET",
+            "GCP"
+        ],
+        "species": [
+            "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)",
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6FYX": {
+        "reso": 3.05,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MET",
+            "GCP"
+        ],
+        "species": [
+            "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)",
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6GC0": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6GAZ": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GSP",
+            "MG",
+            "NA",
+            "SPM",
+            "ZN",
+            "FME",
+            "GTP"
+        ],
+        "species": [
+            "Homo sapiens",
+            "Sus scrofa"
+        ]
+    },
+    "6GB2": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "5GP",
+            "SPM",
+            "GSP",
+            "NA",
+            "FME"
+        ],
+        "species": [
+            "Sus scrofa",
+            "Homo sapiens"
+        ]
+    },
+    "6GAW": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "5GP",
+            "SPM",
+            "GSP",
+            "NA",
+            "FME",
+            "GTP"
+        ],
+        "species": [
+            "Sus scrofa",
+            "Homo sapiens"
+        ]
+    },
+    "6GBZ": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "6GC8": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "6GQB": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "SO1",
+            "GDP",
+            "ALF"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6OM7": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6OLZ": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MVM"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6OPE": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus"
+        ]
+    },
+    "6ORL": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6ORD": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6ORE": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6OT3": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli ",
+            "Escherichia coli"
+        ]
+    },
+    "6OSK": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6OSQ": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6P4G": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6P4H": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6P5K": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6P5N": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "6OTR": {
+        "reso": 3.12,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN",
+            "A3P"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli"
+        ]
+    },
+    "6P5J": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6P5I": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6OUO": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6OXI": {
+        "reso": 3.495,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli"
+        ]
+    },
+    "6OXA": {
+        "reso": 3.25,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli"
+        ]
+    },
+    "6PJ6": {
+        "reso": 2.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "NA",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6I9R": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "G",
+            "H8Q",
+            "H8T"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6IP5": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6IP8": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6RM3": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Vairimorpha necatrix"
+        ]
+    },
+    "6S0K": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6S13": {
+        "reso": 3.58,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "6S12": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "6S05": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6S0X": {
+        "reso": 2.425,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ERY"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "6S0Z": {
+        "reso": 2.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ERY"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "6QZP": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "HMT",
+            "ZN",
+            "HYG"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6RW4": {
+        "reso": 2.97,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "NAD",
+            "SPM",
+            "SRY",
+            "MG",
+            "K",
+            "ZN",
+            "FES",
+            "ATP",
+            "GNP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6RW5": {
+        "reso": 3.14,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "NAD",
+            "SPM",
+            "SRY",
+            "MG",
+            "K",
+            "ZN",
+            "FES",
+            "ATP",
+            "GNP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6RXU": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Chaetomium thermophilum"
+        ]
+    },
+    "6RZZ": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6SGC": {
+        "reso": 2.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SPD"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6SGB": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "PO4",
+            "PM8",
+            "ZN",
+            "GTP",
+            "SAH"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6SGA": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "PO4",
+            "PM8",
+            "ZN"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6SG9": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP",
+            "MG",
+            "ZN",
+            "SAH"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei",
+            "Trypanosoma brucei brucei "
+        ]
+    },
+    "6SKG": {
+        "reso": 2.65,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Thermococcus kodakarensis"
+        ]
+    },
+    "6SKF": {
+        "reso": 2.95,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Thermococcus kodakarensis"
+        ]
+    },
+    "6SPD": {
+        "reso": 3.28,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Pseudomonas aeruginosa"
+        ]
+    },
+    "6SPF": {
+        "reso": 2.89,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Pseudomonas aeruginosa"
+        ]
+    },
+    "6SPG": {
+        "reso": 3.34,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Pseudomonas aeruginosa"
+        ]
+    },
+    "6SPB": {
+        "reso": 2.82,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Pseudomonas aeruginosa"
+        ]
+    },
+    "6KE6": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "6LQS": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "6LQU": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "6LQM": {
+        "reso": 3.09,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6LQP": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "6LSR": {
+        "reso": 3.13,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6LSS": {
+        "reso": 3.23,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6LU8": {
+        "reso": 3.13,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6M62": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288C",
+            "Saccharomyces cerevisiae S288c"
+        ]
+    },
+    "5LI0": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "O",
+            "ZN"
+        ],
+        "species": [
+            "Staphylococcus aureus (strain NCTC 8325)"
+        ]
+    },
+    "5LKS": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "3HE",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "5M1J": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "GNP",
+            "5CR"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5LZA": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5LYB": {
+        "reso": 3.25,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "OHX",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5LZT": {
+        "reso": 3.65,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZS": {
+        "reso": 3.31,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP",
+            "7C4"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "5LZV": {
+        "reso": 3.35,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZU": {
+        "reso": 3.75,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZX": {
+        "reso": 3.67,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZW": {
+        "reso": 3.53,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZZ": {
+        "reso": 3.47,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZY": {
+        "reso": 3.99,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5LZD": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "CL",
+            "MG",
+            "FME",
+            "SEC",
+            "GNP",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5LZE": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5MC6": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "5MEI": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "7MB",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "5MDW": {
+        "reso": 3.06,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "FME",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5MDV": {
+        "reso": 2.97,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "FME",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5MDY": {
+        "reso": 3.35,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "FME",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli K-12",
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5MDZ": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "FME",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5MGP": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6VMI": {
+        "reso": 2.96,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP",
+            "GCP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6VLZ": {
+        "reso": 2.97,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GDP",
+            "GCP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6V3D": {
+        "reso": 2.95,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "NA"
+        ],
+        "species": [
+            "Acinetobacter sp. CIP 51.11",
+            "Acinetobacter baumannii (strain AB0057)",
+            "Acinetobacter sp. NIPH 899",
+            "Acinetobacter beijerinckii ANC 3835",
+            "Acinetobacter baumannii",
+            "Acinetobacter sp. 809848",
+            "Acinetobacter rudis CIP 110305",
+            "Acinetobacter sp. CIP 102082",
+            "Acinetobacter sp. ANC 4470"
+        ]
+    },
+    "6V3B": {
+        "reso": 2.91,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "NA"
+        ],
+        "species": [
+            "Acinetobacter beijerinckii ANC 3835",
+            "Acinetobacter sp. ANC 4470",
+            "Acinetobacter baumannii (strain AB0057)",
+            "Acinetobacter sp. 809848",
+            "Acinetobacter rudis CIP 110305",
+            "Acinetobacter baumannii",
+            "Acinetobacter sp. 263903-1",
+            "Acinetobacter sp. CIP 51.11",
+            "Acinetobacter sp. NIPH 899",
+            "Acinetobacter sp. CIP 102082",
+            "Acinetobacter sp. ANC 5600",
+            "Acinetobacter venetianus"
+        ]
+    },
+    "6V3A": {
+        "reso": 2.82,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "NA"
+        ],
+        "species": [
+            "Acinetobacter sp. CIP 51.11",
+            "Acinetobacter beijerinckii ANC 3835",
+            "Acinetobacter sp. ANC 4470",
+            "Acinetobacter baumannii (strain AB0057)",
+            "Acinetobacter sp. NIPH 899",
+            "Acinetobacter baumannii",
+            "Acinetobacter sp. 809848",
+            "Acinetobacter rudis CIP 110305",
+            "Acinetobacter sp. CIP 102082",
+            "Acinetobacter sp. ANC 5600",
+            "Acinetobacter sp. 263903-1",
+            "Acinetobacter venetianus"
+        ]
+    },
+    "6V39": {
+        "reso": 3.04,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "FME",
+            "MG",
+            "NA"
+        ],
+        "species": [
+            "Acinetobacter sp. CIP 51.11",
+            "Acinetobacter beijerinckii ANC 3835",
+            "Acinetobacter sp. ANC 4470",
+            "Acinetobacter baumannii (strain AB0057)",
+            "Acinetobacter sp. NIPH 899",
+            "Acinetobacter sp. 809848",
+            "Acinetobacter rudis CIP 110305",
+            "Acinetobacter baumannii",
+            "Acinetobacter sp. 263903-1",
+            "Acinetobacter venetianus",
+            "Acinetobacter sp. CIP 102082",
+            "Acinetobacter sp. ANC 5600"
+        ]
+    },
+    "6UZ7": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "Kluyveromyces lactis"
+        ]
+    },
+    "6W2T": {
+        "reso": 3.36,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "6W6P": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Enterococcus faecalis OG1RF"
+        ]
+    },
+    "6VWL": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6VWN": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6VWM": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5VP2": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "M2D",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5VPP": {
+        "reso": 3.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5VPO": {
+        "reso": 3.34,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5J30": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli O45:K1 (strain S88 / ExPEC)"
+        ]
+    },
+    "5IQR": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "PAR",
+            "MET"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "5J3C": {
+        "reso": 3.04,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli O139:H28"
+        ]
+    },
+    "5IT9": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Kluyveromyces lactis"
+        ]
+    },
+    "5IT8": {
+        "reso": 3.12,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5IT7": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP",
+            "6EM"
+        ],
+        "species": [
+            "Kluyveromyces lactis",
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae P283"
+        ]
+    },
+    "5J4B": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "CPT",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5J4D": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5J4C": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CPT",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5J8B": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "GCP"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5JC9": {
+        "reso": 3.03,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "5JUP": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GDP",
+            "MG",
+            "SO1"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5JVH": {
+        "reso": 3.58,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "6O1",
+            "MG"
+        ],
+        "species": [
+            "Deinococcus radiodurans R1"
+        ]
+    },
+    "5JVG": {
+        "reso": 3.428,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "6NO",
+            "MG",
+            "MPD",
+            "SPD"
+        ],
+        "species": [
+            "Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)",
+            "Deinococcus radiodurans"
+        ]
+    },
+    "4W2E": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4W4G": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Proteus vulgaris"
+        ]
+    },
+    "4WCE": {
+        "reso": 3.526,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MPD",
+            "MN",
+            "MG",
+            "EPE",
+            "SPD",
+            "EOH"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "4V19": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG"
+        ],
+        "species": [
+            "SUS SCROFA"
+        ]
+    },
+    "4V90": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GCP"
+        ],
+        "species": [
+            "THERMUS THERMOPHILUS HB8"
+        ]
+    },
+    "4V91": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "KLUYVEROMYCES LACTIS"
+        ]
+    },
+    "4V92": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "KLUYVEROMYCES LACTIS"
+        ]
+    },
+    "4UY8": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "TRP"
+        ],
+        "species": [
+            "ESCHERICHIA COLI"
+        ]
+    },
+    "6HHQ": {
+        "reso": 3.10000049683,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "OHX",
+            "MG",
+            "G5B",
+            "ZN",
+            "GOL"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6HIX": {
+        "reso": 3.39,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "NAD",
+            "MG"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6HIW": {
+        "reso": 3.37,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "UTP",
+            "MG",
+            "GTP",
+            "SPD",
+            "SPM"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6HIZ": {
+        "reso": 3.08,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "SPD",
+            "UTP",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6HIY": {
+        "reso": 3.27,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "SPD",
+            "SPM"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6HMA": {
+        "reso": 2.65,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "6I0Y": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "TRP"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Homo sapiens"
+        ]
+    },
+    "6HRM": {
+        "reso": 2.96,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6I7V": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PGE",
+            "MPD",
+            "PG4",
+            "SPD",
+            "PUT",
+            "1PE",
+            "ACY",
+            "PEG",
+            "EDO",
+            "GUN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6BOK": {
+        "reso": 3.55,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Escherichia coli"
+        ]
+    },
+    "6C0F": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae BY4741"
+        ]
+    },
+    "6C4I": {
+        "reso": 3.24,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6BU8": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6C5L": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "6BUW": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6BY1": {
+        "reso": 3.94,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6BZ7": {
+        "reso": 3.68,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6BZ6": {
+        "reso": 3.18,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6BZ8": {
+        "reso": 3.74,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "4WFA": {
+        "reso": 3.392,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "ZLD",
+            "MPD",
+            "MG",
+            "MN",
+            "NA",
+            "EPE",
+            "SPD",
+            "EOH"
+        ],
+        "species": [
+            "Staphylococcus aureus (strain NCTC 8325)",
+            "Staphylococcus aureus (strain USA300)"
+        ]
+    },
+    "4WFB": {
+        "reso": 3.43,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "3LK",
+            "MPD",
+            "MG",
+            "MN",
+            "EPE",
+            "SPD",
+            "EOH"
+        ],
+        "species": [
+            "Staphylococcus aureus"
+        ]
+    },
+    "4WFN": {
+        "reso": 3.54,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ERY"
+        ],
+        "species": [
+            "Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)",
+            "Deinococcus radiodurans"
+        ]
+    },
+    "4WOI": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus"
+        ]
+    },
+    "4WQF": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "FUA",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WPO": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "ZN",
+            "SF4",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WQ1": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4WRA": {
+        "reso": 3.05,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4WQY": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "ZN",
+            "SF4",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WQR": {
+        "reso": 3.15,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4WR6": {
+        "reso": 3.05,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4WSM": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WSD": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WRO": {
+        "reso": 3.05,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4WU1": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8"
+        ]
+    },
+    "4WT1": {
+        "reso": 3.05,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WT8": {
+        "reso": 3.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "PAR",
+            "3V6",
+            "MG"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4WZO": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "5KPS": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5KPW": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5KPX": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5L3P": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K12",
+            "Escherichia coli (strain K12)",
+            "Escherichia coli K-12",
+            "Escherichia coli",
+            "Escherichia coli O157:H7"
+        ]
+    },
+    "6N1D": {
+        "reso": 3.2,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus HB27",
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Thermus thermophilus"
+        ]
+    },
+    "5X8P": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5X8T": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5WE4": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "K",
+            "FME",
+            "PHE",
+            "GNP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5WE6": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "MG",
+            "K",
+            "PHE",
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5WDT": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "MG",
+            "K",
+            "PHE",
+            "GNP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5WF0": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "MG",
+            "K",
+            "PHE",
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli O139:H28 (strain E24377A / ETEC)"
+        ]
+    },
+    "5WFS": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "MG",
+            "K",
+            "PHE",
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5WFK": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "MG",
+            "K",
+            "PHE",
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5WIT": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "AQJ",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5WIS": {
+        "reso": 2.703,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "MT9",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus"
+        ]
+    },
+    "5WLC": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae BY4741"
+        ]
+    },
+    "5GAH": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5GAG": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5GAK": {
+        "reso": 3.88,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "3HE"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "5GAD": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "GNP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5GAE": {
+        "reso": 3.33,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "5H1S": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Spinacia oleracea"
+        ]
+    },
+    "5H4P": {
+        "reso": 3.07,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "5H5U": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "5KCR": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "6UQ",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5KCS": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "EVN"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Enterococcus faecalis"
+        ]
+    },
+    "5JU8": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ERY"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Escherichia coli"
+        ]
+    },
+    "5JTE": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "LYS",
+            "ERY"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "4YZV": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Proteus vulgaris"
+        ]
+    },
+    "4ZER": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "UNX",
+            "MPD",
+            "ARG",
+            "ZN",
+            "SF4",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus HB8",
+            "Oncopeltus fasciatus"
+        ]
+    },
+    "5A2Q": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "HOMO SAPIENS"
+        ]
+    },
+    "6ZU5": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "AMP"
+        ],
+        "species": [
+            "Paranosema locustae"
+        ]
+    },
+    "6ZVJ": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "SF4",
+            "ADP",
+            "MG",
+            "ATP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6ZVI": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "6ZVH": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "7A09": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "SF4",
+            "ADP",
+            "MG",
+            "ATP",
+            "MET",
+            "GTP"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "7BTB": {
+        "reso": 3.22,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "7BT6": {
+        "reso": 3.12,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GTP",
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "7A1G": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "ADP"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6Z1P": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "FES",
+            "ATP"
+        ],
+        "species": [
+            "Tetrahymena thermophila (strain SB210)"
+        ]
+    },
+    "6YSI": {
+        "reso": 2.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "T1C",
+            "ZN"
+        ],
+        "species": [
+            "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+        ]
+    },
+    "6YS3": {
+        "reso": 2.58,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli BL21(DE3)",
+            "Bos taurus"
+        ]
+    },
+    "6YSS": {
+        "reso": 2.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "NA"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Apis mellifera"
+        ]
+    },
+    "6YSR": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "CL",
+            "NA"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6YSU": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "NA"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Apis mellifera"
+        ]
+    },
+    "6YST": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "NA"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Apis mellifera"
+        ]
+    },
+    "6Z6K": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6Z6J": {
+        "reso": 3.4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6Z6M": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6Z6L": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6Z6N": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    },
+    "6YXX": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "GTP",
+            "NA",
+            "ATP",
+            "PM8",
+            "NAD"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6YXY": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "SPD",
+            "GTP",
+            "NA",
+            "ATP",
+            "PM8",
+            "NAD"
+        ],
+        "species": [
+            "Trypanosoma brucei brucei"
+        ]
+    },
+    "6ZJ3": {
+        "reso": 3.15,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN"
+        ],
+        "species": [
+            "Euglena gracilis"
+        ]
+    },
+    "6ZQG": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae S288C",
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6ZQB": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+            "Saccharomyces cerevisiae S288C"
+        ]
+    },
+    "6ZQD": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "GTP",
+            "MG"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "6ZQC": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ZN",
+            "MG",
+            "GTP"
+        ],
+        "species": [
+            "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+        ]
+    },
+    "4P6F": {
+        "reso": 3.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus",
+            "Synthetic construct"
+        ]
+    },
+    "6U48": {
+        "reso": 2.87,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli",
+            "Rhizobium sp. Pop5"
+        ]
+    },
+    "6WDA": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GDP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD8": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD9": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GDP"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6WD2": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE",
+            "GTP"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Escherichia coli "
+        ]
+    },
+    "6WDK": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "FME",
+            "PHE"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "7JSZ": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "7JSS": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "7JSW": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K-12"
+        ]
+    },
+    "6O97": {
+        "reso": 2.75,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "LUJ",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6OKK": {
+        "reso": 3.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "34G",
+            "ZN"
+        ],
+        "species": [
+            "Plasmodium falciparum (isolate 3D7)"
+        ]
+    },
+    "6ND5": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CLM",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6ND6": {
+        "reso": 2.85,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ERY",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "5HAU": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus",
+            "Bos taurus"
+        ]
+    },
+    "5HCQ": {
+        "reso": 2.801,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Oncopeltus fasciatus"
+        ]
+    },
+    "5HCP": {
+        "reso": 2.894,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Palomena prasina"
+        ]
+    },
+    "5HD1": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Pyrrhocoris apterus"
+        ]
+    },
+    "5HCR": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Oncopeltus fasciatus"
+        ]
+    },
+    "5DOY": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "HGR",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "5DOX": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "HGR",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "3J79": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Plasmodium falciparum"
+        ]
+    },
+    "3J7Z": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "ERY"
+        ],
+        "species": [
+            "Escherichia coli K-12",
+            "Staphylococcus aureus"
+        ]
+    },
+    "3J7A": {
+        "reso": 3.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "34G",
+            "ZN"
+        ],
+        "species": [
+            "Plasmodium falciparum"
+        ]
+    },
+    "3J92": {
+        "reso": 3.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus",
+            "Homo sapiens"
+        ]
+    },
+    "5TCU": {
+        "reso": 3.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PAR",
+            "MG"
+        ],
+        "species": [
+            "Staphylococcus aureus (strain NCTC 8325)"
+        ]
+    },
+    "6CZR": {
+        "reso": 3.14,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ARG",
+            "MPD",
+            "FSD",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus"
+        ]
+    },
+    "6W2S": {
+        "reso": 3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Oryctolagus cuniculus"
+        ]
+    },
+    "5W4K": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Klebsiella pneumoniae subsp. ozaenae"
+        ]
+    },
+    "5J5B": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "TAC",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5J8A": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "T1C",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Escherichia coli O139:H28 (strain E24377A / ETEC)"
+        ]
+    },
+    "5J88": {
+        "reso": 3.32,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5J7L": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "TAC",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "5J91": {
+        "reso": 2.96,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PG4",
+            "MPD",
+            "PUT",
+            "T1C",
+            "ZN",
+            "PEG",
+            "EDO",
+            "PGE",
+            "SPD",
+            "1PE",
+            "ACY",
+            "GUN",
+            "TRS"
+        ],
+        "species": [
+            "Escherichia coli (strain K12)",
+            "Escherichia coli"
+        ]
+    },
+    "4W2G": {
+        "reso": 2.55,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PCY",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4W2H": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PCY",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4W2I": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "NEG",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4W2F": {
+        "reso": 2.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "UAM",
+            "SF4",
+            "ZN",
+            "K"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4W29": {
+        "reso": 3.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "GDP",
+            "FUA",
+            "NMY",
+            "MG"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Thermus thermophilus"
+        ]
+    },
+    "6CFJ": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "EZG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6CFL": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "EZM",
+            "MPD",
+            "ARG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "6CFK": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "EZP",
+            "MPD",
+            "ARG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Escherichia coli (strain K12)"
+        ]
+    },
+    "6BOH": {
+        "reso": 3.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "BLS",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039)",
+            "Escherichia coli"
+        ]
+    },
+    "6CAE": {
+        "reso": 2.6,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "synthetic construct"
+        ]
+    },
+    "4WF1": {
+        "reso": 3.09,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "NEG"
+        ],
+        "species": [
+            "Escherichia coli",
+            "Thermus thermophilus"
+        ]
+    },
+    "4WQU": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4",
+            "GDP"
+        ],
+        "species": [
+            "Thermus thermophilus",
+            "Streptomyces sp."
+        ]
+    },
+    "4WWW": {
+        "reso": 3.1,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "EM1",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6B4V": {
+        "reso": 3.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "BLS",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus HB27",
+            "Escherichia coli"
+        ]
+    },
+    "6AZ1": {
+        "reso": 2.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "PAR"
+        ],
+        "species": [
+            "Leishmania donovani"
+        ]
+    },
+    "6AZ3": {
+        "reso": 2.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "PAR",
+            "MG",
+            "C"
+        ],
+        "species": [
+            "Leishmania donovani"
+        ]
+    },
+    "4Z3S": {
+        "reso": 2.65,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "4M2",
+            "K",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)"
+        ]
+    },
+    "4Z8C": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZN",
+            "SF4"
+        ],
+        "species": [
+            "Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)",
+            "Oncopeltus fasciatus"
+        ]
+    },
+    "6VYR": {
+        "reso": 3.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6VYQ": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6VYS": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6X7F": {
+        "reso": 3.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6X7K": {
+        "reso": 3.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6XDQ": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "7K5I": {
+        "reso": 2.9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens",
+            "Severe acute respiratory syndrome coronavirus 2"
+        ]
+    },
+    "6VU3": {
+        "reso": 3.7,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "6W6L": {
+        "reso": 3.84,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN"
+        ],
+        "species": [
+            "Homo sapiens"
+        ]
+    }
+}
