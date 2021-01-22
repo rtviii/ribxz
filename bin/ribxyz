@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const entry= require('../dist/cli')
+require('dotenv').config()
+entry.cli(process.argv)
