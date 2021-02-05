@@ -153,11 +153,11 @@ def parseLigandNeighborhoods(pdbid:str):
 
     for x in ligandIds:
         savepath = os.path.join(STATIC_ROOT, pdbid, 'LIGAND_{}.json'.format(x))
-        if pdbid in ['4U3N'] or x in ['A', 'OHX', ]:
-            print("Skipping problematic {}".format(pdbid))
-            continue
-        if pdbid in ['5TGM'] or x in ['A', 'OHX', 'LEU']:
-            continue
+        # if pdbid in ['4U3N'] or x in ['A', 'OHX', ]:
+        #     print("Skipping problematic {}".format(pdbid))
+        #     continue
+        # if pdbid in ['5TGM'] or x in ['A', 'OHX', 'LEU']:
+        #     continue
         if os.path.exists(savepath):
             print(savepath, " already exists. Skipping rendering.")
             continue

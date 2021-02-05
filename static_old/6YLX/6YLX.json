@@ -1,0 +1,1529 @@
+{
+    "rcsb_id": "6YLX",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.9,
+    "rcsb_external_ref_id": [
+        "EMD-10841"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-10841"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": "FOURIER SPACE",
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.9,
+    "cryoem_exp_num_particles": 29163,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Kater, L.",
+        "Mitterer, V.",
+        "Thoms, M.",
+        "Cheng, J.",
+        "Berninghausen, O.",
+        "Beckmann, R.",
+        "Hurt, E."
+    ],
+    "citation_title": "Construction of the Central Protuberance and L1 Stalk during 60S Subunit Biogenesis.",
+    "citation_pdbx_doi": "10.1016/j.molcel.2020.06.032",
+    "pdbx_keywords_text": "pre-60S, Biogenesis, LSU, Large subunit, ribosome assembly, RIBOSOME",
+    "_organismId": [
+        4932
+    ],
+    "_organismName": [
+        "Saccharomyces cerevisiae"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P14126"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MSHRKYEAPRHGHLGFLPRKRAASIRARVKAFPKDDRSKPVALTSFLGYKAGMTTIVRDLDRPGSKFHKREVVEAVTVVDTPPVVVVGVVGYVETPRGLRSLTTVWAEHLSDEVKRRFYKNWYKSKKKAFTKYSAKYAQDGAGIERELARIKKYASVVRVLVHTQIRKTPLAQKKAHLAEIQLNGGSISEKVDWAREHFEKTVAVDSVFEQNEMIDAIAVTKGHGFEGVTHRWGTKKLPRKTHRGLRKVACIGAWHPAHVMWSVARAGQRGYHSRTSINHKIYRVGKGDDEANGATSFDRTKKTITPMGGFVHYGEIKNDFIMVKGCIPGNRKRIVTLRKSLYTNTSRKALEEVSLKWIDTASKFGKGRFQTPAEKHAFMGTLKKDL",
+            "entity_poly_seq_one_letter_code_can": "MSHRKYEAPRHGHLGFLPRKRAASIRARVKAFPKDDRSKPVALTSFLGYKAGMTTIVRDLDRPGSKFHKREVVEAVTVVDTPPVVVVGVVGYVETPRGLRSLTTVWAEHLSDEVKRRFYKNWYKSKKKAFTKYSAKYAQDGAGIERELARIKKYASVVRVLVHTQIRKTPLAQKKAHLAEIQLNGGSISEKVDWAREHFEKTVAVDSVFEQNEMIDAIAVTKGHGFEGVTHRWGTKKLPRKTHRGLRKVACIGAWHPAHVMWSVARAGQRGYHSRTSINHKIYRVGKGDDEANGATSFDRTKKTITPMGGFVHYGEIKNDFIMVKGCIPGNRKRIVTLRKSLYTNTSRKALEEVSLKWIDTASKFGKGRFQTPAEKHAFMGTLKKDL",
+            "entity_poly_seq_length": 387,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family is found at the very C-terminal of 60 ribosomal L4 proteins.",
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "60S ribosomal protein L4 C-terminal domain",
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF14374",
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P10664"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L4-A",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MSRPQVTVHSLTGEATANALPLPAVFSAPIRPDIVHTVFTSVNKNKRQAYAVSEKAGHQTSAESWGTGRAVARIPRVGGGGTGRSGQGAFGNMCRGGRMFAPTKTWRKWNVKVNHNEKRYATASAIAATAVASLVLARGHRVEKIPEIPLVVSTDLESIQKTKEAVAALKAVGAHSDLLKVLKSKKLRAGKGKYRNRRWTQRRGPLVVYAEDNGIVKALRNVPGVETANVASLNLLQLAPGAHLGRFVIWTEAAFTKLDQVWGSETVASSKVGYTLPSHIISTSDVTRIINSSEIQSAIRPAGQATQKRTHVLKKNPLKNKQVLLRLNPYAKVFAAEKLGSKKAEKTGTKPAAVFTETLKHD",
+            "entity_poly_seq_one_letter_code_can": "MSRPQVTVHSLTGEATANALPLPAVFSAPIRPDIVHTVFTSVNKNKRQAYAVSEKAGHQTSAESWGTGRAVARIPRVGGGGTGRSGQGAFGNMCRGGRMFAPTKTWRKWNVKVNHNEKRYATASAIAATAVASLVLARGHRVEKIPEIPLVVSTDLESIQKTKEAVAALKAVGAHSDLLKVLKSKKLRAGKGKYRNRRWTQRRGPLVVYAEDNGIVKALRNVPGVETANVASLNLLQLAPGAHLGRFVIWTEAAFTKLDQVWGSETVASSKVGYTLPSHIISTSDVTRIINSSEIQSAIRPAGQATQKRTHVLKKNPLKNKQVLLRLNPYAKVFAAEKLGSKKAEKTGTKPAAVFTETLKHD",
+            "entity_poly_seq_length": 362,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6e"
+            ],
+            "pfam_accessions": [
+                "PF01159"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q02326"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L6-A",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MSAQKAPKWYPSEDVAALKKTRKAARPQKLRASLVPGTVLILLAGRFRGKRVVYLKHLEDNTLLISGPFKVNGVPLRRVNARYVIATSTKVSVEGVNVEKFNVEYFAKEKLTKKEKKEANLFPEQQNKEIKAERVEDQKVVDKALIAEIKKTPLLKQYLSASFSLKNGDKPHMLKF",
+            "entity_poly_seq_one_letter_code_can": "MSAQKAPKWYPSEDVAALKKTRKAARPQKLRASLVPGTVLILLAGRFRGKRVVYLKHLEDNTLLISGPFKVNGVPLRRVNARYVIATSTKVSVEGVNVEKFNVEYFAKEKLTKKEKKEANLFPEQQNKEIKAERVEDQKVVDKALIAEIKKTPLLKQYLSASFSLKNGDKPHMLKF",
+            "entity_poly_seq_length": 176,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of Ribosomal L30 proteins and has been termed RL30NT or NUC018 [1].",
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L30 N-terminal domain",
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF08079",
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05737"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L7-A",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MAAEKILTPESQLKKSKAQQKTAEQVAAERAARKAANKEKRAIILERNAAYQKEYETAERNIIQAKRDAKAAGSYYVEAQHKLVFVVRIKGINKIPPKPRKVLQLLRLTRINSGTFVKVTKATLELLKLIEPYVAYGYPSYSTIRQLVYKRGFGKINKQRVPLSDNAIIEANLGKYGILSIDDLIHEIITVGPHFKQANNFLWPFKLSNPSGGWGVPRKFKHFIQGGSFGNREEFINKLVKSMN",
+            "entity_poly_seq_one_letter_code_can": "MAAEKILTPESQLKKSKAQQKTAEQVAAERAARKAANKEKRAIILERNAAYQKEYETAERNIIQAKRDAKAAGSYYVEAQHKLVFVVRIKGINKIPPKPRKVLQLLRLTRINSGTFVKVTKATLELLKLIEPYVAYGYPSYSTIRQLVYKRGFGKINKQRVPLSDNAIIEANLGKYGILSIDDLIHEIITVGPHFKQANNFLWPFKLSNPSGGWGVPRKFKHFIQGGSFGNREEFINKLVKSMN",
+            "entity_poly_seq_length": 244,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05738"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L9-A",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MKYIQTEQQIEVPEGVTVSIKSRIVKVVGPRGTLTKNLKHIDVTFTKVNNQLIKVAVHNGGRKHVAALRTVKSLVDNMITGVTKGYKYKMRYVYAHFPINVNIVEKDGAKFIEVRNFLGDKKIRNVPVRDGVTIEFSTNVKDEIVLSGNSVEDVSQNAADLQQICRVRNKDIRKFLDGIYVSHKGFITEDL",
+            "entity_poly_seq_one_letter_code_can": "MKYIQTEQQIEVPEGVTVSIKSRIVKVVGPRGTLTKNLKHIDVTFTKVNNQLIKVAVHNGGRKHVAALRTVKSLVDNMITGVTKGYKYKMRYVYAHFPINVNIVEKDGAKFIEVRNFLGDKKIRNVPVRDGVTIEFSTNVKDEIVLSGNSVEDVSQNAADLQQICRVRNKDIRKFLDGIYVSHKGFITEDL",
+            "entity_poly_seq_length": 191,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes prokaryotic L1 and eukaryotic L10."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L1p/L10e family"
+            ],
+            "pfam_accessions": [
+                "PF00687"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P38779"
+            ],
+            "rcsb_pdbx_description": "Proteasome-interacting protein CIC1",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MAKKSNSKKSTPVSTPSKEKKKVIEKKSSTAIPRERVIKAVNELIKFTSKPQDENNEEGNNGKKNLLEDDEEELKKDLQLIVVNNKSFTGTSKSFKLKLLNVKHSFYKPWKEASATAVKDFKVLLILKDSDIKKVSEDDLFDQLDSEGIKVDEIICGKDLKTVYKAYEARNAFISQFSLILADDSIVTSLPKLMGGKAYNKVETTPISIRTHANKEFSLTTLTNNIKKVYMNQLPVKLPRGTTLNVHLGNLEWLRPEEFVDNVELISEQLIKAYQIRSIFIKTNRSPVLPLYYNQDVLDELEAKKDKIEETHEDDMVTIDGVQVHLSTFNKGLMEIANPSELGSIFSKQINNAKKRSSSELEKESSESEAVKKAKS",
+            "entity_poly_seq_one_letter_code_can": "MAKKSNSKKSTPVSTPSKEKKKVIEKKSSTAIPRERVIKAVNELIKFTSKPQDENNEEGNNGKKNLLEDDEEELKKDLQLIVVNNKSFTGTSKSFKLKLLNVKHSFYKPWKEASATAVKDFKVLLILKDSDIKKVSEDDLFDQLDSEGIKVDEIICGKDLKTVYKAYEARNAFISQFSLILADDSIVTSLPKLMGGKAYNKVETTPISIRTHANKEFSLTTLTNNIKKVYMNQLPVKLPRGTTLNVHLGNLEWLRPEEFVDNVELISEQLIKAYQIRSIFIKTNRSPVLPLYYNQDVLDELEAKKDKIEETHEDDMVTIDGVQVHLSTFNKGLMEIANPSELGSIFSKQINNAKKRSSSELEKESSESEAVKKAKS",
+            "entity_poly_seq_length": 376,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13e"
+            ],
+            "pfam_accessions": [
+                "PF01294"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q12690"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L13-A",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MAISKNLPILKNHFRKHWQERVKVHFDQAGKKVSRRNARATRAAKIAPRPLDLLRPVVRAPTVKYNRKVRAGRGFTLAEVKAAGLTAAYARTIGIAVDHRRQNRNQEIFDANVQRLKEYQSKIIVFPRNGKAPEAEQVLSAAATFPIAQPATDVEARAVQDNGESAFRTLRLARSEKKFRGIREKRAREKAEAEAEKKK",
+            "entity_poly_seq_one_letter_code_can": "MAISKNLPILKNHFRKHWQERVKVHFDQAGKKVSRRNARATRAAKIAPRPLDLLRPVVRAPTVKYNRKVRAGRGFTLAEVKAAGLTAAYARTIGIAVDHRRQNRNQEIFDANVQRLKEYQSKIIVFPRNGKAPEAEQVLSAAATFPIAQPATDVEARAVQDNGESAFRTLRLARSEKKFRGIREKRAREKAEAEAEKKK",
+            "entity_poly_seq_length": 199,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes the eukaryotic ribosomal protein L14."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14"
+            ],
+            "pfam_accessions": [
+                "PF01929"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P36105"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L14-A",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MSTDSIVKASNWRLVEVGRVVLIKKGQSAGKLAAIVEIIDQKKVLIDGPKAGVPRQAINLGQVVLTPLTFALPRGARTATVSKKWAAAAVCEKWAASSWAKKIAQRERRAALTDFERFQVMVLRKQKRYTVKKALAKA",
+            "entity_poly_seq_one_letter_code_can": "MSTDSIVKASNWRLVEVGRVVLIKKGQSAGKLAAIVEIIDQKKVLIDGPKAGVPRQAINLGQVVLTPLTFALPRGARTATVSKKWAAAAVCEKWAASSWAKKIAQRERRAALTDFERFQVMVLRKQKRYTVKKALAKA",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L15"
+            ],
+            "pfam_accessions": [
+                "PF00827"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05748"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L15-A",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MGAYKYLEELQRKKQSDVLRFLQRVRVWEYRQKNVIHRAARPTRPDKARRLGYKAKQGFVIYRVRVRRGNRKRPVPKGATYGKPTNQGVNELKYQRSLRATAEERVGRRAANLRVLNSYWVNQDSTYKYFEVILVDPQHKAIRRDARYNWICDPVHKHREARGLTATGKKSRGINKGHKFNNTKAGRRKTWKRQNTLSLWRYRK",
+            "entity_poly_seq_one_letter_code_can": "MGAYKYLEELQRKKQSDVLRFLQRVRVWEYRQKNVIHRAARPTRPDKARRLGYKAKQGFVIYRVRVRRGNRKRPVPKGATYGKPTNQGVNELKYQRSLRATAEERVGRRAANLRVLNSYWVNQDSTYKYFEVILVDPQHKAIRRDARYNWICDPVHKHREARGLTATGKKSRGINKGHKFNNTKAGRRKTWKRQNTLSLWRYRK",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P26784"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L16-A",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MSVEPVVVIDGKGHLVGRLASVVAKQLLNGQKIVVVRAEELNISGEFFRNKLKYHDFLRKATAFNKTRGPFHFRAPSRIFYKALRGMVSHKTARGKAALERLKVFEGIPPPYDKKKRVVVPQALRVLRLKPGRKYTTLGKLSTSVGWKYEDVVAKLEAKRKVSSAEYYAKKRAFTKKVASANATAAESDVAKQLAALGY",
+            "entity_poly_seq_one_letter_code_can": "MSVEPVVVIDGKGHLVGRLASVVAKQLLNGQKIVVVRAEELNISGEFFRNKLKYHDFLRKATAFNKTRGPFHFRAPSRIFYKALRGMVSHKTARGKAALERLKVFEGIPPPYDKKKRVVVPQALRVLRLKPGRKYTTLGKLSTSVGWKYEDVVAKLEAKRKVSSAEYYAKKRAFTKKVASANATAAESDVAKQLAALGY",
+            "entity_poly_seq_length": 199,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05740"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L17-A",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MARYGATSTNPAKSASARGSYLRVSFKNTRETAQAINGWELTKAQKYLEQVLDHQRAIPFRRFNSSIGRTAQGKEFGVTKARWPAKSVKFVQGLLQNAAANAEAKGLDATKLYVSHIQVNQAPKQRRRTYRAHGRINKYESSPSHIELVVTEKEEAVAKAAEKKVVRLTSRQRGRIAAQKRIAA",
+            "entity_poly_seq_one_letter_code_can": "MARYGATSTNPAKSASARGSYLRVSFKNTRETAQAINGWELTKAQKYLEQVLDHQRAIPFRRFNSSIGRTAQGKEFGVTKARWPAKSVKFVQGLLQNAAANAEAKGLDATKLYVSHIQVNQAPKQRRRTYRAHGRINKYESSPSHIELVVTEKEEAVAKAAEKKVVRLTSRQRGRIAAQKRIAA",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This is a family of ribosomal proteins, 60S L18 from eukaryotes and 50S L18e from Archaea."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein 60S L18 and 50S L18e"
+            ],
+            "pfam_accessions": [
+                "PF17135"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0CX49"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L18-A",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MGIDHTSKQHKRSGHRTAPKSDNVYLKLLVKLYTFLARRTDAPFNKVVLKALFLSKINRPPVSVSRIARALKQEGAANKTVVVVGTVTDDARIFEFPKTTVAALRFTAGARAKIVKAGGECITLDQLAVRAPKGQNTLILRGPRNSREAVRHFGMGPHKGKAPRILSTGRKFERARGRRRSKGFKV",
+            "entity_poly_seq_one_letter_code_can": "MGIDHTSKQHKRSGHRTAPKSDNVYLKLLVKLYTFLARRTDAPFNKVVLKALFLSKINRPPVSVSRIARALKQEGAANKTVVVVGTVTDDARIFEFPKTTVAALRFTAGARAKIVKAGGECITLDQLAVRAPKGQNTLILRGPRNSREAVRHFGMGPHKGKAPRILSTGRKFERARGRRRSKGFKV",
+            "entity_poly_seq_length": 186,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19e"
+            ],
+            "pfam_accessions": [
+                "PF01280"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0CX82"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L19-A",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MANLRTQKRLAASVVGVGKRKVWLDPNETSEIAQANSRNAIRKLVKNGTIVKKAVTVHSKSRTRAHAQSKREGRHSGYGKRKGTREARLPSQVVWIRRLRVLRRLLAKYRDAGKIDKHLYHVLYKESKGNAFKHKRALVEHIIQAKADAQREKALNEEAEARRLKNRAARDRRAQRVAEKRDALLKEDA",
+            "entity_poly_seq_one_letter_code_can": "MANLRTQKRLAASVVGVGKRKVWLDPNETSEIAQANSRNAIRKLVKNGTIVKKAVTVHSKSRTRAHAQSKREGRHSGYGKRKGTREARLPSQVVWIRRLRVLRRLLAKYRDAGKIDKHLYHVLYKESKGNAFKHKRALVEHIIQAKADAQREKALNEEAEARRLKNRAARDRRAQRVAEKRDALLKEDA",
+            "entity_poly_seq_length": 189,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes: archaeal 50S ribosomal protein L18Ae, often referred to as L20e or LX; fungal 60S ribosomal protein L20; and higher eukaryote 60S ribosomal protein L18A."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A"
+            ],
+            "pfam_accessions": [
+                "PF01775"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0CX23"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L20-A",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MAHFKEYQVIGRRLPTESVPEPKLFRMRIFASNEVIAKSRYWYFLQKLHKVKKASGEIVSINQINEAHPTKVKNFGVWVRYDSRSGTHNMYKEIRDVSRVAAVETLYQDMAARHRARFRSIHILKVAEIEKTADVKRQYVKQFLTKDLKFPLPHRVQKSTKTFSYKRPSTFY",
+            "entity_poly_seq_one_letter_code_can": "MAHFKEYQVIGRRLPTESVPEPKLFRMRIFASNEVIAKSRYWYFLQKLHKVKKASGEIVSINQINEAHPTKVKNFGVWVRYDSRSGTHNMYKEIRDVSRVAAVETLYQDMAARHRARFRSIHILKVAEIEKTADVKRQYVKQFLTKDLKFPLPHRVQKSTKTFSYKRPSTFY",
+            "entity_poly_seq_length": 172,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L21e"
+            ],
+            "pfam_accessions": [
+                "PF01157"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q02753"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L21-A",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MGKSHGYRSRTRYMFQRDFRKHGAVHLSTYLKVYKVGDIVDIKANGSIQKGMPHKFYQGKTGVVYNVTKSSVGVIINKMVGNRYLEKRLNLRVEHIKHSKCRQEFLERVKANAAKRAEAKAQGVAVQLKRQPAQPRESRIVSTEGNVPQTLAPVPYETFI",
+            "entity_poly_seq_one_letter_code_can": "MGKSHGYRSRTRYMFQRDFRKHGAVHLSTYLKVYKVGDIVDIKANGSIQKGMPHKFYQGKTGVVYNVTKSSVGVIINKMVGNRYLEKRLNLRVEHIKHSKCRQEFLERVKANAAKRAEAKAQGVAVQLKRQPAQPRESRIVSTEGNVPQTLAPVPYETFI",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L22e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01776"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05749"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L22-A",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MAPNTSRKQKIAKTFTVDVSSPTENGVFDPASYAKYLIDHIKVEGAVGNLGNAVTVTEDGTVVTVVSTAKFSGKYLKYLTKKYLKKNQLRDWIRFVSTKTNEYRLAFYQVTPEEDEEEDEE",
+            "entity_poly_seq_one_letter_code_can": "MAPNTSRKQKIAKTFTVDVSSPTENGVFDPASYAKYLIDHIKVEGAVGNLGNAVTVTEDGTVVTVVSTAKFSGKYLKYLTKKYLKKNQLRDWIRFVSTKTNEYRLAFYQVTPEEDEEEDEE",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0CX41"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L23-A",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MSGNGAQGTKFRISLGLPVGAIMNCADNSGARNLYIIAVKGSGSRLNRLPAASLGDMVMATVKKGKPELRKKVMPAIVVRQAKSWRRRDGVFLYFEDNAGVIANPKGEMKGSAITGPVGKECADLWPRVASNSGVVV",
+            "entity_poly_seq_one_letter_code_can": "MSGNGAQGTKFRISLGLPVGAIMNCADNSGARNLYIIAVKGSGSRLNRLPAASLGDMVMATVKKGKPELRKKVMPAIVVRQAKSWRRRDGVFLYFEDNAGVIANPKGEMKGSAITGPVGKECADLWPRVASNSGVVV",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This domain is found in prokaryotic and archaeal ribosomal L10 protein [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Insertion domain in 60S ribosomal protein L10P",
+                "Ribosomal protein L10"
+            ],
+            "pfam_accessions": [
+                "PF17777",
+                "PF00466"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P33201"
+            ],
+            "rcsb_pdbx_description": "Ribosome assembly factor MRT4",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MPRSKRSKLVTLAQTDKKGRENKERIFDEVREALDTYRYVWVLHLDDVRTPVLQEIRTSWAGSKLIMGKRKVLQKALGEKREEEYKENLYQLSKLCSGVTGLLFTDEDVNTVKEYFKSYVRSDYSRPNTKAPLTFTIPEGIVYSRGGQIPAEEDVPMIHSLEPTMRNKFEIPTKIKAGKITIDSPYLVCTEGEKLDVRQALILKQFGIAASEFKVKVSAYYDNDSSTVESTNINME",
+            "entity_poly_seq_one_letter_code_can": "MPRSKRSKLVTLAQTDKKGRENKERIFDEVREALDTYRYVWVLHLDDVRTPVLQEIRTSWAGSKLIMGKRKVLQKALGEKREEEYKENLYQLSKLCSGVTGLLFTDEDVNTVKEYFKSYVRSDYSRPNTKAPLTFTIPEGIVYSRGGQIPAEEDVPMIHSLEPTMRNKFEIPTKIKAGKITIDSPYLVCTEGEKLDVRQALILKQFGIAASEFKVKVSAYYDNDSSTVESTNINME",
+            "entity_poly_seq_length": 236,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "The N-terminal domain appears to be specific to the  eukaryotic ribosomal proteins L25, L23, and L23a.",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23, N-terminal domain",
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF03939",
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P04456"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L25",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MAPSAKATAAKKAVVKGTNGKKALKVRTSATFRLPKTLKLARAPKYASKAVPHYNRLDSYKVIEQPITSETAMKKVEDGNILVFQVSMKANKYQIKKAVKELYEVDVLKVNTLVRPNGTKKAYVRLTADYDALDIANRIGYI",
+            "entity_poly_seq_one_letter_code_can": "MAPSAKATAAKKAVVKGTNGKKALKVRTSATFRLPKTLKLARAPKYASKAVPHYNRLDSYKVIEQPITSETAMKKVEDGNILVFQVSMKANKYQIKKAVKELYEVDVLKVNTLVRPNGTKKAYVRLTADYDALDIANRIGYI",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "Ribosomal_L26 is a family of the 50S and the 60S ribosomal proteins from eukaryotes - L26 - and archaea - L25.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins L26 eukaryotic, L24P archaeal",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF16906",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05743"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L26-A",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MAKQSLDVSSDRRKARKAYFTAPSSQRRVLLSAPLSKELRAQYGIKALPIRRDDEVLVVRGSKKGQEGKISSVYRLKFAVQVDKVTKEKVNGASVPINLHPSKLVITKLHLDKDRKALIQRKGGKLE",
+            "entity_poly_seq_one_letter_code_can": "MAKQSLDVSSDRRKARKAYFTAPSSQRRVLLSAPLSKELRAQYGIKALPIRRDDEVLVVRGSKKGQEGKISSVYRLKFAVQVDKVTKEKVNGASVPINLHPSKLVITKLHLDKDRKALIQRKGGKLE",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "The N-terminal region of the eukaryotic ribosomal L27 has the KOW motif.  C-terminal region is represented by this family."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01777"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0C2H6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L27-A",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MAKFLKAGKVAVVVRGRYAGKKVVIVKPHDEGSKSHPFGHALVAGIERYPLKVTKKHGAKKVAKRTKIKPFIKVVNYNHLLPTRYTLDVEAFKSVVSTETFEQPSQREEAKKVVKKAFEERHQAGKNQWFFSKLRF",
+            "entity_poly_seq_one_letter_code_can": "MAKFLKAGKVAVVVRGRYAGKKVVIVKPHDEGSKSHPFGHALVAGIERYPLKVTKKHGAKKVAKRTKIKPFIKVVNYNHLLPTRYTLDVEAFKSVVSTETFEQPSQREEAKKVVKKAFEERHQAGKNQWFFSKLRF",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P02406"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L28",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MPSRFTKTRKHRGHVSAGKGRIGKHRKHPGGRGMAGGQHHHRINMDKYHPGYFGKVGMRYFHKQQAHFWKPVLNLDKLWTLIPEDKRDQYLKSASKETAPVIDTLAAGYGKILGKGRIPNVPVIVKARFVSKLAEEKIRAAGGVVELIA",
+            "entity_poly_seq_one_letter_code_can": "MPSRFTKTRKHRGHVSAGKGRIGKHRKHPGGRGMAGGQHHHRINMDKYHPGYFGKVGMRYFHKQQAHFWKPVLNLDKLWTLIPEDKRDQYLKSASKETAPVIDTLAAGYGKILGKGRIPNVPVIVKARFVSKLAEEKIRAAGGVVELIA",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This C terminal domain is found in the NOG subfamily of nucleolar GTP-binding proteins [1].",
+                "This family represents a conserved region of approximately 60 residues in length within nucleolar GTP-binding protein 1 (NOG1). In S. cerevisiae, the NOG1 gene has been shown to be essential for cell viability, suggesting that NOG1 may play an important role in nucleolar functions [1]. Family members include eukaryotic, bacterial and archaeal proteins.",
+                "This domain is found at the N-terminus of NOG1 GTPase proteins."
+            ],
+            "pfam_descriptions": [
+                "NOGCT (NUC087) domain",
+                "Nucleolar GTP-binding protein 1 (NOG1)",
+                "NOG1 N-terminal helical domain"
+            ],
+            "pfam_accessions": [
+                "PF08155",
+                "PF06858",
+                "PF17835"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q02892"
+            ],
+            "rcsb_pdbx_description": "Nucleolar GTP-binding protein 1",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MQLSWKDIPTVAPANDLLDIVLNRTQRKTPTVIRPGFKITRIRAFYMRKVKYTGEGFVEKFEDILKGFPNINDVHPFHRDLMDTLYEKNHYKISLAAISRAKSLVEQVARDYVRLLKFGQSLFQCKQLKRAALGRMATIVKKLRDPLAYLEQVRQHIGRLPSIDPNTRTLLICGYPNVGKSSFLRCITKSDVDVQPYAFTTKSLYVGHFDYKYLRFQAIDTPGILDRPTEEMNNIEMQSIYAIAHLRSCVLYFMDLSEQCGFTIEAQVKLFHSIKPLFANKSVMVVINKTDIIRPEDLDEERAQLLESVKEVPGVEIMTSSCQLEENVMEVRNKACEKLLASRIENKLKSQSRINNVLNKIHVAQPQARDDVKRTPFIPESVKNLKKYDPEDPNRRKLARDIEAENGGAGVFNVNLKDKYLLEDDEWKNDIMPEILDGKNVYDFLDPEIAAKLQALEEEEEKLENEGFYNSDDEEEIYDGFEASEVDDIKEKAAWIRNRQKTMIAEARNRKSLKNKAIMPRSKLTKSFGKMEEHMSTLGHDMSALQDKQNRAARKNRYVERGSDVVFGDQDALTASTENGVKLRQTDRLLDGVADGSMRSKADRMAKMERRERNRHAKQGESDRHNAVSLSKHLFSGKRGVGKTDFR",
+            "entity_poly_seq_one_letter_code_can": "MQLSWKDIPTVAPANDLLDIVLNRTQRKTPTVIRPGFKITRIRAFYMRKVKYTGEGFVEKFEDILKGFPNINDVHPFHRDLMDTLYEKNHYKISLAAISRAKSLVEQVARDYVRLLKFGQSLFQCKQLKRAALGRMATIVKKLRDPLAYLEQVRQHIGRLPSIDPNTRTLLICGYPNVGKSSFLRCITKSDVDVQPYAFTTKSLYVGHFDYKYLRFQAIDTPGILDRPTEEMNNIEMQSIYAIAHLRSCVLYFMDLSEQCGFTIEAQVKLFHSIKPLFANKSVMVVINKTDIIRPEDLDEERAQLLESVKEVPGVEIMTSSCQLEENVMEVRNKACEKLLASRIENKLKSQSRINNVLNKIHVAQPQARDDVKRTPFIPESVKNLKKYDPEDPNRRKLARDIEAENGGAGVFNVNLKDKYLLEDDEWKNDIMPEILDGKNVYDFLDPEIAAKLQALEEEEEKLENEGFYNSDDEEEIYDGFEASEVDDIKEKAAWIRNRQKTMIAEARNRKSLKNKAIMPRSKLTKSFGKMEEHMSTLGHDMSALQDKQNRAARKNRYVERGSDVVFGDQDALTASTENGVKLRQTDRLLDGVADGSMRSKADRMAKMERRERNRHAKQGESDRHNAVSLSKHLFSGKRGVGKTDFR",
+            "entity_poly_seq_length": 647,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P14120"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L30",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MAPVKSQESINQKLALVIKSGKYTLGYKSTVKSLRQGKSKLIIIAANTPVLRKSELEYYAMLSKTKVYYFQGGNNELGTAVGKLFRVGVVSILEAGDSDILTTLA",
+            "entity_poly_seq_one_letter_code_can": "MAPVKSQESINQKLALVIKSGKYTLGYKSTVKSLRQGKSKLIIIAANTPVLRKSELEYYAMLSKTKVYYFQGGNNELGTAVGKLFRVGVVSILEAGDSDILTTLA",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31e"
+            ],
+            "pfam_accessions": [
+                "PF01198"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0C2H8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L31-A",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MAGLKDVVTREYTINLHKRLHGVSFKKRAPRAVKEIKKFAKLHMGTDDVRLAPELNQAIWKRGVKGVEYRLRLRISRKRNEEEDAKNPLFSYVEPVLVASAKGLQTVVVEEDA",
+            "entity_poly_seq_one_letter_code_can": "MAGLKDVVTREYTINLHKRLHGVSFKKRAPRAVKEIKKFAKLHMGTDDVRLAPELNQAIWKRGVKGVEYRLRLRISRKRNEEEDAKNPLFSYVEPVLVASAKGLQTVVVEEDA",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34e"
+            ],
+            "pfam_accessions": [
+                "PF01199"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P87262"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L34-A",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MAQRVTFRRRNPYNTRSNKIKVVKTPGGILRAQHVKKLATRPKCGDCGSALQGISTLRPRQYATVSKTHKTVSRAYGGSRCANCVKERIIRAFLIEEQKIVKKVVKEQTEAAKKSEKKAKK",
+            "entity_poly_seq_one_letter_code_can": "MAQRVTFRRRNPYNTRSNKIKVVKTPGGILRAQHVKKLATRPKCGDCGSALQGISTLRPRQYATVSKTHKTVSRAYGGSRCANCVKERIIRAFLIEEQKIVKKVVKEQTEAAKKSEKKAKK",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P0CX84"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L35-A",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MAGVKAYELRTKSKEQLASQLVDLKKELAELKVQKLSRPSLPKIKTVRKSIACVLTVINEQQREAVRQLYKGKKYQPKDLRAKKTRALRRALTKFEASQVTEKQRKKQIAFPQRKYAIKA",
+            "entity_poly_seq_one_letter_code_can": "MAGVKAYELRTKSKEQLASQLVDLKKELAELKVQKLSRPSLPKIKTVRKSIACVLTVINEQQREAVRQLYKGKKYQPKDLRAKKTRALRRALTKFEASQVTEKQRKKQIAFPQRKYAIKA",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36e"
+            ],
+            "pfam_accessions": [
+                "PF01158"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05745"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L36-A",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MTVKTGIAIGLNKGKKVTSMTPAPKISYKKGAASNRTKFVRSLVREIAGLSPYERRLIDLIRNSGEKRARKVAKKRLGSFTRAKAKVEEMNNIIAASRRH",
+            "entity_poly_seq_one_letter_code_can": "MTVKTGIAIGLNKGKKVTSMTPAPKISYKKGAASNRTKFVRSLVREIAGLSPYERRLIDLIRNSGEKRARKVAKKRLGSFTRAKAKVEEMNNIIAASRRH",
+            "entity_poly_seq_length": 100,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L38e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01781"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P49167"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L38",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MAREITDIKQFLELTRRADVKTATVKINKKLNKAGKPFRQTKFKVRGSSSLYTLVINDAGKAKKLIQSLPPTLKVNRL",
+            "entity_poly_seq_one_letter_code_can": "MAREITDIKQFLELTRRADVKTATVKINKKLNKAGKPFRQTKFKVRGSSSLYTLVINDAGKAKKLIQSLPPTLKVNRL",
+            "entity_poly_seq_length": 78,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL38"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family represents the N-terminal region of Pescadillo. Pescadillo protein localises to distinct substructures of the interphase nucleus including nucleoli, the site of ribosome biogenesis. During mitosis pescadillo closely associates with the periphery of metaphase chromosomes and by late anaphase is associated with nucleolus-derived foci and prenucleolar bodies. Blastomeres in mouse embryos lacking pescadillo arrest at morula stages of development, the nucleoli fail to differentiate and accumulation of ribosomes is inhibited. It has been proposed that in mammalian cells pescadillo is essential for ribosome biogenesis and nucleologenesis and that disruption to its function results in cell cycle arrest [1]. This family is often found in conjunction with a Pfam:PF00533 domain.",
+                "This BRCT domain, a BRCA1 C-terminus region, is found on many RAP1 proteins, usually at the very N-terminus. The function in human at least of a BRCT is to contribute to the heterogeneity of the telomere DNA length, but that may not be its general function, which remains unknown [1,2]."
+            ],
+            "pfam_descriptions": [
+                "Pescadillo N-terminus",
+                "BRCT domain, a BRCA1 C-terminus domain"
+            ],
+            "pfam_accessions": [
+                "PF06732",
+                "PF16589"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "A6ZV85"
+            ],
+            "rcsb_pdbx_description": "Pescadillo homolog",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "MRIKKKNTRGNARNFITRSQAVRKLQVSLADFRRLCIFKGIYPREPRNKKKANKGSTAPTTFYYAKDIQYLMHEPVLAKFREHKTFARKLTRALGRGEVSSAKRLEENRDSYTLDHIIKERYPSFPDAIRDIDDALNMLFLFSNLPSTNQVSSKIINDAQKICNQWLAYVAKERLVRKVFVSIKGVYYQANIKGEEVRWLVPFKFPENIPSDVDFRIMLTFLEFYSTLLHFVLYKLYTDSGLIYPPKLDLKKDKIISGLSSYILESRQEDSLLKLDPTEIEEDVKVESLDASTLKSALNADEANTDETEKEEEQEKKQEKEQEKEQNEETELDTFEDNNKNKGDILIQPSKYDSPVASLFSAFVFYVSREVPIDILEFLILSCGGNVISEAAMDQIENKKDIDMSKVTHQIVDRPVLKNKVAGRTYIQPQWIFDCINKGELVPANKYLPGEALPPHLSPWGDAIGYDPTAPVEEGEEEESESESESEDQVEEEDQEVVAGEEDDDDDEELQAQKELELEAQGIKYSETSEADKDVNKSKNKKRKVDEEEEEKKLKMIMMSNKQKKLYKKMKYSNAKKEEQAENLKKKKKQIAKQKAKLNKLDSKK",
+            "entity_poly_seq_one_letter_code_can": "MRIKKKNTRGNARNFITRSQAVRKLQVSLADFRRLCIFKGIYPREPRNKKKANKGSTAPTTFYYAKDIQYLMHEPVLAKFREHKTFARKLTRALGRGEVSSAKRLEENRDSYTLDHIIKERYPSFPDAIRDIDDALNMLFLFSNLPSTNQVSSKIINDAQKICNQWLAYVAKERLVRKVFVSIKGVYYQANIKGEEVRWLVPFKFPENIPSDVDFRIMLTFLEFYSTLLHFVLYKLYTDSGLIYPPKLDLKKDKIISGLSSYILESRQEDSLLKLDPTEIEEDVKVESLDASTLKSALNADEANTDETEKEEEQEKKQEKEQEKEQNEETELDTFEDNNKNKGDILIQPSKYDSPVASLFSAFVFYVSREVPIDILEFLILSCGGNVISEAAMDQIENKKDIDMSKVTHQIVDRPVLKNKVAGRTYIQPQWIFDCINKGELVPANKYLPGEALPPHLSPWGDAIGYDPTAPVEEGEEEESESESESEDQVEEEDQEVVAGEEDDDDDEELQAQKELELEAQGIKYSETSEADKDVNKSKNKKRKVDEEEEEKKLKMIMMSNKQKKLYKKMKYSNAKKEEQAENLKKKKKQIAKQKAKLNKLDSKK",
+            "entity_poly_seq_length": 605,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "The RRM motif is probably diagnostic of an RNA binding protein. RRMs are found in a variety of RNA binding proteins, including various hnRNP proteins, proteins implicated in regulation of alternative splicing, and protein components of snRNPs. The motif also appears in a few single stranded DNA binding proteins.  The RRM structure consists of four strands and two helices arranged in an alpha/beta sandwich, with a third helix present during RNA binding in some cases The C-terminal beta strand (4th strand) and final helix are hard to align and have been omitted in the SEED alignment The LA proteins (Swiss:P05455) have an N terminal rrm which is included in the seed. There is a second region towards the C terminus that has some features characteristic of a rrm but does not appear to have the important structural core of a rrm. The LA proteins (Swiss:P05455) are one of the main autoantigens in Systemic lupus erythematosus (SLE), an autoimmune disease."
+            ],
+            "pfam_descriptions": [
+                "RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)"
+            ],
+            "pfam_accessions": [
+                "PF00076"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P53927"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein 15",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MVKSTSKTSTKETVTKQPTEEKPIQEKEELALETSSSSSDEEDEKDEDEIEGLAASDDEQSGTHKIKRLNPKKQANEKKSKDKKTLEEYSGIIYVSRLPHGFHEKELSKYFAQFGDLKEVRLARNKKTGNSRHYGFLEFVNKEDAMIAQESMNNYLLMGHLLQVRVLPKGAKIEKLYKYKKRVLVEKGITKPVKQLKDNMKQKHEERIKKLAKSGIEFKW",
+            "entity_poly_seq_one_letter_code_can": "MVKSTSKTSTKETVTKQPTEEKPIQEKEELALETSSSSSDEEDEKDEDEIEGLAASDDEQSGTHKIKRLNPKKQANEKKSKDKKTLEEYSGIIYVSRLPHGFHEKELSKYFAQFGDLKEVRLARNKKTGNSRHYGFLEFVNKEDAMIAQESMNNYLLMGHLLQVRVLPKGAKIEKLYKYKKRVLVEKGITKPVKQLKDNMKQKHEERIKKLAKSGIEFKW",
+            "entity_poly_seq_length": 220,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This nucleolar family of proteins are involved in 60S ribosomal biogenesis.  They are specifically involved in the processing beyond the 27S stage of 25S rRNA maturation [3]. This family contains sequences that bear similarity to the glioma tumour suppressor candidate region gene 2 protein (p60) [1]. This protein has been found to interact with herpes simplex type 1 regulatory proteins [1]."
+            ],
+            "pfam_descriptions": [
+                "Nop53 (60S ribosomal biogenesis)"
+            ],
+            "pfam_accessions": [
+                "PF07767"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q12080"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein NOP53",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "MAPTNLTKKPSQYKQSSRKGKKAWRKNIDLSDVEQYMEKKIDHEITHGTSDITSLQNDALFHVDVEGDEILKNKLIKRKQIKKVLKSKEILDAVKTNSKIAALNHHKNSSGNPNKIQGVSKHELKKLMALAGRVHGESKIKNRVAKDGLVKTTAGDLWGEESNSKKQKVKLPSGIKLDVEKKDQIPEELLKKSTTSWSTASVRPSTLDIEPIAVKEFTEIPHAGKSYNPNNKAWSELINKEYKEEKAREDERIALEKYKERIRHLMETLDDNEEEESSSNEEEEEEEEENENENESTQCSGSDKEIKLSINKPVKNKKKTKYQRNKAKRHEEKVKLQQELKELRQRVKDLEEVINSEETEILSAIESDSNKVKKSKKNKKHKLGTKYSVIDERLEIKFSDELSDSLRKLKPEGNLLYDTVRKLQSSGKVETRVPVRKGRKYKQKITEKWTHKDFK",
+            "entity_poly_seq_one_letter_code_can": "MAPTNLTKKPSQYKQSSRKGKKAWRKNIDLSDVEQYMEKKIDHEITHGTSDITSLQNDALFHVDVEGDEILKNKLIKRKQIKKVLKSKEILDAVKTNSKIAALNHHKNSSGNPNKIQGVSKHELKKLMALAGRVHGESKIKNRVAKDGLVKTTAGDLWGEESNSKKQKVKLPSGIKLDVEKKDQIPEELLKKSTTSWSTASVRPSTLDIEPIAVKEFTEIPHAGKSYNPNNKAWSELINKEYKEEKAREDERIALEKYKERIRHLMETLDDNEEEESSSNEEEEEEEEENENENESTQCSGSDKEIKLSINKPVKNKKKTKYQRNKAKRHEEKVKLQQELKELRQRVKDLEEVINSEETEILSAIESDSNKVKKSKKNKKHKLGTKYSVIDERLEIKFSDELSDSLRKLKPEGNLLYDTVRKLQSSGKVETRVPVRKGRKYKQKITEKWTHKDFK",
+            "entity_poly_seq_length": 455,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8e"
+            ],
+            "pfam_accessions": [
+                "PF01201"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "A6ZR80"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein NSA2",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "MPQNDYIERHIKQHGKRLDHEERKRKREARESHKISERAQKLTGWKGKQFAKKRYAEKVSMRKKIKAHEQSKVKGSSKPLDTDGDALPTYLLDREQNNTAKAISSSIKQKRLEKADKFSVPLPKVRGISEEEMFKVIKTGKSRSKSWKRMITKHTFVGEGFTRRPVKMERIIRPSALRQKKANVTHPELGVTVFLPILAVKKNPQSPMYTQLGVLTKGTIIEVNVSELGMVTAGGKVVWGKYAQVTNEPDRDGCVNAVLLV",
+            "entity_poly_seq_one_letter_code_can": "MPQNDYIERHIKQHGKRLDHEERKRKREARESHKISERAQKLTGWKGKQFAKKRYAEKVSMRKKIKAHEQSKVKGSSKPLDTDGDALPTYLLDREQNNTAKAISSSIKQKRLEKADKFSVPLPKVRGISEEEMFKVIKTGKSRSKSWKRMITKHTFVGEGFTRRPVKMERIIRPSALRQKKANVTHPELGVTVFLPILAVKKNPQSPMYTQLGVLTKGTIIEVNVSELGMVTAGGKVVWGKYAQVTNEPDRDGCVNAVLLV",
+            "entity_poly_seq_length": 261,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "The full-length GTPase protein is required for the complete activity of the protein of interacting with the 50S ribosome and binding of both adenine and guanine nucleotides, with a preference for guanine nucleotide.",
+                "Grn1 (yeast) and GNL3L (human) are putative GTPases which are required for growth and play a role in processing of nucleolar pre-rRNA [1].  This family contains a potential nuclear localisation signal."
+            ],
+            "pfam_descriptions": [
+                "50S ribosome-binding GTPase",
+                "GNL3L/Grn1 putative GTPase"
+            ],
+            "pfam_accessions": [
+                "PF01926",
+                "PF08701"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P40010"
+            ],
+            "rcsb_pdbx_description": "Nuclear GTP-binding protein NUG1",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "MRVRKRQSRRTSTKLKEGIKKKASAHRKKEKKMAKKDVTWRSRSKKDPGIPSNFPYKAKILEEIEAKKMKDLEERELAKQQRLEARKAAKEQGVDAMDEDMIEDDENGLAALVESAQQAAAEYEGTPSNDADVRDDELDVIDYNIDFYGEDVEGESELEKSRKAYDKIFKSVIDASDVILYVLDARDPESTRSRKVEEAVLQSQGKRLILILNKVDLIPPHVLEQWLNYLKSSFPTIPLRASSGAVNGTSFNRKLSQTTTASALLESLKTYSNNSNLKRSIVVGVIGYPNVGKSSVINALLARRGGQSKACPVGNEAGVTTSLREIKIDNKLKILDSPGICFPSENKKRSKVEHEAELALLNALPAKHIVDPYPAVLMLVKRLAKSDEMTESFKKLYEIPPIPANDADTFTKHFLIHVARKRGRLGKGGIPNLASAGLSVLNDWRDGKILGWVLPNTSAAASQQDKQNLSTINTGTKQAPIAANESTIVSEWSKEFDLDGLFSSLDKAIDASKDQDTMME",
+            "entity_poly_seq_one_letter_code_can": "MRVRKRQSRRTSTKLKEGIKKKASAHRKKEKKMAKKDVTWRSRSKKDPGIPSNFPYKAKILEEIEAKKMKDLEERELAKQQRLEARKAAKEQGVDAMDEDMIEDDENGLAALVESAQQAAAEYEGTPSNDADVRDDELDVIDYNIDFYGEDVEGESELEKSRKAYDKIFKSVIDASDVILYVLDARDPESTRSRKVEEAVLQSQGKRLILILNKVDLIPPHVLEQWLNYLKSSFPTIPLRASSGAVNGTSFNRKLSQTTTASALLESLKTYSNNSNLKRSIVVGVIGYPNVGKSSVINALLARRGGQSKACPVGNEAGVTTSLREIKIDNKLKILDSPGICFPSENKKRSKVEHEAELALLNALPAKHIVDPYPAVLMLVKRLAKSDEMTESFKKLYEIPPIPANDADTFTKHFLIHVARKRGRLGKGGIPNLASAGLSVLNDWRDGKILGWVLPNTSAAASQQDKQNLSTINTGTKQAPIAANESTIVSEWSKEFDLDGLFSSLDKAIDASKDQDTMME",
+            "entity_poly_seq_length": 520,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P40693"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein RLP7",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "MSSTQDSKAQTLNSNPEILLRKRRNADRTRIERQELAKKKREEQIKKKRSNKNKFVRAESIVAKTLATSREKERIKRVSILEDKKAKNETQHIASGKDFILKITEKANGAEENSVDLEETEEEEDDGLIREKTTYDGKPALLFIVRVRGPLAVNIPNKAFKILSLLRLVETNTGVFVKLTKNVYPLLKVIAPYVVIGKPSLSSIRSLIQKRGRIIYKGENEAEPHEIVLNDNNIVEEQLGDHGIICVEDIIHEIATMGESFSVCNFFLQPFKLNREVSGFGSLNRLRKIKQREAESRTRQFSNAATAPVIEVDIDSLLAKLN",
+            "entity_poly_seq_one_letter_code_can": "MSSTQDSKAQTLNSNPEILLRKRRNADRTRIERQELAKKKREEQIKKKRSNKNKFVRAESIVAKTLATSREKERIKRVSILEDKKAKNETQHIASGKDFILKITEKANGAEENSVDLEETEEEEDDGLIREKTTYDGKPALLFIVRVRGPLAVNIPNKAFKILSLLRLVETNTGVFVKLTKNVYPLLKVIAPYVVIGKPSLSSIRSLIQKRGRIIYKGENEAEPHEIVLNDNNIVEEQLGDHGIICVEDIIHEIATMGESFSVCNFFLQPFKLNREVSGFGSLNRLRKIKQREAESRTRQFSNAATAPVIEVDIDSLLAKLN",
+            "entity_poly_seq_length": 322,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L24e"
+            ],
+            "pfam_accessions": [
+                "PF01246"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q07915"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein RLP24",
+            "entity_poly_strand_id": "u",
+            "entity_poly_seq_one_letter_code": "MRIYQCHFCSSPCYPGHGIMFVRNDAKEFRFCRSKCHKAFKQRRNPRKLKWTKAFRKAAGKELAVDSTLTFAQRRNVPVRYNRELVATTLKAMARIEEIRQKRERAFYKNRMRGNKEKDFLRDKKLVESNPELLRIREVEIARKLAKEQERAESVSEQEESEEEEEDMEIDSDEEEEEQLEKQKILLKNRRRNTKKIAF",
+            "entity_poly_seq_one_letter_code_can": "MRIYQCHFCSSPCYPGHGIMFVRNDAKEFRFCRSKCHKAFKQRRNPRKLKWTKAFRKAAGKELAVDSTLTFAQRRNVPVRYNRELVATTLKAMARIEEIRQKRERAFYKNRMRGNKEKDFLRDKKLVESNPELLRIREVEIARKLAKEQERAESVSEQEESEEEEEDMEIDSDEEEEEQLEKQKILLKNRRRNTKKIAF",
+            "entity_poly_seq_length": 199,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This is a family of proteins conserved in fungi. The function is not known."
+            ],
+            "pfam_descriptions": [
+                "Protein of unknown function (DUF2423)"
+            ],
+            "pfam_accessions": [
+                "PF10338"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P38202"
+            ],
+            "rcsb_pdbx_description": "UPF0642 protein YBL028C",
+            "entity_poly_strand_id": "z",
+            "entity_poly_seq_one_letter_code": "MAKSLRASSHLNAKSVKRRGVFQKAVDAREQRISDKLKEDLLKQKLEDLKKKEEQGIDMDVDEKKSNEEAPRKKISTSGWRDGRHHTYKKAKLMKQSKKKTSFTRF",
+            "entity_poly_seq_one_letter_code_can": "MAKSLRASSHLNAKSVKRRGVFQKAVDAREQRISDKLKEDLLKQKLEDLKKKEEQGIDMDVDEKKSNEEAPRKKISTSGWRDGRHHTYKKAKLMKQSKKKTSFTRF",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This presumed domain is found at the C-terminus of a family of FtsJ-like methyltransferases. Members of this family are involved in 60S ribosomal biogenesis, for example Swiss:P25582 [1].",
+                "This domain is functionally uncharacterised. This domain is found in eukaryotes. This presumed domain is typically between 156 to 174 amino acids in length. This domain is found associated with Pfam:PF07780, Pfam:PF01728.",
+                "This family consists of FtsJ from various bacterial and archaeal sources FtsJ is a methyltransferase, but actually has no effect on cell division. FtsJ's substrate is the 23S rRNA. The 1.5 A crystal structure of FtsJ in complex with its cofactor S-adenosylmethionine revealed that FtsJ has a methyltransferase fold. This family also includes the N terminus of flaviviral NS5 protein. It has been hypothesised that the N-terminal domain of NS5 is a methyltransferase involved in viral RNA capping [2]."
+            ],
+            "pfam_descriptions": [
+                "Spb1 C-terminal domain",
+                "Domain of unknown function (DUF3381)",
+                "FtsJ-like methyltransferase"
+            ],
+            "pfam_accessions": [
+                "PF07780",
+                "PF11861",
+                "PF01728"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P25582"
+            ],
+            "rcsb_pdbx_description": "27S pre-rRNA (guanosine(2922)-2'-O)-methyltransferase",
+            "entity_poly_strand_id": "w",
+            "entity_poly_seq_one_letter_code": "MGKTQKKNSKGRLDRYYYLAKEKGYRARSSFKIIQINEKYGHFLEKSKVVIDLCAAPGSWCQVASKLCPVNSLIIGVDIVPMKPMPNVITFQSDITTEDCRSKLRGYMKTWKADTVLHDGAPNVGLGWVQDAFTQSQLTLQALKLAVENLVVNGTFVTKIFRSKDYNKLIWVFQQLFEKVEATKPPASRNVSAEIFVVCKGFKAPKRLDPRLLDPKEVFEELPDGQQNMESKIYNPEKKVRKRQGYEEGDNLLYHETSILDFVRTEDPISMLGEMNKFTIDENDHEWKILKKLKQTTDEFRSCIEDLKVLGKKDFKMILRWRKIAREILGIEVKDDAKTEIEVVPLTEEEQIEKDLQGLQEKQRLNVKRERRRKNEMKQKELQRMQMNMITPTDIGIEAASLGKESLFNLKTAEKTGILNDLAKGKKRMIFTDDELAKDNDIYIDENIMIKDKDSAADADDLESELNAMYSDYKTRRSERDAKFRAKQARGGDNEEEWTGFNEGSLEKKEEEGKDYIEDNDDEGVEGDSDDDEAITNLISKLKGQEGDHKLSSKARMIFNDPIFNNVEPDLPVNTVNDGIMSSESVGDISKLNKKRKHEEMHQKQDEADSSDESSSDDSDFEIVANDNASEEFDSDYDSEEEKNQTKKEKHSRDIDIATVEAMTLAHQLALGQKNKHDLVDEGFNRYTFRDTENLPDWFLEDEKEHSKINKPITKEAAMAIKEKIKAMNARPIKKVAEAKARKRMRAVARLEKIKKKAGLINDDSDKTEKDKAEEISRLMRKVTKKPKTKPKVTLVVASGRNKGLAGRPKGVKGKYKMVDGVMKNEQRALRRIAKKHHKKK",
+            "entity_poly_seq_one_letter_code_can": "MGKTQKKNSKGRLDRYYYLAKEKGYRARSSFKIIQINEKYGHFLEKSKVVIDLCAAPGSWCQVASKLCPVNSLIIGVDIVPMKPMPNVITFQSDITTEDCRSKLRGYMKTWKADTVLHDGAPNVGLGWVQDAFTQSQLTLQALKLAVENLVVNGTFVTKIFRSKDYNKLIWVFQQLFEKVEATKPPASRNVSAEIFVVCKGFKAPKRLDPRLLDPKEVFEELPDGQQNMESKIYNPEKKVRKRQGYEEGDNLLYHETSILDFVRTEDPISMLGEMNKFTIDENDHEWKILKKLKQTTDEFRSCIEDLKVLGKKDFKMILRWRKIAREILGIEVKDDAKTEIEVVPLTEEEQIEKDLQGLQEKQRLNVKRERRRKNEMKQKELQRMQMNMITPTDIGIEAASLGKESLFNLKTAEKTGILNDLAKGKKRMIFTDDELAKDNDIYIDENIMIKDKDSAADADDLESELNAMYSDYKTRRSERDAKFRAKQARGGDNEEEWTGFNEGSLEKKEEEGKDYIEDNDDEGVEGDSDDDEAITNLISKLKGQEGDHKLSSKARMIFNDPIFNNVEPDLPVNTVNDGIMSSESVGDISKLNKKRKHEEMHQKQDEADSSDESSSDDSDFEIVANDNASEEFDSDYDSEEEKNQTKKEKHSRDIDIATVEAMTLAHQLALGQKNKHDLVDEGFNRYTFRDTENLPDWFLEDEKEHSKINKPITKEAAMAIKEKIKAMNARPIKKVAEAKARKRMRAVARLEKIKKKAGLINDDSDKTEKDKAEEISRLMRKVTKKPKTKPKVTLVVASGRNKGLAGRPKGVKGKYKMVDGVMKNEQRALRRIAKKHHKKK",
+            "entity_poly_seq_length": 841,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes ribosomal protein L32 from eukaryotes and archaebacteria."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L32"
+            ],
+            "pfam_accessions": [
+                "PF01655"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P38061"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L32",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MASLPHPKIVKKHTKKFKRHHSDRYHRVAENWRKQKGIDSVVRRRFRGNISQPKIGYGSNKKTKFLSPSGHKTFLVANVKDLETLTMHTKTYAAEIAHNISAKNRVVILARAKALGIKVTNPKGRLALEA",
+            "entity_poly_seq_one_letter_code_can": "MASLPHPKIVKKHTKKFKRHHSDRYHRVAENWRKQKGIDSVVRRRFRGNISQPKIGYGSNKKTKFLSPSGHKTFLVANVKDLETLTMHTKTYAAEIAHNISAKNRVVILARAKALGIKVTNPKGRLALEA",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35Ae"
+            ],
+            "pfam_accessions": [
+                "PF01247"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P05744"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L33-A",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MAESHRLYVKGKHLSYQRSKRVNNPNVSLIKIEGVATPQDAQFYLGKRIAYVYRASKEVRGSKIRVMWGKVTRTHGNSGVVRATFRNNLPAKTFGASVRIFLYPSNI",
+            "entity_poly_seq_one_letter_code_can": "MAESHRLYVKGKHLSYQRSKRVNNPNVSLIKIEGVATPQDAQFYLGKRIAYVYRASKEVRGSKIRVMWGKVTRTHGNSGVVRATFRNNLPAKTFGASVRIFLYPSNI",
+            "entity_poly_seq_length": 107,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes ribosomal protein L37 from eukaryotes and archaebacteria. The family contains many conserved cysteines and histidines suggesting that this protein may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L37e"
+            ],
+            "pfam_accessions": [
+                "PF01907"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P49166"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L37-A",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MGKGTPSFGKRHNKSHTLCNRCGRRSFHVQKKTCSSCGYPAAKTRSYNWGAKAKRRHTTGTGRMRYLKHVSRRFKNGFQTGSASKASA",
+            "entity_poly_seq_one_letter_code_can": "MGKGTPSFGKRHNKSHTLCNRCGRRSFHVQKKTCSSCGYPAAKTRSYNWGAKAKRRHTTGTGRMRYLKHVSRRFKNGFQTGSASKASA",
+            "entity_poly_seq_length": 88,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL37"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L39 protein"
+            ],
+            "pfam_accessions": [
+                "PF00832"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P04650"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L39",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MAAQKSFRIKQKMAKAKKQNRPLPQWIRLRTNNTIRYNAKRRNWRRTKMNI",
+            "entity_poly_seq_one_letter_code_can": "MAAQKSFRIKQKMAKAKKQNRPLPQWIRLRTNNTIRYNAKRRNWRRTKMNI",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL39"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes eukaryotic translation initiation factor 6 as well as presumed archaebacterial homologues."
+            ],
+            "pfam_descriptions": [
+                "eIF-6 family"
+            ],
+            "pfam_accessions": [
+                "PF01912"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "Q12522"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 6",
+            "entity_poly_strand_id": "y",
+            "entity_poly_seq_one_letter_code": "MATRTQFENSNEIGVFSKLTNTYCLVAVGGSENFYSAFEAELGDAIPIVHTTIAGTRIIGRMTAGNRRGLLVPTQTTDQELQHLRNSLPDSVKIQRVEERLSALGNVICCNDYVALVHPDIDRETEELISDVLGVEVFRQTISGNILVGSYCSLSNQGGLVHPQTSVQDQEELSSLLQVPLVAGTVNRGSSVVGAGMVVNDYLAVTGLDTTAPELSVIESIFRLQDAQPESISGNLRDTLIETYS",
+            "entity_poly_seq_one_letter_code_can": "MATRTQFENSNEIGVFSKLTNTYCLVAVGGSENFYSAFEAELGDAIPIVHTTIAGTRIIGRMTAGNRRGLLVPTQTTDQELQHLRNSLPDSVKIQRVEERLSALGNVICCNDYVALVHPDIDRETEELISDVLGVEVFRQTISGNILVGSYCSLSNQGGLVHPQTSVQDQEELSSLLQVPLVAGTVNRGSSVVGAGMVVNDYLAVTGLDTTAPELSVIESIFRLQDAQPESISGNLRDTLIETYS",
+            "entity_poly_seq_length": 245,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "uniprot_accession": [
+                "P17076"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L8-A",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MAPGKKVAPAPFGAKSTKSNKTRNPLTHSTPKNFGIGQAVQPKRNLSRYVKWPEYVRVQRQKKILSIRLKVPPTIAQFQYTLDRNTAAETFKLFNKYRPETAAEKKERLTKEAAAVAEGKSKQDASPKPYAVKYGLNHVVALIENKKAKLVLIANDVDPIELVVFLPALCKKMGVPYAIVKGKARLGTLVNQKTSAVAALTEVRAEDEAALAKLVSTIDANFADKYDEVKKHWGGGILGNKAQAKMDKRAKNSDSA",
+            "entity_poly_seq_one_letter_code_can": "MAPGKKVAPAPFGAKSTKSNKTRNPLTHSTPKNFGIGQAVQPKRNLSRYVKWPEYVRVQRQKKILSIRLKVPPTIAQFQYTLDRNTAAETFKLFNKYRPETAAEKKERLTKEAAAVAEGKSKQDASPKPYAVKYGLNHVVALIENKKAKLVLIANDVDPIELVVFLPALCKKMGVPYAIVKGKARLGTLVNQKTSAVAALTEVRAEDEAALAKLVSTIDANFADKYDEVKKHWGGGILGNKAQAKMDKRAKNSDSA",
+            "entity_poly_seq_length": 256,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6YLX",
+            "rcsb_pdbx_description": "25S rRNA",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "GUUUGACCUCAAAUCAGGUAGGAGUACCCGCUGAACUUAAGCAUAUCAAUAAGCGGAGGAAAAGAAACCAACCGGGAUUGCCUUAGUAACGGCGAGUGAAGCGGCAAAAGCUCAAAUUUGAAAUCUGGUACCUUCGGUGCCCGAGUUGUAAUUUGGAGAGGGCAACUUUGGGGCCGUUCCUUGUCUAUGUUCCUUGGAACAGGACGUCAUAGAGGGUGAGAAUCCCGUGUGGCGAGGAGUGCGGUUCUUUGUAAAGUGCCUUCGAAGAGUCGAGUUGUUUGGGAAUGCAGCUCUAAGUGGGUGGUAAAUUCCAUCUAAAGCUAAAUAUUGGCGAGAGACCGAUAGCGAACAAGUACAGUGAUGGAAAGAUGAAAAGAACUUUGAAAAGAGAGUGAAAAAGUACGUGAAAUUGUUGAAAGGGAAGGGCAUUUGAUCAGACAUGGUGUUUUGUGCCCUCUGCUCCUUGUGGGUAGGGGAAUCUCGCAUUUCACUGGGCCAGCAUCAGUUUUGGUGGCAGGAUAAAUCCAUAGGAAUGUAGCUUGCCUCGGUAAGUAUUAUAGCCUGUGGGAAUACUGCCAGCUGGGACUGAGGACUGCGACGUAAGUCAAGGAUGCUGGCAUAAUGGUUAUAUGCCGCCCGUCUUGAAACACGGACCAAGGAGUCUAACGUCUAUGCGAGUGUUUGGGUGUAAAACCCAUACGCGUAAUGAAAGUGAACGUAGGUUGGGGCCUCGCAAGAGGUGCACAAUCGACCGAUCCUGAUGUCUUCGGAUGGAUUUGAGUAAGAGCAUAGCUGUUGGGACCCGAAAGAUGGUGAACUAUGCCUGAAUAGGGUGAAGCCAGAGGAAACUCUGGUGGAGGCUCGUAGCGGUUCUGACGUGCAAAUCGAUCGUCGAAUUUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUCCUGCCGAAGUUUCCCUCAGGAUAGCAGAAGCUCGUAUCAGUUUUAUGAGGUAAAGCGAAUGAUUAGAGGUUCCGGGGUCGAAAUGACCUUGACCUAUUCUCAAACUUUAAAUAUGUAAGAAGUCCUUGUUACUUAAUUGAACGUGGACAUUUGAAUGAAGAGCUUUUAGUGGGCCAUUUUUGGUAAGCAGAACUGGCGAUGCGGGAUGAACCGAACGUAGAGUUAAGGUGCCGGAAUACACGCUCAUCAGACACCACAAAAGGUGUUAGUUCAUCUAGACAGCCGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAGUGUGUAACAACUCACCGGCCGAAUGAACUAGCCCUGAAAAUGGAUGGCGCUCAAGCGUGUUACCUAUACUCUACCGUCAGGGUUGAUAUGAUGCCCUGACGAGUAGGCAGGCGUGGAGGUCAGUGACGAAGCCUAGACCGUAAGGUCGGGUCGAACGGCCUCUAGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAAUGAGAACUUUGAAGACUGAAGUGGGGAAAGGUUCCACGUCAACAGCAGUUGGACGUGGGUUAGUCGAUCCUAAGAGAUGGGGAAGCUCCGUUUCAAAGGCCUGAUUUUAUGCAGGCCACCAUCGAAAGGGAAUCCGGUUAAGAUUCCGGAACCUGGAUAUGGAUUCUUCACGGUAACGUAACUGAAUGUGGAGACGUCGGCGCGAGCCCUGGGAGGAGUUAUCUUUUCUUCUUAACAGCUUAUCACCCCGGAAUUGGUUUAUCCGGAGAUGGGGUCUUAUGGCUGGAAGAGGCCAGCACCUUUGCUGGCUCCGGUGCGCUUGUGACGGCCCGUGAAAAUCCACAGGAAGGAAUAGUUUUCAUGCCAGGUCGUACUGAUAACCGCAGCAGGUCUCCAAGGUGAACAGCCUCUAGUUGAUAGAAUAAUGUAGAUAAGGGAAGUCGGCAAAAUAGAUCCGUAACUUCGGGAUAAGGAUUGGCUCUAAGGGUCGGGUAGUGAGGGCCUUGGUCAGACGCAGCGGGCGUGCUUGUGGACUGCUUGGUGGGGCUUGCUCUGCUAGGCGGACUACUUGCGUGCCUUGUUGUAGACGGCCUUGGUAGGUCUCUUGUAGACCGUCGCUUGCUACAAUUAACGAUCAACUUAGAACUGGUACGGACAAGGGGAAUCUGACUGUCUAAUUAAAACAUAGCAUUGCGAUGGUCAGAAAGUGAUGUUGACGCAAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAACCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACGAGAUUCCCACUGUCCCUAUCUACUAUCUAGCGAAACCACAGCCAAGGGAACGGGCUUGGCAGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUUUGACAUUGUGAAGAGACAUAGAGGGUGUAGAAUAAGUGGGAGCUUCGGCGCCAGUGAAAUACCACUACCUUUAUAGUUUCUUUACUUAUUCAAUGAAGCGGAGCUGGAAUUCAUUUUCCACGUUCUAGCAUUCAAGGUCCCAUUCGGGGCUGAUCCGGGUUGAAGACAUUGUCAGGUGGGGAGUUUGGCUGGGGCGGCACAUCUGUUAAACGAUAACGCAGAUGUCCUAAGGGGGGCUCAUGGAGAACAGAAAUCUCCAGUAGAACAAAAGGGUAAAAGCCCCCUUGAUUUUGAUUUUCAGUGUGAAUACAAACCAUGAAAGUGUGGCCUAUCGAUCCUUUAGUCCCUCGGAAUUUGAGGCUAGAGGUGCCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCAGUCAAGCGUUCAUAGCGACAUUGCUUUUUGAUUCUUCGAUGUCGGCUCUUCCUAUCAUACCGAAGCAGAAUUCGGUAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAAUGUUACCGCAAUAGUAAUUGAACUUAGUACGAGAGGAACAGUUCAUUCGGAUAAUUGGUUUUUGCGGCUGUCUGAUCAGGCAUUGCCGCGAAGCUACCAUCCGCUGGAUUAUGGCUGAACGCCUCUAAGUCAGAAUCCAUGCUAGAACGCGGUGAUUUCUUUGCUCCACACAAUAUAGAUGGAUACGAAUAAGGCGUCCUUGUGGCGUCGCUGAACCAUAGCAGGCUAGCAACGGUGCACUUGGCGGAAAGGCCUUGGGUGCUUGCUGGCGAAUUGCAAUGUCAUUUUGCGUGGGGAUAAAUCAUUUGUAUACGACUUAGAUGUACAACGGGGUAUUGUAAGCAGUAGAGUAGCCUUGUUGUUACGAUCUGCUGAGAUUAAGCCUUUGUUGUCUGAUUUGU",
+            "entity_poly_seq_one_letter_code_can": "GUUUGACCUCAAAUCAGGUAGGAGUACCCGCUGAACUUAAGCAUAUCAAUAAGCGGAGGAAAAGAAACCAACCGGGAUUGCCUUAGUAACGGCGAGUGAAGCGGCAAAAGCUCAAAUUUGAAAUCUGGUACCUUCGGUGCCCGAGUUGUAAUUUGGAGAGGGCAACUUUGGGGCCGUUCCUUGUCUAUGUUCCUUGGAACAGGACGUCAUAGAGGGUGAGAAUCCCGUGUGGCGAGGAGUGCGGUUCUUUGUAAAGUGCCUUCGAAGAGUCGAGUUGUUUGGGAAUGCAGCUCUAAGUGGGUGGUAAAUUCCAUCUAAAGCUAAAUAUUGGCGAGAGACCGAUAGCGAACAAGUACAGUGAUGGAAAGAUGAAAAGAACUUUGAAAAGAGAGUGAAAAAGUACGUGAAAUUGUUGAAAGGGAAGGGCAUUUGAUCAGACAUGGUGUUUUGUGCCCUCUGCUCCUUGUGGGUAGGGGAAUCUCGCAUUUCACUGGGCCAGCAUCAGUUUUGGUGGCAGGAUAAAUCCAUAGGAAUGUAGCUUGCCUCGGUAAGUAUUAUAGCCUGUGGGAAUACUGCCAGCUGGGACUGAGGACUGCGACGUAAGUCAAGGAUGCUGGCAUAAUGGUUAUAUGCCGCCCGUCUUGAAACACGGACCAAGGAGUCUAACGUCUAUGCGAGUGUUUGGGUGUAAAACCCAUACGCGUAAUGAAAGUGAACGUAGGUUGGGGCCUCGCAAGAGGUGCACAAUCGACCGAUCCUGAUGUCUUCGGAUGGAUUUGAGUAAGAGCAUAGCUGUUGGGACCCGAAAGAUGGUGAACUAUGCCUGAAUAGGGUGAAGCCAGAGGAAACUCUGGUGGAGGCUCGUAGCGGUUCUGACGUGCAAAUCGAUCGUCGAAUUUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUCCUGCCGAAGUUUCCCUCAGGAUAGCAGAAGCUCGUAUCAGUUUUAUGAGGUAAAGCGAAUGAUUAGAGGUUCCGGGGUCGAAAUGACCUUGACCUAUUCUCAAACUUUAAAUAUGUAAGAAGUCCUUGUUACUUAAUUGAACGUGGACAUUUGAAUGAAGAGCUUUUAGUGGGCCAUUUUUGGUAAGCAGAACUGGCGAUGCGGGAUGAACCGAACGUAGAGUUAAGGUGCCGGAAUACACGCUCAUCAGACACCACAAAAGGUGUUAGUUCAUCUAGACAGCCGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAGUGUGUAACAACUCACCGGCCGAAUGAACUAGCCCUGAAAAUGGAUGGCGCUCAAGCGUGUUACCUAUACUCUACCGUCAGGGUUGAUAUGAUGCCCUGACGAGUAGGCAGGCGUGGAGGUCAGUGACGAAGCCUAGACCGUAAGGUCGGGUCGAACGGCCUCUAGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAAUGAGAACUUUGAAGACUGAAGUGGGGAAAGGUUCCACGUCAACAGCAGUUGGACGUGGGUUAGUCGAUCCUAAGAGAUGGGGAAGCUCCGUUUCAAAGGCCUGAUUUUAUGCAGGCCACCAUCGAAAGGGAAUCCGGUUAAGAUUCCGGAACCUGGAUAUGGAUUCUUCACGGUAACGUAACUGAAUGUGGAGACGUCGGCGCGAGCCCUGGGAGGAGUUAUCUUUUCUUCUUAACAGCUUAUCACCCCGGAAUUGGUUUAUCCGGAGAUGGGGUCUUAUGGCUGGAAGAGGCCAGCACCUUUGCUGGCUCCGGUGCGCUUGUGACGGCCCGUGAAAAUCCACAGGAAGGAAUAGUUUUCAUGCCAGGUCGUACUGAUAACCGCAGCAGGUCUCCAAGGUGAACAGCCUCUAGUUGAUAGAAUAAUGUAGAUAAGGGAAGUCGGCAAAAUAGAUCCGUAACUUCGGGAUAAGGAUUGGCUCUAAGGGUCGGGUAGUGAGGGCCUUGGUCAGACGCAGCGGGCGUGCUUGUGGACUGCUUGGUGGGGCUUGCUCUGCUAGGCGGACUACUUGCGUGCCUUGUUGUAGACGGCCUUGGUAGGUCUCUUGUAGACCGUCGCUUGCUACAAUUAACGAUCAACUUAGAACUGGUACGGACAAGGGGAAUCUGACUGUCUAAUUAAAACAUAGCAUUGCGAUGGUCAGAAAGUGAUGUUGACGCAAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAACCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACGAGAUUCCCACUGUCCCUAUCUACUAUCUAGCGAAACCACAGCCAAGGGAACGGGCUUGGCAGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUUUGACAUUGUGAAGAGACAUAGAGGGUGUAGAAUAAGUGGGAGCUUCGGCGCCAGUGAAAUACCACUACCUUUAUAGUUUCUUUACUUAUUCAAUGAAGCGGAGCUGGAAUUCAUUUUCCACGUUCUAGCAUUCAAGGUCCCAUUCGGGGCUGAUCCGGGUUGAAGACAUUGUCAGGUGGGGAGUUUGGCUGGGGCGGCACAUCUGUUAAACGAUAACGCAGAUGUCCUAAGGGGGGCUCAUGGAGAACAGAAAUCUCCAGUAGAACAAAAGGGUAAAAGCCCCCUUGAUUUUGAUUUUCAGUGUGAAUACAAACCAUGAAAGUGUGGCCUAUCGAUCCUUUAGUCCCUCGGAAUUUGAGGCUAGAGGUGCCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCAGUCAAGCGUUCAUAGCGACAUUGCUUUUUGAUUCUUCGAUGUCGGCUCUUCCUAUCAUACCGAAGCAGAAUUCGGUAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAAUGUUACCGCAAUAGUAAUUGAACUUAGUACGAGAGGAACAGUUCAUUCGGAUAAUUGGUUUUUGCGGCUGUCUGAUCAGGCAUUGCCGCGAAGCUACCAUCCGCUGGAUUAUGGCUGAACGCCUCUAAGUCAGAAUCCAUGCUAGAACGCGGUGAUUUCUUUGCUCCACACAAUAUAGAUGGAUACGAAUAAGGCGUCCUUGUGGCGUCGCUGAACCAUAGCAGGCUAGCAACGGUGCACUUGGCGGAAAGGCCUUGGGUGCUUGCUGGCGAAUUGCAAUGUCAUUUUGCGUGGGGAUAAAUCAUUUGUAUACGACUUAGAUGUACAACGGGGUAUUGUAAGCAGUAGAGUAGCCUUGUUGUUACGAUCUGCUGAGAUUAAGCCUUUGUUGUCUGAUUUGU",
+            "entity_poly_seq_length": 3396,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "rcsb_pdbx_description": "5.8S rRNA",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "AAACUUUCAACAACGGAUCUCUUGGUUCUCGCAUCGAUGAAGAACGCAGCGAAAUGCGAUACGUAAUGUGAAUUGCAGAAUUCCGUGAAUCAUCGAAUCUUUGAACGCACAUUGCGCCCCUUGGUAUUCCAGGGGGCAUGCCUGUUUGAGCGUCAUUU",
+            "entity_poly_seq_one_letter_code_can": "AAACUUUCAACAACGGAUCUCUUGGUUCUCGCAUCGAUGAAGAACGCAGCGAAAUGCGAUACGUAAUGUGAAUUGCAGAAUUCCGUGAAUCAUCGAAUCUUUGAACGCACAUUGCGCCCCUUGGUAUUCCAGGGGGCAUGCCUGUUUGAGCGUCAUUU",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6YLX",
+            "rcsb_pdbx_description": "ITS2",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "CCUUCUCAAACAUUCUGUUUGGUAGUGAGUGAUACUCUUUGGAGUUAACUUGAAAUUGCUGGCCUUUUCAUUGGAUGUUUUUUUUCCAAAGAGAGGUUUCUCUGCGUGCUUGAGGUAUAAUGCAAGUACGGUCGUUUUAGGUUUUACCAACUGCGGCUAAUCUUUUUUUAUACUGAGCGUAUUGGAACGUUAUCGAUAAGAAGAGAGCGUCUAGGCGAACAAUGUUCUUAAA",
+            "entity_poly_seq_one_letter_code_can": "CCUUCUCAAACAUUCUGUUUGGUAGUGAGUGAUACUCUUUGGAGUUAACUUGAAAUUGCUGGCCUUUUCAUUGGAUGUUUUUUUUCCAAAGAGAGGUUUCUCUGCGUGCUUGAGGUAUAAUGCAAGUACGGUCGUUUUAGGUUUUACCAACUGCGGCUAAUCUUUUUUUAUACUGAGCGUAUUGGAACGUUAUCGAUAAGAAGAGAGCGUCUAGGCGAACAAUGUUCUUAAA",
+            "entity_poly_seq_length": 232,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": null
+}

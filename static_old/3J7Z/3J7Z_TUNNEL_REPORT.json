@@ -1,0 +1,806 @@
+{
+  "pdbid": "3J7Z",
+  "probeRadius": 10,
+  "adjacent_strands": {
+    "A": [
+      {
+        "strand": "A",
+        "resid": 2578,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [192.49000549316406, 223.69400024414062, 209.6999969482422]
+      },
+      {
+        "strand": "A",
+        "resid": 2504,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [174.4770050048828, 215.68499755859375, 206.80999755859375]
+      },
+      {
+        "strand": "A",
+        "resid": 2507,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [188.41900634765625, 206.052001953125, 209.85299682617188]
+      },
+      {
+        "strand": "A",
+        "resid": 2575,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [188.24400329589844, 210.52999877929688, 215.76600646972656]
+      },
+      {
+        "strand": "A",
+        "resid": 2580,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [198.04200744628906, 216.3040008544922, 203.1840057373047]
+      },
+      {
+        "strand": "A",
+        "resid": 2574,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [189.4980010986328, 206.1909942626953, 217.86399841308594]
+      },
+      {
+        "strand": "A",
+        "resid": 2052,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [191.48899841308594, 220.00999450683594, 215.21299743652344]
+      },
+      {
+        "strand": "A",
+        "resid": 2506,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [184.76199340820312, 211.04200744628906, 209.9669952392578]
+      },
+      {
+        "strand": "A",
+        "resid": 2509,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [197.58599853515625, 203.302001953125, 213.6199951171875]
+      },
+      {
+        "strand": "A",
+        "resid": 2508,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [191.61500549316406, 201.7259979248047, 212.38099670410156]
+      },
+      {
+        "strand": "A",
+        "resid": 2577,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [188.1060028076172, 218.6649932861328, 209.53599548339844]
+      },
+      {
+        "strand": "A",
+        "resid": 2576,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [189.14300537109375, 214.0989990234375, 212.91700744628906]
+      },
+      {
+        "strand": "A",
+        "resid": 2453,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [180.78599548339844, 201.86300659179688, 213.49600219726562]
+      },
+      {
+        "strand": "A",
+        "resid": 2032,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [172.1820068359375, 210.80499267578125, 221.1719970703125]
+      },
+      {
+        "strand": "A",
+        "resid": 2579,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [194.74899291992188, 219.14100646972656, 206.94900512695312]
+      },
+      {
+        "strand": "A",
+        "resid": 2505,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [180.17300415039062, 215.39100646972656, 206.9040069580078]
+      },
+      {
+        "strand": "A",
+        "resid": 2053,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [185.90499877929688, 218.6490020751953, 216.2449951171875]
+      },
+      {
+        "strand": "A",
+        "resid": 2573,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [185.11599731445312, 206.89100646972656, 215.48899841308594]
+      },
+      {
+        "strand": "A",
+        "resid": 2572,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [184.96299743652344, 211.42999267578125, 220.78399658203125]
+      },
+      {
+        "strand": "A",
+        "resid": 2452,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [177.98300170898438, 199.49200439453125, 209.73300170898438]
+      },
+      {
+        "strand": "A",
+        "resid": 2571,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [185.12399291992188, 205.46200561523438, 222.77999877929688]
+      },
+      {
+        "strand": "A",
+        "resid": 2454,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [179.7899932861328, 204.54100036621094, 218.40699768066406]
+      },
+      {
+        "strand": "A",
+        "resid": 2055,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [175.4600067138672, 223.16400146484375, 214.0290069580078]
+      },
+      {
+        "strand": "A",
+        "resid": 2500,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [166.50599670410156, 212.7259979248047, 211.6199951171875]
+      },
+      {
+        "strand": "A",
+        "resid": 2451,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [172.79600524902344, 199.11900329589844, 208.99000549316406]
+      },
+      {
+        "strand": "A",
+        "resid": 2447,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [162.6510009765625, 212.37899780273438, 205.52999877929688]
+      },
+      {
+        "strand": "A",
+        "resid": 9000,
+        "resname": "ERY",
+        "isligand": true,
+        "rescoord": [182.94400024414062, 222.17599487304688, 194.7989959716797]
+      },
+      {
+        "strand": "A",
+        "resid": 2503,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [172.26699829101562, 219.10000610351562, 204.11700439453125]
+      },
+      {
+        "strand": "A",
+        "resid": 2061,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [170.58399963378906, 215.98399353027344, 195.78199768066406]
+      },
+      {
+        "strand": "A",
+        "resid": 2056,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [177.4010009765625, 220.0229949951172, 210.08399963378906]
+      },
+      {
+        "strand": "A",
+        "resid": 2501,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [168.91299438476562, 214.53799438476562, 206.9219970703125]
+      },
+      {
+        "strand": "A",
+        "resid": 2062,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [172.63999938964844, 211.95599365234375, 193.8459930419922]
+      },
+      {
+        "strand": "A",
+        "resid": 2058,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [176.46200561523438, 226.03799438476562, 202.88600158691406]
+      },
+      {
+        "strand": "A",
+        "resid": 2063,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [173.8520050048828, 205.23300170898438, 193.302001953125]
+      },
+      {
+        "strand": "A",
+        "resid": 2450,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [167.45199584960938, 201.41299438476562, 208.4499969482422]
+      },
+      {
+        "strand": "A",
+        "resid": 2059,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [175.98599243164062, 225.0290069580078, 197.58700561523438]
+      },
+      {
+        "strand": "A",
+        "resid": 2611,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [192.65499877929688, 219.51199340820312, 199.9080047607422]
+      },
+      {
+        "strand": "A",
+        "resid": 2057,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [177.34800720214844, 223.83399963378906, 208.00599670410156]
+      },
+      {
+        "strand": "A",
+        "resid": 2610,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [194.9929962158203, 215.32200622558594, 195.5240020751953]
+      },
+      {
+        "strand": "A",
+        "resid": 2612,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [192.3990020751953, 224.27200317382812, 201.61700439453125]
+      },
+      {
+        "strand": "A",
+        "resid": 2609,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [194.47000122070312, 210.8730010986328, 192.48899841308594]
+      },
+      {
+        "strand": "A",
+        "resid": 2581,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [199.61000061035156, 211.93800354003906, 200.3419952392578]
+      },
+      {
+        "strand": "A",
+        "resid": 746,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [195.4029998779297, 229.31500244140625, 196.6719970703125]
+      },
+      {
+        "strand": "A",
+        "resid": 2586,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [186.2830047607422, 200.88600158691406, 193.09300231933594]
+      },
+      {
+        "strand": "A",
+        "resid": 747,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [189.0240020751953, 227.63999938964844, 195.2449951171875]
+      },
+      {
+        "strand": "A",
+        "resid": 752,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [191.625, 226.48800659179688, 182.46400451660156]
+      },
+      {
+        "strand": "A",
+        "resid": 751,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [190.55099487304688, 231.24899291992188, 184.80599975585938]
+      },
+      {
+        "strand": "A",
+        "resid": 1781,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [194.74200439453125, 217.59100341796875, 179.4810028076172]
+      },
+      {
+        "strand": "A",
+        "resid": 789,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [182.64999389648438, 225.04299926757812, 174.53500366210938]
+      },
+      {
+        "strand": "A",
+        "resid": 748,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [190.91700744628906, 234.41000366210938, 193.76699829101562]
+      },
+      {
+        "strand": "A",
+        "resid": 2060,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [172.31399536132812, 222.05299377441406, 195.28799438476562]
+      },
+      {
+        "strand": "A",
+        "resid": 2015,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [179.66099548339844, 236.12100219726562, 198.4759979248047]
+      },
+      {
+        "strand": "A",
+        "resid": 2016,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [176.75999450683594, 231.20199584960938, 200.2740020751953]
+      },
+      {
+        "strand": "A",
+        "resid": 2014,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [181.92100524902344, 241.07699584960938, 198.3560028076172]
+      },
+      {
+        "strand": "A",
+        "resid": 1258,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [165.60400390625, 236.76800537109375, 189.4510040283203]
+      },
+      {
+        "strand": "A",
+        "resid": 1259,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [167.80499267578125, 242.16600036621094, 189.45199584960938]
+      },
+      {
+        "strand": "A",
+        "resid": 579,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [168.40499877929688, 233.46800231933594, 202.7010040283203]
+      },
+      {
+        "strand": "A",
+        "resid": 1261,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [172.14599609375, 249.89199829101562, 196.94400024414062]
+      },
+      {
+        "strand": "A",
+        "resid": 1260,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [169.97300720214844, 247.2310028076172, 192.21200561523438]
+      },
+      {
+        "strand": "A",
+        "resid": 1614,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [187.7969970703125, 234.66900634765625, 179.58299255371094]
+      },
+      {
+        "strand": "A",
+        "resid": 461,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [177.18800354003906, 246.2519989013672, 172.87399291992188]
+      },
+      {
+        "strand": "A",
+        "resid": 470,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [163.66299438476562, 240.33799743652344, 177.0399932861328]
+      },
+      {
+        "strand": "A",
+        "resid": 462,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [179.0970001220703, 241.15699768066406, 175.13499450683594]
+      },
+      {
+        "strand": "A",
+        "resid": 460,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [173.031005859375, 247.0050048828125, 169.33399963378906]
+      },
+      {
+        "strand": "A",
+        "resid": 468,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [165.06500244140625, 233.3800048828125, 169.38999938964844]
+      },
+      {
+        "strand": "A",
+        "resid": 469,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [164.1999969482422, 234.92300415039062, 174.822998046875]
+      },
+      {
+        "strand": "A",
+        "resid": 471,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [163.36300659179688, 244.56300354003906, 181.3260040283203]
+      },
+      {
+        "strand": "A",
+        "resid": 1322,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [186.47799682617188, 259.5050048828125, 190.17799377441406]
+      },
+      {
+        "strand": "A",
+        "resid": 472,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [163.9709930419922, 248.85899353027344, 185.32000732421875]
+      },
+      {
+        "strand": "A",
+        "resid": 508,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [171.06199645996094, 265.1820068359375, 187.0679931640625]
+      },
+      {
+        "strand": "A",
+        "resid": 507,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [170.03599548339844, 268.5199890136719, 191.51100158691406]
+      },
+      {
+        "strand": "A",
+        "resid": 455,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [157.4219970703125, 255.8000030517578, 174.11500549316406]
+      },
+      {
+        "strand": "A",
+        "resid": 474,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [161.67300415039062, 260.17999267578125, 184.33900451660156]
+      },
+      {
+        "strand": "A",
+        "resid": 473,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [162.3300018310547, 254.3419952392578, 184.73699951171875]
+      },
+      {
+        "strand": "A",
+        "resid": 456,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [162.82899475097656, 257.6390075683594, 172.64199829101562]
+      },
+      {
+        "strand": "A",
+        "resid": 90,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [163.13499450683594, 269.572998046875, 168.7259979248047]
+      },
+      {
+        "strand": "A",
+        "resid": 91,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [167.06700134277344, 269.5140075683594, 172.91400146484375]
+      }
+    ],
+    "D": [
+      {
+        "strand": "D",
+        "resid": 148,
+        "resname": "GLN",
+        "isligand": true,
+        "rescoord": [189.64199829101562, 215.06500244140625, 220.4770050048828]
+      },
+      {
+        "strand": "D",
+        "resid": 150,
+        "resname": "GLN",
+        "isligand": true,
+        "rescoord": [182.6269989013672, 216.1269989013672, 219.80499267578125]
+      },
+      {
+        "strand": "D",
+        "resid": 149,
+        "resname": "ASN",
+        "isligand": true,
+        "rescoord": [186.18600463867188, 215.31500244140625, 218.84500122070312]
+      }
+    ],
+    "a": [
+      {
+        "strand": "a",
+        "resid": 82,
+        "resname": "PHE",
+        "isligand": true,
+        "rescoord": [184.8699951171875, 208.875, 197.92300415039062]
+      },
+      {
+        "strand": "a",
+        "resid": 83,
+        "resname": "VAL",
+        "isligand": true,
+        "rescoord": [185.1649932861328, 205.88999938964844, 200.27099609375]
+      },
+      {
+        "strand": "a",
+        "resid": 84,
+        "resname": "ILE",
+        "isligand": true,
+        "rescoord": [182.00100708007812, 203.92100524902344, 199.59100341796875]
+      },
+      {
+        "strand": "a",
+        "resid": 81,
+        "resname": "ILE",
+        "isligand": true,
+        "rescoord": [184.8719940185547, 209.875, 194.25100708007812]
+      },
+      {
+        "strand": "a",
+        "resid": 78,
+        "resname": "ILE",
+        "isligand": true,
+        "rescoord": [178.96099853515625, 214.51499938964844, 194.00399780273438]
+      },
+      {
+        "strand": "a",
+        "resid": 80,
+        "resname": "SER",
+        "isligand": true,
+        "rescoord": [181.27999877929688, 209.4720001220703, 193.06700134277344]
+      },
+      {
+        "strand": "a",
+        "resid": 79,
+        "resname": "PHE",
+        "isligand": true,
+        "rescoord": [181.64300537109375, 213.02499389648438, 191.72500610351562]
+      }
+    ],
+    "7": [
+      {
+        "strand": "7",
+        "resid": 76,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [180.38600158691406, 197.531005859375, 197.0330047607422]
+      }
+    ],
+    "S": [
+      {
+        "strand": "S",
+        "resid": 90,
+        "resname": "LYS",
+        "isligand": true,
+        "rescoord": [187.93099975585938, 230.27200317382812, 187.98500061035156]
+      },
+      {
+        "strand": "S",
+        "resid": 92,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [183.50900268554688, 234.06700134277344, 189.08700561523438]
+      },
+      {
+        "strand": "S",
+        "resid": 91,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [185.5240020751953, 232.61000061035156, 186.21499633789062]
+      },
+      {
+        "strand": "S",
+        "resid": 89,
+        "resname": "ALA",
+        "isligand": true,
+        "rescoord": [189.69900512695312, 233.16000366210938, 189.68499755859375]
+      },
+      {
+        "strand": "S",
+        "resid": 93,
+        "resname": "ALA",
+        "isligand": true,
+        "rescoord": [183.20599365234375, 237.81399536132812, 189.5709991455078]
+      },
+      {
+        "strand": "S",
+        "resid": 94,
+        "resname": "ASP",
+        "isligand": true,
+        "rescoord": [182.5850067138672, 240.11000061035156, 192.5570068359375]
+      },
+      {
+        "strand": "S",
+        "resid": 95,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [180.63400268554688, 243.32899475097656, 193.07699584960938]
+      },
+      {
+        "strand": "S",
+        "resid": 85,
+        "resname": "ILE",
+        "isligand": true,
+        "rescoord": [183.03500366210938, 244.4429931640625, 188.66400146484375]
+      },
+      {
+        "strand": "S",
+        "resid": 84,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [181.91000366210938, 247.94700622558594, 189.66200256347656]
+      },
+      {
+        "strand": "S",
+        "resid": 83,
+        "resname": "LYS",
+        "isligand": true,
+        "rescoord": [179.03700256347656, 249.38400268554688, 191.73199462890625]
+      },
+      {
+        "strand": "S",
+        "resid": 82,
+        "resname": "MET",
+        "isligand": true,
+        "rescoord": [179.3730010986328, 253.0260009765625, 192.68099975585938]
+      }
+    ],
+    "E": [
+      {
+        "strand": "E",
+        "resid": 64,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [174.37399291992188, 221.78199768066406, 190.7570037841797]
+      },
+      {
+        "strand": "E",
+        "resid": 61,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [170.65499877929688, 223.24400329589844, 185.40199279785156]
+      },
+      {
+        "strand": "E",
+        "resid": 65,
+        "resname": "THR",
+        "isligand": true,
+        "rescoord": [174.10899353027344, 225.56199645996094, 190.82400512695312]
+      },
+      {
+        "strand": "E",
+        "resid": 66,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [173.12600708007812, 226.6719970703125, 194.2689971923828]
+      },
+      {
+        "strand": "E",
+        "resid": 63,
+        "resname": "LYS",
+        "isligand": true,
+        "rescoord": [170.94200134277344, 220.33299255371094, 190.0959930419922]
+      },
+      {
+        "strand": "E",
+        "resid": 67,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [169.85699462890625, 227.85000610351562, 192.70599365234375]
+      },
+      {
+        "strand": "E",
+        "resid": 60,
+        "resname": "TRP",
+        "isligand": true,
+        "rescoord": [169.73699951171875, 226.76199340820312, 184.36599731445312]
+      },
+      {
+        "strand": "E",
+        "resid": 59,
+        "resname": "PRO",
+        "isligand": true,
+        "rescoord": [167.10899353027344, 228.87899780273438, 182.4969940185547]
+      }
+    ],
+    "T": [
+      {
+        "strand": "T",
+        "resid": 72,
+        "resname": "GLN",
+        "isligand": true,
+        "rescoord": [175.0189971923828, 252.51499938964844, 174.34100341796875]
+      },
+      {
+        "strand": "T",
+        "resid": 71,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [176.42999267578125, 255.88099670410156, 175.3699951171875]
+      },
+      {
+        "strand": "T",
+        "resid": 69,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [180.6909942626953, 259.4840087890625, 171.17599487304688]
+      },
+      {
+        "strand": "T",
+        "resid": 70,
+        "resname": "HIS",
+        "isligand": true,
+        "rescoord": [177.3730010986328, 258.010986328125, 172.40899658203125]
+      }
+    ]
+  },
+  "nomenclatureMap": {
+    "E": { "type": "Protein", "nomenclature": ["uL4"] },
+    "A": { "type": "RNA", "nomenclature": null },
+    "7": { "type": "RNA", "nomenclature": null },
+    "a": { "type": "Protein", "nomenclature": [] },
+    "S": { "type": "Protein", "nomenclature": ["uL22"] },
+    "D": { "type": "Protein", "nomenclature": ["uL3"] },
+    "T": { "type": "Protein", "nomenclature": ["uL23"] }
+  }
+}

@@ -2,11 +2,11 @@ import csv from "csv-parser";
 import "shelljs";
 import * as fs from "fs";
 import path from "path";
-import { RibosomalProtein, RibosomeStructure } from "../types";
+import { RibosomalProtein, RibosomeStructure } from "../RibosomeTypes";
 
 export const addSurfaceRatios = (pdbid: string) => {
-  const results: any = [];
-  var SURFACE_RATIOS_PATH = path.join(
+  const results: any        = [];
+  var   SURFACE_RATIOS_PATH = path.join(
     process.env.SURFACE_RATIOS as string,
     "surface_ratio_" + pdbid.toUpperCase() + ".csv"
   );

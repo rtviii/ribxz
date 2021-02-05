@@ -1,0 +1,1000 @@
+{
+  "pdbid": "4V90",
+  "probeRadius": 10,
+  "adjacent_strands": {
+    "BA": [
+      {
+        "strand": "BA",
+        "resid": 2575,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -46.393001556396484,
+          -1.652999997138977,
+          -110.84400177001953
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2572,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -52.1510009765625,
+          -0.7049999833106995,
+          -112.24700164794922
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2454,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -53.86800003051758,
+          -2.253000020980835,
+          -103.66999816894531
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2500,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -59.06999969482422,
+          -19.517000198364258,
+          -105.53600311279297
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2451,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [-52.24399948120117, -10.814000129699707, -94.0260009765625]
+      },
+      {
+        "strand": "BA",
+        "resid": 2503,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -49.33399963378906,
+          -22.632999420166016,
+          -110.86100006103516
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2447,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -57.191001892089844,
+          -25.2189998626709,
+          -102.26100158691406
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2055,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -54.28900146484375,
+          -15.842000007629395,
+          -118.47100067138672
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2506,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -44.895999908447266,
+          -7.910999774932861,
+          -107.48300170898438
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2061,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -45.415000915527344,
+          -27.006000518798828,
+          -105.41699981689453
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2032,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -60.64400100708008,
+          -7.191999912261963,
+          -108.33200073242188
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2453,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [-49.60900115966797, -4.186999797821045, -100.2979965209961]
+      },
+      {
+        "strand": "BA",
+        "resid": 2505,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -46.12799835205078,
+          -14.369999885559082,
+          -110.18099975585938
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2585,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [-33.21500015258789, -8.982999801635742, -93.63500213623047]
+      },
+      {
+        "strand": "BA",
+        "resid": 2573,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -48.35200119018555,
+          -2.0829999446868896,
+          -106.5739974975586
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2452,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [-49.03799819946289, -7.211999893188477, -96.12699890136719]
+      },
+      {
+        "strand": "BA",
+        "resid": 2576,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -42.869998931884766,
+          -4.313000202178955,
+          -113.8550033569336
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2504,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -50.20000076293945,
+          -17.804000854492188,
+          -109.86599731445312
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2507,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [-42.7869987487793, -3.382999897003174, -104.45700073242188]
+      },
+      {
+        "strand": "BA",
+        "resid": 2056,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -50.19200134277344,
+          -15.932000160217285,
+          -114.81600189208984
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2501,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -53.803001403808594,
+          -20.98900032043457,
+          -106.43099975585938
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2059,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -42.07699966430664,
+          -27.180999755859375,
+          -115.76599884033203
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2450,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -55.79899978637695,
+          -15.508999824523926,
+          -94.48300170898438
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2058,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -45.53499984741211,
+          -23.652999877929688,
+          -117.97699737548828
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2063,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -39.939998626708984,
+          -22.28700065612793,
+          -96.51399993896484
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2062,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -42.939998626708984,
+          -25.392000198364258,
+          -101.16999816894531
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2610,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -27.71500015258789,
+          -12.836000442504883,
+          -111.29499816894531
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2586,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -32.05699920654297,
+          -13.484999656677246,
+          -97.10700225830078
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2611,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -32.292999267578125,
+          -13.319999694824219,
+          -115.17400360107422
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2057,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -48.53799819946289,
+          -18.716999053955078,
+          -117.52100372314453
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2609,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -24.84000015258789,
+          -12.364999771118164,
+          -106.83100128173828
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2581,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -26.996000289916992,
+          -4.3979997634887695,
+          -111.2229995727539
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 746,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -27.2189998626709,
+          -16.759000778198242,
+          -125.12999725341797
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1782,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -21.184999465942383,
+          -21.840999603271484,
+          -106.38999938964844
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 752,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -20.39299964904785,
+          -27.70599937438965,
+          -116.76100158691406
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 790,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -22.635000228881836,
+          -32.20500183105469,
+          -108.40599822998047
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2442,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [-35.66999816894531, -27.361000061035156, -98.2770004272461]
+      },
+      {
+        "strand": "BA",
+        "resid": 791,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -25.062000274658203,
+          -31.951000213623047,
+          -103.47699737548828
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1781,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -16.051000595092773,
+          -23.645000457763672,
+          -108.76000213623047
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 751,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -22.920000076293945,
+          -28.910999298095703,
+          -121.58100128173828
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 747,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -31.599000930786133,
+          -20.423999786376953,
+          -122.21900177001953
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 2015,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -40.12300109863281,
+          -29.047000885009766,
+          -126.63200378417969
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 748,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -28.858999252319336,
+          -23.839000701904297,
+          -127.26599884033203
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 789,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -21.663999557495117,
+          -37.56100082397461,
+          -110.45899963378906
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 462,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [-24.038000106811523, -45.7400016784668, -124.5479965209961]
+      },
+      {
+        "strand": "BA",
+        "resid": 1614,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -21.301000595092773,
+          -35.23899841308594,
+          -122.25399780273438
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 463,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -22.868000030517578,
+          -43.89500045776367,
+          -119.93399810791016
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 461,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -23.959999084472656,
+          -51.051998138427734,
+          -127.5780029296875
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 468,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -30.402999877929688,
+          -55.33000183105469,
+          -111.68800354003906
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1258,
+        "resname": "C",
+        "isligand": false,
+        "rescoord": [
+          -43.667999267578125,
+          -43.85900115966797,
+          -120.79100036621094
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1259,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -42.17100143432617,
+          -44.801998138427734,
+          -126.29900360107422
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 470,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -36.75400161743164,
+          -54.45000076293945,
+          -119.96600341796875
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 460,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -24.274999618530273,
+          -55.87300109863281,
+          -125.86299896240234
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1260,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [-42.72100067138672, -43.40599822998047, -132.2519989013672]
+      },
+      {
+        "strand": "BA",
+        "resid": 471,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -39.542999267578125,
+          -53.79999923706055,
+          -124.91100311279297
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1322,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -28.899999618530273,
+          -39.35599899291992,
+          -148.00599670410156
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 508,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [-38.11899948120117, -53.5260009765625, -147.97799682617188]
+      },
+      {
+        "strand": "BA",
+        "resid": 472,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -41.96500015258789,
+          -52.847999572753906,
+          -130.28799438476562
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1323,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -27.836000442504883,
+          -38.32500076293945,
+          -142.28500366210938
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1321,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -26.423999786376953,
+          -41.24599838256836,
+          -153.3090057373047
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1334,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [-17.74799919128418, -47.2239990234375, -142.06100463867188]
+      },
+      {
+        "strand": "BA",
+        "resid": 507,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -42.512001037597656,
+          -52.766998291015625,
+          -151.8159942626953
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 1335,
+        "resname": "U",
+        "isligand": false,
+        "rescoord": [
+          -18.969999313354492,
+          -51.87799835205078,
+          -144.11500549316406
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 493,
+        "resname": "G",
+        "isligand": false,
+        "rescoord": [
+          -35.202999114990234,
+          -48.02000045776367,
+          -155.2050018310547
+        ]
+      },
+      {
+        "strand": "BA",
+        "resid": 492,
+        "resname": "A",
+        "isligand": false,
+        "rescoord": [
+          -30.836999893188477,
+          -47.904998779296875,
+          -158.5229949951172
+        ]
+      }
+    ],
+    "BE": [
+      {
+        "strand": "BE",
+        "resid": 144,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -50.19499969482422,
+          -3.2100000381469727,
+          -115.33699798583984
+        ]
+      }
+    ],
+    "B5": [
+      {
+        "strand": "B5",
+        "resid": 4,
+        "resname": "HIS",
+        "isligand": true,
+        "rescoord": [-39.3380012512207, -17.06800079345703, -121.66999816894531]
+      },
+      {
+        "strand": "B5",
+        "resid": 3,
+        "resname": "LYS",
+        "isligand": true,
+        "rescoord": [-37.3129997253418, -20.23200035095215, -122.31400299072266]
+      },
+      {
+        "strand": "B5",
+        "resid": 2,
+        "resname": "ALA",
+        "isligand": true,
+        "rescoord": [
+          -37.42300033569336,
+          -23.808000564575195,
+          -123.55999755859375
+        ]
+      }
+    ],
+    "BF": [
+      {
+        "strand": "BF",
+        "resid": 69,
+        "resname": "HIS",
+        "isligand": true,
+        "rescoord": [
+          -39.00699996948242,
+          -30.499000549316406,
+          -110.16300201416016
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 70,
+        "resname": "THR",
+        "isligand": true,
+        "rescoord": [
+          -38.691001892089844,
+          -32.20899963378906,
+          -113.54100036621094
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 71,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [
+          -41.880001068115234,
+          -31.135000228881836,
+          -115.2239990234375
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 68,
+        "resname": "LYS",
+        "isligand": true,
+        "rescoord": [
+          -40.13100051879883,
+          -33.071998596191406,
+          -107.56400299072266
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 72,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -42.869998931884766,
+          -34.766998291015625,
+          -115.37200164794922
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 66,
+        "resname": "PRO",
+        "isligand": true,
+        "rescoord": [
+          -36.96699905395508,
+          -37.67900085449219,
+          -108.62699890136719
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 65,
+        "resname": "TRP",
+        "isligand": true,
+        "rescoord": [
+          -37.154998779296875,
+          -39.95800018310547,
+          -111.68800354003906
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 64,
+        "resname": "ILE",
+        "isligand": true,
+        "rescoord": [
+          -37.604000091552734,
+          -43.784000396728516,
+          -112.08300018310547
+        ]
+      },
+      {
+        "strand": "BF",
+        "resid": 62,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [-35.81800079345703, -47.9739990234375, -108.22699737548828]
+      }
+    ],
+    "BW": [
+      {
+        "strand": "BW",
+        "resid": 90,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -27.139999389648438,
+          -28.30299949645996,
+          -121.07099914550781
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 92,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -30.610000610351562,
+          -31.552000045776367,
+          -123.96800231933594
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 89,
+        "resname": "ALA",
+        "isligand": true,
+        "rescoord": [
+          -26.979999542236328,
+          -26.90399932861328,
+          -124.60700225830078
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 91,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [
+          -27.344999313354492,
+          -31.985000610351562,
+          -122.00800323486328
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 93,
+        "resname": "ALA",
+        "isligand": true,
+        "rescoord": [-30.87700080871582, -33.75, -127.0790023803711]
+      },
+      {
+        "strand": "BW",
+        "resid": 95,
+        "resname": "ILE",
+        "isligand": true,
+        "rescoord": [
+          -34.92399978637695,
+          -34.54499816894531,
+          -132.53599548339844
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 85,
+        "resname": "VAL",
+        "isligand": true,
+        "rescoord": [
+          -30.301000595092773,
+          -36.10300064086914,
+          -132.8730010986328
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 94,
+        "resname": "ASP",
+        "isligand": true,
+        "rescoord": [
+          -33.367000579833984,
+          -32.560001373291016,
+          -129.70799255371094
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 83,
+        "resname": "LYS",
+        "isligand": true,
+        "rescoord": [
+          -35.28799819946289,
+          -38.73099899291992,
+          -137.10699462890625
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 84,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -31.929000854492188,
+          -37.30099868774414,
+          -136.07699584960938
+        ]
+      },
+      {
+        "strand": "BW",
+        "resid": 82,
+        "resname": "LEU",
+        "isligand": true,
+        "rescoord": [
+          -35.659000396728516,
+          -39.520999908447266,
+          -140.78900146484375
+        ]
+      }
+    ],
+    "BX": [
+      {
+        "strand": "BX",
+        "resid": 68,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -26.753999710083008,
+          -56.21099853515625,
+          -137.64999389648438
+        ]
+      },
+      {
+        "strand": "BX",
+        "resid": 67,
+        "resname": "GLY",
+        "isligand": true,
+        "rescoord": [
+          -25.96299934387207,
+          -57.08399963378906,
+          -141.25900268554688
+        ]
+      },
+      {
+        "strand": "BX",
+        "resid": 65,
+        "resname": "ARG",
+        "isligand": true,
+        "rescoord": [
+          -20.06800079345703,
+          -56.637001037597656,
+          -139.8719940185547
+        ]
+      },
+      {
+        "strand": "BX",
+        "resid": 69,
+        "resname": "TYR",
+        "isligand": true,
+        "rescoord": [
+          -24.391000747680664,
+          -59.06700134277344,
+          -136.79200744628906
+        ]
+      },
+      {
+        "strand": "BX",
+        "resid": 66,
+        "resname": "LEU",
+        "isligand": true,
+        "rescoord": [-22.54400062561035, -58.5359992980957, -142.0229949951172]
+      }
+    ]
+  },
+  "nomenclatureMap": {
+    "B5": { "type": "Protein", "nomenclature": ["bL32"] },
+    "BX": { "type": "Protein", "nomenclature": ["uL23"] },
+    "BF": { "type": "Protein", "nomenclature": ["uL4"] },
+    "BW": { "type": "Protein", "nomenclature": ["uL22"] },
+    "BE": { "type": "Protein", "nomenclature": ["uL3"] },
+    "BA": { "type": "RNA", "nomenclature": null }
+  }
+}

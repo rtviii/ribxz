@@ -1,0 +1,1983 @@
+{
+    "rcsb_id": "3JAJ",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.75,
+    "rcsb_external_ref_id": [
+        "EMD-3037"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-3037"
+    ],
+    "cryoem_exp_detail": "gold-standard",
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.75,
+    "cryoem_exp_num_particles": 52061,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2015,
+    "citation_rcsb_authors": [
+        "Voorhees, R.M.",
+        "Hegde, R.S."
+    ],
+    "citation_title": "Structures of the scanning and engaged states of the mammalian SRP-ribosome complex.",
+    "citation_pdbx_doi": "10.7554/eLife.07975",
+    "pdbx_keywords_text": "mammalian, SRP, translocation, translation, RIBOSOME",
+    "_organismId": [
+        9986
+    ],
+    "_organismName": [
+        "Oryctolagus cuniculus"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL2",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "GRVIRGQRKGAGSVFRAHVKHRKGAARLRAVDFAERHGYIKGIVKDIIHDPGRGAPLAKVVFRDPYRFKKRTELFIAAEGIHTGQFVYCGKKAQLNIGNVLPVGTMPEGTIVCCLEEKPGDRGKLARASGNYATVISHNPETKKTRVKLPSGSKKVISSANRAVVGVVAGGGRIDKPILKAGRAYHKYKAKRNCWPRVRGVAMNPVEHPFGGGNHQHIGKPSTIRRDAPAGRKVGLIAARRTGR",
+            "entity_poly_seq_one_letter_code_can": "GRVIRGQRKGAGSVFRAHVKHRKGAARLRAVDFAERHGYIKGIVKDIIHDPGRGAPLAKVVFRDPYRFKKRTELFIAAEGIHTGQFVYCGKKAQLNIGNVLPVGTMPEGTIVCCLEEKPGDRGKLARASGNYATVISHNPETKKTRVKLPSGSKKVISSANRAVVGVVAGGGRIDKPILKAGRAYHKYKAKRNCWPRVRGVAMNPVEHPFGGGNHQHIGKPSTIRRDAPAGRKVGLIAARRTGR",
+            "entity_poly_seq_length": 244,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL18",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "FVKVVKNKAYFKRYQVKFRRRREGKTDYYARKRLVIQDKNKYNTPKYRMIVRVTNRDIICQIAYARIEGDMIVCAAYAHELPKYGVKVGLTNYAAAYCTGLLLARRLLNRFGMDKIYEGQVEVTGDEYNVESIDGQPGAFTCYLDAGLARTTTGNKVFGALKGAVDGGLSIPHSTKRFPGYDSESKEFNAEVHRKHILGQNVADYMRYLIEEDEDAYKKQFSQYIKNNVTPDMMEEMYKKAHAAIRENPVYEKKPKKEVKKKRWNRPKMSLAQKKDRVAQKKASFLRAQERA",
+            "entity_poly_seq_one_letter_code_can": "FVKVVKNKAYFKRYQVKFRRRREGKTDYYARKRLVIQDKNKYNTPKYRMIVRVTNRDIICQIAYARIEGDMIVCAAYAHELPKYGVKVGLTNYAAAYCTGLLLARRLLNRFGMDKIYEGQVEVTGDEYNVESIDGQPGAFTCYLDAGLARTTTGNKVFGALKGAVDGGLSIPHSTKRFPGYDSESKEFNAEVHRKHILGQNVADYMRYLIEEDEDAYKKQFSQYIKNNVTPDMMEEMYKKAHAAIRENPVYEKKPKKEVKKKRWNRPKMSLAQKKDRVAQKKASFLRAQERA",
+            "entity_poly_seq_length": 292,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL8",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "KVVNLLFEKRPKNFGIGQDIQPKRDLTRFVKWPRYIRLQRQRAILYKRLKVPPTINQFTQALDRQTATQLLKLTHKYRPETKQEKKQRLLARAEKKAAGKGDVPTKRPPVLRAGVNTVTTLVENKKAQLVVIAHDVDPIELVVFLPALCRKMGVPYCIIKGKARLGRLVHRKTCTTVAFTQVNSEDKGALAKLVEAIRTNYNDRYNEIRRHWGGNVLGPKSVARITKLEKAKAKELAT",
+            "entity_poly_seq_one_letter_code_can": "KVVNLLFEKRPKNFGIGQDIQPKRDLTRFVKWPRYIRLQRQRAILYKRLKVPPTINQFTQALDRQTATQLLKLTHKYRPETKQEKKQRLLARAEKKAAGKGDVPTKRPPVLRAGVNTVTTLVENKKAQLVVIAHDVDPIELVVFLPALCRKMGVPYCIIKGKARLGRLVHRKTCTTVAFTQVNSEDKGALAKLVEAIRTNYNDRYNEIRRHWGGNVLGPKSVARITKLEKAKAKELAT",
+            "entity_poly_seq_length": 238,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL6",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MKTILSNQTVDIPENVDITLKGRTVIVKGPRGTLRRDFNHINVELSLLGKKKKRLRVDKWWGNRKELATVRTICSHVQNMIKGVTLGFRYKMRSVYAHFPINVVIQENGSLVEIRNFLGEKYIRRVRMRPGVACSVSQAQKDELILEGNDIELVSNSAALIQQATTVKNKDIRKFLDGIYVSEKGTVQQA",
+            "entity_poly_seq_one_letter_code_can": "MKTILSNQTVDIPENVDITLKGRTVIVKGPRGTLRRDFNHINVELSLLGKKKKRLRVDKWWGNRKELATVRTICSHVQNMIKGVTLGFRYKMRSVYAHFPINVVIQENGSLVEIRNFLGEKYIRRVRMRPGVACSVSQAQKDELILEGNDIELVSNSAALIQQATTVKNKDIRKFLDGIYVSEKGTVQQA",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL5",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "ENPMRELRIRKLCLNICVGESGDRLTRAAKVLEQLTGQTPVFSKARYTVRSFGIRRNEKIAVHCTVRGAKAEEILEKGLKVREYELRKNNFSDTGNFGFGIQEHIDLGIKYDPSIGIYGLDFYVVLGRPGFSIADKKRRTGCIGAKHRISKEEAMRWFQQKHDGIILPGN",
+            "entity_poly_seq_one_letter_code_can": "ENPMRELRIRKLCLNICVGESGDRLTRAAKVLEQLTGQTPVFSKARYTVRSFGIRRNEKIAVHCTVRGAKAEEILEKGLKVREYELRKNNFSDTGNFGFGIQEHIDLGIKYDPSIGIYGLDFYVVLGRPGFSIADKKRRTGCIGAKHRISKEEAMRWFQQKHDGIILPGN",
+            "entity_poly_seq_length": 170,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL13",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "APSRNGMILKPHFHKDWQRRVATWFNQPARKIRRRKARQAKARRIAPRPASGPLRPVVRCPTVRYHTKVRAGRGFSLEELRVAGIHKKVARTIGISVDPRRRNKCTESLQANVQRLKEYRSKLILFPRKPSAPKKGDSSAEELKLATQLTGPVMPIRNVYKREKARVITDEEKNFKAFASLRMARANARLFGIRAKRAKEAAEQDVEKKK",
+            "entity_poly_seq_one_letter_code_can": "APSRNGMILKPHFHKDWQRRVATWFNQPARKIRRRKARQAKARRIAPRPASGPLRPVVRCPTVRYHTKVRAGRGFSLEELRVAGIHKKVARTIGISVDPRRRNKCTESLQANVQRLKEYRSKLILFPRKPSAPKKGDSSAEELKLATQLTGPVMPIRNVYKREKARVITDEEKNFKAFASLRMARANARLFGIRAKRAKEAAEQDVEKKK",
+            "entity_poly_seq_length": 210,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL14",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "VFRRFVEVGRVAYVSFGPHAGKLVAIVDVIDQNRALVDGPCTQVRRQAMPFKCMQLTDFILKFPHSARQKYVRKAWEKADINAKWAATRWAKKIEAREKKAKMTDFDRYKVMKARKMRNRLIKLEVKKLQKAALLKAS",
+            "entity_poly_seq_one_letter_code_can": "VFRRFVEVGRVAYVSFGPHAGKLVAIVDVIDQNRALVDGPCTQVRRQAMPFKCMQLTDFILKFPHSARQKYVRKAWEKADINAKWAATRWAKKIEAREKKAKMTDFDRYKVMKARKMRNRLIKLEVKKLQKAALLKAS",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL15",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "GAYKYIQELWRKKQSDVMRFLLRVRCWQYRQLSALHRAPRPTRPDKARRLGYKAKQGYVIYRIRVRRGGRKRPVPKGATYGKPVHHGVNQLKFARSLQSVAEERAGRHCGALRVLNSYWVGEDSTYKFFEVILIDPFHKAIRRNPDTQWITKPVHKHREMRGLTSAGRKSRGLGKGHKFHHTIGGSRRAAWRRRNTLQLHRYR",
+            "entity_poly_seq_one_letter_code_can": "GAYKYIQELWRKKQSDVMRFLLRVRCWQYRQLSALHRAPRPTRPDKARRLGYKAKQGYVIYRIRVRRGGRKRPVPKGATYGKPVHHGVNQLKFARSLQSVAEERAGRHCGALRVLNSYWVGEDSTYKFFEVILIDPFHKAIRRNPDTQWITKPVHKHREMRGLTSAGRKSRGLGKGHKFHHTIGGSRRAAWRRRNTLQLHRYR",
+            "entity_poly_seq_length": 203,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL13",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "EGQVLVLDGRGHLLGRLAAIVAKQVLLGRKVVVVRCEGINISGNFYRNKLKYLAFLRKRMNTNPSRGPYHFRAPSRIFWRTVRGMLPHKTKRGQAALDRLKVFDGIPPPYDKKKRMVVPAALKVVRLKPTRKFAYLGRLAHEVGWKYQAVTATLEEKRKEKAKIHYRKKKQLMRLRKQAEKNVEKKIDRFTEVLKTHGFLV",
+            "entity_poly_seq_one_letter_code_can": "EGQVLVLDGRGHLLGRLAAIVAKQVLLGRKVVVVRCEGINISGNFYRNKLKYLAFLRKRMNTNPSRGPYHFRAPSRIFWRTVRGMLPHKTKRGQAALDRLKVFDGIPPPYDKKKRMVVPAALKVVRLKPTRKFAYLGRLAHEVGWKYQAVTATLEEKRKEKAKIHYRKKKQLMRLRKQAEKNVEKKIDRFTEVLKTHGFLV",
+            "entity_poly_seq_length": 201,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL18",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "GVDIRHNKDRKVRRKEPKSQDIYLRLLVKLYRFLARRTNSTFNQVVLKRLFMSRTNRPPLSLSRMIRKMKLPGREGKTAVVVGTITDDVRVQEVPKLKVCALRVSSRARSRILKAGGKILTFDQLALDSPKGCGTVLLSGPRKGREVYRHFGKAPGTPHSHTKPYVRSKGRKFERARGRRASRGYKN",
+            "entity_poly_seq_one_letter_code_can": "GVDIRHNKDRKVRRKEPKSQDIYLRLLVKLYRFLARRTNSTFNQVVLKRLFMSRTNRPPLSLSRMIRKMKLPGREGKTAVVVGTITDDVRVQEVPKLKVCALRVSSRARSRILKAGGKILTFDQLALDSPKGCGTVLLSGPRKGREVYRHFGKAPGTPHSHTKPYVRSKGRKFERARGRRASRGYKN",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL19",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "SMLRLQKRLASSVLRCGKKKVWLDPNETNEIANANSRQQIRKLIKDGLIIRKPVTVHSRARCRKNTLARRKGRHMGIGKRKGTANARMPEKVTWMRRMRILRRLLRRYRESKKIDRHMYHSLYLKVKGNVFKNKRILMEHIHKLKADKARKKLLADQAEARRSKTKEARKRREERLQAKK",
+            "entity_poly_seq_one_letter_code_can": "SMLRLQKRLASSVLRCGKKKVWLDPNETNEIANANSRQQIRKLIKDGLIIRKPVTVHSRARCRKNTLARRKGRHMGIGKRKGTANARMPEKVTWMRRMRILRRLLRRYRESKKIDRHMYHSLYLKVKGNVFKNKRILMEHIHKLKADKARKKLLADQAEARRSKTKEARKRREERLQAKK",
+            "entity_poly_seq_length": 180,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL20",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "KASGTLREYKVVGRCLPTPKCRTPPLYRMRIFAPNHVVAKSRFWYFVSQLKKMKKSSGEIVYCGQVFEKSPLRVKNFGIWLRYDSRSGTHNMYREYRDLTTAGAVTQCYRDMGARHRARAHSIQIMKVEEIAASKCRRPAVKQFHDSKIKFPLPHRVLRRQHKPRFTTKRPNTFF",
+            "entity_poly_seq_one_letter_code_can": "KASGTLREYKVVGRCLPTPKCRTPPLYRMRIFAPNHVVAKSRFWYFVSQLKKMKKSSGEIVYCGQVFEKSPLRVKNFGIWLRYDSRSGTHNMYREYRDLTTAGAVTQCYRDMGARHRARAHSIQIMKVEEIAASKCRRPAVKQFHDSKIKFPLPHRVLRRQHKPRFTTKRPNTFF",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL21",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "TNTKGKRRGTRYMFSRPFRKHGVVPLATYMRIYKKGDIVDIKGMGTVQKGMPHKCYHGKTGRVYNVTQHAVGIVVNKQVKGKILAKRINVRIEHIKHSKSRDSFLKRVKENDQKKKEAKEKGTWVQLKRQPAPPREAHFVRTNGKEPELLEPIPYEFMA",
+            "entity_poly_seq_one_letter_code_can": "TNTKGKRRGTRYMFSRPFRKHGVVPLATYMRIYKKGDIVDIKGMGTVQKGMPHKCYHGKTGRVYNVTQHAVGIVVNKQVKGKILAKRINVRIEHIKHSKSRDSFLKRVKENDQKKKEAKEKGTWVQLKRQPAPPREAHFVRTNGKEPELLEPIPYEFMA",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL22",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "QVLKFTLDCTHPVEDGIMDAANFEQFLQERIKVNGKAGNLGGGVVTIERSKSKITVTSEVPFSKRYLKYLTKKYLKKNNLRDWLRVVANSKESYELRYF",
+            "entity_poly_seq_one_letter_code_can": "QVLKFTLDCTHPVEDGIMDAANFEQFLQERIKVNGKAGNLGGGVVTIERSKSKITVTSEVPFSKRYLKYLTKKYLKKNNLRDWLRVVANSKESYELRYF",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL14",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "SGAKFRISLGLPVGAVINCADNTGAKNLYIISVKGIKGRLNRLPAAGVGDMVMATVKKGKPELRKKVHPAVVIRQRKSYRRKDGVFLYFEDNAGVIVNNKGEMKGSAITGPVAKECADLWPRIASNAGSIA",
+            "entity_poly_seq_one_letter_code_can": "SGAKFRISLGLPVGAVINCADNTGAKNLYIISVKGIKGRLNRLPAAGVGDMVMATVKKGKPELRKKVHPAVVIRQRKSYRRKDGVFLYFEDNAGVIVNNKGEMKGSAITGPVAKECADLWPRIASNAGSIA",
+            "entity_poly_seq_length": 131,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL23",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "KKIRTSPTFRRPKTLRLRRQPKYPRKSAPRRNKLDHYAIIKFPLTTESAMKKIEDNNTLVFIVDVKANKHQIKQAVKKLYDIDVAKVNTLIRPDGEKKAYVRLAPDYDALDVANKIGII",
+            "entity_poly_seq_one_letter_code_can": "KKIRTSPTFRRPKTLRLRRQPKYPRKSAPRRNKLDHYAIIKFPLTTESAMKKIEDNNTLVFIVDVKANKHQIKQAVKKLYDIDVAKVNTLIRPDGEKKAYVRLAPDYDALDVANKIGII",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL24",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MKFNPFVTSDRSKNRKRHFNAPSHIRRKIMSSPLSKELRQKYNVRSMPIRKDDEVQVVRGHYKGQQIGKVVQVYRKKYVIYIERVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERKAKSRQVGKEKGK",
+            "entity_poly_seq_one_letter_code_can": "MKFNPFVTSDRSKNRKRHFNAPSHIRRKIMSSPLSKELRQKYNVRSMPIRKDDEVQVVRGHYKGQQIGKVVQVYRKKYVIYIERVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERKAKSRQVGKEKGK",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL27",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "GKFMKPGKVVLVLAGRYSGRKAVIVKNIDDGTSDRPYSHALVAGIDRYPRKVTAAMGKKKIAKRSKIKSFVKVYNYNHLMPTRYSVDIPLDKTVVNKDVFRDPALKRKARREAKVKFEERYKTGKNKWFFQKLRF",
+            "entity_poly_seq_one_letter_code_can": "GKFMKPGKVVLVLAGRYSGRKAVIVKNIDDGTSDRPYSHALVAGIDRYPRKVTAAMGKKKIAKRSKIKSFVKVYNYNHLMPTRYSVDIPLDKTVVNKDVFRDPALKRKARREAKVKFEERYKTGKNKWFFQKLRF",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL15",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "PSRLRKTRKLRGHVSHGHGRIGKHRKHPGGRGNAGGMHHHRINFDKYHPGYFGKVGMRHYHLKRNQSFCPTVNLDKLWTLVSEQTRINAAKNKTGAAPIIDVVRSGYYKVLGKGKLPKQPVIVKAKFFSRRAEEKIKGVGGACVLVA",
+            "entity_poly_seq_one_letter_code_can": "PSRLRKTRKLRGHVSHGHGRIGKHRKHPGGRGNAGGMHHHRINFDKYHPGYFGKVGMRHYHLKRNQSFCPTVNLDKLWTLVSEQTRINAAKNKTGAAPIIDVVRSGYYKVLGKGKLPKQPVIVKAKFFSRRAEEKIKGVGGACVLVA",
+            "entity_poly_seq_length": 147,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL29",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "AKSKNHTTHNQSRKWHRNGIKKPRSQRYESLKGVDPKFLRNMRFAKKHNKKGLKKMQANNAKAMSARAEAIKALV",
+            "entity_poly_seq_one_letter_code_can": "AKSKNHTTHNQSRKWHRNGIKKPRSQRYESLKGVDPKFLRNMRFAKKHNKKGLKKMQANNAKAMSARAEAIKALV",
+            "entity_poly_seq_length": 75,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL30",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "SINSRLQLVMKSGKYVLGYKQTLKMIRQGKAKLVILANNCPALRKSEIEYYAMLAKTGVHHYSGNNIELGTACGKYYRVCTLAIIDPGDSDIIR",
+            "entity_poly_seq_one_letter_code_can": "SINSRLQLVMKSGKYVLGYKQTLKMIRQGKAKLVILANNCPALRKSEIEYYAMLAKTGVHHYSGNNIELGTACGKYYRVCTLAIIDPGDSDIIR",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL32",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "AALRPLVKPKIVKKRTKKFIRHQSDRYVKIKRNWRKPRGIDNRVRRRFKGQILMPNIGYGSNKKTKHMLPSGFRKFLVHNVKELEVLLMCNKSYCAEIAHNVSSKNRKAIVERAAQLAIRVTNPNARL",
+            "entity_poly_seq_one_letter_code_can": "AALRPLVKPKIVKKRTKKFIRHQSDRYVKIKRNWRKPRGIDNRVRRRFKGQILMPNIGYGSNKKTKHMLPSGFRKFLVHNVKELEVLLMCNKSYCAEIAHNVSSKNRKAIVERAAQLAIRVTNPNARL",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL33",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "SGRLWSKAIFAGYKRGLRNQREHTALLKIEGVYARDETEFYLGKRCAYVYKAKNNTVTPGGKPNKTRVIWGKVTRAHGNSGMVRAKFRSNLPAKAIGHRIRVMLYPSRI",
+            "entity_poly_seq_one_letter_code_can": "SGRLWSKAIFAGYKRGLRNQREHTALLKIEGVYARDETEFYLGKRCAYVYKAKNNTVTPGGKPNKTRVIWGKVTRAHGNSGMVRAKFRSNLPAKAIGHRIRVMLYPSRI",
+            "entity_poly_seq_length": 109,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL34",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "VQRLTYRRRLSYNTASNKTRLSRTPGNRIVYLYTKKVGKAPKSACGVCPGRLRGVRAVRPKVLMRLSKTKKHVSRAYGGSMCAKCVRDRIKRAFLIEEQKIVVKVLKAQAQSQK",
+            "entity_poly_seq_one_letter_code_can": "VQRLTYRRRLSYNTASNKTRLSRTPGNRIVYLYTKKVGKAPKSACGVCPGRLRGVRAVRPKVLMRLSKTKKHVSRAYGGSMCAKCVRDRIKRAFLIEEQKIVVKVLKAQAQSQK",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL29",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "AKIKARDLRGKKKEELLKQLEDLKVELSQLRVAKVTGGAASKLSKIRVVRKSIARVLTVINQTQKENLRKFYKGKKYKPLDLRPKKTRAMRRRLNKHEENLKTKKQQRKERLYPLRKFAVKA",
+            "entity_poly_seq_one_letter_code_can": "AKIKARDLRGKKKEELLKQLEDLKVELSQLRVAKVTGGAASKLSKIRVVRKSIARVLTVINQTQKENLRKFYKGKKYKPLDLRPKKTRAMRRRLNKHEENLKTKKQQRKERLYPLRKFAVKA",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL36",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "ALRYPMAVGLNKGHKVTKNVSKPRHSRRRGRLTKHTKFVRDMIREVCGFAPYERRAMELLKVSKDKRALKFIKKRVGTHIRAKRKREELSNVLAAMRKAAAK",
+            "entity_poly_seq_one_letter_code_can": "ALRYPMAVGLNKGHKVTKNVSKPRHSRRRGRLTKHTKFVRDMIREVCGFAPYERRAMELLKVSKDKRALKFIKKRVGTHIRAKRKREELSNVLAAMRKAAAK",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL39",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "SSHKTFRIKRFLAKKQKQNRPIPQWIRMKTGNKIRYNSKRRHWRRTKLGL",
+            "entity_poly_seq_one_letter_code_can": "SSHKTFRIKRFLAKKQKQNRPIPQWIRMKTGNKIRYNSKRRHWRRTKLGL",
+            "entity_poly_seq_length": 50,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL40",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "IIEPSLRQLAQKYNCDKMICRKCYARLHPRAVNCRKKKCGHTNNLRPKKKVK",
+            "entity_poly_seq_one_letter_code_can": "IIEPSLRQLAQKYNCDKMICRKCYARLHPRAVNCRKKKCGHTNNLRPKKKVK",
+            "entity_poly_seq_length": 52,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL42",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "VNVPKTRRTFCKKCGKHQPHKVTQYKKGKDSLYAQGKRRYDRKQSGYGGQTKPIFRKKAKTTKKIVLRLECVEPNCRSKRMLAIKRCKHFELGGDKKRKGQVIQ",
+            "entity_poly_seq_one_letter_code_can": "VNVPKTRRTFCKKCGKHQPHKVTQYKKGKDSLYAQGKRRYDRKQSGYGGQTKPIFRKKAKTTKKIVLRLECVEPNCRSKRMLAIKRCKHFELGGDKKRKGQVIQ",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "SHRKFSAPRHGSLGFLPRKRSSRHRGKVKSFPKDDSSKPVHLTAFLGYKAGMTHIVREVDRPGSKVNKKEVVEAVTIVETPPMIVVGIVGYVETPRGLRTFKTIFAEHISDECKRRFYKNWHKSKKKAFTKYCKKWQDAAGAAALAADFSSMKAYCQVIRVIAHTQMRLLPLRQKKAHLMEIQVNGGTVAEKLDWARERLEQQVPVNQVFGQDEMIDVIGVTKGKGYKGVTSRWHTKKLPRKTHRGLRKVACIGAWHPARVAFSVARAGQKGYHHRTEINKKIYKIGQGYLIKDGKLIKNNASTDYDLSDKSINPLGGFVHYGEVTNDFVMLKGCVVGTKKRVLTLRKSLLVQTKRRALEKIDLKFIDTTSKFGHGRFQTVEEKKAFMGPLKKD",
+            "entity_poly_seq_one_letter_code_can": "SHRKFSAPRHGSLGFLPRKRSSRHRGKVKSFPKDDSSKPVHLTAFLGYKAGMTHIVREVDRPGSKVNKKEVVEAVTIVETPPMIVVGIVGYVETPRGLRTFKTIFAEHISDECKRRFYKNWHKSKKKAFTKYCKKWQDAAGAAALAADFSSMKAYCQVIRVIAHTQMRLLPLRQKKAHLMEIQVNGGTVAEKLDWARERLEQQVPVNQVFGQDEMIDVIGVTKGKGYKGVTSRWHTKKLPRKTHRGLRKVACIGAWHPARVAFSVARAGQKGYHHRTEINKKIYKIGQGYLIKDGKLIKNNASTDYDLSDKSINPLGGFVHYGEVTNDFVMLKGCVVGTKKRVLTLRKSLLVQTKRRALEKIDLKFIDTTSKFGHGRFQTVEEKKAFMGPLKKD",
+            "entity_poly_seq_length": 394,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL4",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "ACARPLISVYSEKGESSGKNVTLPAVFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVARIPRVRGGGTHRSGQGAFGNMCRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRIEEVPELPLVVEDKVESYKKTKEAVLLLKKLKAWNDIKKVYASQRMRAGKGKMRNRRRIQRRGPCIIYNEDNGIIKAFRNIPGITLLNVSKLNILKLAPGGHVGRFCIWTESAFRKLDELYGTWRKAATLKSNYNLPMHKMLNTDLSRILKSPEIQRALRAPRKKIHRRVLKKNPLKNLRIMLKLNPYAKTMRRNTILRQARNHKIRMDKAAAAAAALKAKSGEK",
+            "entity_poly_seq_one_letter_code_can": "ACARPLISVYSEKGESSGKNVTLPAVFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVARIPRVRGGGTHRSGQGAFGNMCRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRIEEVPELPLVVEDKVESYKKTKEAVLLLKKLKAWNDIKKVYASQRMRAGKGKMRNRRRIQRRGPCIIYNEDNGIIKAFRNIPGITLLNVSKLNILKLAPGGHVGRFCIWTESAFRKLDELYGTWRKAATLKSNYNLPMHKMLNTDLSRILKSPEIQRALRAPRKKIHRRVLKKNPLKNLRIMLKLNPYAKTMRRNTILRQARNHKIRMDKAAAAAAALKAKSGEK",
+            "entity_poly_seq_length": 367,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL6",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "PHCSRNPVLVRGIGRYSRSAMYSRMAMYKRKYSAAVLATVTKPVGGDKNGGTRVVKLRKMPRYYPTEDVPRKLLSHGKKPFSKHVRKLRASITPGTILIILTGRHRGKRVIFLKQLSSGLLLVTGPLVLNRVPLRRTHQKFVIATSTKIDISGVKIPKHLTDAYFKKKKLRKPRHQEGEIFDTEKEKYEISEQRKVDQKAVDSQILRRIKAVPQLQGYLRSVFALTNGIYPHKLVF",
+            "entity_poly_seq_one_letter_code_can": "PHCSRNPVLVRGIGRYSRSAMYSRMAMYKRKYSAAVLATVTKPVGGDKNGGTRVVKLRKMPRYYPTEDVPRKLLSHGKKPFSKHVRKLRASITPGTILIILTGRHRGKRVIFLKQLSSGLLLVTGPLVLNRVPLRRTHQKFVIATSTKIDISGVKIPKHLTDAYFKKKKLRKPRHQEGEIFDTEKEKYEISEQRKVDQKAVDSQILRRIKAVPQLQGYLRSVFALTNGIYPHKLVF",
+            "entity_poly_seq_length": 236,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL30",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "NFAELKIKRLRKKFAQKMLRKARRKLIYEKAKHYHKEYRQMYRTEIRMARMARKAGNFYVPAEPKLAFVIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLRIVEPYIAWGYPNLKSVNELIYKRGYGKINKKRIALTDNALIARSLGKYGIICMEDLIHEIYTVGKRFKEANNFLWPFKLSSPRGGMKKKTTHFVEGGDAGNREDQINRLIRRMN",
+            "entity_poly_seq_one_letter_code_can": "NFAELKIKRLRKKFAQKMLRKARRKLIYEKAKHYHKEYRQMYRTEIRMARMARKAGNFYVPAEPKLAFVIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLRIVEPYIAWGYPNLKSVNELIYKRGYGKINKKRIALTDNALIARSLGKYGIICMEDLIHEIYTVGKRFKEANNFLWPFKLSSPRGGMKKKTTHFVEGGDAGNREDQINRLIRRMN",
+            "entity_poly_seq_length": 225,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL16",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "GRRPARCYRYCKNKPYPKSRFCRGVPDAKIRIFDLGRKKAKVDEFPLGGHMVSDEYEQLSSEALEAARICANKYMVKSCGRDGFHMRVRLHPFHVIRINKMLSCAGADRLQTGMRGAFGKPQGTVARVHIGQVIMSIRTKLQNEEHVIEALRRAKFKFPGRQKIHISKKWGFTKFNADEFENMVAKKCLIPDGCGVKYVPNHGPLDKWRVLHS",
+            "entity_poly_seq_one_letter_code_can": "GRRPARCYRYCKNKPYPKSRFCRGVPDAKIRIFDLGRKKAKVDEFPLGGHMVSDEYEQLSSEALEAARICANKYMVKSCGRDGFHMRVRLHPFHVIRINKMLSCAGADRLQTGMRGAFGKPQGTVARVHIGQVIMSIRTKLQNEEHVIEALRRAKFKFPGRQKIHISKKWGFTKFNADEFENMVAKKCLIPDGCGVKYVPNHGPLDKWRVLHS",
+            "entity_poly_seq_length": 213,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL22",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "VRYSLDPENPTKSCKSRGSNLRVHFKNTRETAQAIKGMHIRKATKYLKDVTLQKQCVPFRRYNGGVGRCAQAKQWGWTQGRWPKKSAEFLLHMLKNAESNAELKGLDVDSLVIEHIQVNKAPKMRRRTYRAHGRINPYMSSPCHIEMILTEKE",
+            "entity_poly_seq_one_letter_code_can": "VRYSLDPENPTKSCKSRGSNLRVHFKNTRETAQAIKGMHIRKATKYLKDVTLQKQCVPFRRYNGGVGRCAQAKQWGWTQGRWPKKSAEFLLHMLKNAESNAELKGLDVDSLVIEHIQVNKAPKMRRRTYRAHGRINPYMSSPCHIEMILTEKE",
+            "entity_poly_seq_length": 153,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL24",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MKVELCSFSGYKIYPGHGRRYARTDGKVFQFLNAKCESAFLSKRNPRQINWTVLYRRKHKKGQ",
+            "entity_poly_seq_one_letter_code_can": "MKVELCSFSGYKIYPGHGRRYARTDGKVFQFLNAKCESAFLSKRNPRQINWTVLYRRKHKKGQ",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL37",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "TKGTSSFGKRRNKTHTLCRRCGSKAYHLQKSTCGKCGYPAKRKRKYNWSAKAKRRNTTGTGRMRHLKIVYRRFRHGFREGITPKPK",
+            "entity_poly_seq_one_letter_code_can": "TKGTSSFGKRRNKTHTLCRRCGSKAYHLQKSTCGKCGYPAKRKRKYNWSAKAKRRNTTGTGRMRHLKIVYRRFRHGFREGITPKPK",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL41",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "RAKWRKKRMRRLKRKRRKMRQRS",
+            "entity_poly_seq_one_letter_code_can": "RAKWRKKRMRRLKRKRRKMRQRS",
+            "entity_poly_seq_length": 23,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL43",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "AKRTKKVGIVGKYGTRYGASLRKMVKKIEISQHAKYTCSFCGKTKMKRRAVGIWHCGSCMKTVAGGAWTYNTTSAVTVKSAIRRLKELKDQ",
+            "entity_poly_seq_one_letter_code_can": "AKRTKKVGIVGKYGTRYGASLRKMVKKIEISQHAKYTCSFCGKTKMKRRAVGIWHCGSCMKTVAGGAWTYNTTSAVTVKSAIRRLKELKDQ",
+            "entity_poly_seq_length": 91,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL11",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MPPKFDPNEIKVVYLRCTGGEVGATSALAPKIGPLGLSPKKVGDDIAKATGDWKGLRITVKLTIQNRQAQIEVVPSASALIIKALKEPPRDRKKQKNIKHSGNITFDEIVNIARQMRHRSLARELSGTIKEILGTAQSVGCNVDGRHPHDIIDDINSGAVECP",
+            "entity_poly_seq_one_letter_code_can": "MPPKFDPNEIKVVYLRCTGGEVGATSALAPKIGPLGLSPKKVGDDIAKATGDWKGLRITVKLTIQNRQAQIEVVPSASALIIKALKEPPRDRKKQKNIKHSGNITFDEIVNIARQMRHRSLARELSGTIKEILGTAQSVGCNVDGRHPHDIIDDINSGAVECP",
+            "entity_poly_seq_length": 163,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL10",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "DRATWKSNYFLKIIQLLDDYPKCFIVGADNVGSKQMQQIRMSLRGKAVVLMGKNTMMRKAIRGHLENNPALEKLLPHIRGNVGFVFTKEDLTEIRDMLRANKVPAAARAGAIAPCEVTVPAQNTGLGPEKTSFFQALGITTKISRGTIEILSDVQLIKTGDKVGASEATLLNMLNISPFSFGLVIQQVFDNGSIYNPEVLDI",
+            "entity_poly_seq_one_letter_code_can": "DRATWKSNYFLKIIQLLDDYPKCFIVGADNVGSKQMQQIRMSLRGKAVVLMGKNTMMRKAIRGHLENNPALEKLLPHIRGNVGFVFTKEDLTEIRDMLRANKVPAAARAGAIAPCEVTVPAQNTGLGPEKTSFFQALGITTKISRGTIEILSDVQLIKTGDKVGASEATLLNMLNISPFSFGLVIQQVFDNGSIYNPEVLDI",
+            "entity_poly_seq_length": 202,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "SRP54",
+            "entity_poly_strand_id": "z",
+            "entity_poly_seq_one_letter_code": "ADLGRKITSALRSLSNATIINEEVLNAMLKEVCTALLEADVNIKLVKQLRENVKSAIDLEEMASGLNKRKMIQHAVFKELVKLVDPGVKAWTPTKGKQNVIMFVGLQGSGKTTTCSKLAYYYQRKGWKTCLICADTFRAGAFDQLKQNATKARIPFYGSYTEMDPVIIASEGVEKFKNENFEIIIVDTSGRHKQEDSLFEEMLQVANAIQPDNIVYVMDASIGQACEAQAKAFKDKVDVASVIVTKLDGHAKGGGALSAVAATKSPIIFIGTGEHIDDFEPFKTQPFISKLLGMQFTLRDMYEQFQNIMKMGPFSQILGMIPGFGTDFMSKGNEQESMARLKKLMTIMDSMNDQELDSTDGAKVFSKQPGRIQRVARGSGVSTRDVQELLTQYTKFAQMVKKM(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "ADLGRKITSALRSLSNATIINEEVLNAMLKEVCTALLEADVNIKLVKQLRENVKSAIDLEEMASGLNKRKMIQHAVFKELVKLVDPGVKAWTPTKGKQNVIMFVGLQGSGKTTTCSKLAYYYQRKGWKTCLICADTFRAGAFDQLKQNATKARIPFYGSYTEMDPVIIASEGVEKFKNENFEIIIVDTSGRHKQEDSLFEEMLQVANAIQPDNIVYVMDASIGQACEAQAKAFKDKVDVASVIVTKLDGHAKGGGALSAVAATKSPIIFIGTGEHIDDFEPFKTQPFISKLLGMQFTLRDMYEQFQNIMKMGPFSQILGMIPGFGTDFMSKGNEQESMARLKKLMTIMDSMNDQELDSTDGAKVFSKQPGRIQRVARGSGVSTRDVQELLTQYTKFAQMVKKMXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 426,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Nascent chain",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "LLLLLLLLLLLLKVGPVPVLVMSLLFIASMV",
+            "entity_poly_seq_one_letter_code_can": "LLLLLLLLLLLLKVGPVPVLVMSLLFIASMV",
+            "entity_poly_seq_length": 31,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "SRP19",
+            "entity_poly_strand_id": "9",
+            "entity_poly_seq_one_letter_code": "DRFICIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNVFLEKNKMYSREWNRDVQYRGRVRVQLKQEDGSLCLVQFPSRKSVMLYAAEMIPKLKT",
+            "entity_poly_seq_one_letter_code_can": "DRFICIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNVFLEKNKMYSREWNRDVQYRGRVRVQLKQEDGSLCLVQFPSRKSVMLYAAEMIPKLKT",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "SRP68",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "LSLEILQIIKESQQQHGLRHGDFQRYRGYCSRRQRRLRKTLNDLLTDNRYLLLVLMDAERAWSYAMQLKQEANTEPRKRFHLLSRLRKAVKHAEELERLCESNRVDAKTKLEAQAYTAYLSGMLRFEHQEWKAAIEAFNKCKTIYEKLASAFTEEQAVLYNQRVEEISPNIRYCAYNIG",
+            "entity_poly_seq_one_letter_code_can": "LSLEILQIIKESQQQHGLRHGDFQRYRGYCSRRQRRLRKTLNDLLTDNRYLLLVLMDAERAWSYAMQLKQEANTEPRKRFHLLSRLRKAVKHAEELERLCESNRVDAKTKLEAQAYTAYLSGMLRFEHQEWKAAIEAFNKCKTIYEKLASAFTEEQAVLYNQRVEEISPNIRYCAYNIG",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS2",
+            "entity_poly_strand_id": "SA",
+            "entity_poly_seq_one_letter_code": "SGALDVLQMKEEDVLKFLAAGTHLGGTNLDFQMEQYIYKRKSDGIYIINLKRTWEKLLLAARAIVAIENPADVSVISSRNTGQRAVLKFAAATGATPIAGRFTPGTFTNQIQAAFREPRLLVVTDPRADHQPLTEASYVNLPTIALCNTDSPLRYVDIAIPCNNKGAHSVGLMWWMLAREVLRMRGTISREHPWEVMPDLYFYRDPEE",
+            "entity_poly_seq_one_letter_code_can": "SGALDVLQMKEEDVLKFLAAGTHLGGTNLDFQMEQYIYKRKSDGIYIINLKRTWEKLLLAARAIVAIENPADVSVISSRNTGQRAVLKFAAATGATPIAGRFTPGTFTNQIQAAFREPRLLVVTDPRADHQPLTEASYVNLPTIALCNTDSPLRYVDIAIPCNNKGAHSVGLMWWMLAREVLRMRGTISREHPWEVMPDLYFYRDPEE",
+            "entity_poly_seq_length": 208,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS1",
+            "entity_poly_strand_id": "SB",
+            "entity_poly_seq_one_letter_code": "VVDPFSKRDWYDVKAPAMFNIRNIGKTLVTRTQGTKIASDGLKGRVFEVSPADLQNDEVAFRKSKLITEDVQGKNCLTNFHGMDLTRDKMCSMVKKWQTVIEAHVDVKTTDGYLLRLFCVGFTKKRNNQIRKTSYAQHQQVRQIRKKMMEIMTREVQTNDLKEVVNKLIPDSIGKDIEKACQPIYPLHDVFVRKVKMLKKPKFELGKLMELHG",
+            "entity_poly_seq_one_letter_code_can": "VVDPFSKRDWYDVKAPAMFNIRNIGKTLVTRTQGTKIASDGLKGRVFEVSPADLQNDEVAFRKSKLITEDVQGKNCLTNFHGMDLTRDKMCSMVKKWQTVIEAHVDVKTTDGYLLRLFCVGFTKKRNNQIRKTSYAQHQQVRQIRKKMMEIMTREVQTNDLKEVVNKLIPDSIGKDIEKACQPIYPLHDVFVRKVKMLKKPKFELGKLMELHG",
+            "entity_poly_seq_length": 213,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS5",
+            "entity_poly_strand_id": "SC",
+            "entity_poly_seq_one_letter_code": "EWMPVTKLGRLVKDMKIKSLEEIYLFSLPIKESEIIDFFLGASLKDEVLKIMPVQKQTRAGQRTRFKAFVAIGDYNGHVGLGVKCSKEVATAIRGAIILAKLSIVPVRRGYWGNKIGKPHTVPCKVTGRCGSVLVRLIPAPRGTGIVSAPVPKKLLMMAGIDDCYTSARGCTATLGNFAKATFDAISKTYSYLTPDLWKETVFTKSPYQEFTDHLVKT",
+            "entity_poly_seq_one_letter_code_can": "EWMPVTKLGRLVKDMKIKSLEEIYLFSLPIKESEIIDFFLGASLKDEVLKIMPVQKQTRAGQRTRFKAFVAIGDYNGHVGLGVKCSKEVATAIRGAIILAKLSIVPVRRGYWGNKIGKPHTVPCKVTGRCGSVLVRLIPAPRGTGIVSAPVPKKLLMMAGIDDCYTSARGCTATLGNFAKATFDAISKTYSYLTPDLWKETVFTKSPYQEFTDHLVKT",
+            "entity_poly_seq_length": 218,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS4",
+            "entity_poly_strand_id": "SE",
+            "entity_poly_seq_one_letter_code": "ARGPKKHLKRVAAPKHWMLDKLTGVFAPRPSTGPHKLRECLPLIIFLRNRLKYALTGDEVKKICMQRFIKIDGKVRTDITYPAGFMDVISIDKTGENFRLIYDTKGRFAVHRITPEEAKYKLCKVRKIFVGTKGIPHLVTHDARTIRYPDPLIKVNDTIQIDLETGKITDFIKFDTGNLCMVTGGANLGRIGVITNRERHPGSFDVVHVKDANGNSFATRLSNIFVIGKGNKPWISLPRGKGIRLTIAEERDKRLAAKQSSG",
+            "entity_poly_seq_one_letter_code_can": "ARGPKKHLKRVAAPKHWMLDKLTGVFAPRPSTGPHKLRECLPLIIFLRNRLKYALTGDEVKKICMQRFIKIDGKVRTDITYPAGFMDVISIDKTGENFRLIYDTKGRFAVHRITPEEAKYKLCKVRKIFVGTKGIPHLVTHDARTIRYPDPLIKVNDTIQIDLETGKITDFIKFDTGNLCMVTGGANLGRIGVITNRERHPGSFDVVHVKDANGNSFATRLSNIFVIGKGNKPWISLPRGKGIRLTIAEERDKRLAAKQSSG",
+            "entity_poly_seq_length": 262,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS6",
+            "entity_poly_strand_id": "SG",
+            "entity_poly_seq_one_letter_code": "MKLNISFPATGCQKLIEVDDERKLRTFYEKRMATEVAADALGEEWKGYVVRISGGNDKQGFPMKQGVLTHGRVRLLLSKGHSCYRPRRTGERKRKSVRGCIVDANLSVLNLVIVKKGEKDIPGLTDTTVPRRLGPKRASRIRKLFNLSKEDDVRQYVVRKPLNKEGKKPRTKAPKIQRLVTPRVLQHKRRRIALKKQRTKKNKEEAAEYAKLLAKRMKEAKEKRQEQIAKRRRLSSL",
+            "entity_poly_seq_one_letter_code_can": "MKLNISFPATGCQKLIEVDDERKLRTFYEKRMATEVAADALGEEWKGYVVRISGGNDKQGFPMKQGVLTHGRVRLLLSKGHSCYRPRRTGERKRKSVRGCIVDANLSVLNLVIVKKGEKDIPGLTDTTVPRRLGPKRASRIRKLFNLSKEDDVRQYVVRKPLNKEGKKPRTKAPKIQRLVTPRVLQHKRRRIALKKQRTKKNKEEAAEYAKLLAKRMKEAKEKRQEQIAKRRRLSSL",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS7",
+            "entity_poly_strand_id": "SH",
+            "entity_poly_seq_one_letter_code": "SAKIVKPNGEKPDEFESGISQALLELEMNSDLKAQLRELNITAAKEIEVGGGRKAIIIFVPVPQLKSFQKIQVRLVRELEKKFSGKHVVFIAQRRILPKPTRKSRTKNKQKRPRSRTLTAVHDAILEDLVFPSEIVGKRIRVKLDGSRLIKVHLDKAQQNNVEHKVETFSGVYKKLTGKDVNFEFPEFQ",
+            "entity_poly_seq_one_letter_code_can": "SAKIVKPNGEKPDEFESGISQALLELEMNSDLKAQLRELNITAAKEIEVGGGRKAIIIFVPVPQLKSFQKIQVRLVRELEKKFSGKHVVFIAQRRILPKPTRKSRTKNKQKRPRSRTLTAVHDAILEDLVFPSEIVGKRIRVKLDGSRLIKVHLDKAQQNNVEHKVETFSGVYKKLTGKDVNFEFPEFQ",
+            "entity_poly_seq_length": 189,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS8",
+            "entity_poly_strand_id": "SI",
+            "entity_poly_seq_one_letter_code": "GISRDNWHKRRKTGGKRKPYHKKRKYELGRPAANTKIGPRRIHTVRVRGGNKKYRALRLDVGNFSWGSECCTRKTRIIDVVYNASNNELVRTKTLVKNCIVLIDSTPYRQWYESHYALPLGRKKGAKLTPEEEEILNKKRSKKIQKKYDERKKNAKISSLLEEQFQQGKLLACIASRPGQCGRADGYVLEGKELEFYLRKIKARKG",
+            "entity_poly_seq_one_letter_code_can": "GISRDNWHKRRKTGGKRKPYHKKRKYELGRPAANTKIGPRRIHTVRVRGGNKKYRALRLDVGNFSWGSECCTRKTRIIDVVYNASNNELVRTKTLVKNCIVLIDSTPYRQWYESHYALPLGRKKGAKLTPEEEEILNKKRSKKIQKKYDERKKNAKISSLLEEQFQQGKLLACIASRPGQCGRADGYVLEGKELEFYLRKIKARKG",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS4",
+            "entity_poly_strand_id": "SJ",
+            "entity_poly_seq_one_letter_code": "PVARSWVCRKTYVTPRRPFEKSRLDQELKLIGEYGLRNKREVWRVKFTLAKIRKAARELLTLDEKDPRRLFEGNALLRRLVRIGVLDEGKMKLDYILGLKIEDFLERRLQTQVFKLGLAKSIHHARVLIRQRHIRVRKQVVNIPSFIVRLDSQKHIDFSLRSPYGGGRPGRVKRKNAKKGQGGAG",
+            "entity_poly_seq_one_letter_code_can": "PVARSWVCRKTYVTPRRPFEKSRLDQELKLIGEYGLRNKREVWRVKFTLAKIRKAARELLTLDEKDPRRLFEGNALLRRLVRIGVLDEGKMKLDYILGLKIEDFLERRLQTQVFKLGLAKSIHHARVLIRQRHIRVRKQVVNIPSFIVRLDSQKHIDFSLRSPYGGGRPGRVKRKNAKKGQGGAG",
+            "entity_poly_seq_length": 185,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS17",
+            "entity_poly_strand_id": "SL",
+            "entity_poly_seq_one_letter_code": "ADIQTERAYQKQPTIFQNKKRVLLGETGKEKLPRYYKNIGLGFKTPKEAIEGTYIDKKCPFTGNVSIRGRILSGVVTKMKMQRTIVIRRDYLHYIRKYNRFEKRHKNMSVHLSPCFRDVQIGDIVTVGECRPLSKTVRFNVLKVTKAAGTKK",
+            "entity_poly_seq_one_letter_code_can": "ADIQTERAYQKQPTIFQNKKRVLLGETGKEKLPRYYKNIGLGFKTPKEAIEGTYIDKKCPFTGNVSIRGRILSGVVTKMKMQRTIVIRRDYLHYIRKYNRFEKRHKNMSVHLSPCFRDVQIGDIVTVGECRPLSKTVRFNVLKVTKAAGTKK",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS15",
+            "entity_poly_strand_id": "SN",
+            "entity_poly_seq_one_letter_code": "GRMHAPGKGLSQSALPYRRSVPTWLKLTSDDVKEQIYKLAKKGLTPSQIGVILRDSHGVAQVRFVTGNKILRILKSKGLAPDLPEDLYHLIKKAVAVRKHLERNRKDKDAKFRLILIESRIHRLARYYKTKRVLPPNWKYESSTASALV",
+            "entity_poly_seq_one_letter_code_can": "GRMHAPGKGLSQSALPYRRSVPTWLKLTSDDVKEQIYKLAKKGLTPSQIGVILRDSHGVAQVRFVTGNKILRILKSKGLAPDLPEDLYHLIKKAVAVRKHLERNRKDKDAKFRLILIESRIHRLARYYKTKRVLPPNWKYESSTASALV",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS11",
+            "entity_poly_strand_id": "SO",
+            "entity_poly_seq_one_letter_code": "SLGPQVAEGENVFGVCHIFASFNDTFVHVTDLSGKETICRVTGGMKVKADRDESSPYAAMLAAQDVAQRCKELGITALHIKLRATGGNRTKTPGPGAQSALRALARSGMKIGRIEDVTPIPSDSTRRKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "SLGPQVAEGENVFGVCHIFASFNDTFVHVTDLSGKETICRVTGGMKVKADRDESSPYAAMLAAQDVAQRCKELGITALHIKLRATGGNRTKTPGPGAQSALRALARSGMKIGRIEDVTPIPSDSTRRKGGRRGRRL",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS21",
+            "entity_poly_strand_id": "SV",
+            "entity_poly_seq_one_letter_code": "MQNDAGEFVDLYVPRKCSASNRIIGAKDHASIQMNVAEVDKVTGRFNGQFKTYAICGAIRRMGESDDSILRLAKADGIVSKN",
+            "entity_poly_seq_one_letter_code_can": "MQNDAGEFVDLYVPRKCSASNRIIGAKDHASIQMNVAEVDKVTGRFNGQFKTYAICGAIRRMGESDDSILRLAKADGIVSKN",
+            "entity_poly_seq_length": 82,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS8",
+            "entity_poly_strand_id": "SW",
+            "entity_poly_seq_one_letter_code": "VRMNVLADALKSINNAEKRGKRQVLIRPCSKVIVRFLTVMMKHGYIGEFEIIDDHRAGKIVVNLTGRLNKCGVISPRFDVQLKDLEKWQNNLLPSRQFGFIVLTTSAGIMDHEEARRKHTGGKILGFFF",
+            "entity_poly_seq_one_letter_code_can": "VRMNVLADALKSINNAEKRGKRQVLIRPCSKVIVRFLTVMMKHGYIGEFEIIDDHRAGKIVVNLTGRLNKCGVISPRFDVQLKDLEKWQNNLLPSRQFGFIVLTTSAGIMDHEEARRKHTGGKILGFFF",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS12",
+            "entity_poly_strand_id": "SX",
+            "entity_poly_seq_one_letter_code": "GKCRGLRTARKLRSHRRDHKWHDKQYKKAHLGTALKANPFGGASHAKGIVLEKVGVEAKQPNSAIRKCVRVQLIKNGKKITAFVPNDGCLNFIEENDEVLVAGFGRKGHAVGDIPGVRFKVVKVANVSLLALYKGKKERPR",
+            "entity_poly_seq_one_letter_code_can": "GKCRGLRTARKLRSHRRDHKWHDKQYKKAHLGTALKANPFGGASHAKGIVLEKVGVEAKQPNSAIRKCVRVQLIKNGKKITAFVPNDGCLNFIEENDEVLVAGFGRKGHAVGDIPGVRFKVVKVANVSLLALYKGKKERPR",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS24",
+            "entity_poly_strand_id": "SY",
+            "entity_poly_seq_one_letter_code": "DTVTIRTRKFMTNRLLQRKQMVIDVLHPGKATVPKTEIREKLAKMYKTTPDVIFVFGFRTHFGGGKTTGFGMIYDSLDYAKKNEPKHRLARHGLYEKKKTSRKQRKERKNRMKKVRGTAKANVGAG",
+            "entity_poly_seq_one_letter_code_can": "DTVTIRTRKFMTNRLLQRKQMVIDVLHPGKATVPKTEIREKLAKMYKTTPDVIFVFGFRTHFGGGKTTGFGMIYDSLDYAKKNEPKHRLARHGLYEKKKTSRKQRKERKNRMKKVRGTAKANVGAG",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS26",
+            "entity_poly_strand_id": "Sa",
+            "entity_poly_seq_one_letter_code": "TKKRRNNGRAKKGRGHVQPIRCTNCARCVPKDKAIKKFVIRNIVEAAAVRDISEASVFDAYVLPKLYVKLHYCVSCAIHSKVVRNRSREARKDRTPPP",
+            "entity_poly_seq_one_letter_code_can": "TKKRRNNGRAKKGRGHVQPIRCTNCARCVPKDKAIKKFVIRNIVEAAAVRDISEASVFDAYVLPKLYVKLHYCVSCAIHSKVVRNRSREARKDRTPPP",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS30",
+            "entity_poly_strand_id": "Se",
+            "entity_poly_seq_one_letter_code": "HGSLARAGKVRGQTPKVAKQEKKKKKTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS",
+            "entity_poly_seq_one_letter_code_can": "HGSLARAGKVRGQTPKVAKQEKKKKKTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS",
+            "entity_poly_seq_length": 57,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS3",
+            "entity_poly_strand_id": "SD",
+            "entity_poly_seq_one_letter_code": "MAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVELYAEKVATRGLCAIAQAESLRYKLLGGLAVRRACYGVLRFIMESGAKGCEVVVSGKLRGQRAKSMKFVDGLMIHSGDPVNYYVDTAVRHVLLRQGVLGIKVKIMLPWDPTGKIGPKKPLPDHVSIVEPKDEILPTTPISEQK",
+            "entity_poly_seq_one_letter_code_can": "MAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVELYAEKVATRGLCAIAQAESLRYKLLGGLAVRRACYGVLRFIMESGAKGCEVVVSGKLRGQRAKSMKFVDGLMIHSGDPVNYYVDTAVRHVLLRQGVLGIKVKIMLPWDPTGKIGPKKPLPDHVSIVEPKDEILPTTPISEQK",
+            "entity_poly_seq_length": 227,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS10",
+            "entity_poly_strand_id": "SK",
+            "entity_poly_seq_one_letter_code": "MLMPKKNRIAIYELLFKEGVMVAKKDVHMPKHPELADKNVPNLHVMKAMQSLKSRGYVKEQFAWRHFYWYLTNEGIQYLRDYLHLPPEIVPATLRRSR",
+            "entity_poly_seq_one_letter_code_can": "MLMPKKNRIAIYELLFKEGVMVAKKDVHMPKHPELADKNVPNLHVMKAMQSLKSRGYVKEQFAWRHFYWYLTNEGIQYLRDYLHLPPEIVPATLRRSR",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS12",
+            "entity_poly_strand_id": "SM",
+            "entity_poly_seq_one_letter_code": "GGVMDVNTALQEVLKTALIHDGLARGIREAAKALDKRQAHLCVQASNCDEPMYVKLVEALLAEHQINLIKVDDNKKLGEWVGLCKIDREGNPRKVVGCSCVVVKDYGKESQAKDVIEEYFKCKK",
+            "entity_poly_seq_one_letter_code_can": "GGVMDVNTALQEVLKTALIHDGLARGIREAAKALDKRQAHLCVQASNCDEPMYVKLVEALLAEHQINLIKVDDNKKLGEWVGLCKIDREGNPRKVVGCSCVVVKDYGKESQAKDVIEEYFKCKK",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS19",
+            "entity_poly_strand_id": "SP",
+            "entity_poly_seq_one_letter_code": "VEQKKKRTFRKFTYRGVDLDQLLDMSYEQLMQLYSARQRRRLNRGLRRKQHSLLKRLRKAKKEAPPMEKPEVVKTHLRDMIILPEMVGSMVGVYNG",
+            "entity_poly_seq_one_letter_code_can": "VEQKKKRTFRKFTYRGVDLDQLLDMSYEQLMQLYSARQRRRLNRGLRRKQHSLLKRLRKAKKEAPPMEKPEVVKTHLRDMIILPEMVGSMVGVYNG",
+            "entity_poly_seq_length": 96,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS9",
+            "entity_poly_strand_id": "SQ",
+            "entity_poly_seq_one_letter_code": "PLQSVQVFGRKKTATAVAHCKRGNGLIKVNGRPLEMIEPRTLQYKLLEPVLLLGKERFAGVDIRVRVKGGGHVAQIYAIRQSISKALVAYYQKYVDEASKKEIKDILIQYDRTLLVADPRRCESKKFGGPGARARYQKSYR",
+            "entity_poly_seq_one_letter_code_can": "PLQSVQVFGRKKTATAVAHCKRGNGLIKVNGRPLEMIEPRTLQYKLLEPVLLLGKERFAGVDIRVRVKGGGHVAQIYAIRQSISKALVAYYQKYVDEASKKEIKDILIQYDRTLLVADPRRCESKKFGGPGARARYQKSYR",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS17",
+            "entity_poly_strand_id": "SR",
+            "entity_poly_seq_one_letter_code": "MGRVRTKTVKKAARVIIEKYYTRLGNDFHTNKRVCEEIAIIPSKKLRNKIAGYVTHLMKRIQRGPVRGISIKLQEEERERRDNYVPEVSALDQEIIEVDPDTKEMLKLLDFGSLSNLQVTQPTVGMNFK",
+            "entity_poly_seq_one_letter_code_can": "MGRVRTKTVKKAARVIIEKYYTRLGNDFHTNKRVCEEIAIIPSKKLRNKIAGYVTHLMKRIQRGPVRGISIKLQEEERERRDNYVPEVSALDQEIIEVDPDTKEMLKLLDFGSLSNLQVTQPTVGMNFK",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS13",
+            "entity_poly_strand_id": "SS",
+            "entity_poly_seq_one_letter_code": "PEKFQHILRVLNTNIDGRRKIAFAITAIKGVGRRYAHVVLRKADIDLTKRAGELTEDEVERVITIMQNPRQYKIPDWFLNRQKDVKDGKYSQVLANGLDNKLREDLERLKKIRAHRGLRHFWGLRVRGQHTKTTGRR",
+            "entity_poly_seq_one_letter_code_can": "PEKFQHILRVLNTNIDGRRKIAFAITAIKGVGRRYAHVVLRKADIDLTKRAGELTEDEVERVITIMQNPRQYKIPDWFLNRQKDVKDGKYSQVLANGLDNKLREDLERLKKIRAHRGLRHFWGLRVRGQHTKTTGRR",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS10",
+            "entity_poly_strand_id": "SU",
+            "entity_poly_seq_one_letter_code": "AIHRIRITLTSRNVKSLEKVCADLIRGAKEKNLKVKGPVRMPTKTLRITTRKTPCGEGSKTWDRFQMRIPKRLIDLHSPSEIVKQITSISIEPGVEVEVTIADA",
+            "entity_poly_seq_one_letter_code_can": "AIHRIRITLTSRNVKSLEKVCADLIRGAKEKNLKVKGPVRMPTKTLRITTRKTPCGEGSKTWDRFQMRIPKRLIDLHSPSEIVKQITSISIEPGVEVEVTIADA",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein es25",
+            "entity_poly_strand_id": "SZ",
+            "entity_poly_seq_one_letter_code": "RDKLNNLVLFDKATYDKLCKEVPNYKLITPAVVSERLKIRGSLARAALQELLSKGLIKLVSKHRAQVIYTRNTKG",
+            "entity_poly_seq_one_letter_code_can": "RDKLNNLVLFDKATYDKLCKEVPNYKLITPAVVSERLKIRGSLARAALQELLSKGLIKLVSKHRAQVIYTRNTKG",
+            "entity_poly_seq_length": 75,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS28",
+            "entity_poly_strand_id": "Sc",
+            "entity_poly_seq_one_letter_code": "RVQPIKLARVTKVLGRTGSQGQCTQVRVEFMDDTSRSIIRNVKGPVREGDVLTLLESEREARRL",
+            "entity_poly_seq_one_letter_code_can": "RVQPIKLARVTKVLGRTGSQGQCTQVRVEFMDDTSRSIIRNVKGPVREGDVLTLLESEREARRL",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS14",
+            "entity_poly_strand_id": "Sd",
+            "entity_poly_seq_one_letter_code": "GFYWSHPRKFGQGSRSCRVCSNRHGLIRKYGLNMCRQCFRQYAKDIGFIKLD",
+            "entity_poly_seq_one_letter_code_can": "GFYWSHPRKFGQGSRSCRVCSNRHGLIRKYGLNMCRQCFRQYAKDIGFIKLD",
+            "entity_poly_seq_length": 52,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein RACK1",
+            "entity_poly_strand_id": "Sg",
+            "entity_poly_seq_one_letter_code": "TEQMTLRGTLKGHNGWVTQIATTPQFPDMILSASRDKTIIMWKLTRDETNYGIPQRALRGHSHFVSDVVISSDGQFALSGSWDGTLRLWDLTTGTTTRRFVGHTKDVLSVAFSSDNRQIVSGSRDKTIKLWNTLGVCKYTVQDESHSEWVSCVRFSPNSSNPIIVSCGWDKLVKVWNLANCKLKTNHIGHTGYLNTVTVSPDGSLCASGGKDGQAMLWDLNEGKHLYTLDGGDIINALCFSPNRYWLCAATGPSIKIWDLEGKIIVDELKQEVISTSSKAEPPQCTSLAWSADGQTLFAGYTDNLVRVWQVTI",
+            "entity_poly_seq_one_letter_code_can": "TEQMTLRGTLKGHNGWVTQIATTPQFPDMILSASRDKTIIMWKLTRDETNYGIPQRALRGHSHFVSDVVISSDGQFALSGSWDGTLRLWDLTTGTTTRRFVGHTKDVLSVAFSSDNRQIVSGSRDKTIKLWNTLGVCKYTVQDESHSEWVSCVRFSPNSSNPIIVSCGWDKLVKVWNLANCKLKTNHIGHTGYLNTVTVSPDGSLCASGGKDGQAMLWDLNEGKHLYTLDGGDIINALCFSPNRYWLCAATGPSIKIWDLEGKIIVDELKQEVISTSSKAEPPQCTSLAWSADGQTLFAGYTDNLVRVWQVTI",
+            "entity_poly_seq_length": 313,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "SRP9",
+            "entity_poly_strand_id": "S1",
+            "entity_poly_seq_one_letter_code": "PQYQTWEEFSRAAEKLYLADPMKARVVLKYRHSDGNLCVKVTDDLVCLVYKTDQAQDVKKIEKFHSQLMRLMVA",
+            "entity_poly_seq_one_letter_code_can": "PQYQTWEEFSRAAEKLYLADPMKARVVLKYRHSDGNLCVKVTDDLVCLVYKTDQAQDVKKIEKFHSQLMRLMVA",
+            "entity_poly_seq_length": 74,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "SRP14",
+            "entity_poly_strand_id": "S4",
+            "entity_poly_seq_one_letter_code": "VLLESEQFLTELTRLFQKCRTSGSVYITLKKYDGNKCLLRATDGKKKISTVVSSKEVNKFQMAYSNLLRANMDGLK",
+            "entity_poly_seq_one_letter_code_can": "VLLESEQFLTELTRLFQKCRTSGSVYITLKKYDGNKCLLRATDGKKKISTVVSSKEVNKFQMAYSNLLRANMDGLK",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL31",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "NEVVTREYTINIHKRIHGVGFKKRAPRALKEIRKFAMKEMGTPDVRIDTRLNKAVWAKGIRNVPYRIRVRLSRKRNEDEDSPNKLYTLVTYVPVTTFKNLQTVNVDE",
+            "entity_poly_seq_one_letter_code_can": "NEVVTREYTINIHKRIHGVGFKKRAPRALKEIRKFAMKEMGTPDVRIDTRLNKAVWAKGIRNVPYRIRVRLSRKRNEDEDSPNKLYTLVTYVPVTTFKNLQTVNVDE",
+            "entity_poly_seq_length": 107,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL38",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "PRKIEEIKDFLLTARRKDAKSVKIKKNKDNVKFKVRCSRYLYTLVITDKEKAEKLKQSLPPGLAVKELK",
+            "entity_poly_seq_one_letter_code_can": "PRKIEEIKDFLLTARRKDAKSVKIKKNKDNVKFKVRCSRYLYTLVITDKEKAEKLKQSLPPGLAVKELK",
+            "entity_poly_seq_length": 69,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL28",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "SAHLQWMVVRNCSSFLIKRNKQTYSTEPNNLKARNSFRYNGLIHHKTVGVEPAADGKGVVVVIKRRSGQRKPATSYVRTTINKNARATLSSIRHMIRKNKYRPDLRMAAIRRASAILRSQKPVMV",
+            "entity_poly_seq_one_letter_code_can": "SAHLQWMVVRNCSSFLIKRNKQTYSTEPNNLKARNSFRYNGLIHHKTVGVEPAADGKGVVVVIKRRSGQRKPATSYVRTTINKNARATLSSIRHMIRKNKYRPDLRMAAIRRASAILRSQKPVMV",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS27",
+            "entity_poly_strand_id": "Sb",
+            "entity_poly_seq_one_letter_code": "PLAKDLLHPSPEEEKRKHKKKRLVQSPNSYFMDVKCPGCYKITTVFSHAQTVVLCVGCSTVLCQPTGGKARLTEGCSFRRKQH",
+            "entity_poly_seq_one_letter_code_can": "PLAKDLLHPSPEEEKRKHKKKRLVQSPNSYFMDVKCPGCYKITTVFSHAQTVVLCVGCSTVLCQPTGGKARLTEGCSFRRKQH",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS7",
+            "entity_poly_strand_id": "SF",
+            "entity_poly_seq_one_letter_code": "TPDIKLFGKWSTDDVQINDISLQDYIAVKEKYAKYLPHSAGRYAAKRFRKAQCPIVERLTNSMMMHGRNNGKKLMTVRIVKHAFEIIHLLTGENPLQVLVNAIINSGPREDSTRIGRAGTVRRQAVDVSPLRRVNQAIWLLCTGAREAAFRNIKTIAECLADELINAAKGSSNSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_one_letter_code_can": "TPDIKLFGKWSTDDVQINDISLQDYIAVKEKYAKYLPHSAGRYAAKRFRKAQCPIVERLTNSMMMHGRNNGKKLMTVRIVKHAFEIIHLLTGENPLQVLVNAIINSGPREDSTRIGRAGTVRRQAVDVSPLRRVNQAIWLLCTGAREAAFRNIKTIAECLADELINAAKGSSNSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_length": 191,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS19",
+            "entity_poly_strand_id": "ST",
+            "entity_poly_seq_one_letter_code": "VTVKDVNQQEFVRALAAFLKKSGKLKVPEWVDTVKLAKHKELAPYDENWFYTRAASTARHLYLRGGAGVGSMTKIYGGRQRNGVMPSHFSRGSKSVARRVLQALEGLKMVEKDQDGGRKLTPQGQRDLDRIAGQVAAANKK",
+            "entity_poly_seq_one_letter_code_can": "VTVKDVNQQEFVRALAAFLKKSGKLKVPEWVDTVKLAKHKELAPYDENWFYTRAASTARHLYLRGGAGVGSMTKIYGGRQRNGVMPSHFSRGSKSVARRVLQALEGLKMVEKDQDGGRKLTPQGQRDLDRIAGQVAAANKK",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS31",
+            "entity_poly_strand_id": "Sf",
+            "entity_poly_seq_one_letter_code": "KKSYTTPKKNKHKRKKVKLAVLKYYKVDENGKISRLRRECPSDECGAGVFMASHFDRHYCGKCCLTYCFNK",
+            "entity_poly_seq_one_letter_code_can": "KKSYTTPKKNKHKRKKVKLAVLKYYKVDENGKISRLRRECPSDECGAGVFMASHFDRHYCGKCCLTYCFNK",
+            "entity_poly_seq_length": 71,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "3JAJ",
+            "rcsb_pdbx_description": "28S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "CGCGACCUCAGAUCAGACGUGGCGACCCGCUGAAUUUAAGCAUAUUAGUCAGCGGAGGAGAAGAAACUAACCAGGAUUCCCUCAGUAACGGCGAGUGAACAGGGAAGAGCCCAGCGCCGAAUCCCCGCCCCGCGGCGGGGCGCGGGACAUGUGGCGUACGGAAGACCCGCUCCCCGGCGCCGCUCGUGGGGGGCCCAAGUCCUUCUGAUCGAGGCCCAGCCCGUGGACGGUGUGAGGCCGGUAGCGGCCCCCGGCGCGCCGGGCCCGGGUCUUCCCGGAGUCGGGUUGCUUGGGAAUGCAGCCCAAAGCGGGUGGUAAACUCCAUCUAAGGCUAAAUACCGGCACGAGACCGAUAGUCAACAAGUACCGUAAGGGAAAGUUGAAAAGAACUUUGAAGAGAGAGUUCAAGAGGGCGUGAAACCGUUAAGAGGUAAACGGGUGGGGUCCGCGCAGUCCGCCCGGAGGAUUCAACCCGGCGGCGGGUCCGGCCGUGUCGGCGGCCCGGCGGAUCUUUCCCGCGCGGGGGACCGUCCCCCGACCGGCGACCGGCCGCCGCCGGGCGCAUUUCCACCGCGGCGGUGCGCCGCGACCGGCUCCGGGACGGCUGGGAAGGCCCGGCGGGGAAGGUGGCUCGGCCGAGUGUUACAGCCCCCCCGGCAGCAGCACUCGCCGAAUCCCGGGGCCGAGGGAGCGAGACCCGUCGCCGCGCUCUCCCCCCUCCCGGCGCCGCCGGGGGGGGCCGGGCCACCCCUCCCACGGCGCGACCGCUCGGGGCGGACUGUCCCCAGUGCGCCCCGGGCGGGUCGCGCCGUCGGGCCCGGGGGAGGGGCCACGCGCGCGUCCCCCGAAGAGGGGGACGGCGGAGCGAGCGCACGGGGUCGGCGGCGACGUCGGCUACCCACCCGACCCGUCUUGAAACACGGACCAAGGAGUCUAACACGUGCGCGAGUCGGGGGCUCGCACGAAAGCCGCCGUGGCGCAAUGAAGGUGAAGGCCGGCGCGCUCGCCGGCCGAGGUGGGAUCCCGAGGCCUCUCCAGUCCGCCGAGGGCGCACCACCGGCCCGUCUCGCCCGCCGCGCCGGGGAGGUGGAGCACGAGCGCACGUGUUAGGACCCGAAAGAUGGUGAACUAUGCCUGGGCAGGGCGAAGCCAGAGGAAACUCUGGUGGAGGUCCGUAGCGGUCCUGACGUGCAAAUCGGUCGUCCGACCUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUCCCUCCGAAGUUUCCCUCAGGAUAGCUGGCGCUCUCGCACACGCAGUUUUAUCCGGUAAAGCGAAUGAUUAGAGGUCUUGGGGCCGAAACGAUCUCAACCUAUUCUCAAACUUUAAAUGGGUAAGAAGCCCGGCUCGCUGGCGUGAGCCGGGCGUGGAAUGGAGUGCCUAGUGGGCCACUUUUGGUAAGCAGAACUGGCGCUGCGGGAUGAACCGAACGCCGGGUUAAGGCGCCCGAUGCCGACGCUCAUCAGACCCCAGAAAAGGUGUUGGUUGAUAUAGACAGCAGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCGAAUCAACUAGCCCUGAAAAUGGAUGGCGCUGGAGCGUCGGGCCCAUACCCGGCCGUCGCCGGCAGUCGAGAGUGGACGGGAGCGGCGGGGGCGGCGCGCGCGCGCGCCCGCCCCCGGAGCCCCGCGGACGCUACGCCGCGACGAGUAGGAGGGCCGCUGCGGUGAGCCUUGAAGCCUAGGGCGCGGGCCCGGGUGGAGCCGCCGCAGGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAACGAGAACUUUGAAGGCCGAAGUGGAGAAGGGUUCCAUGUGAACAGCAGUUGAACAUGGGUCAGUCGGUCCUGAGAGAUGGGCGAGCGCCGUUCCGAAGGGACGGGCGAUGGCCUCCGUUGCCCUCGGCCGAUCGAAAGGGAGUCGGGUUCAGAUCCCCGAAUCCGGAGUGGCGGAGAUGGGCGCCGCGAGGCGUCCAGUGCGGUAACGCGACCGAUCCCGGAGAAGCCGGCGGGAGCCCCGGGGAGAGUUCUCUUUUCUUUGUGAAGGGCAGGGCGCCCUGGAAUGGGUUCGCCCCGAGAGAGGGGCCCGUGCCUUGGAAAGCGUCGCGGUUCCGGCGGCGUCCGGUGAGCUCUCGCUGGCCCUUGAAAAUCCGGGGGAGAGGGUGUAAAUCUCGCGCCGGGCCGUACCCAUAUCCGCAGCAGGUCUCCAAGGUGAACAGCCUCUGGCAUGUUGGAACAAUGUAGGUAAGGGAAGUCGGCAAGCCGGAUCCGUAACUUCGGGAUAAGGAUUGGCUCUAAGGGCUGGGUCGGUCGUCGGCCGGCGCCUAGCAGCCGACUUAGAACUGGUGCGGACCAGGGGAAUCCGACUGUUUAAUUAAAACAAAGCAUCGCGAAGGCCCGCGGCGGGUGUUGACGCGAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAAUGAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUGAACGAGAUUCCCACUGUCCCUACCUACUAUCCAGCGAAACCACAGCCAAGGGAACGGGCUUGGCGGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCUGGCACGGUGAAGAGACAUGUUUUUUCACUGACCCGGUGAGGCGGGGGGGCGAGCCCCGAGGGGCUCUCGCUUCUGGCGCCAAGCGCCCGGCCGCGCGCCGGCCGGGCGCGACCCGCUCCGGGGACAGUGCCAGGUGGGGAGUUUGACUGGGGCGGUACACCUGUCAAACGGUAACGCAGGUGUCCUAAGGCGAGCUCAGGGAGGACAGAAACCUCCCGUGGAGCAGAAGGGCAAAAGCUCGCUUGAUCUUGAUUUUCAGUACGAAUACAGACCGUGAAAGCGGGGCCUCACGAUCCUUCUGACCUUUUGGGUUUUAAGCAGGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGUGAAGCAGAAUUCACCAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAUGUGUUGUUGCCAUGGUAAUCCUGCUCAGUACGAGAGGAACCGCAGGUUCAGACAUUUGGUGUAUGUGCUUGGCUGAGGAGCCAAUGGGGCGAAGCUACCAUCUGUGGGAUUAUGACUGAACGCCUCUAAGUCAGAAUCCCGCCCAGGCGGAACGAUACGGCAGCGCCGCGGAGCCUCGGUUGGCCUCGGAUAGCCGGUCCCCCGCGGGGUCCGGUGCGGAGUGCCCUUCGUCCUGGGAAACGGGGCGCGGCCGGAGAGGCGGCCGCCCCCUCGCCCGUCACGCACGCCGUUCGUGGGGAACCUGGCGCUAAACCAUUCGUAGACGACCUGCUUCUGGGUCGGGGUUUCGUACGUAGCAGAGCAGCUCGCUGCGAUCUAUUGAAAGUCAGCCCUCGACACAAGGGUUUGU",
+            "entity_poly_seq_one_letter_code_can": "CGCGACCUCAGAUCAGACGUGGCGACCCGCUGAAUUUAAGCAUAUUAGUCAGCGGAGGAGAAGAAACUAACCAGGAUUCCCUCAGUAACGGCGAGUGAACAGGGAAGAGCCCAGCGCCGAAUCCCCGCCCCGCGGCGGGGCGCGGGACAUGUGGCGUACGGAAGACCCGCUCCCCGGCGCCGCUCGUGGGGGGCCCAAGUCCUUCUGAUCGAGGCCCAGCCCGUGGACGGUGUGAGGCCGGUAGCGGCCCCCGGCGCGCCGGGCCCGGGUCUUCCCGGAGUCGGGUUGCUUGGGAAUGCAGCCCAAAGCGGGUGGUAAACUCCAUCUAAGGCUAAAUACCGGCACGAGACCGAUAGUCAACAAGUACCGUAAGGGAAAGUUGAAAAGAACUUUGAAGAGAGAGUUCAAGAGGGCGUGAAACCGUUAAGAGGUAAACGGGUGGGGUCCGCGCAGUCCGCCCGGAGGAUUCAACCCGGCGGCGGGUCCGGCCGUGUCGGCGGCCCGGCGGAUCUUUCCCGCGCGGGGGACCGUCCCCCGACCGGCGACCGGCCGCCGCCGGGCGCAUUUCCACCGCGGCGGUGCGCCGCGACCGGCUCCGGGACGGCUGGGAAGGCCCGGCGGGGAAGGUGGCUCGGCCGAGUGUUACAGCCCCCCCGGCAGCAGCACUCGCCGAAUCCCGGGGCCGAGGGAGCGAGACCCGUCGCCGCGCUCUCCCCCCUCCCGGCGCCGCCGGGGGGGGCCGGGCCACCCCUCCCACGGCGCGACCGCUCGGGGCGGACUGUCCCCAGUGCGCCCCGGGCGGGUCGCGCCGUCGGGCCCGGGGGAGGGGCCACGCGCGCGUCCCCCGAAGAGGGGGACGGCGGAGCGAGCGCACGGGGUCGGCGGCGACGUCGGCUACCCACCCGACCCGUCUUGAAACACGGACCAAGGAGUCUAACACGUGCGCGAGUCGGGGGCUCGCACGAAAGCCGCCGUGGCGCAAUGAAGGUGAAGGCCGGCGCGCUCGCCGGCCGAGGUGGGAUCCCGAGGCCUCUCCAGUCCGCCGAGGGCGCACCACCGGCCCGUCUCGCCCGCCGCGCCGGGGAGGUGGAGCACGAGCGCACGUGUUAGGACCCGAAAGAUGGUGAACUAUGCCUGGGCAGGGCGAAGCCAGAGGAAACUCUGGUGGAGGUCCGUAGCGGUCCUGACGUGCAAAUCGGUCGUCCGACCUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUCCCUCCGAAGUUUCCCUCAGGAUAGCUGGCGCUCUCGCACACGCAGUUUUAUCCGGUAAAGCGAAUGAUUAGAGGUCUUGGGGCCGAAACGAUCUCAACCUAUUCUCAAACUUUAAAUGGGUAAGAAGCCCGGCUCGCUGGCGUGAGCCGGGCGUGGAAUGGAGUGCCUAGUGGGCCACUUUUGGUAAGCAGAACUGGCGCUGCGGGAUGAACCGAACGCCGGGUUAAGGCGCCCGAUGCCGACGCUCAUCAGACCCCAGAAAAGGUGUUGGUUGAUAUAGACAGCAGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCGAAUCAACUAGCCCUGAAAAUGGAUGGCGCUGGAGCGUCGGGCCCAUACCCGGCCGUCGCCGGCAGUCGAGAGUGGACGGGAGCGGCGGGGGCGGCGCGCGCGCGCGCCCGCCCCCGGAGCCCCGCGGACGCUACGCCGCGACGAGUAGGAGGGCCGCUGCGGUGAGCCUUGAAGCCUAGGGCGCGGGCCCGGGUGGAGCCGCCGCAGGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAACGAGAACUUUGAAGGCCGAAGUGGAGAAGGGUUCCAUGUGAACAGCAGUUGAACAUGGGUCAGUCGGUCCUGAGAGAUGGGCGAGCGCCGUUCCGAAGGGACGGGCGAUGGCCUCCGUUGCCCUCGGCCGAUCGAAAGGGAGUCGGGUUCAGAUCCCCGAAUCCGGAGUGGCGGAGAUGGGCGCCGCGAGGCGUCCAGUGCGGUAACGCGACCGAUCCCGGAGAAGCCGGCGGGAGCCCCGGGGAGAGUUCUCUUUUCUUUGUGAAGGGCAGGGCGCCCUGGAAUGGGUUCGCCCCGAGAGAGGGGCCCGUGCCUUGGAAAGCGUCGCGGUUCCGGCGGCGUCCGGUGAGCUCUCGCUGGCCCUUGAAAAUCCGGGGGAGAGGGUGUAAAUCUCGCGCCGGGCCGUACCCAUAUCCGCAGCAGGUCUCCAAGGUGAACAGCCUCUGGCAUGUUGGAACAAUGUAGGUAAGGGAAGUCGGCAAGCCGGAUCCGUAACUUCGGGAUAAGGAUUGGCUCUAAGGGCUGGGUCGGUCGUCGGCCGGCGCCUAGCAGCCGACUUAGAACUGGUGCGGACCAGGGGAAUCCGACUGUUUAAUUAAAACAAAGCAUCGCGAAGGCCCGCGGCGGGUGUUGACGCGAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAAUGAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUGAACGAGAUUCCCACUGUCCCUACCUACUAUCCAGCGAAACCACAGCCAAGGGAACGGGCUUGGCGGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCUGGCACGGUGAAGAGACAUGUUUUUUCACUGACCCGGUGAGGCGGGGGGGCGAGCCCCGAGGGGCUCUCGCUUCUGGCGCCAAGCGCCCGGCCGCGCGCCGGCCGGGCGCGACCCGCUCCGGGGACAGUGCCAGGUGGGGAGUUUGACUGGGGCGGUACACCUGUCAAACGGUAACGCAGGUGUCCUAAGGCGAGCUCAGGGAGGACAGAAACCUCCCGUGGAGCAGAAGGGCAAAAGCUCGCUUGAUCUUGAUUUUCAGUACGAAUACAGACCGUGAAAGCGGGGCCUCACGAUCCUUCUGACCUUUUGGGUUUUAAGCAGGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGUGAAGCAGAAUUCACCAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAUGUGUUGUUGCCAUGGUAAUCCUGCUCAGUACGAGAGGAACCGCAGGUUCAGACAUUUGGUGUAUGUGCUUGGCUGAGGAGCCAAUGGGGCGAAGCUACCAUCUGUGGGAUUAUGACUGAACGCCUCUAAGUCAGAAUCCCGCCCAGGCGGAACGAUACGGCAGCGCCGCGGAGCCUCGGUUGGCCUCGGAUAGCCGGUCCCCCGCGGGGUCCGGUGCGGAGUGCCCUUCGUCCUGGGAAACGGGGCGCGGCCGGAGAGGCGGCCGCCCCCUCGCCCGUCACGCACGCCGUUCGUGGGGAACCUGGCGCUAAACCAUUCGUAGACGACCUGCUUCUGGGUCGGGGUUUCGUACGUAGCAGAGCAGCUCGCUGCGAUCUAUUGAAAGUCAGCCCUCGACACAAGGGUUUGU",
+            "entity_poly_seq_length": 3658,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "rcsb_pdbx_description": "5.8S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "8",
+            "entity_poly_seq_one_letter_code": "CGACUCUUAGCGGUGGAUCACUCGGCUCGUGCGUCGAUGAAGAACGCAGCUAGCUGCGAGAAUUAAUGUGAAUUGCAGGACACAUUGAUCAUCGACACUUCGAACGCACUUGCGGCCCCGGGUUCCUCCCGGGGCUACGCCUGUCUGAGCGUCGCU",
+            "entity_poly_seq_one_letter_code_can": "CGACUCUUAGCGGUGGAUCACUCGGCUCGUGCGUCGAUGAAGAACGCAGCUAGCUGCGAGAAUUAAUGUGAAUUGCAGGACACAUUGAUCAUCGACACUUCGAACGCACUUGCGGCCCCGGGUUCCUCCCGGGGCUACGCCUGUCUGAGCGUCGCU",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "rcsb_pdbx_description": "Val tRNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "GUUUCCGUAGUGUAGUGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCCCGGUUCGAAACCGGGCGGAAACACCA",
+            "entity_poly_seq_one_letter_code_can": "GUUUCCGUAGUGUAGUGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCCCGGUUCGAAACCGGGCGGAAACACCA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "rcsb_pdbx_description": "SRP 7S RNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "GCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUGAGGCUGGAGGAUCGCUUUAGCGAGACCCCGUCUCGACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUU",
+            "entity_poly_seq_one_letter_code_can": "GCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUGAGGCUGGAGGAUCGCUUUAGCGAGACCCCGUCUCGACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUU",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "rcsb_pdbx_description": "18S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "S2",
+            "entity_poly_seq_one_letter_code": "UACCUGGUUGAUCCUGCCAGUAGCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUUCCUUUGGUCGCUCGCUCCUCUCCCACUUGGAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCCGACGGGCGCUGACCCCCUUCGCGGGGGGGAUGCGUGCAUUUAUCAGUGGUGACUCUAGAUAACCUCGGGCCGAUCGCACGCCCCCCGUGGCGGCGACGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGACCCGGGGAGGUAGUGACGAAAAAUAACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGAAUGAGUCCACUUUAAAUCCUUCCGCGAGGAUCCAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUAGUUGGAUCUUGGGAGCGGGCGUCCCCGCCGCCUCUCGGCCGGGGCCCGAAGCAUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCCCGAGCCGCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUAUUUUGUUGGUUUUCGGAACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCCGACUGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCCGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCCCCGAGCGGUCGGCGUCCCCCAACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCCUGCCCUUUGUACACACCGCCCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCCGCCGGGGUCGGCCCACGGCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_one_letter_code_can": "UACCUGGUUGAUCCUGCCAGUAGCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUUCCUUUGGUCGCUCGCUCCUCUCCCACUUGGAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCCGACGGGCGCUGACCCCCUUCGCGGGGGGGAUGCGUGCAUUUAUCAGUGGUGACUCUAGAUAACCUCGGGCCGAUCGCACGCCCCCCGUGGCGGCGACGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGACCCGGGGAGGUAGUGACGAAAAAUAACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGAAUGAGUCCACUUUAAAUCCUUCCGCGAGGAUCCAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUAGUUGGAUCUUGGGAGCGGGCGUCCCCGCCGCCUCUCGGCCGGGGCCCGAAGCAUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCCCGAGCCGCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUAUUUUGUUGGUUUUCGGAACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCCGACUGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCCGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCCCCGAGCGGUCGGCGUCCCCCAACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCCUGCCCUUUGUACACACCGCCCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCCGCCGGGGUCGGCCCACGGCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_length": 1742,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JAJ",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "GUCUACGGCCAUACCACCCUGAACGCGCCCGAUCUCGUCUGAUCUCGGAAGCUAAGCAGGGUCGGGCCUGGUUAGUACUUGGAUGGGAGACCGCCUGGGAAUACCGGGUGCUGUAGGCUU",
+            "entity_poly_seq_one_letter_code_can": "GUCUACGGCCAUACCACCCUGAACGCGCCCGAUCUCGUCUGAUCUCGGAAGCUAAGCAGGGUCGGGCCUGGUUAGUACUUGGAUGGGAGACCGCCUGGGAAUACCGGGUGCUGUAGGCUU",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

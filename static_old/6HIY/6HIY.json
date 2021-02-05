@@ -1,0 +1,1115 @@
+{
+    "rcsb_id": "6HIY",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.27,
+    "rcsb_external_ref_id": [
+        "EMD-0232"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-0232"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": "FOURIER SPACE",
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.27,
+    "cryoem_exp_num_particles": 31911,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2018,
+    "citation_rcsb_authors": [
+        "Ramrath, D.J.F.",
+        "Niemann, M.",
+        "Leibundgut, M.",
+        "Bieri, P.",
+        "Prange, C.",
+        "Horn, E.K.",
+        "Leitner, A.",
+        "Boehringer, D.",
+        "Schneider, A.",
+        "Ban, N."
+    ],
+    "citation_title": "Evolutionary shift toward protein-based architecture in trypanosomal mitochondrial ribosomes.",
+    "citation_pdbx_doi": "10.1126/science.aau7735",
+    "pdbx_keywords_text": "mitoribosome, translation, Trypanosoma, small ribosomal subunit, 9S rRNA, ribosomal protein, mitochondrial initiation factor IF-3, RIBOSOME",
+    "_organismId": [
+        5702
+    ],
+    "_organismName": [
+        "Trypanosoma brucei brucei"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q587C2"
+            ],
+            "rcsb_pdbx_description": "mS56",
+            "entity_poly_strand_id": "DI",
+            "entity_poly_seq_one_letter_code": "MRKFCHFMANCWNSARSHATYGAVPLTHSQVTSVYATDGGKVDELGLLELVEERIFSWKLNKWEMRIPPNLPNDQKELIRQEQENLKQILSEWRKCFGALNADILQISSLTGVPKDVVREKNRTWLQEEVAKLRWMGEVNKAALLRDAFMRLEAFGSRDFMFMERLCCIYGLARQGTFDEAFTNYITEDPVTNDIFVDERNPFKELVAHIVRNYSQIDIIYDFLGFNYSEGYRSSLRRYMEYLQCKTAENVRASGRLVTGDKGEHNILFDYCVSRESLVSGDSCQGIIDFLYINGNDVTLIIIASDNPWLRNRQLPHRRQMEGIARRVCFVLGIPPSEVRIRNLLLPPTYLDKGSIVRLNDIVFRLSNEQSNLLIPWLTNYNKELDPKDVDYTALAKTTNEEEWLTL",
+            "entity_poly_seq_one_letter_code_can": "MRKFCHFMANCWNSARSHATYGAVPLTHSQVTSVYATDGGKVDELGLLELVEERIFSWKLNKWEMRIPPNLPNDQKELIRQEQENLKQILSEWRKCFGALNADILQISSLTGVPKDVVREKNRTWLQEEVAKLRWMGEVNKAALLRDAFMRLEAFGSRDFMFMERLCCIYGLARQGTFDEAFTNYITEDPVTNDIFVDERNPFKELVAHIVRNYSQIDIIYDFLGFNYSEGYRSSLRRYMEYLQCKTAENVRASGRLVTGDKGEHNILFDYCVSRESLVSGDSCQGIIDFLYINGNDVTLIIIASDNPWLRNRQLPHRRQMEGIARRVCFVLGIPPSEVRIRNLLLPPTYLDKGSIVRLNDIVFRLSNEQSNLLIPWLTNYNKELDPKDVDYTALAKTTNEEEWLTL",
+            "entity_poly_seq_length": 407,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38D60"
+            ],
+            "rcsb_pdbx_description": "mS61",
+            "entity_poly_strand_id": "DN",
+            "entity_poly_seq_one_letter_code": "MLCRTFLRQFRMSGGDMFVEYKVLSRDHRRSIRVEDAIVDPTFKRTVLPLGWLELLRSPSLRLPTGYFVEETVHVSLPNATSNGGKKEARPQKGGFASGSPSVGRNEANAIIAGPVVLYITGQSVPVVLNPYFVPEGTWDMRTRDGELDLRLGMDAIEQCTLFSELRPGGLLYGKLPENPNVRRNESLRATLGRYGMKCDLAESPLVPRPWTRMRYMFIDELQRGPKLTEFVGHNPRNGTPWRFSQNTKYFRIGIWRDTIRRNDMNEGLHAHSSWQKSPQQSVPEVRFLAPYP",
+            "entity_poly_seq_one_letter_code_can": "MLCRTFLRQFRMSGGDMFVEYKVLSRDHRRSIRVEDAIVDPTFKRTVLPLGWLELLRSPSLRLPTGYFVEETVHVSLPNATSNGGKKEARPQKGGFASGSPSVGRNEANAIIAGPVVLYITGQSVPVVLNPYFVPEGTWDMRTRDGELDLRLGMDAIEQCTLFSELRPGGLLYGKLPENPNVRRNESLRATLGRYGMKCDLAESPLVPRPWTRMRYMFIDELQRGPKLTEFVGHNPRNGTPWRFSQNTKYFRIGIWRDTIRRNDMNEGLHAHSSWQKSPQQSVPEVRFLAPYP",
+            "entity_poly_seq_length": 293,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "This family contains a number of ubiquitin-like proteins: SUMO (smt3 homologue) (see Swiss:Q02724), Nedd8 (see Swiss:P29595), Elongin B (see Swiss:Q15370), Rub1 (see Swiss:Q9SHE7), and Parkin (see Swiss:O60260). A number of them are thought to carry a distinctive five-residue motif termed the proteasome-interacting motif (PIM), which may have a biologically significant role in protein delivery to proteasomes and recruitment of proteasomes to transcription sites [5]."
+            ],
+            "pfam_descriptions": [
+                "Ubiquitin family"
+            ],
+            "pfam_accessions": [
+                "PF00240"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q582T9"
+            ],
+            "rcsb_pdbx_description": "mS68",
+            "entity_poly_strand_id": "DU",
+            "entity_poly_seq_one_letter_code": "MRRGALSLLKAGLLGHYQQEAFEARKRFEESTTYPGPIRAATPGDTRFYSGSLESILHDTDRHYWRAVTDDPRVQHLIPLRIRFKIFTWVTSGWEQRMQVVQIMAPKDSTIAQVKDLVIVENQSPYLCVSSFHLAIDGKELDPQKTLGEYGITEQSQIDAIEQNDHLLHRDDERPRDWTVDEITAEDVKRSPYKEMEMQPLQNLAPRYEARPKGYFGRTYYSGMKQSS",
+            "entity_poly_seq_one_letter_code_can": "MRRGALSLLKAGLLGHYQQEAFEARKRFEESTTYPGPIRAATPGDTRFYSGSLESILHDTDRHYWRAVTDDPRVQHLIPLRIRFKIFTWVTSGWEQRMQVVQIMAPKDSTIAQVKDLVIVENQSPYLCVSSFHLAIDGKELDPQKTLGEYGITEQSQIDAIEQNDHLLHRDDERPRDWTVDEITAEDVKRSPYKEMEMQPLQNLAPRYEARPKGYFGRTYYSGMKQSS",
+            "entity_poly_seq_length": 228,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL40"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q587C4"
+            ],
+            "rcsb_pdbx_description": "mS73",
+            "entity_poly_strand_id": "DZ",
+            "entity_poly_seq_one_letter_code": "MLRRSILFRMKYADLELTTRGEFPHGMKEPAFVKKLDQNIPWYFSTYRSMYHWPITGDNWSDLNEAEKHHDLHMFYTLAWWKLGEGIFGVDEDS",
+            "entity_poly_seq_one_letter_code_can": "MLRRSILFRMKYADLELTTRGEFPHGMKEPAFVKKLDQNIPWYFSTYRSMYHWPITGDNWSDLNEAEKHHDLHMFYTLAWWKLGEGIFGVDEDS",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38AX6"
+            ],
+            "rcsb_pdbx_description": "mS55m",
+            "entity_poly_strand_id": "CE",
+            "entity_poly_seq_one_letter_code": "MFRLTAASQKNLNSWYTKGTMRGGVPRIYYAWMRPGSFTRRRFEKMRNPFVDLETGTSLYFRDTRDSAEAIAHAADSKGIKGMDNAIDLYNEYRIVPDLYPEGFQWKHKLNTEYNQWRSNTWLTPDLIPKEHRGRFLCNFQLNIVAYDMRVVKFSPKDHRQWIYCVLYVGSGKGIAGWGRAVAPSTQEAKKEAIREAFSNIIAVDLEQEGPMYPVRVNADGVRVLLYPARRIVANFRVADILCAFGFQHAGCRINLKATNNPKSPTHTVEGVFEAVKALRSVSEIAASRGKVPHSLIYNIYPYLEEIRRRKGMMAMHPPGKDGLLMPDRVVDNRLPDHLKRGYYDDVYWKDFFAGSDEHLNEPRMGLRGDEMRRRLEEAQTSPAPTTAKDTRRRTLEDVLKRLGKTTRDLGSIPIVNPRVDVGLPTHIKRNYQLH",
+            "entity_poly_seq_one_letter_code_can": "MFRLTAASQKNLNSWYTKGTMRGGVPRIYYAWMRPGSFTRRRFEKMRNPFVDLETGTSLYFRDTRDSAEAIAHAADSKGIKGMDNAIDLYNEYRIVPDLYPEGFQWKHKLNTEYNQWRSNTWLTPDLIPKEHRGRFLCNFQLNIVAYDMRVVKFSPKDHRQWIYCVLYVGSGKGIAGWGRAVAPSTQEAKKEAIREAFSNIIAVDLEQEGPMYPVRVNADGVRVLLYPARRIVANFRVADILCAFGFQHAGCRINLKATNNPKSPTHTVEGVFEAVKALRSVSEIAASRGKVPHSLIYNIYPYLEEIRRRKGMMAMHPPGKDGLLMPDRVVDNRLPDHLKRGYYDDVYWKDFFAGSDEHLNEPRMGLRGDEMRRRLEEAQTSPAPTTAKDTRRRTLEDVLKRLGKTTRDLGSIPIVNPRVDVGLPTHIKRNYQLH",
+            "entity_poly_seq_length": 435,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q4GZ99"
+            ],
+            "rcsb_pdbx_description": "uS15m",
+            "entity_poly_strand_id": "CO",
+            "entity_poly_seq_one_letter_code": "MFVRSFCFLRKYGSKSKTPDLKTSFTKTTNFRKAEKISITTTDGEIVKGRGKIRRRTHSALKEAIGAMEHPAIWLWYPWRMNPEPPTPHMPQRRALKNVHGAVFNDLTPVQKKRQEQMLYGVNIPETRQMKFEEQHPLLAGALRKLEGQPKGFPFWYRKYPTRRHAYEYRFSIPVEMLDGYNDDVKKALSKGMMSIQEKQFAQEAMYMERYAEHDFDTTSPAVLAVKRALKCRVLRNHLLTNPHNNIIKTVLANTERKLNHALRRLRKVDFKKYWEIIRDHDVQDILQPPNLVTYRQGSYWKYDWNAGLAISTNLADVMDPRGLNGCVETGRSRSEVARDLGLSYTRPLHENEKKQLSHQAVYYERLAKFKMEQPEAARAMERERFVRKFSGMFVKMDIRSGAPDFPSTYRRLLGTKVVRWASKRHGPN",
+            "entity_poly_seq_one_letter_code_can": "MFVRSFCFLRKYGSKSKTPDLKTSFTKTTNFRKAEKISITTTDGEIVKGRGKIRRRTHSALKEAIGAMEHPAIWLWYPWRMNPEPPTPHMPQRRALKNVHGAVFNDLTPVQKKRQEQMLYGVNIPETRQMKFEEQHPLLAGALRKLEGQPKGFPFWYRKYPTRRHAYEYRFSIPVEMLDGYNDDVKKALSKGMMSIQEKQFAQEAMYMERYAEHDFDTTSPAVLAVKRALKCRVLRNHLLTNPHNNIIKTVLANTERKLNHALRRLRKVDFKKYWEIIRDHDVQDILQPPNLVTYRQGSYWKYDWNAGLAISTNLADVMDPRGLNGCVETGRSRSEVARDLGLSYTRPLHENEKKQLSHQAVYYERLAKFKMEQPEAARAMERERFVRKFSGMFVKMDIRSGAPDFPSTYRRLLGTKVVRWASKRHGPN",
+            "entity_poly_seq_length": 429,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38AS2"
+            ],
+            "rcsb_pdbx_description": "bS18m",
+            "entity_poly_strand_id": "CR",
+            "entity_poly_seq_one_letter_code": "MNRTGGSIYAHALSQFAVCRQPWNEYIGLLTKQDSTPYHTEPQEKPAYRGRKQGREGWLFGQQVQLHYHRFPDEQLITNLSRWRTGETVGDIAMQQFRNAQPFDIEDKDPQGVQRPSPEVYMKLNYKNPATISRFLTRTGHMYPADILPLNPEAVVKLRVAKAQAIRIGLYPRFGNPFWFRSQKFRPKAYQENYDPTTYSTKRTVEHFAYNWVQTDRIRRYFRELEAVHTSGSASARGSGGGTTAEHKQQDQFYSPENQPISLHRNNISYMEDVGRSVKNPTVPGLMSTKGMKKKFHNLYSSTSTKRMGFSNPTLGIKKV",
+            "entity_poly_seq_one_letter_code_can": "MNRTGGSIYAHALSQFAVCRQPWNEYIGLLTKQDSTPYHTEPQEKPAYRGRKQGREGWLFGQQVQLHYHRFPDEQLITNLSRWRTGETVGDIAMQQFRNAQPFDIEDKDPQGVQRPSPEVYMKLNYKNPATISRFLTRTGHMYPADILPLNPEAVVKLRVAKAQAIRIGLYPRFGNPFWFRSQKFRPKAYQENYDPTTYSTKRTVEHFAYNWVQTDRIRRYFRELEAVHTSGSASARGSGGGTTAEHKQQDQFYSPENQPISLHRNNISYMEDVGRSVKNPTVPGLMSTKGMKKKFHNLYSSTSTKRMGFSNPTLGIKKV",
+            "entity_poly_seq_length": 320,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57WU2"
+            ],
+            "rcsb_pdbx_description": "mt-IF-3",
+            "entity_poly_strand_id": "CZ",
+            "entity_poly_seq_one_letter_code": "MMQRCSTSLSRLCFRRLLRTPLLVYSIPPTRDVPSGIAHCPLSCSMRMVTSSNDDEFVFDPTLSIQKDAAIHTAKKSFETIVLEYVPAHAPEEARQKVKSYLTQHPIDILITQPKVQITHLEDAESGAETKVSLSPCDLPEALQQARERGMNLVQMGARGDVAYCRIRRESTRILSLIHTELEALREQEEKQQGKGRGGVQAAAKMGELIDHTFRDAVDAHFVGWRSKKIVEDIRRRHPVKLTIKEFQSPECAIGKLREMCQAMQHYAQEKVIYHHFTSIVANDREASITFAPALPMAKSDSWKHIKYPGEKEWTNALRRMEDACRKSGRYGTYAKSNKLKLRSLGQTSYRVDKYGRKMD",
+            "entity_poly_seq_one_letter_code_can": "MMQRCSTSLSRLCFRRLLRTPLLVYSIPPTRDVPSGIAHCPLSCSMRMVTSSNDDEFVFDPTLSIQKDAAIHTAKKSFETIVLEYVPAHAPEEARQKVKSYLTQHPIDILITQPKVQITHLEDAESGAETKVSLSPCDLPEALQQARERGMNLVQMGARGDVAYCRIRRESTRILSLIHTELEALREQEEKQQGKGRGGVQAAAKMGELIDHTFRDAVDAHFVGWRSKKIVEDIRRRHPVKLTIKEFQSPECAIGKLREMCQAMQHYAQEKVIYHHFTSIVANDREASITFAPALPMAKSDSWKHIKYPGEKEWTNALRRMEDACRKSGRYGTYAKSNKLKLRSLGQTSYRVDKYGRKMD",
+            "entity_poly_seq_length": 360,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38DR3"
+            ],
+            "rcsb_pdbx_description": "mS22",
+            "entity_poly_strand_id": "Ca",
+            "entity_poly_seq_one_letter_code": "MLRRAYIQRRYPFNKRGPREHKSWKHHVLTEPPKPLQWRDPKVWTRDLSVMKSFDAPQWDLWQSRPRSEDMDEALQPFMDMPKSLKDRRYDIPWWANPFGAWYLQNILSLELLKLKSKTNAEKIATYRSYMRSLASGKDNTMSDDDVIRNIIKERWKTLEFGDRNAGYPCTFGDYIQFLNEWFKSLDEEGMQRLREHFDRRIRPLLAVMSPVDILWLEALTQNSPHNKEQLQRKIAFQTSLGTPEFFDMSKRLRYEINEDYKVRDELGPELFALWSKAPERWPPERLSKMYGLDFTLVRKILVWHHFKACYDACVEPDWSLPKRLFALEWIRDVRARKHGLFYGKMRFAEQKITFYSDRFLFRDLVNRREASYANVWEMDDPYRFLQTEQDYEDYWGDNYDVYRRMFPEMIGRTGEPVQQYGQMPIWAGPHRQHANKSEHNWMFAEIGVNVGHEALKKLELDPTNEKRRRFVIRQPDGTLRSAKMSEMRAWYWKEEWADFRFWAPQMEWGIENTPSQEQYQEHVPDTTDADFRKQRRIQSRPVKWFYESHYTRTGSFAGFQPLRFMQRRTEREVRWPDVINAAVQIQKRKPAAYIFKAIPEL",
+            "entity_poly_seq_one_letter_code_can": "MLRRAYIQRRYPFNKRGPREHKSWKHHVLTEPPKPLQWRDPKVWTRDLSVMKSFDAPQWDLWQSRPRSEDMDEALQPFMDMPKSLKDRRYDIPWWANPFGAWYLQNILSLELLKLKSKTNAEKIATYRSYMRSLASGKDNTMSDDDVIRNIIKERWKTLEFGDRNAGYPCTFGDYIQFLNEWFKSLDEEGMQRLREHFDRRIRPLLAVMSPVDILWLEALTQNSPHNKEQLQRKIAFQTSLGTPEFFDMSKRLRYEINEDYKVRDELGPELFALWSKAPERWPPERLSKMYGLDFTLVRKILVWHHFKACYDACVEPDWSLPKRLFALEWIRDVRARKHGLFYGKMRFAEQKITFYSDRFLFRDLVNRREASYANVWEMDDPYRFLQTEQDYEDYWGDNYDVYRRMFPEMIGRTGEPVQQYGQMPIWAGPHRQHANKSEHNWMFAEIGVNVGHEALKKLELDPTNEKRRRFVIRQPDGTLRSAKMSEMRAWYWKEEWADFRFWAPQMEWGIENTPSQEQYQEHVPDTTDADFRKQRRIQSRPVKWFYESHYTRTGSFAGFQPLRFMQRRTEREVRWPDVINAAVQIQKRKPAAYIFKAIPEL",
+            "entity_poly_seq_length": 602,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57VQ9"
+            ],
+            "rcsb_pdbx_description": "mS38",
+            "entity_poly_strand_id": "Cn",
+            "entity_poly_seq_one_letter_code": "MRAGCVACSRIPKLGIAALGSTTTSMQATCQETQELRCATTQMAPAVIFPLPPPLRGSYIDRKPTAASFNEHHATASFRHHMIASADVSHRPRHFYFASGTRNDTGTRSVKEGERKQLKQQTNVEVDSVAYGDQLDELSARWAAKFYGQVTFGPRNYPYPSSRWLARRFQMKKHRIIKRFRFRRYKLAAVANLPFAKMIRVGMLPELKSSKTKRGDVVDPTLSGQLVSAVKNTGEKRKGQRTRPKSKYQV",
+            "entity_poly_seq_one_letter_code_can": "MRAGCVACSRIPKLGIAALGSTTTSMQATCQETQELRCATTQMAPAVIFPLPPPLRGSYIDRKPTAASFNEHHATASFRHHMIASADVSHRPRHFYFASGTRNDTGTRSVKEGERKQLKQQTNVEVDSVAYGDQLDELSARWAAKFYGQVTFGPRNYPYPSSRWLARRFQMKKHRIIKRFRFRRYKLAAVANLPFAKMIRVGMLPELKSSKTKRGDVVDPTLSGQLVSAVKNTGEKRKGQRTRPKSKYQV",
+            "entity_poly_seq_length": 250,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Unknown protein",
+            "entity_poly_strand_id": "UQ",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 32,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57UJ2"
+            ],
+            "rcsb_pdbx_description": "mS48",
+            "entity_poly_strand_id": "DA",
+            "entity_poly_seq_one_letter_code": "MMRRVASTGSNGGHCYVGSSLWADSVYMEVSSITLQKRFSFKYATKLQHDEMRQPYYIHEKRYGIFSNERNIAKARRGLPFITPLYTKHMNLWDTDTDASNNRFFRGYYYGQRELHQLLGRPHSLEATNADGSNDLSTYEANTSQLYKGIPRPAITNLHYEPAWRYTLYQAGAHGAQLSNPRSPFTAKVLGDELMQVRDIKSVEHCKAWFDRLQYLINLHYEAVGDIGEFKSRHTRHVHEFFVAFHDALSSLDFRDTYLFDQFKAVRPPELSDLFGIFLEMEANYVHEDYCPRCSLPYSTTRYCGEGDVDTPFRKHRGRWAPHQKWGREWYDVVARRAEALWYRATEDPYFGTPQHTQRQAEALLKVYVQAKQRGKAIDFMNKLRGSVEYLTGDITITTVMQESYDALLDTTPHPHLLTNGFTLESDAAKYTGEVNKAPLSPLQFRIDMEMNKYRRQQKEEGVVRVPPALWRLDTSAIVPYKVDSKTRRIVNWREVKEGIEKSFLSVGLPKEAYTGNEWREMLYLHDVIANREAKAAVLEQQQKLDREKLKARERASLKGEKSSNSASNGIGIIFPDKDGYQVFFVDEASLRPFGIGASGTLFKAVARVYPSPAAVPYDDPVHGKQFLIDTTDETCHLFGGFEHGDRLLLRAKSSGGDVDGGNNSNCRNTGSFTDEEEEVIVMGVSTEGSDAERMLCAMHVDTGKQRERGIVFLGTDCIDIRERWESVRYAASAYVKGRVTLLESQRTAREEFMGQVVGIRDGVLFVQWRLLKGGGSVLDRSVAVPIGDSTQVRELFVETKVLGVEPLQSPPSWRTPFRNDFAEERLKELQRAPFKREKYVSLIQGKYTPKVKKFGYTQHTTVDDFETKEYKDRLLSKQFFQNPQAFEVVPDRHERSVQFGGKWEYQRTHGLPTVDRNELENGWSEVEPISDGEMKVIEQALRDISGPRPGNFVKPPSKTKSLQLSESWWEPLGYGWEQHNEEQKALCDVTEQRLIDGSNLPFGGKLPPFGTSYGMGERMRAIIEDYSKGFGLGPHGHSPTHDTIHYNTLNAEGERVRDLGYTDALGRLFSEKLGDRDVHQWAVESCADGEADVRQLLLSLHEWRERGRPPSLLLANVLSKYLEEEIAAFNKGIPENAPKLQLETSDGTLAHSGSGGSRSGTMWADVDPTTFALHQASQSTRSTRCDEPFILHLVKRAKLGECVTNFTDTAYIAHLESSVINEFHLALTKLVGKGISPTLLAQKTGQLHRGSVRVGGNVVPFVKSRELSRLLERMGLTSESIAVITRGLANCPEQESVGDDFAVPVSLILSWDGPGSSGGSGSGDRRLNTTAARNEQQRKGSAALSSAIRQLSQHQKQRGSASGRGWQNEDKMVVHVLEELSLRNDGLVMDIQYAIRENKKNRRLRWEFVTTLLPVFGGNEAKVEQLYSDYCDGKYVPNITVAVEAFIAFLHNATQHPETYSASDYFDIDDGKSSTASGTGDQPSAGQYTTLKLLDPLEGPFVFDNVKVEYIQTVERFRRHGIRAGPVMAPATGFIAANCKSLNYFTRRQEEVVYVTNDSDQGLRRSLENSAYHKTIAANPALQYLLKARRGAALVETFNRFFYRTMPMLNFYQNVLKHYSETIQPLRQAAKSSTRGLARALESERSAAMEEFRRNSERYWRNIIEGRSVEQVVLANGESNRRTVGGGAGEQLQKPQGNRDAVRTNFTGEATDGSRKGQRQHQQPPLSQQQQHSRGEGERSAVHTSPRQGGSRGMADLLSKLNTPKTGSGVKGSTAKNTGNNRRGPKS",
+            "entity_poly_seq_one_letter_code_can": "MMRRVASTGSNGGHCYVGSSLWADSVYMEVSSITLQKRFSFKYATKLQHDEMRQPYYIHEKRYGIFSNERNIAKARRGLPFITPLYTKHMNLWDTDTDASNNRFFRGYYYGQRELHQLLGRPHSLEATNADGSNDLSTYEANTSQLYKGIPRPAITNLHYEPAWRYTLYQAGAHGAQLSNPRSPFTAKVLGDELMQVRDIKSVEHCKAWFDRLQYLINLHYEAVGDIGEFKSRHTRHVHEFFVAFHDALSSLDFRDTYLFDQFKAVRPPELSDLFGIFLEMEANYVHEDYCPRCSLPYSTTRYCGEGDVDTPFRKHRGRWAPHQKWGREWYDVVARRAEALWYRATEDPYFGTPQHTQRQAEALLKVYVQAKQRGKAIDFMNKLRGSVEYLTGDITITTVMQESYDALLDTTPHPHLLTNGFTLESDAAKYTGEVNKAPLSPLQFRIDMEMNKYRRQQKEEGVVRVPPALWRLDTSAIVPYKVDSKTRRIVNWREVKEGIEKSFLSVGLPKEAYTGNEWREMLYLHDVIANREAKAAVLEQQQKLDREKLKARERASLKGEKSSNSASNGIGIIFPDKDGYQVFFVDEASLRPFGIGASGTLFKAVARVYPSPAAVPYDDPVHGKQFLIDTTDETCHLFGGFEHGDRLLLRAKSSGGDVDGGNNSNCRNTGSFTDEEEEVIVMGVSTEGSDAERMLCAMHVDTGKQRERGIVFLGTDCIDIRERWESVRYAASAYVKGRVTLLESQRTAREEFMGQVVGIRDGVLFVQWRLLKGGGSVLDRSVAVPIGDSTQVRELFVETKVLGVEPLQSPPSWRTPFRNDFAEERLKELQRAPFKREKYVSLIQGKYTPKVKKFGYTQHTTVDDFETKEYKDRLLSKQFFQNPQAFEVVPDRHERSVQFGGKWEYQRTHGLPTVDRNELENGWSEVEPISDGEMKVIEQALRDISGPRPGNFVKPPSKTKSLQLSESWWEPLGYGWEQHNEEQKALCDVTEQRLIDGSNLPFGGKLPPFGTSYGMGERMRAIIEDYSKGFGLGPHGHSPTHDTIHYNTLNAEGERVRDLGYTDALGRLFSEKLGDRDVHQWAVESCADGEADVRQLLLSLHEWRERGRPPSLLLANVLSKYLEEEIAAFNKGIPENAPKLQLETSDGTLAHSGSGGSRSGTMWADVDPTTFALHQASQSTRSTRCDEPFILHLVKRAKLGECVTNFTDTAYIAHLESSVINEFHLALTKLVGKGISPTLLAQKTGQLHRGSVRVGGNVVPFVKSRELSRLLERMGLTSESIAVITRGLANCPEQESVGDDFAVPVSLILSWDGPGSSGGSGSGDRRLNTTAARNEQQRKGSAALSSAIRQLSQHQKQRGSASGRGWQNEDKMVVHVLEELSLRNDGLVMDIQYAIRENKKNRRLRWEFVTTLLPVFGGNEAKVEQLYSDYCDGKYVPNITVAVEAFIAFLHNATQHPETYSASDYFDIDDGKSSTASGTGDQPSAGQYTTLKLLDPLEGPFVFDNVKVEYIQTVERFRRHGIRAGPVMAPATGFIAANCKSLNYFTRRQEEVVYVTNDSDQGLRRSLENSAYHKTIAANPALQYLLKARRGAALVETFNRFFYRTMPMLNFYQNVLKHYSETIQPLRQAAKSSTRGLARALESERSAAMEEFRRNSERYWRNIIEGRSVEQVVLANGESNRRTVGGGAGEQLQKPQGNRDAVRTNFTGEATDGSRKGQRQHQQPPLSQQQQHSRGEGERSAVHTSPRQGGSRGMADLLSKLNTPKTGSGVKGSTAKNTGNNRRGPKS",
+            "entity_poly_seq_length": 1788,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57UA2"
+            ],
+            "rcsb_pdbx_description": "mS65",
+            "entity_poly_strand_id": "DR",
+            "entity_poly_seq_one_letter_code": "MFSESLCILSRRFRYNTKFPALVSYNKLPWEVVNHETPQFHMHVAPHYEQLLTLAASSPVPHIIGSKHIDVPREHRLRLLPGMLYLLDGDTLPGEFTINRVLDPTALQYYGRLSSQIVTVEAVRMLVPDDLRLLCNCITFKGPLHLPVAPYASLASLRGASQGGTTGSETGSNCFTLYHFVRPNRPPKELQLEKYYIHAPCVAPLSEFASNSDERGNWRPRLQAPKRTRRATPLPAYRPPQSYLMGLAERLAVVPGGCFGRRSLMWGHWF",
+            "entity_poly_seq_one_letter_code_can": "MFSESLCILSRRFRYNTKFPALVSYNKLPWEVVNHETPQFHMHVAPHYEQLLTLAASSPVPHIIGSKHIDVPREHRLRLLPGMLYLLDGDTLPGEFTINRVLDPTALQYYGRLSSQIVTVEAVRMLVPDDLRLLCNCITFKGPLHLPVAPYASLASLRGASQGGTTGSETGSNCFTLYHFVRPNRPPKELQLEKYYIHAPCVAPLSEFASNSDERGNWRPRLQAPKRTRRATPLPAYRPPQSYLMGLAERLAVVPGGCFGRRSLMWGHWF",
+            "entity_poly_seq_length": 270,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "This domain is found in bacteria, eukaryotes and viruses, and is approximately 60 amino acids in length. It contains a CXXCXH motif and a CPXC motif."
+            ],
+            "pfam_descriptions": [
+                "Probable Zinc-ribbon domain"
+            ],
+            "pfam_accessions": [
+                "PF14311"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q388L7"
+            ],
+            "rcsb_pdbx_description": "mS66",
+            "entity_poly_strand_id": "DS",
+            "entity_poly_seq_one_letter_code": "MFNRNFILRAAEFKQKSRWSSVWPNMRYGSMFLSYSVGRKLPMKGVNWVTRDSNRLLNFSNRYSAVISDIDVKRTEEELNVALSDIRWNDHRRIYWKCSFCGSSYRKNVSVRTKYHAGCNFCKKKYPSEVRGEQHGSPPVSQAAPELTEQLVDNGKRDNLATLAVTSKFYAEWTCRGCGGSYRSTIRSRTGQVEAGQCTLHPDIVAWSAYCPSCSWRPNMVPIAEEVSRSGQFLGLERSMEELGGQRGKQLPIPRRKRLAC",
+            "entity_poly_seq_one_letter_code_can": "MFNRNFILRAAEFKQKSRWSSVWPNMRYGSMFLSYSVGRKLPMKGVNWVTRDSNRLLNFSNRYSAVISDIDVKRTEEELNVALSDIRWNDHRRIYWKCSFCGSSYRKNVSVRTKYHAGCNFCKKKYPSEVRGEQHGSPPVSQAAPELTEQLVDNGKRDNLATLAVTSKFYAEWTCRGCGGSYRSTIRSRTGQVEAGQCTLHPDIVAWSAYCPSCSWRPNMVPIAEEVSRSGQFLGLERSMEELGGQRGKQLPIPRRKRLAC",
+            "entity_poly_seq_length": 261,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS74",
+            "entity_poly_strand_id": "Da",
+            "entity_poly_seq_one_letter_code": "MFSLTQTWLIAHWYCGHKFRHRFMRDKRFHPSLQASHDARNRFSKRRHFKTNRWNYQQAYRDMP",
+            "entity_poly_seq_one_letter_code_can": "MFSLTQTWLIAHWYCGHKFRHRFMRDKRFHPSLQASHDARNRFSKRRHFKTNRWNYQQAYRDMP",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38BW5"
+            ],
+            "rcsb_pdbx_description": "bS6m",
+            "entity_poly_strand_id": "CF",
+            "entity_poly_seq_one_letter_code": "MVFYSFVLVMKPRQRRFTSQALREIGVAVYSNGGLIRSITNEGIMRPYSRFRDADNTPLTYARYIILQLDMGEEEMGKVDKIIREHQDVLMALKLNNLERPVGIRSGNKELQAAYFPLDTFTRLEEEINWSPQTSADIYTQLEMNWKEFSRTRWSSFLRN",
+            "entity_poly_seq_one_letter_code_can": "MVFYSFVLVMKPRQRRFTSQALREIGVAVYSNGGLIRSITNEGIMRPYSRFRDADNTPLTYARYIILQLDMGEEEMGKVDKIIREHQDVLMALKLNNLERPVGIRSGNKELQAAYFPLDTFTRLEEEINWSPQTSADIYTQLEMNWKEFSRTRWSSFLRN",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q388R7"
+            ],
+            "rcsb_pdbx_description": "uS8m",
+            "entity_poly_strand_id": "CH",
+            "entity_poly_seq_one_letter_code": "MLRQSLLSLAKVYGAVPPLGAAQGHRLLHGKREREGSLFAVANDVKRDERLLRQQLNALLEEERMPMQARLQRNEAVSSHEAVPQTPLVDLPGVERRRDLPADPITRLFFQHKGDHALYYGTYDKPSVQDDDRVQIEKRVPRRREENLYTPIYDFCHRIREATEQRKRFVVVPSTIETRGCARVMHDHGLVAGFRDFHNDRAFAVELKYFQGDSTINVIEPCSYDGRTEFEWSPKMMRRLLNTHGIHNRLVVYICRTADNRIIDHIHAVKENIGGRGLMMVH",
+            "entity_poly_seq_one_letter_code_can": "MLRQSLLSLAKVYGAVPPLGAAQGHRLLHGKREREGSLFAVANDVKRDERLLRQQLNALLEEERMPMQARLQRNEAVSSHEAVPQTPLVDLPGVERRRDLPADPITRLFFQHKGDHALYYGTYDKPSVQDDDRVQIEKRVPRRREENLYTPIYDFCHRIREATEQRKRFVVVPSTIETRGCARVMHDHGLVAGFRDFHNDRAFAVELKYFQGDSTINVIEPCSYDGRTEFEWSPKMMRRLLNTHGIHNRLVVYICRTADNRIIDHIHAVKENIGGRGLMMVH",
+            "entity_poly_seq_length": 282,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57W62"
+            ],
+            "rcsb_pdbx_description": "uS9m",
+            "entity_poly_strand_id": "CI",
+            "entity_poly_seq_one_letter_code": "MQKLLSPRTARHARLFRLAGKLADSGSPGVPKSDGERLVWVNSHVRRDKDISLSQEEERIRELMMPLEVGENSFAANGQATHGNLFYFREYPMYPGEYVPAEHNTLSSLRDELRLDLTAQSLKEAWMRVSGGVYFQSVDEYYASVDGLDAEQIGEVLAALFPELNCYEAQALVQRTLECISRPVSAASRQLSRTITAEAVGLDNAPGHYTNFLEWMGRLTETRAFKTEHALFEFSRRKFNRDDVRVMFENYRLMSKATLLADSADSYSHFYTVLKDFARKVAGEDSRHQIGVRIDEAEVDPETGIAVGRGCADGEKYHFTALLRENRDHNGIITVMGKPLSLVLDNKAWLMEMVLMPFDEANLDYRDFDAHIVSEGHAMPSIANEIAAFALRMAVANALVKLIPLTRIPLKKSGLLSVDRRRERGQFPGYLDGKKVKRRFAKR",
+            "entity_poly_seq_one_letter_code_can": "MQKLLSPRTARHARLFRLAGKLADSGSPGVPKSDGERLVWVNSHVRRDKDISLSQEEERIRELMMPLEVGENSFAANGQATHGNLFYFREYPMYPGEYVPAEHNTLSSLRDELRLDLTAQSLKEAWMRVSGGVYFQSVDEYYASVDGLDAEQIGEVLAALFPELNCYEAQALVQRTLECISRPVSAASRQLSRTITAEAVGLDNAPGHYTNFLEWMGRLTETRAFKTEHALFEFSRRKFNRDDVRVMFENYRLMSKATLLADSADSYSHFYTVLKDFARKVAGEDSRHQIGVRIDEAEVDPETGIAVGRGCADGEKYHFTALLRENRDHNGIITVMGKPLSLVLDNKAWLMEMVLMPFDEANLDYRDFDAHIVSEGHAMPSIANEIAAFALRMAVANALVKLIPLTRIPLKKSGLLSVDRRRERGQFPGYLDGKKVKRRFAKR",
+            "entity_poly_seq_length": 443,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q389T7"
+            ],
+            "rcsb_pdbx_description": "uS11m",
+            "entity_poly_strand_id": "CK",
+            "entity_poly_seq_one_letter_code": "MMRKSVTFLRRGKPRPRAGMFPDKYRRVPMLLKPQQGGQQYFNHFLIRSTNDRLTQQDVDNASGQAHSFISPQLPQMDWRNMSARSSEESIREEMRQLAENDVMQHQRVFNERMWYEKEEEHRMKARSCPEETSEHA(UNK)SNDGAVPPPRVLGGDYFKTRFGYSLVKNSEMTQGPVDYSQLDMWGEMPRYTSDMVFLYLVSRRRNTYAVAYTYEGKRILNTYTAGNRGLKGGDRGFRSEGSTDNGHQVTSMYLNDLLPKLREMRASEGRPMGRGEKVELVVRVMGFYNGRQGAVRAVQDRANEFHVRYFEDITPFPLNGPKMPRGVFK",
+            "entity_poly_seq_one_letter_code_can": "MMRKSVTFLRRGKPRPRAGMFPDKYRRVPMLLKPQQGGQQYFNHFLIRSTNDRLTQQDVDNASGQAHSFISPQLPQMDWRNMSARSSEESIREEMRQLAENDVMQHQRVFNERMWYEKEEEHRMKARSCPEETSEHAXSNDGAVPPPRVLGGDYFKTRFGYSLVKNSEMTQGPVDYSQLDMWGEMPRYTSDMVFLYLVSRRRNTYAVAYTYEGKRILNTYTAGNRGLKGGDRGFRSEGSTDNGHQVTSMYLNDLLPKLREMRASEGRPMGRGEKVELVVRVMGFYNGRQGAVRAVQDRANEFHVRYFEDITPFPLNGPKMPRGVFK",
+            "entity_poly_seq_length": 326,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q385L8"
+            ],
+            "rcsb_pdbx_description": "mS51",
+            "entity_poly_strand_id": "DD",
+            "entity_poly_seq_one_letter_code": "MLRCTVVGHHRSGKARAFVFRDPSLRMMRAGSGYQQLRRMGMPMQVGMGWRKVDSFHANTQYQHAWPLLSHDDLGNSDQSNNTKNIMYSMYMPKRNKGTAPWFRGADTYSVKYCEQGRYEYQRYLMINRFPSEYKKHFLSFLSNIRMSSGSATIPQEALHWLLRMIVDNFNPQHVHYIAAMKTLQSAGELDMARDVWKIMERQQTWPCTATICAYLDVCVEAGEKTWAMEAWNRYCTELKFLEPGEVDPKPISRVPFSLTREELLYLPKWKKHFDHDPNLDVMDLNRFNRTREVYLRMAQVMLAGGERNAFQHFFTKLEEAMLNKPTPVPEPPNPHLVRRPRWAPYEHCKSVHHSPWRLQNNGRALALGPPVTIEDEMQSRFFSNDQFLVHSVKEVLRIVLQEHKRAHPTECTRCKTEAFFYKTKDADETLKFCDDLIERLFASLGVRLSNLNTSSLLSTILEVFRVVGKESGAALLQRANEFLERKASLGDAEGSRENLTASNYLQVLSGFADESAFVYNTKKDGTCQYKTGFDPRTTMRHLADVVQEIAGNPHVTWAADMHLQVVETMVGCGTMKANDYFVRNVLRQFSWDSRFLEALYVEYRRQDDVDMWAELTKRALVWTARYNAPASERLRRLIEDDYDTIRVQTRTFRELAVFQFRDVEERRHSRDVVNELPNPWYDYVAHALPFPDRDAGYPDEYGDLGQWRAPGGPGSPVRGPGYYAPPMEGEHQRGYTAEWRDLRNPMRPPEFPTPWERKYRQYARGQHPSYDMVYAGPMPEIFPMRRDFRKPTRWDFHDIEKQGKYRTSGPY",
+            "entity_poly_seq_one_letter_code_can": "MLRCTVVGHHRSGKARAFVFRDPSLRMMRAGSGYQQLRRMGMPMQVGMGWRKVDSFHANTQYQHAWPLLSHDDLGNSDQSNNTKNIMYSMYMPKRNKGTAPWFRGADTYSVKYCEQGRYEYQRYLMINRFPSEYKKHFLSFLSNIRMSSGSATIPQEALHWLLRMIVDNFNPQHVHYIAAMKTLQSAGELDMARDVWKIMERQQTWPCTATICAYLDVCVEAGEKTWAMEAWNRYCTELKFLEPGEVDPKPISRVPFSLTREELLYLPKWKKHFDHDPNLDVMDLNRFNRTREVYLRMAQVMLAGGERNAFQHFFTKLEEAMLNKPTPVPEPPNPHLVRRPRWAPYEHCKSVHHSPWRLQNNGRALALGPPVTIEDEMQSRFFSNDQFLVHSVKEVLRIVLQEHKRAHPTECTRCKTEAFFYKTKDADETLKFCDDLIERLFASLGVRLSNLNTSSLLSTILEVFRVVGKESGAALLQRANEFLERKASLGDAEGSRENLTASNYLQVLSGFADESAFVYNTKKDGTCQYKTGFDPRTTMRHLADVVQEIAGNPHVTWAADMHLQVVETMVGCGTMKANDYFVRNVLRQFSWDSRFLEALYVEYRRQDDVDMWAELTKRALVWTARYNAPASERLRRLIEDDYDTIRVQTRTFRELAVFQFRDVEERRHSRDVVNELPNPWYDYVAHALPFPDRDAGYPDEYGDLGQWRAPGGPGSPVRGPGYYAPPMEGEHQRGYTAEWRDLRNPMRPPEFPTPWERKYRQYARGQHPSYDMVYAGPMPEIFPMRRDFRKPTRWDFHDIEKQGKYRTSGPY",
+            "entity_poly_seq_length": 812,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS12m",
+            "entity_poly_strand_id": "CL",
+            "entity_poly_seq_one_letter_code": "LFFLRMWFLYGCCLRFVLFVLCYYMSPRLPSSGNRRVLYAVFYLYNFVWMLRCFFCCFIGLVMSLFIIEGGGFVDLPGVKYYTRIVS",
+            "entity_poly_seq_one_letter_code_can": "LFFLRMWFLYGCCLRFVLFVLCYYMSPRLPSSGNRRVLYAVFYLYNFVWMLRCFFCCFIGLVMSLFIIEGGGFVDLPGVKYYTRIVS",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q384N9"
+            ],
+            "rcsb_pdbx_description": "bS16m",
+            "entity_poly_strand_id": "CP",
+            "entity_poly_seq_one_letter_code": "MQVTETVLARAVIKRRSPQLWGAPGAPIIRMRGHHVVWKFQSYDLVVEHTHKRRNSDIRLLHYLGKHCPHPQKSLWSPDTPVAQDRHLFMLTTVDIDAFKYWFGVKRCRLSMKPWALLAKAGLLPPSLTQNSKIMPKPLFDKESLMRYYLANRKDEDVMAREKYLNYENSMVKTEEERAAERPVAPYL",
+            "entity_poly_seq_one_letter_code_can": "MQVTETVLARAVIKRRSPQLWGAPGAPIIRMRGHHVVWKFQSYDLVVEHTHKRRNSDIRLLHYLGKHCPHPQKSLWSPDTPVAQDRHLFMLTTVDIDAFKYWFGVKRCRLSMKPWALLAKAGLLPPSLTQNSKIMPKPLFDKESLMRYYLANRKDEDVMAREKYLNYENSMVKTEEERAAERPVAPYL",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38DP8"
+            ],
+            "rcsb_pdbx_description": "uS17m",
+            "entity_poly_strand_id": "CQ",
+            "entity_poly_seq_one_letter_code": "MLRRSLLAFPWWNFQTEHRQRCVLMYGGARTKNTHNANHRVFIKKYKRNAFPNRTRHHWAVSMTGVLSQRPRRMPWPYDLTSLIFNQPRQGSDKIGYVVGTSMLKTAVVATNHMVYYPKFNQRVSRTKRFFAHDEDLACVEGDLVHIKQCRKISKYKHYYVFSILEPNVEGRERLKLGLKAVPPPLFGYPVSRRIVKLNLTSTEGTQEKLAAAIQEHVQDAYRFSGPTPDQPRNRLADPVTFEDANNMIAPNAPAAAALDASDSPPLLDRGEYTEVEQDTRNKKGDDYWMNLQPKEKYDFKSFKKSP",
+            "entity_poly_seq_one_letter_code_can": "MLRRSLLAFPWWNFQTEHRQRCVLMYGGARTKNTHNANHRVFIKKYKRNAFPNRTRHHWAVSMTGVLSQRPRRMPWPYDLTSLIFNQPRQGSDKIGYVVGTSMLKTAVVATNHMVYYPKFNQRVSRTKRFFAHDEDLACVEGDLVHIKQCRKISKYKHYYVFSILEPNVEGRERLKLGLKAVPPPLFGYPVSRRIVKLNLTSTEGTQEKLAAAIQEHVQDAYRFSGPTPDQPRNRLADPVTFEDANNMIAPNAPAAAALDASDSPPLLDRGEYTEVEQDTRNKKGDDYWMNLQPKEKYDFKSFKKSP",
+            "entity_poly_seq_length": 307,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q580M9"
+            ],
+            "rcsb_pdbx_description": "uS21m",
+            "entity_poly_strand_id": "CU",
+            "entity_poly_seq_one_letter_code": "MLHTTRLWLGGYMMYHRKAMGTMKYSKWKGAHGGISHFYGRTPMVEEVRPNEPITLVDRRIMHYVHHSRLRHFQLFRSYQEKSNSTECKLREGEMLRRRWHRRLQKSFIAFMQFKTMKVLEDQARLVNTYGQAAVNAALGDPWNATDNVARERKSAAVRRQVRALPMVNVVPKHVATMKQIHNDRFNYRWRVN",
+            "entity_poly_seq_one_letter_code_can": "MLHTTRLWLGGYMMYHRKAMGTMKYSKWKGAHGGISHFYGRTPMVEEVRPNEPITLVDRRIMHYVHHSRLRHFQLFRSYQEKSNSTECKLREGEMLRRRWHRRLQKSFIAFMQFKTMKVLEDQARLVNTYGQAAVNAALGDPWNATDNVARERKSAAVRRQVRALPMVNVVPKHVATMKQIHNDRFNYRWRVN",
+            "entity_poly_seq_length": 193,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57VB2"
+            ],
+            "rcsb_pdbx_description": "mS23",
+            "entity_poly_strand_id": "Cb",
+            "entity_poly_seq_one_letter_code": "MRQCVVRRYKMPKNMGVAPRFDTWNEKYEPWEHMKRMGRLVGTGFYIPPEWYNHFRMFPPINHNFQQEKTLNPHNASEPTQDDTSTLSPERVALRDELARKSRLVASEGMRYYNIFWVRKPLDTMEKEYYELKRRGVDHGEAIRKVLQGFYSGLAVKKRVAAIQAEEAKLTGRFITMREATVVLGVLAKLHKEQLTPHQVSLLAKEQGETTQSGAKLTAIVSRTQPHVNKEASSPATSEAVGSSTEESLSADALASMLSEDGEQSAVGTRYQVEVKETANDSVRQLREKAEDQTGFPDWYTGESPTYSGTSCSRDGFALMKANK",
+            "entity_poly_seq_one_letter_code_can": "MRQCVVRRYKMPKNMGVAPRFDTWNEKYEPWEHMKRMGRLVGTGFYIPPEWYNHFRMFPPINHNFQQEKTLNPHNASEPTQDDTSTLSPERVALRDELARKSRLVASEGMRYYNIFWVRKPLDTMEKEYYELKRRGVDHGEAIRKVLQGFYSGLAVKKRVAAIQAEEAKLTGRFITMREATVVLGVLAKLHKEQLTPHQVSLLAKEQGETTQSGAKLTAIVSRTQPHVNKEASSPATSEAVGSSTEESLSADALASMLSEDGEQSAVGTRYQVEVKETANDSVRQLREKAEDQTGFPDWYTGESPTYSGTSCSRDGFALMKANK",
+            "entity_poly_seq_length": 324,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38DK6"
+            ],
+            "rcsb_pdbx_description": "mS26",
+            "entity_poly_strand_id": "Cd",
+            "entity_poly_seq_one_letter_code": "MMRSSSFCRRQIRPYYNLPSKSEHGRKMTGFLTPYRHWMWKQNELWRNVHEAQFEHLRRVYKRQWLESFRVNADEYIYKYNITKAAQLAQWECEMKEQEKKRIEARQMMDGRQALKKKHLDLLREFHERQFFFWYERASERLQNMNLINYVPHAQLREHIDKELDKYVAGKNEPYPLNFVGQMPFLEDGDGNIVEVPESLLSNHMAEHPDSTAKPHEPHTSSSISEAAAFEERMLRAMVSAKEEDLKEWLGDDSRALSETIDDISREEEEREADIRVARSMEETDAEREVSRRAYIERGKTGSRSIFRPPTVSEGAGGTPSAPAGDANTPMRRRKKGKLDRVHALQAHQDELLAKLSSQGLKEGVDASSVPERGKIVQSRGRIRDKAVIPTHEVLMQKPELAAGSTPGARIQTKDMVDKMYHRGKYKKSGSGDKSDGEDL",
+            "entity_poly_seq_one_letter_code_can": "MMRSSSFCRRQIRPYYNLPSKSEHGRKMTGFLTPYRHWMWKQNELWRNVHEAQFEHLRRVYKRQWLESFRVNADEYIYKYNITKAAQLAQWECEMKEQEKKRIEARQMMDGRQALKKKHLDLLREFHERQFFFWYERASERLQNMNLINYVPHAQLREHIDKELDKYVAGKNEPYPLNFVGQMPFLEDGDGNIVEVPESLLSNHMAEHPDSTAKPHEPHTSSSISEAAAFEERMLRAMVSAKEEDLKEWLGDDSRALSETIDDISREEEEREADIRVARSMEETDAEREVSRRAYIERGKTGSRSIFRPPTVSEGAGGTPSAPAGDANTPMRRRKKGKLDRVHALQAHQDELLAKLSSQGLKEGVDASSVPERGKIVQSRGRIRDKAVIPTHEVLMQKPELAAGSTPGARIQTKDMVDKMYHRGKYKKSGSGDKSDGEDL",
+            "entity_poly_seq_length": 440,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57UK0"
+            ],
+            "rcsb_pdbx_description": "mS34",
+            "entity_poly_strand_id": "Cj",
+            "entity_poly_seq_one_letter_code": "MLRCARVALRADPLNGGSSMTLGSKGSKLSPEPHRRRMPWTAAKEYVPGVVLNARDKMVLDGVQLLDIESIDRASQLDPLEVLRAVVATREYNISTGKNIFQLASQATYNGRGQRFYRKEWQEGTYDKYVTLSAIDFDRDGNKGTAYGYITFHGETTTRPVQVDFADVPGWYMDFVEERAVPFTGIVPPPPSIGTDVPVDPHSYRLKAYPYYDAPNPPEFVERLLKDRGVLPDTPTETADVDKDPTTSDGSVHYDGK",
+            "entity_poly_seq_one_letter_code_can": "MLRCARVALRADPLNGGSSMTLGSKGSKLSPEPHRRRMPWTAAKEYVPGVVLNARDKMVLDGVQLLDIESIDRASQLDPLEVLRAVVATREYNISTGKNIFQLASQATYNGRGQRFYRKEWQEGTYDKYVTLSAIDFDRDGNKGTAYGYITFHGETTTRPVQVDFADVPGWYMDFVEERAVPFTGIVPPPPSIGTDVPVDPHSYRLKAYPYYDAPNPPEFVERLLKDRGVLPDTPTETADVDKDPTTSDGSVHYDGK",
+            "entity_poly_seq_length": 257,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38C96"
+            ],
+            "rcsb_pdbx_description": "mS37",
+            "entity_poly_strand_id": "Cm",
+            "entity_poly_seq_one_letter_code": "MKSSDIFFAYRLTPVVFKSRQHDSGVNQYGLKPTNAYDYINPTNLINFGRGTTFDNLGVRRAGRGEIDSSPSHSGSPVFTQAKLIGLSGEEQLTMCQSETMALRLCMAKAGKETCERESRALDSCLGRVGHLRRAMSEACWEFNDWFIQNVSDNHTKPFQHRPHDWRHFYAQEKLVRERQQNGHAYGRRPKQFSFGARYVKTDGYGKRPRLPYNK",
+            "entity_poly_seq_one_letter_code_can": "MKSSDIFFAYRLTPVVFKSRQHDSGVNQYGLKPTNAYDYINPTNLINFGRGTTFDNLGVRRAGRGEIDSSPSHSGSPVFTQAKLIGLSGEEQLTMCQSETMALRLCMAKAGKETCERESRALDSCLGRVGHLRRAMSEACWEFNDWFIQNVSDNHTKPFQHRPHDWRHFYAQEKLVRERQQNGHAYGRRPKQFSFGARYVKTDGYGKRPRLPYNK",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q389L3"
+            ],
+            "rcsb_pdbx_description": "mS41",
+            "entity_poly_strand_id": "Cp",
+            "entity_poly_seq_one_letter_code": "MLKRTLTVLDQTYGPHKSYKYTYMPDPRKLAPIETTQRSEIVPQSIRPPTSYVPNHETFLERADIHRLRPTSDFKASFKDWNDLFTCDKRQLRVRGIPRMTRDAIRTAVQAFQNGNPPERFDTKEEWLYYKQFKTVDYSYRVIPELPEKYRPHQSGIDQAPLPDYREINKMPQWAECEERRQSKKTV",
+            "entity_poly_seq_one_letter_code_can": "MLKRTLTVLDQTYGPHKSYKYTYMPDPRKLAPIETTQRSEIVPQSIRPPTSYVPNHETFLERADIHRLRPTSDFKASFKDWNDLFTCDKRQLRVRGIPRMTRDAIRTAVQAFQNGNPPERFDTKEEWLYYKQFKTVDYSYRVIPELPEKYRPHQSGIDQAPLPDYREINKMPQWAECEERRQSKKTV",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "superoxide dismutases (SODs) catalyse the conversion of superoxide radicals to hydrogen peroxide and molecular oxygen. Three evolutionarily distinct families of SODs are known, of which the Mn/Fe-binding  family is one. In humans, there is a cytoplasmic Cu/Zn SOD, and a mitochondrial Mn/Fe SOD. C-terminal domain is a mixed alpha/beta fold."
+            ],
+            "pfam_descriptions": [
+                "Iron/manganese superoxide dismutases, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF02777"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q586A1"
+            ],
+            "rcsb_pdbx_description": "mS42",
+            "entity_poly_strand_id": "Cq",
+            "entity_poly_seq_one_letter_code": "MRLCRRLSYHAYVPKGASVQMGETFMPSNIATAVFRETEAAAARADKTKEETGFFSQPRLNYPVSSGIPALFSKDQFDMQYSLFHRDVVETLNRHTLGTPLEGHNLETVIRKTSFDATQAVAHTAASEHFNYCFFYKSLRPWGTAPPPRLREALQLQYGTNGSADAMDEVRRIVWVTAASHQERCGWVYLVWSGVHFDVVEFPHGSCPIASDLIPLLALNVHESAYILDYGTSGLKQYVENYFKACNWPLAERYYLMAIGQVV",
+            "entity_poly_seq_one_letter_code_can": "MRLCRRLSYHAYVPKGASVQMGETFMPSNIATAVFRETEAAAARADKTKEETGFFSQPRLNYPVSSGIPALFSKDQFDMQYSLFHRDVVETLNRHTLGTPLEGHNLETVIRKTSFDATQAVAHTAASEHFNYCFFYKSLRPWGTAPPPRLREALQLQYGTNGSADAMDEVRRIVWVTAASHQERCGWVYLVWSGVHFDVVEFPHGSCPIASDLIPLLALNVHESAYILDYGTSGLKQYVENYFKACNWPLAERYYLMAIGQVV",
+            "entity_poly_seq_length": 263,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "superoxide dismutases (SODs) catalyse the conversion of superoxide radicals to hydrogen peroxide and molecular oxygen. Three evolutionarily distinct families of SODs are known, of which the Mn/Fe-binding  family is one. In humans, there is a cytoplasmic Cu/Zn SOD, and a mitochondrial Mn/Fe SOD. C-terminal domain is a mixed alpha/beta fold."
+            ],
+            "pfam_descriptions": [
+                "Iron/manganese superoxide dismutases, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF02777"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q585I1"
+            ],
+            "rcsb_pdbx_description": "mS43",
+            "entity_poly_strand_id": "Cr",
+            "entity_poly_seq_one_letter_code": "MLRRTVTSLRNARELHRLLPALLPLLDPPVPTGASVCAAHLIVATGHVSKQREPHMSNCPVLERKIPLSEIASDDNFLKHPCVPCLKHRINFLASEDFCYDFVERCGCGTDGALPPEWRCIVERQFGSMAALVEELVIHASNRREAGWTWLVYDAQQAGERPLLVVNMPAQRSPLLLGLWPLAVVNVTEAVLVEAVRAESSGSVAAAPPPPWCRAARASLYDTKAAAEAFAMTAPMSEGVGKKLSEIREKVARDAVSRMNWGFILQQLKKAETYYASSDRGEKIRVHRMKLEREAVTKAMSGLRDSGATFLTHDTVEVTTTPSANSEPSSPERVPGVQAKQPQTEGMDPCKNKASAEPDPKCTQLPDGTWQYSYRNGDVTLLKPDGTRVFRKRELTTTAYPDGSMLFQYANNTSILDRADGVRVTTFEDGTTKEEMIRR",
+            "entity_poly_seq_one_letter_code_can": "MLRRTVTSLRNARELHRLLPALLPLLDPPVPTGASVCAAHLIVATGHVSKQREPHMSNCPVLERKIPLSEIASDDNFLKHPCVPCLKHRINFLASEDFCYDFVERCGCGTDGALPPEWRCIVERQFGSMAALVEELVIHASNRREAGWTWLVYDAQQAGERPLLVVNMPAQRSPLLLGLWPLAVVNVTEAVLVEAVRAESSGSVAAAPPPPWCRAARASLYDTKAAAEAFAMTAPMSEGVGKKLSEIREKVARDAVSRMNWGFILQQLKKAETYYASSDRGEKIRVHRMKLEREAVTKAMSGLRDSGATFLTHDTVEVTTTPSANSEPSSPERVPGVQAKQPQTEGMDPCKNKASAEPDPKCTQLPDGTWQYSYRNGDVTLLKPDGTRVFRKRELTTTAYPDGSMLFQYANNTSILDRADGVRVTTFEDGTTKEEMIRR",
+            "entity_poly_seq_length": 439,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "This family contains a diverse set of enzymes including: enoyl-CoA hydratase, napthoate synthase, carnitate racemase, 3-hydroxybutyryl-CoA dehydratase and dodecanoyl-CoA delta-isomerase. This family differs from Pfam:PF00378 in the structure of it's C-terminus."
+            ],
+            "pfam_descriptions": [
+                "Enoyl-CoA hydratase/isomerase"
+            ],
+            "pfam_accessions": [
+                "PF16113"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q383R4"
+            ],
+            "rcsb_pdbx_description": "mS47",
+            "entity_poly_strand_id": "Cv",
+            "entity_poly_seq_one_letter_code": "MERRRLLHDGRWFTPCVLYGSARRGLKTLDVREYRPLAMPIEFRFYQRYANHPNRQSGIQFLTHYNTHQRFRVNKDYIDYMHWGKEQGQARLPHRHQRVAFDFNDQLHPTRIGTPEDGGNANHCYPEDGEDGSYAWFASQDPTFGHHPDLSSSFDPNYRVFSHPEHWNKMFTKRRPGEGDIDLSVLPSRSLLGPLMAHSDTKGIPYFKVDNRGHSNGRVPGVNAPFFGEFDQKMMQAMSRPLNANRTITGNDGRFSKTIMINEPQCNQALSAKTASELSKEIDKATNAVYSKLSVLEAAQSGLTDYFCGGLNFEIVGFELHMAAMLRERAAAILERSGAGGLPSASSATLSSSSTTRRCAMLLEKADEREVNKLLRDASRYEDRVDDALRQHASLIWRVYTAPRPLMTLTNGKCRGTGCGLSLFAKYCALKDSSEFIFDGPNVGITPYGGMTRLLARPETSLKYPGLAEFVVLTGASLFAGDALRLGWTDLFTTIPDMTYHIKEWFDTTEHMHNDAVAWQLGHLLETCFKMKESHSSAMERAAITPTRARWVEDAFADQPSVNDIMRTLTEIEQLPFQSTHNTSDESHITPYTLGSVAAGVQRLGEHRLRYTLSPWDITPPEDSVVLKHTSEMFRAYVLERRGATDVVTHRDAERAAAWSQQRQREYDAYCSLKEAPHPRHVYARLEGCEGKIVSFEFVFEISCRRSGPQGTDEVLQTTTISRLKSRILDALGMPRDRNIDLGWYLPTLDTCPIHSDEELMQVLHTDPGIEDPKEKLRYPPIYFIVKRCTLYFSEWAYAVKHQLLLQSPFALRAAFGLLQEVRGDGAAENVMPLAETLGTEFKYFTRLMRRPDFYRVGVHTDKSVEKWEEIKEERRHNIHHTHRPTRPLPDFEEVFERDVEIDGHRFVLRPRWNPRTLQDVDDSDILRLRAPLTYDMDSTAALHVPTHCGKASRLAGMLQDAGGVQVLDGLGEVDDKGEPKVPPLQSNASVPTNVSFYEMARHPWEDRASSWRRDGFTEGSLEYFESQYRSAERAVYDEEGRGVRNYWPSRDAVEGIAQEEENDAQLLQERLFNTLETAGTSVEPWARNLRLNATTGKFGYKTEIATQEEKIYDDEYYRWFIQPGRHPNPSGLTLNGRKGQFEEGHSRDEELERMWRKVVADGNNDFAATTSGMPVYDEDAKNAEDSYAAGDDVDVVTTDANVPVDGDDSS",
+            "entity_poly_seq_one_letter_code_can": "MERRRLLHDGRWFTPCVLYGSARRGLKTLDVREYRPLAMPIEFRFYQRYANHPNRQSGIQFLTHYNTHQRFRVNKDYIDYMHWGKEQGQARLPHRHQRVAFDFNDQLHPTRIGTPEDGGNANHCYPEDGEDGSYAWFASQDPTFGHHPDLSSSFDPNYRVFSHPEHWNKMFTKRRPGEGDIDLSVLPSRSLLGPLMAHSDTKGIPYFKVDNRGHSNGRVPGVNAPFFGEFDQKMMQAMSRPLNANRTITGNDGRFSKTIMINEPQCNQALSAKTASELSKEIDKATNAVYSKLSVLEAAQSGLTDYFCGGLNFEIVGFELHMAAMLRERAAAILERSGAGGLPSASSATLSSSSTTRRCAMLLEKADEREVNKLLRDASRYEDRVDDALRQHASLIWRVYTAPRPLMTLTNGKCRGTGCGLSLFAKYCALKDSSEFIFDGPNVGITPYGGMTRLLARPETSLKYPGLAEFVVLTGASLFAGDALRLGWTDLFTTIPDMTYHIKEWFDTTEHMHNDAVAWQLGHLLETCFKMKESHSSAMERAAITPTRARWVEDAFADQPSVNDIMRTLTEIEQLPFQSTHNTSDESHITPYTLGSVAAGVQRLGEHRLRYTLSPWDITPPEDSVVLKHTSEMFRAYVLERRGATDVVTHRDAERAAAWSQQRQREYDAYCSLKEAPHPRHVYARLEGCEGKIVSFEFVFEISCRRSGPQGTDEVLQTTTISRLKSRILDALGMPRDRNIDLGWYLPTLDTCPIHSDEELMQVLHTDPGIEDPKEKLRYPPIYFIVKRCTLYFSEWAYAVKHQLLLQSPFALRAAFGLLQEVRGDGAAENVMPLAETLGTEFKYFTRLMRRPDFYRVGVHTDKSVEKWEEIKEERRHNIHHTHRPTRPLPDFEEVFERDVEIDGHRFVLRPRWNPRTLQDVDDSDILRLRAPLTYDMDSTAALHVPTHCGKASRLAGMLQDAGGVQVLDGLGEVDDKGEPKVPPLQSNASVPTNVSFYEMARHPWEDRASSWRRDGFTEGSLEYFESQYRSAERAVYDEEGRGVRNYWPSRDAVEGIAQEEENDAQLLQERLFNTLETAGTSVEPWARNLRLNATTGKFGYKTEIATQEEKIYDDEYYRWFIQPGRHPNPSGLTLNGRKGQFEEGHSRDEELERMWRKVVADGNNDFAATTSGMPVYDEDAKNAEDSYAAGDDVDVVTTDANVPVDGDDSS",
+            "entity_poly_seq_length": 1211,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Unknown protein",
+            "entity_poly_strand_id": "UR",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXX",
+            "entity_poly_seq_length": 8,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38BS2"
+            ],
+            "rcsb_pdbx_description": "mS59",
+            "entity_poly_strand_id": "DL",
+            "entity_poly_seq_one_letter_code": "MRCSCAFLDKSVFAAKRRVIVPIHPTPNFPAHFIKSAFTTDPLKEKQKARFSSGGEAMREVQDIPKNLEGERSRRDLASRGDTEFQALVEFIEGASYDQLISGRRFKKVYDVLSENDDMFIWLCHTAMSVLNPGDMRSRLIYNHLRILAESVASGEMTQRTAFRFFESAVRSPAYREIAKRQLEGGAATRLAGISAAADVMRRMGLTRRPMSSYFELYQRIVERSEAMTPWGFPPLFQFEERLSLEPRLKFFSRASQQSLERRRRGHVMTPHTTLHGRRIFWIPPTWNRAGRFLGPHVTLYPGMTPD",
+            "entity_poly_seq_one_letter_code_can": "MRCSCAFLDKSVFAAKRRVIVPIHPTPNFPAHFIKSAFTTDPLKEKQKARFSSGGEAMREVQDIPKNLEGERSRRDLASRGDTEFQALVEFIEGASYDQLISGRRFKKVYDVLSENDDMFIWLCHTAMSVLNPGDMRSRLIYNHLRILAESVASGEMTQRTAFRFFESAVRSPAYREIAKRQLEGGAATRLAGISAAADVMRRMGLTRRPMSSYFELYQRIVERSEAMTPWGFPPLFQFEERLSLEPRLKFFSRASQQSLERRRRGHVMTPHTTLHGRRIFWIPPTWNRAGRFLGPHVTLYPGMTPD",
+            "entity_poly_seq_length": 307,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Unknown protein",
+            "entity_poly_strand_id": "US",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 54,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Unknown protein",
+            "entity_poly_strand_id": "UT",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 44,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q57XL2"
+            ],
+            "rcsb_pdbx_description": "mS60",
+            "entity_poly_strand_id": "DM",
+            "entity_poly_seq_one_letter_code": "MEVYRRITERVRGALWAHHGRLMSERQFHRILAFVYNNKYEYQIRFDRMEVVGREWGGRVEVVTTPAGFLKRVRVNPCVEDLTLYQQQQLILSAYANACADGRKLMEQAEMNIYKQFLKDLKPIVMGIRDNPEFYTVSENSIETIGGVLQTGDSNNLCHTHRTIPAAKARQPADEVRARQEWEQKWINSPRGQSWALTLRGKTYFALHGPQYRPRGAPGAKKETLPLDIPAPYTAMDEKRLLKKNWMAYLDNKHVAEVMWTRVKIADREKRQRLLQETGRAWHRPINEEAINRW",
+            "entity_poly_seq_one_letter_code_can": "MEVYRRITERVRGALWAHHGRLMSERQFHRILAFVYNNKYEYQIRFDRMEVVGREWGGRVEVVTTPAGFLKRVRVNPCVEDLTLYQQQQLILSAYANACADGRKLMEQAEMNIYKQFLKDLKPIVMGIRDNPEFYTVSENSIETIGGVLQTGDSNNLCHTHRTIPAAKARQPADEVRARQEWEQKWINSPRGQSWALTLRGKTYFALHGPQYRPRGAPGAKKETLPLDIPAPYTAMDEKRLLKKNWMAYLDNKHVAEVMWTRVKIADREKRQRLLQETGRAWHRPINEEAINRW",
+            "entity_poly_seq_length": 294,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q383D1"
+            ],
+            "rcsb_pdbx_description": "mS62",
+            "entity_poly_strand_id": "DO",
+            "entity_poly_seq_one_letter_code": "MRRFCTARVSSYVKRAPLLLPRGGRRWRSGAGTTADGGGEKEYIADSFESTAGSNAYAAMELAAEARREIHELWLSAETALEREKRVQQVAALIEKYKLDPSTPREADVSRGLGDAFDRLLLLCLPLGKTDAKGTDNLERLMHLAGRNGRELSVRTIQHLFARTDSFAEALAVFYTMRRCHVAMNMEAYYSMLYSLQRLEEEGWGQHFRNEYEENGAPSEQAMDFIVKGISNALLPENKPWLGRVMFQDRNVPDRRYDTRDFDELDTAWTQRYKSGTPAGAH",
+            "entity_poly_seq_one_letter_code_can": "MRRFCTARVSSYVKRAPLLLPRGGRRWRSGAGTTADGGGEKEYIADSFESTAGSNAYAAMELAAEARREIHELWLSAETALEREKRVQQVAALIEKYKLDPSTPREADVSRGLGDAFDRLLLLCLPLGKTDAKGTDNLERLMHLAGRNGRELSVRTIQHLFARTDSFAEALAVFYTMRRCHVAMNMEAYYSMLYSLQRLEEEGWGQHFRNEYEENGAPSEQAMDFIVKGISNALLPENKPWLGRVMFQDRNVPDRRYDTRDFDELDTAWTQRYKSGTPAGAH",
+            "entity_poly_seq_length": 282,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q38F25"
+            ],
+            "rcsb_pdbx_description": "mS63",
+            "entity_poly_strand_id": "DP",
+            "entity_poly_seq_one_letter_code": "MLHGTPVRRASLRYRRPYWMMFLKGVDNWKIYTVIQQPDHQRTEMLYQAWLGGLDRPYTRPKCMANQPLWLSKKRHMLRKERLDGPETPLEKYVLEWHKKFHSFQGTERPTPDDLHTALDLVERPLDLSYALQLLGQCRNLNNIRFAKETFLVFLEACLRVGRRDCAEYALEHAEPLGFWFIDEDHRRYLQGEQTWYKLSPLDNLYYPVEENAKLNEGRKPITRLSPATESPGSGTAISDGEPSTDVEGETTVDDEIAQLEAELAALEREGGGK",
+            "entity_poly_seq_one_letter_code_can": "MLHGTPVRRASLRYRRPYWMMFLKGVDNWKIYTVIQQPDHQRTEMLYQAWLGGLDRPYTRPKCMANQPLWLSKKRHMLRKERLDGPETPLEKYVLEWHKKFHSFQGTERPTPDDLHTALDLVERPLDLSYALQLLGQCRNLNNIRFAKETFLVFLEACLRVGRRDCAEYALEHAEPLGFWFIDEDHRRYLQGEQTWYKLSPLDNLYYPVEENAKLNEGRKPITRLSPATESPGSGTAISDGEPSTDVEGETTVDDEIAQLEAELAALEREGGGK",
+            "entity_poly_seq_length": 274,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HIY",
+            "pfam_comments": [
+                "AKAP7_NLS is the N-terminal domain of the cyclic AMP-dependent protein kinase A, PKA, anchor protein AKAP7. This protein anchors PKA for its role in regulating PKA-mediated gene transcription in both somatic cells and oocytes [1]. AKAP7_NLS carries the nuclear localisation signal (NLS) KKRKK, that indicates the cellular destiny of this anchor protein [2]. Binding to the regulatory subunits RI and RII of PKA is mediated via the family AKAP7_RIRII_bdg. at the C-terminus. This family represents a region that contains two 2'5' RNA ligase like domains Pfam:PF02834. Presumably this domain carried out some as yet unknown enzymatic function."
+            ],
+            "pfam_descriptions": [
+                "AKAP7 2'5' RNA ligase-like domain"
+            ],
+            "pfam_accessions": [
+                "PF10469"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "uniprot_accession": [
+                "Q382E8"
+            ],
+            "rcsb_pdbx_description": "mS64",
+            "entity_poly_strand_id": "DQ",
+            "entity_poly_seq_one_letter_code": "MLRRVPRVLQKGERGLYFPINHRIVDHRIAPGVTVEETDVQSRYRRELRTNFATGETRQTIAPPWSARERPTHFFSLRLPSRNSVTLRVKEMHNHLLFSHQQCAPMLVSPTKLHITLGVMTIPENSREELVKNIQQSMSETFACVQPLQLRFRGLGTFDFGRVLFIRVVPEADFGRLERAVCDIRRRVGGVLGVDLKGNPHDSYVPHVTVAKIRPNQRQQLGDTIPQSLWADYQHHDFGDVTLSTVDLCRMKGSPDGYYHTEGAVHLS",
+            "entity_poly_seq_one_letter_code_can": "MLRRVPRVLQKGERGLYFPINHRIVDHRIAPGVTVEETDVQSRYRRELRTNFATGETRQTIAPPWSARERPTHFFSLRLPSRNSVTLRVKEMHNHLLFSHQQCAPMLVSPTKLHITLGVMTIPENSREELVKNIQQSMSETFACVQPLQLRFRGLGTFDFGRVLFIRVVPEADFGRLERAVCDIRRRVGGVLGVDLKGNPHDSYVPHVTVAKIRPNQRQQLGDTIPQSLWADYQHHDFGDVTLSTVDLCRMKGSPDGYYHTEGAVHLS",
+            "entity_poly_seq_length": 268,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6HIY",
+            "rcsb_pdbx_description": "9S rRNA",
+            "rcsb_source_organism_description": [
+                "Trypanosoma brucei brucei"
+            ],
+            "rcsb_source_organism_id": [
+                5702
+            ],
+            "entity_poly_strand_id": "CA",
+            "entity_poly_seq_one_letter_code": "UAAAUUAUGGUCAAUUGUUAGUAUUCAUAUUAAUUUUUUUAAAUGUUUUAUCAUUUUAUAAAGGUUUAUUUUUGAAAGAUUUUUUGUAUAAAAUUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUGUUUUGUUAAUGCUAUUAGAUGGGUGUGGAAAAAUAAAAAAAAUAAUUAAUAUAUAUCAAUAAUAAAUUAAAUUAAUCUAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUACAAUUAUCAUAUUAAAUUGUUAAGUGUUGAUUUAACCAAUAAAAAUAUAAAUAAUUUUUAUUUGUUUUUAAACACCAUUAGGUAUAUGCAAAUAUAAAAUUAUAGUAAUUAUAAAUUAUAUUAUAUUAUAUUUAUUCAUAUAAUUAAUAGGAUAAUAUUUGUAGUUUUUGAUACCAUGAUAAGGAUUAUAAAUUGAAAGUGGUAAUAUCAUAAUCAAAAUUUAUUAUUUAUAUUAAAUAUGUAUGUGUAGAUAAAAUAAGAAAUUAAAAAGGUAUUGUUGCCCACCAAUUUUUAUAAUAAAAAUAACGUGCAGUAAUUAAUAUAUUUAUAAAAAUAUAUUUUUUUUUUUU",
+            "entity_poly_seq_one_letter_code_can": "UAAAUUAUGGUCAAUUGUUAGUAUUCAUAUUAAUUUUUUUAAAUGUUUUAUCAUUUUAUAAAGGUUUAUUUUUGAAAGAUUUUUUGUAUAAAAUUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUGUUUUGUUAAUGCUAUUAGAUGGGUGUGGAAAAAUAAAAAAAAUAAUUAAUAUAUAUCAAUAAUAAAUUAAAUUAAUCUAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUACAAUUAUCAUAUUAAAUUGUUAAGUGUUGAUUUAACCAAUAAAAAUAUAAAUAAUUUUUAUUUGUUUUUAAACACCAUUAGGUAUAUGCAAAUAUAAAAUUAUAGUAAUUAUAAAUUAUAUUAUAUUAUAUUUAUUCAUAUAAUUAAUAGGAUAAUAUUUGUAGUUUUUGAUACCAUGAUAAGGAUUAUAAAUUGAAAGUGGUAAUAUCAUAAUCAAAAUUUAUUAUUUAUAUUAAAUAUGUAUGUGUAGAUAAAAUAAGAAAUUAAAAAGGUAUUGUUGCCCACCAAUUUUUAUAAUAAAAAUAACGUGCAGUAAUUAAUAUAUUUAUAAAAAUAUAUUUUUUUUUUUU",
+            "entity_poly_seq_length": 621,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "SPERMIDINE",
+            "formula_weight": 0.145,
+            "chemicalId": "SPD",
+            "chemicalName": "SPERMIDINE",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "SPERMINE",
+            "formula_weight": 0.202,
+            "chemicalId": "SPM",
+            "chemicalName": "SPERMINE",
+            "cif_residueId": "none"
+        }
+    ]
+}

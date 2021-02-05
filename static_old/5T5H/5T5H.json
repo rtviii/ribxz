@@ -1,0 +1,1452 @@
+{
+    "rcsb_id": "5T5H",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.54,
+    "rcsb_external_ref_id": [
+        "EMD-8361"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-8361"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.54,
+    "cryoem_exp_num_particles": 235000,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2016,
+    "citation_rcsb_authors": [
+        "Liu, Z.",
+        "Gutierrez-Vargas, C.",
+        "Wei, J.",
+        "Grassucci, R.A.",
+        "Ramesh, M.",
+        "Espina, N.",
+        "Sun, M.",
+        "Tutuncuoglu, B.",
+        "Madison-Antenucci, S.",
+        "Woolford, J.L.",
+        "Tong, L.",
+        "Frank, J."
+    ],
+    "citation_title": "Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit.",
+    "citation_pdbx_doi": "10.1073/pnas.1614594113",
+    "pdbx_keywords_text": "Trypanosoma cruzi, ribosomal subunit, assmebly, multiply fragmented rRNAs, 2.5 angstrom cryo-EM structure, RIBOSOME",
+    "_organismId": [
+        5693
+    ],
+    "_organismName": [
+        "Trypanosoma cruzi"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This is a family of ribosomal proteins, 60S L18 from eukaryotes and 50S L18e from Archaea."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein 60S L18 and 50S L18e"
+            ],
+            "pfam_accessions": [
+                "PF17135"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DZP2"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L18",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "GVDLTGVQKKKRVVRHHTYSTNPYIKLLIKLYKFLAQRTNSAFNKLVHQRLLKSRSNRAPISLSRIAVCMKRKSVWLEKGKKAPIAVIVGDVLDDVRMARIPALRVCALRFSKSARERITGAGGECLTFDQLAMVAPTGKNTFLLRGRKSGRESVKHFGAAGVPGSHAKPFTSNRGKERQRSSARRRAFRHK",
+            "entity_poly_seq_one_letter_code_can": "GVDLTGVQKKKRVVRHHTYSTNPYIKLLIKLYKFLAQRTNSAFNKLVHQRLLKSRSNRAPISLSRIAVCMKRKSVWLEKGKKAPIAVIVGDVLDDVRMARIPALRVCALRFSKSARERITGAGGECLTFDQLAMVAPTGKNTFLLRGRKSGRESVKHFGAAGVPGSHAKPFTSNRGKERQRSSARRRAFRHK",
+            "entity_poly_seq_length": 192,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13e"
+            ],
+            "pfam_accessions": [
+                "PF01294"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E661"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L13",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "PKGKNAIPHVHQRKHWNPCSSQKGNVKVFLNQPAQKLRRRRLRLLKAKKTFPRPLKALRPQVNCPTVRHNMKKRLGRGFTVEELKAAGINPRFAPTIGIRVDRRRKNKSEEGMSINIQRLKTYMSKLVLFPMSYKNVQKGEATEEEVKSATQDRTRFGTAAVGGFVTPAPEAPRKVTEEERTKNVYKFLKKNHSAVRFFGIRRAR",
+            "entity_poly_seq_one_letter_code_can": "PKGKNAIPHVHQRKHWNPCSSQKGNVKVFLNQPAQKLRRRRLRLLKAKKTFPRPLKALRPQVNCPTVRHNMKKRLGRGFTVEELKAAGINPRFAPTIGIRVDRRRKNKSEEGMSINIQRLKTYMSKLVLFPMSYKNVQKGEATEEEVKSATQDRTRFGTAAVGGFVTPAPEAPRKVTEEERTKNVYKFLKKNHSAVRFFGIRRAR",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes the eukaryotic ribosomal protein L14."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14"
+            ],
+            "pfam_accessions": [
+                "PF01929"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DQ35"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein L14",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "NYIRAGRLVRIIRGPRQDRVGVVVDIIDGNRVLVENPADKKMWRHVQNLKNVEPLKFSVELSRNCSTKTLKNVLAEKKILEKYAATKSARRIAAKRAFARSTDFERYQLRVAKRSRAFWTRKVFDENDKKKPVSWHKVALKKLQKNAKK",
+            "entity_poly_seq_one_letter_code_can": "NYIRAGRLVRIIRGPRQDRVGVVVDIIDGNRVLVENPADKKMWRHVQNLKNVEPLKFSVELSRNCSTKTLKNVLAEKKILEKYAATKSARRIAAKRAFARSTDFERYQLRVAKRSRAFWTRKVFDENDKKKPVSWHKVALKKLQKNAKK",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L15"
+            ],
+            "pfam_accessions": [
+                "PF00827"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4CTG9"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L15",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "GAFMYLNELWKKKSSDVMRFIQRVRAWEFRHQHTVVRLRRPTRPEKARMLGYKTKQGFSVFRVRVRRGGRKRPVHKGITYGKPKTSGVLGVKLNKNSRAIAEQRLGKKYGNLRVLNSYWVNADSTFVWYEVVAVDPMCRTIRRDPRINWIVNAVHKHREQRGLTSAGRKHRGLRHKGHKASKLRPSVRAAWRRNNRMVFLRKR",
+            "entity_poly_seq_one_letter_code_can": "GAFMYLNELWKKKSSDVMRFIQRVRAWEFRHQHTVVRLRRPTRPEKARMLGYKTKQGFSVFRVRVRRGGRKRPVHKGITYGKPKTSGVLGVKLNKNSRAIAEQRLGKKYGNLRVLNSYWVNADSTFVWYEVVAVDPMCRTIRRDPRINWIVNAVHKHREQRGLTSAGRKHRGLRHKGHKASKLRPSVRAAWRRNNRMVFLRKR",
+            "entity_poly_seq_length": 203,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes: archaeal 50S ribosomal protein L18Ae, often referred to as L20e or LX; fungal 60S ribosomal protein L20; and higher eukaryote 60S ribosomal protein L18A."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A"
+            ],
+            "pfam_accessions": [
+                "PF01775"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DZ31"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L18a",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "VKPHLRHYCVVGRETPSEKNPAPTVYKFEVFAPNFVVAKSRFWRMMREKNKVKSTHGDVLSCKVVKDRKLAARNYSVDIAYYSQRCGYTHMVKEFRDVSKAGAVSQAYHDLASRHRARYHNIEVLGVKSIPNHQVKRLSISEYHASNLSFPLLHRRVKAPRKDRVVFVKKNTKRAVV",
+            "entity_poly_seq_one_letter_code_can": "VKPHLRHYCVVGRETPSEKNPAPTVYKFEVFAPNFVVAKSRFWRMMREKNKVKSTHGDVLSCKVVKDRKLAARNYSVDIAYYSQRCGYTHMVKEFRDVSKAGAVSQAYHDLASRHRARYHNIEVLGVKSIPNHQVKRLSISEYHASNLSFPLLHRRVKAPRKDRVVFVKKNTKRAVV",
+            "entity_poly_seq_length": 177,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19e"
+            ],
+            "pfam_accessions": [
+                "PF01280"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q9BMP1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L19-like protein",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "SLKLQARLAADILRCGRHRVWLDPNEASEISNANSRKSVRKLIKDGLIIRKPVKVHSRSRWRHMKEAKSMGRHEGAGRREGTREARMPSKELWMRRLRILRRLLRKYREEKKIDRHIYRELYVKAKGNVFRNKRNLMEHIHKVKNEKKKE",
+            "entity_poly_seq_one_letter_code_can": "SLKLQARLAADILRCGRHRVWLDPNEASEISNANSRKSVRKLIKDGLIIRKPVKVHSRSRWRHMKEAKSMGRHEGAGRREGTREARMPSKELWMRRLRILRRLLRKYREEKKIDRHIYRELYVKAKGNVFRNKRNLMEHIHKVKNEKKKE",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L21e"
+            ],
+            "pfam_accessions": [
+                "PF01157"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DED2"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L21E (60S)",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "HSHGYKCGTRHLFAKKFRKHGVPSVSTILTNFKVGDYVDVVADSAVRAGMPHKYYHGRTGIVWNVTPRGVGVIVNKPVRNRTVRKRICVRFEHVRKSRCQEAFKQKQKDFLAFQAAKKAGKPLPPLKRSSRNGGIVRAKRVEVLAR",
+            "entity_poly_seq_one_letter_code_can": "HSHGYKCGTRHLFAKKFRKHGVPSVSTILTNFKVGDYVDVVADSAVRAGMPHKYYHGRTGIVWNVTPRGVGVIVNKPVRNRTVRKRICVRFEHVRKSRCQEAFKQKQKDFLAFQAAKKAGKPLPPLKRSSRNGGIVRAKRVEVLAR",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E4R0"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L23",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "FRVSLALPVGAVVNCADNTGAKNLYIISVKGYHGRLNRLPAAALGDIVMASVKKGKPELRRKVLNAVIIRQRKSWRRKDGTVIYFEDNAGVIVNPKGEMKGSGIAGPVAKEAADLWPKISSHAPAIV",
+            "entity_poly_seq_one_letter_code_can": "FRVSLALPVGAVVNCADNTGAKNLYIISVKGYHGRLNRLPAAALGDIVMASVKKGKPELRRKVLNAVIIRQRKSWRRKDGTVIYFEDNAGVIVNPKGEMKGSGIAGPVAKEAADLWPKISSHAPAIV",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L24e"
+            ],
+            "pfam_accessions": [
+                "PF01246"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E078"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L24",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "TIDCEFSHFAVHPGHGRRYVPFAFLSTKPVLTFARPKCFAMYMRKKNPRFVPWTRTYRRIN",
+            "entity_poly_seq_one_letter_code_can": "TIDCEFSHFAVHPGHGRRYVPFAFLSTKPVLTFARPKCFAMYMRKKNPRFVPWTRTYRRIN",
+            "entity_poly_seq_length": 61,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "The N-terminal region of the eukaryotic ribosomal L27 has the KOW motif.  C-terminal region is represented by this family.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27e protein family",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF01777",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q9U4H7"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L27",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "KFLKPGKVVIVTSGRYAGKKAVIVQNTDSKSKERPYGHSLIAGMKKYPKKVVRGMSKRTIQRRSRVGVFLRVVNHKHFLPTRYNMDLSRELRGRINVSDASKKAKSKQLVRKLFQARYNAGSNRWFFQRLRF",
+            "entity_poly_seq_one_letter_code_can": "KFLKPGKVVIVTSGRYAGKKAVIVQNTDSKSKERPYGHSLIAGMKKYPKKVVRGMSKRTIQRRSRVGVFLRVVNHKHFLPTRYNMDLSRELRGRINVSDASKKAKSKQLVRKLFQARYNAGSNRWFFQRLRF",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL27",
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01778"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "O00822"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L28",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "STDLQWLLVRQNSKFLQKRNGIRLSSDPFNNNANWTKRHAGFLNTKAAVVKTKGDRILVTTKDGKAGNKPKSMYKKAVMDAGVEASVVSKAVAAVRPDLASIASRRARKMASTLEHMKKVRAARK",
+            "entity_poly_seq_one_letter_code_can": "STDLQWLLVRQNSKFLQKRNGIRLSSDPFNNNANWTKRHAGFLNTKAAVVKTKGDRILVTTKDGKAGNKPKSMYKKAVMDAGVEASVVSKAVAAVRPDLASIASRRARKMASTLEHMKKVRAARK",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01779"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4CPD8"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L29",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "NHTNHNQSRKNHRNGIKRALPMYLHNSKRGSWLPALINARRVRKNNQKAAVKARRERLAAHKA",
+            "entity_poly_seq_one_letter_code_can": "NHTNHNQSRKNHRNGIKRALPMYLHNSKRGSWLPALINARRVRKNNQKAAVKARRERLAAHKA",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DPQ8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L2",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "GKTVLTCRKGNGSIYQVHGHKRLGPAKLRILDYAERHGFMRGVVKTIEHEPGRGAPLARVEFRHPYKYRRVKELMVAPEGMFTGQSVLCGVKAPLAIGNVLPLGQITEGCIVCNVEAKVGDRGTIARASGDYCIIISHNHETGRTRLKLPSGQKKTVPSNCRAMIGIIAGGGRIEKPVLKAGNSFYRFRGKRNCWPKVRGVARNPVEHPHGGGNHQHIGHPSTVSRHAPPGQKVGLIAARRTGRI",
+            "entity_poly_seq_one_letter_code_can": "GKTVLTCRKGNGSIYQVHGHKRLGPAKLRILDYAERHGFMRGVVKTIEHEPGRGAPLARVEFRHPYKYRRVKELMVAPEGMFTGQSVLCGVKAPLAIGNVLPLGQITEGCIVCNVEAKVGDRGTIARASGDYCIIISHNHETGRTRLKLPSGQKKTVPSNCRAMIGIIAGGGRIEKPVLKAGNSFYRFRGKRNCWPKVRGVARNPVEHPHGGGNHQHIGHPSTVSRHAPPGQKVGLIAARRTGRI",
+            "entity_poly_seq_length": 245,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "V5B599"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L13",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "EHPRHGHLGFLPRKRSRQIRGRVRSFPKDDPSQKPHLTSFMVFKAGMTHIVRDVDRPGSKVNKKEVVEPVTILEAPPMVVVGIVGYRQTPVGHKTIGTVWAHHTSVEFRRRFYKNWKQSAQLAFTKRKQFARTTEGRLAEARTLKAFAKKADIIRVVAHTQLRKLRNNRVGVKKAHVSEIQINGGTIAEKIELAKSLLEKEVRIDSIFQQSETCDVCAVTKGHGFTGVVKRWGVACLPRKTHRGLRKVACIGAWHPARVMYTVARAGQHGYHHRTHLNKKIYQLGRAVSMEPNQATTTYDLTAKSITPMGGFVGYGTVRNDYIMLKGSVAGPRRRVITLRRPMAPQTSRKLTEQITLKFIDTSSKIGHGRFQTKKEKSQWFGPLKKDRIRREERLRK",
+            "entity_poly_seq_one_letter_code_can": "EHPRHGHLGFLPRKRSRQIRGRVRSFPKDDPSQKPHLTSFMVFKAGMTHIVRDVDRPGSKVNKKEVVEPVTILEAPPMVVVGIVGYRQTPVGHKTIGTVWAHHTSVEFRRRFYKNWKQSAQLAFTKRKQFARTTEGRLAEARTLKAFAKKADIIRVVAHTQLRKLRNNRVGVKKAHVSEIQINGGTIAEKIELAKSLLEKEVRIDSIFQQSETCDVCAVTKGHGFTGVVKRWGVACLPRKTHRGLRKVACIGAWHPARVMYTVARAGQHGYHHRTHLNKKIYQLGRAVSMEPNQATTTYDLTAKSITPMGGFVGYGTVRNDYIMLKGSVAGPRRRVITLRRPMAPQTSRKLTEQITLKFIDTSSKIGHGRFQTKKEKSQWFGPLKKDRIRREERLRK",
+            "entity_poly_seq_length": 397,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34e"
+            ],
+            "pfam_accessions": [
+                "PF01199"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DB26"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L34",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "PRVQYRRRMHYATRGNRMKLVRTPGNRLVMQKRVKRSQGPHTPWVLGHKRLAGTKALRHTEARLASRHEKSTSRPYGGVLSHEQVRDRIVRAFLIEEQRIVKRA",
+            "entity_poly_seq_one_letter_code_can": "PRVQYRRRMHYATRGNRMKLVRTPGNRLVMQKRVKRSQGPHTPWVLGHKRLAGTKALRHTEARLASRHEKSTSRPYGGVLSHEQVRDRIVRAFLIEEQRIVKRA",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35Ae"
+            ],
+            "pfam_accessions": [
+                "PF01247"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E581"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L35A",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "NRSKKIQQLTKKTSTVKRNRKSPRLYMKAVLAGYTRGLHGQNKNTAIVRIENVNTKEDAAWYVGKRVCYVYHGYKMKRCVRWSKAPARRSNTRAIWGRVTRPHGGSGAVRAKFNGSAVPASAIGKRVRVYLYPSRI",
+            "entity_poly_seq_one_letter_code_can": "NRSKKIQQLTKKTSTVKRNRKSPRLYMKAVLAGYTRGLHGQNKNTAIVRIENVNTKEDAAWYVGKRVCYVYHGYKMKRCVRWSKAPARRSNTRAIWGRVTRPHGGSGAVRAKFNGSAVPASAIGKRVRVYLYPSRI",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36e"
+            ],
+            "pfam_accessions": [
+                "PF01158"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "V5BDJ2"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L36",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "PAPRTGIIAGFNKGHKTTRRARAPSSNDRYALPHKKLRAVKAIITDLVGLSPMERRVQELLRVGKDKRALKFCKKRLGNFKAAKKRRAKMEEALR",
+            "entity_poly_seq_one_letter_code_can": "PAPRTGIIAGFNKGHKTTRRARAPSSNDRYALPHKKLRAVKAIITDLVGLSPMERRVQELLRVGKDKRALKFCKKRLGNFKAAKKRRAKMEEALR",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes ribosomal protein L37 from eukaryotes and archaebacteria. The family contains many conserved cysteines and histidines suggesting that this protein may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L37e"
+            ],
+            "pfam_accessions": [
+                "PF01907"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DXW6"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L37",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "TKGTTSMGQRHGRTHILCRRCGRNAYHVQWERCAACAYPRASRRRYNWSVKAIKRRRTGTGRMRYLKEVNRRIKNHFKTSL",
+            "entity_poly_seq_one_letter_code_can": "TKGTTSMGQRHGRTHILCRRCGRNAYHVQWERCAACAYPRASRRRYNWSVKAIKRRRTGTGRMRYLKEVNRRIKNHFKTSL",
+            "entity_poly_seq_length": 81,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL37"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L38e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01781"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DQ60"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L38",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "PREIKNLKEFLAICSRKDARCVKVKHNPAQTKFKVRCSRYLYTLVVADKKKADKIERS",
+            "entity_poly_seq_one_letter_code_can": "PREIKNLKEFLAICSRKDARCVKVKHNPAQTKFKVRCSRYLYTLVVADKKKADKIERS",
+            "entity_poly_seq_length": 58,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL38"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L39 protein"
+            ],
+            "pfam_accessions": [
+                "PF00832"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DVC6"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L39",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "GRFKPLAIKKKYAKKLKQNRPVPYWIRLRTGNRIKWNEKRRHWRRTKLHY",
+            "entity_poly_seq_one_letter_code_can": "GRFKPLAIKKKYAKKLKQNRPVPYWIRLRTGNRIKWNEKRRHWRRTKLHY",
+            "entity_poly_seq_length": 50,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL39"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family is found at the very C-terminal of 60 ribosomal L4 proteins.",
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "60S ribosomal protein L4 C-terminal domain",
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF14374",
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4CQW2"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L4",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "SVSVYSASEDKVVGTCPLPAVFTAPIRHDIVQFVHTNMAKNSRQAYAVNRLSGMNHSAESWGTGRAVARIPRIGGGGTSTSGAGAFGNMCRGGRMFAPTKIFRRWHRKINLHQKRFAVVSALAASSVPALVMSRGHKIENVAEVPLVVEDAVQGYEKTKEAMAFLKAIGAVDDVNRVNDSREIRAGRGKMRNRRYVARRGPMLVMPDNKGTRAFRNIFGLDLANVNALNLLHLAPGGHVGRFVVWTKGAFEKLDSIFGTFTKASAVKKGFMLPAPMLTNTDVTRIMQSEEVRRVLKPKKLQPKKASRLTQPTNGFRNRRLRLRLNPFQKKESAMVKG",
+            "entity_poly_seq_one_letter_code_can": "SVSVYSASEDKVVGTCPLPAVFTAPIRHDIVQFVHTNMAKNSRQAYAVNRLSGMNHSAESWGTGRAVARIPRIGGGGTSTSGAGAFGNMCRGGRMFAPTKIFRRWHRKINLHQKRFAVVSALAASSVPALVMSRGHKIENVAEVPLVVEDAVQGYEKTKEAMAFLKAIGAVDDVNRVNDSREIRAGRGKMRNRRYVARRGPMLVMPDNKGTRAFRNIFGLDLANVNALNLLHLAPGGHVGRFVVWTKGAFEKLDSIFGTFTKASAVKKGFMLPAPMLTNTDVTRIMQSEEVRRVLKPKKLQPKKASRLTQPTNGFRNRRLRLRLNPFQKKESAMVKG",
+            "entity_poly_seq_length": 337,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L44"
+            ],
+            "pfam_accessions": [
+                "PF00935"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4CV79"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L44",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "VNYPKKKTMYCPDARCKAHKSFKVVQYKAGKARLYARGKRRYDRKQSGYGGQTKPIFHKKAKTTKKIVLKLQCSNCKSIIQNVLKRTKHFELN",
+            "entity_poly_seq_one_letter_code_can": "VNYPKKKTMYCPDARCKAHKSFKVVQYKAGKARLYARGKRRYDRKQSGYGGQTKPIFHKKAKTTKKIVLKLQCSNCKSIIQNVLKRTKHFELN",
+            "entity_poly_seq_length": 93,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL42"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family contains the large 60S ribosomal L5 proteins from Eukaryota and the 50S L18 proteins from Archaea. It has been shown that the amino terminal 93 amino acids of Swiss:P09895 are necessary and sufficient to bind 5S rRNA in vitro [1], suggesting that the entire family has a function in rRNA binding [2,3,4,5].",
+                "This domain is the C-terminal end of ribosomal L18/L5 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal large subunit proteins 60S L5, and 50S L18",
+                "Ribosomal L18 C-terminal region"
+            ],
+            "pfam_accessions": [
+                "PF17144",
+                "PF14204"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4CU61"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L5",
+            "entity_poly_strand_id": "u",
+            "entity_poly_seq_one_letter_code": "VVKNKAYFKRFQVKYRRRREGKTDYQARRQMVLQDKTKFGTPKYRLVVRITNRDIIAQVVQAKVVGDEVVMAAYSHELPQFGIQHGLTNYAAAYATGLLVARRMLTKLGLANKFEGTKEADGSYSAVRTKADDQGDDEKRFPFKAILDVGLARTTTGARVFGVMKGAVDGGLAVPHRPNRFPGYDKEKDSLNAKAHRDRILGLHVAEYLKQVREEASSNPEESTCQFSKYIKDKVVPNELEGMYKKAHAAIRAD",
+            "entity_poly_seq_one_letter_code_can": "VVKNKAYFKRFQVKYRRRREGKTDYQARRQMVLQDKTKFGTPKYRLVVRITNRDIIAQVVQAKVVGDEVVMAAYSHELPQFGIQHGLTNYAAAYATGLLVARRMLTKLGLANKFEGTKEADGSYSAVRTKADDQGDDEKRFPFKAILDVGLARTTTGARVFGVMKGAVDGGLAVPHRPNRFPGYDKEKDSLNAKAHRDRILGLHVAEYLKQVREEASSNPEESTCQFSKYIKDKVVPNELEGMYKKAHAAIRAD",
+            "entity_poly_seq_length": 254,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of Ribosomal L30 proteins and has been termed RL30NT or NUC018 [1].",
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L30 N-terminal domain",
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF08079",
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DNZ7"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L7",
+            "entity_poly_strand_id": "w",
+            "entity_poly_seq_one_letter_code": "KAIAANKAARVALKKAAYARGLRYSREYRSAEKKLVHLRRQAKSCGNYYLEAKPKVAVVTRIRGIAKVAPKQRKILQLLRLRQIFNTVFVRLNKPMENMLRAVEPYIAYGYPSLRTVRMMVYKRGHLKINGQRVKIVNNQMIESKYNNENIVCAEDIVNQIYTGGKHFREVTNGLWPFKLSPPAGGMRQKRRHFVEGGDYGNRDALINRFLARMI",
+            "entity_poly_seq_one_letter_code_can": "KAIAANKAARVALKKAAYARGLRYSREYRSAEKKLVHLRRQAKSCGNYYLEAKPKVAVVTRIRGIAKVAPKQRKILQLLRLRQIFNTVFVRLNKPMENMLRAVEPYIAYGYPSLRTVRMMVYKRGHLKINGQRVKIVNNQMIESKYNNENIVCAEDIVNQIYTGGKHFREVTNGLWPFKLSPPAGGMRQKRRHFVEGGDYGNRDALINRFLARMI",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q9BMP0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L7a-like protein",
+            "entity_poly_strand_id": "x",
+            "entity_poly_seq_one_letter_code": "RPKNFGIGHDVPYARDLSRFMRWPTFVTMQRKKRVLQRRLKVPPALHQFTKVLDRSSRNELLKLVKKYPSETRRARRQRLFDVATEKKKNPEAASKKAPLSVVTGLQEVTRTIEKKTARLVMIANNVDPIELVLWMPTLCRANKVPYAIVKDKARLGDAVGRKTATCVAITDVNAEDEAALKNLIRSVNARFLARSDVIRRQWGGLQLSLRSRAELRKKRARN",
+            "entity_poly_seq_one_letter_code_can": "RPKNFGIGHDVPYARDLSRFMRWPTFVTMQRKKRVLQRRLKVPPALHQFTKVLDRSSRNELLKLVKKYPSETRRARRQRLFDVATEKKKNPEAASKKAPLSVVTGLQEVTRTIEKKTARLVMIANNVDPIELVLWMPTLCRANKVPYAIVKDKARLGDAVGRKTATCVAITDVNAEDEAALKNLIRSVNARFLARSDVIRRQWGGLQLSLRSRAELRKKRARN",
+            "entity_poly_seq_length": 223,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi",
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693,
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4CNF4"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L11",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "EIVVKKLCLNIVHCTVRTGSFGGMDFYVVLGRRGERVAHRRRKTSRVGCPHRVRKEEAMHWFERT",
+            "entity_poly_seq_one_letter_code_can": "EIVVKKLCLNIVHCTVRTGSFGGMDFYVVLGRRGERVAHRRRKTSRVGCPHRVRKEEAMHWFERT",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "V5DCT1"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L13a",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "HRPEIIVVDLKDHVLGRAAAIVAKQLLLGKKITAVRCEQLTIAGTEIRNKIKYLQFLRKRKLSNPKLGPFHHRSPSDIFLRTVRSMLPRYTKRGQKALRQLVAYEGIPTNVVRTGGRVVIPKAQRHYCYRSERPYTVLGNMCKHVGWKYSDVVKKLETARVEKAARHHKKTEKLRAAWKSARKEALSKVSKNNLEVLKKFGYA",
+            "entity_poly_seq_one_letter_code_can": "HRPEIIVVDLKDHVLGRAAAIVAKQLLLGKKITAVRCEQLTIAGTEIRNKIKYLQFLRKRKLSNPKLGPFHHRSPSDIFLRTVRSMLPRYTKRGQKALRQLVAYEGIPTNVVRTGGRVVIPKAQRHYCYRSERPYTVLGNMCKHVGWKYSDVVKKLETARVEKAARHHKKTEKLRAAWKSARKEALSKVSKNNLEVLKKFGYA",
+            "entity_poly_seq_length": 203,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DC23"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L17",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "HYSRKPQVSSKSAKAKVSDLRCHFKNTFETANVINGMPLRKAQQLYRQVLAKTRCIPFKRYNGKIGRTAQAKEWGQTKGRWPRKSVVAMLSLLKNAEANAIEKGLDPNKMVIKHVQVDQAARMRRRTYRAHGRITPYMCSPCHVQLFMTQPQ",
+            "entity_poly_seq_one_letter_code_can": "HYSRKPQVSSKSAKAKVSDLRCHFKNTFETANVINGMPLRKAQQLYRQVLAKTRCIPFKRYNGKIGRTAQAKEWGQTKGRWPRKSVVAMLSLLKNAEANAIEKGLDPNKMVIKHVQVDQAARMRRRTYRAHGRITPYMCSPCHVQLFMTQPQ",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L22e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01776"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DZN3"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L22",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "KVFKIDCTIPANDGIFSEEILGNFEQYFQENVKLNGRKGKLTEKVRVGLRNNVLTITTTMAYRKKYFKYLTKKFLKKKDLRDWIRILARGKDTYQLKYF",
+            "entity_poly_seq_one_letter_code_can": "KVFKIDCTIPANDGIFSEEILGNFEQYFQENVKLNGRKGKLTEKVRVGLRNNVLTITTTMAYRKKYFKYLTKKFLKKKDLRDWIRILARGKDTYQLKYF",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E2Y1"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L23a",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "AYTRPQFRRPHTYRRPSIPKPSNNMSAISNKWDAFRVIRYPLTTDKAMKKIEENNTLTFIVDSNANKTEIKKAMRKLYQVKAVKVNTLIRPDGLKKAYIRLSASYDALETANKMGL",
+            "entity_poly_seq_one_letter_code_can": "AYTRPQFRRPHTYRRPSIPKPSNNMSAISNKWDAFRVIRYPLTTDKAMKKIEENNTLTFIVDSNANKTEIKKAMRKLYQVKAVKVNTLIRPDGLKKAYIRLSASYDALETANKMGL",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "Ribosomal_L26 is a family of the 50S and the 60S ribosomal proteins from eukaryotes - L26 - and archaea - L25.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins L26 eukaryotic, L24P archaeal",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF16906",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DG45"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L26",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "GSRRKARRAHFQAPSHVRRILMSAPLSKELRAKYNVRAMPVRKDDEVRVKRGAYKGREGKVTACYRLRWVIHIDKVNREKANGTTVPVGVHPSNVEITKLKLNHNRKAILERK",
+            "entity_poly_seq_one_letter_code_can": "GSRRKARRAHFQAPSHVRRILMSAPLSKELRAKYNVRAMPVRKDDEVRVKRGAYKGREGKVTACYRLRWVIHIDKVNREKANGTTVPVGVHPSNVEITKLKLNHNRKAILERK",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E4Q8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L27A/L29",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "PTRFKKTRHQRGSTFCGYGRVGKHRKHPSGRGNAGGQHHHRINFDKYHPGYFGKCGMNHYHLKKNPLWKPTINLNNLAKLIAKDEALKAKKGETLPVVDLLANGYSKLLGNGHLQTPCIVKARWVSKLADKKIRKAGGAVVLQA",
+            "entity_poly_seq_one_letter_code_can": "PTRFKKTRHQRGSTFCGYGRVGKHRKHPSGRGNAGGQHHHRINFDKYHPGYFGKCGMNHYHLKKNPLWKPTINLNNLAKLIAKDEALKAKKGETLPVVDLLANGYSKLLGNGHLQTPCIVKARWVSKLADKKIRKAGGAVVLQA",
+            "entity_poly_seq_length": 144,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DIC9"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L30",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "TKIQLVMKSGKYVLGTKQTLKTLRQGRSKLVVISSNCPPIRKAEIEYYCTLSKTPMHHYVLSITDV",
+            "entity_poly_seq_one_letter_code_can": "TKIQLVMKSGKYVLGTKQTLKTLRQGRSKLVVISSNCPPIRKAEIEYYCTLSKTPMHHYVLSITDV",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31e"
+            ],
+            "pfam_accessions": [
+                "PF01198"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "V5C333"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal subunit protein L31",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "ALLDARKKAIASRKARDDRRWKRVLAKMDSEKRKKYHGVGNTAEHSRVRGITRAALRKRTGRKPDNITMEATIHLSKLLKRKTFHKRAPIAIKRIKAFVARLMKTKDNRIDASLNTYVWHKGVKGVPGRVRVHVERKSETLEGGKRKHFYTVISNVPVASFKNLTTKVT",
+            "entity_poly_seq_one_letter_code_can": "ALLDARKKAIASRKARDDRRWKRVLAKMDSEKRKKYHGVGNTAEHSRVRGITRAALRKRTGRKPDNITMEATIHLSKLLKRKTFHKRAPIAIKRIKAFVARLMKTKDNRIDASLNTYVWHKGVKGVPGRVRVHVERKSETLEGGKRKHFYTVISNVPVASFKNLTTKVT",
+            "entity_poly_seq_length": 169,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This family includes ribosomal protein L32 from eukaryotes and archaebacteria."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L32"
+            ],
+            "pfam_accessions": [
+                "PF01655"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4D1H8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L32",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "VKKRTKRFTRHKCELFPQLSSSWRKPRGEDSPVRRRYKGQKAMPNKGYGSDRKTKYITPSGFKNFPIHNVQDLYMLLMQNRKYAGVISHTVGAKSRKAIVRKAHELDVRLING",
+            "entity_poly_seq_one_letter_code_can": "VKKRTKRFTRHKCELFPQLSSSWRKPRGEDSPVRRRYKGQKAMPNKGYGSDRKTKYITPSGFKNFPIHNVQDLYMLLMQNRKYAGVISHTVGAKSRKAIVRKAHELDVRLING",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4E2E0"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L35",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "IRDLRDKSKDELLKQLMEFKKELSQLRVAQQLNSAGTRLGRIRLIRKSIARILTVLNRNQRESLRKVYAGRRLRLAMPKALRPKLTRRRRLALKDNEKNRKTRRQLRMARKFPRRVYAVK",
+            "entity_poly_seq_one_letter_code_can": "IRDLRDKSKDELLKQLMEFKKELSQLRVAQQLNSAGTRLGRIRLIRKSIARILTVLNRNQRESLRKVYAGRRLRLAMPKALRPKLTRRRRLALKDNEKNRKTRRQLRMARKFPRRVYAVK",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "This ribosomal protein is found in archaebacteria and eukaryotes. It contains four conserved cysteine residues that may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L37ae protein family"
+            ],
+            "pfam_accessions": [
+                "PF01780"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DAV9"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L37a",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "KRTVKMGVMGRYGARYGANPRKRAKKLEVSQHARHFCSFCGKFAFRRKAVGIWRCDGCSKTMAGGAYTLSTPNNSTVRSTVRRLR",
+            "entity_poly_seq_one_letter_code_can": "KRTVKMGVMGRYGARYGANPRKRAKKLEVSQHARHFCSFCGKFAFRRKAVGIWRCDGCSKTMAGGAYTLSTPNNSTVRSTVRRLR",
+            "entity_poly_seq_length": 85,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL43"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6e"
+            ],
+            "pfam_accessions": [
+                "PF01159"
+            ],
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "uniprot_accession": [
+                "Q4DIV9"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L6",
+            "entity_poly_strand_id": "v",
+            "entity_poly_seq_one_letter_code": "EYTTLRKSCKPGTIAIILAGRFRGRRVVILKQLPRNGPLVISGPMKYNGVPIRRIDSRYIIATSTKVDIKNVDVSGITPDIFKRPKQEKRVKSEGEFMGDKAKKAAEQKAKKTAKAAPKGIVSDARAQLQKKVDAALIEAIRKDPLGKEKAGYLHSVFTIKPGDAPHRMRW",
+            "entity_poly_seq_one_letter_code_can": "EYTTLRKSCKPGTIAIILAGRFRGRRVVILKQLPRNGPLVISGPMKYNGVPIRRIDSRYIIATSTKVDIKNVDVSGITPDIFKRPKQEKRVKSEGEFMGDKAKKAAEQKAKKTAKAAPKGIVSDARAQLQKKVDAALIEAIRKDPLGKEKAGYLHSVFTIKPGDAPHRMRW",
+            "entity_poly_seq_length": 171,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL6"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "RNA LARGE SUBUNIT BETA",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi",
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693,
+                5693
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "ACUGCAGACCGUACU(OMC)AUCACCGCAUCAGGUCCCCAAGCAUACA(A2M)UGCUCUGGUACAUAGAGAAA(OMG)G(OMU)ACA(OMC)UCAGGGAAGUCGGCAAAAUAGAUGCGUAAGUUCGCAAGAAGCAUUGGCUCUGAGGGCAACAACUCAGAACUGCUUACGGCGGGGAAUCCAACUGU(A2M)UAAUUAAAACAUAGGUUUGUGAUGCAUCCAAGUGGUGUAUGUCGCAAACUGAUUUCUGCC(OMC)AGUGCUCUGU(OMG)AAGAGGUUCACCGGCGCGGGUAAACGGCAAGGUAGC(5MC)AA(A2M)UGCCUC(OMG)UCUUCCAAUUAGAGACGCGCAU(7MG)AAUGGAUUAAUGAGAUUCCCUCUGU(OMC)CCGAGUU(A2M)CUAUCUAGCGAAACGACAGUCAAGGGAACGGACUUG(A2M)AGGGCUAAGCGGGGAAAGAAGACCCU(OMG)UUGAGUUUGAC(OMU)CCAGUCUGGCUCUGUGAGGCGAGCUUCACUUAUCGAAUGAAGAGACCAAUGGGUUUCGCGUAGUCUGCGGGCUAUGCACCGUCUCU(7MG)AACCAACGGA(7MG)UCUUGUUUCGAGACAUCUGCCAGAUGGGGA(OMG)UUUGGCUGGGGCGGCAUAUCUGUUACACGACAACGCAGGU(OMG)UCCUAAGGCGAGCUCAGUGGGAUCUCACGUAGAACACAAGCGUAAAAGCUUGCUUGAUUAACGAUUUCCAGUACGAAUCGAGACUGCGAAAGCAAGGCCAGCGAUCCUUUGCGUA(OMU)GAACAAAUCAUACCA(OMG)A(OMG)GUGUCAGAAUAAUUAC(OMC)ACAG(OMG)GAUAACUGGCUUAUCCUUCGAUGUCGG(OMC)UCUUCCUAACCUAGCGGCUAAGGGUUGGAU(OMU)(OMG)UUCACCCACUGACAGGGAACGUG(A2M)GCUGGGUUUAGA(OMC)CGUCGUGAGACAGGUUGGUUUUACCCUACUUAGCUGGAAAUUGCGAGAAAAAAAAAAUUUUUUAAAAUUUUUUUUUUUUUUACUUGGUACGAAAAAAA",
+            "entity_poly_seq_one_letter_code_can": "ACUGCAGACCGUACUCAUCACCGCAUCAGGUCCCCAAGCAUACAAUGCUCUGGUACAUAGAGAAAGGUACACUCAGGGAAGUCGGCAAAAUAGAUGCGUAAGUUCGCAAGAAGCAUUGGCUCUGAGGGCAACAACUCAGAACUGCUUACGGCGGGGAAUCCAACUGUAUAAUUAAAACAUAGGUUUGUGAUGCAUCCAAGUGGUGUAUGUCGCAAACUGAUUUCUGCCCAGUGCUCUGUGAAGAGGUUCACCGGCGCGGGUAAACGGCAAGGUAGCCAAAUGCCUCGUCUUCCAAUUAGAGACGCGCAUGAAUGGAUUAAUGAGAUUCCCUCUGUCCCGAGUUACUAUCUAGCGAAACGACAGUCAAGGGAACGGACUUGAAGGGCUAAGCGGGGAAAGAAGACCCUGUUGAGUUUGACUCCAGUCUGGCUCUGUGAGGCGAGCUUCACUUAUCGAAUGAAGAGACCAAUGGGUUUCGCGUAGUCUGCGGGCUAUGCACCGUCUCUGAACCAACGGAGUCUUGUUUCGAGACAUCUGCCAGAUGGGGAGUUUGGCUGGGGCGGCAUAUCUGUUACACGACAACGCAGGUGUCCUAAGGCGAGCUCAGUGGGAUCUCACGUAGAACACAAGCGUAAAAGCUUGCUUGAUUAACGAUUUCCAGUACGAAUCGAGACUGCGAAAGCAAGGCCAGCGAUCCUUUGCGUAUGAACAAAUCAUACCAGAGGUGUCAGAAUAAUUACCACAGGGAUAACUGGCUUAUCCUUCGAUGUCGGCUCUUCCUAACCUAGCGGCUAAGGGUUGGAUUGUUCACCCACUGACAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUGGUUUUACCCUACUUAGCUGGAAAUUGCGAGAAAAAAAAAAUUUUUUAAAAUUUUUUUUUUUUUUACUUGGUACGAAAAAAA",
+            "entity_poly_seq_length": 941,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "5S rRNA",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "GGGUACGACCAUACUUGGCCGAGUGCACCACAUCCCGUCCGAUUUGUGAAGUUAAGCGGCCACAGGCCUCGUUAGUACGGCGAUCAGUGAUGGCGCUGGAACCCGGGGUGCUGCAAUC",
+            "entity_poly_seq_one_letter_code_can": "GGGUACGACCAUACUUGGCCGAGUGCACCACAUCCCGUCCGAUUUGUGAAGUUAAGCGGCCACAGGCCUCGUUAGUACGGCGAUCAGUGAUGGCGCUGGAACCCGGGGUGCUGCAAUC",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "srRNA1",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi",
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693,
+                5693
+            ],
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "GUGGAAAUGCGGCCAGGUGACCAAUCAAUCCUCCCACGGUGAGCUUUCUUUUCACCAUAAUCCACUUGGGCCUUUCGAGUUGUUCGGAACGGGGGCUCAAGAUUGAAAAAUGCAGUUGUGAGUUCUAUUAAAGCAAAAACCUGGGG",
+            "entity_poly_seq_one_letter_code_can": "GUGGAAAUGCGGCCAGGUGACCAAUCAAUCCUCCCACGGUGAGCUUUCUUUUCACCAUAAUCCACUUGGGCCUUUCGAGUUGUUCGGAACGGGGGCUCAAGAUUGAAAAAUGCAGUUGUGAGUUCUAUUAAAGCAAAAACCUGGGG",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "srRNA2",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi",
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693,
+                5693
+            ],
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "GGUAUCGUGAGGGUAGUACGAGGUGUACUCCCAUGCCGU(OMG)CCUCUGGUUUCUGGAGUUUGUCGAACGGCAAGUGCUCCGACGCUAUCGCACGGUGGUUAGCCAGUCCCAAGACCAGAUGCCCA",
+            "entity_poly_seq_one_letter_code_can": "GGUAUCGUGAGGGUAGUACGAGGUGUACUCCCAUGCCGUGCCUCUGGUUUCUGGAGUUUGUCGAACGGCAAGUGCUCCGACGCUAUCGCACGGUGGUUAGCCAGUCCCAAGACCAGAUGCCCA",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "RNA LARGE SUBUNIT ALPHA",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "CAGACCUGAGUGUGGCAGGACUACCCGCCGAACUUAAGCAUAUUACUAAGCGGAGGAAAAGAAAACAACCGUGAUUCUCUCAGUCAGCGGCGAGCGAAGAGGGAUCCAACUCGUUGCCGAAUCGGUUCUUAUAGGAACUUGAGUUGUGGCAAUGGUGCAGGAAUGGUGAAAUUCAAAGCAAACCCGUUGCUACAUCAUGUGAGUAUUGAGCCAAAGAAGGUGUUAGCCCAUUGAGCCAUGAACCUAAGAGAGUAGCACUGCUUGGGAGUGCAGUGUCAAGCUGG(OMC)AGGUAUGUGUCUGCCAAAGUUAAAUACAGAGUAGGAAGACCGAUAGCGAACAAGUAGCGUGAGCGAAAGUUUGAAAAGC(A2M)CUUUGGAAAGAGAGUGACAUAGACCUGAAGUCGUGACAAUAAUGGAAGUACCUCCAUUUCGCCAAAACCAGCCUCUACUGAGCAAGAACGAGGUCAUGGUUUUGGCGGAAAUGGGGUGCCCCCACCCGUCUUGA(A2M)A(OMC)(A2M)CGGACCAAGGAGU(OMC)A(A2M)ACAGACGCGCAAGGGAGAAGAUAUCAGUACUUCUCUCGUACUGAAAGGGAGAUUGUGGUGUGCACACUUGC(OMC)CAACACC(OMG)ACC(7MG)GCCCCGGGUUGAGUUGGAGUGU(OMG)CCUG(OMU)UUGGACCC(OMG)A(A2M)AGGUGGUGAACUAUGCCUGAACAAGGUGAAGCCCGGGGAAACUCGGGUGGAGGCCUGUAGCGAUGCUG(A2M)C(7MG)UGCAAAU(OMC)GCUCGCAUGAUUUGGGU(A2M)U(5MC)G(OMG)AGCGAAAGACUCAUCGAACCACCUAGUAGCUGGUUCACAUCGAAGUUUCCC(OMU)CAGGAUAGCUGGUGCUUGAAAAAGUAUUGUGCGGUAAAGCUUUAAA(OMU)GUGCAACUUGCCAAAGCAAGGUAUUAAGGCACCAAGUGGGCCUUCUUCGGUAAGC(OMG)GAGCAGGCGAUGCGGAAUGAACCGCUUAGGGAUAUGUGGCGUCAAAACUUAUGGGCUCACGAACAAUGGA(OMU)GACGCUCAAGCCCAAUUAGUGCC(5MC)AUUAUUCCUUUGGUAAGGGCGAGAAAGUGUAGCCCUUCCGAUGUAGAUGUGGCGUGGAGGUAAGGACGAAGCUGAUGGCGUGAGCCUCAGAUGGACCAGCCUCUAGUGCA(OMG)AU(OMC)UUGGUUGGCGU(A2M)(OMG)CAAAGAUCUAACGGAAC(OMG)UUGGAUACUGGAGC(7MG)GGGAAGGAUUUCGUGCCAACGGCACUCGUACACGAGUUGUUCGGAUACUGAGCACAACGUUACACCGUUUUUAGGA(A2M)AAGGGGCAACAGAGAACCUGGGAUUAUAUUCCAAAAAGAAAUUGCAUG",
+            "entity_poly_seq_one_letter_code_can": "CAGACCUGAGUGUGGCAGGACUACCCGCCGAACUUAAGCAUAUUACUAAGCGGAGGAAAAGAAAACAACCGUGAUUCUCUCAGUCAGCGGCGAGCGAAGAGGGAUCCAACUCGUUGCCGAAUCGGUUCUUAUAGGAACUUGAGUUGUGGCAAUGGUGCAGGAAUGGUGAAAUUCAAAGCAAACCCGUUGCUACAUCAUGUGAGUAUUGAGCCAAAGAAGGUGUUAGCCCAUUGAGCCAUGAACCUAAGAGAGUAGCACUGCUUGGGAGUGCAGUGUCAAGCUGGCAGGUAUGUGUCUGCCAAAGUUAAAUACAGAGUAGGAAGACCGAUAGCGAACAAGUAGCGUGAGCGAAAGUUUGAAAAGCACUUUGGAAAGAGAGUGACAUAGACCUGAAGUCGUGACAAUAAUGGAAGUACCUCCAUUUCGCCAAAACCAGCCUCUACUGAGCAAGAACGAGGUCAUGGUUUUGGCGGAAAUGGGGUGCCCCCACCCGUCUUGAAACACGGACCAAGGAGUCAAACAGACGCGCAAGGGAGAAGAUAUCAGUACUUCUCUCGUACUGAAAGGGAGAUUGUGGUGUGCACACUUGCCCAACACCGACCGGCCCCGGGUUGAGUUGGAGUGUGCCUGUUUGGACCCGAAAGGUGGUGAACUAUGCCUGAACAAGGUGAAGCCCGGGGAAACUCGGGUGGAGGCCUGUAGCGAUGCUGACGUGCAAAUCGCUCGCAUGAUUUGGGUAUCGGAGCGAAAGACUCAUCGAACCACCUAGUAGCUGGUUCACAUCGAAGUUUCCCUCAGGAUAGCUGGUGCUUGAAAAAGUAUUGUGCGGUAAAGCUUUAAAUGUGCAACUUGCCAAAGCAAGGUAUUAAGGCACCAAGUGGGCCUUCUUCGGUAAGCGGAGCAGGCGAUGCGGAAUGAACCGCUUAGGGAUAUGUGGCGUCAAAACUUAUGGGCUCACGAACAAUGGAUGACGCUCAAGCCCAAUUAGUGCCCAUUAUUCCUUUGGUAAGGGCGAGAAAGUGUAGCCCUUCCGAUGUAGAUGUGGCGUGGAGGUAAGGACGAAGCUGAUGGCGUGAGCCUCAGAUGGACCAGCCUCUAGUGCAGAUCUUGGUUGGCGUAGCAAAGAUCUAACGGAACGUUGGAUACUGGAGCGGGGAAGGAUUUCGUGCCAACGGCACUCGUACACGAGUUGUUCGGAUACUGAGCACAACGUUACACCGUUUUUAGGAAAAGGGGCAACAGAGAACCUGGGAUUAUAUUCCAAAAAGAAAUUGCAUG",
+            "entity_poly_seq_length": 1278,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "5.8S rRNA",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "AACGUG(OMU)CGCGAUGGAUGACUUGGCUUCCUAUUUCGUUGAA(7MG)(A2M)ACGCAGCAAAGUGCGAUAAGUGGUAUCAAUU(OMG)CAGAAUCAUUCAAUUACCGAAUCUUUGAA(OMC)GCAAACGGCGCA(OMU)GGGAGAAGCUCCCCGGAGUCAUCCCCGUGCAUGCCAUAUUUCUC(A2M)GU(OMG)UCG",
+            "entity_poly_seq_one_letter_code_can": "AACGUGUCGCGAUGGAUGACUUGGCUUCCUAUUUCGUUGAAGAACGCAGCAAAGUGCGAUAAGUGGUAUCAAUUGCAGAAUCAUUCAAUUACCGAAUCUUUGAACGCAAACGGCGCAUGGGAGAAGCUCCCCGGAGUCAUCCCCGUGCAUGCCAUAUUUCUCAGUGUCG",
+            "entity_poly_seq_length": 169,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "srRNA3",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693
+            ],
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "CGAAUCGCCACUUCUCUCGGCGCCAAGUACCUUCAUAUUCACAAGA",
+            "entity_poly_seq_one_letter_code_can": "CGAAUCGCCACUUCUCUCGGCGCCAAGUACCUUCAUAUUCACAAGA",
+            "entity_poly_seq_length": 46,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5T5H",
+            "rcsb_pdbx_description": "srRNA4",
+            "rcsb_source_organism_description": [
+                "Trypanosoma cruzi",
+                "Trypanosoma cruzi"
+            ],
+            "rcsb_source_organism_id": [
+                5693,
+                5693
+            ],
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "CACGUCCCUCUCCAAACGAGAGAACAUGCAUGGGCUGGCAUGAGCGCGUGGGGCCCCGAGGCGCUGAACCUUGAGGCCUCAUGCUGGGACU",
+            "entity_poly_seq_one_letter_code_can": "CACGUCCCUCUCCAAACGAGAGAACAUGCAUGGGCUGGCAUGAGCGCGUGGGGCCCCGAGGCGCUGAACCUUGAGGCCUCAUGCUGGGACU",
+            "entity_poly_seq_length": 91,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

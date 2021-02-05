@@ -1,0 +1,2746 @@
+{
+    "rcsb_id": "6Z1P",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.7,
+    "rcsb_external_ref_id": [
+        "EMD-11032"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-11032"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.7,
+    "cryoem_exp_num_particles": 99300,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Tobiasson, V.",
+        "Amunts, A."
+    ],
+    "citation_title": "Ciliate mitoribosome illuminates evolutionary steps of mitochondrial translation.",
+    "citation_pdbx_doi": "10.7554/eLife.59264",
+    "pdbx_keywords_text": "Mitochondrial ribosome, ribosome, mitochondria, ciliate, tetrahymena",
+    "_organismId": [
+        312017
+    ],
+    "_organismName": [
+        "Tetrahymena thermophila (strain SB210)"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951A9"
+            ],
+            "rcsb_pdbx_description": "Ymf60",
+            "entity_poly_strand_id": "Ag",
+            "entity_poly_seq_one_letter_code": "MKRNILFIPFNISYSYIEKNNNTVKFLYLYNNDYFFSINFNEKQSIVINEDTNTIVVETRNFNNKINLFNNEFNKFIYSWDNFFFNKIKFTGKGFKWKKKETNLFLFFNRAHKCFFIGNNIILKRLSKSKVILLKNNYNHLIHDSILVRTIRSNNIFTKRGLRFSRQIILKKKGKTASQ",
+            "entity_poly_seq_one_letter_code_can": "MKRNILFIPFNISYSYIEKNNNTVKFLYLYNNDYFFSINFNEKQSIVINEDTNTIVVETRNFNNKINLFNNEFNKFIYSWDNFFFNKIKFTGKGFKWKKKETNLFLFFNRAHKCFFIGNNIILKRLSKSKVILLKNNYNHLIHDSILVRTIRSNNIFTKRGLRFSRQIILKKKGKTASQ",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "bL7/12m",
+            "entity_poly_strand_id": "Ai",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 61,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951C0"
+            ],
+            "rcsb_pdbx_description": "Ymf76",
+            "entity_poly_strand_id": "Be",
+            "entity_poly_seq_one_letter_code": "MFLVKFKIKKLRLKKKIKKFYKLINYNFSNLLNNFYHKKPNFLTLYNNTNNFFLKILFYIKYINLISKTISNKKLFKFLNNPKIRNRKKFKYKYSDKIKFILNILKSKKTKIKNLLFFIKYFSVLRKRQSRIFNLARVKSRLSKRRFFKKKLKKKKIAKYFFQMFKKLKFKHKKYINLINLDFYFIRNKRFFRLHRLYDIRKKYIRYLNNNRNIYKFYKFRIKHNFKFIKRHIKSISKLSIKDRVHFYELSLRNIAIKLKYAFTLRNANLFTKSGFIFLNGHQELNPFKYAYKGDIIELPFSKFILKLRRKMKKKMFNSMRKYKKYNWRTLKNKVNPEQRRLRISRFSENTLNFKTKLTKLFQYDYRTLSYCVVLDTNFKRDLTYLNKKLIPIYLLKLFNWKIIS",
+            "entity_poly_seq_one_letter_code_can": "MFLVKFKIKKLRLKKKIKKFYKLINYNFSNLLNNFYHKKPNFLTLYNNTNNFFLKILFYIKYINLISKTISNKKLFKFLNNPKIRNRKKFKYKYSDKIKFILNILKSKKTKIKNLLFFIKYFSVLRKRQSRIFNLARVKSRLSKRRFFKKKLKKKKIAKYFFQMFKKLKFKHKKYINLINLDFYFIRNKRFFRLHRLYDIRKKYIRYLNNNRNIYKFYKFRIKHNFKFIKRHIKSISKLSIKDRVHFYELSLRNIAIKLKYAFTLRNANLFTKSGFIFLNGHQELNPFKYAYKGDIIELPFSKFILKLRRKMKKKMFNSMRKYKKYNWRTLKNKVNPEQRRLRISRFSENTLNFKTKLTKLFQYDYRTLSYCVVLDTNFKRDLTYLNKKLIPIYLLKLFNWKIIS",
+            "entity_poly_seq_length": 405,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M4A2"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S9",
+            "entity_poly_strand_id": "Bi",
+            "entity_poly_seq_one_letter_code": "MMLIRKSLAISQTQNILKGLFSVRNSKAAQHQIRSRNFFEVDPIFPDGKDDESKLYRDFERTKFGSNQRDQRIIFERHTSHMMKRINQSLEREEKIKKLKGRQYKKQKEEVQAIAENVFLDEETKLPYGIGLDDYIELIKEESITTKTGQFYSTLEVICRKIGAYNDVELVKLYQFILAEKVADSFKNEARQFLLKRLIQEIQKLGWNSQQAKSKLSSYLDSSKASNEFVENALKEGNSEGFAQTISTLFKEELISQEAKNRAITNIQEKIRFNTNLKRVKQPPRRIDQDDPFFSEESDSESNFSEPLFNFEDKKATVKDLVDPFITQGRKQLETQLIWAKVKQNYYDNKRKFYKEKMYTEEDKSKEVVKKDMTLNVIDFLIDSKDEQEIKTILDKYNLVDEVIPKPEFKEILKNIDYLVDQASTSIKVQIAKEKNQNKDLYFRGNFLQENLKPEDLMWKHFHNNFVSIFPESMPEQEQISQSVQNENDIRFHPKELDIVDYGSSNSKEQENRKRGERDLSKDNQIEIELYRRIKTDPFFRHYIQNEIKYFTERIEDGVLDIAQVIVPADRKNDTPFYYDPTLEDIPLDLIDDEQLRMKYQKLKKEKDQGIKVFASGKRKTSSCLVVIKEGTGKVFVNNEIFYRYFTHSYNRNIALKPMLLSTQYCEYDLHFYVRGGGVMGQSHACQIALARGLTQIHPNLRPIFMKFDLLRTDYRQKERKKTGRYKARKAHTYVRR",
+            "entity_poly_seq_one_letter_code_can": "MMLIRKSLAISQTQNILKGLFSVRNSKAAQHQIRSRNFFEVDPIFPDGKDDESKLYRDFERTKFGSNQRDQRIIFERHTSHMMKRINQSLEREEKIKKLKGRQYKKQKEEVQAIAENVFLDEETKLPYGIGLDDYIELIKEESITTKTGQFYSTLEVICRKIGAYNDVELVKLYQFILAEKVADSFKNEARQFLLKRLIQEIQKLGWNSQQAKSKLSSYLDSSKASNEFVENALKEGNSEGFAQTISTLFKEELISQEAKNRAITNIQEKIRFNTNLKRVKQPPRRIDQDDPFFSEESDSESNFSEPLFNFEDKKATVKDLVDPFITQGRKQLETQLIWAKVKQNYYDNKRKFYKEKMYTEEDKSKEVVKKDMTLNVIDFLIDSKDEQEIKTILDKYNLVDEVIPKPEFKEILKNIDYLVDQASTSIKVQIAKEKNQNKDLYFRGNFLQENLKPEDLMWKHFHNNFVSIFPESMPEQEQISQSVQNENDIRFHPKELDIVDYGSSNSKEQENRKRGERDLSKDNQIEIELYRRIKTDPFFRHYIQNEIKYFTERIEDGVLDIAQVIVPADRKNDTPFYYDPTLEDIPLDLIDDEQLRMKYQKLKKEKDQGIKVFASGKRKTSSCLVVIKEGTGKVFVNNEIFYRYFTHSYNRNIALKPMLLSTQYCEYDLHFYVRGGGVMGQSHACQIALARGLTQIHPNLRPIFMKFDLLRTDYRQKERKKTGRYKARKAHTYVRR",
+            "entity_poly_seq_length": 737,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "Methionine sulfoxide reduction is an important process, by which cells regulate biological processes and cope with oxidative stress. MsrA, a protein involved in the reduction of methionine sulfoxides in proteins, has been known for four decades and has been extensively characterised with respect to structure and function. However, recent studies revealed that MsrA is only specific for methionine-S-sulfoxides. Because oxidised methionines occur in a mixture of R and S isomers in vivo, it was unclear how stereo-specific MsrA could be responsible for the reduction of all protein methionine sulfoxides. It appears that a second methionine sulfoxide reductase, SelR , evolved that is specific for methionine-R-sulfoxides, the activity that is different but complementary to that of MsrA. Thus, these proteins, working together, could reduce both stereoisomers of methionine sulfoxide. This domain is found both in SelR proteins and fused with the peptide methionine sulfoxide reductase enzymatic domain Pfam:PF01625. The domain has two conserved cysteine and histidines. The domain binds both selenium and zinc [2]. The final cysteine is found to be replaced by the rare amino acid selenocysteine in some members of the family [1]. This family has methionine-R-sulfoxide reductase activity [2]."
+            ],
+            "pfam_descriptions": [
+                "SelR domain"
+            ],
+            "pfam_accessions": [
+                "PF01641"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22W57"
+            ],
+            "rcsb_pdbx_description": "SelR domain protein",
+            "entity_poly_strand_id": "BL",
+            "entity_poly_seq_one_letter_code": "MRKDIKQKLLRIKKKKKKDKKQSQIKNIKFLLILTQYQQGLQSQSKDQKYKSIIKYNRIKLEFMRSVIQQTWKYQSLVSKYMRYNFSSAVHAEPIATTQSANNQEKKSNKNADQPIKEVVQKEFKINRLNYTPHEYWITQGMGMERPFTGDKWFEKDVGYYHCTVCSTKLFTWDHKFQTPNGMTSFWHHEKNAVKVVENTNGIQESFINLESTPSQINQNAQKQRVCCSKCQSNLGLVFFDGPPPTFKRFSISSAAIKFIKKEHWENPHLVSRKRKFKLNTEKEVERKREVLKSQQQDIVANSSSSQTQN",
+            "entity_poly_seq_one_letter_code_can": "MRKDIKQKLLRIKKKKKKDKKQSQIKNIKFLLILTQYQQGLQSQSKDQKYKSIIKYNRIKLEFMRSVIQQTWKYQSLVSKYMRYNFSSAVHAEPIATTQSANNQEKKSNKNADQPIKEVVQKEFKINRLNYTPHEYWITQGMGMERPFTGDKWFEKDVGYYHCTVCSTKLFTWDHKFQTPNGMTSFWHHEKNAVKVVENTNGIQESFINLESTPSQINQNAQKQRVCCSKCQSNLGLVFFDGPPPTFKRFSISSAAIKFIKKEHWENPHLVSRKRKFKLNTEKEVERKREVLKSQQQDIVANSSSSQTQN",
+            "entity_poly_seq_length": 310,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS88",
+            "entity_poly_strand_id": "BT",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)AAAA(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXAAAAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 297,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22EB6"
+            ],
+            "rcsb_pdbx_description": "mS89",
+            "entity_poly_strand_id": "BU",
+            "entity_poly_seq_one_letter_code": "MMNRNLFKLLQLSTKSVSFNCTKLNYKFATFPSKEQMRFQKNMGYNGFQPNIAFKDDLYFPLDNPVQRQGLEDLINHIKVNPNLAIEGRGLCTILYIIAREGKDEPFIFKELERHLYKFKENLSPRLSFGGLYASYKSNLASPYQVSFFEDEFTRNSQQINAYEAIEILQTMFENTTKVNEHKIQYFHQSVKPIIVSNFSKQVRPYTGNLLKLFIGLRNMNIYDEELHELILKYLPYRRGLNNVKDIAEVYETLCDYKEKGILKQNIDAHIEALEKKLTTKDDCRWRYNLKEKRFYTYDELIANRDNYTIKDQLNHKYRFSNPELIEKFNLVQSDKDAIKAELEARERSRELENLVLEMFELKNRGEVAQTEDKNTLKGTYENVIFVKEGEELEEEEGAEEIDNEPAEEVDEGLDFDLKSSNKPKVKKEKGQKQKNKNN",
+            "entity_poly_seq_one_letter_code_can": "MMNRNLFKLLQLSTKSVSFNCTKLNYKFATFPSKEQMRFQKNMGYNGFQPNIAFKDDLYFPLDNPVQRQGLEDLINHIKVNPNLAIEGRGLCTILYIIAREGKDEPFIFKELERHLYKFKENLSPRLSFGGLYASYKSNLASPYQVSFFEDEFTRNSQQINAYEAIEILQTMFENTTKVNEHKIQYFHQSVKPIIVSNFSKQVRPYTGNLLKLFIGLRNMNIYDEELHELILKYLPYRRGLNNVKDIAEVYETLCDYKEKGILKQNIDAHIEALEKKLTTKDDCRWRYNLKEKRFYTYDELIANRDNYTIKDQLNHKYRFSNPELIEKFNLVQSDKDAIKAELEARERSRELENLVLEMFELKNRGEVAQTEDKNTLKGTYENVIFVKEGEELEEEEGAEEIDNEPAEEVDEGLDFDLKSSNKPKVKKEKGQKQKNKNN",
+            "entity_poly_seq_length": 439,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "bL7/12m",
+            "entity_poly_strand_id": "Aj",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 69,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7/L12 C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF00542"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q24IM4"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L7/L12 carboxy-terminal domain protein",
+            "entity_poly_strand_id": "Ak",
+            "entity_poly_seq_one_letter_code": "K(UNK)FEREWQKIQRETEDKQRQALDAELTPAQKKRVEFIADAFIELNIMEIAYLNHTLKERLIKTTGLSPLKVNIDWPSLKQLENGSWPPANPNWFLQQEAIAKLWP",
+            "entity_poly_seq_one_letter_code_can": "KXFEREWQKIQRETEDKQRQALDAELTPAQKKRVEFIADAFIELNIMEIAYLNHTLKERLIKTTGLSPLKVNIDWPSLKQLENGSWPPANPNWFLQQEAIAKLWP",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L9, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF01281"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q24C33"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L9, amine-terminal domain protein",
+            "entity_poly_strand_id": "Al",
+            "entity_poly_seq_one_letter_code": "MSLVYKVVRNFTRRNIQVLMLEDFPSVGFEGQIVNVKPGYARQALIPRNLAVYNFPGVRERLFPNIRQADIDQKTRYYRDLTNFQNKVDNINLEFFKVPSFANPALLKEEISKKDIIREVQNKFSIELKNENVFLEENIQRFGTYSINVRDFYNAELQRKFEFVMNVQVKQPIIREAREEKETKESKDAKKETKAAETKQAKGKESKSAKEKEDKTKGSKKSK",
+            "entity_poly_seq_one_letter_code_can": "MSLVYKVVRNFTRRNIQVLMLEDFPSVGFEGQIVNVKPGYARQALIPRNLAVYNFPGVRERLFPNIRQADIDQKTRYYRDLTNFQNKVDNINLEFFKVPSFANPALLKEEISKKDIIREVQNKFSIELKNENVFLEENIQRFGTYSINVRDFYNAELQRKFEFVMNVQVKQPIIREAREEKETKESKDAKKETKAAETKQAKGKESKSAKEKEDKTKGSKKSK",
+            "entity_poly_seq_length": 223,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B5"
+            ],
+            "rcsb_pdbx_description": "Ymf74",
+            "entity_poly_strand_id": "Am",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)MKFKREFKFLIKKKNFKFKKFKILLKIYYSIKNLINFYKIIKLNNFKIKSTLLINNNYYFNYITNGLDLKYDNTFQNFELNTLSIKNYKNKNLIISNNNQLDIIKFQKFLFIIDNKYVNSLICDNLFDFFFISIILTNSLILEFYKNIILINLIKIN",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXMKFKREFKFLIKKKNFKFKKFKILLKIYYSIKNLINFYKIIKLNNFKIKSTLLINNNYYFNYITNGLDLKYDNTFQNFELNTLSIKNYKNKNLIISNNNQLDIIKFQKFLFIIDNKYVNSLICDNLFDFFFISIILTNSLILEFYKNIILINLIKIN",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "The N-terminal domain of Ribosomal protein L11 adopts an  alpha/beta fold and is followed by the RNA binding C-terminal domain.",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L11, N-terminal domain",
+                "Ribosomal protein L11, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03946",
+                "PF00298"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "W7XH77"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L11, amine-terminal domain protein",
+            "entity_poly_strand_id": "An",
+            "entity_poly_seq_one_letter_code": "MAEIKAIINLRLLAGIAKPNPKMGQSLGPLGINMMHFCKDFNAATAHIRSDIPLRVQVAAKVDRSYSYIIKPPETSWLIKKVIMKEKLTQYAGHVNLDYIDVRYVYEIAKIKKEIDIDFKRATLESICNCIIGQCNSMGVNVSIIDEKPKPFNPKAKV",
+            "entity_poly_seq_one_letter_code_can": "MAEIKAIINLRLLAGIAKPNPKMGQSLGPLGINMMHFCKDFNAATAHIRSDIPLRVQVAAKVDRSYSYIIKPPETSWLIKKVIMKEKLTQYAGHVNLDYIDVRYVYEIAKIKKEIDIDFKRATLESICNCIIGQCNSMGVNVSIIDEKPKPFNPKAKV",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "W7X626"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "Ao",
+            "entity_poly_seq_one_letter_code": "MIGKNIVSKLGNLASNVHILNKQIASFSVWKNPTNYLPEKAKFPSPKELFPKDNENSWKTLNDLTPSLFKDVQGFKEKQVQRAAYMQIAKPNGQMYHIFDASKMPLGRMCQKIAFFLQGKHRPTFKNCDQVTYDNIIVVNAANIMLTGKKALLKTVKYHTGFVGGLKEKSYKFFLTEKPEQLVFYCISKMLPKNLKRRDLLKKVEIYRDFQHEKQGLPNFVPYTEKETFDQYFNPFVHNFEDLVIKFQSSKETPKELEGIKKEIDPEITLPFNQRSKIFKLNAHNRRVMKQWKMYYRRLRRYKVHKIKAPKNRDPNLSNKSFMITSDRQIKDFNLHNRIVPEEVPEDDDEIMRTIPRQGGGSATAGPAKPAGGNANAGAAAAKGGKQGGKK",
+            "entity_poly_seq_one_letter_code_can": "MIGKNIVSKLGNLASNVHILNKQIASFSVWKNPTNYLPEKAKFPSPKELFPKDNENSWKTLNDLTPSLFKDVQGFKEKQVQRAAYMQIAKPNGQMYHIFDASKMPLGRMCQKIAFFLQGKHRPTFKNCDQVTYDNIIVVNAANIMLTGKKALLKTVKYHTGFVGGLKEKSYKFFLTEKPEQLVFYCISKMLPKNLKRRDLLKKVEIYRDFQHEKQGLPNFVPYTEKETFDQYFNPFVHNFEDLVIKFQSSKETPKELEGIKKEIDPEITLPFNQRSKIFKLNAHNRRVMKQWKMYYRRLRRYKVHKIKAPKNRDPNLSNKSFMITSDRQIKDFNLHNRIVPEEVPEDDDEIMRTIPRQGGGSATAGPAKPAGGNANAGAAAAKGGKQGGKK",
+            "entity_poly_seq_length": 391,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q950Y1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L14",
+            "entity_poly_strand_id": "Ap",
+            "entity_poly_seq_one_letter_code": "MVQKETNLKPIDKCGVWSVRVFHLYGGSFRKHSYISNFVKISVKKTRPNNWVPKKTKLKAILVTAKNELKKIDGSYVKFRSINTVLLKKRLTPKGKILMGPVSVSLKRKKFLSSFCGSI",
+            "entity_poly_seq_one_letter_code_can": "MVQKETNLKPIDKCGVWSVRVFHLYGGSFRKHSYISNFVKISVKKTRPNNWVPKKTKLKAILVTAKNELKKIDGSYVKFRSINTVLLKKRLTPKGKILMGPVSVSLKRKKFLSSFCGSI",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MF78"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L15, putative",
+            "entity_poly_strand_id": "Aq",
+            "entity_poly_seq_one_letter_code": "MNLLLKASQYISRNSFPVNNIRSLLQGSVYSFSSCIKQRPNDVPTHRNELLPFTLNNLWNNPGYRRKAKKLGRGIGSGKGKTAGKGTNGHNSRSGGGVSPRFEGGQTPWFRRLPKLGITRINKERPKAINMSLIMYAIHKGRIDSTKPITIKVLHDAGVFSTAKYGVKLVGRGLKTIDRPLHFEVSDASENVIKAIKEKGGSVKCIYRTPLQIREHVFPQNYPINLRSTIPPKRIVKKMENIRERGAEVEFNVPKWHEQNVKEILEDKKIKEEEFNLPVPRFPGSGKDKIRIRKPILPKQINFKI",
+            "entity_poly_seq_one_letter_code_can": "MNLLLKASQYISRNSFPVNNIRSLLQGSVYSFSSCIKQRPNDVPTHRNELLPFTLNNLWNNPGYRRKAKKLGRGIGSGKGKTAGKGTNGHNSRSGGGVSPRFEGGQTPWFRRLPKLGITRINKERPKAINMSLIMYAIHKGRIDSTKPITIKVLHDAGVFSTAKYGVKLVGRGLKTIDRPLHFEVSDASENVIKAIKEKGGSVKCIYRTPLQIREHVFPQNYPINLRSTIPPKRIVKKMENIRERGAEVEFNVPKWHEQNVKEILEDKKIKEEEFNLPVPRFPGSGKDKIRIRKPILPKQINFKI",
+            "entity_poly_seq_length": 305,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951A0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L16",
+            "entity_poly_strand_id": "Ar",
+            "entity_poly_seq_one_letter_code": "MRFKNLSNTKQVSFKLRNFKKTTKYRLVFGNSMILLYKNARFESIYFELFRKYIKVISKKKNININYRNCWIFLRMNTPLTKKSKNSRMGKGKGALYRWLVRLPKHYKLLEFKNVNYYRLNFLTKKWSKRLSLPLAFVSKANL",
+            "entity_poly_seq_one_letter_code_can": "MRFKNLSNTKQVSFKLRNFKKTTKYRLVFGNSMILLYKNARFESIYFELFRKYIKVISKKKNININYRNCWIFLRMNTPLTKKSKNSRMGKGKGALYRWLVRLPKHYKLLEFKNVNYYRLNFLTKKWSKRLSLPLAFVSKANL",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "A4VE95"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "As",
+            "entity_poly_seq_one_letter_code": "MGGLANNGHKVYKLGRAHSQRFHLIRTQLTQLVMHERITTTKTKCKHLKPYAERLLLNAMRVAKTNSNQSRSFLQSFLTTSLARRKIVKEIAARLGDKNNNFINVRFLSERRKGDKAEMGYIEIKGNELENYEKSLEREQIEKGEVPDLKAFKEKVFKQERDFLALKLKEAEENINLKKLEDVVLLEKGKIDVAEFNRREKAAAATKAFFESKLKQVEHDLFICNKNKYDLIKYVTY",
+            "entity_poly_seq_one_letter_code_can": "MGGLANNGHKVYKLGRAHSQRFHLIRTQLTQLVMHERITTTKTKCKHLKPYAERLLLNAMRVAKTNSNQSRSFLQSFLTTSLARRKIVKEIAARLGDKNNNFINVRFLSERRKGDKAEMGYIEIKGNELENYEKSLEREQIEKGEVPDLKAFKEKVFKQERDFLALKLKEAEENINLKKLEDVVLLEKGKIDVAEFNRREKAAAATKAFFESKLKQVEHDLFICNKNKYDLIKYVTY",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M2I9"
+            ],
+            "rcsb_pdbx_description": "bL19m",
+            "entity_poly_strand_id": "At",
+            "entity_poly_seq_one_letter_code": "MFLRQQLQKGVFNFTQLVNQQSNSIVYRYKPQRSIFDKTSYIEDYVERPNKYHKSRKPKQVKWDDPNYTWPPVYPHPTRLEGRALIKEVEQREKLAIDRQREFKIPDFRAGDIIQFHFLKSISEGYGNTVTGMCTARYKNNSLMAGFDCVFRFHGVEVFMHVKQNSPLLVDLKVVDKSYGSIRQKLNYFWDDRTNTEQELKKAIVKGGHKKGKRTDIYMERRHLEQSKSNVLDRSEDPVLNY",
+            "entity_poly_seq_one_letter_code_can": "MFLRQQLQKGVFNFTQLVNQQSNSIVYRYKPQRSIFDKTSYIEDYVERPNKYHKSRKPKQVKWDDPNYTWPPVYPHPTRLEGRALIKEVEQREKLAIDRQREFKIPDFRAGDIIQFHFLKSISEGYGNTVTGMCTARYKNNSLMAGFDCVFRFHGVEVFMHVKQNSPLLVDLKVVDKSYGSIRQKLNYFWDDRTNTEQELKKAIVKGGHKKGKRTDIYMERRHLEQSKSNVLDRSEDPVLNY",
+            "entity_poly_seq_length": 242,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q235I3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "Au",
+            "entity_poly_seq_one_letter_code": "MTGFSREKYRKLARGFFGRNKNCLRTMAPRVDKALRYSFRDRRARRRIYRKEWIQTINAAVREHNTPYNRFIWALNQSNIILDRKILSNLAINEPFSFKAVLDEVRIQAQLQSKPHPRIINPIEAYAKKLIIDGALKPVQTQVEEPLPYLFGKRQNVEEIKKKYQAQVHN",
+            "entity_poly_seq_one_letter_code_can": "MTGFSREKYRKLARGFFGRNKNCLRTMAPRVDKALRYSFRDRRARRRIYRKEWIQTINAAVREHNTPYNRFIWALNQSNIILDRKILSNLAINEPFSFKAVLDEVRIQAQLQSKPHPRIINPIEAYAKKLIIDGALKPVQTQVEEPLPYLFGKRQNVEEIKKKYQAQVHN",
+            "entity_poly_seq_length": 170,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LVD3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "Av",
+            "entity_poly_seq_one_letter_code": "MIIANKLFSNLAKTQVKQFAFHNYITAAFGRAKPKVNHHTPFEEKDYSELKIYDDERLMDKQYKRIRDEYQKAAVKKEHRRERIEQIKAERPEIPPEDQKLVIHDPQIGIQYPAIENQIFAVVEILGFQYKVAQDDILTIDWLSEYDINDQVVFDNVLLVGTTDYTSIGRPYISTAKVYATVEEQTQGEKVLGLHMRRRKTSRKSWGHRQKMTVLRIDRIEHNLGEKELTKAVSL",
+            "entity_poly_seq_one_letter_code_can": "MIIANKLFSNLAKTQVKQFAFHNYITAAFGRAKPKVNHHTPFEEKDYSELKIYDDERLMDKQYKRIRDEYQKAAVKKEHRRERIEQIKAERPEIPPEDQKLVIHDPQIGIQYPAIENQIFAVVEILGFQYKVAQDDILTIDWLSEYDINDQVVFDNVLLVGTTDYTSIGRPYISTAKVYATVEEQTQGEKVLGLHMRRRKTSRKSWGHRQKMTVLRIDRIEHNLGEKELTKAVSL",
+            "entity_poly_seq_length": 235,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23CT9"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L22/L17e",
+            "entity_poly_strand_id": "Aw",
+            "entity_poly_seq_one_letter_code": "MITRSLKQFNKSMLLSFRPIYSMRSYNQTIVENQKVFKNTVNDREYYELKNTYGDYEEAKKAKELERKKNISQLQINNLSQNDKNPANFLKVKINSNVYTNEEKNQQVISQYTFKNPQEYTDPVVLKVLPREPLVTVESYTKSVENSIKRLFLPARAIRKQHAYDALSILSNIHSKASEQIAQAIAKTISVAKLKEMDLNRLFIHGVIIGRKKKRMGLRYHARGRFGIKHRQTSTIKVILYEKPVKQLYREMLEGKTAPVLAYAMRQRMVSENADYDEIRENQWVLTSKGRQQRKLMLKRKVLIQYLQFKAKGFIVDKNLIKQRILEKEATAWAQKYEDKKASQVDSSLEKRMAIFKKNQEITG",
+            "entity_poly_seq_one_letter_code_can": "MITRSLKQFNKSMLLSFRPIYSMRSYNQTIVENQKVFKNTVNDREYYELKNTYGDYEEAKKAKELERKKNISQLQINNLSQNDKNPANFLKVKINSNVYTNEEKNQQVISQYTFKNPQEYTDPVVLKVLPREPLVTVESYTKSVENSIKRLFLPARAIRKQHAYDALSILSNIHSKASEQIAQAIAKTISVAKLKEMDLNRLFIHGVIIGRKKKRMGLRYHARGRFGIKHRQTSTIKVILYEKPVKQLYREMLEGKTAPVLAYAMRQRMVSENADYDEIRENQWVLTSKGRQQRKLMLKRKVLIQYLQFKAKGFIVDKNLIKQRILEKEATAWAQKYEDKKASQVDSSLEKRMAIFKKNQEITG",
+            "entity_poly_seq_length": 364,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22EY1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L23, putative",
+            "entity_poly_strand_id": "Ax",
+            "entity_poly_seq_one_letter_code": "MNNIVRLPKNLNILKDPKAFKNYCLNPLGLTAQKTSNFPKEQKVEKFCNWEMVVHRGEKPLENNTVVLKCDPKLAKPEIKQYLTKLYGLELNKVNTVRYTGKLKNSILRKTFKTKDFKKVYAVLKTEVEPFYQKIETM",
+            "entity_poly_seq_one_letter_code_can": "MNNIVRLPKNLNILKDPKAFKNYCLNPLGLTAQKTSNFPKEQKVEKFCNWEMVVHRGEKPLENNTVVLKCDPKLAKPEIKQYLTKLYGLELNKVNTVRYTGKLKNSILRKTFKTKDFKKVYAVLKTEVEPFYQKIETM",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q24C34"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "Ay",
+            "entity_poly_seq_one_letter_code": "MFKVLSSLSRAAVALPSIRNTINISKMIGFQRQIMLNNINSFSFSQTAAVTNKKGNIIGSQQIPFDRWRIVRGDKVVVISGKDQGKTGTVIRVYRKTNRVLVEGINVKLKRVAGNAQDESKGSIHKKIHSIHVSKVSLIDPETGKATRIRFGYLEDGKKIRISTKSGSIIEKPFDHGWKRENRNKNKVDGMLDTPAEKVLQVTYKGEDFDTIKRDFEKYIQEKERKEKLLVFKD",
+            "entity_poly_seq_one_letter_code_can": "MFKVLSSLSRAAVALPSIRNTINISKMIGFQRQIMLNNINSFSFSQTAAVTNKKGNIIGSQQIPFDRWRIVRGDKVVVISGKDQGKTGTVIRVYRKTNRVLVEGINVKLKRVAGNAQDESKGSIHKKIHSIHVSKVSLIDPETGKATRIRFGYLEDGKKIRISTKSGSIIEKPFDHGWKRENRNKNKVDGMLDTPAEKVLQVTYKGEDFDTIKRDFEKYIQEKERKEKLLVFKD",
+            "entity_poly_seq_length": 234,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LVZ3"
+            ],
+            "rcsb_pdbx_description": "bL25m",
+            "entity_poly_strand_id": "Az",
+            "entity_poly_seq_one_letter_code": "MNIICNKLLSQRSINLFGFRPSCNFTIVGSQFDAQTEHVNKLALDLANKKYRKMALDQAVLRKEKVVVPAEFRTEKDSLISLKKELRSPVYIKGHTGIPDVDLIADNRQVFSIRRRLQFQNQSFYFKVGNEEFRCTYDHIQIHPMEKWLVYSKYRRYVVGKPNSIFLPINILPTFQNNAIVRGSEIVQLLDGIWVNSYNDEYPHSIVIDPENLSKIRPLRIGDIHNFLPDGVEIDKTKCLSLHQKVIKITGDKERKLDIALQNMKLMKEQVTVEEDEDFTLASEVKKAPKERKNVKVRSLKKQVQAISAQVKEKLAQQQAS",
+            "entity_poly_seq_one_letter_code_can": "MNIICNKLLSQRSINLFGFRPSCNFTIVGSQFDAQTEHVNKLALDLANKKYRKMALDQAVLRKEKVVVPAEFRTEKDSLISLKKELRSPVYIKGHTGIPDVDLIADNRQVFSIRRRLQFQNQSFYFKVGNEEFRCTYDHIQIHPMEKWLVYSKYRRYVVGKPNSIFLPINILPTFQNNAIVRGSEIVQLLDGIWVNSYNDEYPHSIVIDPENLSKIRPLRIGDIHNFLPDGVEIDKTKCLSLHQKVIKITGDKERKLDIALQNMKLMKEQVTVEEDEDFTLASEVKKAPKERKNVKVRSLKKQVQAISAQVKEKLAQQQAS",
+            "entity_poly_seq_length": 321,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M068"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "AA",
+            "entity_poly_seq_one_letter_code": "MTSNIVKAFQGLNNLTLKMNSSLFNKQQYFATKMQASSTQNGRDSIGRRLGIKKFGGEEVFPDDILARQRGFKWHAGQNTYVGKDHTIHSKVEGHVRFEKKYTDTNRKVVTVHVEPGQVRNQYNRPPPPFVYHPELYPERAVNNPAPTNFQVYKQTVQKVKRTDFRGSKVENANRNVVQIPQAYLEQQNHWEVKQDNGQNIIQAMQKLESKLLGIQYEPIIEDVQGEQEVEVSQQSK",
+            "entity_poly_seq_one_letter_code_can": "MTSNIVKAFQGLNNLTLKMNSSLFNKQQYFATKMQASSTQNGRDSIGRRLGIKKFGGEEVFPDDILARQRGFKWHAGQNTYVGKDHTIHSKVEGHVRFEKKYTDTNRKVVTVHVEPGQVRNQYNRPPPPFVYHPELYPERAVNNPAPTNFQVYKQTVQKVKRTDFRGSKVENANRNVVQIPQAYLEQQNHWEVKQDNGQNIIQAMQKLESKLLGIQYEPIIEDVQGEQEVEVSQQSK",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LU83"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L28",
+            "entity_poly_strand_id": "AB",
+            "entity_poly_seq_one_letter_code": "MFSLIKQIVAPVKLGNLIQRNFSIAKQEQLFQNFNQKDILNPHLVNSVLERNIQKRTERSQKGLFHGKQPKTGLQTCFSEKKSIRWWKVNVHEKYLWSDILQKKIRIQMSSKTLRTIDKYGGFDNYVLLTKPKNMDSLYGEYLRKLMMFKLKDPSFKIPYIQKSTPVKHEVQRRRKVFLKRPIVWYPKEIRNTDLTQLRMKLPHNMSRKELEDFKVMEDLNEHPERITMDHPIVKREYEKQMQELKALEPERQKIMERLERYRSKKTLEKIKEVCKQGLDEWENVQNVK",
+            "entity_poly_seq_one_letter_code_can": "MFSLIKQIVAPVKLGNLIQRNFSIAKQEQLFQNFNQKDILNPHLVNSVLERNIQKRTERSQKGLFHGKQPKTGLQTCFSEKKSIRWWKVNVHEKYLWSDILQKKIRIQMSSKTLRTIDKYGGFDNYVLLTKPKNMDSLYGEYLRKLMMFKLKDPSFKIPYIQKSTPVKHEVQRRRKVFLKRPIVWYPKEIRNTDLTQLRMKLPHNMSRKELEDFKVMEDLNEHPERITMDHPIVKREYEKQMQELKALEPERQKIMERLERYRSKKTLEKIKEVCKQGLDEWENVQNVK",
+            "entity_poly_seq_length": 289,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family represents the N-terminal region (approximately 8 residues) of the eukaryotic mitochondrial 39-S ribosomal protein L47 (MRP-L47). Mitochondrial ribosomal proteins (MRPs) are the counterparts of the cytoplasmic ribosomal proteins, in that they fulfil similar functions in protein biosynthesis. However, they are distinct in number, features and primary structure [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 39-S ribosomal protein L47 (MRP-L47)"
+            ],
+            "pfam_accessions": [
+                "PF06984"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22W36"
+            ],
+            "rcsb_pdbx_description": "39-S ribosomal protein L47",
+            "entity_poly_strand_id": "AC",
+            "entity_poly_seq_one_letter_code": "MNFLFRQTFNSIKTSFQATRSNTQLAAFTDLLNKKQADEKNQKVASGRAWYAAELRFKSNEELHKLWYVLLREKNALKSDNQYKFKVYDKIGQQGRLGKVKRSMARLLTVVNERKQIRENYRKHLEEEYVAKQREQYEKLLQEEQEKNKYQAYVPELTQKVLRAKYRDLKRGIDNTDYIKQAAEIEQSRAQLKQELEEKYDYKNKKLVDANQEVEDENSVIRSFSSGFLKQLEEGRVKISQEEVLRSHVKNWKMLNMKQRRVVLNFINARRARDAKSEFLKELNVFAQKVAHDNLLSRITKESTGKI",
+            "entity_poly_seq_one_letter_code_can": "MNFLFRQTFNSIKTSFQATRSNTQLAAFTDLLNKKQADEKNQKVASGRAWYAAELRFKSNEELHKLWYVLLREKNALKSDNQYKFKVYDKIGQQGRLGKVKRSMARLLTVVNERKQIRENYRKHLEEEYVAKQREQYEKLLQEEQEKNKYQAYVPELTQKVLRAKYRDLKRGIDNTDYIKQAAEIEQSRAQLKQELEEKYDYKNKKLVDANQEVEDENSVIRSFSSGFLKQLEEGRVKISQEEVLRSHVKNWKMLNMKQRRVVLNFINARRARDAKSEFLKELNVFAQKVAHDNLLSRITKESTGKI",
+            "entity_poly_seq_length": 307,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03947"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B6"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L2",
+            "entity_poly_strand_id": "Ac",
+            "entity_poly_seq_one_letter_code": "MFLKNYKPKTPTLRFKRDIFKMTPFIKKNNIFFIKNKNKSGRSTKGQIIVRHRGANKYNKHLSINVNRNQLTNLAIITSLNYINKNSCFIGLIKYSNNCLSYIKLANGLFIGNYTKSLDKPLNFSFNFRNILGSFIILNLAPKHSIFSNLISFNKKKSNYAKSAGTFLSIIKKIKEINLFILKLPTGEKKYFSGDSKATLGRNSNFLNKFTVTGKAGINRNKGWRSSVRGVAMNPVDHPHGGRTKTNQPEMSPWGWITKKNK",
+            "entity_poly_seq_one_letter_code_can": "MFLKNYKPKTPTLRFKRDIFKMTPFIKKNNIFFIKNKNKSGRSTKGQIIVRHRGANKYNKHLSINVNRNQLTNLAIITSLNYINKNSCFIGLIKYSNNCLSYIKLANGLFIGNYTKSLDKPLNFSFNFRNILGSFIILNLAPKHSIFSNLISFNKKKSNYAKSAGTFLSIIKKIKEINLFILKLPTGEKKYFSGDSKATLGRNSNFLNKFTVTGKAGINRNKGWRSSVRGVAMNPVDHPHGGRTKTNQPEMSPWGWITKKNK",
+            "entity_poly_seq_length": 262,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "bL32m",
+            "entity_poly_strand_id": "AD",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 36,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22L35"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "AE",
+            "entity_poly_seq_one_letter_code": "MAKNSILFKLVSSAGTGFFYLAKRNAKAEVIKKLSLRKFDPIINQYVVFNEAKLSSGKNRQSKK",
+            "entity_poly_seq_one_letter_code_can": "MAKNSILFKLVSSAGTGFFYLAKRNAKAEVIKKLSLRKFDPIINQYVVFNEAKLSSGKNRQSKK",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M803"
+            ],
+            "rcsb_pdbx_description": "bL35m",
+            "entity_poly_strand_id": "AF",
+            "entity_poly_seq_one_letter_code": "MFLLKKVGQALCKNTINVVKQQPLQQQSKQMIQSSFDFNSLIFMPYQTFAFAQFPKMFKTQYKKGRLSSRFRTKSSTWKRGPKTVLKAHKQSNHSALLKRIRIVGPSWDRKLKFKSANHRHQLRKKSRACLKRKRRARYAHPTDFKRLRRLIPSLKKASFKNNH",
+            "entity_poly_seq_one_letter_code_can": "MFLLKKVGQALCKNTINVVKQQPLQQQSKQMIQSSFDFNSLIFMPYQTFAFAQFPKMFKTQYKKGRLSSRFRTKSSTWKRGPKTVLKAHKQSNHSALLKRIRIVGPSWDRKLKFKSANHRHQLRKKSRACLKRKRRARYAHPTDFKRLRRLIPSLKKASFKNNH",
+            "entity_poly_seq_length": 164,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "W7XH61"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein",
+            "entity_poly_strand_id": "AG",
+            "entity_poly_seq_one_letter_code": "MKIKSALKKYCQHCYIVKRGKKVMIKCKIDPRHKQRQGFCSTQEMQGEQQQIIQNECLNQNMVNMDQIYIMSKIQNDCMMTYSISDLYNKIIQ",
+            "entity_poly_seq_one_letter_code_can": "MKIKSALKKYCQHCYIVKRGKKVMIKCKIDPRHKQRQGFCSTQEMQGEQQQIIQNECLNQNMVNMDQIYIMSKIQNDCMMTYSISDLYNKIIQ",
+            "entity_poly_seq_length": 93,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LT48"
+            ],
+            "rcsb_pdbx_description": "mL40",
+            "entity_poly_strand_id": "AH",
+            "entity_poly_seq_one_letter_code": "MSQFLAKAVRSDLTQLCSQTLRWNKKGKVNEATVQARKEKKRLKETNQFTGDYTGERPPHPWLSAKRLRSIMTQYQVFANKNRLNIKVDKKDAVEMKKQFEEIGAHEYYRMRTEQIINEKNNQVIDQINKEIETLPFNIYEEITKMPKDKIYNFNTDSNSPYILYFEQIARMFDEEHLTKLKVSQRLQKLAEDKLGEND",
+            "entity_poly_seq_one_letter_code_can": "MSQFLAKAVRSDLTQLCSQTLRWNKKGKVNEATVQARKEKKRLKETNQFTGDYTGERPPHPWLSAKRLRSIMTQYQVFANKNRLNIKVDKKDAVEMKKQFEEIGAHEYYRMRTEQIINEKNNQVIDQINKEIETLPFNIYEEITKMPKDKIYNFNTDSNSPYILYFEQIARMFDEEHLTKLKVSQRLQKLAEDKLGEND",
+            "entity_poly_seq_length": 199,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "Members of this family of proteins are components of the mitochondrial ribosome large subunit. They are also involved in apoptosis and cell cycle regulation."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L27"
+            ],
+            "pfam_accessions": [
+                "PF09809"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MG40"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L27",
+            "entity_poly_strand_id": "AI",
+            "entity_poly_seq_one_letter_code": "MENIFMQFARKQGQNSFRKRLGVYSYRMKHSQYHKKPGLIDLRTKEELKKQGVQGRYKIYRMERDSDRLFGQFSARSKFLFDSQRVPFLDIPDLTDFDLKPYVSVHTPRIEKEDIIKIIKLNDFTNPVNFNRYTQIDSLEAPKKVEKKAESSAQN",
+            "entity_poly_seq_one_letter_code_can": "MENIFMQFARKQGQNSFRKRLGVYSYRMKHSQYHKKPGLIDLRTKEELKKQGVQGRYKIYRMERDSDRLFGQFSARSKFLFDSQRVPFLDIPDLTDFDLKPYVSVHTPRIEKEDIIKIIKLNDFTNPVNFNRYTQIDSLEAPKKVEKKAESSAQN",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "The proteins in this family are located in the mitochondrion. The family includes ribosomal protein L51, and S25. This family also includes mitochondrial NADH-ubiquinone oxidoreductase B8 subunit (CI-B8) EC:1.6.5.3. It is not known whether all members of this family form part of the NADH-ubiquinone oxidoreductase and whether they are also all ribosomal proteins. Structurally related to thioredoxin-fold."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain"
+            ],
+            "pfam_accessions": [
+                "PF05047"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22RG0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L51/S25/CI-B8 domain protein",
+            "entity_poly_strand_id": "AJ",
+            "entity_poly_seq_one_letter_code": "MCSRGVFQLRKIQLQFCDFGGSSKGVRDFMNSDTVKEFMVKNPQIQFEFIMRRNKHPFLSAQYINGFVKDISLKNYERDDILDEFNRARQSFGRKALPFAGKKVYTARPSIQGKWTPLTWSTYPKVELQMVREIKEPQEEIQLVDNVNKNVELVNYKDFVHAFLKDKKINEEFNSQIVQ",
+            "entity_poly_seq_one_letter_code_can": "MCSRGVFQLRKIQLQFCDFGGSSKGVRDFMNSDTVKEFMVKNPQIQFEFIMRRNKHPFLSAQYINGFVKDISLKNYERDDILDEFNRARQSFGRKALPFAGKKVYTARPSIQGKWTPLTWSTYPKVELQMVREIKEPQEEIQLVDNVNKNVELVNYKDFVHAFLKDKKINEEFNSQIVQ",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LWM6"
+            ],
+            "rcsb_pdbx_description": "mL46",
+            "entity_poly_strand_id": "AK",
+            "entity_poly_seq_one_letter_code": "MIARIGLQLLNSTNKNLIGSVNMSEKSMASFSIIKKKKKSDNANDDKKRLEDNQQLLLDKFKQRKTTRYAQTKDGFRVDVGLVINRYPIFLNLEKYELDRMKYRTFYQKKYKRHMEIPEDLTDFNFKDPQMEAEETNIDNIATHFIDLGAGEKIEYCESSKYYRKVDPEVSDARSLQYAPCHRTYLLMKDPTINQYVFPTRPVLDREVLNEAKLLLWEKISNLKFQVSHTAVIPNFAARRDFYEHELSNPMNRNLKGVKTFYFIATHVQGIPWINPEVYQEYLWTPKRHFQNYVPKEYYEQFINAMHDV",
+            "entity_poly_seq_one_letter_code_can": "MIARIGLQLLNSTNKNLIGSVNMSEKSMASFSIIKKKKKSDNANDDKKRLEDNQQLLLDKFKQRKTTRYAQTKDGFRVDVGLVINRYPIFLNLEKYELDRMKYRTFYQKKYKRHMEIPEDLTDFNFKDPQMEAEETNIDNIATHFIDLGAGEKIEYCESSKYYRKVDPEVSDARSLQYAPCHRTYLLMKDPTINQYVFPTRPVLDREVLNEAKLLLWEKISNLKFQVSHTAVIPNFAARRDFYEHELSNPMNRNLKGVKTFYFIATHVQGIPWINPEVYQEYLWTPKRHFQNYVPKEYYEQFINAMHDV",
+            "entity_poly_seq_length": 309,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family of proteins have been identified as part of the mitochondrial large ribosomal subunit in yeast [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial large subunit ribosomal protein (Img2)"
+            ],
+            "pfam_accessions": [
+                "PF05046"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MAF1"
+            ],
+            "rcsb_pdbx_description": "Large subunit ribosomal protein",
+            "entity_poly_strand_id": "AL",
+            "entity_poly_seq_one_letter_code": "MRAAGKKLIQQQMILRPPHPRNMHPVTKEAQNRMTQPPKPLEFKLQDIPANQTPEQAMLPLGVNQIMPFSILRTHTGNLPVYRKYNHNRTSKRTIIRHIEGDINKFTEELSKVVSNAEIHVKVGRVEVNGLHKESIDFWLKRLGF",
+            "entity_poly_seq_one_letter_code_can": "MRAAGKKLIQQQMILRPPHPRNMHPVTKEAQNRMTQPPKPLEFKLQDIPANQTPEQAMLPLGVNQIMPFSILRTHTGNLPVYRKYNHNRTSKRTIIRHIEGDINKFTEELSKVVSNAEIHVKVGRVEVNGLHKESIDFWLKRLGF",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22KC0"
+            ],
+            "rcsb_pdbx_description": "mL53",
+            "entity_poly_strand_id": "AM",
+            "entity_poly_seq_one_letter_code": "MDAISIKIIIVKKLRTINIFFELVINQNLICLEKLYYCQYTSQIVSIDRQKYSKIYQMGKKRRVQVFTGSMLQPLYRYLLSAKIGVNPLDLHGQNIAKQIFLKCKQARPKYLQNDFNATLVQDNEAPASYFHAKFVNGYEQKWYLHKSTEEEINRNLKYFNYQIEMERNLQGHDDEYEDEETQL",
+            "entity_poly_seq_one_letter_code_can": "MDAISIKIIIVKKLRTINIFFELVINQNLICLEKLYYCQYTSQIVSIDRQKYSKIYQMGKKRRVQVFTGSMLQPLYRYLLSAKIGVNPLDLHGQNIAKQIFLKCKQARPKYLQNDFNATLVQDNEAPASYFHAKFVNGYEQKWYLHKSTEEEINRNLKYFNYQIEMERNLQGHDDEYEDEETQL",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22HG3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "Ad",
+            "entity_poly_seq_one_letter_code": "MLKLLQLSKGLLGTQQLLQPVQLSSLLHSTFSKWSKPQKQHRQKERRTGVAISDEKAAKLSQSESEVEAKKSRLQQIQKKTIQTDKPLRTQSFEHDQSITDDKLFKMLQDYTFKFEGKKINPVKQDQKAIQPEKVIYSDPTQVPARATPSLKNKVEINHFNCEEIVNKKFEGQIKQFEPTKTSKRTGILGYKLGMTSIWDKWGKLHALTVIQIDRCQVVQVKTEEKDGVNALQLGVGEKSLKRINKPTIGHLMKNDIPPKRHLKEFKVSPDCFLPAGYMLSARHFVPGQYVDIQGISVGKGFAGTVKRWNFKMQDATHGNSLSHRAPGSTGQRQDPGRVFKNKKMAGHMGCEKVTIMDLQVYKIDVERSLVYIRGHVPGKPGSLVQIRDAFKKQVQNEQFLNFPTFVAGKNDKLATVLIMEASKSDPNEEYIHDNDVVD",
+            "entity_poly_seq_one_letter_code_can": "MLKLLQLSKGLLGTQQLLQPVQLSSLLHSTFSKWSKPQKQHRQKERRTGVAISDEKAAKLSQSESEVEAKKSRLQQIQKKTIQTDKPLRTQSFEHDQSITDDKLFKMLQDYTFKFEGKKINPVKQDQKAIQPEKVIYSDPTQVPARATPSLKNKVEINHFNCEEIVNKKFEGQIKQFEPTKTSKRTGILGYKLGMTSIWDKWGKLHALTVIQIDRCQVVQVKTEEKDGVNALQLGVGEKSLKRINKPTIGHLMKNDIPPKRHLKEFKVSPDCFLPAGYMLSARHFVPGQYVDIQGISVGKGFAGTVKRWNFKMQDATHGNSLSHRAPGSTGQRQDPGRVFKNKKMAGHMGCEKVTIMDLQVYKIDVERSLVYIRGHVPGKPGSLVQIRDAFKKQVQNEQFLNFPTFVAGKNDKLATVLIMEASKSDPNEEYIHDNDVVD",
+            "entity_poly_seq_length": 439,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MI39"
+            ],
+            "rcsb_pdbx_description": "mL54",
+            "entity_poly_strand_id": "AN",
+            "entity_poly_seq_one_letter_code": "MNFARLVRNNRIANSSALEAVIRGPKKKKGGAGGPAEITSEDVINIWKDRTDPELNPINTYPIWLSHLLLPQLRFEQVAEVYMADEDLLKPHNRDMKRLINQIRRFGIYEQNYTKLAKSLSLDFVLPARQEKDLFTSTKDEQEEEKAEGEEEGEEDDD",
+            "entity_poly_seq_one_letter_code_can": "MNFARLVRNNRIANSSALEAVIRGPKKKKGGAGGPAEITSEDVINIWKDRTDPELNPINTYPIWLSHLLLPQLRFEQVAEVYMADEDLLKPHNRDMKRLINQIRRFGIYEQNYTKLAKSLSLDFVLPARQEKDLFTSTKDEQEEEKAEGEEEGEEDDD",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23ZH7"
+            ],
+            "rcsb_pdbx_description": "mL64",
+            "entity_poly_strand_id": "AO",
+            "entity_poly_seq_one_letter_code": "MWTRLAYLTLSQAFNPVKVGKEWRRPMLSNRYKALLRKQFRLNNIPWIVNLPKDDSNNPRHKQPKGTLEQRNRPFRLAKIKQNIADAPQKELEYRQKAINERPLSGLDAFIQLTVPYWLTARTKEAIREEKTGKSSQSVVSLQDKKRGFGAKVKK",
+            "entity_poly_seq_one_letter_code_can": "MWTRLAYLTLSQAFNPVKVGKEWRRPMLSNRYKALLRKQFRLNNIPWIVNLPKDDSNNPRHKQPKGTLEQRNRPFRLAKIKQNIADAPQKELEYRQKAINERPLSGLDAFIQLTVPYWLTARTKEAIREEKTGKSSQSVVSLQDKKRGFGAKVKK",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M3V9"
+            ],
+            "rcsb_pdbx_description": "mL101",
+            "entity_poly_strand_id": "AP",
+            "entity_poly_seq_one_letter_code": "MFQAIKSIELQTKSLFCQLQNGFKRTSASQKLRQKIKYRSSRPDKFKLVSKLGKFDFTKPNLSFPVSIPLKLSYVYQPAKHTPNLPTHDFLNFKTMTGNEILLNLENYENLRPSEICGALIELSKREGHEEINWNEHEWVAATTEHVTKMMPTYTPSVVCYLMVAFQRLRITHEKLWKNLTFAIEKTIHKFNAKSFAYTYIAYLEDTSRSSEEFRKKLVELLPIHLHQMNPNQLTRCFELTFERGYMNEYLFEQHFHVLYWRRNVWFGVNNIIKVLEIYPKLNFVDDCDFFEGAILANIPKVKTQLNEQNTKALIEAIQALESKYPDLKINSTLKFLNTHLTFCQTKLKAIENSKFYKIVLNDFEYYKIKESQRLEKEAKQAEKTN",
+            "entity_poly_seq_one_letter_code_can": "MFQAIKSIELQTKSLFCQLQNGFKRTSASQKLRQKIKYRSSRPDKFKLVSKLGKFDFTKPNLSFPVSIPLKLSYVYQPAKHTPNLPTHDFLNFKTMTGNEILLNLENYENLRPSEICGALIELSKREGHEEINWNEHEWVAATTEHVTKMMPTYTPSVVCYLMVAFQRLRITHEKLWKNLTFAIEKTIHKFNAKSFAYTYIAYLEDTSRSSEEFRKKLVELLPIHLHQMNPNQLTRCFELTFERGYMNEYLFEQHFHVLYWRRNVWFGVNNIIKVLEIYPKLNFVDDCDFFEGAILANIPKVKTQLNEQNTKALIEAIQALESKYPDLKINSTLKFLNTHLTFCQTKLKAIENSKFYKIVLNDFEYYKIKESQRLEKEAKQAEKTN",
+            "entity_poly_seq_length": 386,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "W7WYR3"
+            ],
+            "rcsb_pdbx_description": "mL102",
+            "entity_poly_strand_id": "AQ",
+            "entity_poly_seq_one_letter_code": "MNALIFRNTNFLFNWISQSSSMLGLLGIRKNMSFQLQEETAEDKTQKKLNELLQGAFDFTNRNARPPKKANHGARPCSSVMRRLKKKYFYRRTKEAMTPEMEPKKKFEL",
+            "entity_poly_seq_one_letter_code_can": "MNALIFRNTNFLFNWISQSSSMLGLLGIRKNMSFQLQEETAEDKTQKKLNELLQGAFDFTNRNARPPKKANHGARPCSSVMRRLKKKYFYRRTKEAMTPEMEPKKKFEL",
+            "entity_poly_seq_length": 109,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MKV5"
+            ],
+            "rcsb_pdbx_description": "mL103",
+            "entity_poly_strand_id": "AR",
+            "entity_poly_seq_one_letter_code": "MLLSQSIQKAVANAFKQISRSQYKAISCFSSSDKNDNGSNNQEGDSSKNNEKKQATTNDDIYIHKTSYNLEQFKSYTQNVEKALKDLNQEKEKLENSSPFDLLPRRKRRVYDRPLHDLDISNYECWRSYDKMIFKTHKHAARVVCKINLSPRALKHAFGIGSDVSRNSDVSTREYDFEDSNLDSFLLYDYKATTEYHGNNDPNYDYQNQDQVPPKKRKQQHPTPQEFWESDEPHAFRVNCSNYADYHKFKKWIQTEIEKRASEKSYEEKIIERFGPYKIYDQYDQKYDLVKEPSVFKYGREYYLEKGKKFSEKEMEENPYLKPIKPAKQMEDKYRVAWPYQWNPKPTQ",
+            "entity_poly_seq_one_letter_code_can": "MLLSQSIQKAVANAFKQISRSQYKAISCFSSSDKNDNGSNNQEGDSSKNNEKKQATTNDDIYIHKTSYNLEQFKSYTQNVEKALKDLNQEKEKLENSSPFDLLPRRKRRVYDRPLHDLDISNYECWRSYDKMIFKTHKHAARVVCKINLSPRALKHAFGIGSDVSRNSDVSTREYDFEDSNLDSFLLYDYKATTEYHGNNDPNYDYQNQDQVPPKKRKQQHPTPQEFWESDEPHAFRVNCSNYADYHKFKKWIQTEIEKRASEKSYEEKIIERFGPYKIYDQYDQKYDLVKEPSVFKYGREYYLEKGKKFSEKEMEENPYLKPIKPAKQMEDKYRVAWPYQWNPKPTQ",
+            "entity_poly_seq_length": 348,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LTP6"
+            ],
+            "rcsb_pdbx_description": "mL104",
+            "entity_poly_strand_id": "AS",
+            "entity_poly_seq_one_letter_code": "MIGQVVNKGTSSVSSLFQQIRRGFKGFDKNRWATSAEVFPEKPFKYGYDKQQKIKTKQDRQWYEAPVGAMTKKRFQTADFRAYQTELEEAAQKTLEGQKIDVEEEVVKVEKDEIFGEQGAPKRYYDRILQKELYFHHRNGKHFFEQADRKISFLNQFTPQIEKVPELAETLKTILKIATESEGSPLKRAGIDQEFIIEDDFYSENEECKKLFEEIKQKVSNMNYRLLPDLCLVLSFKLRYNKDVFGIWEKIEQNFMQSIHHYPVMELVKMRYASCALSPKSLSRDCLKAIHDIVFTELHNVPSVLDLSHLLFAFRHINSLKYYNLILDEICRRPIKTLQEAIALLFVFSHSLFPNYKRKEIREKDQDLKEKHKIVDHLADALANNAKQIQGDDFVRVLIGLNNLQLTTFKDVLTHIERYIIKNIDTLDAFQTSNALYGFSKANNNAGFGSEQLYKALQKAAEKHWSQFSNADKARTFYAFAFQDLVDPVFRKKFIQPWLNENLESNLSHSELHYVAFSLMFEQNKDAEIWKKFVKNICKNQYVVPVLNYYPIKLARYYMQSIFPKWNFDIYKLACQDAEATWDASRQIDSIMENNKEWKSIGVLLQNRLEFNSIGLDNFENLLLIDWAIMPQRVAIMIQGARQTLPNGKPTPLHRLKLQLLENHKFAVFNLIYKDFEAISPDQKIPYLKKTIEELIAKQDTYIKDVEEPQQWLSFMDRMQELTYRNIMIGEATKGGVIDPEIQEVQFDWSKLQKELKERQKQEE",
+            "entity_poly_seq_one_letter_code_can": "MIGQVVNKGTSSVSSLFQQIRRGFKGFDKNRWATSAEVFPEKPFKYGYDKQQKIKTKQDRQWYEAPVGAMTKKRFQTADFRAYQTELEEAAQKTLEGQKIDVEEEVVKVEKDEIFGEQGAPKRYYDRILQKELYFHHRNGKHFFEQADRKISFLNQFTPQIEKVPELAETLKTILKIATESEGSPLKRAGIDQEFIIEDDFYSENEECKKLFEEIKQKVSNMNYRLLPDLCLVLSFKLRYNKDVFGIWEKIEQNFMQSIHHYPVMELVKMRYASCALSPKSLSRDCLKAIHDIVFTELHNVPSVLDLSHLLFAFRHINSLKYYNLILDEICRRPIKTLQEAIALLFVFSHSLFPNYKRKEIREKDQDLKEKHKIVDHLADALANNAKQIQGDDFVRVLIGLNNLQLTTFKDVLTHIERYIIKNIDTLDAFQTSNALYGFSKANNNAGFGSEQLYKALQKAAEKHWSQFSNADKARTFYAFAFQDLVDPVFRKKFIQPWLNENLESNLSHSELHYVAFSLMFEQNKDAEIWKKFVKNICKNQYVVPVLNYYPIKLARYYMQSIFPKWNFDIYKLACQDAEATWDASRQIDSIMENNKEWKSIGVLLQNRLEFNSIGLDNFENLLLIDWAIMPQRVAIMIQGARQTLPNGKPTPLHRLKLQLLENHKFAVFNLIYKDFEAISPDQKIPYLKKTIEELIAKQDTYIKDVEEPQQWLSFMDRMQELTYRNIMIGEATKGGVIDPEIQEVQFDWSKLQKELKERQKQEE",
+            "entity_poly_seq_length": 764,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Signal peptide binding domain"
+            ],
+            "pfam_accessions": [
+                "PF02978"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "W7XFS0"
+            ],
+            "rcsb_pdbx_description": "Signal peptide-binding domain protein",
+            "entity_poly_strand_id": "AT",
+            "entity_poly_seq_one_letter_code": "AADFLPIFRQLINISFLIITEKIRRKKKLKIYRYQYLLLKAEDILFKKLNQHFQLRFIIKMISQMRNIGGVLNKACKSALTQTLLRQNLSTIQAFRANQYINTRINQMTQNNIYSFASFKEKMEKKQKEKAEDEFKKEIEFLANKPSFTLVDFKQRVIDQLSKLKKGLKAKLLSGQQENEAALTKQKTLLNAFTDDELIDPTKIGSTTKKQIAMIAQCEVEDVNKLIHAFKNLQQAHAFLRRTKEKGQPLPETSEELQWRFRQEKNVSYEYKKTIQSKQYGRSKVQYRKMQKWSRRLQL",
+            "entity_poly_seq_one_letter_code_can": "AADFLPIFRQLINISFLIITEKIRRKKKLKIYRYQYLLLKAEDILFKKLNQHFQLRFIIKMISQMRNIGGVLNKACKSALTQTLLRQNLSTIQAFRANQYINTRINQMTQNNIYSFASFKEKMEKKQKEKAEDEFKKEIEFLANKPSFTLVDFKQRVIDQLSKLKKGLKAKLLSGQQENEAALTKQKTLLNAFTDDELIDPTKIGSTTKKQIAMIAQCEVEDVNKLIHAFKNLQQAHAFLRRTKEKGQPLPETSEELQWRFRQEKNVSYEYKKTIQSKQYGRSKVQYRKMQKWSRRLQL",
+            "entity_poly_seq_length": 299,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23Q81"
+            ],
+            "rcsb_pdbx_description": "mL106",
+            "entity_poly_strand_id": "AU",
+            "entity_poly_seq_one_letter_code": "MIVSKQQSIISLLWRSACGFSKFSKRQTTPKILRDHRFTRKGMVIRKQSKNYDYDLTNLAASQAHQSHLFFNKEEDFALLKKQADEKEKNMKNMHVFEDHSVPETILLEVQDKFLVQKHPEKVLNNLVELDKQFSKKGGEITELIQSALSKLIKEQILSFNLKNFGVLTTLAKKYLPNDAKLWENLANNYCRLMQKSEYNDLKTLDSARSQKYIENSVLTLTTVLKFSNKFHHENCVENISQVATSYLSTNFDVVQDVNTRFLLISNILPLIQSYKQVELIGLVKQKMDLIPKLQANTITALTHSIYKVKQQNSKNSRFPADLIDVSFLQKLEQTWLKTFDKSNTQLLAIFSYSIASLGYSGETKKFTQEYVEKNIKDITNLKDLAFFGESLKKFRALSQKYFTGAEQTLKQALSNNSQELHAELALQLLRVYSKNLFLNSEIASALIKKVDDAYYYEQFKPKASQNEMIVKTLQKYSQIVDLSNLRIYQNLIGSKKLF",
+            "entity_poly_seq_one_letter_code_can": "MIVSKQQSIISLLWRSACGFSKFSKRQTTPKILRDHRFTRKGMVIRKQSKNYDYDLTNLAASQAHQSHLFFNKEEDFALLKKQADEKEKNMKNMHVFEDHSVPETILLEVQDKFLVQKHPEKVLNNLVELDKQFSKKGGEITELIQSALSKLIKEQILSFNLKNFGVLTTLAKKYLPNDAKLWENLANNYCRLMQKSEYNDLKTLDSARSQKYIENSVLTLTTVLKFSNKFHHENCVENISQVATSYLSTNFDVVQDVNTRFLLISNILPLIQSYKQVELIGLVKQKMDLIPKLQANTITALTHSIYKVKQQNSKNSRFPADLIDVSFLQKLEQTWLKTFDKSNTQLLAIFSYSIASLGYSGETKKFTQEYVEKNIKDITNLKDLAFFGESLKKFRALSQKYFTGAEQTLKQALSNNSQELHAELALQLLRVYSKNLFLNSEIASALIKKVDDAYYYEQFKPKASQNEMIVKTLQKYSQIVDLSNLRIYQNLIGSKKLF",
+            "entity_poly_seq_length": 499,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "The CDGSH-type zinc finger domain binds iron rather than zinc as a redox-active pH-labile 2Fe-2S cluster. The conserved sequence C-X-C-X2-(S/T)-X3-P-X-C-D-G-(S/A/T)-H is a defining feature of this family [1]. The domain is oriented towards the cytoplasm and is tethered to the mitochondrial membrane by a more N-terminal domain found in higher vertebrates, MitoNEET_N, Pfam:PF10660 [2]. The domain forms a uniquely folded homo-dimer and spans the outer mitochondrial membrane, orienting the iron-binding residues towards the cytoplasm [3]."
+            ],
+            "pfam_descriptions": [
+                "Iron-binding zinc finger CDGSH type"
+            ],
+            "pfam_accessions": [
+                "PF09360"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22HE3"
+            ],
+            "rcsb_pdbx_description": "Iron-binding zinc finger CDGSH type protein",
+            "entity_poly_strand_id": "AV",
+            "entity_poly_seq_one_letter_code": "MISKFQQLVLTRSLNHVRCQFYKKIRDVPTEEFIAVQKPESQSKYEHVKIEIKEFDFQNKPDRTLGDQKPVPVSPLLGPYKVENPKLGEKKYKWCSCGLSTSQPFCDGKHKGTAFLPYKFTVEEATQYMNLCGCKFTTNPPFCDNKTCKCLTSGNTEKQE",
+            "entity_poly_seq_one_letter_code_can": "MISKFQQLVLTRSLNHVRCQFYKKIRDVPTEEFIAVQKPESQSKYEHVKIEIKEFDFQNKPDRTLGDQKPVPVSPLLGPYKVENPKLGEKKYKWCSCGLSTSQPFCDGKHKGTAFLPYKFTVEEATQYMNLCGCKFTTNPPFCDNKTCKCLTSGNTEKQE",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MGP2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "Ae",
+            "entity_poly_seq_one_letter_code": "MFLLQRTFKSLSCLSQVKRAFSITNYSIKPVKYELKINEQPGKMPILVRKPDEILVKQWWSQSPFEKTQPLRVPVLKFLAENGQAYTGKTVDLDHDIFNVPLRRDIVHSYVLWRQNRDEIKTHITKTKGTVSGSGKKPYAQKGTGKARMGNKRAPGRKKGGKAHGAKPRILRYPLNKKIRLQALKVVLSAKLAEGKLRIIETEQVDEPKTRAIAKMLEKMDKRSRILIVHPYQIDTNFELAHQNIQKLQSCYPNELSVLKVLTNDRVFITLEALRQLTQELQDRTFRNYRMKHVERGVTESEAEREQVWPTPKQQDTKVIYDPTKPLQFKFKILQDYYEQYEKLKENGEIQKYRENIE",
+            "entity_poly_seq_one_letter_code_can": "MFLLQRTFKSLSCLSQVKRAFSITNYSIKPVKYELKINEQPGKMPILVRKPDEILVKQWWSQSPFEKTQPLRVPVLKFLAENGQAYTGKTVDLDHDIFNVPLRRDIVHSYVLWRQNRDEIKTHITKTKGTVSGSGKKPYAQKGTGKARMGNKRAPGRKKGGKAHGAKPRILRYPLNKKIRLQALKVVLSAKLAEGKLRIIETEQVDEPKTRAIAKMLEKMDKRSRILIVHPYQIDTNFELAHQNIQKLQSCYPNELSVLKVLTNDRVFITLEALRQLTQELQDRTFRNYRMKHVERGVTESEAEREQVWPTPKQQDTKVIYDPTKPLQFKFKILQDYYEQYEKLKENGEIQKYRENIE",
+            "entity_poly_seq_length": 358,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q950X8"
+            ],
+            "rcsb_pdbx_description": "Ymf73",
+            "entity_poly_strand_id": "Bc",
+            "entity_poly_seq_one_letter_code": "MINKKLNLFLIENKKLLKTNTEIYNLNKNFNLIKFFKLTNYKEIKALISLLKCINCLNKLNKSIFIFNKNFITVVYKTNFFKKLLTYKFINIELMLTLKLFIFFNTRIFINTSDTFIKFKSEYETYPEILFDCYHNHFSRKRVKNLSYKMFLLIMYNLI",
+            "entity_poly_seq_one_letter_code_can": "MINKKLNLFLIENKKLLKTNTEIYNLNKNFNLIKFFKLTNYKEIKALISLLKCINCLNKLNKSIFIFNKNFITVVYKTNFFKKLLTYKFINIELMLTLKLFIFFNTRIFINTSDTFIKFKSEYETYPEILFDCYHNHFSRKRVKNLSYKMFLLIMYNLI",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951A8"
+            ],
+            "rcsb_pdbx_description": "Ymf64",
+            "entity_poly_strand_id": "Bd",
+            "entity_poly_seq_one_letter_code": "MKLLIFLKKINTIKKIENLNSENFTNQNYYYNLTNSLDQSEFITLKHVTFFFLKNKLMYSLSKYDRLNININENFYTFLKSLDKVDVYSLKFFKNMIFNKTYSNYNVNLFYSISIKEIKKNKEEFFKSNTNKILLIRNSFKTTNLKLLRKISIIDLILKKYLESELNDKISINFDKYNLKFMRKKRLYVKVLRRKLRRMRKMLRWAKISLRNFIRLTLIFLCTKDIDIFSKVLVKIMDSMHYKNHRRFLYYLKLFISKSMHYYFNILRFEGFFFYLSGKISGGGNSKKKNYAVKCGKYSLTNKMLKLKYKKGLIHTKTGVLGYKLMISYK",
+            "entity_poly_seq_one_letter_code_can": "MKLLIFLKKINTIKKIENLNSENFTNQNYYYNLTNSLDQSEFITLKHVTFFFLKNKLMYSLSKYDRLNININENFYTFLKSLDKVDVYSLKFFKNMIFNKTYSNYNVNLFYSISIKEIKKNKEEFFKSNTNKILLIRNSFKTTNLKLLRKISIIDLILKKYLESELNDKISINFDKYNLKFMRKKRLYVKVLRRKLRRMRKMLRWAKISLRNFIRLTLIFLCTKDIDIFSKVLVKIMDSMHYKNHRRFLYYLKLFISKSMHYYFNILRFEGFFFYLSGKISGGGNSKKKNYAVKCGKYSLTNKMLKLKYKKGLIHTKTGVLGYKLMISYK",
+            "entity_poly_seq_length": 330,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M4M7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "Bf",
+            "entity_poly_seq_one_letter_code": "MKNIGLTFKLVQQFSRSGTIVKTMQKISDKFKVKQTVADKQKLQSFLTEQTRDGSIKETIDVTAKYDAEFKTFIKDYQAKHKQYPHILDLSHYSRENSTLSKSNQLRQEEIDMIEEFRNRKIKKINEPIDLIDYSKDPEINEADEEAGEEDFTLHQDPYIQEDRNHGYKAKEMRMGLNDDFMIVLLDRDVTTQVTTLNRVNHFRYLIFMGNANGLVGYGKGKGSDFEEALDNAILHCKRNLIAVPLDIFHTVPEPLEGHFNGFQIKIHPSRTFNPWGAPVLASMLLLTGLRHCRFKTISKKVNSYALCMAYFRMITKNRTPKDICEQTGKKIYRENWGAPYFLNHVSQNFL",
+            "entity_poly_seq_one_letter_code_can": "MKNIGLTFKLVQQFSRSGTIVKTMQKISDKFKVKQTVADKQKLQSFLTEQTRDGSIKETIDVTAKYDAEFKTFIKDYQAKHKQYPHILDLSHYSRENSTLSKSNQLRQEEIDMIEEFRNRKIKKINEPIDLIDYSKDPEINEADEEAGEEDFTLHQDPYIQEDRNHGYKAKEMRMGLNDDFMIVLLDRDVTTQVTTLNRVNHFRYLIFMGNANGLVGYGKGKGSDFEEALDNAILHCKRNLIAVPLDIFHTVPEPLEGHFNGFQIKIHPSRTFNPWGAPVLASMLLLTGLRHCRFKTISKKVNSYALCMAYFRMITKNRTPKDICEQTGKKIYRENWGAPYFLNHVSQNFL",
+            "entity_poly_seq_length": 351,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MHS2"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S6",
+            "entity_poly_strand_id": "Bg",
+            "entity_poly_seq_one_letter_code": "MPLYELIVLARANTAKATTSLVSSVAQSILEKGGNVRNTTILGDRILNRTVKGNDDKKHLVGRYVQILYDGNPQMMGQIEKAARESNEGIRAKTFKIKDFYSDAQLFRRALKQTSPVYPSYLNDKSYLHQLKQIAKKTNKQ",
+            "entity_poly_seq_one_letter_code_can": "MPLYELIVLARANTAKATTSLVSSVAQSILEKGGNVRNTTILGDRILNRTVKGNDDKKHLVGRYVQILYDGNPQMMGQIEKAARESNEGIRAKTFKIKDFYSDAQLFRRALKQTSPVYPSYLNDKSYLHQLKQIAKKTNKQ",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951A4"
+            ],
+            "rcsb_pdbx_description": "Ymf63",
+            "entity_poly_strand_id": "Bh",
+            "entity_poly_seq_one_letter_code": "MKQLKKIMINKTKIMSNDIIYIKRTYHQKIVNLKIYNNFKTEPKFYNLKFIEFQNLLNNVNLNKVFYTEYTSYPLEDRFATSKFHTFDSYLTSLELIDCTFLKKKFNYKYKYSMFTYFIPFLIKNGKKLSTINFILKGISTIYDNLKYNKLSQFESYSYVNQFKHYIDTADDVYNINFLIHWIINIYKPVFDVKCFNVPKVHKKKSAKTVLFKIVYLSEKNRLKTAYKHISTCIRQDNSAKLNNRITNIFLDLLLNYKKSYLYTRKMYIYEQVMDM",
+            "entity_poly_seq_one_letter_code_can": "MKQLKKIMINKTKIMSNDIIYIKRTYHQKIVNLKIYNNFKTEPKFYNLKFIEFQNLLNNVNLNKVFYTEYTSYPLEDRFATSKFHTFDSYLTSLELIDCTFLKKKFNYKYKYSMFTYFIPFLIKNGKKLSTINFILKGISTIYDNLKYNKLSQFESYSYVNQFKHYIDTADDVYNINFLIHWIINIYKPVFDVKCFNVPKVHKKKSAKTVLFKIVYLSEKNRLKTAYKHISTCIRQDNSAKLNNRITNIFLDLLLNYKKSYLYTRKMYIYEQVMDM",
+            "entity_poly_seq_length": 276,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951A1"
+            ],
+            "rcsb_pdbx_description": "Ymf59",
+            "entity_poly_strand_id": "Bj",
+            "entity_poly_seq_one_letter_code": "MNNKIYINIKYKMNFNPQVINSRNILSKNKSNRIYCKNFIFTILFFDFFNSTFSKNFLPYKYNLHITKKRKHVGSILRAPYKNKIAQFSLGLYRYFLNLSFFINSEFLPNINNKFEFKLLFIKFLNSYNYFESTLVTQVSRVIKIPTQIQII",
+            "entity_poly_seq_one_letter_code_can": "MNNKIYINIKYKMNFNPQVINSRNILSKNKSNRIYCKNFIFTILFFDFFNSTFSKNFLPYKYNLHITKKRKHVGSILRAPYKNKIAQFSLGLYRYFLNLSFFINSEFLPNINNKFEFKLLFIKFLNSYNYFESTLVTQVSRVIKIPTQIQII",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q950Z8"
+            ],
+            "rcsb_pdbx_description": "Ymf61",
+            "entity_poly_strand_id": "Bk",
+            "entity_poly_seq_one_letter_code": "MVQKKFNFKKDSFFYEGYVWNHSLNIIHDIQLNYLDKNSNAIAIKYAKTLNIMSSLYRNLTFKKFDFIKIWYWYYLYYIKNIYFKNLINKNNNYVFEKPNIFVFNIKSKQIRLAVLTSKNYVYNLTVGKILSSLNIKEKSKKKSNKGERLFSEYLENFFKNKNIRFGTKKLAIIKLKYFKKGFKLHESIFKTLNKNLFIINTIYDFKVPNNFFKFKKIRSIKKRIKKKLIKDENTLNF",
+            "entity_poly_seq_one_letter_code_can": "MVQKKFNFKKDSFFYEGYVWNHSLNIIHDIQLNYLDKNSNAIAIKYAKTLNIMSSLYRNLTFKKFDFIKIWYWYYLYYIKNIYFKNLINKNNNYVFEKPNIFVFNIKSKQIRLAVLTSKNYVYNLTVGKILSSLNIKEKSKKKSNKGERLFSEYLENFFKNKNIRFGTKKLAIIKLKYFKKGFKLHESIFKTLNKNLFIINTIYDFKVPNNFFKFKKIRSIKKRIKKKLIKDENTLNF",
+            "entity_poly_seq_length": 238,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951A2"
+            ],
+            "rcsb_pdbx_description": "Ymf69",
+            "entity_poly_strand_id": "Af",
+            "entity_poly_seq_one_letter_code": "MLNNIFIFEKYLKKNNFKKNKIILKKKFTPLRFFLFLLSLFLTPFNCMFIISFKINNKLEINFESYLI",
+            "entity_poly_seq_one_letter_code_can": "MLNNIFIFEKYLKKNNFKKNKIILKKKFTPLRFFLFLLSLFLTPFNCMFIISFKINNKLEINFESYLI",
+            "entity_poly_seq_length": 68,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B3"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S12",
+            "entity_poly_strand_id": "Bl",
+            "entity_poly_seq_one_letter_code": "MGSLCINKKKGNLHRKLRARILGINPQKKGVVMKARIVTPRKPNSARRPVAKVILVNKKRLTAHIPGIGHNIRRHSSVLVRGGGCRDLPGVRYTCVRGVYDFSKVLNRFNRRSRYGIPKPDEEKKKLRRKFRV",
+            "entity_poly_seq_one_letter_code_can": "MGSLCINKKKGNLHRKLRARILGINPQKKGVVMKARIVTPRKPNSARRPVAKVILVNKKRLTAHIPGIGHNIRRHSSVLVRGGGCRDLPGVRYTCVRGVYDFSKVLNRFNRRSRYGIPKPDEEKKKLRRKFRV",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B9"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S13",
+            "entity_poly_strand_id": "Bm",
+            "entity_poly_seq_one_letter_code": "MKEFFQLNGYIFTKDTEFINTKKKIFGWNDYTYKIIYNRFEKFYSENLISYKDTEWKKFKSILSTFFPKSRSLKNRMDTNIFFLDFLNTYRGLRHSKGLPVRGQRTWTNAWSVYRSNLNLRKFKLEIAKRIYGNMPTPSLTTIYLAEQINYIWKLQWKREWLQARSKRLKLMQNEHAMFKIDINSMSKGYIDGFDKKKEITKKKKAQAKKNTFTLGFEPGFTLFYLRPNNSLSAKERNKIKIVLNEEENKVKILQKKKKVVLKKKPEKKKKNSSWE",
+            "entity_poly_seq_one_letter_code_can": "MKEFFQLNGYIFTKDTEFINTKKKIFGWNDYTYKIIYNRFEKFYSENLISYKDTEWKKFKSILSTFFPKSRSLKNRMDTNIFFLDFLNTYRGLRHSKGLPVRGQRTWTNAWSVYRSNLNLRKFKLEIAKRIYGNMPTPSLTTIYLAEQINYIWKLQWKREWLQARSKRLKLMQNEHAMFKIDINSMSKGYIDGFDKKKEITKKKKAQAKKNTFTLGFEPGFTLFYLRPNNSLSAKERNKIKIVLNEEENKVKILQKKKKVVLKKKPEKKKKNSSWE",
+            "entity_poly_seq_length": 276,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S14",
+            "entity_poly_strand_id": "Bn",
+            "entity_poly_seq_one_letter_code": "MLFKRRKDILKCKYKKIYIFKNKIKNIILKSIFFNRNIKNINRAYAYMILNNSKILYKKYHKICKFSGYRKNVNKFTGIGRHELNRKATLGQLQNISMNSW",
+            "entity_poly_seq_one_letter_code_can": "MLFKRRKDILKCKYKKIYIFKNKIKNIILKSIFFNRNIKNINRAYAYMILNNSKILYKKYHKICKFSGYRKNVNKFTGIGRHELNRKATLGQLQNISMNSW",
+            "entity_poly_seq_length": 101,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22WF3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "Bo",
+            "entity_poly_seq_one_letter_code": "MNFNLMQVSLVHVVKRGLMTMSKSGRQFARDKPLEEFIPKGLEKLKQKEQVTINTNYKAGFTSEELEPYNEMVKRALKLNNASPFEITQFKVQQAIQKFKVSPRDTGSAAIQVAVRTEKLIKMIKHCQENRQDKYAGRALVRLLEQRRKWLDYLRFTDYHRYKWICEEFCIPDQPPLNGHHKANFRGEPNRQVKTI",
+            "entity_poly_seq_one_letter_code_can": "MNFNLMQVSLVHVVKRGLMTMSKSGRQFARDKPLEEFIPKGLEKLKQKEQVTINTNYKAGFTSEELEPYNEMVKRALKLNNASPFEITQFKVQQAIQKFKVSPRDTGSAAIQVAVRTEKLIKMIKHCQENRQDKYAGRALVRLLEQRRKWLDYLRFTDYHRYKWICEEFCIPDQPPLNGHHKANFRGEPNRQVKTI",
+            "entity_poly_seq_length": 196,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M3F6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S16",
+            "entity_poly_strand_id": "Bp",
+            "entity_poly_seq_one_letter_code": "MRVVIRLQQSGFKNHPRWKIVVMPQKKNPRGRFLEHVGWWCPRQGKINQREIVVNKERVRYWIAMGAKPSEKVQKFLSYFDLAPKPLIKYGFKTLYEKPEVTPKDYLNLSPYKIKNFDNHLHEFIQQEEEVKFLKQQRMKNELIKQIADSDLKDSLDPKLIQQELQSLQTELQQMNSQINQVDQKRRQFVIKRINILFSQLTKAEQHESFKQKILQGKEDLKEKIGSDKFLRRSLEEASFNQTIEASYKNFEDQIEALKPITKEEFKDYLLSKGFHEAKADKTVRRYFTEQVVVLKIHAIEATTEVPEVEHENQLHLEHFRKNDQVIFPLPNSITPRPDINSYDAADYYEIPQIYDPATQANKAYNLTSVTDKLNPVKREYAHFMFKNVMGRKKPTRVRTQNPPAFFKKGYNNFSTINKPYYMSTFDYLRYTGLFKN",
+            "entity_poly_seq_one_letter_code_can": "MRVVIRLQQSGFKNHPRWKIVVMPQKKNPRGRFLEHVGWWCPRQGKINQREIVVNKERVRYWIAMGAKPSEKVQKFLSYFDLAPKPLIKYGFKTLYEKPEVTPKDYLNLSPYKIKNFDNHLHEFIQQEEEVKFLKQQRMKNELIKQIADSDLKDSLDPKLIQQELQSLQTELQQMNSQINQVDQKRRQFVIKRINILFSQLTKAEQHESFKQKILQGKEDLKEKIGSDKFLRRSLEEASFNQTIEASYKNFEDQIEALKPITKEEFKDYLLSKGFHEAKADKTVRRYFTEQVVVLKIHAIEATTEVPEVEHENQLHLEHFRKNDQVIFPLPNSITPRPDINSYDAADYYEIPQIYDPATQANKAYNLTSVTDKLNPVKREYAHFMFKNVMGRKKPTRVRTQNPPAFFKKGYNNFSTINKPYYMSTFDYLRYTGLFKN",
+            "entity_poly_seq_length": 437,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M6C7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "Bq",
+            "entity_poly_seq_one_letter_code": "SSVWNLLNPIRNGATGLKLLSSGRELFGTVIQHGKMDKTVTVKVDYRYWYPKTKEFKSKTSKYQVHDSENFCVTGDKVVIKSMLPISTMKHYYVRNIVKPFPRDTYYKEGQEKKEMSEQLKKEYQRLYQEFYEREQQRTEIKNKKDEVTLKSALKAKALTRAMANLRKVESTQKKKDKVVAA",
+            "entity_poly_seq_one_letter_code_can": "SSVWNLLNPIRNGATGLKLLSSGRELFGTVIQHGKMDKTVTVKVDYRYWYPKTKEFKSKTSKYQVHDSENFCVTGDKVVIKSMLPISTMKHYYVRNIVKPFPRDTYYKEGQEKKEMSEQLKKEYQRLYQEFYEREQQRTEIKNKKDEVTLKSALKAKALTRAMANLRKVESTQKKKDKVVAA",
+            "entity_poly_seq_length": 182,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23K82"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S18",
+            "entity_poly_strand_id": "Br",
+            "entity_poly_seq_one_letter_code": "MQVFINKNLNLQQVSRLFKLRAHSFSTSEQLRIKNLNALKHELKNNPLFDRAFPEYKGKKPETTVVKKQEELDFIRSLGLKERINKNISLEEAEHQNFKQFVEGFRSPSGPLKYMDHEEKQKINFLIDQKLEELEATGLTREEILYDNPTHTGLPLNQDPFFQYIKNNYTAREVLLKPGEEYTVQKIIDLALRQDIGADPSQSAAKLKNQKVYHASKMGLPSSRKNPNAFDNTSYLGATSSTSEHYIKELVRPDRKNHEIPLTKAQTRKQSIRKINYFDIHWRNTELITQFVNNSGCIKNKIQNRLTRPQQKKIARTIRLSREMLLMPFRGYIKPSDKKSLTTLQEDVENTVRTAINIETGHIYIKGSVNEYRNVTKEFENLNDNFDAKRAEQSKDYVIDGNSQKLETTEELTLLEARMHSAQLKEKQLKDLGVDTQAIREKYQASPKNPQLTIDNILSIQTKQYIYPPEFEQLDKKNQDQFKESFSKFQEKINQVPVDKFASLLVHEKATDATEFSNKIQESDISLQESLEYVNQIRSRGGLSTPLKI",
+            "entity_poly_seq_one_letter_code_can": "MQVFINKNLNLQQVSRLFKLRAHSFSTSEQLRIKNLNALKHELKNNPLFDRAFPEYKGKKPETTVVKKQEELDFIRSLGLKERINKNISLEEAEHQNFKQFVEGFRSPSGPLKYMDHEEKQKINFLIDQKLEELEATGLTREEILYDNPTHTGLPLNQDPFFQYIKNNYTAREVLLKPGEEYTVQKIIDLALRQDIGADPSQSAAKLKNQKVYHASKMGLPSSRKNPNAFDNTSYLGATSSTSEHYIKELVRPDRKNHEIPLTKAQTRKQSIRKINYFDIHWRNTELITQFVNNSGCIKNKIQNRLTRPQQKKIARTIRLSREMLLMPFRGYIKPSDKKSLTTLQEDVENTVRTAINIETGHIYIKGSVNEYRNVTKEFENLNDNFDAKRAEQSKDYVIDGNSQKLETTEELTLLEARMHSAQLKEKQLKDLGVDTQAIREKYQASPKNPQLTIDNILSIQTKQYIYPPEFEQLDKKNQDQFKESFSKFQEKINQVPVDKFASLLVHEKATDATEFSNKIQESDISLQESLEYVNQIRSRGGLSTPLKI",
+            "entity_poly_seq_length": 549,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B7"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S19",
+            "entity_poly_strand_id": "Bs",
+            "entity_poly_seq_one_letter_code": "MGKSHWRLKYISKSIISKIIKESIGIKIKKKISVIMNKSSTIPSSLTDNTFYIHKGYKFRELKIKDYHVGFKFGEFILTRKPNIFPKKSKNKSKNFRR",
+            "entity_poly_seq_one_letter_code_can": "MGKSHWRLKYISKSIISKIIKESIGIKIKKKISVIMNKSSTIPSSLTDNTFYIHKGYKFRELKIKDYHVGFKFGEFILTRKPNIFPKKSKNKSKNFRR",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22BA0"
+            ],
+            "rcsb_pdbx_description": "bS21m",
+            "entity_poly_strand_id": "Bt",
+            "entity_poly_seq_one_letter_code": "MNPIQFSQFVVNSITKHYFKEVAQGALRPGQVRREVKSVYKDYNPLKIHIFKYKHPRMLEIPMPGHQRRAERVEAQRRRNREQINFFCRYVLAKQGKTIPYN",
+            "entity_poly_seq_one_letter_code_can": "MNPIQFSQFVVNSITKHYFKEVAQGALRPGQVRREVKSVYKDYNPLKIHIFKYKHPRMLEIPMPGHQRRAERVEAQRRRNREQINFFCRYVLAKQGKTIPYN",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)",
+                "Tetrahymena thermophila (strain SB210)",
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017,
+                312017,
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23YQ0"
+            ],
+            "rcsb_pdbx_description": "mS23",
+            "entity_poly_strand_id": "Bu",
+            "entity_poly_seq_one_letter_code": "MYLRKWSRMEWWDSVRYFKKYNLLDYKEEHRLLHLFPPTWQQYLPTKADLREVNFRDKQDKQLVKVLFQKYPDLRYDTSGRMYDKDGGQDNYANYVVRFILKQKEYMKRGMSANAAFIETEKIFQDRMQRKIDQNNLTRGIAINNRARSFMNFYQQMAEREARWKVQRMKRDVQQYLHEREIFEKEINDDGDMEDDFAEEENIYNRVLLKFQNAGMPEITKQDEKVSTQREFIERSENMFKVYYERAAIYDRLQGLTDSQIRSEIQNSPAKMKKRTRNLVKKLERLG(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)EKLQVVIDKLRRTKYKIDQLSMKHAQDLMFEEHEVYGKDILIDEKVGYEDLRDYLFQPSEIRRKTELDVINDNKIQEMIKISTIKEDLVNPYNNEYASKLNLQDTIEYQRSKQEKIKTLRAEKEREE",
+            "entity_poly_seq_one_letter_code_can": "MYLRKWSRMEWWDSVRYFKKYNLLDYKEEHRLLHLFPPTWQQYLPTKADLREVNFRDKQDKQLVKVLFQKYPDLRYDTSGRMYDKDGGQDNYANYVVRFILKQKEYMKRGMSANAAFIETEKIFQDRMQRKIDQNNLTRGIAINNRARSFMNFYQQMAEREARWKVQRMKRDVQQYLHEREIFEKEINDDGDMEDDFAEEENIYNRVLLKFQNAGMPEITKQDEKVSTQREFIERSENMFKVYYERAAIYDRLQGLTDSQIRSEIQNSPAKMKKRTRNLVKKLERLGXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXEKLQVVIDKLRRTKYKIDQLSMKHAQDLMFEEHEVYGKDILIDEKVGYEDLRDYLFQPSEIRRKTELDVINDNKIQEMIKISTIKEDLVNPYNNEYASKLNLQDTIEYQRSKQEKIKTLRAEKEREE",
+            "entity_poly_seq_length": 567,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M0P0"
+            ],
+            "rcsb_pdbx_description": "mS26",
+            "entity_poly_strand_id": "Bv",
+            "entity_poly_seq_one_letter_code": "MNFINKARSQLGLFKEFIVMPRMGWKLRKPSRKVTIYEQERRAQKQLEKEYRAKVISDYWNSQTILENEYIEKYTREELERKKKSDQNFRDSIIRIAKATQNHVEFLKKRSALDEAKERKHILEQDVKAMNKKRILNIMQQESRHWINQQNVNNINPDSIMPATIYDETDYYLKLHEQAFLFEQGRLEEMEKVSLETEEIQYKNSVLMPIYQDVISMIKHLKSTESFKLEKEFQAAKRILIEDCRNMQIEDQLEEKMAKLEKAFNTLRKAQKEKFDQPENQLEFLHEHLLILYNMLRKWGEYTNMLKIPATVVRDILHERQVMLEKKKLIRKQNLEQAKNQDRDTEENEQDSDIQSNDERETSDSEDEIDIAKLIEEEKLRQEKIKEQQRLFEERKLQMEKEQAEEEQAEQKQTIQDDLLNPEKAIENLMLQFEKKAEEELNAEFHIEKNSLYGNDKNAVDSRDFYKGIDLENVFPRALIDNSFDFTKLSGLPFQNVKEALRNEEKIELLRGEDPNNSPRKFETALIVEVFKLKSQQLRAASLTRAQQQKLNDIDTLLDLIGEIKVEEPTFLLKIWKNF",
+            "entity_poly_seq_one_letter_code_can": "MNFINKARSQLGLFKEFIVMPRMGWKLRKPSRKVTIYEQERRAQKQLEKEYRAKVISDYWNSQTILENEYIEKYTREELERKKKSDQNFRDSIIRIAKATQNHVEFLKKRSALDEAKERKHILEQDVKAMNKKRILNIMQQESRHWINQQNVNNINPDSIMPATIYDETDYYLKLHEQAFLFEQGRLEEMEKVSLETEEIQYKNSVLMPIYQDVISMIKHLKSTESFKLEKEFQAAKRILIEDCRNMQIEDQLEEKMAKLEKAFNTLRKAQKEKFDQPENQLEFLHEHLLILYNMLRKWGEYTNMLKIPATVVRDILHERQVMLEKKKLIRKQNLEQAKNQDRDTEENEQDSDIQSNDERETSDSEDEIDIAKLIEEEKLRQEKIKEQQRLFEERKLQMEKEQAEEEQAEQKQTIQDDLLNPEKAIENLMLQFEKKAEEELNAEFHIEKNSLYGNDKNAVDSRDFYKGIDLENVFPRALIDNSFDFTKLSGLPFQNVKEALRNEEKIELLRGEDPNNSPRKFETALIVEVFKLKSQQLRAASLTRAQQQKLNDIDTLLDLIGEIKVEEPTFLLKIWKNF",
+            "entity_poly_seq_length": 579,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This is a family of conserved proteins which were originally described as death-associated-protein-3 (DAP-3). The proteins carry a P-loop DNA-binding motif, and induce apoptosis [1]. DAP3 has been shown to be a pro-apoptotic factor in the mitochondrial matrix [2] and to be crucial for mitochondrial biogenesis and so has also been designated as MRP-S29 (mitochondrial ribosomal protein subunit 29)."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal death-associated protein 3"
+            ],
+            "pfam_accessions": [
+                "PF10236"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22RT0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal death-associated protein",
+            "entity_poly_strand_id": "Bw",
+            "entity_poly_seq_one_letter_code": "MKIGFIETIKRVGKNLGATKEEKFRVLAKKTTIPNRRLKDDSSTHKRMPPIEQFRTYTKQILPQMEQSIEISMLQKQFQEIKSEELKQDLIRAYTRRRIKDLANQFSKLDDYKKQEDSMRHHDLPELNVYSFVPIGDHDFEDVGKYTMFPATDIQKYFLNNQMFGEYFEVEFYRTRKFGVMISEEGAKIVNHLQHIQDNKETPLNYINLFKRYPTEKIKEKIIEDEDVYPCLFHDLAKAAIEELEAYRNNTLFERLFCLPSLFDLTINVVLRELGENPNALLPLFLKQQEQIDNPQFTGKKVFNQLFEQIFKQINERAHPEFSNPQQYKQFLEDIQKFQISIKDCTEHEIDLIKYCKEPRWIPRNIKKYSLRKFIGFNSGALLYGDSGSGKSGTLLYVTMWAHYKKWIVLNVPSAFNWTQKEWKFVRHPKTGLYIQNELAQDWMKSFKHANSDLLKQIPVNMDIYGFYNLSGQHDKECDAVPDLYYKDRKVNFEEHKKFLTEEENIIDGETNKDFRVRLKEKLTNPLTVLDIIDYGLENEFFATNALYEVLEQIRNQDKFCVLKVIDGYNFMYKRSIYPSFRYATDTQLRSTVPPYHLTVPRAFLNFDGHKFKNGFVLCASSVKNFHKHIFGPDSIDFPLGYSHEMRGLPLDDFRVMCHYYLQNDFWLADNVAKNSSDFLWMHSQGNWAQAHKVMLGHQLDSM",
+            "entity_poly_seq_one_letter_code_can": "MKIGFIETIKRVGKNLGATKEEKFRVLAKKTTIPNRRLKDDSSTHKRMPPIEQFRTYTKQILPQMEQSIEISMLQKQFQEIKSEELKQDLIRAYTRRRIKDLANQFSKLDDYKKQEDSMRHHDLPELNVYSFVPIGDHDFEDVGKYTMFPATDIQKYFLNNQMFGEYFEVEFYRTRKFGVMISEEGAKIVNHLQHIQDNKETPLNYINLFKRYPTEKIKEKIIEDEDVYPCLFHDLAKAAIEELEAYRNNTLFERLFCLPSLFDLTINVVLRELGENPNALLPLFLKQQEQIDNPQFTGKKVFNQLFEQIFKQINERAHPEFSNPQQYKQFLEDIQKFQISIKDCTEHEIDLIKYCKEPRWIPRNIKKYSLRKFIGFNSGALLYGDSGSGKSGTLLYVTMWAHYKKWIVLNVPSAFNWTQKEWKFVRHPKTGLYIQNELAQDWMKSFKHANSDLLKQIPVNMDIYGFYNLSGQHDKECDAVPDLYYKDRKVNFEEHKKFLTEEENIIDGETNKDFRVRLKEKLTNPLTVLDIIDYGLENEFFATNALYEVLEQIRNQDKFCVLKVIDGYNFMYKRSIYPSFRYATDTQLRSTVPPYHLTVPRAFLNFDGHKFKNGFVLCASSVKNFHKHIFGPDSIDFPLGYSHEMRGLPLDDFRVMCHYYLQNDFWLADNVAKNSSDFLWMHSQGNWAQAHKVMLGHQLDSM",
+            "entity_poly_seq_length": 703,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23UD3"
+            ],
+            "rcsb_pdbx_description": "mS31",
+            "entity_poly_strand_id": "Bx",
+            "entity_poly_seq_one_letter_code": "MKIKIVYENLFRVINEGQLKSKRVKKLINFNKEELIYISKCCDMIKALKSVQRQLVFVQKAKFCSVPNQNNQGQGSNTNEPQQQAAAAATTTASQAEKPQQPAFLNANKDAQKDQKKTQNHEQKDQKQHQNQSSIYGSKINVGNSEEIKKSIQKSVNDFSSTYKLNLSDKKIKAGNKQTFAKKQDQESISKKKEKLLKGIQPTDEKLVDKHIGNVPIAQQIVVDKLKKYALRVSDTKRIHDKLKSEEGVDFSYVEPRNLEILNSFVHRKSEEMEELISTYLGVNQTLSKEEQLDDWRQQQALDHINFTPETMGKPEVFYPGSDRGPHPLDDPQNYIQWYEKHCPLPYRPLIDQMVQMTDMKITDNNMPSYIKKWIDQIQEDPQEDLDQEKEDDQEEDLDSDEEADMSEDEDVGLTDNKAQNDELEQQLCSVVGGGQGVFFYRTNPLPRLQVDNTSLWSLDQNSELPEDTSPEEQIINCEGNITFHSGLQDYEIPAFPETLSSYITHYQIPSIEKWSIFRQFPNMYHWWQKFYETNKKLSEQPLVRYQYSGLPSVYTYFYTMPEFARNNIVVQNVARCFEFNRPELNHQQKIMALNYAAKFSLPLDDLIVHAASQMIVSQKHFLTAKEEDRLKTVNQFYYEADTEAWDIHLAHEEHTIEQIENFQPPKRLGVDDIEEQLCDLPLEYYDNDDGFWNDFIKEKLNRNNAAYPATQGRAFFKH",
+            "entity_poly_seq_one_letter_code_can": "MKIKIVYENLFRVINEGQLKSKRVKKLINFNKEELIYISKCCDMIKALKSVQRQLVFVQKAKFCSVPNQNNQGQGSNTNEPQQQAAAAATTTASQAEKPQQPAFLNANKDAQKDQKKTQNHEQKDQKQHQNQSSIYGSKINVGNSEEIKKSIQKSVNDFSSTYKLNLSDKKIKAGNKQTFAKKQDQESISKKKEKLLKGIQPTDEKLVDKHIGNVPIAQQIVVDKLKKYALRVSDTKRIHDKLKSEEGVDFSYVEPRNLEILNSFVHRKSEEMEELISTYLGVNQTLSKEEQLDDWRQQQALDHINFTPETMGKPEVFYPGSDRGPHPLDDPQNYIQWYEKHCPLPYRPLIDQMVQMTDMKITDNNMPSYIKKWIDQIQEDPQEDLDQEKEDDQEEDLDSDEEADMSEDEDVGLTDNKAQNDELEQQLCSVVGGGQGVFFYRTNPLPRLQVDNTSLWSLDQNSELPEDTSPEEQIINCEGNITFHSGLQDYEIPAFPETLSSYITHYQIPSIEKWSIFRQFPNMYHWWQKFYETNKKLSEQPLVRYQYSGLPSVYTYFYTMPEFARNNIVVQNVARCFEFNRPELNHQQKIMALNYAAKFSLPLDDLIVHAASQMIVSQKHFLTAKEEDRLKTVNQFYYEADTEAWDIHLAHEEHTIEQIENFQPPKRLGVDDIEEQLCDLPLEYYDNDDGFWNDFIKEKLNRNNAAYPATQGRAFFKH",
+            "entity_poly_seq_length": 719,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LW04"
+            ],
+            "rcsb_pdbx_description": "mS33",
+            "entity_poly_strand_id": "By",
+            "entity_poly_seq_one_letter_code": "MPYIKLPNFKMGINPSLRSKLNPLALTGTQKIMLASSRIFGTNISGNLRSGNSELQKKFSPEKELAEFNTYAHDLSSGFPWVQYYEQKERHKMMIELRKMRILMRGIKIGKKKGGGKVTLMDVFETKADEDF",
+            "entity_poly_seq_one_letter_code_can": "MPYIKLPNFKMGINPSLRSKLNPLALTGTQKIMLASSRIFGTNISGNLRSGNSELQKKFSPEKELAEFNTYAHDLSSGFPWVQYYEQKERHKMMIELRKMRILMRGIKIGKKKGGGKVTLMDVFETKADEDF",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LWU8"
+            ],
+            "rcsb_pdbx_description": "mS34",
+            "entity_poly_strand_id": "Bz",
+            "entity_poly_seq_one_letter_code": "MAQKIEKAAASLISNTVKTFGLTDIIKHKKIPYKNIYELASQYPGTGIGFKFWRKTWPSNSFYVLQDIDLKGTRHGNAYGILYWKGIQQSNTPVRIRNGNKRGVWRYDINNTSVVLDNGLTYNASDLSAYKKHVQKSGQESEKNEAE",
+            "entity_poly_seq_one_letter_code_can": "MAQKIEKAAASLISNTVKTFGLTDIIKHKKIPYKNIYELASQYPGTGIGFKFWRKTWPSNSFYVLQDIDLKGTRHGNAYGILYWKGIQQSNTPVRIRNGNKRGVWRYDINNTSVVLDNGLTYNASDLSAYKKHVQKSGQESEKNEAE",
+            "entity_poly_seq_length": 147,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This is a conserved region of approx. 125 residues of one of the proteins that makes up the small subunit of the mitochondrial ribosome. In Saccharomyces cerevisiae the protein is MRP-S24 whereas in humans it is MRP-S28. The human mitochondrial ribosome has 29 distinct proteins in the small subunit and these have homologues in, for example, Drosophila melanogaster, Caenorhabditis elegans, and in the genomes of several fungi [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal subunit protein"
+            ],
+            "pfam_accessions": [
+                "PF10213"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23K64"
+            ],
+            "rcsb_pdbx_description": "Ribosomal subunit protein",
+            "entity_poly_strand_id": "BA",
+            "entity_poly_seq_one_letter_code": "MISTNISKFFFSRQATVKHLTKYEAIPHYMKQTLRDPHEYKLRSMQQIKDDLKDTDGKFVARIDIFYKDYNDAKFHESAMNKKVKMNVHLKNWKLTHSQKDRLSLLLGNRFMCNDYFTLICDQYTEPELNFEKLVQQVQELYLECKRAP",
+            "entity_poly_seq_one_letter_code_can": "MISTNISKFFFSRQATVKHLTKYEAIPHYMKQTLRDPHEYKLRSMQQIKDDLKDTDGKFVARIDIFYKDYNDAKFHESAMNKKVKMNVHLKNWKLTHSQKDRLSLLLGNRFMCNDYFTLICDQYTEPELNFEKLVQQVQELYLECKRAP",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7MMM6"
+            ],
+            "rcsb_pdbx_description": "mS37",
+            "entity_poly_strand_id": "BB",
+            "entity_poly_seq_one_letter_code": "MAPPPKYVISRKLVKRFFDKYLPRQPMDVQNESGKLMKCWQQYGIDDPRCKEYEVLYDHMYTLTRNYRAKIEGLRIKEDVMGALNRPKYHSEVKGRWRTGKTTEWDVYDGVQ",
+            "entity_poly_seq_one_letter_code_can": "MAPPPKYVISRKLVKRFFDKYLPRQPMDVQNESGKLMKCWQQYGIDDPRCKEYEVLYDHMYTLTRNYRAKIEGLRIKEDVMGALNRPKYHSEVKGRWRTGKTTEWDVYDGVQ",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS38",
+            "entity_poly_strand_id": "BC",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This domain is found in fungal proteins and contains a conserved IGR motif. Its function is unknown."
+            ],
+            "pfam_descriptions": [
+                "IGR protein motif"
+            ],
+            "pfam_accessions": [
+                "PF09597"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22FZ4"
+            ],
+            "rcsb_pdbx_description": "IGR motif protein",
+            "entity_poly_strand_id": "BD",
+            "entity_poly_seq_one_letter_code": "MIRSLVQIAKKSDTQSLVFTQVYFKTQYIRQPKLKFRTCVPIYPPPGLNLEIPDWDKELFLKRIGGGTSEYADKFDNLQEIFTSTSKQMADKGVPPKARKYILSMKEQLRRGVVTFEYLSRRTCLEQLKD",
+            "entity_poly_seq_one_letter_code_can": "MIRSLVQIAKKSDTQSLVFTQVYFKTQYIRQPKLKFRTCVPIYPPPGLNLEIPDWDKELFLKRIGGGTSEYADKFDNLQEIFTSTSKQMADKGVPPKARKYILSMKEQLRRGVVTFEYLSRRTCLEQLKD",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23DN6"
+            ],
+            "rcsb_pdbx_description": "mS45",
+            "entity_poly_strand_id": "BE",
+            "entity_poly_seq_one_letter_code": "MIQKAIKILVNKQIQCFSYSKQSSFARMSAFRNDFDEKIKQKYIKNKTNDERFQQMNPEYIKKAINEEYEEAKEELFQNGGILTELRKSMLGKEEDEKETLGAEEFEDPVDNYLHDGLTHDEFLYRASNIKKQLFAKQIPDFFEKDEINSQYGNYSSFDKNFAKLKSMKTHLPDIEQSGFAGYKLEKWVNSLKGKKEIDDDEDLDEVREIIEENEINITEDEKHLLKWKIADIMRKENDEYVPFLEELEGENEKDPFEEDDTEDGRLSCKARDDIYELYQKGWSIKDICTRYGIVPERAKAVIWMCEKYYFQILPKADALAIHMAQEMEEEWEEENGWQDYGIDLEELAEREKGMHTLSFKRYREVDVGKPSKNILSEEDYTLVQKINTPRQEKITLKLDGGKYQRGYLIKDWKINKGRGRRDVSKMFRRIIENSHDISKLPSSVQLRVREGPRNASKGYSSKL",
+            "entity_poly_seq_one_letter_code_can": "MIQKAIKILVNKQIQCFSYSKQSSFARMSAFRNDFDEKIKQKYIKNKTNDERFQQMNPEYIKKAINEEYEEAKEELFQNGGILTELRKSMLGKEEDEKETLGAEEFEDPVDNYLHDGLTHDEFLYRASNIKKQLFAKQIPDFFEKDEINSQYGNYSSFDKNFAKLKSMKTHLPDIEQSGFAGYKLEKWVNSLKGKKEIDDDEDLDEVREIIEENEINITEDEKHLLKWKIADIMRKENDEYVPFLEELEGENEKDPFEEDDTEDGRLSCKARDDIYELYQKGWSIKDICTRYGIVPERAKAVIWMCEKYYFQILPKADALAIHMAQEMEEEWEEENGWQDYGIDLEELAEREKGMHTLSFKRYREVDVGKPSKNILSEEDYTLVQKINTPRQEKITLKLDGGKYQRGYLIKDWKINKGRGRRDVSKMFRRIIENSHDISKLPSSVQLRVREGPRNASKGYSSKL",
+            "entity_poly_seq_length": 464,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "bL7/L12m",
+            "entity_poly_strand_id": "Ah",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS75",
+            "entity_poly_strand_id": "BF",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 23,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q24G80"
+            ],
+            "rcsb_pdbx_description": "mS76",
+            "entity_poly_strand_id": "BG",
+            "entity_poly_seq_one_letter_code": "MRQLVKTQLLKSNIQELRSSIDIRKVLNNKYRDSESSDFYKKNREQLVSRIKQDMDVDSYTGATTRRTQFQQYYQDQPSLGFVYPMNPGRGAFMEPDCRFTGNDFMEKINTHFATAITSSYQDLDKVVKIQVNDSKKNIEQNLEKLFREKNPNKEFNFDKEYARYLKLDSKKFKKEYGYETD",
+            "entity_poly_seq_one_letter_code_can": "MRQLVKTQLLKSNIQELRSSIDIRKVLNNKYRDSESSDFYKKNREQLVSRIKQDMDVDSYTGATTRRTQFQQYYQDQPSLGFVYPMNPGRGAFMEPDCRFTGNDFMEKINTHFATAITSSYQDLDKVVKIQVNDSKKNIEQNLEKLFREKNPNKEFNFDKEYARYLKLDSKKFKKEYGYETD",
+            "entity_poly_seq_length": 182,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS77",
+            "entity_poly_strand_id": "BH",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family contains a diverse set of enzymes including: enoyl-CoA hydratase, napthoate synthase, carnitate racemase, 3-hydroxybutyryl-CoA dehydratase and dodecanoyl-CoA delta-isomerase. This family differs from Pfam:PF00378 in the structure of it's C-terminus."
+            ],
+            "pfam_descriptions": [
+                "Enoyl-CoA hydratase/isomerase"
+            ],
+            "pfam_accessions": [
+                "PF16113"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22P47"
+            ],
+            "rcsb_pdbx_description": "Enoyl-CoA hydratase/isomerase",
+            "entity_poly_strand_id": "BI",
+            "entity_poly_seq_one_letter_code": "MFKVAKNKKLLASSGLALKSSYKVSNSTVINNFESRSFKNKKNLYNVVAKRSGDVAFSYLNGEYKQNTLDTHMIKEITRFLESYEIDSSIRAVFLENSKEAGVFSKGTDFKFLMKKIAEKEPHKAFDYLRELYDFAIFIGKYNKPLLININGLITGSAASIFTRAPFALGSKNTKWRLNETSLGYIPDAGASYYLSRLNMELGTFLALTGWQIDGYDLSRSGIAFERMFATHQNIEENWKVAHKKHDQETTSEDLYGLNKFVDLTKQLYYKETYFSQLNEEVYNRIHKQGEIYYRNENKRLAMAEILYKHQMQDRANLGFKADDLFNRSHEILNRLLHYEQCVMFDLGLENIELQTSGTVTSLPLFTIGRCFSANSIEEIIERLREEDTHFSRACIKSLESKSPLALKLTLKLLREGINSSWKECFEREFRVACRRLLDNEVMRCIQSEIVEEARGFKDWDYKVLSQISKDQVESYFRPLVEEKRFEGVSEYQGDLKENCLYPTKDFYRDYPDTVRYYLNQDNLRDAYQRNSQIYDVEEFLQSHNINSKSPAINIADLREKFYLMEKLNRKKIEKLNRLSQLSGSEFSIKNFYEVRKAAIDNLFSNKQLVEQKVDEFSAQVFEDFRNERLQQIKKISQVAAVEKKEDFFMKLRQKIIDERLVESDKLEEITIRDYPGLQYPLFFPFDNKDNIIETHNPYVKTLFKDVLNQIKVESRGTLVKNYNFDLKEIESIMEEKEFGKKLIDRLHLQYSDRVNWFNKAREQYEIRYGDYRGNLVDKWYERLIESGYKVDGIREILQTQTNEQVKQIIQNNVTDNLKDYIYEFLSDLKVSKSIFEESENTQNQQQLAEEVLKISKEGINQYSNLISLENGQKHNIQSNFALKPHEQALELFKKYINHDEELKETLTILLESQQSKSKNSIIEKTRQEMLKLLTQIVQSKLEQIYGKNNYKSCLVTENGEKYYQFDHAFMSRFDNYITENLEFDIQQYLSTHTLFMFGALGLQRLENLFRRIYNASRKAQKGDQESAQESAASIIQILKDYGLEVNSTEELEEFTNYLNNLTSTFASLYVGYKNHLIFSEDKALELQNRTKFIKEREQDELSFSNYAIMAYEQKEKFIDQLSALGSQLDEKECEFKVEFSDQIKSVQRLVEKPLRDGENKEQRIQLIKYQLEKLDDFKLPKKLITGFVLYAEKLDRLTQTSIHGKAYYVPEKLQIDPEEAQIPEVFEDLDSRMTVQQWLDAKLKIFIRKIFNARYQQEKILNHHDLLMLDYEISKFLMPESLKQSMYEQLDRDMETLRICREYQVSERSKGEAEMQEFLKKKQMEVGKIRNPKAVEKLNAFRIWREQKYANRDPTAAEFEQIMKIEGELILESTLAPYGQIETDKEIEKTYLHLLDIQDFSDLDTTRITKEKTLTEEYRLSIDHLKNSIVTKKGDHLYDDINLFIKQISV",
+            "entity_poly_seq_one_letter_code_can": "MFKVAKNKKLLASSGLALKSSYKVSNSTVINNFESRSFKNKKNLYNVVAKRSGDVAFSYLNGEYKQNTLDTHMIKEITRFLESYEIDSSIRAVFLENSKEAGVFSKGTDFKFLMKKIAEKEPHKAFDYLRELYDFAIFIGKYNKPLLININGLITGSAASIFTRAPFALGSKNTKWRLNETSLGYIPDAGASYYLSRLNMELGTFLALTGWQIDGYDLSRSGIAFERMFATHQNIEENWKVAHKKHDQETTSEDLYGLNKFVDLTKQLYYKETYFSQLNEEVYNRIHKQGEIYYRNENKRLAMAEILYKHQMQDRANLGFKADDLFNRSHEILNRLLHYEQCVMFDLGLENIELQTSGTVTSLPLFTIGRCFSANSIEEIIERLREEDTHFSRACIKSLESKSPLALKLTLKLLREGINSSWKECFEREFRVACRRLLDNEVMRCIQSEIVEEARGFKDWDYKVLSQISKDQVESYFRPLVEEKRFEGVSEYQGDLKENCLYPTKDFYRDYPDTVRYYLNQDNLRDAYQRNSQIYDVEEFLQSHNINSKSPAINIADLREKFYLMEKLNRKKIEKLNRLSQLSGSEFSIKNFYEVRKAAIDNLFSNKQLVEQKVDEFSAQVFEDFRNERLQQIKKISQVAAVEKKEDFFMKLRQKIIDERLVESDKLEEITIRDYPGLQYPLFFPFDNKDNIIETHNPYVKTLFKDVLNQIKVESRGTLVKNYNFDLKEIESIMEEKEFGKKLIDRLHLQYSDRVNWFNKAREQYEIRYGDYRGNLVDKWYERLIESGYKVDGIREILQTQTNEQVKQIIQNNVTDNLKDYIYEFLSDLKVSKSIFEESENTQNQQQLAEEVLKISKEGINQYSNLISLENGQKHNIQSNFALKPHEQALELFKKYINHDEELKETLTILLESQQSKSKNSIIEKTRQEMLKLLTQIVQSKLEQIYGKNNYKSCLVTENGEKYYQFDHAFMSRFDNYITENLEFDIQQYLSTHTLFMFGALGLQRLENLFRRIYNASRKAQKGDQESAQESAASIIQILKDYGLEVNSTEELEEFTNYLNNLTSTFASLYVGYKNHLIFSEDKALELQNRTKFIKEREQDELSFSNYAIMAYEQKEKFIDQLSALGSQLDEKECEFKVEFSDQIKSVQRLVEKPLRDGENKEQRIQLIKYQLEKLDDFKLPKKLITGFVLYAEKLDRLTQTSIHGKAYYVPEKLQIDPEEAQIPEVFEDLDSRMTVQQWLDAKLKIFIRKIFNARYQQEKILNHHDLLMLDYEISKFLMPESLKQSMYEQLDRDMETLRICREYQVSERSKGEAEMQEFLKKKQMEVGKIRNPKAVEKLNAFRIWREQKYANRDPTAAEFEQIMKIEGELILESTLAPYGQIETDKEIEKTYLHLLDIQDFSDLDTTRITKEKTLTEEYRLSIDHLKNSIVTKKGDHLYDDINLFIKQISV",
+            "entity_poly_seq_length": 1451,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "I7M7B1"
+            ],
+            "rcsb_pdbx_description": "mS78",
+            "entity_poly_strand_id": "BJ",
+            "entity_poly_seq_one_letter_code": "MLSRIASKKISKQIGLNKKIARQSSSINKVIQDLLETSSKEESDLRVSQFAKNLDYLREKHEERSKIINQYLHRMRAASINSNIPLKEILRQFISSTRLGFDQKMTSETLFYLSATLNSLGPNPNHYFDYNLELLKDSWRFDDLVGDFRYGLKSGVEFSPERIAQGLRSLKKLGYSNSRITREAIQKIHRMLTKNDDQFNIDTENIIDNNPSIHKPLYYMRSPLDAKQIVENPEFQKFLKATIQKQEQELNKLNQKKNLQKDEDAQTITLRNELNEEEQEILDEIEIISKKINKSIQKSALAMKKTIESVIQIRRHYLRMIESQEKVQSVNLTPQLNLDLLNLEESMVEAGLISINEVKNPQLIIDTNQNRESIAQIVSNLIVEQNESFLPYFDNLIQSKPQLLQEIDSDRSLPEINVQFFANYTHSQFAEALLAVTEYSNSKLSEFKGQTFLNEKWADFFPQVDEADRLFFVQFLDSQKLFIEVSEVVLEQTKNEKDVNALGKYAAAFGNIGLIGVSKELVKRITSLEGMSTQTGICILRVCSEFPEEFSQLSENIIQILEKSSDITASQAIDLVYYEIALNKVSEASLNILKQQSKHILDENPRLNYVSQYLKLQGVDLGYNASGASIFENNLFQKNPIKDKLVELIGKAENLSHTGLGDYKPDFMCLERNEQGEIVQKAIFITPAEYSYFDIAKPAVEYTLLSKYLSHKVKNMVFEFIPITKFIDVNHQDHMITIKRDNQLFIELFDKAHHNIYSNLNNDLLVIGENLIDEEYNILKSKIKQIFRLSGGRRYLQLSVSDLMQVKYSLFSMAEDFNTVLSETSQQNLNQLCQKHFNQDFVSLLKSHSKLNFSVKNTQEEMEFFLKQKWVGKRLSIDLLPKGNEKYNQSDAFFDHLYISSENYYEYPEWQELLTQEYGVSNIAQINPTNFLAHQVSDVCNQTNTAYIIPKKKEVRSQIRPLDQRIVTSKQDRANYSLTWEQDYFTQGTNGELVYRGENHKISEGTKYIANLLNFKWELKKAFSSQERLDFLHKLNLTDKLIENHLHTSQNHQPKHAHFAQRDPKKYFEYLQNKTPSSLYCQEYLEFFTRKVDQKNKIIQLSKLHFTKIKEIYKSYQKGYISRQQFDQQKEGIQKDLLKTLRQYDAANNSLDSLLQNETIRYIDVQFDAESLLKDKSYVRYNLENDRDYLACKKDLNQTLNLKRIRAEEKLIKAKILSKISAEQTLTSLEQQYLEKWNSGEITLPKEPTFLTYKELDNSDVQLLNSLKFSDLVSFDKMQVNDLVVEFSSLFEQAIINNADVHLKGKNALKEWGISPEWISKSATNSMNNYLIALSETQAWKDGQKLKEHEKENVCSMLRLLQEQSYQDKIFTANENVLRKEALDVFNQSENRFSIFMKWLESREQEGFSISSDNTEHVLKLWENIFEKSYENTTQEELHLFTHNLVQRLYVLSKYPPSAFGSFLSKLLLHPKLHIIDKNILICGIDAFKFNAYLSSKELIDFSRNVRAAHTPQDLAALTRANVFASENILQKISKLVKN",
+            "entity_poly_seq_one_letter_code_can": "MLSRIASKKISKQIGLNKKIARQSSSINKVIQDLLETSSKEESDLRVSQFAKNLDYLREKHEERSKIINQYLHRMRAASINSNIPLKEILRQFISSTRLGFDQKMTSETLFYLSATLNSLGPNPNHYFDYNLELLKDSWRFDDLVGDFRYGLKSGVEFSPERIAQGLRSLKKLGYSNSRITREAIQKIHRMLTKNDDQFNIDTENIIDNNPSIHKPLYYMRSPLDAKQIVENPEFQKFLKATIQKQEQELNKLNQKKNLQKDEDAQTITLRNELNEEEQEILDEIEIISKKINKSIQKSALAMKKTIESVIQIRRHYLRMIESQEKVQSVNLTPQLNLDLLNLEESMVEAGLISINEVKNPQLIIDTNQNRESIAQIVSNLIVEQNESFLPYFDNLIQSKPQLLQEIDSDRSLPEINVQFFANYTHSQFAEALLAVTEYSNSKLSEFKGQTFLNEKWADFFPQVDEADRLFFVQFLDSQKLFIEVSEVVLEQTKNEKDVNALGKYAAAFGNIGLIGVSKELVKRITSLEGMSTQTGICILRVCSEFPEEFSQLSENIIQILEKSSDITASQAIDLVYYEIALNKVSEASLNILKQQSKHILDENPRLNYVSQYLKLQGVDLGYNASGASIFENNLFQKNPIKDKLVELIGKAENLSHTGLGDYKPDFMCLERNEQGEIVQKAIFITPAEYSYFDIAKPAVEYTLLSKYLSHKVKNMVFEFIPITKFIDVNHQDHMITIKRDNQLFIELFDKAHHNIYSNLNNDLLVIGENLIDEEYNILKSKIKQIFRLSGGRRYLQLSVSDLMQVKYSLFSMAEDFNTVLSETSQQNLNQLCQKHFNQDFVSLLKSHSKLNFSVKNTQEEMEFFLKQKWVGKRLSIDLLPKGNEKYNQSDAFFDHLYISSENYYEYPEWQELLTQEYGVSNIAQINPTNFLAHQVSDVCNQTNTAYIIPKKKEVRSQIRPLDQRIVTSKQDRANYSLTWEQDYFTQGTNGELVYRGENHKISEGTKYIANLLNFKWELKKAFSSQERLDFLHKLNLTDKLIENHLHTSQNHQPKHAHFAQRDPKKYFEYLQNKTPSSLYCQEYLEFFTRKVDQKNKIIQLSKLHFTKIKEIYKSYQKGYISRQQFDQQKEGIQKDLLKTLRQYDAANNSLDSLLQNETIRYIDVQFDAESLLKDKSYVRYNLENDRDYLACKKDLNQTLNLKRIRAEEKLIKAKILSKISAEQTLTSLEQQYLEKWNSGEITLPKEPTFLTYKELDNSDVQLLNSLKFSDLVSFDKMQVNDLVVEFSSLFEQAIINNADVHLKGKNALKEWGISPEWISKSATNSMNNYLIALSETQAWKDGQKLKEHEKENVCSMLRLLQEQSYQDKIFTANENVLRKEALDVFNQSENRFSIFMKWLESREQEGFSISSDNTEHVLKLWENIFEKSYENTTQEELHLFTHNLVQRLYVLSKYPPSAFGSFLSKLLLHPKLHIIDKNILICGIDAFKFNAYLSSKELIDFSRNVRAAHTPQDLAALTRANVFASENILQKISKLVKN",
+            "entity_poly_seq_length": 1539,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q23DG3"
+            ],
+            "rcsb_pdbx_description": "mS79",
+            "entity_poly_strand_id": "BK",
+            "entity_poly_seq_one_letter_code": "MKKVVKRIDQPIIFTYNVMLNVYKNFGQKHFEHIENHLSKQTNMKAIVLPIISYPEDSIESRAKQASQKIPELLSKHKADKAHIISYSTSGVDMRYLISEFQGSQYISSLSTIASPHKGAKVITAYERKLIFDQHLQAISRLVGLDISSFQEYRPTNIRDFNTFVLNNPKVQYFTVGGEKMAAQCADSLKSSNGALFSEFNGTSGAPIDNDGVFCFDEVQWGTHLLNFEADHSDLVGLGRGNFRYEQVIDLLIQNIRYNFGTPIGEQ",
+            "entity_poly_seq_one_letter_code_can": "MKKVVKRIDQPIIFTYNVMLNVYKNFGQKHFEHIENHLSKQTNMKAIVLPIISYPEDSIESRAKQASQKIPELLSKHKADKAHIISYSTSGVDMRYLISEFQGSQYISSLSTIASPHKGAKVITAYERKLIFDQHLQAISRLVGLDISSFQEYRPTNIRDFNTFVLNNPKVQYFTVGGEKMAAQCADSLKSSNGALFSEFNGTSGAPIDNDGVFCFDEVQWGTHLLNFEADHSDLVGLGRGNFRYEQVIDLLIQNIRYNFGTPIGEQ",
+            "entity_poly_seq_length": 267,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q24E31"
+            ],
+            "rcsb_pdbx_description": "mS81",
+            "entity_poly_strand_id": "BM",
+            "entity_poly_seq_one_letter_code": "MIAKLFIRSSQRLIALNARFFSTNPANQFNNQETSSTYQNQRNNRREPSEFRRNNQERYQKREGEEQYRPRKESITWDEYFNLYATNKIHNISEAKFPYNFRGMQDFVPIKKEFDNMIFAKGENYADFCKQFDRRMVWFMKSLATNKDDDLPYSELNFLLQAKKGAELLRRNGYQINLIEDNEGFQKFGGKKGGQPFEITHIMGLNSNRTRNAGTDAYSIIRDLEEKGLIMFIGNQLKMDENGNYDFKLTRDDDKQMILRVHYKFATPYILQVTDSSGKVVSPPPESYIHTAVFENQLRLPPKFSRLDLHFLDWIKLYRIQNEWKLVDFDRFLSGNKLIYSEKEQRQLFKGEKDN",
+            "entity_poly_seq_one_letter_code_can": "MIAKLFIRSSQRLIALNARFFSTNPANQFNNQETSSTYQNQRNNRREPSEFRRNNQERYQKREGEEQYRPRKESITWDEYFNLYATNKIHNISEAKFPYNFRGMQDFVPIKKEFDNMIFAKGENYADFCKQFDRRMVWFMKSLATNKDDDLPYSELNFLLQAKKGAELLRRNGYQINLIEDNEGFQKFGGKKGGQPFEITHIMGLNSNRTRNAGTDAYSIIRDLEEKGLIMFIGNQLKMDENGNYDFKLTRDDDKQMILRVHYKFATPYILQVTDSSGKVVSPPPESYIHTAVFENQLRLPPKFSRLDLHFLDWIKLYRIQNEWKLVDFDRFLSGNKLIYSEKEQRQLFKGEKDN",
+            "entity_poly_seq_length": 355,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22GF7"
+            ],
+            "rcsb_pdbx_description": "mS82",
+            "entity_poly_strand_id": "BN",
+            "entity_poly_seq_one_letter_code": "MAASQKVVNGIAKGLQEYVNPTKLAPFKKAVRDQMMEIEGLQAFEQGLYHNKDYENMIKQLVESRKAFRNSRSKTERQSIAKQQYDEWSKYVEIRKSQLTEDFQIPKNFQSQMDQVWGFVKNRKESTIHSSKMLDFHYELMNQFKFSIPIEPRLLVQMIHPHFGYLSNYPGNFTQEDILEVYKCKLVASMERVLGQDLLANEIAAYTYWKIYDKQAQGSFDLKTFGEFMKTFRFNLDGTAENFKQEFKFALQLHPGELSNDLQESDQLVRFDFYRYLFLERNL",
+            "entity_poly_seq_one_letter_code_can": "MAASQKVVNGIAKGLQEYVNPTKLAPFKKAVRDQMMEIEGLQAFEQGLYHNKDYENMIKQLVESRKAFRNSRSKTERQSIAKQQYDEWSKYVEIRKSQLTEDFQIPKNFQSQMDQVWGFVKNRKESTIHSSKMLDFHYELMNQFKFSIPIEPRLLVQMIHPHFGYLSNYPGNFTQEDILEVYKCKLVASMERVLGQDLLANEIAAYTYWKIYDKQAQGSFDLKTFGEFMKTFRFNLDGTAENFKQEFKFALQLHPGELSNDLQESDQLVRFDFYRYLFLERNL",
+            "entity_poly_seq_length": 283,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)",
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017,
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22N51"
+            ],
+            "rcsb_pdbx_description": "PARP alpha-helical domain-containing protein,mS83",
+            "entity_poly_strand_id": "BO",
+            "entity_poly_seq_one_letter_code": "DYKPIPFGVNVEDSVEYYNKQLESLEKHMPLNIFSC(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "DYKPIPFGVNVEDSVEYYNKQLESLEKHMPLNIFSCXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)",
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017,
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS84,mS84",
+            "entity_poly_strand_id": "BP",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)KVETLNEEDVAEKIIENLTDVKIIEKDSKRKVLKKTGVHKFKDIDSYIKETRSSRDKKK",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKVETLNEEDVAEKIIENLTDVKIIEKDSKRKVLKKTGVHKFKDIDSYIKETRSSRDKKK",
+            "entity_poly_seq_length": 100,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q22UP3"
+            ],
+            "rcsb_pdbx_description": "mS85",
+            "entity_poly_strand_id": "BQ",
+            "entity_poly_seq_one_letter_code": "MLRVVHNLGKSIKINLTSKNILRVSFSSDQKVSTEPESGLTFEQKAEIFERFSNSFVGIDRFKETQQTLKKIVEANYSQSAIKEELIQELKEVYGKNYEKILNLRFAVEYDGHKDGVAVGEFELFPKNLQDVNKFENYSKNGDLIKQLQQTTYISVDPKETHKYVVPKDSHFSLLLDEYIADEYVSELNDNQVCLFGFPLTCDESDITNLLNNEFKGNFTSSVIGEDILSLPAYVVLTFSSPKEAAEYKQKVNALQYTIEKRPIYATTFEDSRREHSTNRTLLVTGFKKNEYINDMLNLFSSFGSVMHFEIVEDPVHSKLPTTEQVIEYLKKTIKEGDDSVIYEITDFSDGAPSITEYPPFNPNTELMRDAKKVHEVKDEIELEKERQQQLAKRQLIPRIVLYSWDSESRVPEEYRMKNASEEQKKIIQSIENDLRTQYQNKQYLFVTYACTQQAQIAFHALNNLRNYEVTLKKSIEHYHCDTIHQTSVFKEIKQIKGDFKIKFNEQSLVKTEEEKVLAQTHQEMREKLLEQANSQQFTQELSKQLENEIIGKTKYGVEHQLHLKSDKLGRDFNSRVTQDDLNQLASQFQENQKKNLQTLEEVRKDEEELLNLYKAKVMYSDINKITHPYIEADKETIQKVEENYYQQQLKEYKLKQKEYMKEQQIREKWLEESKEMLEKKFVFGRNYKKKVIADKAGVDDVPDIKEPKEEEADQYYAPYNDYIQQKRYKKYLRYVDEMQRLYDGEYSEAMKNKIFVEGGKKTCDSDGNQFVTQNQGEVFNKILLSDEQFEMLKYYTSIADVLPNKRVQELSTMLEETPEETIYMMKQLKYPTKVFDRSKIPELDENSIPISNEDFVNDLNKYVSGLGQRYAVQKDARGDEKIVMYENTPHPVPLQALNVDEIQLLRDCLTTYGFDAEATEREIQYFIKHGDYSEEVLKIVGNEQTIDEESELEALINATGLTKAELESIMKLDLEKEGSNVLLSLQQQREELSLELSRATPQPKDLIKTNNTKLRNKDKQGRYKTSSFKLF",
+            "entity_poly_seq_one_letter_code_can": "MLRVVHNLGKSIKINLTSKNILRVSFSSDQKVSTEPESGLTFEQKAEIFERFSNSFVGIDRFKETQQTLKKIVEANYSQSAIKEELIQELKEVYGKNYEKILNLRFAVEYDGHKDGVAVGEFELFPKNLQDVNKFENYSKNGDLIKQLQQTTYISVDPKETHKYVVPKDSHFSLLLDEYIADEYVSELNDNQVCLFGFPLTCDESDITNLLNNEFKGNFTSSVIGEDILSLPAYVVLTFSSPKEAAEYKQKVNALQYTIEKRPIYATTFEDSRREHSTNRTLLVTGFKKNEYINDMLNLFSSFGSVMHFEIVEDPVHSKLPTTEQVIEYLKKTIKEGDDSVIYEITDFSDGAPSITEYPPFNPNTELMRDAKKVHEVKDEIELEKERQQQLAKRQLIPRIVLYSWDSESRVPEEYRMKNASEEQKKIIQSIENDLRTQYQNKQYLFVTYACTQQAQIAFHALNNLRNYEVTLKKSIEHYHCDTIHQTSVFKEIKQIKGDFKIKFNEQSLVKTEEEKVLAQTHQEMREKLLEQANSQQFTQELSKQLENEIIGKTKYGVEHQLHLKSDKLGRDFNSRVTQDDLNQLASQFQENQKKNLQTLEEVRKDEEELLNLYKAKVMYSDINKITHPYIEADKETIQKVEENYYQQQLKEYKLKQKEYMKEQQIREKWLEESKEMLEKKFVFGRNYKKKVIADKAGVDDVPDIKEPKEEEADQYYAPYNDYIQQKRYKKYLRYVDEMQRLYDGEYSEAMKNKIFVEGGKKTCDSDGNQFVTQNQGEVFNKILLSDEQFEMLKYYTSIADVLPNKRVQELSTMLEETPEETIYMMKQLKYPTKVFDRSKIPELDENSIPISNEDFVNDLNKYVSGLGQRYAVQKDARGDEKIVMYENTPHPVPLQALNVDEIQLLRDCLTTYGFDAEATEREIQYFIKHGDYSEEVLKIVGNEQTIDEESELEALINATGLTKAELESIMKLDLEKEGSNVLLSLQQQREELSLELSRATPQPKDLIKTNNTKLRNKDKQGRYKTSSFKLF",
+            "entity_poly_seq_length": 1032,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family contains proteins that have a domain related to the globular C-terminus of Frataxin the protein that is mutated in Friedreich's ataxia.  This domain is found in a family of bacterial proteins.        The function of this domain is currently unknown. It has been suggested that this family is involved in iron transport."
+            ],
+            "pfam_descriptions": [
+                "Frataxin-like domain"
+            ],
+            "pfam_accessions": [
+                "PF01491"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q240K3"
+            ],
+            "rcsb_pdbx_description": "Iron donor protein CyaY",
+            "entity_poly_strand_id": "BR",
+            "entity_poly_seq_one_letter_code": "MKKIAINYIFNQTLGRQNHVRVIRLSAPKAIYNFSNKEDILNGLNEKDYQRYCSQFMNELGDVLEESPSQRISDVQISDGVIKVTTQGEKTFVINRQVPNRQIWYSSPVSGPQRFNWDLQEAKWKNQKNEELSKLLFKEIDQV",
+            "entity_poly_seq_one_letter_code_can": "MKKIAINYIFNQTLGRQNHVRVIRLSAPKAIYNFSNKEDILNGLNEKDYQRYCSQFMNELGDVLEESPSQRISDVQISDGVIKVTTQGEKTFVINRQVPNRQIWYSSPVSGPQRFNWDLQEAKWKNQKNEELSKLLFKEIDQV",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "A4VCP7"
+            ],
+            "rcsb_pdbx_description": "mS87",
+            "entity_poly_strand_id": "BS",
+            "entity_poly_seq_one_letter_code": "MIRSILKQVKGNLTKGNSFNAKLNEIPVRCFSSSTGEGNEGDAPKNQQEQQQQKDQQPQQQQQPLQNQGKNQKQFDNKRNFQNNQQGANADRNADKQKKNFTPFKQQSNNQNYRKREDGESDQQNQGGFRSNSQNQQNSTGFTSSQNQRNQPKKEVLSFNLKKAEDQSNRDSSNQQDNKQRPQRPQRENQNDQASEQSEGQSYQKSSTSSYGSEGMFLNQLFKSEQNKTEKQKGANQHQQLMKRIKSYEQNGNPSEQEMRMAIECYNSCGLYDKTIATFQTYKDNFVKGKQGVSLNETILNSVFESYLKNSSSKFNDVNEFFLIHFAQTKQLKLIYKDNIQNYISRVCIDPYLNLSQRIEFLSEFVNMFTNSQDADSLVTSSFNNIDLSSLSSLFGNADTQQYIQASKTLATLMNLSIQHNKGSFNQLGKNTEFNKVQFEIINTKKIFNNLLNLKQYEICREIVEALSRGNLLHSHTFTSKSSEQQKYIDYKDLIKFSLDFQVSVNYWIDVIAKKVDFESFTQLFSSAILELRMNQNPPKVFSIEQVYDFFYNISNYGALNPTQVYILMDISIYLKEYNLAIELFTHHQKYTNRRRDNFVYEKMIQVVNSINLRQQAGKSNKDHVLQAYRKLYTEAEQQTGKPIGFLNSKIYEIKSCILDQNHDSAYSIFNDRFLKESIANYQALKMKYFLLLLLEKQDERDLQYSEISINKFINGLAPKQLIQIWNDDRNDTYLAKQLANKENDYNEFVKRIEVEKYYSIIKRDINNGFYTIEDRRQNMDVMMNEYERYVIDNFEVLDPEYTLDGKLKGAVLDGILKIRKYEEVHLKKEERRKEKQSKKGEKESDSQTSQALIQHQKEMEDTQIEINKILGRPIDTPVNVPELYKKYDTEDKMNNKYIERYVKNLQQNEFNKEGRLYKMKFMNLDQYKEASQCYPELVEQAEILARPQIPSDVNLVFELMTWGAENQQPLAIQLGEIYCDLNGIPVPSSLVEKINKAIDPYNDNLDFINQITSAKRLIGDINRERVYQTYTHFSQKPKFAEQVNQLGEEDKYRDEATYVLQQEQAASRLTKYGIPKKYIMEQLKA",
+            "entity_poly_seq_one_letter_code_can": "MIRSILKQVKGNLTKGNSFNAKLNEIPVRCFSSSTGEGNEGDAPKNQQEQQQQKDQQPQQQQQPLQNQGKNQKQFDNKRNFQNNQQGANADRNADKQKKNFTPFKQQSNNQNYRKREDGESDQQNQGGFRSNSQNQQNSTGFTSSQNQRNQPKKEVLSFNLKKAEDQSNRDSSNQQDNKQRPQRPQRENQNDQASEQSEGQSYQKSSTSSYGSEGMFLNQLFKSEQNKTEKQKGANQHQQLMKRIKSYEQNGNPSEQEMRMAIECYNSCGLYDKTIATFQTYKDNFVKGKQGVSLNETILNSVFESYLKNSSSKFNDVNEFFLIHFAQTKQLKLIYKDNIQNYISRVCIDPYLNLSQRIEFLSEFVNMFTNSQDADSLVTSSFNNIDLSSLSSLFGNADTQQYIQASKTLATLMNLSIQHNKGSFNQLGKNTEFNKVQFEIINTKKIFNNLLNLKQYEICREIVEALSRGNLLHSHTFTSKSSEQQKYIDYKDLIKFSLDFQVSVNYWIDVIAKKVDFESFTQLFSSAILELRMNQNPPKVFSIEQVYDFFYNISNYGALNPTQVYILMDISIYLKEYNLAIELFTHHQKYTNRRRDNFVYEKMIQVVNSINLRQQAGKSNKDHVLQAYRKLYTEAEQQTGKPIGFLNSKIYEIKSCILDQNHDSAYSIFNDRFLKESIANYQALKMKYFLLLLLEKQDERDLQYSEISINKFINGLAPKQLIQIWNDDRNDTYLAKQLANKENDYNEFVKRIEVEKYYSIIKRDINNGFYTIEDRRQNMDVMMNEYERYVIDNFEVLDPEYTLDGKLKGAVLDGILKIRKYEEVHLKKEERRKEKQSKKGEKESDSQTSQALIQHQKEMEDTQIEINKILGRPIDTPVNVPELYKKYDTEDKMNNKYIERYVKNLQQNEFNKEGRLYKMKFMNLDQYKEASQCYPELVEQAEILARPQIPSDVNLVFELMTWGAENQQPLAIQLGEIYCDLNGIPVPSSLVEKINKAIDPYNDNLDFINQITSAKRLIGDINRERVYQTYTHFSQKPKFAEQVNQLGEEDKYRDEATYVLQQEQAASRLTKYGIPKKYIMEQLKA",
+            "entity_poly_seq_length": 1086,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)",
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017,
+                312017
+            ],
+            "uniprot_accession": [
+                "Q24HL0"
+            ],
+            "rcsb_pdbx_description": "mS90",
+            "entity_poly_strand_id": "BV",
+            "entity_poly_seq_one_letter_code": "TNAKEYYDYLLRFTPQDERGYIKFHPGQFSKMVKIASTEEDIKSIRDAYYNFIGHKQKFTNAQVDRFLEKAAELKAAPLINEILINHNFLMYYPHSSVLHKLAEHYIQENNAEGLNELTRIYSNTHFLKLEDRTLELVSNYAIEQKNQGIILNVAQIAYRKVLTSINENTINNILTGIARQKIANPEPKEGTQNKVETKFLAHLKKCSQSYHTIIGRAYLALAN(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "TNAKEYYDYLLRFTPQDERGYIKFHPGQFSKMVKIASTEEDIKSIRDAYYNFIGHKQKFTNAQVDRFLEKAAELKAAPLINEILINHNFLMYYPHSSVLHKLAEHYIQENNAEGLNELTRIYSNTHFLKLEDRTLELVSNYAIEQKNQGIILNVAQIAYRKVLTSINENTINNILTGIARQKIANPEPKEGTQNKVETKFLAHLKKCSQSYHTIIGRAYLALANXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 310,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mS91",
+            "entity_poly_strand_id": "BW",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 285,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "uniprot_accession": [
+                "Q951B8"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein S3",
+            "entity_poly_strand_id": "BX",
+            "entity_poly_seq_one_letter_code": "MGLKSLPMLNKSGISMYWHNIWDSIKLYKKYSLSFLFLNEVINHFLNENLYYYCIMKIRPTDPRLKGFRGNKSININKIKKSWNMRHFYLGKILFLKYQGWVLVLINYYCSRRNKLYINYKSFKAFKKIAKSFRQGVTSYVYKMDKYKFKF",
+            "entity_poly_seq_one_letter_code_can": "MGLKSLPMLNKSGISMYWHNIWDSIKLYKKYSLSFLFLNEVINHFLNENLYYYCIMKIRPTDPRLKGFRGNKSININKIKKSWNMRHFYLGKILFLKYQGWVLVLINYYCSRRNKLYINYKSFKAFKKIAKSFRQGVTSYVYKMDKYKFKF",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "pfam_comments": [
+                "This family contains one sequence of known function  Human mitochondrial transcription termination factor (mTERF) the rest of the family consists of hypothetical proteins none of which have any functional information. mTERF is a multizipper protein possessing three putative leucine zippers one of which is bipartite. The protein binds DNA as a monomer [1].  The leucine zippers are not implicated in a dimerisation role as in other leucine zippers [1]."
+            ],
+            "pfam_descriptions": [
+                "mTERF"
+            ],
+            "pfam_accessions": [
+                "PF02536"
+            ],
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)",
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017,
+                312017
+            ],
+            "uniprot_accession": [
+                "I7LUK3"
+            ],
+            "rcsb_pdbx_description": "mS93",
+            "entity_poly_strand_id": "BY",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)IIQLTSFLKQEFNIDNNLIRRIVQKNHTLLSSTQEEIKRRFNVIKSVLNLDDKQALDLIVLYPQIFTSNAETKINKVKRVFTVWAGFSEEQCNKIIQMHPYIVDFNQEYLHDDLKLLLTKGFKSDTLFTLISQNPECLIEKPVHLEHSFHIPEVLNLTQQQTIKTFIENPELITICPISIIPLKIKMLKNFRVLNNNLKTLWVQHTDLFTHSIGSLDLKHKYLNQRAVNFGKPKDIVGYYSLHYGSVIRPRCEAAIQFSRNIDLDVDLKISEEEFLVKHSIPKEEFEKLKKQ",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIIQLTSFLKQEFNIDNNLIRRIVQKNHTLLSSTQEEIKRRFNVIKSVLNLDDKQALDLIVLYPQIFTSNAETKINKVKRVFTVWAGFSEEQCNKIIQMHPYIVDFNQEYLHDDLKLLLTKGFKSDTLFTLISQNPECLIEKPVHLEHSFHIPEVLNLTQQQTIKTFIENPELITICPISIIPLKIKMLKNFRVLNNNLKTLWVQHTDLFTHSIGSLDLKHKYLNQRAVNFGKPKDIVGYYSLHYGSVIRPRCEAAIQFSRNIDLDVDLKISEEEFLVKHSIPKEEFEKLKKQ",
+            "entity_poly_seq_length": 327,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6Z1P",
+            "rcsb_pdbx_description": "LSU rRNA_1",
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "entity_poly_strand_id": "Aa",
+            "entity_poly_seq_one_letter_code": "GUAGUUGAUUUUAAUACGCACUAGAUGGAUGCCUAGAAUUUAAACUUCUUCGUAAACAAAUUUACGAUAUCUAUUUAGUAAAUAACAUAUUGAUACGUUUAUGUAUUGGAGAUUAAUAGAUAAAGUUGGUAAAUAAUGAAGUGAAACAUCAUAGUAAUUAUUUAAUAAACUCAAUUGAGAAUAGUAUAACGGUGAGUAAAUACUAUAAGUUUUAUUUAAAUUAAAAUUGAAAAAUUUGGAAAAAUUUACCAUAGAGGGUGAAAGUCCCGUAAAUUUAC",
+            "entity_poly_seq_one_letter_code_can": "GUAGUUGAUUUUAAUACGCACUAGAUGGAUGCCUAGAAUUUAAACUUCUUCGUAAACAAAUUUACGAUAUCUAUUUAGUAAAUAACAUAUUGAUACGUUUAUGUAUUGGAGAUUAAUAGAUAAAGUUGGUAAAUAAUGAAGUGAAACAUCAUAGUAAUUAUUUAAUAAACUCAAUUGAGAAUAGUAUAACGGUGAGUAAAUACUAUAAGUUUUAUUUAAAUUAAAAUUGAAAAAUUUGGAAAAAUUUACCAUAGAGGGUGAAAGUCCCGUAAAUUUAC",
+            "entity_poly_seq_length": 278,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "rcsb_pdbx_description": "LSU rRNA_2",
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "entity_poly_strand_id": "Ab",
+            "entity_poly_seq_one_letter_code": "UAGUAAAUUUCAAUAAGUUUUUGAAAUUGAAAAAUAGAGAUCUACCUCUAAAACUUGUAAAGUUUAAAUUCAAUAGAAAACAGUACCGCGAGGGAAAGGUGAAAAGAUUUUAUAAUAUCUUAAAAGAACCUGAAAUUUAGUGCUAAAUACAGUUAAAGCUUUAUUGUUUUAACGUACCUUUUGCAUAAUGGGCUAGCGAGUUUAUAUAAUUAGCGAGUAAUUUAAAUUUUAUAAAAUUACGAAUCGAUAGAAUAAAUAGUUAAUUAUAUAAGACCCGAAGCUAAGUGAUCUAAUUAUGAUUAGAUUAAGGGUAUUUAUACCUGAGGAUCGAACUCUUAAAUGUUGCAAAAUUUUGGGAUAAAUUGUAAUUAGGGGUGAAAGGCUUAUCAAACUUAGUUAUAGCUGGUUUUCCACGAAACCUAUUUAAGUAGGGUGUUAUUUUUUAUAAUAAUUAGGUUUAAAUAACUAUAUCUAUAAUUAAUUUGUUAAUUAUAAAAUUAGUAUAUAAUAAUUAGUUAUUAUUAGAUAAUAACCAGACUAUUAGCGCUAAGGUUUAUAGUCAAGAGAGAAACAGCUCAGAUUAAACAAUAAGGUCUUUAAAAAUAAAUAAUUAUGGAGAUUAUUUUUGUUAAUACUAAUAAGAUGUAGGCUUGGAAGCAGCCAUCAUUUUAAAAAAGCGUAAAAGCUUAAUAUUAGAUAAAUUAAUGUUAAAAAUUAAUUGAUACUUAAAUAAUCAUAGAUGAAGAGAGAAUAAUUUUUAUUUACCGAAUUGAUAAAUCGAAAGAUGGUAGUGGAACGUUUUGUAUAAAAAAAUAAAAUUGUGAAAUUUUAUAUUUUAUCAAUAUUGAUAAUGCUAGCAUGAGUAGUAGACAUAAUGUGAGAAUCAUUAUCGCCUGAUAUACAAGGGUUACUAAAUUUGAUAAUCUUAUUUAGUGUAAGUCGAUUUCUAAGAUAUAAAAGUAUAUUGUUAUCAAUGAAUAUAAAAUAUAAAAUAUCUAAUAAACUACUUUUUAUAUUAUAUAAAAUUUUUUAUAAUAUAUUUAAUAGGUGGUUUAGUGACUGGAAAUGUUUAUAUUUUAUUAAAUCGUACUAACUCUAACACAAGUGUUUAAGUAGAAUAUAUAAUGGCGAAGGAGUAAAAAGUAUUGAAGGAACUAGGCAAAAUAACCCUGUAACUUUGGGAGAAAGGGGGCUUUUAAGCAACUGAAAAGAGAGAGUAGCGACUGUUUAAUAAAAACAUAAGAUUUUGCAAAAUUUAAAUAUGAUGUAUAAAAUCUGACACCUGCCCGGUGCUGCAAGGUGAAUCUAUUUUAGUUAACGCUGAAAUAUUAAACCCCAGUAAACGGCGGCCGUAACCCUGACGGUCCUAAGGUAGCAAAAUUCCUUGGCGGGUAAGUUCCGUCCUGCAUGAAUGGUGUAACGACUGCUCUGCUGUCUCCAAUACUUGCUCUACGAAAUUGAACUUUCCGUGAAGAUGCGGCAAUAUUACAACUAGACGGGAAGACCCUAUGCACCUUUACUGUUAUCUGUAAUUAAUUUUUUUUUAUAUUUAACUAGACAAGUAGGAGGUUUAUACUAAAAAUGGAAAACUACUUGAAUAUAUUAAAAAAUUACAUAUAAAUAAAAUAAAUUUUAAUUAUUUUUGUUAUUGAAAGACAGUUUGACUGGGGCGGUCUCCUCCUAAAAAGUAACGGAGGAGUAUAAUAAUUUGGGGUAUCUUAUUUUAAUUGAGAUCAAUAUUAGAAUGAAUAUACUAAAUUUGAUUAGAGUACAAACAAGUAUUCUAAGGAUAUAUGUCUGUCAUAUUGACCCGAUAUAAUUUAGUAGAAAAUAUAUCGAUCAACGAAUAAAAGGUACGCUAGGGAUAACAGGCUUAUGGGUUUUGAGAGUUCUUAUUAAUAAACCCGUUUGGCACCUCGAUGUCGGCUCAUCACAUCCUGAUGGUGGACAAUCUAUCAAGGGUCCGGCUGUUCGCCGGUUAAAGUGGUACGUGAGCUGGGUUUAAAACGUCGUGAGACAGUUUGGUCCCUAUCUGUUGUAAUUACAAGAAAAUAAAUAAGAAUUAACUUUAGUACGAGAGGACUAGGAAAAUUUAAUCACUGGUUUGAAAAUUACUUUAAUAAAUAAAAGUACGGUUUUUAAGCUAAAUUAAACAAGAUAAUUGCUGAAUUCUAUAUAAGCAAGAAUCUAACUUAUAUUAUUUUCUAAUAAACUUUUUAAAGACUAUAUUAUUUAAGUAUAUUUAUUAAGAGUCAUUAUAACUAAUAAAUAUAAAUAUACUAAAUGUUUAAUAAUCACUACAGUUUAGUUUUUA",
+            "entity_poly_seq_one_letter_code_can": "UAGUAAAUUUCAAUAAGUUUUUGAAAUUGAAAAAUAGAGAUCUACCUCUAAAACUUGUAAAGUUUAAAUUCAAUAGAAAACAGUACCGCGAGGGAAAGGUGAAAAGAUUUUAUAAUAUCUUAAAAGAACCUGAAAUUUAGUGCUAAAUACAGUUAAAGCUUUAUUGUUUUAACGUACCUUUUGCAUAAUGGGCUAGCGAGUUUAUAUAAUUAGCGAGUAAUUUAAAUUUUAUAAAAUUACGAAUCGAUAGAAUAAAUAGUUAAUUAUAUAAGACCCGAAGCUAAGUGAUCUAAUUAUGAUUAGAUUAAGGGUAUUUAUACCUGAGGAUCGAACUCUUAAAUGUUGCAAAAUUUUGGGAUAAAUUGUAAUUAGGGGUGAAAGGCUUAUCAAACUUAGUUAUAGCUGGUUUUCCACGAAACCUAUUUAAGUAGGGUGUUAUUUUUUAUAAUAAUUAGGUUUAAAUAACUAUAUCUAUAAUUAAUUUGUUAAUUAUAAAAUUAGUAUAUAAUAAUUAGUUAUUAUUAGAUAAUAACCAGACUAUUAGCGCUAAGGUUUAUAGUCAAGAGAGAAACAGCUCAGAUUAAACAAUAAGGUCUUUAAAAAUAAAUAAUUAUGGAGAUUAUUUUUGUUAAUACUAAUAAGAUGUAGGCUUGGAAGCAGCCAUCAUUUUAAAAAAGCGUAAAAGCUUAAUAUUAGAUAAAUUAAUGUUAAAAAUUAAUUGAUACUUAAAUAAUCAUAGAUGAAGAGAGAAUAAUUUUUAUUUACCGAAUUGAUAAAUCGAAAGAUGGUAGUGGAACGUUUUGUAUAAAAAAAUAAAAUUGUGAAAUUUUAUAUUUUAUCAAUAUUGAUAAUGCUAGCAUGAGUAGUAGACAUAAUGUGAGAAUCAUUAUCGCCUGAUAUACAAGGGUUACUAAAUUUGAUAAUCUUAUUUAGUGUAAGUCGAUUUCUAAGAUAUAAAAGUAUAUUGUUAUCAAUGAAUAUAAAAUAUAAAAUAUCUAAUAAACUACUUUUUAUAUUAUAUAAAAUUUUUUAUAAUAUAUUUAAUAGGUGGUUUAGUGACUGGAAAUGUUUAUAUUUUAUUAAAUCGUACUAACUCUAACACAAGUGUUUAAGUAGAAUAUAUAAUGGCGAAGGAGUAAAAAGUAUUGAAGGAACUAGGCAAAAUAACCCUGUAACUUUGGGAGAAAGGGGGCUUUUAAGCAACUGAAAAGAGAGAGUAGCGACUGUUUAAUAAAAACAUAAGAUUUUGCAAAAUUUAAAUAUGAUGUAUAAAAUCUGACACCUGCCCGGUGCUGCAAGGUGAAUCUAUUUUAGUUAACGCUGAAAUAUUAAACCCCAGUAAACGGCGGCCGUAACCCUGACGGUCCUAAGGUAGCAAAAUUCCUUGGCGGGUAAGUUCCGUCCUGCAUGAAUGGUGUAACGACUGCUCUGCUGUCUCCAAUACUUGCUCUACGAAAUUGAACUUUCCGUGAAGAUGCGGCAAUAUUACAACUAGACGGGAAGACCCUAUGCACCUUUACUGUUAUCUGUAAUUAAUUUUUUUUUAUAUUUAACUAGACAAGUAGGAGGUUUAUACUAAAAAUGGAAAACUACUUGAAUAUAUUAAAAAAUUACAUAUAAAUAAAAUAAAUUUUAAUUAUUUUUGUUAUUGAAAGACAGUUUGACUGGGGCGGUCUCCUCCUAAAAAGUAACGGAGGAGUAUAAUAAUUUGGGGUAUCUUAUUUUAAUUGAGAUCAAUAUUAGAAUGAAUAUACUAAAUUUGAUUAGAGUACAAACAAGUAUUCUAAGGAUAUAUGUCUGUCAUAUUGACCCGAUAUAAUUUAGUAGAAAAUAUAUCGAUCAACGAAUAAAAGGUACGCUAGGGAUAACAGGCUUAUGGGUUUUGAGAGUUCUUAUUAAUAAACCCGUUUGGCACCUCGAUGUCGGCUCAUCACAUCCUGAUGGUGGACAAUCUAUCAAGGGUCCGGCUGUUCGCCGGUUAAAGUGGUACGUGAGCUGGGUUUAAAACGUCGUGAGACAGUUUGGUCCCUAUCUGUUGUAAUUACAAGAAAAUAAAUAAGAAUUAACUUUAGUACGAGAGGACUAGGAAAAUUUAAUCACUGGUUUGAAAAUUACUUUAAUAAAUAAAAGUACGGUUUUUAAGCUAAAUUAAACAAGAUAAUUGCUGAAUUCUAUAUAAGCAAGAAUCUAACUUAUAUUAUUUUCUAAUAAACUUUUUAAAGACUAUAUUAUUUAAGUAUAUUUAUUAAGAGUCAUUAUAACUAAUAAAUAUAAAUAUACUAAAUGUUUAAUAAUCACUACAGUUUAGUUUUUA",
+            "entity_poly_seq_length": 2314,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "rcsb_pdbx_description": "SSU rRNA_1",
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "entity_poly_strand_id": "Ba",
+            "entity_poly_seq_one_letter_code": "AAAAUAAAAAAAAAAUUUAUUGAGUGUGAUCAUGGCUCGGGAUUAACGCUAAUUAGACGCCUAACACAUGCGAGUUUUAUAUGAGUUAAAUUAAAAUUUUAUUUAAACAUAUAGCGUCAAGGUGAGUAAUAUACAAAUAUAUGCCUUUAAGCCUACUUAAAUAGACGGUAACUUUAAAACAGUAACAAAUGUACUA",
+            "entity_poly_seq_one_letter_code_can": "AAAAUAAAAAAAAAAUUUAUUGAGUGUGAUCAUGGCUCGGGAUUAACGCUAAUUAGACGCCUAACACAUGCGAGUUUUAUAUGAGUUAAAUUAAAAUUUUAUUUAAACAUAUAGCGUCAAGGUGAGUAAUAUACAAAUAUAUGCCUUUAAGCCUACUUAAAUAGACGGUAACUUUAAAACAGUAACAAAUGUACUA",
+            "entity_poly_seq_length": 196,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6Z1P",
+            "rcsb_pdbx_description": "SSU rRNA_2",
+            "rcsb_source_organism_description": [
+                "Tetrahymena thermophila (strain SB210)"
+            ],
+            "rcsb_source_organism_id": [
+                312017
+            ],
+            "entity_poly_strand_id": "Bb",
+            "entity_poly_seq_one_letter_code": "CUUGUUUACAGCUUAAAGAUUAUUUUGUACAAUAUUAGGUAAUUAUUUCUAAAACUGUUUAAUAAUAUUAUUUUUAGUAAAAUAAGCCUAGAUGUUUAGUUGAAUUUAGAGAUUGUUCAACCACAUACGGGUAUGAAAACUACCCUAUCUUUUUGACAGCAGUGAGGAAUUUUGGACAAUAUGCGAAAGCAUGAUCCAGCGAACUAAUGGAAACGAAGAAGAUAGCAAUAUUGUAAAGUUUAGUGCGAGAAUUAACAAAUGAGUAAAUUCUAGGAGAAGCUCUGGCUAAUACAUGUGCCAGCAGCCGCGGUAAUACAUGAGGAGCAAGCGUUACCCACAUUGACUGGGUGUAUUAAAUACAUAGGUGAUUACAAAUACUACUUUAAAAGUCAAUUAAAAACCUAAUAUAGUAGUUUUUUUGUAAAUGAUAAUUAAAUAUAAGGAUAGGAGAUUUAUAGAACAACGAUUAAAUGUAGUUACACUAUAGAGCUUGCCAUAAACUAAGGUGCUUUCCUAUAUUUAAUUAUAGCUGAUGUAUGAAAGUACGGGGAUCGAUAAGGAUUAGUUUCCCUAGUAGUCCGUACUGUAAAAGAUGAAUACUUCAUGAAUUAAAUAUUCAGGGAUAGCUAACGCAAAGUAUUCUACUCGGGGAGUAUAAUCGCAAGAUUAAAACUUAACUGAAUUGGCGGGAAUUUGUUCGAACGGUGGAACAUGUGGUUUAAUGCGAUAAUCCACGCAAAAUCUUACCAACGUUUCAGGCUUUAUCAGUAGUAUGAUUAAUAUCAAAAUUAUAUGAUUUAGUACGGAAUUGCAUGGCUGUCGUCAGUUCGUGCUGUGAAGUUUAGGAUUAAGUUCUUUUUAACGAAUGCAACCCUAUAAGUAAGUUUUUAUUUUAAAAUAACUUAAUUUUUUAAAUAUACUUAUUUAAUCUAUAAUUAGAAUAUAUUGAAUCUAUUCUGUAUAUUCUUUUAUAGGGGUUAUAGGCUGAAGUCAAGUCCCUAUGGUCUUUAUACGUUGGGCUACACACGUGUUACAAGGGUAAAUACAAAAAGACGCAAAAAAGUAAUUUUGAGCAAACCUUUAAAAAUUACCUUAGUUCAGAUUGUUUUAUGAAAUUCUAAAACAUGAAGAUGAAAUCGUUAGUAAUUGUAAAUUAUUAUGUUACAGUGAAACAAUAGUCAAAUUUUGCACACACCGCCCAUCACGCUCGGAAAGUCAAUAAUAGCGGAAGAUUUGAAAAACUCUGCGCAAAACUAAUAUUAUUUUUAUAUUAGUUGGCAUUAUAUUAUUUUUUAAUGGCAUGGUUGAAAAGUAGUAUCCAAUCUAGUAUUGGUAAUUUGAGUGAAGUUGACACAAGGUACUGGUAGGGGAACCUGUUGGUGGAAUAUAUUUUAU",
+            "entity_poly_seq_one_letter_code_can": "CUUGUUUACAGCUUAAAGAUUAUUUUGUACAAUAUUAGGUAAUUAUUUCUAAAACUGUUUAAUAAUAUUAUUUUUAGUAAAAUAAGCCUAGAUGUUUAGUUGAAUUUAGAGAUUGUUCAACCACAUACGGGUAUGAAAACUACCCUAUCUUUUUGACAGCAGUGAGGAAUUUUGGACAAUAUGCGAAAGCAUGAUCCAGCGAACUAAUGGAAACGAAGAAGAUAGCAAUAUUGUAAAGUUUAGUGCGAGAAUUAACAAAUGAGUAAAUUCUAGGAGAAGCUCUGGCUAAUACAUGUGCCAGCAGCCGCGGUAAUACAUGAGGAGCAAGCGUUACCCACAUUGACUGGGUGUAUUAAAUACAUAGGUGAUUACAAAUACUACUUUAAAAGUCAAUUAAAAACCUAAUAUAGUAGUUUUUUUGUAAAUGAUAAUUAAAUAUAAGGAUAGGAGAUUUAUAGAACAACGAUUAAAUGUAGUUACACUAUAGAGCUUGCCAUAAACUAAGGUGCUUUCCUAUAUUUAAUUAUAGCUGAUGUAUGAAAGUACGGGGAUCGAUAAGGAUUAGUUUCCCUAGUAGUCCGUACUGUAAAAGAUGAAUACUUCAUGAAUUAAAUAUUCAGGGAUAGCUAACGCAAAGUAUUCUACUCGGGGAGUAUAAUCGCAAGAUUAAAACUUAACUGAAUUGGCGGGAAUUUGUUCGAACGGUGGAACAUGUGGUUUAAUGCGAUAAUCCACGCAAAAUCUUACCAACGUUUCAGGCUUUAUCAGUAGUAUGAUUAAUAUCAAAAUUAUAUGAUUUAGUACGGAAUUGCAUGGCUGUCGUCAGUUCGUGCUGUGAAGUUUAGGAUUAAGUUCUUUUUAACGAAUGCAACCCUAUAAGUAAGUUUUUAUUUUAAAAUAACUUAAUUUUUUAAAUAUACUUAUUUAAUCUAUAAUUAGAAUAUAUUGAAUCUAUUCUGUAUAUUCUUUUAUAGGGGUUAUAGGCUGAAGUCAAGUCCCUAUGGUCUUUAUACGUUGGGCUACACACGUGUUACAAGGGUAAAUACAAAAAGACGCAAAAAAGUAAUUUUGAGCAAACCUUUAAAAAUUACCUUAGUUCAGAUUGUUUUAUGAAAUUCUAAAACAUGAAGAUGAAAUCGUUAGUAAUUGUAAAUUAUUAUGUUACAGUGAAACAAUAGUCAAAUUUUGCACACACCGCCCAUCACGCUCGGAAAGUCAAUAAUAGCGGAAGAUUUGAAAAACUCUGCGCAAAACUAAUAUUAUUUUUAUAUUAGUUGGCAUUAUAUUAUUUUUUAAUGGCAUGGUUGAAAAGUAGUAUCCAAUCUAGUAUUGGUAAUUUGAGUGAAGUUGACACAAGGUACUGGUAGGGGAACCUGUUGGUGGAAUAUAUUUUAU",
+            "entity_poly_seq_length": 1395,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "FE2/S2 (INORGANIC) CLUSTER",
+            "formula_weight": 0.176,
+            "chemicalId": "FES",
+            "chemicalName": "FE2/S2 (INORGANIC) CLUSTER",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ADENOSINE-5'-TRIPHOSPHATE",
+            "formula_weight": 0.507,
+            "chemicalId": "ATP",
+            "chemicalName": "ADENOSINE-5'-TRIPHOSPHATE",
+            "cif_residueId": "none"
+        }
+    ]
+}

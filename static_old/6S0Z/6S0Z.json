@@ -1,0 +1,998 @@
+{
+    "rcsb_id": "6S0Z",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.3,
+    "rcsb_external_ref_id": [
+        "EMD-10077"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-10077"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.3,
+    "cryoem_exp_num_particles": 378309,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2019,
+    "citation_rcsb_authors": [
+        "Halfon, Y.",
+        "Matzov, D.",
+        "Eyal, Z.",
+        "Bashan, A.",
+        "Zimmerman, E.",
+        "Kjeldgaard, J.",
+        "Ingmer, H.",
+        "Yonath, A."
+    ],
+    "citation_title": "Exit tunnel modulation as resistance mechanism of S. aureus erythromycin resistant mutant.",
+    "citation_pdbx_doi": "10.1038/s41598-019-48019-1",
+    "pdbx_keywords_text": "Ribosome, antibiotics, resistance, Staphylococcus aureus, exit tunnel, RNA, rProteins, erythromycin",
+    "_organismId": [
+        1280
+    ],
+    "_organismName": [
+        "Staphylococcus aureus"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "B3VKN3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "AIKKYKPITNGRRNMTSLDFAEITKTTPEKSLLKPLPKKAGRNNQGKLTVRHHGGGHKRQYRVIDFKRNKDGINAKVDSIQYDPNRSANIALVVYADGEKRYIIAPKGLEVGQIVESGAEADIKVGNALPLQNIPVGTVVHNIELKPGKGGQIARSAGASAQVLGKEGKYVLIRLRSGEVRMILSTCRATIGQVGNLQHELVNVGKAGRSRWKGIRPTVRGSVMNPNDHPHGGGEGRAPIGRPSPMSPWGKPTLGKKTRRGKKSSDKLIVRGRK",
+            "entity_poly_seq_one_letter_code_can": "AIKKYKPITNGRRNMTSLDFAEITKTTPEKSLLKPLPKKAGRNNQGKLTVRHHGGGHKRQYRVIDFKRNKDGINAKVDSIQYDPNRSANIALVVYADGEKRYIIAPKGLEVGQIVESGAEADIKVGNALPLQNIPVGTVVHNIELKPGKGGQIARSAGASAQVLGKEGKYVLIRLRSGEVRMILSTCRATIGQVGNLQHELVNVGKAGRSRWKGIRPTVRGSVMNPNDHPHGGGEGRAPIGRPSPMSPWGKPTLGKKTRRGKKSSDKLIVRGRK",
+            "entity_poly_seq_length": 274,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8U3W0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "TKGILGRKIGMTQVFGENGELIPVTVVEAKENVVLQKKTVEVDGYNAIQVGFEDKKAYKKDAKSNKYANKPAEGHAKKADAAPKRFIREFRNVDVDAYEVGQEVSVDTFVAGDVIDVTGVSKGKGFQGAIKRHGQSRGPMSHGSHFHRAPGSVGMASDASRVFKGQKMPGRMGGNTVTVQNLEVVQVDTENKVILVKGNVPGPKKGLVEIRTSIK",
+            "entity_poly_seq_one_letter_code_can": "TKGILGRKIGMTQVFGENGELIPVTVVEAKENVVLQKKTVEVDGYNAIQVGFEDKKAYKKDAKSNKYANKPAEGHAKKADAAPKRFIREFRNVDVDAYEVGQEVSVDTFVAGDVIDVTGVSKGKGFQGAIKRHGQSRGPMSHGSHFHRAPGSVGMASDASRVFKGQKMPGRMGGNTVTVQNLEVVQVDTENKVILVKGNVPGPKKGLVEIRTSIK",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TRC7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "ANYDVLKLDGTKSGSIELSDAVFGIEPNNSVLFEAINLQRASLRQGTHAVKNRSAVSGGGRKPWKQKGTGRARQGTIRAPQWRGGGIVFGPTPRSYAYKMPKKMRRLALRSALSFKAQENGLTVVDAFNFEAPKTKEFKNVLSTLEQPKKVLVVTENEDVNVELSARNIPGVQVTTAQGLNVLDITNADSLVITEAAAKKVEEVLG",
+            "entity_poly_seq_one_letter_code_can": "ANYDVLKLDGTKSGSIELSDAVFGIEPNNSVLFEAINLQRASLRQGTHAVKNRSAVSGGGRKPWKQKGTGRARQGTIRAPQWRGGGIVFGPTPRSYAYKMPKKMRRLALRSALSFKAQENGLTVVDAFNFEAPKTKEFKNVLSTLEQPKKVLVVTENEDVNVELSARNIPGVQVTTAQGLNVLDITNADSLVITEAAAKKVEEVLG",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TUC3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "LKEKFNTEVTENLMKKFNYSSVMEVPKIDKIVVNMGVGDAVQNSKVLDNAVEELELITGQKPLVTKAKKSIATFRLREGMPIGAKVTLRGERMYEFLDKLISVSLPRVRDFQGVSKKAFDGRGNYTLGVKEQLIFPEIDYDKVSKVRGMDIVIVTTANTDEEARELLANFGMP",
+            "entity_poly_seq_one_letter_code_can": "LKEKFNTEVTENLMKKFNYSSVMEVPKIDKIVVNMGVGDAVQNSKVLDNAVEELELITGQKPLVTKAKKSIATFRLREGMPIGAKVTLRGERMYEFLDKLISVSLPRVRDFQGVSKKAFDGRGNYTLGVKEQLIFPEIDYDKVSKVRGMDIVIVTTANTDEEARELLANFGMP",
+            "entity_poly_seq_length": 173,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TUE6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MRQTFMANESNIERKWYVIDAEGQTLGRLSSEVASILRGKNKVTYTPHVDTGDYVIVINASKIEFTGNKETDKVYYRHSNHPGGIKSITAGELRRTNPERLIENSIKGMLPSTRLGEKQGKKLFVYGGAEHPHAAQQPENYELRG",
+            "entity_poly_seq_one_letter_code_can": "MRQTFMANESNIERKWYVIDAEGQTLGRLSSEVASILRGKNKVTYTPHVDTGDYVIVINASKIEFTGNKETDKVYYRHSNHPGGIKSITAGELRRTNPERLIENSIKGMLPSTRLGEKQGKKLFVYGGAEHPHAAQQPENYELRG",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UUA0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MIQQETRLKVADNSGAREVLTIKVLGGSGRKTANIGDVIVCTVKNATPGGVVKKGDVVKAVIVRTKSGVRRNDGSYIKFDENACVIIRDDKGPRGTRIFGPVARELREGNFMKIVSLAPEVL",
+            "entity_poly_seq_one_letter_code_can": "MIQQETRLKVADNSGAREVLTIKVLGGSGRKTANIGDVIVCTVKNATPGGVVKKGDVVKAVIVRTKSGVRRNDGSYIKFDENACVIIRDDKGPRGTRIFGPVARELREGNFMKIVSLAPEVL",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UGA7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MKLHELKPAEGSRKERNRVGRGVATGNGKTSGRGHKGQKARSGGGVRPGFEGGQLPLFRRLPKRGFTNINRKEYAIVNLDQLNKFEDGTEVTPALLVESGVVKNEKSGIKILGNGSLDKKLTVKAHKFSASAAEAIDAKGGAHEVI",
+            "entity_poly_seq_one_letter_code_can": "MKLHELKPAEGSRKERNRVGRGVATGNGKTSGRGHKGQKARSGGGVRPGFEGGQLPLFRRLPKRGFTNINRKEYAIVNLDQLNKFEDGTEVTPALLVESGVVKNEKSGIKILGNGSLDKKLTVKAHKFSASAAEAIDAKGGAHEVI",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077V4G0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MLLPKRVKYRRQHRPKTTGRSKGGNYVTFGEFGLQATTTSWITSRQIESARIAMTRYMKRGGKVWIKIFPHTPYTKKPLEVRMGAGKGAVEGWIAVVKPGRILFEVAGVSEEVAREALRLASHKLPVKTKFVKREEL",
+            "entity_poly_seq_one_letter_code_can": "MLLPKRVKYRRQHRPKTTGRSKGGNYVTFGEFGLQATTTSWITSRQIESARIAMTRYMKRGGKVWIKIFPHTPYTKKPLEVRMGAGKGAVEGWIAVVKPGRILFEVAGVSEEVAREALRLASHKLPVKTKFVKREEL",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UG91"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "YRKLGRTSDQRKAMLRDLATSLIISERIETTEARAKEVRSVVEKLITLGKKGDLASRRNAAKTLRNVEILNEDETTQTALQKLFGEIAERYTERQGGYTRILKQGPRRGDGAESVIIELV",
+            "entity_poly_seq_one_letter_code_can": "YRKLGRTSDQRKAMLRDLATSLIISERIETTEARAKEVRSVVEKLITLGKKGDLASRRNAAKTLRNVEILNEDETTQTALQKLFGEIAERYTERQGGYTRILKQGPRRGDGAESVIIELV",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UVB6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "TNHKLIEAVTKSQLRTDLPSFRPGDTLRVHVRIIEGTRERIQVFEGVVIKRRGGGVSETFTVRKISSGVGVERTFPLHTPKIEKIEVKRRGKVRRAKLYYLRSLRGKAARIQEI",
+            "entity_poly_seq_one_letter_code_can": "TNHKLIEAVTKSQLRTDLPSFRPGDTLRVHVRIIEGTRERIQVFEGVVIKRRGGGVSETFTVRKISSGVGVERTFPLHTPKIEKIEVKRRGKVRRAKLYYLRSLRGKAARIQEI",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077VMP6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "PRVKGGTVTRARRKKTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAARQHEMSYSRLMNGLKKAGIDINRKMLSEIAISDEKAFAQLVTKAKDAL",
+            "entity_poly_seq_one_letter_code_can": "PRVKGGTVTRARRKKTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKRDFRKLWITRINAAARQHEMSYSRLMNGLKKAGIDINRKMLSEIAISDEKAFAQLVTKAKDAL",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "D7URR3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MFAIIETGGKQIKVEEGQEIFVEKLDVNEGDTFTFDKVLFVGGDSVKVGAPTVEGATVTATVNKQGRGKKITVFTYKRRKNSKRKKGHRQPYTKLTIDKINA",
+            "entity_poly_seq_one_letter_code_can": "MFAIIETGGKQIKVEEGQEIFVEKLDVNEGDTFTFDKVLFVGGDSVKVGAPTVEGATVTATVNKQGRGKKITVFTYKRRKNSKRKKGHRQPYTKLTIDKINA",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UKF9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MEAKAVARTIRIAPRKVRLVLDLIRGKNAAEAIAILKLTNKASSPVIEKVLMSALANAEHNYDMNTDELVVKEAYANEGPTLKRFRPQGRASAINKRTSHITIVVSDGKE",
+            "entity_poly_seq_one_letter_code_can": "MEAKAVARTIRIAPRKVRLVLDLIRGKNAAEAIAILKLTNKASSPVIEKVLMSALANAEHNYDMNTDELVVKEAYANEGPTLKRFRPQGRASAINKRTSHITIVVSDGKE",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TUB4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "EARDILKRPVITEKSSEAMAEDKYTFDVDTRVNKTQVKMAVEEIFNVKVASVNIMNYKPKKKRMGRYQGYTNKRRKAIVTLKEGSIDLF",
+            "entity_poly_seq_one_letter_code_can": "EARDILKRPVITEKSSEAMAEDKYTFDVDTRVNKTQVKMAVEEIFNVKVASVNIMNYKPKKKRMGRYQGYTNKRRKAIVTLKEGSIDLF",
+            "entity_poly_seq_length": 89,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TRD5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "HIKKGDNVKVIAGKDKGKEGKVIATLPKKDRVVVEGVNIMKKHQKPTQLNPEGGILETEAAIHVSNVQLLDPKTNEPTRVGYKFVDGKKVRIAKKSGEEIKSN",
+            "entity_poly_seq_one_letter_code_can": "HIKKGDNVKVIAGKDKGKEGKVIATLPKKDRVVVEGVNIMKKHQKPTQLNPEGGILETEAAIHVSNVQLLDPKTNEPTRVGYKFVDGKKVRIAKKSGEEIKSN",
+            "entity_poly_seq_length": 103,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This family contains the C-terminal domain of ribosomal protein TL5. The N-terminal domain, which binds to 5S rRNA, is contained in family Ribosomal_L25p, Pfam:PF01386. Full length (N- and C-terminal domain) homologues of TL5 are also known as CTC proteins. TL5 or CTC are not found in Eukarya or Archaea. In some Bacteria, including E. coli, this ribosomal subunit occurs as a single domain protein (named Ribosomal subunit L25), where the only domain is homologous to TL5 N-terminal domain (hence included in family Pfam:PF01386). The function of the C-terminal domain of TLC is at present unknown.",
+                "Ribosomal protein L25 is an RNA binding protein, that binds 5S rRNA. This family includes Ctc from B. subtilis Swiss:P14194, which is induced by stress."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein TL5, C-terminal domain",
+                "Ribosomal L25p family"
+            ],
+            "pfam_accessions": [
+                "PF14693",
+                "PF01386"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A133Q8Z9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L25",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "ASLKSIIRQGKQTRSDLKQLRKSGKVPAVVYGYGTKNVSVKVDEVEFIKVIREVGRNGVIELGVGSKTIKVMVADYQFDPLKNQITHIDFLAIN",
+            "entity_poly_seq_one_letter_code_can": "ASLKSIIRQGKQTRSDLKQLRKSGKVPAVVYGYGTKNVSVKVDEVEFIKVIREVGRNGVIELGVGSKTIKVMVADYQFDPLKNQITHIDFLAIN",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077ULC5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "STKNGRDSESKRLGAKRADGQFVTGGSILYRQRGTKIYPGENVGRGGDDTLFAKIDGVVKFERKGRDKKQVSVYAVA",
+            "entity_poly_seq_one_letter_code_can": "STKNGRDSESKRLGAKRADGQFVTGGSILYRQRGTKIYPGENVGRGGDDTLFAKIDGVVKFERKGRDKKQVSVYAVA",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077URJ8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "ASTGNRRSHALNSTKRRWNANLQKVRILVDGKPKKVWVSARALKSGKVT",
+            "entity_poly_seq_one_letter_code_can": "ASTGNRRSHALNSTKRRWNANLQKVRILVDGKPKKVWVSARALKSGKVT",
+            "entity_poly_seq_length": 49,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077W1J5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "KAKEIRDLTTSEIEEQIKSSKEELFNLRFQLATGQLEETARIRTVRKTIARLKTVAREREIEQSKAN",
+            "entity_poly_seq_one_letter_code_can": "KAKEIRDLTTSEIEEQIKSSKEELFNLRFQLATGQLEETARIRTVRKTIARLKTVAREREIEQSKAN",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8UVN7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "AKLQITLTRSVIGRPETQRKTVEALGLKKTNSSVVVEDNPAIRGQINKVKHLVTVEEK",
+            "entity_poly_seq_one_letter_code_can": "AKLQITLTRSVIGRPETQRKTVEALGLKKTNSSVVVEDNPAIRGQINKVKHLVTVEEK",
+            "entity_poly_seq_length": 58,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31"
+            ],
+            "pfam_accessions": [
+                "PF01197"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A380EL30"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31 type B",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MKQGIHPEYHQVIFLDTTTNFKFLSGSTKTSSEMMEWEDGKEYPVIRLDISSDSHPFYT",
+            "entity_poly_seq_one_letter_code_can": "MKQGIHPEYHQVIFLDTTTNFKFLSGSTKTSSEMMEWEDGKEYPVIRLDISSDSHPFYT",
+            "entity_poly_seq_length": 59,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A1Q8DAT0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "AVPKRRTSKTRKNKRRTHFKISVPGMTECPNCGEYKLSHRVCKNCGSY",
+            "entity_poly_seq_one_letter_code_can": "AVPKRRTSKTRKNKRRTHFKISVPGMTECPNCGEYKLSHRVCKNCGSY",
+            "entity_poly_seq_length": 48,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077V2P0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "RVNVTLACTECGDRNYITTKNKRNNPERIEMKKYCPRLNKYTLHRET",
+            "entity_poly_seq_one_letter_code_can": "RVNVTLACTECGDRNYITTKNKRNNPERIEMKKYCPRLNKYTLHRET",
+            "entity_poly_seq_length": 47,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TQ59"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "VKRTYQPNKRKHSKVHGFRKRMSTKNGRKVLARRRRKGRKVLS",
+            "entity_poly_seq_one_letter_code_can": "VKRTYQPNKRKHSKVHGFRKRMSTKNGRKVLARRRRKGRKVLS",
+            "entity_poly_seq_length": 43,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UL47"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "PKMKTHRGAAKRVKRTASGQLKRSRAFTSHLFANKSTKQKRQLRKARLVSKSDMKRVKQLLAYK",
+            "entity_poly_seq_one_letter_code_can": "PKMKTHRGAAKRVKRTASGQLKRSRAFTSHLFANKSTKQKRQLRKARLVSKSDMKRVKQLLAYK",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8TRE0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "ISKIDKNKVRLKRHARVRTNLSGTAEKPRLNVYRSNKHIYAQIIDDNKGVTLAQASSKDSDIATTATKVELATKVGEAIAKKAADKGIKEIVFDRGGYLYHGRVKALAEAARESGLEF",
+            "entity_poly_seq_one_letter_code_can": "ISKIDKNKVRLKRHARVRTNLSGTAEKPRLNVYRSNKHIYAQIIDDNKGVTLAQASSKDSDIATTATKVELATKVGEAIAKKAADKGIKEIVFDRGGYLYHGRVKALAEAARESGLEF",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "A0A077UGV8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MKVRPSVKPICEKCKVIKRKGKVMVICENPKHKQRQG",
+            "entity_poly_seq_one_letter_code_can": "MKVRPSVKPICEKCKVIKRKGKVMVICENPKHKQRQG",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "uniprot_accession": [
+                "W8U3X2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "SRVGKKIIDIPSDVTVTFDGNHVTVKGPKGELSRTLNERMTFKQEENTIEVVRPSDSKEDRTNHGTTRALLNNMVQGVSQGYVKVLELVGVGYRAQMQGKDLILNVGYSHPVEIKAEENITFSVEKNTVVKVEGISKEQVGALASNIRSVRPPEPYKGKGIRYQGEYVRRKEG",
+            "entity_poly_seq_one_letter_code_can": "SRVGKKIIDIPSDVTVTFDGNHVTVKGPKGELSRTLNERMTFKQEENTIEVVRPSDSKEDRTNHGTTRALLNNMVQGVSQGYVKVLELVGVGYRAQMQGKDLILNVGYSHPVEIKAEENITFSVEKNTVVKVEGISKEQVGALASNIRSVRPPEPYKGKGIRYQGEYVRRKEG",
+            "entity_poly_seq_length": 173,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6S0Z",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "UUAAGUUAUUAAGGGCGCACGGUGGAUGCCUUGGCACUAGAAGCCGAUGAAGGACGUUACUAACGACGAUAUGCUUUGGGGAGCUGUAAGUAAGCUUUGAUCCAGAGAUUUCCGAAUGGGGAAACCCAGCAUGAGUUAUGUCAUGUUAUCGAUAUGUGAAUACAUAGCAUAUCAGAAGGCACACCCGGAGAACUGAAACAUCUUAGUACCCGGAGGAAGAGAAAGAAAAUUCGAUUCCCUUAGUAGCGGCGAGCGAAAUGGGAAGAGCCCAAACCAACAAGCUUGCUUGUUGGGGUUGUAGGACACUCUACGGAGUUACAAAGGACGACAUUAGACGAAUCAUCUGGAAAGAUGAAUCAAAGAAGGUAAUAAUCCUGUAGUCGAAAAUGUUGUCUCUCUUGAGUGGAUCCUGAGUACGACGGAGCACGUGAAAUUCCGUCGGAAUCUGGGAGGACCAUCUCCUAAGGCUAAAUACUCUCUAGUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGUGAAAAGCACCCCGGAAGGGGAGUGAAAUAGAACCUGAAACCGUGUGCUUACAAGUAGUCAGAGCCCGUUAAUGGGUGAUGGCGUGCCUUUUGUAGAAUGAACCGGCGAGUUACGAUUUGAUGCAAGGUUAAGCAGUAAAUGUGGAGCCGUAGCGAAAGCGAGUCUGAAUAGGGCGUUUAGUAUUUGGUCGUAGACCCGAAACCAGGUGAUCUACCCUUGGUCAGGUUGAAGUUCAGGUAACACUGAAUGGAGGACCGAACCGACUUACGUUGAAAAGUGAGCGGAUGAACUGAGGGUAGCGGAGAAAUUCCAAUCGAACCUGGAGAUAGCUGGUUCUCUCCGAAAUAGCUUUAGGGCUAGCCUCAAGUGAUGAUUAUUGGAGGUAGAGCACUGUUUGGACGAGGGGCCGGUUACCGAAUUCAGACAAACUCCGAAUGCCAAUUAAUUUAACUUGGGAGUCAGAACAUGGGUGAUAAGGUCCGUGUUCGAAAGGGAAACAGCCCAGACCACCAGCUAAGGUCCCAAAAUAUAUGUUAAGUGGAAAAGGAUGUGGCGUUGCCCAGACAACUAGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAAUAGCUCACUAGUCGAGUGACACUGCGCCGAAAAUGUACCGGGGCUAAACAUAUUACCGAAGCUGUGGAUUGUCCUUUGGACAAUGGUAGGAGAGCGUUCUAAGGGCGUUGAAGCAUGAUCGUAAGGACAUGUGGAGCGCUUAGAAGUGAGAAUGCCGGUGUGAGUAGCGAAAGACGGGUGAGAAUCCCGUCCACCGAUUGACUAAGGUUUCCAGAGGAAGGCUCGUCCGCUCUGGGUUAGUCGGGUCCUAAGCUGAGGCCGACAGGCGUAGGCGAUGGAUAACAGGUUGAUAUUCCUGUACCACCUAUAAUCGUUUUAAUCGAUGGGGGGACGCAGUAGGAUAGGCGAAGCGUGCGAUUGGAUUGCACGUCUAAGCAGUAAGGCUGAGUAUUAGGCAAAUCCGGUACUCGUUAAGGCUGAGCUGUGAUGGGGAGAAGACAUUGUGUCUUCGAGUCGUUGAUUUCACACUGCCGAGAAAAGCCUCUAGAUAGAAAAUAGGUGCCCGUACCGCAAACCGACACAGGUAGUCAAGAUGAGAAUUCUAAGGUGAGCGAGCGAACUCUCGUUAAGGAACUCGGCAAAAUGACCCCGUAACUUCGGGAGAAGGGGUGCUCUUUAGGGUUAACGCCCAGAAGAGCCGCAGUGAAUAGGCCCAAGCGACUGUUUAUCAAAAACACAGGUCUCUGCUAAACCGUAAGGUGAUGUAUAGGGGCUGACGCCUGCCCGGUGCUGGAAGGUUAAGAGGAGUGGUUAGCUUCUGCGAAGCUACGAAUCGAAGCCCCAGUAAACGGCGGCCGUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGUAACGAUUUGGGCACUGUCUCAACGAGAGACUCGGUGAAAUCAUAGUACCUGUGAAGAUGCAGGUUACCCGCGACAGGACGGAAAGACCCCGUGGAGCUUUACUGUAGCCUGAUAUUGAAAUUCGGCACAGCUUGUACAGGAUAGGUAGGAGCCUUUGAAACGUGAGCGCUAGCUUACGUGGAGGCGCUGGUGGGAUACUACCCUAGCUGUGUUGGCUUUCUAACCCGCACCACUUAUCGUGGUGGGAGACAGUGUCAGGCGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCUCAAAGGUUCCCUCAGAAUGGUUGGAAAUCAUUCAUAGAGUGUAAAGGCAUAAGGGAGCUUGACUGCGAGACCUACAAGUCGAGCAGGGUCGAAAGACGGACUUAGUGAUCCGGUGGUUCCGCAUGGAAGGGCCAUCGCUCAACGGAUAAAAGCUACCCCGGGGAUAACAGGCUUAUCUCCCCCAAGAGUUCACAUCGACGGGGAGGUUUGGCACCUCGAUGUCGGCUCAUCGCAUCCUGGGGCUGUAGUCGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGUACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCCUAUCCGUCGUGGGCGUAGGAAAUUUGAGAGGAGCUGUCCUUAGUACGAGAGGACCGGGAUGGACAUACCUCUGGUGUACCAGUUGUCGUGCCAACGGCAUAGCUGGGUAGCUAUGUGUGGACGGGAUAAGUGCUGAAAGCAUCUAAGCAUGAAGCCCCCCUCAAGAUGAGAUUUCCCAACUUCGGUUAUAAGAUCCCUCAAAGAUGAUGAGGUUAAUAGGUUCGAGGUGGAAGCAUGGUGACAUGUGGAGCUGACGAAUACUAAUCGAUCGAAGACUUAAU",
+            "entity_poly_seq_one_letter_code_can": "UUAAGUUAUUAAGGGCGCACGGUGGAUGCCUUGGCACUAGAAGCCGAUGAAGGACGUUACUAACGACGAUAUGCUUUGGGGAGCUGUAAGUAAGCUUUGAUCCAGAGAUUUCCGAAUGGGGAAACCCAGCAUGAGUUAUGUCAUGUUAUCGAUAUGUGAAUACAUAGCAUAUCAGAAGGCACACCCGGAGAACUGAAACAUCUUAGUACCCGGAGGAAGAGAAAGAAAAUUCGAUUCCCUUAGUAGCGGCGAGCGAAAUGGGAAGAGCCCAAACCAACAAGCUUGCUUGUUGGGGUUGUAGGACACUCUACGGAGUUACAAAGGACGACAUUAGACGAAUCAUCUGGAAAGAUGAAUCAAAGAAGGUAAUAAUCCUGUAGUCGAAAAUGUUGUCUCUCUUGAGUGGAUCCUGAGUACGACGGAGCACGUGAAAUUCCGUCGGAAUCUGGGAGGACCAUCUCCUAAGGCUAAAUACUCUCUAGUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGUGAAAAGCACCCCGGAAGGGGAGUGAAAUAGAACCUGAAACCGUGUGCUUACAAGUAGUCAGAGCCCGUUAAUGGGUGAUGGCGUGCCUUUUGUAGAAUGAACCGGCGAGUUACGAUUUGAUGCAAGGUUAAGCAGUAAAUGUGGAGCCGUAGCGAAAGCGAGUCUGAAUAGGGCGUUUAGUAUUUGGUCGUAGACCCGAAACCAGGUGAUCUACCCUUGGUCAGGUUGAAGUUCAGGUAACACUGAAUGGAGGACCGAACCGACUUACGUUGAAAAGUGAGCGGAUGAACUGAGGGUAGCGGAGAAAUUCCAAUCGAACCUGGAGAUAGCUGGUUCUCUCCGAAAUAGCUUUAGGGCUAGCCUCAAGUGAUGAUUAUUGGAGGUAGAGCACUGUUUGGACGAGGGGCCGGUUACCGAAUUCAGACAAACUCCGAAUGCCAAUUAAUUUAACUUGGGAGUCAGAACAUGGGUGAUAAGGUCCGUGUUCGAAAGGGAAACAGCCCAGACCACCAGCUAAGGUCCCAAAAUAUAUGUUAAGUGGAAAAGGAUGUGGCGUUGCCCAGACAACUAGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAAUAGCUCACUAGUCGAGUGACACUGCGCCGAAAAUGUACCGGGGCUAAACAUAUUACCGAAGCUGUGGAUUGUCCUUUGGACAAUGGUAGGAGAGCGUUCUAAGGGCGUUGAAGCAUGAUCGUAAGGACAUGUGGAGCGCUUAGAAGUGAGAAUGCCGGUGUGAGUAGCGAAAGACGGGUGAGAAUCCCGUCCACCGAUUGACUAAGGUUUCCAGAGGAAGGCUCGUCCGCUCUGGGUUAGUCGGGUCCUAAGCUGAGGCCGACAGGCGUAGGCGAUGGAUAACAGGUUGAUAUUCCUGUACCACCUAUAAUCGUUUUAAUCGAUGGGGGGACGCAGUAGGAUAGGCGAAGCGUGCGAUUGGAUUGCACGUCUAAGCAGUAAGGCUGAGUAUUAGGCAAAUCCGGUACUCGUUAAGGCUGAGCUGUGAUGGGGAGAAGACAUUGUGUCUUCGAGUCGUUGAUUUCACACUGCCGAGAAAAGCCUCUAGAUAGAAAAUAGGUGCCCGUACCGCAAACCGACACAGGUAGUCAAGAUGAGAAUUCUAAGGUGAGCGAGCGAACUCUCGUUAAGGAACUCGGCAAAAUGACCCCGUAACUUCGGGAGAAGGGGUGCUCUUUAGGGUUAACGCCCAGAAGAGCCGCAGUGAAUAGGCCCAAGCGACUGUUUAUCAAAAACACAGGUCUCUGCUAAACCGUAAGGUGAUGUAUAGGGGCUGACGCCUGCCCGGUGCUGGAAGGUUAAGAGGAGUGGUUAGCUUCUGCGAAGCUACGAAUCGAAGCCCCAGUAAACGGCGGCCGUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGUAACGAUUUGGGCACUGUCUCAACGAGAGACUCGGUGAAAUCAUAGUACCUGUGAAGAUGCAGGUUACCCGCGACAGGACGGAAAGACCCCGUGGAGCUUUACUGUAGCCUGAUAUUGAAAUUCGGCACAGCUUGUACAGGAUAGGUAGGAGCCUUUGAAACGUGAGCGCUAGCUUACGUGGAGGCGCUGGUGGGAUACUACCCUAGCUGUGUUGGCUUUCUAACCCGCACCACUUAUCGUGGUGGGAGACAGUGUCAGGCGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCUCAAAGGUUCCCUCAGAAUGGUUGGAAAUCAUUCAUAGAGUGUAAAGGCAUAAGGGAGCUUGACUGCGAGACCUACAAGUCGAGCAGGGUCGAAAGACGGACUUAGUGAUCCGGUGGUUCCGCAUGGAAGGGCCAUCGCUCAACGGAUAAAAGCUACCCCGGGGAUAACAGGCUUAUCUCCCCCAAGAGUUCACAUCGACGGGGAGGUUUGGCACCUCGAUGUCGGCUCAUCGCAUCCUGGGGCUGUAGUCGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGUACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCCUAUCCGUCGUGGGCGUAGGAAAUUUGAGAGGAGCUGUCCUUAGUACGAGAGGACCGGGAUGGACAUACCUCUGGUGUACCAGUUGUCGUGCCAACGGCAUAGCUGGGUAGCUAUGUGUGGACGGGAUAAGUGCUGAAAGCAUCUAAGCAUGAAGCCCCCCUCAAGAUGAGAUUUCCCAACUUCGGUUAUAAGAUCCCUCAAAGAUGAUGAGGUUAAUAGGUUCGAGGUGGAAGCAUGGUGACAUGUGGAGCUGACGAAUACUAAUCGAUCGAAGACUUAAU",
+            "entity_poly_seq_length": 2905,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6S0Z",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Staphylococcus aureus"
+            ],
+            "rcsb_source_organism_id": [
+                1280
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "UCUGGUGACUAUAGCAAGGAGGUCACACCUGUUCCCAUGCCGAACACAGAAGUUAAGCUCCUUAGCGUCGAUGGUAGUCGAACUUACGUUCCGCUAGAGUAGAACGUUGCCAGG",
+            "entity_poly_seq_one_letter_code_can": "UCUGGUGACUAUAGCAAGGAGGUCACACCUGUUCCCAUGCCGAACACAGAAGUUAAGCUCCUUAGCGUCGAUGGUAGUCGAACUUACGUUCCGCUAGAGUAGAACGUUGCCAGG",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "ERYTHROMYCIN A",
+            "formula_weight": 0.734,
+            "chemicalId": "ERY",
+            "chemicalName": "ERYTHROMYCIN A",
+            "cif_residueId": "none"
+        }
+    ]
+}

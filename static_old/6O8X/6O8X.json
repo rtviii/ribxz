@@ -1,0 +1,1599 @@
+{
+    "rcsb_id": "6O8X",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.68,
+    "rcsb_external_ref_id": [
+        "EMD-0657"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-0657"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.68,
+    "cryoem_exp_num_particles": 32689,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Murphy, E.L.",
+        "Singh, K.V.",
+        "Avila, B.",
+        "Kleffmann, T.",
+        "Gregory, S.T.",
+        "Murray, B.E.",
+        "Krause, K.L.",
+        "Khayat, R.",
+        "Jogl, G."
+    ],
+    "citation_title": "Cryo-electron microscopy structure of the 70S ribosome from Enterococcus faecalis.",
+    "citation_pdbx_doi": "10.1038/s41598-020-73199-6",
+    "pdbx_keywords_text": "70S, ribosome, pathogen, antibiotic development, antibiotic resistant",
+    "_organismId": [
+        1351
+    ],
+    "_organismName": [
+        "Enterococcus faecalis"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XRV7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "SRYTGPSWKVSRRLGISLSGTGKELARRPYKPGQHGPNSRGKVSEYGMQLTEKQKLRHMYGMNERQFRTLFIKASKIKEGKHGVNFMVLLEQRLDNVVYRLGLATTRRQARQLVNHGHITVDGKRVDIPSYHVEVGQVIGVREKSQNISTIKEAVEATVGRPAFVSFDTEKLEGSFTRLPERDELYPEIDEALVVEYYNQK",
+            "entity_poly_seq_one_letter_code_can": "SRYTGPSWKVSRRLGISLSGTGKELARRPYKPGQHGPNSRGKVSEYGMQLTEKQKLRHMYGMNERQFRTLFIKASKIKEGKHGVNFMVLLEQRLDNVVYRLGLATTRRQARQLVNHGHITVDGKRVDIPSYHVEVGQVIGVREKSQNISTIKEAVEATVGRPAFVSFDTEKLEGSFTRLPERDELYPEIDEALVVEYYNQK",
+            "entity_poly_seq_length": 201,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKW0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "YIDPKHLELEDRVVAINRVTKVVKGGRRLRFAALVVVGDKNGHVGFGTGKAQEVPEAIRKAIEDAKKNLVEVPMVGSTIPHEVIGVFGGGRILMKPAVEGSGVAAGGPVRAVLELAGVADITSKSLGSNTPINVVRATVEGLKQLKRAEEVAALRGKSVEEII",
+            "entity_poly_seq_one_letter_code_can": "YIDPKHLELEDRVVAINRVTKVVKGGRRLRFAALVVVGDKNGHVGFGTGKAQEVPEAIRKAIEDAKKNLVEVPMVGSTIPHEVIGVFGGGRILMKPAVEGSGVAAGGPVRAVLELAGVADITSKSLGSNTPINVVRATVEGLKQLKRAEEVAALRGKSVEEII",
+            "entity_poly_seq_length": 163,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKQ3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "PRKGPVAKRDVLPDPIYNSKLVTRLINRVMVDGKRGIAANIIYNSFDIIKESTGNDPLEVFEQAMKNVMPVLEVKARRVGGSNYQVPVEVRPERRTTLGLRWVVNYARLRGEHTMEERLAKEIMDAANNTGASVKKREDTHKMADANRAFAHYR",
+            "entity_poly_seq_one_letter_code_can": "PRKGPVAKRDVLPDPIYNSKLVTRLINRVMVDGKRGIAANIIYNSFDIIKESTGNDPLEVFEQAMKNVMPVLEVKARRVGGSNYQVPVEVRPERRTTLGLRWVVNYARLRGEHTMEERLAKEIMDAANNTGASVKKREDTHKMADANRAFAHYR",
+            "entity_poly_seq_length": 154,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKS6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "VMTDPIADFLTRIRNANMVKHETLEVPASKIKRDIAEILKREGFIRDVEYIEDDKQGVIRVFLKYGKNEERVITNLKRISKPGLRAYVKADEVPKVLNGLGIAIISTSEGVITDKEARAKNIGGEVIAYVW",
+            "entity_poly_seq_one_letter_code_can": "VMTDPIADFLTRIRNANMVKHETLEVPASKIKRDIAEILKREGFIRDVEYIEDDKQGVIRVFLKYGKNEERVITNLKRISKPGLRAYVKADEVPKVLNGLGIAIISTSEGVITDKEARAKNIGGEVIAYVW",
+            "entity_poly_seq_length": 131,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XSA2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "QVQYSGTGRRKNAVARVRLVPGTGKITVNKKDVEEYIPHADLREVINQPFGVTETKGAYDVIVNVNGGGYAGQSGAIRHGIARALLQVDPDFRSALKRAGLLTRDARMVERKKPGLKKARKASQFSKR",
+            "entity_poly_seq_one_letter_code_can": "QVQYSGTGRRKNAVARVRLVPGTGKITVNKKDVEEYIPHADLREVINQPFGVTETKGAYDVIVNVNGGGYAGQSGAIRHGIARALLQVDPDFRSALKRAGLLTRDARMVERKKPGLKKARKASQFSKR",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKR5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "QKIRIRLKAYEHRILDQSADKIVETAKRTGADVSGPIPLPTERSLYTVIRATHKYKDSREQFEMRTHKRLIDIVNPTPKTVDALMKLDLPSGVNIEIKL",
+            "entity_poly_seq_one_letter_code_can": "QKIRIRLKAYEHRILDQSADKIVETAKRTGADVSGPIPLPTERSLYTVIRATHKYKDSREQFEMRTHKRLIDIVNPTPKTVDALMKLDLPSGVNIEIKL",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKV1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "KKNIESGVAHIHSTFNNTIVMITDTHGNALAWSSAGSLGFKGSKKSTPFAAQMAAEAATKVAMEHGLKTVDVTVKGPGSGREAAIRSLQATGLEVTAIRDVTPVPHNGCRPPKRRRV",
+            "entity_poly_seq_one_letter_code_can": "KKNIESGVAHIHSTFNNTIVMITDTHGNALAWSSAGSLGFKGSKKSTPFAAQMAAEAATKVAMEHGLKTVDVTVKGPGSGREAAIRSLQATGLEVTAIRDVTPVPHNGCRPPKRRRV",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKQ7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "PTINQLVRKPRKSKVEKSDSPALNKGYNSFKKTQTNVNSPQKRGVCTRVGTMTPKKPNSALRKYARVRLSNLIEVTAYIPGIGHNLQEHSVVLLRGGRVKDLPGVRYHIVRGALDTAGVNDRKQSRSKYGTKRPKA",
+            "entity_poly_seq_one_letter_code_can": "PTINQLVRKPRKSKVEKSDSPALNKGYNSFKKTQTNVNSPQKRGVCTRVGTMTPKKPNSALRKYARVRLSNLIEVTAYIPGIGHNLQEHSVVLLRGGRVKDLPGVRYHIVRGALDTAGVNDRKQSRSKYGTKRPKA",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKT0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14 type Z",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "AKKSMIAKNKRPAKHSTQAYTRCERCGRPHSVYRKFHLCRICFRELAYKGQIPGVKKASW",
+            "entity_poly_seq_one_letter_code_can": "AKKSMIAKNKRPAKHSTQAYTRCERCGRPHSVYRKFHLCRICFRELAYKGQIPGVKKASW",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKS3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "ERNQRKVYQGRVVSDKMDKTITVVVETKKNHPIYGKRMKYSKKYKAHDENNTAKVGDIVKIMETRPLSATKRFRLLEVVEEAV",
+            "entity_poly_seq_one_letter_code_can": "ERNQRKVYQGRVVSDKMDKTITVVVETKKNHPIYGKRMKYSKKYKAHDENNTAKVGDIVKIMETRPLSATKRFRLLEVVEEAV",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKB3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S18",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "KVDYIAANHIEYIDYKDTELLKRFISERGKILPRRVTGTGAKNQRKLTIAIKRARIMGLLPFVSDE",
+            "entity_poly_seq_one_letter_code_can": "KVDYIAANHIEYIDYKDTELLKRFISERGKILPRRVTGTGAKNQRKLTIAIKRARIMGLLPFVSDE",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKS0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "SLKKGPFVDDHLMKKVEAQQGAEKKKVIKTWSRRSTIFPSFVGFTIAVYDGRKHVPVYIQEDMVGHKLGEFAPTRTYR",
+            "entity_poly_seq_one_letter_code_can": "SLKKGPFVDDHLMKKVEAQQGAEKKKVIKTWSRRSTIFPSFVGFTIAVYDGRKHVPVYIQEDMVGHKLGEFAPTRTYR",
+            "entity_poly_seq_length": 78,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "Bacterial ribosomal protein S20 interacts with 16S rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S20"
+            ],
+            "pfam_accessions": [
+                "PF01649"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XQJ7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S20",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "NIESAIKRVRTSANANAKNSSQTNAMRTAIKKFEEAVAAGADNVDALYNEAVKAVDMAATKGLIHKNKANRDKIRLSKLAK",
+            "entity_poly_seq_one_letter_code_can": "NIESAIKRVRTSANANAKNSSQTNAMRTAIKKFEEAVAAGADNVDALYNEAVKAVDMAATKGLIHKNKANRDKIRLSKLAK",
+            "entity_poly_seq_length": 81,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKR6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "AIKKYKPTTNGRRNMTSSDFAEITTSTPEKSLLQPLKNNAGRNNNGRITVRHQGGGHKRQYRVIDFKRNKDNVAAVVKTIEYDPNRSANIALVHYEDGVKAYILAPKGLEVGMRLVSGPEADIKVGNALPLENIPVGTVIHNIEMKPGKGGQLIRSAGTSAQVLGKEGKYVLIRLNSGEVRMILATCRATIGSVGNEQHELINIGKAGRSRWMRKRPTVRGSVMNPNDHPHGGGEGKTPIGRKAPVSPWGQPAIGYKTRNKKAKSDKLIVRRRTK",
+            "entity_poly_seq_one_letter_code_can": "AIKKYKPTTNGRRNMTSSDFAEITTSTPEKSLLQPLKNNAGRNNNGRITVRHQGGGHKRQYRVIDFKRNKDNVAAVVKTIEYDPNRSANIALVHYEDGVKAYILAPKGLEVGMRLVSGPEADIKVGNALPLENIPVGTVIHNIEMKPGKGGQLIRSAGTSAQVLGKEGKYVLIRLNSGEVRMILATCRATIGSVGNEQHELINIGKAGRSRWMRKRPTVRGSVMNPNDHPHGGGEGKTPIGRKAPVSPWGQPAIGYKTRNKKAKSDKLIVRRRTK",
+            "entity_poly_seq_length": 275,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKR3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "TKGILGKKVGMTQIFTESGELIPVTVVEATPNVVLQVKTVETDGYEAIQVGYQDKREVLSNKPAKGHVAKANTAPKRFIKEFKNVELGEYEVGKEIKVDVFQAGDVVDVTGTTKGKGFQGAIKRHGQSRGPMSHGSRYHRRPGSMGPVAPNRVFKNKRLAGRMGGDRVTIQNLEVVKVDVERNVILIKGNIPGAKKSLITIKSAVKA",
+            "entity_poly_seq_one_letter_code_can": "TKGILGKKVGMTQIFTESGELIPVTVVEATPNVVLQVKTVETDGYEAIQVGYQDKREVLSNKPAKGHVAKANTAPKRFIKEFKNVELGEYEVGKEIKVDVFQAGDVVDVTGTTKGKGFQGAIKRHGQSRGPMSHGSRYHRRPGSMGPVAPNRVFKNKRLAGRMGGDRVTIQNLEVVKVDVERNVILIKGNIPGAKKSLITIKSAVKA",
+            "entity_poly_seq_length": 207,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKU3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "SRIGNKVVVLPAGVEIKQDGNNITVKGPKGELTREFSSDIKMNIEGNEVTFTRPNDSKEMKTIHGTTRANFNNMVVGVSEGFQKALELIGVGYRAQVQGNKLTLNVGYSHPVEMTAPEGVTFEVPANTQVIVKGINKEVVGELAANIRGVRPPEPYKGKGIRYVGEFVRRKEGKTG",
+            "entity_poly_seq_one_letter_code_can": "SRIGNKVVVLPAGVEIKQDGNNITVKGPKGELTREFSSDIKMNIEGNEVTFTRPNDSKEMKTIHGTTRANFNNMVVGVSEGFQKALELIGVGYRAQVQGNKLTLNVGYSHPVEMTAPEGVTFEVPANTQVIVKGINKEVVGELAANIRGVRPPEPYKGKGIRYVGEFVRRKEGKTG",
+            "entity_poly_seq_length": 176,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XSB2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MRTTYMAKAGEVERKWYVVDATDVPLGRLSAVVASVLRGKNKPTFTPHVDTGDFVIVINADKVKLTGKKATDKIYYRHSMYPGGLKSVTAGELRDKNSRRLIETSVKGMLPKNTLGRKQFTKLNVYGGAEHPHAAQQPEVLDITN",
+            "entity_poly_seq_one_letter_code_can": "MRTTYMAKAGEVERKWYVVDATDVPLGRLSAVVASVLRGKNKPTFTPHVDTGDFVIVINADKVKLTGKKATDKIYYRHSMYPGGLKSVTAGELRDKNSRRLIETSVKGMLPKNTLGRKQFTKLNVYGGAEHPHAAQQPEVLDITN",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKS1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MIQQESRLRVADNSGAREILTIKVLGGSGRKTANIGDVIVATVKQATPGGVVKKGEVVKAVIVRTKSGARRADGSYIKFDENAAVIIRDDKSPRGTRIFGPVARELRENNFMKIVSLAPEVL",
+            "entity_poly_seq_one_letter_code_can": "MIQQESRLRVADNSGAREILTIKVLGGSGRKTANIGDVIVATVKQATPGGVVKKGEVVKAVIVRTKSGARRADGSYIKFDENAAVIIRDDKSPRGTRIFGPVARELRENNFMKIVSLAPEVL",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKT1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MKLHELKPAEGSRQVRNRVGRGTSSGNGKTAGRGQKGQKARSGGGVRLGFEGGQTPLFRRLPKRGFTNINRKDYAVVNLDTLNRFEDGTEVTPVVLKEAGIVKNEKAGIKVLADGELTKKLTVKAAKFSKSAQEAIEAAGGSIEVI",
+            "entity_poly_seq_one_letter_code_can": "MKLHELKPAEGSRQVRNRVGRGTSSGNGKTAGRGQKGQKARSGGGVRLGFEGGQTPLFRRLPKRGFTNINRKDYAVVNLDTLNRFEDGTEVTPVVLKEAGIVKNEKAGIKVLADGELTKKLTVKAAKFSKSAQEAIEAAGGSIEVI",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKU1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MLVPKRVKHRREFRGKMRGEAKGGKEVAFGEWGLQATESHWITNRQIEAARIAMTRYMKRGGKVWIKIFPHKSYTSKAIGVRMGKGKGAPEGWVSPVKRGKIMFEIAGVPEEVAREALRLASHKLPVKTKIVKREEMGGES",
+            "entity_poly_seq_one_letter_code_can": "MLVPKRVKHRREFRGKMRGEAKGGKEVAFGEWGLQATESHWITNRQIEAARIAMTRYMKRGGKVWIKIFPHKSYTSKAIGVRMGKGKGAPEGWVSPVKRGKIMFEIAGVPEEVAREALRLASHKLPVKTKIVKREEMGGES",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKX1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "RKLGRTSSQRKAMLRDITTDLIINERIVTTEARAKEVRSTVEKMITLGKRGDLHARRQAATFVRNEVASVREEDESIVVESALQKLFNDLGPRFAERQGGYTRILKTEPRRGDAAPMVVIEFV",
+            "entity_poly_seq_one_letter_code_can": "RKLGRTSSQRKAMLRDITTDLIINERIVTTEARAKEVRSTVEKMITLGKRGDLHARRQAATFVRNEVASVREEDESIVVESALQKLFNDLGPRFAERQGGYTRILKTEPRRGDAAPMVVIEFV",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XPL8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "NPLIQELTQEQLRTDIPAFRPGDTVRVHAKVVEGTRERIQLFEGVVIKRRGAGISETYTVRKVSNGVGVERTFPLHTPRVAQIEVVRYGKVRRAKLYYLRALHGKAARIKEIRR",
+            "entity_poly_seq_one_letter_code_can": "NPLIQELTQEQLRTDIPAFRPGDTVRVHAKVVEGTRERIQLFEGVVIKRRGAGISETYTVRKVSNGVGVERTFPLHTPRVAQIEVVRYGKVRRAKLYYLRALHGKAARIKEIRR",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XMC1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MYAIIKTGGKQVKVEVGQAIYVEKLNVEAGEKVVFDEVILVGGESTKVGAPTVAGATVEGTVEKHGKQKKVVTFQYKPKKHSHRKQGHRQPYTKVMIEAINA",
+            "entity_poly_seq_one_letter_code_can": "MYAIIKTGGKQVKVEVGQAIYVEKLNVEAGEKVVFDEVILVGGESTKVGAPTVAGATVEGTVEKHGKQKKVVTFQYKPKKHSHRKQGHRQPYTKVMIEAINA",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKT6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "QITSAKATAKTVRTSPRKARLVIDLIRGKSVADAISILKFTPNKSAGIIEKVLMSAVANAENNFDLDVESLVVSEAFVNEGPTMKRFRPRAKGSASPINKRTSHITVVVTEK",
+            "entity_poly_seq_one_letter_code_can": "QITSAKATAKTVRTSPRKARLVIDLIRGKSVADAISILKFTPNKSAGIIEKVLMSAVANAENNFDLDVESLVVSEAFVNEGPTMKRFRPRAKGSASPINKRTSHITVVVTEK",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKR7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "ELLDVIKRPVITEKSMLAMDEKKYTFEVDTRANKTLVKQAVESAFDVKVANVNILNVRPKFKRMGKYAGYTKKRRKAIVTLTEDSKEIQ",
+            "entity_poly_seq_one_letter_code_can": "ELLDVIKRPVITEKSMLAMDEKKYTFEVDTRANKTLVKQAVESAFDVKVANVNILNVRPKFKRMGKYAGYTKKRRKAIVTLTEDSKEIQ",
+            "entity_poly_seq_length": 89,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKV5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MFVKKGDKVKVITGKDKNKEGVVLAAFPKQDKVIVEGVNVVKKHQKPNQAAPQGGILEVEAPIHVSNVMVIDPSNGEATKVAFKEVDGKKVRVSKKTGEVL",
+            "entity_poly_seq_one_letter_code_can": "MFVKKGDKVKVITGKDKNKEGVVLAAFPKQDKVIVEGVNVVKKHQKPNQAAPQGGILEVEAPIHVSNVMVIDPSNGEATKVAFKEVDGKKVRVSKKTGEVL",
+            "entity_poly_seq_length": 101,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family contains the C-terminal domain of ribosomal protein TL5. The N-terminal domain, which binds to 5S rRNA, is contained in family Ribosomal_L25p, Pfam:PF01386. Full length (N- and C-terminal domain) homologues of TL5 are also known as CTC proteins. TL5 or CTC are not found in Eukarya or Archaea. In some Bacteria, including E. coli, this ribosomal subunit occurs as a single domain protein (named Ribosomal subunit L25), where the only domain is homologous to TL5 N-terminal domain (hence included in family Pfam:PF01386). The function of the C-terminal domain of TLC is at present unknown.",
+                "Ribosomal protein L25 is an RNA binding protein, that binds 5S rRNA. This family includes Ctc from B. subtilis Swiss:P14194, which is induced by stress."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein TL5, C-terminal domain",
+                "Ribosomal L25p family"
+            ],
+            "pfam_accessions": [
+                "PF14693",
+                "PF01386"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1X3AL36"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L25",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "VQLEVKERAIRPRSLRNQLRHEGKVPAIVYGYQIESTPIYFEEKDLSKILREHGANTVIKMTVDGKNINTLMSKAQLDTFTGQMLHVEFLSVNM",
+            "entity_poly_seq_one_letter_code_can": "VQLEVKERAIRPRSLRNQLRHEGKVPAIVYGYQIESTPIYFEEKDLSKILREHGANTVIKMTVDGKNINTLMSKAQLDTFTGQMLHVEFLSVNM",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XMB1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "STSNGRDSESKRLGAKSADGQTVTGGSILYRQRGTKIYPGVNVGIGGDDTLFAKVDGVVRFERKGRDKKQVSVYPV",
+            "entity_poly_seq_one_letter_code_can": "STSNGRDSESKRLGAKSADGQTVTGGSILYRQRGTKIYPGVNVGIGGDDTLFAKVDGVVRFERKGRDKKQVSVYPV",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XRZ8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "AKVCYFTGRKTSSGNNRSHAMNSTKRTVKPNLQKVRVLIDGKPKKVWVSARALK",
+            "entity_poly_seq_one_letter_code_can": "AKVCYFTGRKTSSGNNRSHAMNSTKRTVKPNLQKVRVLIDGKPKKVWVSARALK",
+            "entity_poly_seq_length": 54,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKW1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "0",
+            "entity_poly_seq_one_letter_code": "AELKITLKRSVIGRPQNQRATVKALGLGKVNSTVTKPANEAIKGMVNTISHLVDVEEV",
+            "entity_poly_seq_one_letter_code_can": "AELKITLKRSVIGRPQNQRATVKALGLGKVNSTVTKPANEAIKGMVNTISHLVDVEEV",
+            "entity_poly_seq_length": 58,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31"
+            ],
+            "pfam_accessions": [
+                "PF01197"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XMV6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31 type B",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "MKQDIHPNYQPVVFMDSTTGFKFLSGSTKGSSETVEWEDGNTYPLLRVEVTSDSHPFYTG",
+            "entity_poly_seq_one_letter_code_can": "MKQDIHPNYQPVVFMDSTTGFKFLSGSTKGSSETVEWEDGNTYPLLRVEVTSDSHPFYTG",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XR98"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "MRVNITLECTSCKERNYLTNKNKRNNPDRLEKQKYCPRERKVTLHRETK",
+            "entity_poly_seq_one_letter_code_can": "MRVNITLECTSCKERNYLTNKNKRNNPDRLEKQKYCPRERKVTLHRETK",
+            "entity_poly_seq_length": 49,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XSI4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MKRTYQPNKRKRQKVHGFRKRMSTKNGRRVLASRRRKGRKVISA",
+            "entity_poly_seq_one_letter_code_can": "MKRTYQPNKRKRQKVHGFRKRMSTKNGRRVLASRRRKGRKVISA",
+            "entity_poly_seq_length": 44,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XM73"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "PKQKTHRGLAKRVKRTGGGGLKRGRAFTSHRFHGKTKKQRRQLRKASMVAKGDYKRIRQQLARM",
+            "entity_poly_seq_one_letter_code_can": "PKQKTHRGLAKRVKRTGGGGLKRGRAFTSHRFHGKTKKQRRQLRKASMVAKGDYKRIRQQLARM",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKT9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "MKVRPSVKPMCEHCKVIRRKGRVMVICPANPKHKQRQG",
+            "entity_poly_seq_one_letter_code_can": "MKVRPSVKPMCEHCKVIRRKGRVMVICPANPKHKQRQG",
+            "entity_poly_seq_length": 38,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKT7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "ARIAGVDIPRDKRVVVSLTYIYGIGNTTAKKVLANVGVSEDVRVRDLTNEQTDAIRAEIDKLKVEGDLRREVNLNIKRLMEIGSYRGIRHRRGLPTRGQNTKNNARTRKGPT",
+            "entity_poly_seq_one_letter_code_can": "ARIAGVDIPRDKRVVVSLTYIYGIGNTTAKKVLANVGVSEDVRVRDLTNEQTDAIRAEIDKLKVEGDLRREVNLNIKRLMEIGSYRGIRHRRGLPTRGQNTKNNARTRKGPT",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XRW3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "AISQERKNEIIKEYARHEGDTGSPEVQIAVLTEDINQLNEHARTHKKDHHSYRGLMKKIGHRRNLLAYLRKTDIQRYRELIQRLGLRR",
+            "entity_poly_seq_one_letter_code_can": "AISQERKNEIIKEYARHEGDTGSPEVQIAVLTEDINQLNEHARTHKKDHHSYRGLMKKIGHRRNLLAYLRKTDIQRYRELIQRLGLRR",
+            "entity_poly_seq_length": 88,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XP69"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S16",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "AVKIRLKRMGSKKSPFYRIVVADSRSPRDGRFIETVGTYNPLKDPAEVVLKEDLVLDWLSKGAQPSDTVRNILSKEGVMKKHHEAKNVK",
+            "entity_poly_seq_one_letter_code_can": "AVKIRLKRMGSKKSPFYRIVVADSRSPRDGRFIETVGTYNPLKDPAEVVLKEDLVLDWLSKGAQPSDTVRNILSKEGVMKKHHEAKNVK",
+            "entity_poly_seq_length": 89,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKR8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "GQKVHPIGMRVGIIRDWDAKWYAEKEYAEFLHEDLRIRKFIATKLADAAVSTIEIERAANRVNISIHTAKPGMVIGKGGSEVENLRKELNKLTGKRVHINIVEIKKPDLDAKLVGEGIARQLENRVAFRRAQKQAIQRAMRAGAKGIKTQVSGRLNGADIARSEGYSEGTVPLHTLRADIDYAWEEADTTYGKLGVKVWIYRGE",
+            "entity_poly_seq_one_letter_code_can": "GQKVHPIGMRVGIIRDWDAKWYAEKEYAEFLHEDLRIRKFIATKLADAAVSTIEIERAANRVNISIHTAKPGMVIGKGGSEVENLRKELNKLTGKRVHINIVEIKKPDLDAKLVGEGIARQLENRVAFRRAQKQAIQRAMRAGAKGIKTQVSGRLNGADIARSEGYSEGTVPLHTLRADIDYAWEEADTTYGKLGVKVWIYRGE",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKU7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "PNVALFKQDGTQNGEITLNEEIFGIEPNESVVYDAIIMQRASLRQGTHAVKNRSAVRGGGRKPWRQKGTGRARQGSIRSPQWRGGGVVFGPTPRSYSYKLPKKVRRLAMKSVLSDKVAENNLVAVEGLSFDAPKTKEFKQVLANLSIDTKVLVVLENGNDFAALSARNLPNVSVVTSDNVSVLDVVSANKVLATQTALTQIEEVLA",
+            "entity_poly_seq_one_letter_code_can": "PNVALFKQDGTQNGEITLNEEIFGIEPNESVVYDAIIMQRASLRQGTHAVKNRSAVRGGGRKPWRQKGTGRARQGSIRSPQWRGGGVVFGPTPRSYSYKLPKKVRRLAMKSVLSDKVAENNLVAVEGLSFDAPKTKEFKQVLANLSIDTKVLVVLENGNDFAALSARNLPNVSVVTSDNVSVLDVVSANKVLATQTALTQIEEVLA",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKS2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "NRLKEKYIKEVTPSLVEKFNYSSVMQTPKVDKIVINMGVGDAVSNAKNLDKAVEELALITGQKPLITKAKKSIAGFRLREGMPIGAKVTLRGERMYEFLDKLVTVSLPRVRDFHGVSKKAFDGRGNYTLGIKEQLIFPEVDYDLVDKVRGMDIVIVTTANTDEESRELLAQLGMPFQ",
+            "entity_poly_seq_one_letter_code_can": "NRLKEKYIKEVTPSLVEKFNYSSVMQTPKVDKIVINMGVGDAVSNAKNLDKAVEELALITGQKPLITKAKKSIAGFRLREGMPIGAKVTLRGERMYEFLDKLVTVSLPRVRDFHGVSKKAFDGRGNYTLGIKEQLIFPEVDYDLVDKVRGMDIVIVTTANTDEESRELLAQLGMPFQ",
+            "entity_poly_seq_length": 177,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKS7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "ITKPDKNKTRQKRHRRVRNKISGTAECPRLNIFRSNKNIYAQVIDDVAGVTLASASALDKEISGGTKTETAAAVGKLVAERAAEKGIKKVVFDRGGYLYHGRVQALAEAARENGLEF",
+            "entity_poly_seq_one_letter_code_can": "ITKPDKNKTRQKRHRRVRNKISGTAECPRLNIFRSNKNIYAQVIDDVAGVTLASASALDKEISGGTKTETAAAVGKLVAERAAEKGIKKVVFDRGGYLYHGRVQALAEAARENGLEF",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XM76"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "ARVKGGTVTRKRRKKVLKLAKGYYGSKHTLFKSAKEQVMNSYYYAFRDRRQKKRDFRKLWIARINAAARMNGLSYSKLMHGLKLAEIDINRKMLADLAVNDAAAFTALAEQAKDALSK",
+            "entity_poly_seq_one_letter_code_can": "ARVKGGTVTRKRRKKVLKLAKGYYGSKHTLFKSAKEQVMNSYYYAFRDRRQKKRDFRKLWIARINAAARMNGLSYSKLMHGLKLAEIDINRKMLADLAVNDAAAFTALAEQAKDALSK",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKV0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "KVKEIRELTTAEMLDKEKQLKEELFNLRFQLATGQLENTARIKEVRQSIARIKTVLREQAN",
+            "entity_poly_seq_one_letter_code_can": "KVKEIRELTTAEMLDKEKQLKEELFNLRFQLATGQLENTARIKEVRQSIARIKTVLREQAN",
+            "entity_poly_seq_length": 61,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XMM2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "AVPARRTSKAKKAKRRTHYKLTIKGLNACSNCGEMKKSHHVCPACGHYDGKDVMSK",
+            "entity_poly_seq_one_letter_code_can": "AVPARRTSKAKKAKRRTHYKLTIKGLNACSNCGEMKKSHHVCPACGHYDGKDVMSK",
+            "entity_poly_seq_length": 56,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "uniprot_accession": [
+                "A0A1B4XKB6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "QDTKYEIMYIIRPNIDEEAKTALVERFDTILKDNGAEVIESKDWEKRRLAYEMNGFREGIYHIVNVTSPSTAGAINEFDRLAKINDDIIRHMIVKVE",
+            "entity_poly_seq_one_letter_code_can": "QDTKYEIMYIIRPNIDEEAKTALVERFDTILKDNGAEVIESKDWEKRRLAYEMNGFREGIYHIVNVTSPSTAGAINEFDRLAKINDDIIRHMIVKVE",
+            "entity_poly_seq_length": 97,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6O8X",
+            "rcsb_pdbx_description": "5S rRNA",
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "UGUGGUGGCGAUAGCGAGAAGGAUACACCUGUUCCCAUGCCGAACACAGAAGUUAAGCUUCUUAGCGCCGAUUGUAGUGAAGGGUUUCCCUUUGUGAGAGUAGGACGUCGCCACGC",
+            "entity_poly_seq_one_letter_code_can": "UGUGGUGGCGAUAGCGAGAAGGAUACACCUGUUCCCAUGCCGAACACAGAAGUUAAGCUUCUUAGCGCCGAUUGUAGUGAAGGGUUUCCCUUUGUGAGAGUAGGACGUCGCCACGC",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "rcsb_pdbx_description": "16S rRNA",
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "UGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCCUAAUACAUGCAAGUCGAACGCUUCUUUCCUUGGAAAGAGGAGUGGCGGACGGGUGAGUAACACGUGGGUAACCUACCCAUCAGAGGGGGAUAACACUUGGAAACAGGUGCUAAUACCGCAUAACAGUUUAUGCCGCAUGGCAUAAGAGUGAAAGGCGCUUUCGGGUGUCGCUGAUGGAUGGACCCGCGGUGCAUUAGCUAGUUGGUGAGGUAACGGCUCACCAAGGCCACGAUGCAUAGCCGACCUGAGAGGGUGAUCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUAGGGAAUCUUCGGCAAUGGACGAAAGUCUGACCGAGCAACGCCGCGUGAGUGAAGAAGGUUUUCGGAUCGUAAAACUCUGUUGUUAGAGAAGAACAAGGACGUUAGUAACUGAACGUCCCCUGACGGUAUCUAACCAGAAAGCCACGGCUAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGUGGCAAGCGUUGUCCGGAUUUAUUGGGCGUAAAGCGAGCGCAGGCGGUUUCUUAAGUCUGAUGUGAAAGCCCCCGGCUCAACCGGGGAGGGUCAUUGGAAACUGGGAGACUUGAGUGCAGAAGAGGAGAGUGGAAUUCCAUGUGUAGCGGUGAAAUGCGUAGAUAUAUGGAGGAACACCAGUGGCGAAGGCGGCUCUCUGGUCUGUAACUGACGCUGAGGCUCGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGAGUGCUAAGUGUUGGAGGGUUUCCGCCCUUCAGUGCUGCAGCAAACGCAUUAAGCACUCCGCCUGGGGAGUACGACCGCAAGGUUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGUCUUGACAUCCUUUGACCACUCUAGAGAUAGAGCUUUCCCUUCGGGGACAAAGUGACAGGUGGUGCAUGGUUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUAUUGUUAGUUGCCAUCAUUUAGUUGGGCACUCUAGCGAGACUGCCGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAAUCAUCAUGCCCCUUAUGACCUGGGCUACACACGUGCUACAAUGGGAAGUACAACGAGUCGCUAGACCGCGAGGUCAUGCAAAUCUCUUAAAGCUUCUCUCAGUUCGGAUUGCAGGCUGCAACUCGCCUGCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCACGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCACGAGAGUUUGUAACACCCGAAGUCGGUGAGGUAACCUUUUUGGAGCCAGCCGCCUAAGGUGGGAUAGAUGAUUGGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGGAUCA",
+            "entity_poly_seq_one_letter_code_can": "UGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCCUAAUACAUGCAAGUCGAACGCUUCUUUCCUUGGAAAGAGGAGUGGCGGACGGGUGAGUAACACGUGGGUAACCUACCCAUCAGAGGGGGAUAACACUUGGAAACAGGUGCUAAUACCGCAUAACAGUUUAUGCCGCAUGGCAUAAGAGUGAAAGGCGCUUUCGGGUGUCGCUGAUGGAUGGACCCGCGGUGCAUUAGCUAGUUGGUGAGGUAACGGCUCACCAAGGCCACGAUGCAUAGCCGACCUGAGAGGGUGAUCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUAGGGAAUCUUCGGCAAUGGACGAAAGUCUGACCGAGCAACGCCGCGUGAGUGAAGAAGGUUUUCGGAUCGUAAAACUCUGUUGUUAGAGAAGAACAAGGACGUUAGUAACUGAACGUCCCCUGACGGUAUCUAACCAGAAAGCCACGGCUAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGUGGCAAGCGUUGUCCGGAUUUAUUGGGCGUAAAGCGAGCGCAGGCGGUUUCUUAAGUCUGAUGUGAAAGCCCCCGGCUCAACCGGGGAGGGUCAUUGGAAACUGGGAGACUUGAGUGCAGAAGAGGAGAGUGGAAUUCCAUGUGUAGCGGUGAAAUGCGUAGAUAUAUGGAGGAACACCAGUGGCGAAGGCGGCUCUCUGGUCUGUAACUGACGCUGAGGCUCGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGAGUGCUAAGUGUUGGAGGGUUUCCGCCCUUCAGUGCUGCAGCAAACGCAUUAAGCACUCCGCCUGGGGAGUACGACCGCAAGGUUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGUCUUGACAUCCUUUGACCACUCUAGAGAUAGAGCUUUCCCUUCGGGGACAAAGUGACAGGUGGUGCAUGGUUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUAUUGUUAGUUGCCAUCAUUUAGUUGGGCACUCUAGCGAGACUGCCGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAAUCAUCAUGCCCCUUAUGACCUGGGCUACACACGUGCUACAAUGGGAAGUACAACGAGUCGCUAGACCGCGAGGUCAUGCAAAUCUCUUAAAGCUUCUCUCAGUUCGGAUUGCAGGCUGCAACUCGCCUGCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCACGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCACGAGAGUUUGUAACACCCGAAGUCGGUGAGGUAACCUUUUUGGAGCCAGCCGCCUAAGGUGGGAUAGAUGAUUGGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGGAUCA",
+            "entity_poly_seq_length": 1528,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6O8X",
+            "rcsb_pdbx_description": "23S rRNA",
+            "rcsb_source_organism_description": [
+                "Enterococcus faecalis"
+            ],
+            "rcsb_source_organism_id": [
+                1351
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "UUAAGUGAAUAAGGGCGCACGGUGGAUGCCUUGGCACUAGGAGCCGAUGAAGGACGGGACUAACACCGAUAUGCUUUGGGGAGCUGUAAGUAAGCUAUGAUCCAGAGAUUUCCGAAUGGGGGAACCCAAUAUCUUUUAUAGGAUAUUACUUUUCAGUGAAUACAUAGCUGAUUAGAGGUAGACGCAGAGAACUGAAACAUCUUAGUACCUGCAGGAAGAGAAAGAAAAUUCGAUUCCCUGAGUAGCGGCGAGCGAAACGGGAAGAGCCCAAACCAACAAGCUUGCUUGUUGGGGUUGUAGGACUCCGAUAUGGUAGUCUGUUAGUAUAGUUGAAGGAUUUGGAAAAUUCCGCUAAAGAGGGUGAAAGCCCCGUAGACGAAAUGCUGACAACACCUAGGAGGAUCCUGAGUACGGCGGAACACGAGAAAUUCCGUCGGAAUCCGCGGGGACCAUCCCGCAAGGCUAAAUACUCCCUAGUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGUGAAAAGCACCCCGGAAGGGGAGUGAAAUAGAUCCUGAAACCGUGUGCCUACAACAAGUCAAAGCUCGUUAAUGAGUGAUGGCGUGCCUUUUGUAGAAUGAACCGGCGAGUUACGAUUGCAUGCGAGGUUAAGUCGAAGAGACGGAGCCGCAGCGAAAGCGAGUCUGAAUAGGGCGAAUGAGUAUGUAGUCGUAGACCCGAAACCAUGUGAUCUACCCAUGUCCAGGUUGAAGGUGCGGUAAAACGCACUGGAGGACCGAACCCACGUACGUUGAAAAGUGCGGGGAUGAGGUGUGGGUAGCGGAGAAAUUCCAAACGAACUUGGAGAUAGCUGGUUCUCUCCGAAAUAGCUUUAGGGCUAGCCUCGGAAUUGAGAAUGAUGGAGGUAGAGCACUGUUUGGACUAGGGGCCCAUCGGGUUACCGAAUUCAGAUAAACUCCGAAUGCCAUUCAUUUAUAUCCGGGAGUCAGACUGCGAGUGAUAAGAUCCGUAGUCGAAAGGGAAACAGCCCAGACCACCAGCUAAGGUCCCAAAAUAUAUGUUAAGUGGAAAAGGAUGUGGGGUUGCACAGACAACUAGGAUGUUGGCUUAGAAGCAGCCACCAUUUAAAGAGUGCGUAAUAGCUCACUAGUCGAGUGACCCUGCGCCGAAAAUGUACCGGGGCUAAACAUAUUACCGAAGCUGUGGACUACACCAUUAGGUGUAGUGGUAGGAGAGCGUUCUAAGGGCGUUGAAGGUCGAUCGUGAGGACGGCUGGAGCGCUUAGAAGUGAGAAUGCCGGUAUGAGUAGCGAAAGACAGGUGAGAAUCCUGUCCACCGUAUGACUAAGGUUUCCUGGGGAAGGCUCGUCCGCCCAGGGUUAGUCGGGACCUAAGCCGAGGCCGAUAGGCGUAGGCGAUGGACAACAGGUUGAUAUUCCUGUACCAGUUGUUUUUGUUUGAGCAAUGGAGGGACGCAGUAGGCUAAGGAAUGCAUGCGAUUGGAAGUGCAUGUCCAAGCAAUGAGUCUUGAGUAGAGUUAAAUGCUUUACUCUUUAAGGACAAGUUGUGACGGGGAGCGAAAUAGUAGCGAAGUUCCUGACGUCACACUGCCAAGAAAAGCUUCUAGUGAGAAAACAACUGCCCGUACCGUAAACCGACACAGGUAGUCGAGGAGAGUAUCCUAAGGUGAGCGAGCGAACUCUCGUUAAGGAACUCGGCAAAAUGACCCCGUAACUUCGGGAGAAGGGGUGCUGACUUCGGUCAGCCGCAGUGAAUAGGCCCAAGCGACUGUUUAUCAAAAACACAGGUCUCUGCAAAAUCGUAAGAUGAAGUAUAGGGGCUGACGCCUGCCCGGUGCUGGAAGGUUAAGAGGAUGGGUUAGCUUCGGCGAAGCUCAGAAUUGAAGCCCCAGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGUAACGAUUUGGGCACUGUCUCAACGAGAGACUCGGUGAAAUUUUAGUACCUGUGAAGAUGCAGGUUACCCGCGACAGGACGGAAAGACCCCAUGGAGCUUUACUGUAGUUUGAUAUUGAGUGUUUGUACCACAUGUACAGGAUAGGUAGGAGCCGAUGAGACCGGAACGCUAGUUUCGGAGGAGGCGCUGGUGGGAUACUACCCUUGUGUUAUGAACCCUCUAACCCGCACCACUAAUCGUGGUGGGAGACAGUGUCAGAUGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCCCAAAGGUUCCCUCAGAAUGGUUGGAAAUCAUUCGAAGAGUGUAAAGGCAGAAGGGAGCUUGACUGCGAGACCUACAAGUCGAGCAGGGACGAAAGUCGGGCUUAGUGAUCCGGUGGUUCCGCAUGGAAGGGCCAUCGCUCAACGGAUAAAAGCUACCCUGGGGAUAACAGGCUUAUCUCCCCCAAGAGUCCACAUCGACGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGUAGUCGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCCUAUCCGUCGCGGGCGUUGGAAAUUUGAGAGGAGCUGUCCUUAGUACGAGAGGACCGGGAUGGACUUACCGCUGGUGUACCAGUUGUUCUGCCAAGGGCAUUGCUGGGUAGCUAUGUAGGGAAGGGAUAAACGCUGAAAGCAUCUAAGUGUGAAGCCCACCUCAAGAUGAGAUUUCCCAUUUCUUUAAGAAAGUAAGACCCCUGAGAGAUGAUCAGGUAGAUAGGUUGGAAGUGGAAGGCUAGUGAUAGUUGGAGCGGACCAAUACUAAUCGGUCGAGGACUUAAC",
+            "entity_poly_seq_one_letter_code_can": "UUAAGUGAAUAAGGGCGCACGGUGGAUGCCUUGGCACUAGGAGCCGAUGAAGGACGGGACUAACACCGAUAUGCUUUGGGGAGCUGUAAGUAAGCUAUGAUCCAGAGAUUUCCGAAUGGGGGAACCCAAUAUCUUUUAUAGGAUAUUACUUUUCAGUGAAUACAUAGCUGAUUAGAGGUAGACGCAGAGAACUGAAACAUCUUAGUACCUGCAGGAAGAGAAAGAAAAUUCGAUUCCCUGAGUAGCGGCGAGCGAAACGGGAAGAGCCCAAACCAACAAGCUUGCUUGUUGGGGUUGUAGGACUCCGAUAUGGUAGUCUGUUAGUAUAGUUGAAGGAUUUGGAAAAUUCCGCUAAAGAGGGUGAAAGCCCCGUAGACGAAAUGCUGACAACACCUAGGAGGAUCCUGAGUACGGCGGAACACGAGAAAUUCCGUCGGAAUCCGCGGGGACCAUCCCGCAAGGCUAAAUACUCCCUAGUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGUGAAAAGCACCCCGGAAGGGGAGUGAAAUAGAUCCUGAAACCGUGUGCCUACAACAAGUCAAAGCUCGUUAAUGAGUGAUGGCGUGCCUUUUGUAGAAUGAACCGGCGAGUUACGAUUGCAUGCGAGGUUAAGUCGAAGAGACGGAGCCGCAGCGAAAGCGAGUCUGAAUAGGGCGAAUGAGUAUGUAGUCGUAGACCCGAAACCAUGUGAUCUACCCAUGUCCAGGUUGAAGGUGCGGUAAAACGCACUGGAGGACCGAACCCACGUACGUUGAAAAGUGCGGGGAUGAGGUGUGGGUAGCGGAGAAAUUCCAAACGAACUUGGAGAUAGCUGGUUCUCUCCGAAAUAGCUUUAGGGCUAGCCUCGGAAUUGAGAAUGAUGGAGGUAGAGCACUGUUUGGACUAGGGGCCCAUCGGGUUACCGAAUUCAGAUAAACUCCGAAUGCCAUUCAUUUAUAUCCGGGAGUCAGACUGCGAGUGAUAAGAUCCGUAGUCGAAAGGGAAACAGCCCAGACCACCAGCUAAGGUCCCAAAAUAUAUGUUAAGUGGAAAAGGAUGUGGGGUUGCACAGACAACUAGGAUGUUGGCUUAGAAGCAGCCACCAUUUAAAGAGUGCGUAAUAGCUCACUAGUCGAGUGACCCUGCGCCGAAAAUGUACCGGGGCUAAACAUAUUACCGAAGCUGUGGACUACACCAUUAGGUGUAGUGGUAGGAGAGCGUUCUAAGGGCGUUGAAGGUCGAUCGUGAGGACGGCUGGAGCGCUUAGAAGUGAGAAUGCCGGUAUGAGUAGCGAAAGACAGGUGAGAAUCCUGUCCACCGUAUGACUAAGGUUUCCUGGGGAAGGCUCGUCCGCCCAGGGUUAGUCGGGACCUAAGCCGAGGCCGAUAGGCGUAGGCGAUGGACAACAGGUUGAUAUUCCUGUACCAGUUGUUUUUGUUUGAGCAAUGGAGGGACGCAGUAGGCUAAGGAAUGCAUGCGAUUGGAAGUGCAUGUCCAAGCAAUGAGUCUUGAGUAGAGUUAAAUGCUUUACUCUUUAAGGACAAGUUGUGACGGGGAGCGAAAUAGUAGCGAAGUUCCUGACGUCACACUGCCAAGAAAAGCUUCUAGUGAGAAAACAACUGCCCGUACCGUAAACCGACACAGGUAGUCGAGGAGAGUAUCCUAAGGUGAGCGAGCGAACUCUCGUUAAGGAACUCGGCAAAAUGACCCCGUAACUUCGGGAGAAGGGGUGCUGACUUCGGUCAGCCGCAGUGAAUAGGCCCAAGCGACUGUUUAUCAAAAACACAGGUCUCUGCAAAAUCGUAAGAUGAAGUAUAGGGGCUGACGCCUGCCCGGUGCUGGAAGGUUAAGAGGAUGGGUUAGCUUCGGCGAAGCUCAGAAUUGAAGCCCCAGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGUAACGAUUUGGGCACUGUCUCAACGAGAGACUCGGUGAAAUUUUAGUACCUGUGAAGAUGCAGGUUACCCGCGACAGGACGGAAAGACCCCAUGGAGCUUUACUGUAGUUUGAUAUUGAGUGUUUGUACCACAUGUACAGGAUAGGUAGGAGCCGAUGAGACCGGAACGCUAGUUUCGGAGGAGGCGCUGGUGGGAUACUACCCUUGUGUUAUGAACCCUCUAACCCGCACCACUAAUCGUGGUGGGAGACAGUGUCAGAUGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCCCAAAGGUUCCCUCAGAAUGGUUGGAAAUCAUUCGAAGAGUGUAAAGGCAGAAGGGAGCUUGACUGCGAGACCUACAAGUCGAGCAGGGACGAAAGUCGGGCUUAGUGAUCCGGUGGUUCCGCAUGGAAGGGCCAUCGCUCAACGGAUAAAAGCUACCCUGGGGAUAACAGGCUUAUCUCCCCCAAGAGUCCACAUCGACGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGUAGUCGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCCUAUCCGUCGCGGGCGUUGGAAAUUUGAGAGGAGCUGUCCUUAGUACGAGAGGACCGGGAUGGACUUACCGCUGGUGUACCAGUUGUUCUGCCAAGGGCAUUGCUGGGUAGCUAUGUAGGGAAGGGAUAAACGCUGAAAGCAUCUAAGUGUGAAGCCCACCUCAAGAUGAGAUUUCCCAUUUCUUUAAGAAAGUAAGACCCCUGAGAGAUGAUCAGGUAGAUAGGUUGGAAGUGGAAGGCUAGUGAUAGUUGGAGCGGACCAAUACUAAUCGGUCGAGGACUUAAC",
+            "entity_poly_seq_length": 2903,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

@@ -1,0 +1,1811 @@
+{
+    "rcsb_id": "6ERI",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3,
+    "rcsb_external_ref_id": [
+        "EMD-3941"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-3941"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3,
+    "cryoem_exp_num_particles": 130300,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2018,
+    "citation_rcsb_authors": [
+        "Boerema, A.P.",
+        "Aibara, S.",
+        "Paul, B.",
+        "Tobiasson, V.",
+        "Kimanius, D.",
+        "Forsberg, B.O.",
+        "Wallden, K.",
+        "Lindahl, E.",
+        "Amunts, A."
+    ],
+    "citation_title": "Structure of the chloroplast ribosome with chl-RRF and hibernation-promoting factor.",
+    "citation_pdbx_doi": "10.1038/s41477-018-0129-6",
+    "pdbx_keywords_text": "Chloroplast, translation, ribosome",
+    "_organismId": [
+        3562
+    ],
+    "_organismName": [
+        "Spinacia oleracea"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P06509"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2, chloroplastic",
+            "entity_poly_strand_id": "AC",
+            "entity_poly_seq_one_letter_code": "NNLISGQRRCGKGRNARGIITARHRGGGHKRLYRKIDFRRNEKDIYGKIVTIEYDPNRNAYICLIHYGDGEKRYILHPRGAIIGDTIVSGTEVPIKMGNALPLTDMPLGTAIHNIEITLGRGGQLARAAGAVAKLIAKEGKSATLKLPSGEVRLISKNCSATVGQVGNVGVNQKRLGRAGSKRWLGKRPVVRGVVMNPVDHPHGGGEGRAPIGRKSPTTPWGYPALGRRSRKRNKYSDNFIIRRRS",
+            "entity_poly_seq_one_letter_code_can": "NNLISGQRRCGKGRNARGIITARHRGGGHKRLYRKIDFRRNEKDIYGKIVTIEYDPNRNAYICLIHYGDGEKRYILHPRGAIIGDTIVSGTEVPIKMGNALPLTDMPLGTAIHNIEITLGRGGQLARAAGAVAKLIAKEGKSATLKLPSGEVRLISKNCSATVGQVGNVGVNQKRLGRAGSKRWLGKRPVVRGVVMNPVDHPHGGGEGRAPIGRKSPTTPWGYPALGRRSRKRNKYSDNFIIRRRS",
+            "entity_poly_seq_length": 246,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82191"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3, chloroplastic",
+            "entity_poly_strand_id": "AD",
+            "entity_poly_seq_one_letter_code": "SVDAGIGVMGTKLGMMSFFEEDGTVVPVTVIGFKEGNIVTQVKTESTDGYNAVQVGYERLRDRKLTMPERGHLNKAGVIPMRHLQEFRLVSVDDFTPSQKLLFEELFKEGDMVDISGTTIGKGFQGGIKRHNFKRGLMTHGSKSHRALGSIGAGTTPGHVYKGKKMPGRMGGTKTKIRKLKIMKIDTDLRVVMIKGAVPGKPGNLLRLAPAKIVGKNIPKN",
+            "entity_poly_seq_one_letter_code_can": "SVDAGIGVMGTKLGMMSFFEEDGTVVPVTVIGFKEGNIVTQVKTESTDGYNAVQVGYERLRDRKLTMPERGHLNKAGVIPMRHLQEFRLVSVDDFTPSQKLLFEELFKEGDMVDISGTTIGKGFQGGIKRHNFKRGLMTHGSKSHRALGSIGAGTTPGHVYKGKKMPGRMGGTKTKIRKLKIMKIDTDLRVVMIKGAVPGKPGNLLRLAPAKIVGKNIPKN",
+            "entity_poly_seq_length": 221,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "O49937"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4, chloroplastic",
+            "entity_poly_strand_id": "AE",
+            "entity_poly_seq_one_letter_code": "ELIPLPILNFSGEKVGETFLNLKTAPSETARAVVHRGLITHLQNKRRGTASTLTRAEVRGGGRKPYPQKKTGRARRGSQRSPLRPGGGVIFGPKPRDWTIKMNKKERRLALSTAIASAVGNSFVVEEFAENFEKPKTKDFIAAMQRWGLDPAEKSLFFLMDLVENVEKSGRNIRTLKLLTPRSLNLFDVLNAEKLVFTEGTIQYLNQRYGVD",
+            "entity_poly_seq_one_letter_code_can": "ELIPLPILNFSGEKVGETFLNLKTAPSETARAVVHRGLITHLQNKRRGTASTLTRAEVRGGGRKPYPQKKTGRARRGSQRSPLRPGGGVIFGPKPRDWTIKMNKKERRLALSTAIASAVGNSFVVEEFAENFEKPKTKDFIAAMQRWGLDPAEKSLFFLMDLVENVEKSGRNIRTLKLLTPRSLNLFDVLNAEKLVFTEGTIQYLNQRYGVD",
+            "entity_poly_seq_length": 212,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82192"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5, chloroplastic",
+            "entity_poly_strand_id": "AF",
+            "entity_poly_seq_one_letter_code": "ETINRLKTNYIEKMVPLLKEEFSYSNILEVPKVVKIVVNCGIGDASQNAKGLDAAINELALITGQRPVKTKAKTSIAGFKVREGMTLGIAVTLRGNLMYSFLDRLINLALPRTRDFQGVNPNSFDGHGNYSVGFREQSVFPEIKPEIVGKARGMDVCITTTAKTDKEAYKLLSLMGMPFREGSGPSTLVRKKKLKSHHFDAKKGRRY",
+            "entity_poly_seq_one_letter_code_can": "ETINRLKTNYIEKMVPLLKEEFSYSNILEVPKVVKIVVNCGIGDASQNAKGLDAAINELALITGQRPVKTKAKTSIAGFKVREGMTLGIAVTLRGNLMYSFLDRLINLALPRTRDFQGVNPNSFDGHGNYSVGFREQSVFPEIKPEIVGKARGMDVCITTTAKTDKEAYKLLSLMGMPFREGSGPSTLVRKKKLKSHHFDAKKGRRY",
+            "entity_poly_seq_length": 207,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82193"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6, chloroplastic",
+            "entity_poly_strand_id": "AG",
+            "entity_poly_seq_one_letter_code": "GKQPITVPANVAIAMEGQDLKVKGPLGELSITYPREVLVEKQESGFLRVRKAVETRRANQMHGLFRTLTDNMVVGVSKGFEKKLQLVGVGYRATVEGKDLILSLGFSHPVRMAIPDELQVKVEENTKVTVSGRDKSVVGQFAATIRSWRPPEPYKGKGVRYVDEVVRRKEGK",
+            "entity_poly_seq_one_letter_code_can": "GKQPITVPANVAIAMEGQDLKVKGPLGELSITYPREVLVEKQESGFLRVRKAVETRRANQMHGLFRTLTDNMVVGVSKGFEKKLQLVGVGYRATVEGKDLILSLGFSHPVRMAIPDELQVKVEENTKVTVSGRDKSVVGQFAATIRSWRPPEPYKGKGVRYVDEVVRRKEGK",
+            "entity_poly_seq_length": 172,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L9, N-terminal domain",
+                "Ribosomal protein L9, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF01281",
+                "PF03948"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82180"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L9, chloroplastic",
+            "entity_poly_strand_id": "AH",
+            "entity_poly_seq_one_letter_code": "KKVKKIRKIILKEDIPDLGKKGQLLDVRAGFLRNFLLPLGKAEVVT",
+            "entity_poly_seq_one_letter_code_can": "KKVKKIRKIILKEDIPDLGKKGQLLDVRAGFLRNFLLPLGKAEVVT",
+            "entity_poly_seq_length": 46,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P12629"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13, chloroplastic",
+            "entity_poly_strand_id": "AJ",
+            "entity_poly_seq_one_letter_code": "KSTSASTKCTEEWRQLKEAVKKEFAIPHVPLDQRWMFTLEEATGPDIWNTTWYPKSADHVPTDKKWYVVDATDLILGRMASTIAIHIRGKNLASYTPSVDMGAFVIVVNADKVAVSGKKRTQKLYRRHSGRPGGLKEETFDQLQKRIPERIIEHAVRGMLPKGRLGRYLFNHLKVYKGAEHPHQAQQPIDLPLRDKRIRV",
+            "entity_poly_seq_one_letter_code_can": "KSTSASTKCTEEWRQLKEAVKKEFAIPHVPLDQRWMFTLEEATGPDIWNTTWYPKSADHVPTDKKWYVVDATDLILGRMASTIAIHIRGKNLASYTPSVDMGAFVIVVNADKVAVSGKKRTQKLYRRHSGRPGGLKEETFDQLQKRIPERIIEHAVRGMLPKGRLGRYLFNHLKVYKGAEHPHQAQQPIDLPLRDKRIRV",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P09596"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14, chloroplastic",
+            "entity_poly_strand_id": "AK",
+            "entity_poly_seq_one_letter_code": "MIQPQTHLNVADNSGARELMCIRIIGASNRRYARIGDVIVAVIKEAIPNTPLERSEVIRAVVVRTCKELKRDNGMIIRYDDNAAVIIDQEGNPKGTRIFGAIARELRQKFAKIVSLAPEVL",
+            "entity_poly_seq_one_letter_code_can": "MIQPQTHLNVADNSGARELMCIRIIGASNRRYARIGDVIVAVIKEAIPNTPLERSEVIRAVVVRTCKELKRDNGMIIRYDDNAAVIIDQEGNPKGTRIFGAIARELRQKFAKIVSLAPEVL",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P22798"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15, chloroplastic",
+            "entity_poly_strand_id": "AL",
+            "entity_poly_seq_one_letter_code": "TRFRLDNLGPQPGSRKKGKRKGRGHAAGQGGSCGFGMRGQKSRSGPGIMRGFEGGQMPLYRRIPKLRGIAGGMRAGLPKYVPINLRDIEVAGFKEGEEVSLESLKAKGIINPSGRERRLPLKILGEGELSTKLQIKARAFSGSAKEKLEAAGCSVTVLPGRKKYIKESVRKNLARADEYFAKKR",
+            "entity_poly_seq_one_letter_code_can": "TRFRLDNLGPQPGSRKKGKRKGRGHAAGQGGSCGFGMRGQKSRSGPGIMRGFEGGQMPLYRRIPKLRGIAGGMRAGLPKYVPINLRDIEVAGFKEGEEVSLESLKAKGIINPSGRERRLPLKILGEGELSTKLQIKARAFSGSAKEKLEAAGCSVTVLPGRKKYIKESVRKNLARADEYFAKKR",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P17353"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16, chloroplastic",
+            "entity_poly_strand_id": "AM",
+            "entity_poly_seq_one_letter_code": "MLSPKRTRFRKQHRGRMKGISYRGNRICFGRYALQALEPAWITSRQIEAGRRAMTRNARRGGKIWVRIFPDKPVTVRPAETRMGSGKGSPEYWVAVVKPGRILYEISGVAENIARRAVAIAASKMPIRTQFIIS",
+            "entity_poly_seq_one_letter_code_can": "MLSPKRTRFRKQHRGRMKGISYRGNRICFGRYALQALEPAWITSRQIEAGRRAMTRNARRGGKIWVRIFPDKPVTVRPAETRMGSGKGSPEYWVAVVKPGRILYEISGVAENIARRAVAIAASKMPIRTQFIIS",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82194"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17, chloroplastic",
+            "entity_poly_strand_id": "AN",
+            "entity_poly_seq_one_letter_code": "MKHGRKIHRLSRPADQRRALLRGLTTQLLKHGRIKTTRAKASAMRKYVDKMITLAKEGSLHKRRQALGFIYEKQIVHALFAEVPERYGDRNGGYTRIIRTLPRRGDNAPMAYIELV",
+            "entity_poly_seq_one_letter_code_can": "MKHGRKIHRLSRPADQRRALLRGLTTQLLKHGRIKTTRAKASAMRKYVDKMITLAKEGSLHKRRQALGFIYEKQIVHALFAEVPERYGDRNGGYTRIIRTLPRRGDNAPMAYIELV",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82195"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18, chloroplastic",
+            "entity_poly_strand_id": "AO",
+            "entity_poly_seq_one_letter_code": "AHTRREDRTARHVRIRKKVEGTPERPRLCVFRSNKHLYVQVIDDTKMHTLAAASTMQKAISENIDYSAGPTVEVAQKIGEMIAKSCLEKGITKVAFDRGGYPYHGRVKALADAAREHGLVF",
+            "entity_poly_seq_one_letter_code_can": "AHTRREDRTARHVRIRKKVEGTPERPRLCVFRSNKHLYVQVIDDTKMHTLAAASTMQKAISENIDYSAGPTVEVAQKIGEMIAKSCLEKGITKVAFDRGGYPYHGRVKALADAAREHGLVF",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82413"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19, chloroplastic",
+            "entity_poly_strand_id": "AP",
+            "entity_poly_seq_one_letter_code": "QRVKLGDIMGILNKKAVHAAEELRPVPGIRTGDIVQIRLEVPENKRRLSVYKGIVISRQNAGIHTTIRIRRIIAGVGVEIVFPLYSPNIKEIKVVSHRKVRKARLYYLRDKLPRLSTF",
+            "entity_poly_seq_one_letter_code_can": "QRVKLGDIMGILNKKAVHAAEELRPVPGIRTGDIVQIRLEVPENKRRLSVYKGIVISRQNAGIHTTIRIRRIIAGVGVEIVFPLYSPNIKEIKVVSHRKVRKARLYYLRDKLPRLSTF",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P28803"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20, chloroplastic",
+            "entity_poly_strand_id": "AQ",
+            "entity_poly_seq_one_letter_code": "TRVKRGYIARRRRKKIRFFASSFRGAHSRLTRTIAQQKIRALVSAHRDRDRQKRDFRRLWITRINAAIRERGVYYNYSKFIHDLYKRQLLLNRKILAQIAILNPNCIYMIYNEII",
+            "entity_poly_seq_one_letter_code_can": "TRVKRGYIARRRRKKIRFFASSFRGAHSRLTRTIAQQKIRALVSAHRDRDRQKRDFRRLWITRINAAIRERGVYYNYSKFIHDLYKRQLLLNRKILAQIAILNPNCIYMIYNEII",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P24613"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21, chloroplastic",
+            "entity_poly_strand_id": "AR",
+            "entity_poly_seq_one_letter_code": "FEEFQRPPNQKPQLSDVLPDDFQAPEPGTPEYNDIINQFLPKKGPPPPREEIFAVVVIGSRQYIVIPGRWIYTQRLKGATVNDKIVLNKVLLVGTKASTYIGTPIVTNAAVHAVVEEQLLDDKVIVFKYKKKKNYRRNIGHRQPITRIKITGITGYEDYPASTLE",
+            "entity_poly_seq_one_letter_code_can": "FEEFQRPPNQKPQLSDVLPDDFQAPEPGTPEYNDIINQFLPKKGPPPPREEIFAVVVIGSRQYIVIPGRWIYTQRLKGATVNDKIVLNKVLLVGTKASTYIGTPIVTNAAVHAVVEEQLLDDKVIVFKYKKKKNYRRNIGHRQPITRIKITGITGYEDYPASTLE",
+            "entity_poly_seq_length": 165,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P09594"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22, chloroplastic",
+            "entity_poly_strand_id": "AS",
+            "entity_poly_seq_one_letter_code": "EPGKCDEITTRGYSISMSVDKARRVIDQIRGRSYAETLMILELMPYRACYPIFKLIYSAAANASHNKQFNKANLIISKAEVNKGITLKKVKPRARGRSYMIKRPTCHITIVLRDITHFDSYDKFLESLTPKKLIALLGLMSTGRRRELLCGRFRENHKIKSFLYKIALFKR",
+            "entity_poly_seq_one_letter_code_can": "EPGKCDEITTRGYSISMSVDKARRVIDQIRGRSYAETLMILELMPYRACYPIFKLIYSAAANASHNKQFNKANLIISKAEVNKGITLKKVKPRARGRSYMIKRPTCHITIVLRDITHFDSYDKFLESLTPKKLIALLGLMSTGRRRELLCGRFRENHKIKSFLYKIALFKR",
+            "entity_poly_seq_length": 171,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "Q9LWB5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23, chloroplastic",
+            "entity_poly_strand_id": "AT",
+            "entity_poly_seq_one_letter_code": "KYPRRILDVYQILQSPIITEAAIKNIADENSLLFTVDVRADKKMIREAISNFFGVKVRKVNTLIRPDGTKKAYIMLNKEYNASELAKKIGIF",
+            "entity_poly_seq_one_letter_code_can": "KYPRRILDVYQILQSPIITEAAIKNIADENSLLFTVDVRADKKMIREAISNFFGVKVRKVNTLIRPDGTKKAYIMLNKEYNASELAKKIGIF",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P27683"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24, chloroplastic",
+            "entity_poly_strand_id": "AU",
+            "entity_poly_seq_one_letter_code": "IKRWERKDCKPNSLPKLHKMHVKVGDTVKVISGGEKGKIGEISKIHKHNSTVIIKDLNLKTKHVKSKEEGEQGQIIKIEAAIHSSNVMLYSKEQEVASRVGHKILEDGRKVRYLIKTGEIVDTPDRW",
+            "entity_poly_seq_one_letter_code_can": "IKRWERKDCKPNSLPKLHKMHVKVGDTVKVISGGEKGKIGEISKIHKHNSTVIIKDLNLKTKHVKSKEEGEQGQIIKIEAAIHSSNVMLYSKEQEVASRVGHKILEDGRKVRYLIKTGEIVDTPDRW",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82190"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27, chloroplastic",
+            "entity_poly_strand_id": "AW",
+            "entity_poly_seq_one_letter_code": "KKGAGSTKNGRDSKGQRLGVKIYGDQVAKPGAIIIRQRGTKFHPGKNVGIGKDHTIFALIDGLVKFEKYGPDKKKVSVYPREIQPENPNSYRARKRENFRLQREKKKARREGYS",
+            "entity_poly_seq_one_letter_code_can": "KKGAGSTKNGRDSKGQRLGVKIYGDQVAKPGAIIIRQRGTKFHPGKNVGIGKDHTIFALIDGLVKFEKYGPDKKKVSVYPREIQPENPNSYRARKRENFRLQREKKKARREGYS",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82245"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28, chloroplastic",
+            "entity_poly_strand_id": "AX",
+            "entity_poly_seq_one_letter_code": "RRICPFTGKKSNKANRVSHSNHKTKRLQFVNLQYKRVWWEAGKRFVKLRLSTKALKTIEKNGLDAVAKKAGIDLRK",
+            "entity_poly_seq_one_letter_code_can": "RRICPFTGKKSNKANRVSHSNHKTKRLQFVNLQYKRVWWEAGKRFVKLRLSTKALKTIEKNGLDAVAKKAGIDLRK",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82248"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29, chloroplastic",
+            "entity_poly_strand_id": "AY",
+            "entity_poly_seq_one_letter_code": "VKKEDELKELRTKTNEQLNEEILQLKGELFMLRLQRSARENFKPSDFGRMRKRVARMLTVKREREIEQGVGKRLSRKLDKAWKRSIVVRPPPSLKKLQE",
+            "entity_poly_seq_one_letter_code_can": "VKKEDELKELRTKTNEQLNEEILQLKGELFMLRLQRSARENFKPSDFGRMRKRVARMLTVKREREIEQGVGKRLSRKLDKAWKRSIVVRPPPSLKKLQE",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31"
+            ],
+            "pfam_accessions": [
+                "PF01197"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82249"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31, chloroplastic",
+            "entity_poly_strand_id": "AZ",
+            "entity_poly_seq_one_letter_code": "RKSDIHPEFREDAKVYCNGELVMTTGGTQKDYTVEVWSGNHPFYLGNRSALLLDADQVEKFRKKYG",
+            "entity_poly_seq_one_letter_code_can": "RKSDIHPEFREDAKVYCNGELVMTTGGTQKDYTVEVWSGNHPFYLGNRSALLLDADQVEKFRKKYG",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P28804"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32, chloroplastic",
+            "entity_poly_strand_id": "Aa",
+            "entity_poly_seq_one_letter_code": "AVPKKRTSIYKKRIRKNIWKKKGYWAALKAFSLAKSLSTGNSKSFFVR",
+            "entity_poly_seq_one_letter_code_can": "AVPKKRTSIYKKRIRKNIWKKKGYWAALKAFSLAKSLSTGNSKSFFVR",
+            "entity_poly_seq_length": 48,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P28805"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33, chloroplastic",
+            "entity_poly_strand_id": "Ab",
+            "entity_poly_seq_one_letter_code": "DVRVKVILECTGCVRKSVNKGSRGVSRYITQKNRHNTPSRLELRKFCPYCYKHTIHGEIK",
+            "entity_poly_seq_one_letter_code_can": "DVRVKVILECTGCVRKSVNKGSRGVSRYITQKNRHNTPSRLELRKFCPYCYKHTIHGEIK",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82244"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34, chloroplastic",
+            "entity_poly_strand_id": "Ac",
+            "entity_poly_seq_one_letter_code": "GKAALCLTKRSRSRKSLARTHGFRLRMSTTSGRALLKRRRAKGRKILCTKTNPSSGKRASP",
+            "entity_poly_seq_one_letter_code_can": "GKAALCLTKRSRSRKSLARTHGFRLRMSTTSGRALLKRRRAKGRKILCTKTNPSSGKRASP",
+            "entity_poly_seq_length": 61,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P23326"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35, chloroplastic",
+            "entity_poly_strand_id": "Ad",
+            "entity_poly_seq_one_letter_code": "KGYKMKTHKASAKRFRVTGKGKIVRRRAGKQHLLAKKNTKRKNRLSKLIQVDRSDYDNVIGALPYLKVNRKV",
+            "entity_poly_seq_one_letter_code_can": "KGYKMKTHKASAKRFRVTGKGKIVRRRAGKQHLLAKKNTKRKNRLSKLIQVDRSDYDNVIGALPYLKVNRKV",
+            "entity_poly_seq_length": 72,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P12230"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36, chloroplastic",
+            "entity_poly_strand_id": "Ae",
+            "entity_poly_seq_one_letter_code": "MKIRASVRPICEKCRLIRRRGRIIVICSNPKHKQRQG",
+            "entity_poly_seq_one_letter_code_can": "MKIRASVRPICEKCRLIRRRGRIIVICSNPKHKQRQG",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family of proteins found in Eukaryota, has no known function."
+            ],
+            "pfam_descriptions": [
+                "Family of unknown function (DUF5323)"
+            ],
+            "pfam_accessions": [
+                "PF17257"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82411"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein 6, chloroplastic",
+            "entity_poly_strand_id": "Af",
+            "entity_poly_seq_one_letter_code": "SSRPQKKGTAHHMKTRPKKTARWDIKRGPAVYPPLPPLPAEWTIVSS",
+            "entity_poly_seq_one_letter_code_can": "SSRPQKKGTAHHMKTRPKKTARWDIKRGPAVYPPLPPLPAEWTIVSS",
+            "entity_poly_seq_length": 47,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P27684"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein 5 alpha, chloroplastic",
+            "entity_poly_strand_id": "Aw",
+            "entity_poly_seq_one_letter_code": "SKLQLKLEQKIKMKMAKKIRLRRNRLMRKRKLRKRGAWPPSKMKKLKNV",
+            "entity_poly_seq_one_letter_code_can": "SKLQLKLEQKIKMKMAKKIRLRRNRLMRKRKLRKRGAWPPSKMKKLKNV",
+            "entity_poly_seq_length": 49,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "The ribosome recycling factor (RRF / ribosome release factor) dissociates the ribosome from the mRNA after termination of translation, and is  essential bacterial growth [1]. Thus ribosomes are \"recycled\" and ready for another round of protein synthesis."
+            ],
+            "pfam_descriptions": [
+                "Ribosome recycling factor"
+            ],
+            "pfam_accessions": [
+                "PF01765"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82231"
+            ],
+            "rcsb_pdbx_description": "Ribosome-recycling factor, chloroplastic",
+            "entity_poly_strand_id": "Az",
+            "entity_poly_seq_one_letter_code": "ATMEEVEAEKSLIETNTKQRMEKTIETIRSNFNSVRTNRASPTMLDRIEVEYYGTPVSLKSIAQISTPDASSLLISPYDKSSLKAIEKAIVTSQLGVSPNNDGEVIRLSLPPLTSDRRKELAKVVSKLAEEGKVAVRNIRRDALKSYEKLEKEKKLSEDNVKDLSADLQKLTDEYMKKVESIYKQKEQELM",
+            "entity_poly_seq_one_letter_code_can": "ATMEEVEAEKSLIETNTKQRMEKTIETIRSNFNSVRTNRASPTMLDRIEVEYYGTPVSLKSIAQISTPDASSLLISPYDKSSLKAIEKAIVTSQLGVSPNNDGEVIRLSLPPLTSDRRKELAKVVSKLAEEGKVAVRNIRRDALKSYEKLEKEKKLSEDNVKDLSADLQKLTDEYMKKVESIYKQKEQELM",
+            "entity_poly_seq_length": 191,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P08242"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S2, chloroplastic",
+            "entity_poly_strand_id": "BB",
+            "entity_poly_seq_one_letter_code": "HGTRKWNPRMSPYISAKCKGIHIINLTRTARFLSEACDLVFDASSRGKQFLIVGTKNKAADSVARAAIRARCHYVNKKWLGGMLTNWSTTETRLHKFRDLRMEQTAGRLARLPKRDAAVVKRQLSHLQTYLGGIKYMTGLPDIVIIVDQQEEYTALRECITLGIPTICLIDTNCNPDLADISIPANDDAIASIRLILTKLVFAICEGRSSYIRNP",
+            "entity_poly_seq_one_letter_code_can": "HGTRKWNPRMSPYISAKCKGIHIINLTRTARFLSEACDLVFDASSRGKQFLIVGTKNKAADSVARAAIRARCHYVNKKWLGGMLTNWSTTETRLHKFRDLRMEQTAGRLARLPKRDAAVVKRQLSHLQTYLGGIKYMTGLPDIVIIVDQQEEYTALRECITLGIPTICLIDTNCNPDLADISIPANDDAIASIRLILTKLVFAICEGRSSYIRNP",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P09595"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3, chloroplastic",
+            "entity_poly_strand_id": "BC",
+            "entity_poly_seq_one_letter_code": "GQKINPLGFRLGTTQSHYSLWFSQPKNYAEGLQEDQKIRDCIKNYVQKNTKTSSGVEGIARIEIQKRIDLIQVIIHMGFPKLLIENRPQGVEDLKINVQKELNCVNRKLNIAITRIAKPYGDPNILAEFIAGQLKSRVSFRKAMKKAIELTEQADTKGIQIQIAGRIDGKEIARIEWIREGRVPLQTIRAKIDYCAYTVRTIYGVLGIKIWIFMGEE",
+            "entity_poly_seq_one_letter_code_can": "GQKINPLGFRLGTTQSHYSLWFSQPKNYAEGLQEDQKIRDCIKNYVQKNTKTSSGVEGIARIEIQKRIDLIQVIIHMGFPKLLIENRPQGVEDLKINVQKELNCVNRKLNIAITRIAKPYGDPNILAEFIAGQLKSRVSFRKAMKKAIELTEQADTKGIQIQIAGRIDGKEIARIEWIREGRVPLQTIRAKIDYCAYTVRTIYGVLGIKIWIFMGEE",
+            "entity_poly_seq_length": 217,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P13788"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4, chloroplastic",
+            "entity_poly_strand_id": "BD",
+            "entity_poly_seq_one_letter_code": "SRYRGPRFKKIRRLGALPGLTNKRPRAGSDLRNQSRSGKRSQYRIRLEEKQKLRFHYGITERQLLKYVRIARKAKGSTGQVLLQLLEMRLDNILFRLGMAPTIPGARQLVNHRHILVNGRIVDIPSYRCKPQDTIMARDEQKSIALIQNSLDLSPREELPKHLTLNPFPYKGLVNQIIDSKWVGLKINELLVVEYYSRQT",
+            "entity_poly_seq_one_letter_code_can": "SRYRGPRFKKIRRLGALPGLTNKRPRAGSDLRNQSRSGKRSQYRIRLEEKQKLRFHYGITERQLLKYVRIARKAKGSTGQVLLQLLEMRLDNILFRLGMAPTIPGARQLVNHRHILVNGRIVDIPSYRCKPQDTIMARDEQKSIALIQNSLDLSPREELPKHLTLNPFPYKGLVNQIIDSKWVGLKINELLVVEYYSRQT",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "Q9ST69"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5, chloroplastic",
+            "entity_poly_strand_id": "BE",
+            "entity_poly_seq_one_letter_code": "GFEENVVQVRRVTKVVKGGKHMRFRAIVVVGDKKGQVGVGVGKAKEVVSAVQKAAVDARRNIITVPMTKYLTFPHRNEADYGAARVMLRPAAPGTGVIAGGAVRTVLEMAGVENALGKQLGSNNALNNARATIVAVQTMRQFSDVARDRGIPMEELWK",
+            "entity_poly_seq_one_letter_code_can": "GFEENVVQVRRVTKVVKGGKHMRFRAIVVVGDKKGQVGVGVGKAKEVVSAVQKAAVDARRNIITVPMTKYLTFPHRNEADYGAARVMLRPAAPGTGVIAGGAVRTVLEMAGVENALGKQLGSNNALNNARATIVAVQTMRQFSDVARDRGIPMEELWK",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82403"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6 alpha, chloroplastic",
+            "entity_poly_strand_id": "BF",
+            "entity_poly_seq_one_letter_code": "PQCPPGLRQYETMAVLRPDMTEDERLTLTQKYEELLVAGGAMYVEVFNRGVIPLAYSIKRKNKAGETNNYLDGIYLLFTYFTKPESISPLEAALVTDDDVIRSSSFKIRKRKY",
+            "entity_poly_seq_one_letter_code_can": "PQCPPGLRQYETMAVLRPDMTEDERLTLTQKYEELLVAGGAMYVEVFNRGVIPLAYSIKRKNKAGETNNYLDGIYLLFTYFTKPESISPLEAALVTDDDVIRSSSFKIRKRKY",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82129"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7, chloroplastic",
+            "entity_poly_strand_id": "BG",
+            "entity_poly_seq_one_letter_code": "SRRGTVEEKTAKSDPIYRNRLVNMLVNRILKHGKKSLAYQILYRAVKKIQQKTETNPLSVLRQAIRGVTPDIAVKARRVGGSTHQVPIEIGSTQGKALAIRWLLGAARKRPGRNMAFKLSSELVDAAKGSGDAVRKKEETHRMAEANRAFA",
+            "entity_poly_seq_one_letter_code_can": "SRRGTVEEKTAKSDPIYRNRLVNMLVNRILKHGKKSLAYQILYRAVKKIQQKTETNPLSVLRQAIRGVTPDIAVKARRVGGSTHQVPIEIGSTQGKALAIRWLLGAARKRPGRNMAFKLSSELVDAAKGSGDAVRKKEETHRMAEANRAFA",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P09597"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8, chloroplastic",
+            "entity_poly_strand_id": "BH",
+            "entity_poly_seq_one_letter_code": "MGKDTIADIITCIRNADMNRKGTVRIVSTNITENIVKILLREGFIENARKHQERNKYFLVLTLRHRRNKKGPYLNTFHLKRVSRPGLRIYSNYQRIPRILGGMGIAILSTSRGIMTDREARLEGIGGEILCYIW",
+            "entity_poly_seq_one_letter_code_can": "MGKDTIADIITCIRNADMNRKGTVRIVSTNITENIVKILLREGFIENARKHQERNKYFLVLTLRHRRNKKGPYLNTFHLKRVSRPGLRIYSNYQRIPRILGGMGIAILSTSRGIMTDREARLEGIGGEILCYIW",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82278"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9, chloroplastic",
+            "entity_poly_strand_id": "BI",
+            "entity_poly_seq_one_letter_code": "EKFVKSRLPGGFAAQTVIGTGRRKCAIARVVLQEGTGKFIINYRDAKEYLQGNPLWLQYVKTPLATLGYETNYDVFVKAHGGGLSGQAQAISLGVARALLKVSASHRAPLKQEGLLTRDSRIVERKKPGLKKARKAPQFSK",
+            "entity_poly_seq_one_letter_code_can": "EKFVKSRLPGGFAAQTVIGTGRRKCAIARVVLQEGTGKFIINYRDAKEYLQGNPLWLQYVKTPLATLGYETNYDVFVKAHGGGLSGQAQAISLGVARALLKVSASHRAPLKQEGLLTRDSRIVERKKPGLKKARKAPQFSK",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82162"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10 alpha, chloroplastic",
+            "entity_poly_strand_id": "BJ",
+            "entity_poly_seq_one_letter_code": "KIRIKLRSYWVPLIEDSCKQIMDAARTTNAKIMGPVPLPTKKRIYCVLKSPHVHKDARFHFEIRTHQRLIDILYPTAQTIDSLMQLDLPAGVDVEVKL",
+            "entity_poly_seq_one_letter_code_can": "KIRIKLRSYWVPLIEDSCKQIMDAARTTNAKIMGPVPLPTKKRIYCVLKSPHVHKDARFHFEIRTHQRLIDILYPTAQTIDSLMQLDLPAGVDVEVKL",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P06506"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11, chloroplastic",
+            "entity_poly_strand_id": "BK",
+            "entity_poly_seq_one_letter_code": "VIHVQASFNNTIVTVTDVRGRVVSWASAGTCGFRGTKRGTPFAAQTAAGNAIRTVVEQGMQRAEVMIKGPGLGRDAALRAIRRSGILLSFVRDVTPMPHNGCRPPKKRRV",
+            "entity_poly_seq_one_letter_code_can": "VIHVQASFNNTIVTVTDVRGRVVSWASAGTCGFRGTKRGTPFAAQTAAGNAIRTVVEQGMQRAEVMIKGPGLGRDAALRAIRRSGILLSFVRDVTPMPHNGCRPPKKRRV",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P62128"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12, chloroplastic",
+            "entity_poly_strand_id": "BL",
+            "entity_poly_seq_one_letter_code": "PTIKQLIRNTRQPIRNVTKSPALRGCPQRRGTCTRVYTITPKKPNSALRKVARVRLTSGFEITAYIPGIGHNLQEHSVVLVRGGRVKDLPGVRYHIVRGTLDAVGVKDRQQGRSKYGVKKPK",
+            "entity_poly_seq_one_letter_code_can": "PTIKQLIRNTRQPIRNVTKSPALRGCPQRRGTCTRVYTITPKKPNSALRKVARVRLTSGFEITAYIPGIGHNLQEHSVVLVRGGRVKDLPGVRYHIVRGTLDAVGVKDRQQGRSKYGVKKPK",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82163"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13, chloroplastic",
+            "entity_poly_strand_id": "BM",
+            "entity_poly_seq_one_letter_code": "VRVGNVEIPNNKRVEYSLQYIHGIGRSRARQILCDLTLENKLTKELSEDELLQVRDEVTKYMIEGDLRRFNAIAIRRLKEIQCYRGVRHIQGLPCRGQRTKNNCRTLKRGK",
+            "entity_poly_seq_one_letter_code_can": "VRVGNVEIPNNKRVEYSLQYIHGIGRSRARQILCDLTLENKLTKELSEDELLQVRDEVTKYMIEGDLRRFNAIAIRRLKEIQCYRGVRHIQGLPCRGQRTKNNCRTLKRGK",
+            "entity_poly_seq_length": 111,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P06507"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14, chloroplastic",
+            "entity_poly_strand_id": "BN",
+            "entity_poly_seq_one_letter_code": "ARKSLIQREKKRRNLEQKYHLIRRSSKQEIRKVTSLSDKWEIHGKLQSPPRNSAPARLHRRCFLTGRPRANYRDFGLSGHILREMVHTCLLPGATRSSW",
+            "entity_poly_seq_one_letter_code_can": "ARKSLIQREKKRRNLEQKYHLIRRSSKQEIRKVTSLSDKWEIHGKLQSPPRNSAPARLHRRCFLTGRPRANYRDFGLSGHILREMVHTCLLPGATRSSW",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "Q9M3I4"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15, chloroplastic",
+            "entity_poly_strand_id": "BO",
+            "entity_poly_seq_one_letter_code": "NKGSVEFQVFCFTNKIRRLTLHLELHKKDYSSQRGLRKTLGKRQRLLAYLLKINGVRYKELISKLNIRELKT",
+            "entity_poly_seq_one_letter_code_can": "NKGSVEFQVFCFTNKIRRLTLHLELHKKDYSSQRGLRKTLGKRQRLLAYLLKINGVRYKELISKLNIRELKT",
+            "entity_poly_seq_length": 72,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P28807"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S16, chloroplastic",
+            "entity_poly_strand_id": "BP",
+            "entity_poly_seq_one_letter_code": "MVKLRLKRCGRKQRAVYRIVAIDVRSRREGRDLQKVGFYDPIKSQTYLNVPAILDFLEKGAQPTETVYDILKRAEVFKEFR",
+            "entity_poly_seq_one_letter_code_can": "MVKLRLKRCGRKQRAVYRIVAIDVRSRREGRDLQKVGFYDPIKSQTYLNVPAILDFLEKGAQPTETVYDILKRAEVFKEFR",
+            "entity_poly_seq_length": 81,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82137"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17, chloroplastic",
+            "entity_poly_strand_id": "BQ",
+            "entity_poly_seq_one_letter_code": "MRSMQGKVICATNDKTVNVEVVRLAPHPKYKRRVRKKKKYQAHDPDNQFKVGDWVQLDKCRPISKTKTFLAVAPEGRQSSATRP",
+            "entity_poly_seq_one_letter_code_can": "MRSMQGKVICATNDKTVNVEVVRLAPHPKYKRRVRKKKKYQAHDPDNQFKVGDWVQLDKCRPISKTKTFLAVAPEGRQSSATRP",
+            "entity_poly_seq_length": 84,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "Q9M3K7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S18, chloroplastic",
+            "entity_poly_strand_id": "BR",
+            "entity_poly_seq_one_letter_code": "RIDYRNMSLISRFISEQGKILSRRVNRLTLKQQRLITSAIKQARILSLLPFLN",
+            "entity_poly_seq_one_letter_code_can": "RIDYRNMSLISRFISEQGKILSRRVNRLTLKQQRLITSAIKQARILSLLPFLN",
+            "entity_poly_seq_length": 53,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P06508"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19, chloroplastic",
+            "entity_poly_strand_id": "BS",
+            "entity_poly_seq_one_letter_code": "LKKNPFVANHLLRKIEKLNKKAEKEIIVTWSRASTIIPTMIGHTIAIHNGREHLPIYITDRMVGHKLGEFAPTLNFRGHAK",
+            "entity_poly_seq_one_letter_code_can": "LKKNPFVANHLLRKIEKLNKKAEKEIIVTWSRASTIIPTMIGHTIAIHNGREHLPIYITDRMVGHKLGEFAPTLNFRGHAK",
+            "entity_poly_seq_length": 81,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "Bacterial ribosomal protein S20 interacts with 16S rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S20"
+            ],
+            "pfam_accessions": [
+                "PF01649"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82130"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S20, chloroplastic",
+            "entity_poly_strand_id": "BT",
+            "entity_poly_seq_one_letter_code": "LKKADSAAKRTRQAETRRLRNKARKSEVKTRMRKVFEALDALKKKSGASTEELVPIDNLIAEAYSAIDKAVVKGTLHRNTAARRKSRLARNKKVVEIHHGWY",
+            "entity_poly_seq_one_letter_code_can": "LKKADSAAKRTRQAETRRLRNKARKSEVKTRMRKVFEALDALKKKSGASTEELVPIDNLIAEAYSAIDKAVVKGTLHRNTAARRKSRLARNKKVVEIHHGWY",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S21"
+            ],
+            "pfam_accessions": [
+                "PF01165"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P82024"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S21, chloroplastic",
+            "entity_poly_strand_id": "BU",
+            "entity_poly_seq_one_letter_code": "AYNVQVLVDDNENEERLLNRFRREVMRAGVIQECKRRRYFENKQEEKKRKHREAAKRNS",
+            "entity_poly_seq_one_letter_code_can": "AYNVQVLVDDNENEERLLNRFRREVMRAGVIQECKRRRYFENKQEEKKRKHREAAKRNS",
+            "entity_poly_seq_length": 59,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "This domain often occurs at the C-terminus of proteins containing Pfam:PF02482.",
+                "This Pfam family contains the sigma-54 modulation protein family and the S30AE family of ribosomal proteins which includes the light- repressed protein (lrtA) (Swiss:P47908) [1]."
+            ],
+            "pfam_descriptions": [
+                "Sigma 54 modulation/S30EA ribosomal protein C terminus",
+                "Sigma 54 modulation protein / S30EA ribosomal protein"
+            ],
+            "pfam_accessions": [
+                "PF16321",
+                "PF02482"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P19954"
+            ],
+            "rcsb_pdbx_description": "Ribosome-binding factor PSRP1, chloroplastic",
+            "entity_poly_strand_id": "BV",
+            "entity_poly_seq_one_letter_code": "SSVKLILQGRNLEVSDNVRSHVEDKVGKSVAKHSHLVREVDVRLSARGGDLSKGPKLRRCEVTLFTKRHGVIRAEEDAESLYSSIDLVSSIIQRKLRKIKDKVSDH",
+            "entity_poly_seq_one_letter_code_can": "SSVKLILQGRNLEVSDNVRSHVEDKVGKSVAKHSHLVREVDVRLSARGGDLSKGPKLRRCEVTLFTKRHGVIRAEEDAESLYSSIDLVSSIIQRKLRKIKDKVSDH",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [
+                "RPS31, Ubi3 precursor, which is part of mature 60S and 40S ribosomal subunits. It seems that linear ubiquitin fusion to Rps31 and its subsequent cleavage are required for the efficient production and functional integrity of 40S ribosomal subunits [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S31e"
+            ],
+            "pfam_accessions": [
+                "PF17067"
+            ],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [
+                "P47910"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S31, chloroplastic",
+            "entity_poly_strand_id": "BW",
+            "entity_poly_seq_one_letter_code": "GRGDRKTAKGKRFNHSFGNARPKNKNKGRGPPKAPIF",
+            "entity_poly_seq_one_letter_code_can": "GRGDRKTAKGKRFNHSFGNARPKNKNKGRGPPKAPIF",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "bS1c",
+            "entity_poly_strand_id": "BY",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 170,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6ERI",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "entity_poly_strand_id": "AA",
+            "entity_poly_seq_one_letter_code": "UUCAAACGAGGAAAGGCUUACGGUGGAUACCUAGGCACCCAGAGACGAGGAAGGGCGUAUUAAUCGACGAAAUGCUUCGGGGAGUUGAAAAUAAGCAGAGAUCCGGAGAUUCCCGAAUAGGUCAACCUUUCGAACUUCUGCUGAAUCCAUGGGCAGGCAAGAGACAACCUGGCGAACUGAAACAUCUUAGUAGCCAGAGGAAAAGAAAGCAAAAGCGAUUCCCGUAGUAGCGGCGAGCGAAAUGGGAGCAGCCUAAACCGUGAAAACGGGGUUGUGGGAGAGCAAUACAAGCGUCGUGCUGCUAGGCGAAUCAGUGGAGUGCGGAACCCUAGAUGGUGAAAGUCCAGUAGCCGAAAGCAUCACUAGCUUAUGCUCUGACCCGAGUAGCAUGGGGCACGUGGAAUCCCGUGUGAAUCAGCAAGGACCACCUUGCAAGGCUAAAUACUCCUGGGUGACCGAUAGCGAAGUAGUACCGUGAGGGAAGGGUGAAAAGAACCCCCAUCGGGGAGUGAAAUAGAACAUGAAACCGUAAGCUCUCAAGCAGUGGGAGGGGGACCAGACCCUGACCGCGUGCCUGUUGAAGAAUGAGCCGGCGACUCAUAGGCAGUGGCUUGGUUAAGGGAACCCACCGGAGCCGUAGCGAAAGCGAGUCUUCAUAGGGCAAUUGUCACUGCUUAUGGACCCGAACCUGGGUGAUCUAUCCAUGACCAGGAUGAAGCUUGGGUGAAACUAAGUGGAGGUCCGAACCGACUGAUGUUGAAGAAUCAGCGGAUGAGUUGUGGUUAGGGGUGAAAUGCCACUCGAACCCAGAGCUAGCUGGUUCUCCCCGAAAUGCGUUGAGGCGCAGCAGUUGACUGGACAUCUAGGGGUAAAGCACUGUUUCGGUGCGGGCCGCGAGAGCGGUACCAAAUCGAGGCAAACUCUGAAUACUAGAUAUGACCUCCAAAUAACAGGGGUCAAGGUCGGCCAGUGAGACGAUGGGGGAUAAGCUUCAUCGUCGAGAGGGAAACAGCCCGGAUCACCAGCUAAGGCCCCUAAAUGACCGCUCAGUGAUAAAGGAGGUAGGGGUGCAGAGACAGCCAGGAGGUUUGCCUAGAAGCAGCCACCCUUGAAAGAGUGCGUAAUAGCUCACUGAUCGAGCGCUCUUGCGCCGAAGAUGAACGGGGCUAAGCGGUCUGCCGAAGCUGUGGGAUGUAAAAAAACAUCGGUAGGGGAGCGUUCCGUGUUAGGGAGAAACGCGUGCGUGAGCCGCGUUGGACGAAGCGGAAGCGAGAAUGUCGGCUUGAGUAACGCAAACAUUGGUGAGAAUCCAAUGCCCCGAAAACCUAAGGGUUCCUCCGCAAGGUUCGUCCACGGAGGGUGAGUCAGGGCCUAAGAUCAGGCCGAAAGGCGUAGUCGAUGGACAACAGGUGAAUAUUCCUGUACUACCCCUUGUUGGUCCCGAGGGACGGAGGAGGCUAGGUUAGCCGAAAGAUGGUUAUCGGUUCAAGGACGCAAGGUGACCCUGUUUUUCAGGGUAAGAAGGGGUAGAGAAAAUGCCUCGAGCCAAUGUUCGAGUACCAGGCGCUACGGCGCUGAAGUAACCGAUGCCAUACUCCCAGGAAAAGCUCGAACGACCUUCAACAAAAGGGUACCUGUACCCGAAACCGACACAGGUAGGUAGGUAGAGAAUACCUAGGGGCGCGAGACAACUCUCUCUAAGGAACUCGGCAAAAUAGCCCCGUAACUUCGGGAGAAGGGGUGCCCCCUCACAAAGGGGGUCGAAGUGACCAGGCCCGGGCGACUGUUUACCAAAAACACAGGUCUCCGCAAAGUCGUAAGACCAUGUAUGGGGGCUGACGCCUGCCCAGUGCCGGAAGGUCAAGGAAGUUGGUGACCUGAUGACAGGGGAGCCGGCGACCGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGUAACGAUCUGGGCACUGUCUCGGAGAGAGGCUCGGUGAAAUAGACAUGUCUGUGAAGAUGCGGACUACCUGCACCUGGACAGAAAGACCCUAUGAAGCUUUACUGUUCCCUGGGAUUGGCUUUGGGCUUUUCCUGCGCAGCUUAGGUGGAAGGCGAAGAAGGCCCCCUUCCGGGGGGGCCCGAGCCAUCAGUGAGAUACCACUCUGGAAGAGCUAGAAUUCUAACCUUGUGUCAGGACCUACGGGCCAAGGGACAUUCUCAGGUAGACAGUUUCUAUGGGGCGUAGGCCUCCCAAAAGGUAACGGAGGCGUGCAAAGGUUUCCUCGGGCCGGACGGAGAUUGGCCCUCGAGUGCAAAGGCAGAAGGGAGCUUGACUGCAAGACCCACCCGUCGAGCAGGGACGAAAGUCGGCCUUAGUGAUCCGACGGUGCCGAGUGGAAGGGCCGUCGCUCAACGGAUAAAAGUUACUCUAGGGAUAACAGGCUGAUCUUCCCCAAGAGUUCACAUCGACGGGAAGGUUUGGCACCUCGAUGUCGGCUCUUCGCCACCUGGGGCUGUAGUAUGUUCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGUACGUGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCAUAUCCGGUGUGGGCGUUAGAGCAUUGAGAGGACCUUUCCCUAGUACGAGAGGACCGGGAAGGACGCACCUCUGGUGUACCAGUUAUCGUGCCCACGGUAAACGCUGGGUAGCCAAGUGCGGAGCGGAUAACUGCUGAAAGCAUCUAAGUAGUAAGCCCACCCCAAGAUGAGUGCUCUCCUA",
+            "entity_poly_seq_one_letter_code_can": "UUCAAACGAGGAAAGGCUUACGGUGGAUACCUAGGCACCCAGAGACGAGGAAGGGCGUAUUAAUCGACGAAAUGCUUCGGGGAGUUGAAAAUAAGCAGAGAUCCGGAGAUUCCCGAAUAGGUCAACCUUUCGAACUUCUGCUGAAUCCAUGGGCAGGCAAGAGACAACCUGGCGAACUGAAACAUCUUAGUAGCCAGAGGAAAAGAAAGCAAAAGCGAUUCCCGUAGUAGCGGCGAGCGAAAUGGGAGCAGCCUAAACCGUGAAAACGGGGUUGUGGGAGAGCAAUACAAGCGUCGUGCUGCUAGGCGAAUCAGUGGAGUGCGGAACCCUAGAUGGUGAAAGUCCAGUAGCCGAAAGCAUCACUAGCUUAUGCUCUGACCCGAGUAGCAUGGGGCACGUGGAAUCCCGUGUGAAUCAGCAAGGACCACCUUGCAAGGCUAAAUACUCCUGGGUGACCGAUAGCGAAGUAGUACCGUGAGGGAAGGGUGAAAAGAACCCCCAUCGGGGAGUGAAAUAGAACAUGAAACCGUAAGCUCUCAAGCAGUGGGAGGGGGACCAGACCCUGACCGCGUGCCUGUUGAAGAAUGAGCCGGCGACUCAUAGGCAGUGGCUUGGUUAAGGGAACCCACCGGAGCCGUAGCGAAAGCGAGUCUUCAUAGGGCAAUUGUCACUGCUUAUGGACCCGAACCUGGGUGAUCUAUCCAUGACCAGGAUGAAGCUUGGGUGAAACUAAGUGGAGGUCCGAACCGACUGAUGUUGAAGAAUCAGCGGAUGAGUUGUGGUUAGGGGUGAAAUGCCACUCGAACCCAGAGCUAGCUGGUUCUCCCCGAAAUGCGUUGAGGCGCAGCAGUUGACUGGACAUCUAGGGGUAAAGCACUGUUUCGGUGCGGGCCGCGAGAGCGGUACCAAAUCGAGGCAAACUCUGAAUACUAGAUAUGACCUCCAAAUAACAGGGGUCAAGGUCGGCCAGUGAGACGAUGGGGGAUAAGCUUCAUCGUCGAGAGGGAAACAGCCCGGAUCACCAGCUAAGGCCCCUAAAUGACCGCUCAGUGAUAAAGGAGGUAGGGGUGCAGAGACAGCCAGGAGGUUUGCCUAGAAGCAGCCACCCUUGAAAGAGUGCGUAAUAGCUCACUGAUCGAGCGCUCUUGCGCCGAAGAUGAACGGGGCUAAGCGGUCUGCCGAAGCUGUGGGAUGUAAAAAAACAUCGGUAGGGGAGCGUUCCGUGUUAGGGAGAAACGCGUGCGUGAGCCGCGUUGGACGAAGCGGAAGCGAGAAUGUCGGCUUGAGUAACGCAAACAUUGGUGAGAAUCCAAUGCCCCGAAAACCUAAGGGUUCCUCCGCAAGGUUCGUCCACGGAGGGUGAGUCAGGGCCUAAGAUCAGGCCGAAAGGCGUAGUCGAUGGACAACAGGUGAAUAUUCCUGUACUACCCCUUGUUGGUCCCGAGGGACGGAGGAGGCUAGGUUAGCCGAAAGAUGGUUAUCGGUUCAAGGACGCAAGGUGACCCUGUUUUUCAGGGUAAGAAGGGGUAGAGAAAAUGCCUCGAGCCAAUGUUCGAGUACCAGGCGCUACGGCGCUGAAGUAACCGAUGCCAUACUCCCAGGAAAAGCUCGAACGACCUUCAACAAAAGGGUACCUGUACCCGAAACCGACACAGGUAGGUAGGUAGAGAAUACCUAGGGGCGCGAGACAACUCUCUCUAAGGAACUCGGCAAAAUAGCCCCGUAACUUCGGGAGAAGGGGUGCCCCCUCACAAAGGGGGUCGAAGUGACCAGGCCCGGGCGACUGUUUACCAAAAACACAGGUCUCCGCAAAGUCGUAAGACCAUGUAUGGGGGCUGACGCCUGCCCAGUGCCGGAAGGUCAAGGAAGUUGGUGACCUGAUGACAGGGGAGCCGGCGACCGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGUAACGAUCUGGGCACUGUCUCGGAGAGAGGCUCGGUGAAAUAGACAUGUCUGUGAAGAUGCGGACUACCUGCACCUGGACAGAAAGACCCUAUGAAGCUUUACUGUUCCCUGGGAUUGGCUUUGGGCUUUUCCUGCGCAGCUUAGGUGGAAGGCGAAGAAGGCCCCCUUCCGGGGGGGCCCGAGCCAUCAGUGAGAUACCACUCUGGAAGAGCUAGAAUUCUAACCUUGUGUCAGGACCUACGGGCCAAGGGACAUUCUCAGGUAGACAGUUUCUAUGGGGCGUAGGCCUCCCAAAAGGUAACGGAGGCGUGCAAAGGUUUCCUCGGGCCGGACGGAGAUUGGCCCUCGAGUGCAAAGGCAGAAGGGAGCUUGACUGCAAGACCCACCCGUCGAGCAGGGACGAAAGUCGGCCUUAGUGAUCCGACGGUGCCGAGUGGAAGGGCCGUCGCUCAACGGAUAAAAGUUACUCUAGGGAUAACAGGCUGAUCUUCCCCAAGAGUUCACAUCGACGGGAAGGUUUGGCACCUCGAUGUCGGCUCUUCGCCACCUGGGGCUGUAGUAUGUUCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGUACGUGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCAUAUCCGGUGUGGGCGUUAGAGCAUUGAGAGGACCUUUCCCUAGUACGAGAGGACCGGGAAGGACGCACCUCUGGUGUACCAGUUAUCGUGCCCACGGUAAACGCUGGGUAGCCAAGUGCGGAGCGGAUAACUGCUGAAAGCAUCUAAGUAGUAAGCCCACCCCAAGAUGAGUGCUCUCCUA",
+            "entity_poly_seq_length": 2810,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "rcsb_pdbx_description": "4.5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "entity_poly_strand_id": "AB",
+            "entity_poly_seq_one_letter_code": "AGAGAAGGUCACGGCGAGACGAGCCGUUUAUCAUUACGAUAGGUGUCAAGUGGAAGUGCAGUGAUGUAUGCAGCUGAGGCAUCCUAACAGACCCACAGACUUGAAC",
+            "entity_poly_seq_one_letter_code_can": "AGAGAAGGUCACGGCGAGACGAGCCGUUUAUCAUUACGAUAGGUGUCAAGUGGAAGUGCAGUGAUGUAUGCAGCUGAGGCAUCCUAACAGACCCACAGACUUGAAC",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "entity_poly_strand_id": "Ax",
+            "entity_poly_seq_one_letter_code": "UUCUGGUGUCCUAGGCGUAGAGGAACCACACCAAUCCAUCCCGAACUUGGUGGUUAAACUCUACUGCGGUGACGAUACUGUAGGGGAGGUCCUGCGGAAAAAUAGCUCGACGCCAGGA",
+            "entity_poly_seq_one_letter_code_can": "UUCUGGUGUCCUAGGCGUAGAGGAACCACACCAAUCCAUCCCGAACUUGGUGGUUAAACUCUACUGCGGUGACGAUACUGUAGGGGAGGUCCUGCGGAAAAAUAGCUCGACGCCAGGA",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ERI",
+            "rcsb_pdbx_description": "16S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Spinacia oleracea"
+            ],
+            "rcsb_source_organism_id": [
+                3562
+            ],
+            "entity_poly_strand_id": "BA",
+            "entity_poly_seq_one_letter_code": "UCUCAUGGAGAGUUCGAUCCUGGCUCAGGAUGAACGCUGGCGGCAUGCUUAACACAUGCAAGUCGGACGGGAAGUGGUGUUUCCAGUGGCGGACGGGUGAGUAACGCGUAAGAACCUGCCCUUGGGAGGGGAACAACAGCUGGAAACGGCUGCUAAUACCCCGUAGGCUGAGAAGCAAAAGGAGGAAUCCGCCCGAGGAGGGGCUCGCGUCUGAUUAGCUAGUUGGUGAGGUAAUAGCUUACCAAGGCGAUGAUCAGUAGCUGGUCCGAGAGGAUGAUCAGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUUUUCCGCAAUGGGCGAAAGCCUGACGGAGCAAUGCCGCGUGGAGGCAGAAGGCCCACGGGUCGUGAACUUCUUUUCCCGGAGAAGAAGCAAUGACGGUAUCCGGGGAAUAAGCAUCGGCUAACUCUGUGCCAGCAGCCGCGGUAAGACAGAGGAUGCAAGCGUUAUCCGGAAUGAUUGGGCGUAAAGCGUCUGUAGGUGGCUUUUUAAGUCCGCCGUCAAAUCCCAGGGCUCAACCCUGGACAGGCGGUGGAAACUACCAAGCUGGAGUACGGUAGGGGCAGAGGGAAUUUCCGGUGGAGCGGUGAAAUGCGUAGAGAUCGGAAAGAACACCAACGGCGAAAGCACUCUGCUGGGCCGACACUGACACUGAGAGACGAAAGCUAGGGGAGCGAAUGGGAUUAGAUACCCCAGUAGUCCUAGCCGUAAACGAUGGAUACUAGGCGCUGUGCGUAUCGACCCGUGCAGUGUUGUAGCUAACGCGUUAAGUAUCCCGCCUGGGGAGUACGUUCGCAAGAAUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAUGCAAAGCGAAGAACCUUACCAGGGCUUGACAUGCCGCGAAUCCUCUUGAAAGAGAGGGGUGCCUUCGGGAACGCGGACACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGCCGUAAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUCGUGUUUAGUUGCCAACGUUGAGUUUGGAACCCUGAACAGACUGCCGGUGAUAAGCCGGAGGAAGGUGAGGAUGACGUCAAGUCAUCAUGCCCCUUAUGCCCUGGGCGACACACGUGCUACAAUGGCCGGGACAAAGGGUCGCGAUCCCGCGAGGGUGAGCUAACCCCAAAAACCCGUCCUCAGUUCGGAUUGCAGGCUGCAACUCGCCUGCAUGAAGCCGGAAUCGCUAGUAAUCGCCGGUCAGCCAUACGGCGGUGAAUUCGUUCCCGGGCCUUGUACACACCGCCCGUCACACUAUGGGAGCUGGCCAUGCCCGAAGUCGUUACCUUAACCGCAAGGAGGGGGAUGCCGAAGGCAGGGCUAGUGACUGGAGUGAAGUCGUAACAAGGUAGCCGUACUGGAAGGUGCGGCUGGAU",
+            "entity_poly_seq_one_letter_code_can": "UCUCAUGGAGAGUUCGAUCCUGGCUCAGGAUGAACGCUGGCGGCAUGCUUAACACAUGCAAGUCGGACGGGAAGUGGUGUUUCCAGUGGCGGACGGGUGAGUAACGCGUAAGAACCUGCCCUUGGGAGGGGAACAACAGCUGGAAACGGCUGCUAAUACCCCGUAGGCUGAGAAGCAAAAGGAGGAAUCCGCCCGAGGAGGGGCUCGCGUCUGAUUAGCUAGUUGGUGAGGUAAUAGCUUACCAAGGCGAUGAUCAGUAGCUGGUCCGAGAGGAUGAUCAGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUUUUCCGCAAUGGGCGAAAGCCUGACGGAGCAAUGCCGCGUGGAGGCAGAAGGCCCACGGGUCGUGAACUUCUUUUCCCGGAGAAGAAGCAAUGACGGUAUCCGGGGAAUAAGCAUCGGCUAACUCUGUGCCAGCAGCCGCGGUAAGACAGAGGAUGCAAGCGUUAUCCGGAAUGAUUGGGCGUAAAGCGUCUGUAGGUGGCUUUUUAAGUCCGCCGUCAAAUCCCAGGGCUCAACCCUGGACAGGCGGUGGAAACUACCAAGCUGGAGUACGGUAGGGGCAGAGGGAAUUUCCGGUGGAGCGGUGAAAUGCGUAGAGAUCGGAAAGAACACCAACGGCGAAAGCACUCUGCUGGGCCGACACUGACACUGAGAGACGAAAGCUAGGGGAGCGAAUGGGAUUAGAUACCCCAGUAGUCCUAGCCGUAAACGAUGGAUACUAGGCGCUGUGCGUAUCGACCCGUGCAGUGUUGUAGCUAACGCGUUAAGUAUCCCGCCUGGGGAGUACGUUCGCAAGAAUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAUGCAAAGCGAAGAACCUUACCAGGGCUUGACAUGCCGCGAAUCCUCUUGAAAGAGAGGGGUGCCUUCGGGAACGCGGACACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGCCGUAAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUCGUGUUUAGUUGCCAACGUUGAGUUUGGAACCCUGAACAGACUGCCGGUGAUAAGCCGGAGGAAGGUGAGGAUGACGUCAAGUCAUCAUGCCCCUUAUGCCCUGGGCGACACACGUGCUACAAUGGCCGGGACAAAGGGUCGCGAUCCCGCGAGGGUGAGCUAACCCCAAAAACCCGUCCUCAGUUCGGAUUGCAGGCUGCAACUCGCCUGCAUGAAGCCGGAAUCGCUAGUAAUCGCCGGUCAGCCAUACGGCGGUGAAUUCGUUCCCGGGCCUUGUACACACCGCCCGUCACACUAUGGGAGCUGGCCAUGCCCGAAGUCGUUACCUUAACCGCAAGGAGGGGGAUGCCGAAGGCAGGGCUAGUGACUGGAGUGAAGUCGUAACAAGGUAGCCGUACUGGAAGGUGCGGCUGGAU",
+            "entity_poly_seq_length": 1481,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

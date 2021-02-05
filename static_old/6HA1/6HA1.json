@@ -1,0 +1,1629 @@
+{
+    "rcsb_id": "6HA1",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.1,
+    "rcsb_external_ref_id": [
+        "EMD-0176"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-0176"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.1,
+    "cryoem_exp_num_particles": 68652,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2018,
+    "citation_rcsb_authors": [
+        "Crowe-McAuliffe, C.",
+        "Graf, M.",
+        "Huter, P.",
+        "Takada, H.",
+        "Abdelshahid, M.",
+        "Novacek, J.",
+        "Murina, V.",
+        "Atkinson, G.C.",
+        "Hauryliuk, V.",
+        "Wilson, D.N."
+    ],
+    "citation_title": "Structural basis for antibiotic resistance mediated by theBacillus subtilisABCF ATPase VmlR.",
+    "citation_pdbx_doi": "10.1073/pnas.1808535115",
+    "pdbx_keywords_text": "single particle cryo-EM, stalling peptide, ribosome, telithromycin",
+    "_organismId": [
+        224308
+    ],
+    "_organismName": [
+        "Bacillus subtilis (strain 168)"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P42919"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MAIKKYKPTSNGRRGMTTSDFAEITTDKPEKSLLAPLHKKGGRNNQGKLTVRHQGGGHKRQYRVIDFKRDKDGIPGRVATVEYDPNRSANIALINYADGEKRYILAPKGIQVGTEIMSGPEADIKVGNALPLINIPVGTVVHNIELKPGKGGQLVRSAGTSAQVLGKEGKYVLVRLNSGEVRMILSACRASIGQVGNEQHELINIGKAGRSRWKGIRPTVRGSVMNPNDHPHGGGEGRAPIGRKSPMSPWGKPTLGFKTRKKKNKSDKFIVRRRKNK",
+            "entity_poly_seq_one_letter_code_can": "MAIKKYKPTSNGRRGMTTSDFAEITTDKPEKSLLAPLHKKGGRNNQGKLTVRHQGGGHKRQYRVIDFKRDKDGIPGRVATVEYDPNRSANIALINYADGEKRYILAPKGIQVGTEIMSGPEADIKVGNALPLINIPVGTVVHNIELKPGKGGQLVRSAGTSAQVLGKEGKYVLVRLNSGEVRMILSACRASIGQVGNEQHELINIGKAGRSRWKGIRPTVRGSVMNPNDHPHGGGEGRAPIGRKSPMSPWGKPTLGFKTRKKKNKSDKFIVRRRKNK",
+            "entity_poly_seq_length": 277,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P42920"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MTKGILGRKIGMTQVFAENGDLIPVTVIEAAPNVVLQKKTAENDGYEAIQLGFDDKREKLSNKPEKGHVAKAETAPKRFVKELRGVEMDAYEVGQEVKVEIFSAGEIVDVTGVSKGKGFQGAIKRHGQSRGPMSHGSRYHRRPGSMGPVDPNRVFKGKLLPGRMGGEQITVQNLEIVKVDAERNLLLIKGNVPGAKKSLITVKSAVKSK",
+            "entity_poly_seq_one_letter_code_can": "MTKGILGRKIGMTQVFAENGDLIPVTVIEAAPNVVLQKKTAENDGYEAIQLGFDDKREKLSNKPEKGHVAKAETAPKRFVKELRGVEMDAYEVGQEVKVEIFSAGEIVDVTGVSKGKGFQGAIKRHGQSRGPMSHGSRYHRRPGSMGPVDPNRVFKGKLLPGRMGGEQITVQNLEIVKVDAERNLLLIKGNVPGAKKSLITVKSAVKSK",
+            "entity_poly_seq_length": 209,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P42921"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MPKVALYNQNGSTAGDIELNASVFGIEPNESVVFDAILMQRASLRQGTHKVKNRSEVRGGGRKPWRQKGTGRARQGSIRSPQWRGGGVVFGPTPRSYSYKLPKKVRRLAIKSVLSSKVIDNNIIVLEDLTLDTAKTKEMAAILKGLSVEKKALIVTADANEAVALSARNIPGVTVVEANGINVLDVVNHEKLLITKAAVEKVEEVLA",
+            "entity_poly_seq_one_letter_code_can": "MPKVALYNQNGSTAGDIELNASVFGIEPNESVVFDAILMQRASLRQGTHKVKNRSEVRGGGRKPWRQKGTGRARQGSIRSPQWRGGGVVFGPTPRSYSYKLPKKVRRLAIKSVLSSKVIDNNIIVLEDLTLDTAKTKEMAAILKGLSVEKKALIVTADANEAVALSARNIPGVTVVEANGINVLDVVNHEKLLITKAAVEKVEEVLA",
+            "entity_poly_seq_length": 207,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P12877"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MNRLKEKYNKEIAPALMTKFNYDSVMQVPKIEKIVINMGVGDAVQNAKAIDSAVEELTFIAGQKPVVTRAKKSIAGFRLREGMPIGAKVTLRGERMYDFLDKLISVSLPRVRDFRGVSKKSFDGRGNYTLGIKEQLIFPEIDYDKVTKVRGMDIVIVTTANTDEEARELLTQVGMPFQK",
+            "entity_poly_seq_one_letter_code_can": "MNRLKEKYNKEIAPALMTKFNYDSVMQVPKIEKIVINMGVGDAVQNAKAIDSAVEELTFIAGQKPVVTRAKKSIAGFRLREGMPIGAKVTLRGERMYDFLDKLISVSLPRVRDFRGVSKKSFDGRGNYTLGIKEQLIFPEIDYDKVTKVRGMDIVIVTTANTDEEARELLTQVGMPFQK",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P46898"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MSRVGKKLLEIPSDVTVTLNDNNTVAVKGPKGELTRTFHPDMEIKVEDNVLTVARPSDQKEHRALHGTTRSLLGNMVEGVSKGFERGLELVGVGYRASKSGNKLVLNVGYSHPVEIVPEEGIEIEVPSQTKVVVKGTDKERVGAIAANIRAVRSPEPYKGKGIRYEGEVVRRKEGKSAK",
+            "entity_poly_seq_one_letter_code_can": "MSRVGKKLLEIPSDVTVTLNDNNTVAVKGPKGELTRTFHPDMEIKVEDNVLTVARPSDQKEHRALHGTTRSLLGNMVEGVSKGFERGLELVGVGYRASKSGNKLVLNVGYSHPVEIVPEEGIEIEVPSQTKVVVKGTDKERVGAIAANIRAVRSPEPYKGKGIRYEGEVVRRKEGKSAK",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P70974"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MRTTPMANASTIERKWLVVDAAGKTLGRLSSEVAAILRGKHKPTYTPHVDTGDHVIIINAEKIELTGKKLTDKIYYRHTQHPGGLKSRTALEMRTNYPEKMLELAIKGMLPKGSLGRQMFKKLNVYRGSEHPHEAQKPEVYELRG",
+            "entity_poly_seq_one_letter_code_can": "MRTTPMANASTIERKWLVVDAAGKTLGRLSSEVAAILRGKHKPTYTPHVDTGDHVIIINAEKIELTGKKLTDKIYYRHTQHPGGLKSRTALEMRTNYPEKMLELAIKGMLPKGSLGRQMFKKLNVYRGSEHPHEAQKPEVYELRG",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P12875"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MIQQETRLKVADNSGAREVLTIKVLGGSGRKTANIGDVIVCTVKQATPGGVVKKGEVVKAVIVRTKSGARRSDGSYISFDENACVIIRDDKSPRGTRIFGPVARELRENNFMKIVSLAPEVI",
+            "entity_poly_seq_one_letter_code_can": "MIQQETRLKVADNSGAREVLTIKVLGGSGRKTANIGDVIVCTVKQATPGGVVKKGEVVKAVIVRTKSGARRSDGSYISFDENACVIIRDDKSPRGTRIFGPVARELRENNFMKIVSLAPEVI",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P19946"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MKLHELKPSEGSRKTRNRVGRGIGSGNGKTAGKGHKGQNARSGGGVRPGFEGGQMPLFQRLPKRGFTNINRKEYAVVNLDKLNGFAEGTEVTPELLLETGVISKLNAGVKILGNGKLEKKLTVKANKFSASAKEAVEAAGGTAEVI",
+            "entity_poly_seq_one_letter_code_can": "MKLHELKPSEGSRKTRNRVGRGIGSGNGKTAGKGHKGQNARSGGGVRPGFEGGQMPLFQRLPKRGFTNINRKEYAVVNLDKLNGFAEGTEVTPELLLETGVISKLNAGVKILGNGKLEKKLTVKANKFSASAKEAVEAAGGTAEVI",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P14577"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MLLPKRVKYRREHRGKMRGRAKGGTEVHFGEFGIQALEASWITNRQIEAARIAMTRYMKRGGKVWIKIFPSKPYTAKPLEVRMGSGKGAPEGWVAVVKPGKVLFEISGVSEEVAREALRLASHKLPIKTKFVKREEIGGESNES",
+            "entity_poly_seq_one_letter_code_can": "MLLPKRVKYRREHRGKMRGRAKGGTEVHFGEFGIQALEASWITNRQIEAARIAMTRYMKRGGKVWIKIFPSKPYTAKPLEVRMGSGKGAPEGWVAVVKPGKVLFEISGVSEEVAREALRLASHKLPIKTKFVKREEIGGESNES",
+            "entity_poly_seq_length": 144,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P20277"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MSYRKLGRTSAQRKAMLRDLTTDLIINERIETTETRAKELRSVVEKMITLGKRGDLHARRQAAAYIRNEVANEENNQDALQKLFSDIATRYEERQGGYTRIMKLGPRRGDGAPMAIIELV",
+            "entity_poly_seq_one_letter_code_can": "MSYRKLGRTSAQRKAMLRDLTTDLIINERIETTETRAKELRSVVEKMITLGKRGDLHARRQAAAYIRNEVANEENNQDALQKLFSDIATRYEERQGGYTRIMKLGPRRGDGAPMAIIELV",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P46899"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MITKTSKNAARLKRHARVRAKLSGTAERPRLNVFRSNKHIYAQIIDDVNGVTLASASTLDKDLNVESTGDTSAATKVGELVAKRAAEKGISDVVFDRGGYLYHGRVKALADAAREAGLKF",
+            "entity_poly_seq_one_letter_code_can": "MITKTSKNAARLKRHARVRAKLSGTAERPRLNVFRSNKHIYAQIIDDVNGVTLASASTLDKDLNVESTGDTSAATKVGELVAKRAAEKGISDVVFDRGGYLYHGRVKALADAAREAGLKF",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "O31742"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MQKLIEDITKEQLRTDLPAFRPGDTLRVHVKVVEGNRERIQIFEGVVIKRRGGGISETFTVRKISYGVGVERTFPVHTPKIAKIEVVRYGKVRRAKLYYLRELRGKAARIKEIRR",
+            "entity_poly_seq_one_letter_code_can": "MQKLIEDITKEQLRTDLPAFRPGDTLRVHVKVVEGNRERIQIFEGVVIKRRGGGISETFTVRKISYGVGVERTFPVHTPKIAKIEVVRYGKVRRAKLYYLRELRGKAARIKEIRR",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P55873"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MPRVKGGTVTRKRRKKVLKLAKGYFGSKHTLYKVANQQVMKSGNYAFRDRRQKKRDFRKLWITRINAAARMNGLSYSRLMHGLKLSGIEVNRKMLADLAVNDLTAFNQLADAAKAQLNK",
+            "entity_poly_seq_one_letter_code_can": "MPRVKGGTVTRKRRKKVLKLAKGYFGSKHTLYKVANQQVMKSGNYAFRDRRQKKRDFRKLWITRINAAARMNGLSYSRLMHGLKLSGIEVNRKMLADLAVNDLTAFNQLADAAKAQLNK",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P26908"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MYAIIKTGGKQIKVEEGQTVYIEKLAAEAGETVTFEDVLFVGGDNVKVGNPTVEGATVTAKVEKQGRAKKITVFRYKPKKNVHKKQGHRQPYTKVTIEKINA",
+            "entity_poly_seq_one_letter_code_can": "MYAIIKTGGKQIKVEEGQTVYIEKLAAEAGETVTFEDVLFVGGDNVKVGNPTVEGATVTAKVEKQGRAKKITVFRYKPKKNVHKKQGHRQPYTKVTIEKINA",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P42060"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MQAKAVARTVRIAPRKARLVMDLIRGKQVGEAVSILNLTPRAASPIIEKVLKSAIANAEHNYEMDANNLVISQAFVDEGPTLKRFRPRAMGRASQINKRTSHITIVVSEKKEG",
+            "entity_poly_seq_one_letter_code_can": "MQAKAVARTVRIAPRKARLVMDLIRGKQVGEAVSILNLTPRAASPIIEKVLKSAIANAEHNYEMDANNLVISQAFVDEGPTLKRFRPRAMGRASQINKRTSHITIVVSEKKEG",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P42924"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MKDPRDVLKRPVITERSADLMTEKKYTFEVDVRANKTEVKDAVESIFGVKVDKVNIMNYKGKSKRVGRYTGMTSRRRKAIVKLTADSKEIEIFEA",
+            "entity_poly_seq_one_letter_code_can": "MKDPRDVLKRPVITERSADLMTEKKYTFEVDVRANKTEVKDAVESIFGVKVDKVNIMNYKGKSKRVGRYTGMTSRRRKAIVKLTADSKEIEIFEA",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P0CI78"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MHVKKGDKVMVISGKDKGKQGTILAAFPKKDRVLVEGVNMVKKHSKPTQANPQGGISNQEAPIHVSNVMPLDPKTGEVTRVGYKVEDGKKVRVAKKSGQVLDK",
+            "entity_poly_seq_one_letter_code_can": "MHVKKGDKVMVISGKDKGKQGTILAAFPKKDRVLVEGVNMVKKHSKPTQANPQGGISNQEAPIHVSNVMPLDPKTGEVTRVGYKVEDGKKVRVAKKSGQVLDK",
+            "entity_poly_seq_length": 103,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P05657"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MLRLDLQFFASKKGVGSTKNGRDSEAKRLGAKRADGQFVTGGSILYRQRGTKIYPGENVGRGGDDTLFAKIDGTVKFERFGRDRKKVSVYPVAQ",
+            "entity_poly_seq_one_letter_code_can": "MLRLDLQFFASKKGVGSTKNGRDSEAKRLGAKRADGQFVTGGSILYRQRGTKIYPGENVGRGGDDTLFAKIDGTVKFERFGRDRKKVSVYPVAQ",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P37807"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MARKCVITGKKTTAGNNRSHAMNASKRTWGANLQKVRILVNGKPKKVYVSARALKSGKVERV",
+            "entity_poly_seq_one_letter_code_can": "MARKCVITGKKTTAGNNRSHAMNASKRTWGANLQKVRILVNGKPKKVYVSARALKSGKVERV",
+            "entity_poly_seq_length": 62,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P12873"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MKANEIRDLTTAEIEQKVKSLKEELFNLRFQLATGQLENTARIREVRKAIARMKTVIREREIAANK",
+            "entity_poly_seq_one_letter_code_can": "MKANEIRDLTTAEIEQKVKSLKEELFNLRFQLATGQLENTARIREVRKAIARMKTVIREREIAANK",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P19947"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MAKLEITLKRSVIGRPEDQRVTVRTLGLKKTNQTVVHEDNAAIRGMINKVSHLVSVKEQ",
+            "entity_poly_seq_one_letter_code_can": "MAKLEITLKRSVIGRPEDQRVTVRTLGLKKTNQTVVHEDNAAIRGMINKVSHLVSVKEQ",
+            "entity_poly_seq_length": 59,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "O34687"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "0",
+            "entity_poly_seq_one_letter_code": "MAVPFRRTSKMKKRLRRTHFKLNVPGMTECPSCGEMKLSHRVCKACGSYNGKDINVKSN",
+            "entity_poly_seq_one_letter_code_can": "MAVPFRRTSKMKKRLRRTHFKLNVPGMTECPSCGEMKLSHRVCKACGSYNGKDINVKSN",
+            "entity_poly_seq_length": 59,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P05647"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "MKRTFQPNNRKRSKVHGFRSRMSSKNGRLVLARRRRKGRKVLSA",
+            "entity_poly_seq_one_letter_code_can": "MKRTFQPNNRKRSKVHGFRSRMSSKNGRLVLARRRRKGRKVLSA",
+            "entity_poly_seq_length": 44,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P55874"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "MPKMKTHRGSAKRFKKTGSGKLKRSHAYTSHLFANKSQKQKRKLRKSAVVSAGDFKRIKQMLANIK",
+            "entity_poly_seq_one_letter_code_can": "MPKMKTHRGSAKRFKKTGSGKLKRSHAYTSHLFANKSQKQKRKLRKSAVVSAGDFKRIKQMLANIK",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P20278"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MKVRPSVKPICEKCKVIRRKGKVMVICENPKHKQKQG",
+            "entity_poly_seq_one_letter_code_can": "MKVRPSVKPICEKCKVIRRKGKVMVICENPKHKQKQG",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31"
+            ],
+            "pfam_accessions": [
+                "PF01197"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "Q03223"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "MKAGIHPNFKKATVKCACGNEFETGSVKEEVRVEICSECHPFYTGRQKFASADGRVDRFNKKY",
+            "entity_poly_seq_one_letter_code_can": "MKAGIHPNFKKATVKCACGNEFETGSVKEEVRVEICSECHPFYTGRQKFASADGRVDRFNKKY",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21464"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S2",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MSVISMKQLLEAGVHFGHQTRRWNPKMKRYIFTERNGIYIIDLQKTVKKVEEAYNFTKNLAAEGGKILFVGTKKQAQDSVKEEAQRSGMYYVNQRWLGGTLTNFETIQKRIKRLKDIEKMQENGTFDVLPKKEVVQLKKELERLEKFLGGIKDMKDLPDALFIIDPRKERIAVAEARKLNIPIIGIVDTNCDPDEIDVVIPANDDAIRAVKLLTSKMADAILEAKQGEEEAEVAEETAPETETTTA",
+            "entity_poly_seq_one_letter_code_can": "MSVISMKQLLEAGVHFGHQTRRWNPKMKRYIFTERNGIYIIDLQKTVKKVEEAYNFTKNLAAEGGKILFVGTKKQAQDSVKEEAQRSGMYYVNQRWLGGTLTNFETIQKRIKRLKDIEKMQENGTFDVLPKKEVVQLKKELERLEKFLGGIKDMKDLPDALFIIDPRKERIAVAEARKLNIPIIGIVDTNCDPDEIDVVIPANDDAIRAVKLLTSKMADAILEAKQGEEEAEVAEETAPETETTTA",
+            "entity_poly_seq_length": 246,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21465"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MGQKVNPVGLRIGVIRDWESKWYAGKDYADFLHEDLKIREYISKRLSDASVSKVEIERAANRVNITIHTAKPGMVIGKGGSEVEALRKALNSLTGKRVHINILEIKRADLDAQLVADNIARQLENRVSFRRAQKQQIQRTMRAGAQGVKTMVSGRLGGADIARSEYYSEGTVPLHTLRADIDYATSEADTTYGKLGVKVWIYRGEVLPTKKKNEEGGK",
+            "entity_poly_seq_one_letter_code_can": "MGQKVNPVGLRIGVIRDWESKWYAGKDYADFLHEDLKIREYISKRLSDASVSKVEIERAANRVNITIHTAKPGMVIGKGGSEVEALRKALNSLTGKRVHINILEIKRADLDAQLVADNIARQLENRVSFRRAQKQQIQRTMRAGAQGVKTMVSGRLGGADIARSEYYSEGTVPLHTLRADIDYATSEADTTYGKLGVKVWIYRGEVLPTKKKNEEGGK",
+            "entity_poly_seq_length": 218,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21466"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MARYTGPSWKLSRRLGISLSGTGKELEKRPYAPGPHGPGQRKKLSEYGLQLQEKQKLRHMYGVNERQFRTLFDKAGKLAGKHGENFMILLDSRLDNVVYKLGLARTRRQARQLVNHGHILVDGSRVDIPSYLVKPGQTIGVREKSRNLSIIKESVEVNNFVPEYLTFDAEKLEGTFTRLPERSELAPEINEALIVEFYSR",
+            "entity_poly_seq_one_letter_code_can": "MARYTGPSWKLSRRLGISLSGTGKELEKRPYAPGPHGPGQRKKLSEYGLQLQEKQKLRHMYGVNERQFRTLFDKAGKLAGKHGENFMILLDSRLDNVVYKLGLARTRRQARQLVNHGHILVDGSRVDIPSYLVKPGQTIGVREKSRNLSIIKESVEVNNFVPEYLTFDAEKLEGTFTRLPERSELAPEINEALIVEFYSR",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21467"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MRRIDPSKLELEERLVTVNRVAKVVKGGRRFRFAALVVVGDKNGHVGFGTGKAQEVPEAIRKAVEDAKKNLIEVPMVGTTIPHEIIGRFGAGNILLKPASEGTGVIAGGPVRAVLELAGVADILSKSLGSNTPINMIRATLQGLSELKRAEDVAKLRGKSVEELLG",
+            "entity_poly_seq_one_letter_code_can": "MRRIDPSKLELEERLVTVNRVAKVVKGGRRFRFAALVVVGDKNGHVGFGTGKAQEVPEAIRKAVEDAKKNLIEVPMVGTTIPHEIIGRFGAGNILLKPASEGTGVIAGGPVRAVLELAGVADILSKSLGSNTPINMIRATLQGLSELKRAEDVAKLRGKSVEELLG",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21468"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MRKYEVMYIIRPNIDEESKKAVIERFNNVLTSNGAEITGTKDWGKRRLAYEINDFRDGFYQIVNVQSDAAAVQEFDRLAKISDDIIRHIVVKEEE",
+            "entity_poly_seq_one_letter_code_can": "MRKYEVMYIIRPNIDEESKKAVIERFNNVLTSNGAEITGTKDWGKRRLAYEINDFRDGFYQIVNVQSDAAAVQEFDRLAKISDDIIRHIVVKEEE",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21469"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MPRKGPVAKRDVLPDPIYNSKLVSRLINKMMIDGKKGKSQTILYKSFDIIKERTGNDAMEVFEQALKNIMPVLEVKARRVGGANYQVPVEVRPERRTTLGLRWLVNYARLRGEKTMEERLANEILDAANNTGAAVKKREDTHKMAEANKAFAHYRW",
+            "entity_poly_seq_one_letter_code_can": "MPRKGPVAKRDVLPDPIYNSKLVSRLINKMMIDGKKGKSQTILYKSFDIIKERTGNDAMEVFEQALKNIMPVLEVKARRVGGANYQVPVEVRPERRTTLGLRWLVNYARLRGEKTMEERLANEILDAANNTGAAVKKREDTHKMAEANKAFAHYRW",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P12879"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MVMTDPIADMLTRIRNANMVRHEKLEIPASKLKREIAEILKREGFIRDVEFVEDSKQGIIRVFLKYGQNNERVITGLKRISKPGLRVYAKSNEVPRVLNGLGIAIISTSQGVLTDKEARAKQAGGEVLAYVW",
+            "entity_poly_seq_one_letter_code_can": "MVMTDPIADMLTRIRNANMVRHEKLEIPASKLKREIAEILKREGFIRDVEFVEDSKQGIIRVFLKYGQNNERVITGLKRISKPGLRVYAKSNEVPRVLNGLGIAIISTSQGVLTDKEARAKQAGGEVLAYVW",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21470"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MAQVQYYGTGRRKSSVARVRLVPGEGRIVVNNREISEHIPSAALIEDIKQPLTLTETAGTYDVLVNVHGGGLSGQAGAIRHGIARALLEADPEYRTTLKRAGLLTRDARMKERKKYGLKGARRAPQFSKR",
+            "entity_poly_seq_one_letter_code_can": "MAQVQYYGTGRRKSSVARVRLVPGEGRIVVNNREISEHIPSAALIEDIKQPLTLTETAGTYDVLVNVHGGGLSGQAGAIRHGIARALLEADPEYRTTLKRAGLLTRDARMKERKKYGLKGARRAPQFSKR",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21471"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MAKQKIRIRLKAYDHRILDQSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQTVDALMRLDLPSGVDIEIKL",
+            "entity_poly_seq_one_letter_code_can": "MAKQKIRIRLKAYDHRILDQSAEKIVETAKRSGASVSGPIPLPTEKSVYTILRAVHKYKDSREQFEMRTHKRLIDIVNPTPQTVDALMRLDLPSGVDIEIKL",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P04969"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MAAARKSNTRKRRVKKNIESGIAHIRSTFNNTIVTITDTHGNAISWSSAGALGFRGSRKSTPFAAQMAAETAAKGSIEHGLKTLEVTVKGPGSGREAAIRALQAAGLEVTAIRDVTPVPHNGCRPPKRRRV",
+            "entity_poly_seq_one_letter_code_can": "MAAARKSNTRKRRVKKNIESGIAHIRSTFNNTIVTITDTHGNAISWSSAGALGFRGSRKSTPFAAQMAAETAAKGSIEHGLKTLEVTVKGPGSGREAAIRALQAAGLEVTAIRDVTPVPHNGCRPPKRRRV",
+            "entity_poly_seq_length": 131,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21472"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MPTINQLIRKGRVSKVENSKSPALNKGYNSFKKEHTNVSSPQKRGVCTRVGTMTPKKPNSALRKYARVRLTNGIEVTAYIPGIGHNLQEHSVVLIRGGRVKDLPGVRYHIVRGALDTAGVENRAQGRSKYGTKKPKAK",
+            "entity_poly_seq_one_letter_code_can": "MPTINQLIRKGRVSKVENSKSPALNKGYNSFKKEHTNVSSPQKRGVCTRVGTMTPKKPNSALRKYARVRLTNGIEVTAYIPGIGHNLQEHSVVLIRGGRVKDLPGVRYHIVRGALDTAGVENRAQGRSKYGTKKPKAK",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P20282"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "MARIAGVDIPRDKRVVISLTYIFGIGRTTAQQVLKEAGVSEDTRVRDLTEEELGKIRDIIDKLKVEGDLRREVSLNIKRLIEIGSYRGIRHRRGLPVRGQNSKNNARTRKGPRRTVANKKK",
+            "entity_poly_seq_one_letter_code_can": "MARIAGVDIPRDKRVVISLTYIFGIGRTTAQQVLKEAGVSEDTRVRDLTEEELGKIRDIIDKLKVEGDLRREVSLNIKRLIEIGSYRGIRHRRGLPVRGQNSKNNARTRKGPRRTVANKKK",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P12878"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "MAKKSMIAKQQRTPKFKVQEYTRCERCGRPHSVIRKFKLCRICFRELAYKGQIPGVKKASW",
+            "entity_poly_seq_one_letter_code_can": "MAKKSMIAKQQRTPKFKVQEYTRCERCGRPHSVIRKFKLCRICFRELAYKGQIPGVKKASW",
+            "entity_poly_seq_length": 61,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21473"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MAITQERKNQLINEFKTHESDTGSPEVQIAILTDSINNLNEHLRTHKKDHHSRRGLLKMVGKRRNLLTYLRNKDVTRYRELINKLGLRR",
+            "entity_poly_seq_one_letter_code_can": "MAITQERKNQLINEFKTHESDTGSPEVQIAILTDSINNLNEHLRTHKKDHHSRRGLLKMVGKRRNLLTYLRNKDVTRYRELINKLGLRR",
+            "entity_poly_seq_length": 89,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21474"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S16",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MAVKIRLKRMGAKKSPFYRIVVADSRSPRDGRFIETVGTYNPVAKPAEVKIDEELALKWLQTGAKPSDTVRNLFSSQGIMEKFHNAKQGK",
+            "entity_poly_seq_one_letter_code_can": "MAVKIRLKRMGAKKSPFYRIVVADSRSPRDGRFIETVGTYNPVAKPAEVKIDEELALKWLQTGAKPSDTVRNLFSSQGIMEKFHNAKQGK",
+            "entity_poly_seq_length": 90,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P12874"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "MSERNQRKVYQGRVVSDKMDKTITVVVETYKKHTLYGKRVKYSKKFKAHDENNQAKIGDIVKIMETRPLSATKRFRLVEVVEEAVII",
+            "entity_poly_seq_one_letter_code_can": "MSERNQRKVYQGRVVSDKMDKTITVVVETYKKHTLYGKRVKYSKKFKAHDENNQAKIGDIVKIMETRPLSATKRFRLVEVVEEAVII",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21475"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S18",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "MAGGRRGGRAKRRKVCYFTSNGITHIDYKDVDLLKKFVSERGKILPRRVTGTNAKYQRKLTAAIKRARQMALLPYVSGE",
+            "entity_poly_seq_one_letter_code_can": "MAGGRRGGRAKRRKVCYFTSNGITHIDYKDVDLLKKFVSERGKILPRRVTGTNAKYQRKLTAAIKRARQMALLPYVSGE",
+            "entity_poly_seq_length": 79,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21476"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "MARSLKKGPFVDGHLMTKIEKLNETDKKQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVFISEDMVGHKLGEFAPTRTYKGHASDDKKTRR",
+            "entity_poly_seq_one_letter_code_can": "MARSLKKGPFVDGHLMTKIEKLNETDKKQVVKTWSRRSTIFPQFIGHTIAVYDGRKHVPVFISEDMVGHKLGEFAPTRTYKGHASDDKKTRR",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "Bacterial ribosomal protein S20 interacts with 16S rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S20"
+            ],
+            "pfam_accessions": [
+                "PF01649"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P21477"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S20",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "MPNIKSAIKRTKTNNERRVHNATIKSAMRTAIKQVEASVANNEADKAKTALTEAAKRIDKAVKTGLVHKNTAARYKSRLAKKVNGLSA",
+            "entity_poly_seq_one_letter_code_can": "MPNIKSAIKRTKTNNERRVHNATIKSAMRTAIKQVEASVANNEADKAKTALTEAAKRIDKAVKTGLVHKNTAARYKSRLAKKVNGLSA",
+            "entity_poly_seq_length": 88,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "uniprot_accession": [
+                "P56849"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33 1",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "MRVNITLACTECGERNYISKKNKRNNPDRVEFKKYCPRDKKSTLHRETK",
+            "entity_poly_seq_one_letter_code_can": "MRVNITLACTECGERNYISKKNKRNNPDRVEFKKYCPRDKKSTLHRETK",
+            "entity_poly_seq_length": 49,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6HA1",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "GGUUAAGUUAGAAAGGGCGCACGGUGGAUGCCUUGGCACUAGGAGCCGAUGAAGGACGGGACGAACACCGAUAUGCUUCGGGGAGCUGUAAGCAAGCUUUGAUCCGGAGAUUUCCGAAUGGGGAAACCCACCACUCGUAAUGGAGUGGUAUCCAUAUCUGAAUUCAUAGGAUAUGAGAAGGCAGACCCGGGGAACUGAAACAUCUAAGUACCCGGAGGAAGAGAAAGCAAAUGCGAUUCCCUGAGUAGCGGCGAGCGAAACGGGAUCAGCCCAAACCAAGAGGCUUGCCUCUUGGGGUUGUAGGACACUCUGUACGGAGUUACAAAGGAACGAGGUAGAUGAAGAGGUCUGGAAAGGCCCGCCAUAGGAGGUAACAGCCCUGUAGUCAAAACUUCGUUCUCUCCUGAGUGGAUCCUGAGUACGGCGGAACACGUGAAAUUCCGUCGGAAUCCGGGAGGACCAUCUCCCAAGGCUAAAUACUCCCUAGUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGUGAAAAGCACCCCGGAAGGGGAGUGAAAGAGAUCCUGAAACCGUGUGCCUACAAGUAGUCAGAGCCCGUUAACGGGUGAUGGCGUGCCUUUUGUAGAAUGAACCGGCGAGUUACGAUCUCGUGCAAGGUUAAGCAGAAGAUGCGGAGCCGCAGCGAAAGCGAGUCUGAAUAGGGCGCAUGAGUACGUGGUCGUAGACCCGAAACCAGGUGAUCUACCCAUGUCCAGGGUGAAGUUCAGGUAACACUGAAUGGAGGCCCGAACCCACGCACGUUGAAAAGUGCGGGGAUGAGGUGUGGGUAGGGGUGAAAUGCCAAUCGAACCUGGAGAUAGCUGGUUCUCUCCGAAAUAGCUUUAGGGCUAGCCUCAAGGUAAGAGUCUUGGAGGUAGAGCACUGAUUGGACUAGGGGCCCCUACCGGGUUACCGAAUUCAGUCAAACUCCGAAUGCCAAUGACUUAUCCUUGGGAGUCAGACUGCGAGUGAUAAGAUCCGUAGUCGAAAGGGAAACAGCCCAGACCGCCAGCUAAGGUCCCAAAGUAUACGUUAAGUGGAAAAGGAUGUGGAGUUGCUUAGACAACCAGGAUGUUGGCUUAGAAGCAGCCACCAUUUAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACUCUGCGCCGAAAAUGUACCGGGGCUAAACGUAUCACCGAAGCUGCGGACUGUUCUUCGAACAGUGGUAGGAGAGCGUUCUAAGGGCUGUGAAGCCAGACCGGAAGGACUGGUGGAGCGCUUAGAAGUGAGAAUGCCGGUAUGAGUAGCGAAAGAGGGGUGAGAAUCCCCUCCACCGAAUGCCUAAGGUUUCCUGAGGAAGGCUCGUCCGCUCAGGGUUAGUCGGGACCUAAGCCGAGGCCGAAAGGCGUAGGCGAUGGACAACAGGUUGAUAUUCCUGUACCACCUCCUCACCAUUUGAGCAAUGGGGGGACGCAGGAGGAUAGGGUAAGCGCGGUAUUGGAUAUCCGCGUCCAAGCAGUUAGGCUGGGAAAUAGGCAAAUCCGUUUCCCAUAAGGCUGAGCUGUGAUGGCGAGCGAAAUAUAGUAGCGAAGUUCCUGAUUCCACACUGCCAAGAAAAGCCUCUAGCGAGGUGAGAGGUGCCCGUACCGCAAACCGACACAGGUAGGCGAGGAGAGAAUCCUAAGGUGAUCGAGAGAACUCUCGUUAAGGAACUCGGCAAAAUGACCCCGUAACUUCGGGAGAAGGGGUGCUCUGUUAGGGUGCAAGCCCGAGAGAGCCGCAGUGAAUAGGCCCAGGCGACUGUUUAGCAAAAACACAGGUCUCUGCGAAGCCGUAAGGCGAAGUAUAGGGGCUGACGCCUGCCCGGUGCUGGAAGGUUAAGAGGAGCGCUUAGCGUAAGCGAAGGUGCGAAUUGAAGCCCCAGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGCAACGAUCUGGGCACUGUCUCAACGAGAGACUCGGUGAAAUUAUAGUACCUGUGAAGAUGCAGGUUACCCGCGACAGGACGGAAAGACCCCGUGGAGCUUUACUGCAGCCUGAUAUUGAAUGUUGGUACAGCUUGUACAGGAUAGGUAGGAGCCUUGGAAACCGGAGCGCCAGCUUCGGUGGAGGCAUCGGUGGGAUACUACCCUGGCUGUAUUGACCUUCUAACCCGCCGCCCUUAUCGGGCGGGGAGACAGUGUCAGGUGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCCCAAAGGUUCCCUCAGAAUGGUUGGAAAUCAUUCGCAGAGUGUAAAGGCACAAGGGAGCUUGACUGCGAGACCUACAAGUCGAGCAGGGACGAAAGUCGGGCUUAGUGAUCCGGUGGUUCCGCAUGGAAGGGCCAUCGCUCAACGGAUAAAAGCUACCCCGGGGAUAACAGGCUUAUCUCCCCCAAGAGUCCACAUCGACGGGGAGGUUUGGCACCUCGAUGUCGGCUCAUCGCAUCCUGGGGCUGUAGUCGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGUACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCCUAUCCGUCGCGGGCGCAGGAAAUUUGAGAGGAGCUGUCCUUAGUACGAGAGGACCGGGAUGGACGCACCGCUGGUGUACCAGUUGUUCUGCCAAGGGCAUCGCUGGGUAGCUAUGUGCGGACGGGAUAAGUGCUGAAAGCAUCUAAGCAUGAAGCCCCCCUCAAGAUGAGAUUUCCCAUUCCGCAAGGAAGUAAGAUCCCUGAAAGAUGAUCAGGUUGAUAGGUCUGAGGUGGAAGUGUGGCGACACAUGGAGCUGACAGAUACUAAUCGAUCGAGGACUUAACCAU",
+            "entity_poly_seq_one_letter_code_can": "GGUUAAGUUAGAAAGGGCGCACGGUGGAUGCCUUGGCACUAGGAGCCGAUGAAGGACGGGACGAACACCGAUAUGCUUCGGGGAGCUGUAAGCAAGCUUUGAUCCGGAGAUUUCCGAAUGGGGAAACCCACCACUCGUAAUGGAGUGGUAUCCAUAUCUGAAUUCAUAGGAUAUGAGAAGGCAGACCCGGGGAACUGAAACAUCUAAGUACCCGGAGGAAGAGAAAGCAAAUGCGAUUCCCUGAGUAGCGGCGAGCGAAACGGGAUCAGCCCAAACCAAGAGGCUUGCCUCUUGGGGUUGUAGGACACUCUGUACGGAGUUACAAAGGAACGAGGUAGAUGAAGAGGUCUGGAAAGGCCCGCCAUAGGAGGUAACAGCCCUGUAGUCAAAACUUCGUUCUCUCCUGAGUGGAUCCUGAGUACGGCGGAACACGUGAAAUUCCGUCGGAAUCCGGGAGGACCAUCUCCCAAGGCUAAAUACUCCCUAGUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGUGAAAAGCACCCCGGAAGGGGAGUGAAAGAGAUCCUGAAACCGUGUGCCUACAAGUAGUCAGAGCCCGUUAACGGGUGAUGGCGUGCCUUUUGUAGAAUGAACCGGCGAGUUACGAUCUCGUGCAAGGUUAAGCAGAAGAUGCGGAGCCGCAGCGAAAGCGAGUCUGAAUAGGGCGCAUGAGUACGUGGUCGUAGACCCGAAACCAGGUGAUCUACCCAUGUCCAGGGUGAAGUUCAGGUAACACUGAAUGGAGGCCCGAACCCACGCACGUUGAAAAGUGCGGGGAUGAGGUGUGGGUAGGGGUGAAAUGCCAAUCGAACCUGGAGAUAGCUGGUUCUCUCCGAAAUAGCUUUAGGGCUAGCCUCAAGGUAAGAGUCUUGGAGGUAGAGCACUGAUUGGACUAGGGGCCCCUACCGGGUUACCGAAUUCAGUCAAACUCCGAAUGCCAAUGACUUAUCCUUGGGAGUCAGACUGCGAGUGAUAAGAUCCGUAGUCGAAAGGGAAACAGCCCAGACCGCCAGCUAAGGUCCCAAAGUAUACGUUAAGUGGAAAAGGAUGUGGAGUUGCUUAGACAACCAGGAUGUUGGCUUAGAAGCAGCCACCAUUUAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACUCUGCGCCGAAAAUGUACCGGGGCUAAACGUAUCACCGAAGCUGCGGACUGUUCUUCGAACAGUGGUAGGAGAGCGUUCUAAGGGCUGUGAAGCCAGACCGGAAGGACUGGUGGAGCGCUUAGAAGUGAGAAUGCCGGUAUGAGUAGCGAAAGAGGGGUGAGAAUCCCCUCCACCGAAUGCCUAAGGUUUCCUGAGGAAGGCUCGUCCGCUCAGGGUUAGUCGGGACCUAAGCCGAGGCCGAAAGGCGUAGGCGAUGGACAACAGGUUGAUAUUCCUGUACCACCUCCUCACCAUUUGAGCAAUGGGGGGACGCAGGAGGAUAGGGUAAGCGCGGUAUUGGAUAUCCGCGUCCAAGCAGUUAGGCUGGGAAAUAGGCAAAUCCGUUUCCCAUAAGGCUGAGCUGUGAUGGCGAGCGAAAUAUAGUAGCGAAGUUCCUGAUUCCACACUGCCAAGAAAAGCCUCUAGCGAGGUGAGAGGUGCCCGUACCGCAAACCGACACAGGUAGGCGAGGAGAGAAUCCUAAGGUGAUCGAGAGAACUCUCGUUAAGGAACUCGGCAAAAUGACCCCGUAACUUCGGGAGAAGGGGUGCUCUGUUAGGGUGCAAGCCCGAGAGAGCCGCAGUGAAUAGGCCCAGGCGACUGUUUAGCAAAAACACAGGUCUCUGCGAAGCCGUAAGGCGAAGUAUAGGGGCUGACGCCUGCCCGGUGCUGGAAGGUUAAGAGGAGCGCUUAGCGUAAGCGAAGGUGCGAAUUGAAGCCCCAGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCCGCACGAAAGGCGCAACGAUCUGGGCACUGUCUCAACGAGAGACUCGGUGAAAUUAUAGUACCUGUGAAGAUGCAGGUUACCCGCGACAGGACGGAAAGACCCCGUGGAGCUUUACUGCAGCCUGAUAUUGAAUGUUGGUACAGCUUGUACAGGAUAGGUAGGAGCCUUGGAAACCGGAGCGCCAGCUUCGGUGGAGGCAUCGGUGGGAUACUACCCUGGCUGUAUUGACCUUCUAACCCGCCGCCCUUAUCGGGCGGGGAGACAGUGUCAGGUGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCCCAAAGGUUCCCUCAGAAUGGUUGGAAAUCAUUCGCAGAGUGUAAAGGCACAAGGGAGCUUGACUGCGAGACCUACAAGUCGAGCAGGGACGAAAGUCGGGCUUAGUGAUCCGGUGGUUCCGCAUGGAAGGGCCAUCGCUCAACGGAUAAAAGCUACCCCGGGGAUAACAGGCUUAUCUCCCCCAAGAGUCCACAUCGACGGGGAGGUUUGGCACCUCGAUGUCGGCUCAUCGCAUCCUGGGGCUGUAGUCGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGUACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCCCUAUCCGUCGCGGGCGCAGGAAAUUUGAGAGGAGCUGUCCUUAGUACGAGAGGACCGGGAUGGACGCACCGCUGGUGUACCAGUUGUUCUGCCAAGGGCAUCGCUGGGUAGCUAUGUGCGGACGGGAUAAGUGCUGAAAGCAUCUAAGCAUGAAGCCCCCCUCAAGAUGAGAUUUCCCAUUCCGCAAGGAAGUAAGAUCCCUGAAAGAUGAUCAGGUUGAUAGGUCUGAGGUGGAAGUGUGGCGACACAUGGAGCUGACAGAUACUAAUCGAUCGAGGACUUAACCAU",
+            "entity_poly_seq_length": 2928,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "UGGUGGCGAUAGCGAAGAGGUCACACCCGUUCCCAUACCGAACACGGAAGUUAAGCUCUUCAGCGCCGAUGGUAGUCGGGGGUUUCCCCCUGUGAGAGUAGGACGCCGCCAA",
+            "entity_poly_seq_one_letter_code_can": "UGGUGGCGAUAGCGAAGAGGUCACACCCGUUCCCAUACCGAACACGGAAGUUAAGCUCUUCAGCGCCGAUGGUAGUCGGGGGUUUCCCCCUGUGAGAGUAGGACGCCGCCAA",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "rcsb_pdbx_description": "mRNA",
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "CUU",
+            "entity_poly_seq_one_letter_code_can": "CUU",
+            "entity_poly_seq_length": 3,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "rcsb_pdbx_description": "16S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Bacillus subtilis (strain 168)"
+            ],
+            "rcsb_source_organism_id": [
+                224308
+            ],
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "UUUAUCGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCCUAAUACAUGCAAGUCGAGCGGACAGAUGGGAGCUUGCUCCCUGAUGUUAGCGGCGGACGGGUGAGUAACACGUGGGUAACCUGCCUGUAAGACUGGGAUAACUCCGGGAAACCGGGGCUAAUACCGGAUGGUUGUUUGAACCGCAUGGUUCAAACAUAAAAGGUGGCUUCGGCUACCACUUACAGAUGGACCCGCGGCGCAUUAGCUAGUUGGUGAGGUAACGGCUCACCAAGGCGACGAUGCGUAGCCGACCUGAGAGGGUGAUCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUAGGGAAUCUUCCGCAAUGGACGAAAGUCUGACGGAGCAACGCCGCGUGAGUGAUGAAGGUUUUCGGAUCGUAAAGCUCUGUUGUUAGGGAAGAACAAGUGCCGUUCGAAUAGGGCGGUACCUUGACGGUACCUAACCAGAAAGCCACGGCUAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGUGGCAAGCGUUGUCCGGAAUUAUUGGGCGUAAAGGGCUCGCAGGCGGUUUCUUAAGUCUGAUGUGAAAGCCCCCGGCUCAACCGGGGAGGGUCAUUGGAAACUGGGGAACUUGAGUGCAGAAGAGGAGAGUGGAAUUCCACGUGUAGCGGUGAAAUGCGUAGAGAUGUGGAGGAACACCAGUGGCGAAGGCGACUCUCUGGUCUGUAACUGACGCUGAGGAGCGAAAGCGUGGGGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGAGUGCUAAGUGUUAGGGGGUUUCCGCCCCUUAGUGCUGCAGCUAACGCAUUAAGCACUCCGCCUGGGGAGUACGGUCGCAAGACUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGUCUUGACAUCCUCUGACAAUCCUAGAGAUAGGACGUCCCCUUCGGGGGCAGAGUGACAGGUGGUGCAUGGUUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGAUCUUAGUUGCCAGCAUUCAGUUGGGCACUCUAAGGUGACUGCCGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAAUCAUCAUGCCCCUUAUGACCUGGGCUACACACGUGCUACAAUGGACAGAACAAAGGGCAGCGAAACCGCGAGGUUAAGCCAAUCCCACAAAUCUGUUCUCAGUUCGGAUCGCAGUCUGCAACUCGACUGCGUGAAGCUGGAAUCGCUAGUAAUCGCGGAUCAGCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCACGAGAGUUUGUAACACCCGAAGUCGGUGAGGUAACCUUUUAGGAGCCAGCCGCCGAAGGUGGGACAGAUGAUUGGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGGAUCACCUCCUUUCUA",
+            "entity_poly_seq_one_letter_code_can": "UUUAUCGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCCUAAUACAUGCAAGUCGAGCGGACAGAUGGGAGCUUGCUCCCUGAUGUUAGCGGCGGACGGGUGAGUAACACGUGGGUAACCUGCCUGUAAGACUGGGAUAACUCCGGGAAACCGGGGCUAAUACCGGAUGGUUGUUUGAACCGCAUGGUUCAAACAUAAAAGGUGGCUUCGGCUACCACUUACAGAUGGACCCGCGGCGCAUUAGCUAGUUGGUGAGGUAACGGCUCACCAAGGCGACGAUGCGUAGCCGACCUGAGAGGGUGAUCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUAGGGAAUCUUCCGCAAUGGACGAAAGUCUGACGGAGCAACGCCGCGUGAGUGAUGAAGGUUUUCGGAUCGUAAAGCUCUGUUGUUAGGGAAGAACAAGUGCCGUUCGAAUAGGGCGGUACCUUGACGGUACCUAACCAGAAAGCCACGGCUAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGUGGCAAGCGUUGUCCGGAAUUAUUGGGCGUAAAGGGCUCGCAGGCGGUUUCUUAAGUCUGAUGUGAAAGCCCCCGGCUCAACCGGGGAGGGUCAUUGGAAACUGGGGAACUUGAGUGCAGAAGAGGAGAGUGGAAUUCCACGUGUAGCGGUGAAAUGCGUAGAGAUGUGGAGGAACACCAGUGGCGAAGGCGACUCUCUGGUCUGUAACUGACGCUGAGGAGCGAAAGCGUGGGGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGAGUGCUAAGUGUUAGGGGGUUUCCGCCCCUUAGUGCUGCAGCUAACGCAUUAAGCACUCCGCCUGGGGAGUACGGUCGCAAGACUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGUCUUGACAUCCUCUGACAAUCCUAGAGAUAGGACGUCCCCUUCGGGGGCAGAGUGACAGGUGGUGCAUGGUUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGAUCUUAGUUGCCAGCAUUCAGUUGGGCACUCUAAGGUGACUGCCGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAAUCAUCAUGCCCCUUAUGACCUGGGCUACACACGUGCUACAAUGGACAGAACAAAGGGCAGCGAAACCGCGAGGUUAAGCCAAUCCCACAAAUCUGUUCUCAGUUCGGAUCGCAGUCUGCAACUCGACUGCGUGAAGCUGGAAUCGCUAGUAAUCGCGGAUCAGCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCACGAGAGUUUGUAACACCCGAAGUCGGUGAGGUAACCUUUUAGGAGCCAGCCGCCGAAGGUGGGACAGAUGAUUGGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGGAUCACCUCCUUUCUA",
+            "entity_poly_seq_length": 1554,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6HA1",
+            "rcsb_pdbx_description": "P-tRNA",
+            "rcsb_source_organism_description": [
+                "Escherichia coli"
+            ],
+            "rcsb_source_organism_id": [
+                562
+            ],
+            "entity_poly_strand_id": "x",
+            "entity_poly_seq_one_letter_code": "GCCGAGGUGGUGGAAUUGGUAGACACGCUACCUUGAGGUGGUAGUGCCCAAUAGGGCUUACGGGUUCAAGUCCCGUCCUCGGUACCA",
+            "entity_poly_seq_one_letter_code_can": "GCCGAGGUGGUGGAAUUGGUAGACACGCUACCUUGAGGUGGUAGUGCCCAAUAGGGCUUACGGGUUCAAGUCCCGUCCUCGGUACCA",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "TELITHROMYCIN",
+            "formula_weight": 0.812,
+            "chemicalId": "TEL",
+            "chemicalName": "TELITHROMYCIN",
+            "cif_residueId": "none"
+        }
+    ]
+}

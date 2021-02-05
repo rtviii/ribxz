@@ -1,0 +1,1386 @@
+{
+    "rcsb_id": "5XY3",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.2,
+    "rcsb_external_ref_id": [
+        "EMD-6784"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-6784"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.2,
+    "cryoem_exp_num_particles": 57162,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2017,
+    "citation_rcsb_authors": [
+        "Li, Z.",
+        "Guo, Q.",
+        "Zheng, L.",
+        "Ji, Y.",
+        "Xie, Y.T.",
+        "Lai, D.H.",
+        "Lun, Z.R.",
+        "Suo, X.",
+        "Gao, N."
+    ],
+    "citation_title": "Cryo-EM structures of the 80S ribosomes from human parasites Trichomonas vaginalis and Toxoplasma gondii",
+    "citation_pdbx_doi": "10.1038/cr.2017.104",
+    "pdbx_keywords_text": "Trichomonas vaginalis ribosome, rRNA, rprotein, RIBOSOME",
+    "_organismId": [
+        5722
+    ],
+    "_organismName": [
+        "Trichomonas vaginalis"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2ET60"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L7Ae, putative",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MAPKATRSAPEKVIEDKDIIRQEHLFAEETAEKVADKTTQTRFPKYVQLQRQKRILMKRLKVPPPVNHFNHTLGKDAAVALFKFLEKYRPETKTEKKQRNKDDAEKAKKDLKVAGSGNKKALVQGVKNVTAAIESKKAQLVIIAHDVDPIELVIWMPALCRNLEIPYCIVKSKSRLGQIVGMKTCSCVALAEVKPEDRAAFTKIVDSVNSGFLAHYKEEMHQWGGGELSEKTIEKLKAQGKYKE",
+            "entity_poly_seq_one_letter_code_can": "MAPKATRSAPEKVIEDKDIIRQEHLFAEETAEKVADKTTQTRFPKYVQLQRQKRILMKRLKVPPPVNHFNHTLGKDAAVALFKFLEKYRPETKTEKKQRNKDDAEKAKKDLKVAGSGNKKALVQGVKNVTAAIESKKAQLVIIAHDVDPIELVIWMPALCRNLEIPYCIVKSKSRLGQIVGMKTCSCVALAEVKPEDRAAFTKIVDSVNSGFLAHYKEEMHQWGGGELSEKTIEKLKAQGKYKE",
+            "entity_poly_seq_length": 244,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DDT1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L6, putative",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MPRPVLHQEHFKIPENIKCTVKSGVVTIEHQDPKDKKTTKLVKDLSHLKLDFEYDEKDHQIVARCWFGNRKLLARIGTLFGIVKNMITGVTLGWRYKMHFVYSHFPIKHTCSEDGRTFDFNGFMGHKEHKIVTAPEGVRIWSNESVAKDEINIEGANLEDVSLVCGQIHQLTKIKDKDLRKFLDGIYVQHIEHLKEE",
+            "entity_poly_seq_one_letter_code_can": "MPRPVLHQEHFKIPENIKCTVKSGVVTIEHQDPKDKKTTKLVKDLSHLKLDFEYDEKDHQIVARCWFGNRKLLARIGTLFGIVKNMITGVTLGWRYKMHFVYSHFPIKHTCSEDGRTFDFNGFMGHKEHKIVTAPEGVRIWSNESVAKDEINIEGANLEDVSLVCGQIHQLTKIKDKDLRKFLDGIYVQHIEHLKEE",
+            "entity_poly_seq_length": 197,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2FVZ6"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein, putative",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MGRRPARCYRYIGNKPYPKSRFCRGVPDPRIIRYETGTKTAHAKELPICCRLILLEHECVSSEALEAARVSSNRYMMKTMGKDGYHIKINLHPFHVLRINKMLSTAGADRLQTGMRHAFGKPEGLVARANYNSQIMTIRTTSAGLKHALEALRRASFKFPGHSRVVISNKVGFTPYTFEQFKELQANGQIVDCGNHVKRVYRRGPIPTH",
+            "entity_poly_seq_one_letter_code_can": "MGRRPARCYRYIGNKPYPKSRFCRGVPDPRIIRYETGTKTAHAKELPICCRLILLEHECVSSEALEAARVSSNRYMMKTMGKDGYHIKINLHPFHVLRINKMLSTAGADRLQTGMRHAFGKPEGLVARANYNSQIMTIRTTSAGLKHALEALRRASFKFPGHSRVVISNKVGFTPYTFEQFKELQANGQIVDCGNHVKRVYRRGPIPTH",
+            "entity_poly_seq_length": 209,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2E7L8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L11, putative",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MSNKLNEIRVAKLCININPGAVGDQVTRASRVIEQLTKQQAMLARSHRTIPKFGIRRNDKIAAYATIRGPKALEILNRALQVHDYEISGRCFSIEGNFGFGIKEHIDLGLKYDRDIGIHGMDLYVVLERPGNRISRRKHCQSRIGPNQRVKREEAKEWFVQKFNGTLLK",
+            "entity_poly_seq_one_letter_code_can": "MSNKLNEIRVAKLCININPGAVGDQVTRASRVIEQLTKQQAMLARSHRTIPKFGIRRNDKIAAYATIRGPKALEILNRALQVHDYEISGRCFSIEGNFGFGIKEHIDLGLKYDRDIGIHGMDLYVVLERPGNRISRRKHCQSRIGPNQRVKREEAKEWFVQKFNGTLLK",
+            "entity_poly_seq_length": 169,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13e"
+            ],
+            "pfam_accessions": [
+                "PF01294"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2G4E1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L13e, putative",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MVAKNNQIPNDHLRKYWYHRVKTFFDDPARAQRRRNARNLRAKKIAPRPAEGPLRPIVRCPTVRYNMKTRLGRGFTPKELVAAGFDPALARFQGIAVDARRAHSKDAMVKQNVERLQAYKARLIKVKKGETVEQVNDAALFALPKAQNEIKFRVIKAEEAKKDLFKEKTDKLKAFREAKKEKAAAKHKK",
+            "entity_poly_seq_one_letter_code_can": "MVAKNNQIPNDHLRKYWYHRVKTFFDDPARAQRRRNARNLRAKKIAPRPAEGPLRPIVRCPTVRYNMKTRLGRGFTPKELVAAGFDPALARFQGIAVDARRAHSKDAMVKQNVERLQAYKARLIKVKKGETVEQVNDAALFALPKAQNEIKFRVIKAEEAKKDLFKEKTDKLKAFREAKKEKAAAKHKK",
+            "entity_poly_seq_length": 189,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes the eukaryotic ribosomal protein L14."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14"
+            ],
+            "pfam_accessions": [
+                "PF01929"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DZ49"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L14, putative",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MPFKQFVEIGRVALINFGELVDKLAIIVDIVDDKRVLIDVLEFDAPRQTIPIQRLKLTDYVAKIQRNAAPEAAKAAAKDFIKQFYESAWGKQVIARKNKAQMNDFQRFKYAQLEAKRDALVAKELNNH",
+            "entity_poly_seq_one_letter_code_can": "MPFKQFVEIGRVALINFGELVDKLAIIVDIVDDKRVLIDVLEFDAPRQTIPIQRLKLTDYVAKIQRNAAPEAAKAAAKDFIKQFYESAWGKQVIARKNKAQMNDFQRFKYAQLEAKRDALVAKELNNH",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L15"
+            ],
+            "pfam_accessions": [
+                "PF00827"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2ECR7"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L15",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MGAFTYLRELYTKKQSEVMRFILRLRCWEYRQLPELVRLTHPSRPDKARRMGYKAKQGMVVYRIRVRKGSRRRVASKNRQYGKPRTHHIYKLTPSLNLQAIAEQKAGKQLPSLRLLNSYWVNQDGAFKYFECIFVDPVHPAIQHDAKLNWICDSVHTRREARGLTAAGRKHRGLSGVGHGFRHLRPSRYADWKVRNVFKLRRWR",
+            "entity_poly_seq_one_letter_code_can": "MGAFTYLRELYTKKQSEVMRFILRLRCWEYRQLPELVRLTHPSRPDKARRMGYKAKQGMVVYRIRVRKGSRRRVASKNRQYGKPRTHHIYKLTPSLNLQAIAEQKAGKQLPSLRLLNSYWVNQDGAFKYFECIFVDPVHPAIQHDAKLNWICDSVHTRREARGLTAAGRKHRGLSGVGHGFRHLRPSRYADWKVRNVFKLRRWR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DZ26"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L13, putative",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MSAPIVIDAKGHIQGRLAAAVAKQLLKGRKVVVVRCEEIELNGQHKFTVHTYERFLNKTTNSNPRDGPFHQRAPHEIFARAVRGMIPYKTHRGADAFANLQCYEGIPAKYVSYKRLVIPHALRCVSIHTDRPTTKLGRLSTTMGWKYGNVVAQLEEQRKAESAKYFEAKKAAQDKRAAAIEKVNKQLGAQAVKFLETFQE",
+            "entity_poly_seq_one_letter_code_can": "MSAPIVIDAKGHIQGRLAAAVAKQLLKGRKVVVVRCEEIELNGQHKFTVHTYERFLNKTTNSNPRDGPFHQRAPHEIFARAVRGMIPYKTHRGADAFANLQCYEGIPAKYVSYKRLVIPHALRCVSIHTDRPTTKLGRLSTTMGWKYGNVVAQLEEQRKAESAKYFEAKKAAQDKRAAAIEKVNKQLGAQAVKFLETFQE",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DM53"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L22, putative",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MSTHYTFSNVEESKALKASTGLERVHFKPMMETGRVIKGMKAQDAIAYLEAVMRKERAVPFFRYKGGISHHAQGHEWGCPTSRWPVKCAELYIKLIKTALAGAPQKPGVNVDEVLVAHVQCNRATQYRWRRIHQAHGRVKSYASPPTNVQIVLAEKAAIKERSQ",
+            "entity_poly_seq_one_letter_code_can": "MSTHYTFSNVEESKALKASTGLERVHFKPMMETGRVIKGMKAQDAIAYLEAVMRKERAVPFFRYKGGISHHAQGHEWGCPTSRWPVKCAELYIKLIKTALAGAPQKPGVNVDEVLVAHVQCNRATQYRWRRIHQAHGRVKSYASPPTNVQIVLAEKAAIKERSQ",
+            "entity_poly_seq_length": 164,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This is a family of ribosomal proteins, 60S L18 from eukaryotes and 50S L18e from Archaea."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein 60S L18 and 50S L18e"
+            ],
+            "pfam_accessions": [
+                "PF17135"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2D7Q5"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L18, putative",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MGVDLDHRVPRKQRQEPKTADAQMKMLHNLYAFLARRTGNDFNAKIAHRLCISRTNRRPYSLSRLATALNGKEAETIAVLVAKITNDERLLEVPKMKVCALKFTETARARILAAGGECITFDQLAQLRPTGDKCLLLEGDRTRRLVNKHFGAAPGDDNSKTRPKVASHGRKFEMARGRRKSRWYHA",
+            "entity_poly_seq_one_letter_code_can": "MGVDLDHRVPRKQRQEPKTADAQMKMLHNLYAFLARRTGNDFNAKIAHRLCISRTNRRPYSLSRLATALNGKEAETIAVLVAKITNDERLLEVPKMKVCALKFTETARARILAAGGECITFDQLAQLRPTGDKCLLLEGDRTRRLVNKHFGAAPGDDNSKTRPKVASHGRKFEMARGRRKSRWYHA",
+            "entity_poly_seq_length": 186,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19e"
+            ],
+            "pfam_accessions": [
+                "PF01280"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2D8G1"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L19-3, putative",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MSSLKLQKRLAASVLDCGVRRVWMDDSEVSTIAMANSRQQIRKLINDGIIVKRPVKVHSGARHTKRILAKRLGRHTGYGKRRGGRNARLTGKFQWIRRIRVLRKVLVDYRKRNEIDCHLYRKLYLKAKGNEFRNRRNLVEHIQTLKAENLREKTLQSQIDARRARSRRVRERKNGVSQ",
+            "entity_poly_seq_one_letter_code_can": "MSSLKLQKRLAASVLDCGVRRVWMDDSEVSTIAMANSRQQIRKLINDGIIVKRPVKVHSGARHTKRILAKRLGRHTGYGKRRGGRNARLTGKFQWIRRIRVLRKVLVDYRKRNEIDCHLYRKLYLKAKGNEFRNRRNLVEHIQTLKAENLREKTLQSQIDARRARSRRVRERKNGVSQ",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes: archaeal 50S ribosomal protein L18Ae, often referred to as L20e or LX; fungal 60S ribosomal protein L20; and higher eukaryote 60S ribosomal protein L18A."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A"
+            ],
+            "pfam_accessions": [
+                "PF01775"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2EP03"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L18a",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MSLKQYLVIGRPYPTKEIPNPPAVRVQVFAPDEVIAKSKFWTVAQRIARLKKAHGEVLAVKHVIEPEPTRVKNYGVWLSYRSTRNHHNVYKEYRDTTTEGAATKMLAELAGTHDVSADNISIIKIAEVADKDLVHKNISQFTHENIKFPMLKQSIRAPTASARKVFAATRPTVCGF",
+            "entity_poly_seq_one_letter_code_can": "MSLKQYLVIGRPYPTKEIPNPPAVRVQVFAPDEVIAKSKFWTVAQRIARLKKAHGEVLAVKHVIEPEPTRVKNYGVWLSYRSTRNHHNVYKEYRDTTTEGAATKMLAELAGTHDVSADNISIIKIAEVADKDLVHKNISQFTHENIKFPMLKQSIRAPTASARKVFAATRPTVCGF",
+            "entity_poly_seq_length": 176,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L21e"
+            ],
+            "pfam_accessions": [
+                "PF01157"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2F2S5"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L21e, putative",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MGHTEGLRHATRYLFARKFRKHGAPAPSITLRTFRIGDIVDIKVNGALHSGMPNRVYHGATGIVWNVSPHAVGILVKRRVNNHIAPKRIYVRTEHVFPSKSKNDFVARCQANLKAHEEAKKAGTKIALPKRLPAQPRASHVVKPELIQTITDAPFRENW",
+            "entity_poly_seq_one_letter_code_can": "MGHTEGLRHATRYLFARKFRKHGAPAPSITLRTFRIGDIVDIKVNGALHSGMPNRVYHGATGIVWNVSPHAVGILVKRRVNNHIAPKRIYVRTEHVFPSKSKNDFVARCQANLKAHEEAKKAGTKIALPKRLPAQPRASHVVKPELIQTITDAPFRENW",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L22e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01776"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DNV5"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L22-1, putative",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MASSVFYVDCSAPVADKFFQLQEFVEYLQSHMKVDNLRKNLANKVTIEADAGANKIVVNASVKYSKRAVRYYARKFLAKKDIRSRFHVIASGKDTYELRPYRVSNE",
+            "entity_poly_seq_one_letter_code_can": "MASSVFYVDCSAPVADKFFQLQEFVEYLQSHMKVDNLRKNLANKVTIEADAGANKIVVNASVKYSKRAVRYYARKFLAKKDIRSRFHVIASGKDTYELRPYRVSNE",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DP51"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L23, putative",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MSKRGRTGQQGTKFAMTAGLPVGAVINCCDNSGAKNMFIISVRGHKGRLNRLPAASVSDLIVVTCKKGKPALRKKVSMGVVVRQRAIWRRKDGVVIGFQDNAGVIINDKGEMKGSAITGPVAKEAAELWPKVASVAPAVF",
+            "entity_poly_seq_one_letter_code_can": "MSKRGRTGQQGTKFAMTAGLPVGAVINCCDNSGAKNMFIISVRGHKGRLNRLPAASVSDLIVVTCKKGKPALRKKVSMGVVVRQRAIWRRKDGVVIGFQDNAGVIINDKGEMKGSAITGPVAKEAAELWPKVASVAPAVF",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L24e"
+            ],
+            "pfam_accessions": [
+                "PF01246"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DJQ1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L24e, putative",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MSTKTEICGFSGHIFHAGHGRVHIREDKHLMAFESRKAFRMWERKRNPRKIAWTEHYRHDHKKSVADTAATEKRAQRKKATRTYAGVAMEGNQHQMVQIVKKRVARKPVAKKN",
+            "entity_poly_seq_one_letter_code_can": "MSTKTEICGFSGHIFHAGHGRVHIREDKHLMAFESRKAFRMWERKRNPRKIAWTEHYRHDHKKSVADTAATEKRAQRKKATRTYAGVAMEGNQHQMVQIVKKRVARKPVAKKN",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DUV8"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L23, putative",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MSGKAQAAAQTLAQGQKKEVTKTRNFTKFGKNAAQVVPRRPAFEHKAVKPVSLKHNDYKIIRGPVTSDKSTVKIENENTMTFWVDIKATKTEIAAAFNRLYKVKPVKVCTVITSKFVKKAYIRLPANVEAMNIATEIGFA",
+            "entity_poly_seq_one_letter_code_can": "MSGKAQAAAQTLAQGQKKEVTKTRNFTKFGKNAAQVVPRRPAFEHKAVKPVSLKHNDYKIIRGPVTSDKSTVKIENENTMTFWVDIKATKTEIAAAFNRLYKVKPVKVCTVITSKFVKKAYIRLPANVEAMNIATEIGFA",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "Ribosomal_L26 is a family of the 50S and the 60S ribosomal proteins from eukaryotes - L26 - and archaea - L25."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins L26 eukaryotic, L24P archaeal"
+            ],
+            "pfam_accessions": [
+                "PF16906"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DKF2"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L24, putative",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MVKTNPFVSSQARKVRKSYFNAKKDAKHVAMSAPLSKELQEANGIKRLPIRRDDEVMIFSGRMQNRTGKVTAVKLSEMRIYVDTFTTEKINGQAVSFPVHPSNVVITKLKMDKARKNLIELRRLGRDQILAKLGHKKQ",
+            "entity_poly_seq_one_letter_code_can": "MVKTNPFVSSQARKVRKSYFNAKKDAKHVAMSAPLSKELQEANGIKRLPIRRDDEVMIFSGRMQNRTGKVTAVKLSEMRIYVDTFTTEKINGQAVSFPVHPSNVVITKLKMDKARKNLIELRRLGRDQILAKLGHKKQ",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "The N-terminal region of the eukaryotic ribosomal L27 has the KOW motif.  C-terminal region is represented by this family."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01777"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DNC1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L27e, putative",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MSLLQAGRFVVMLQGRHAGKKAVVLAAYPEGTEDRKFPYAIVMGIEKYPKKVTKDMPTEVLVKKTQVKLFVKAVNFNHVMLTRHNVKDEDFFKKISVEKVVAALKDAPAKKALLTEYAAVLRQKYLNNKMAWFFKPLQF",
+            "entity_poly_seq_one_letter_code_can": "MSLLQAGRFVVMLQGRHAGKKAVVLAAYPEGTEDRKFPYAIVMGIEKYPKKVTKDMPTEVLVKKTQVKLFVKAVNFNHVMLTRHNVKDEDFFKKISVEKVVAALKDAPAKKALLTEYAAVLRQKYLNNKMAWFFKPLQF",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DHU7"
+            ],
+            "rcsb_pdbx_description": "Uncharacterized protein",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MPTRFHKSRKLRGQVSMGFGRVGKHRVSPGGHGRAGGQHHQRTWFDRFHPGYFGKVGMRHLHLMKNRADEYEPTINVDKLWTLVPEEVRVKAAAAKKGDAVPVIDCVQNGFFKVLARGELPKIPFVVRAKDFSEEAEKKIKAAGGVCEKVQ",
+            "entity_poly_seq_one_letter_code_can": "MPTRFHKSRKLRGQVSMGFGRVGKHRVSPGGHGRAGGQHHQRTWFDRFHPGYFGKVGMRHLHLMKNRADEYEPTINVDKLWTLVPEEVRVKAAAAKKGDAVPVIDCVQNGFFKVLARGELPKIPFVVRAKDFSEEAEKKIKAAGGVCEKVQ",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01779"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DM33"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L29",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MAKRSNTSAHNRSHQHHRNGIHKCVVKKLWFEKGMNAKFLRNARYAKAGQNKSEEEDE",
+            "entity_poly_seq_one_letter_code_can": "MAKRSNTSAHNRSHQHHRNGIHKCVVKKLWFEKGMNAKFLRNARYAKAGQNKSEEEDE",
+            "entity_poly_seq_length": 58,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2E6Z9"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L30, putative",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MGRKKLSRARESIINSLSLVTKSGKYQLGIDKTLQSLRNGEAKLVIFASNVAPAHRSLIEYYAMLSGCDILPFDGDNVDLGTACGKYFRSSVISIIDAGESEILKMIKQKDE",
+            "entity_poly_seq_one_letter_code_can": "MGRKKLSRARESIINSLSLVTKSGKYQLGIDKTLQSLRNGEAKLVIFASNVAPAHRSLIEYYAMLSGCDILPFDGDNVDLGTACGKYFRSSVISIIDAGESEILKMIKQKDE",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31e"
+            ],
+            "pfam_accessions": [
+                "PF01198"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2D9N8"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L31e, putative",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MPKELAPAKIETTIHLQKAVHGTTRRFRAERAIKVIAAAAKKMMHTDVVKIDPELNSRIWIHGKNCPPTRVRVTFERKADEEDAEKMITIASFKNVASFNGLQTTKVVDQ",
+            "entity_poly_seq_one_letter_code_can": "MPKELAPAKIETTIHLQKAVHGTTRRFRAERAIKVIAAAAKKMMHTDVVKIDPELNSRIWIHGKNCPPTRVRVTFERKADEEDAEKMITIASFKNVASFNGLQTTKVVDQ",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes ribosomal protein L32 from eukaryotes and archaebacteria."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L32"
+            ],
+            "pfam_accessions": [
+                "PF01655"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2F2J0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L32, putative",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MVNPAEHKPIIHKKTNRFHRPQSDLWNRVPSAWRHPRGIDSRFRRKYRGTPLHPSAGFGSDKETRFMLPNGFIPVIVRSLKDLDMLLTKNTTHGAMISAQVGAKLQQEIIKKAQELNIEILNQARKHVAQEQ",
+            "entity_poly_seq_one_letter_code_can": "MVNPAEHKPIIHKKTNRFHRPQSDLWNRVPSAWRHPRGIDSRFRRKYRGTPLHPSAGFGSDKETRFMLPNGFIPVIVRSLKDLDMLLTKNTTHGAMISAQVGAKLQQEIIKKAQELNIEILNQARKHVAQEQ",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35Ae"
+            ],
+            "pfam_accessions": [
+                "PF01247"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DSF3"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L35Ae, putative",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MSEQVKLFVPATFVSFRRSKRIIKPNQALLEIQGVVSKEEAQFYAGKKVASVWKFDKQEFINWGVITQPHGNSGVVRAKFEKNLPPQMLGKQVRVMLYPSTI",
+            "entity_poly_seq_one_letter_code_can": "MSEQVKLFVPATFVSFRRSKRIIKPNQALLEIQGVVSKEEAQFYAGKKVASVWKFDKQEFINWGVITQPHGNSGVVRAKFEKNLPPQMLGKQVRVMLYPSTI",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34e"
+            ],
+            "pfam_accessions": [
+                "PF01199"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2FWA1"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L34e, putative",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MVDNRYTLRRSLGFHTIRNRVAPVRTPGNKLVAHYIAKRQNGPHCAETGKRINGIKCVKTCELRRMKKNQRTVSRPYGGVYCGSVVKDRIINAFMEEEARAAQERKMANEQKKKGK",
+            "entity_poly_seq_one_letter_code_can": "MVDNRYTLRRSLGFHTIRNRVAPVRTPGNKLVAHYIAKRQNGPHCAETGKRINGIKCVKTCELRRMKKNQRTVSRPYGGVYCGSVVKDRIINAFMEEEARAAQERKMANEQKKKGK",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2E6R2"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L29, putative",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MGHLKGKELIKKTRQELLDELAGLEKKLFELKGQKAASAAATKLTEIKNTRRDVARVKSILMVSQRKALQEKYAKAKLVPIDLRKHQEKSLRNKLAPKYANKLTAQESRRHKCLFERKFALKAQ",
+            "entity_poly_seq_one_letter_code_can": "MGHLKGKELIKKTRQELLDELAGLEKKLFELKGQKAASAAATKLTEIKNTRRDVARVKSILMVSQRKALQEKYAKAKLVPIDLRKHQEKSLRNKLAPKYANKLTAQESRRHKCLFERKFALKAQ",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36e"
+            ],
+            "pfam_accessions": [
+                "PF01158"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2EXW7"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L36e, putative",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MSEEQQKVLAPKRECGLHSSGKRVNFARKIVHELVGWQPYERHTMDLIKIERRRAARQFLKKRLGTHRRAMKKLNTLEEVVQEESLHHHHE",
+            "entity_poly_seq_one_letter_code_can": "MSEEQQKVLAPKRECGLHSSGKRVNFARKIVHELVGWQPYERHTMDLIKIERRRAARQFLKKRLGTHRRAMKKLNTLEEVVQEESLHHHHE",
+            "entity_poly_seq_length": 91,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family includes ribosomal protein L37 from eukaryotes and archaebacteria. The family contains many conserved cysteines and histidines suggesting that this protein may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L37e"
+            ],
+            "pfam_accessions": [
+                "PF01907"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2F8Y8"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L37",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MGAGTPSFGPRHNKTHTICRRCGNRCFHIQKSKCAKCGYPDATMRHYDWEKKAHRKRAQGSGEMRHLKVTFAKLQRAYAPK",
+            "entity_poly_seq_one_letter_code_can": "MGAGTPSFGPRHNKTHTICRRCGNRCFHIQKSKCAKCGYPDATMRHYDWEKKAHRKRAQGSGEMRHLKVTFAKLQRAYAPK",
+            "entity_poly_seq_length": 81,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL37"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L38e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01781"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2FFH9"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L38e, putative",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MPKQVTTPKEFLALAARSDAKWVKVKKASDDNTKFKLRTTKYLYTLSVKPKFVELVQNSIPESLEVIVLDKKAE",
+            "entity_poly_seq_one_letter_code_can": "MPKQVTTPKEFLALAARSDAKWVKVKKASDDNTKFKLRTTKYLYTLSVKPKFVELVQNSIPESLEVIVLDKKAE",
+            "entity_poly_seq_length": 74,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL38"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2E6Z8"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L8, putative",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "MGHIVRAQRRGNGSVFQAHTHHRVGPAKFRALDAAERTSVISGMVKEIIHDPGRGAPLAKLIYKKAEGQGFDSALVIAPEGIHTGQFIKCGAQADLHIGNILPLAQIPEGTEICNVEHRPGDGGRYGRCSGDSCRVIGHTENYTRIQLPSGRKALVSNICRATLGIVAGGGRPEKPLLKAGNVHYKYKAKRHTWPVVCGIKMNPVDHRHGGGSHQHMGAPGTVARSARPGQKLGLIASRRTGRRRGTVNLA",
+            "entity_poly_seq_one_letter_code_can": "MGHIVRAQRRGNGSVFQAHTHHRVGPAKFRALDAAERTSVISGMVKEIIHDPGRGAPLAKLIYKKAEGQGFDSALVIAPEGIHTGQFIKCGAQADLHIGNILPLAQIPEGTEICNVEHRPGDGGRYGRCSGDSCRVIGHTENYTRIQLPSGRKALVSNICRATLGIVAGGGRPEKPLLKAGNVHYKYKAKRHTWPVVCGIKMNPVDHRHGGGSHQHMGAPGTVARSARPGQKLGLIASRRTGRRRGTVNLA",
+            "entity_poly_seq_length": 251,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L39 protein"
+            ],
+            "pfam_accessions": [
+                "PF00832"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2D9N4"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L39, putative",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MAAHKTLRTKRILCKAMKVNRPMPQFIRQMTGVRHIRNPLTRHWRRRKMNI",
+            "entity_poly_seq_one_letter_code_can": "MAAHKTLRTKRILCKAMKVNRPMPQFIRQMTGVRHIRNPLTRHWRRRKMNI",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL39"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "Bovine L40 has been identified as a secondary RNA binding protein [1]. L40 is fused to a ubiquitin protein [2].",
+                "This family contains a number of ubiquitin-like proteins: SUMO (smt3 homologue) (see Swiss:Q02724), Nedd8 (see Swiss:P29595), Elongin B (see Swiss:Q15370), Rub1 (see Swiss:Q9SHE7), and Parkin (see Swiss:O60260). A number of them are thought to carry a distinctive five-residue motif termed the proteasome-interacting motif (PIM), which may have a biologically significant role in protein delivery to proteasomes and recruitment of proteasomes to transcription sites [5]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L40e family",
+                "Ubiquitin family"
+            ],
+            "pfam_accessions": [
+                "PF01020",
+                "PF00240"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DGL5"
+            ],
+            "rcsb_pdbx_description": "Ubiquitin, putative",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKHITLEVEPTDRIEDVKAKIQDKEGIPPDQQRLIFAGKQLEDGNTLQDYSIQKDSTLHLVLRLRGGGKEAYEPSLRILAEKTNVKRSVCRKCYARLSERAQQCRHKQCGHCKSIRPKKAGKE",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKHITLEVEPTDRIEDVKAKIQDKEGIPPDQQRLIFAGKQLEDGNTLQDYSIQKDSTLHLVLRLRGGGKEAYEPSLRILAEKTNVKRSVCRKCYARLSERAQQCRHKQCGHCKSIRPKKAGKE",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL40"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L44"
+            ],
+            "pfam_accessions": [
+                "PF00935"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DAI6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L44, putative",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MVHHPKTKKFFCKFCKKHTMCKVSQASRGEERHSALGRRRYDRKQKGFGGRVKPILRRSKKTSKKISLRFTCQSCKKATMYCLGRLRKFEWTVEKKKKHAEPTW",
+            "entity_poly_seq_one_letter_code_can": "MVHHPKTKKFFCKFCKKHTMCKVSQASRGEERHSALGRRRYDRKQKGFGGRVKPILRRSKKTSKKISLRFTCQSCKKATMYCLGRLRKFEWTVEKKKKHAEPTW",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL42"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This ribosomal protein is found in archaebacteria and eukaryotes. It contains four conserved cysteine residues that may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L37ae protein family"
+            ],
+            "pfam_accessions": [
+                "PF01780"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DEM7"
+            ],
+            "rcsb_pdbx_description": "Uncharacterized protein",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MARRTKKVGICGKYGVRYGASLRKTIKKIEISQRKKYPCAFCGKDSVKRNAVGIWTCTKCGKAVAGGAYTPTTPAALTARAAYKRIREAQAK",
+            "entity_poly_seq_one_letter_code_can": "MARRTKKVGICGKYGVRYGASLRKTIKKIEISQRKKYPCAFCGKDSVKRNAVGIWTCTKCGKAVAGGAYTPTTPAALTARAAYKRIREAQAK",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL43"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DD62"
+            ],
+            "rcsb_pdbx_description": "Uncharacterized protein",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MSHRKFNAPRRGSLGFLPRGRSHAVRGRVRSWPKDDASQKPHLCAFIGYKAGMTHVLRDVVRPNSRLHKKEACEPVTILETPPMFVVGIIGYKPTVEGLKPVTTVWASYVNEEVKRNYYKNWYQSKARKAFSCLSNGKAAEKREKQLEELQKEATVIRVIAHTQSAKTTTRGVDANEQGAKKVLKGNHLGQKKAHMIEIQINGGDVAAKLNYAKSILEKEIKVADVFTEGEQIDTIGVGKGFGWEGVIHRYGTKRLQKKTHRGRRKVACIGPWNPARVLWSVARYGQRGCHHRTEMNKRIYRIGAAEVEGKINEGGSTSFDLTKKSINPMGGFPHYGLVKDDFLMIKGSVVGTVKRAITLRKTININTRRIATEEINLKWIDTASKFGHGRFQTKEERSKFLGKLKISKKNETQQ",
+            "entity_poly_seq_one_letter_code_can": "MSHRKFNAPRRGSLGFLPRGRSHAVRGRVRSWPKDDASQKPHLCAFIGYKAGMTHVLRDVVRPNSRLHKKEACEPVTILETPPMFVVGIIGYKPTVEGLKPVTTVWASYVNEEVKRNYYKNWYQSKARKAFSCLSNGKAAEKREKQLEELQKEATVIRVIAHTQSAKTTTRGVDANEQGAKKVLKGNHLGQKKAHMIEIQINGGDVAAKLNYAKSILEKEIKVADVFTEGEQIDTIGVGKGFGWEGVIHRYGTKRLQKKTHRGRRKVACIGPWNPARVLWSVARYGQRGCHHRTEMNKRIYRIGAAEVEGKINEGGSTSFDLTKKSINPMGGFPHYGLVKDDFLMIKGSVVGTVKRAITLRKTININTRRIATEEINLKWIDTASKFGHGRFQTKEERSKFLGKLKISKKNETQQ",
+            "entity_poly_seq_length": 415,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family is found at the very C-terminal of 60 ribosomal L4 proteins.",
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "60S ribosomal protein L4 C-terminal domain",
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF14374",
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2E4D0"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein, putative",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MSRQTVNVLAQDGQKASTIELPKVFDTPIRAEVVKEVYVNLAKNAQQPHANDPMAGKKVSAISWGTGRAKACVPRVNGSGSNRNGQGAYANFCRGGHRFNPPTLLRRWFRPVPSRQRKFAIASAIAATAVVPLVQARGHVLGEVKEVPIVVVDAVQEIKRTRDAVELLKKVGVYGDVQRVLDGSVHRSSKGKFRRAAYKTKKGPLVIYNEDKGIVKAFRNIPGVETISVKALALAKLAPAAQVGRLTVWTESAFKALDGIYESKKRFSLPRSIMTNADIEAVITSDAVQSVLNEKKEVVPLPKCRCCKKLSVGACEDWQKALKEVAELRAAQEAKRTSPEVVKAVFAEAVAAQPATPDNMSTQIINHIPL",
+            "entity_poly_seq_one_letter_code_can": "MSRQTVNVLAQDGQKASTIELPKVFDTPIRAEVVKEVYVNLAKNAQQPHANDPMAGKKVSAISWGTGRAKACVPRVNGSGSNRNGQGAYANFCRGGHRFNPPTLLRRWFRPVPSRQRKFAIASAIAATAVVPLVQARGHVLGEVKEVPIVVVDAVQEIKRTRDAVELLKKVGVYGDVQRVLDGSVHRSSKGKFRRAAYKTKKGPLVIYNEDKGIVKAFRNIPGVETISVKALALAKLAPAAQVGRLTVWTESAFKALDGIYESKKRFSLPRSIMTNADIEAVITSDAVQSVLNEKKEVVPLPKCRCCKKLSVGACEDWQKALKEVAELRAAQEAKRTSPEVVKAVFAEAVAAQPATPDNMSTQIINHIPL",
+            "entity_poly_seq_length": 370,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This family contains the large 60S ribosomal L5 proteins from Eukaryota and the 50S L18 proteins from Archaea. It has been shown that the amino terminal 93 amino acids of Swiss:P09895 are necessary and sufficient to bind 5S rRNA in vitro [1], suggesting that the entire family has a function in rRNA binding [2,3,4,5].",
+                "This domain is the C-terminal end of ribosomal L18/L5 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal large subunit proteins 60S L5, and 50S L18",
+                "Ribosomal L18 C-terminal region"
+            ],
+            "pfam_accessions": [
+                "PF17144",
+                "PF14204"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2DNM5"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L5",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MSAKLVKNAGYFSRFQTKFRRRREAKTDYVQRTQLIQQDKTKYGAAKYRLVARITNTKVIAQIVVAELTGDKTVCQALSTELPKYGIKLGLSNYPAAYATGLLVARRFLTQMKLADVFKTEITEEYLNDEENRRPFKVILDVGLARTTTGAKVFAVMKGAVDGGLFIPHNVCRLACKFDKKDKDAGKDRKDVPADKIVKGNQYYILGGAVADYMRKLKKESEEKYNKQFSRYVKAGITADNLEKIYKDAHAAIRKNPAATVIADKKKHAEEMKQKHAPKKPQTKKLSFEEKRKILNEHLVAAGLPPRK",
+            "entity_poly_seq_one_letter_code_can": "MSAKLVKNAGYFSRFQTKFRRRREAKTDYVQRTQLIQQDKTKYGAAKYRLVARITNTKVIAQIVVAELTGDKTVCQALSTELPKYGIKLGLSNYPAAYATGLLVARRFLTQMKLADVFKTEITEEYLNDEENRRPFKVILDVGLARTTTGAKVFAVMKGAVDGGLFIPHNVCRLACKFDKKDKDAGKDRKDVPADKIVKGNQYYILGGAVADYMRKLKKESEEKYNKQFSRYVKAGITADNLEKIYKDAHAAIRKNPAATVIADKKKHAEEMKQKHAPKKPQTKKLSFEEKRKILNEHLVAAGLPPRK",
+            "entity_poly_seq_length": 308,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2FXW1"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L6, putative",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MAELLFISPIAKKDIKRPSWRGIPRISFTRPAVAAEVDPIAKPACNAKAVETRANLKVGTVVIIVGGEHQGKRAVVVADQGAGIVKVAGPVVPVNEISQDYLIATSTSIDVAANATEAQVEAAAAKVPEMVDYLKAPFTIKKGNRIHLMKF",
+            "entity_poly_seq_one_letter_code_can": "MAELLFISPIAKKDIKRPSWRGIPRISFTRPAVAAEVDPIAKPACNAKAVETRANLKVGTVVIIVGGEHQGKRAVVVADQGAGIVKVAGPVVPVNEISQDYLIATSTSIDVAANATEAQVEAAAAKVPEMVDYLKAPFTIKKGNRIHLMKF",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of Ribosomal L30 proteins and has been termed RL30NT or NUC018 [1].",
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L30 N-terminal domain",
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF08079",
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "uniprot_accession": [
+                "A2F592"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein L30p/L7e, putative",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MGKPLPETLQKIAARVEAQKAAYLKKKEELLAAAKANEAKIQERAKKYAAEYVSQTKAEIDAENKATAEGAFYVPAEAKFAFVIRTKGTNKLHPDVRKILHLFRLNQKHNAIFVRLNKATIEMLKRVTPQVAFGYPSVDMVRKLIYKLGTANLNGQRIPIADNQIIKVALGHLCIESVEDLAHEIYTVGPNFAAANRFLAVFKLHAPKGGYKKINRAYVEGGDYGNREHLIDELIERMI",
+            "entity_poly_seq_one_letter_code_can": "MGKPLPETLQKIAARVEAQKAAYLKKKEELLAAAKANEAKIQERAKKYAAEYVSQTKAEIDAENKATAEGAFYVPAEAKFAFVIRTKGTNKLHPDVRKILHLFRLNQKHNAIFVRLNKATIEMLKRVTPQVAFGYPSVDMVRKLIYKLGTANLNGQRIPIADNQIIKVALGHLCIESVEDLAHEIYTVGPNFAAANRFLAVFKLHAPKGGYKKINRAYVEGGDYGNREHLIDELIERMI",
+            "entity_poly_seq_length": 239,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "5XY3",
+            "rcsb_pdbx_description": "25S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "CGUAGUCUGCCAUACGCAGGAAGACCCGCUGAACUGAAGCAUCUCAUUAAGCGGAGGAAAAGAAACUAACUAGGAUUCCCUUAGUAAAGGCGAUCGAAAAGGGAACAGCCCAACGUCUUAAUCCCGCAAGGGAAAUGUAGUCGGUUCACCUAUUGCACUGGUCUAAGUCAGAUGGAAUGCUGCGCGAUUCAGAGUAAAAGCCUCGUAUGACCAACCGCAAGCUUACGAUGGACCGGGGAGAGUCGGAUACUUUGAGAGUAGUGUCUUAAGGGGGUGGUAUGUCCCAUCCAAGGCUAAAUAACGUGAGGAGACCGAUAGAUUACAAGUAGUGUGAACGAAAGAUGAAAAGAACUCUAAAACAGAGGGUGAAAAGUUCCUGAACUUGCUUAGGGUUAAGGCUAUUUAUAGUACCCGUCUUGAAACACGGAUUAGGGAGUUUAUCUGUAGUGCGAGUCUUUGCACGUUAACUGUAAAGGCGUAGAGAAAGCAACUGGCGUUUGCAUGGCUACUGAGCAUUACUGAUAGGACCCGAAAGGUGGUGAACUUUGCCUGCACAGGUUGAAGUCAGGGGAAACUCUGAUGGAGGACCGUACGGGUUAUUGAUGUGCAAAUCAUUUUUCUGAUGUAGGUAAAGGUGCGAAAGACUCAUCGAACCACCUAAUAGCUGGUUUCCUCCGAAGUUUCCCUCAGGAUAGCUGUAAUGCAUUUAGUUAAGGGGAGUAGAGAUAUGGGUAGAGGUGCAGGGAGCCUUCGGGUUCUCAACUUAUUUCCAAACUUCGAACCUCCUUGUUAGGCAUUUACCUAACUGGAAAUGCUUAAAUGAAUUAGCGUUACAAGUGGGCUCUGACCGGUAAGCGGUCAUGGCGAAAUGGGAUGAACCAUACGUCUGAAUAAGGUGCCGAAAUGUACUAUCACUGAUACCAUAAAGGGAGUCCAUGUAUUUAGACAGCAGGUCGGUGCCCCUAAAAGCAGGUAUCCGCUAAAGAGUGUGUUAAAACUCACCUGCCGAAUACUAGGGCCCCGAAAAUGAAUGGCGCAUAUAGUACUACCGAUCUCAGACAUCAGUUCUAUUGAACUGAGAGUAGGGGGAUGUGGACAUUUUUGUGAAGGUGCAAUGUGAGUUGGACUGGAAGAAUGUCUAUUACAGAUCCUAAUUGAAGUAGCGAUUAUCCAGGCUUGUAUCCUGGGGGCUGAUGAGGAGUAGGGUUUCUGGACAACUUAAACAGAUCCAGAGUUAGUCGAUCCUAAUCUCAAUAAUGGGAGAAAGGGAGUACAGUUGAUAUUCUGUAACUGACAACAGUUCGCGGCAACGCAUACUAUUUUUCUCCGCCAAUCUUAUACCGUUGGUAGGGAUCUCUUUCCUACAUGACAGUACUAAUACCCAGGGAAACUGGUCAUCAGGCGAACUGCGGCGUUCUGCUGGCAAAACAUAGCUUCGGUUAUGUCAAUGGCUAUUGGAUUGGUCCAUGAAGCGAAAAAUAGUUUACUGUGUCACUCGUACCGAUAACCGCAUCAGGUCUUCUAGGUAAGUAGCCUAUGGCCAUUGAGGCAUGAUAGUUCAGGGAAUUCGGCCAAUUAGAGCUGUAACUUCGGGAUAAAGCUUGGCUCUGAUGAAAAUCAGAACCGAUUGUUACGCGGAGAGCCCAACUGUUUAAUAAAAACGUAGUGUCGCGCUGUGGUAGUAUAGCCAGUGAACGCGACAUGAAUCCUGCUCAGUGCUGUGUCUGUUAAUAUGGUUCAAGCCAACGAAGCACCGGUAAAUAGCUGGGGUAACUAUGACUCUUAUCAAAGUAGCGAAAUACCUCGUCACUUAAUUAGUGACCUGCAUGAACGGAGCUAUGAGGUUCUCACUGUCCCAAACUGUCUCUCAGCGAACCAACUGUAGUGGGAACGGUCACUAGAUAUCCAGCGGGGAAAGAAGACCCUGUAGAGCUUCACUUUGGUCUAGUCUUGUAUAGUUCCUGCGGGGGUGUAGACUAGGUGGGAGAGCAAUCGAUUCUGAAAAACCACUACCCUGUUUGGAAUUAUGCUUACCUAUCACAAGGAAUAGGACUAGAUAGAAAGUUUGGCUGGGGCGGCACACCUUCGAAAGAGCAGCGAAGGUGUCCUAAGUUGAGCUCAGUGAGGACAGAAAUCUCACGUUGAGGAUAAGGCCAAAAGCUCAAUUUACUGUGCCUUUUUGUACUAGGAUCAGUUACGAAAGUAAGGCCUAACGAUCCCUAAAUAGCCUCAGGUGCGUGAGGAUUGGGGUGACAGACAAGUUACCUCCGGGACAACUGGCUUGUGGCUGCUAAGAGAUCAAAUCAACGCAGCUUUUUGAUUCUUCGAUGUCGGCUCUUCCUAUCCUAGUGAUGUACAAGUUGCUAAGGGUCGGAUUGUUCACCCGUAUUAGGGAUCGUGAGCUGGGUUUAGACCGUCGUGAGCCAGGUUUGUUUUAUCCUACUGGAUAUAGCAUCAUGAUAGUAGAUUGAUUUAGUACGAGAGGAACUGUUGAUUAUGGCCUCUGGUUAGCGAUUAUCGGAAACGGUAUGUCGCGCAGCUACGCCGUCUGGGAUAAUGGCUGAAAGCCUCUUAAGCCAGAAGCCCAUCUAGAAAGUGAUGCACGUGAUGUUGGACCGAUACGAAUAAUCAUACUCAAAAGGUCCGCUUCAUAGGUAACCCAAUGUAGAAGACAUUGUGUGAACGAAGGUACUGUAAGCAGUGGAGUGGCAUUACGUCCACGACCUGUUGAGGUUCAGCUUCGCUUCUAGGUUUCCAAAUAUUUU",
+            "entity_poly_seq_one_letter_code_can": "CGUAGUCUGCCAUACGCAGGAAGACCCGCUGAACUGAAGCAUCUCAUUAAGCGGAGGAAAAGAAACUAACUAGGAUUCCCUUAGUAAAGGCGAUCGAAAAGGGAACAGCCCAACGUCUUAAUCCCGCAAGGGAAAUGUAGUCGGUUCACCUAUUGCACUGGUCUAAGUCAGAUGGAAUGCUGCGCGAUUCAGAGUAAAAGCCUCGUAUGACCAACCGCAAGCUUACGAUGGACCGGGGAGAGUCGGAUACUUUGAGAGUAGUGUCUUAAGGGGGUGGUAUGUCCCAUCCAAGGCUAAAUAACGUGAGGAGACCGAUAGAUUACAAGUAGUGUGAACGAAAGAUGAAAAGAACUCUAAAACAGAGGGUGAAAAGUUCCUGAACUUGCUUAGGGUUAAGGCUAUUUAUAGUACCCGUCUUGAAACACGGAUUAGGGAGUUUAUCUGUAGUGCGAGUCUUUGCACGUUAACUGUAAAGGCGUAGAGAAAGCAACUGGCGUUUGCAUGGCUACUGAGCAUUACUGAUAGGACCCGAAAGGUGGUGAACUUUGCCUGCACAGGUUGAAGUCAGGGGAAACUCUGAUGGAGGACCGUACGGGUUAUUGAUGUGCAAAUCAUUUUUCUGAUGUAGGUAAAGGUGCGAAAGACUCAUCGAACCACCUAAUAGCUGGUUUCCUCCGAAGUUUCCCUCAGGAUAGCUGUAAUGCAUUUAGUUAAGGGGAGUAGAGAUAUGGGUAGAGGUGCAGGGAGCCUUCGGGUUCUCAACUUAUUUCCAAACUUCGAACCUCCUUGUUAGGCAUUUACCUAACUGGAAAUGCUUAAAUGAAUUAGCGUUACAAGUGGGCUCUGACCGGUAAGCGGUCAUGGCGAAAUGGGAUGAACCAUACGUCUGAAUAAGGUGCCGAAAUGUACUAUCACUGAUACCAUAAAGGGAGUCCAUGUAUUUAGACAGCAGGUCGGUGCCCCUAAAAGCAGGUAUCCGCUAAAGAGUGUGUUAAAACUCACCUGCCGAAUACUAGGGCCCCGAAAAUGAAUGGCGCAUAUAGUACUACCGAUCUCAGACAUCAGUUCUAUUGAACUGAGAGUAGGGGGAUGUGGACAUUUUUGUGAAGGUGCAAUGUGAGUUGGACUGGAAGAAUGUCUAUUACAGAUCCUAAUUGAAGUAGCGAUUAUCCAGGCUUGUAUCCUGGGGGCUGAUGAGGAGUAGGGUUUCUGGACAACUUAAACAGAUCCAGAGUUAGUCGAUCCUAAUCUCAAUAAUGGGAGAAAGGGAGUACAGUUGAUAUUCUGUAACUGACAACAGUUCGCGGCAACGCAUACUAUUUUUCUCCGCCAAUCUUAUACCGUUGGUAGGGAUCUCUUUCCUACAUGACAGUACUAAUACCCAGGGAAACUGGUCAUCAGGCGAACUGCGGCGUUCUGCUGGCAAAACAUAGCUUCGGUUAUGUCAAUGGCUAUUGGAUUGGUCCAUGAAGCGAAAAAUAGUUUACUGUGUCACUCGUACCGAUAACCGCAUCAGGUCUUCUAGGUAAGUAGCCUAUGGCCAUUGAGGCAUGAUAGUUCAGGGAAUUCGGCCAAUUAGAGCUGUAACUUCGGGAUAAAGCUUGGCUCUGAUGAAAAUCAGAACCGAUUGUUACGCGGAGAGCCCAACUGUUUAAUAAAAACGUAGUGUCGCGCUGUGGUAGUAUAGCCAGUGAACGCGACAUGAAUCCUGCUCAGUGCUGUGUCUGUUAAUAUGGUUCAAGCCAACGAAGCACCGGUAAAUAGCUGGGGUAACUAUGACUCUUAUCAAAGUAGCGAAAUACCUCGUCACUUAAUUAGUGACCUGCAUGAACGGAGCUAUGAGGUUCUCACUGUCCCAAACUGUCUCUCAGCGAACCAACUGUAGUGGGAACGGUCACUAGAUAUCCAGCGGGGAAAGAAGACCCUGUAGAGCUUCACUUUGGUCUAGUCUUGUAUAGUUCCUGCGGGGGUGUAGACUAGGUGGGAGAGCAAUCGAUUCUGAAAAACCACUACCCUGUUUGGAAUUAUGCUUACCUAUCACAAGGAAUAGGACUAGAUAGAAAGUUUGGCUGGGGCGGCACACCUUCGAAAGAGCAGCGAAGGUGUCCUAAGUUGAGCUCAGUGAGGACAGAAAUCUCACGUUGAGGAUAAGGCCAAAAGCUCAAUUUACUGUGCCUUUUUGUACUAGGAUCAGUUACGAAAGUAAGGCCUAACGAUCCCUAAAUAGCCUCAGGUGCGUGAGGAUUGGGGUGACAGACAAGUUACCUCCGGGACAACUGGCUUGUGGCUGCUAAGAGAUCAAAUCAACGCAGCUUUUUGAUUCUUCGAUGUCGGCUCUUCCUAUCCUAGUGAUGUACAAGUUGCUAAGGGUCGGAUUGUUCACCCGUAUUAGGGAUCGUGAGCUGGGUUUAGACCGUCGUGAGCCAGGUUUGUUUUAUCCUACUGGAUAUAGCAUCAUGAUAGUAGAUUGAUUUAGUACGAGAGGAACUGUUGAUUAUGGCCUCUGGUUAGCGAUUAUCGGAAACGGUAUGUCGCGCAGCUACGCCGUCUGGGAUAAUGGCUGAAAGCCUCUUAAGCCAGAAGCCCAUCUAGAAAGUGAUGCACGUGAUGUUGGACCGAUACGAAUAAUCAUACUCAAAAGGUCCGCUUCAUAGGUAACCCAAUGUAGAAGACAUUGUGUGAACGAAGGUACUGUAAGCAGUGGAGUGGCAUUACGUCCACGACCUGUUGAGGUUCAGCUUCGCUUCUAGGUUUCCAAAUAUUUU",
+            "entity_poly_seq_length": 2765,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "GAAGCGGCCACACCCGGCUGGCAACAUCCAGCUCCACUCCGAACCUGGAAAUUAAGCAGUCGCGGGCCACAUCAGUACUGGGCUGGGCGACUUCCCGGGAACGUGCGGUGCUUGCUUC",
+            "entity_poly_seq_one_letter_code_can": "GAAGCGGCCACACCCGGCUGGCAACAUCCAGCUCCACUCCGAACCUGGAAAUUAAGCAGUCGCGGGCCACAUCAGUACUGGGCUGGGCGACUUCCCGGGAACGUGCGGUGCUUGCUUC",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5XY3",
+            "rcsb_pdbx_description": "5.8S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Trichomonas vaginalis"
+            ],
+            "rcsb_source_organism_id": [
+                5722
+            ],
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "AAGUCUCUAAGCAAUGGAUGUCUUGGCUCCUCACACGAUGAAGAACGUGGCAUAAUGUGUUAAGUAACCGGAGUUGCAAACAUCAUGACAGGUUAAUCUUUGAAUGCAAAUUGCGCUAAACUCGAUCUCGGUCGAGAAGCAUGGGUGUGACAGUACUACAUC",
+            "entity_poly_seq_one_letter_code_can": "AAGUCUCUAAGCAAUGGAUGUCUUGGCUCCUCACACGAUGAAGAACGUGGCAUAAUGUGUUAAGUAACCGGAGUUGCAAACAUCAUGACAGGUUAAUCUUUGAAUGCAAAUUGCGCUAAACUCGAUCUCGGUCGAGAAGCAUGGGUGUGACAGUACUACAUC",
+            "entity_poly_seq_length": 162,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": null
+}

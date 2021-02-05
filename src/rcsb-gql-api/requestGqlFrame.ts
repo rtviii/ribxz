@@ -6,8 +6,7 @@ import {
   RibosomalProtein,
   RibosomeStructure,
   rRNA,
-} from "../types";
-import { large_subunit_map } from "../resources/cumulative/large-subunit-map"
+} from "../RibosomeTypes";import { large_subunit_map } from "../resources/cumulative/large-subunit-map"
 import { small_subunit_map } from "../resources/cumulative/small-subunit-map"
 import {
   Nonpolymer_Entity,
@@ -147,6 +146,7 @@ const reshape_ToLigand = (nonpoly: Nonpolymer_Entity): Ligand => {
 };
 
 const reshape_ToRibosomalProtein = (poly: Polymer_Entity): RibosomalProtein => {
+  console.log("Reshaping proteins: ", poly)
   var [nomenclature, pfamIds] = matchPolymerNomenclature(poly);
 
 
@@ -248,14 +248,13 @@ return [externalRefIds, externalRefTypes,externalRefLinks]
 }
 
 export const requestGqlFrame = async (pdbid: string):Promise<RibosomeStructure> => {
+
   var result = await axios.get(getQuery(pdbid)).then(response => {
-    
 
     var pdbRecord: PDBGQLResponse = response.data.data;
-    
-    var proteins = pdbRecord.entry.polymer_entities.filter(poly => poly.entity_poly.rcsb_entity_polymer_type === "Protein");
-    var rnas     = pdbRecord.entry.polymer_entities.filter(poly => poly.entity_poly.rcsb_entity_polymer_type === "RNA");
-    var ligands  = pdbRecord.entry.nonpolymer_entities;
+    var proteins                  = pdbRecord.entry.polymer_entities.filter(poly => poly.entity_poly.rcsb_entity_polymer_type === "Protein");
+    var rnas                      = pdbRecord.entry.polymer_entities.filter(poly => poly.entity_poly.rcsb_entity_polymer_type === "RNA");
+    var ligands                   = pdbRecord.entry.nonpolymer_entities;
     
     var reshaped_proteins:RibosomalProtein[] = proteins.map(rp => reshape_ToRibosomalProtein(rp));
     var reshaped_rrnas:rRNA[]                = rnas.map(rp => reshape_TorRNA(rp));
@@ -266,9 +265,9 @@ export const requestGqlFrame = async (pdbid: string):Promise<RibosomeStructure> 
     var organismNames = organismtuple[0]
     var organismIds   = organismtuple[1]
 
-    var externalRefs = extractRefs(pdbRecord.entry.rcsb_external_references)
-    var em3d         = pdbRecord.entry.em_3d_reconstruction ?pdbRecord.entry.em_3d_reconstruction[0] : null;
-    var difn         = pdbRecord.entry.diffrn_source ?pdbRecord.entry.diffrn_source[0] : null;
+    var externalRefs  = extractRefs(pdbRecord.entry.rcsb_external_references)
+    var em3d          = pdbRecord.entry.em_3d_reconstruction ?pdbRecord.entry.em_3d_reconstruction[0] : null;
+    var difn          = pdbRecord.entry.diffrn_source ?pdbRecord.entry.diffrn_source[0] : null;
 
     var pub                       =  pdbRecord.entry.citation[0];
     var kwords_text                    = pdbRecord.entry.struct_keywords ? pdbRecord.entry.struct_keywords.text : null;

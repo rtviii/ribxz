@@ -1,0 +1,1575 @@
+{
+    "rcsb_id": "6FYX",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.05,
+    "rcsb_external_ref_id": [
+        "EMD-4327"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-4327"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": "FOURIER SPACE",
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.5,
+    "cryoem_exp_num_particles": 74772,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2018,
+    "citation_rcsb_authors": [
+        "Llacer, J.L.",
+        "Hussain, T.",
+        "Saini, A.K.",
+        "Nanda, J.D.",
+        "Kaur, S.",
+        "Gordiyenko, Y.",
+        "Kumar, R.",
+        "Hinnebusch, A.G.",
+        "Lorsch, J.R.",
+        "Ramakrishnan, V."
+    ],
+    "citation_title": "Translational initiation factor eIF5 replaces eIF1 on the 40S ribosomal subunit to promote start-codon recognition.",
+    "citation_pdbx_doi": "10.7554/eLife.39273",
+    "pdbx_keywords_text": "ribosome, translation, initiation factors, 40S, eIF1A, eIF3, eIF2, eIF5, tRNAi, 48S PIC, small ribosome subunit",
+    "_organismId": [
+        284590,
+        559292
+    ],
+    "_organismName": [
+        "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)",
+        "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CN12"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S0",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "MSLPSTFDLTSEDAQLLLAARVHLGAKNVQVHQEPYVYKARPDGVNVINVGKTWEKIVLAARIIAAIPNPEDVVAISSRTYGQRAVLKYAAHTGATPIAGRFTPGSFTNYITRSFKEPRLVIVTDPRSDAQAIKESSYVNIPVIALTDLDSPSEYVDVAIPCNNRGKHSIGLIWYLLAREVLRLRGALPDRTQPWAIMPDLYFYRNPEEIEQQTAEEEAVASGEQTEEAVDATEEQTEAAEWAEEGQAQEEEWN",
+            "entity_poly_seq_one_letter_code_can": "MSLPSTFDLTSEDAQLLLAARVHLGAKNVQVHQEPYVYKARPDGVNVINVGKTWEKIVLAARIIAAIPNPEDVVAISSRTYGQRAVLKYAAHTGATPIAGRFTPGSFTNYITRSFKEPRLVIVTDPRSDAQAIKESSYVNIPVIALTDLDSPSEYVDVAIPCNNRGKHSIGLIWYLLAREVLRLRGALPDRTQPWAIMPDLYFYRNPEEIEQQTAEEEAVASGEQTEEAVDATEEQTEAAEWAEEGQAQEEEWN",
+            "entity_poly_seq_length": 254,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S3Ae family"
+            ],
+            "pfam_accessions": [
+                "PF01015"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CWD0"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S1",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "M(AYA)VGKNKRLSKGKKGLKKRVVDPFTRKEWYDIKAPSTFENRNVGKTLVNKSVGLKNASDSLKGRVVEVCLADLQGSEDHSFRKVKLRVDEVQGKNLLTNFHGMDFTTDKLRSMVRKWQTLIEANVTVKTSDDYVLRIFAIAFTRKQANQVKRTSYAQSSHIRQIRKVISEILTREVQNSTLAQLTSKLIPEVINKEIENATKDIFPLQNVHIRKVKLLKQPKFDLGSLLSLHGEASAEEKGKKVAGFKDEILETV",
+            "entity_poly_seq_one_letter_code_can": "MAVGKNKRLSKGKKGLKKRVVDPFTRKEWYDIKAPSTFENRNVGKTLVNKSVGLKNASDSLKGRVVEVCLADLQGSEDHSFRKVKLRVDEVQGKNLLTNFHGMDFTTDKLRSMVRKWQTLIEANVTVKTSDDYVLRIFAIAFTRKQANQVKRTSYAQSSHIRQIRKVISEILTREVQNSTLAQLTSKLIPEVINKEIENATKDIFPLQNVHIRKVKLLKQPKFDLGSLLSLHGEASAEEKGKKVAGFKDEILETV",
+            "entity_poly_seq_length": 255,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CKL3"
+            ],
+            "rcsb_pdbx_description": "KLLA0F09812p",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MSAPQAQGQQAPRRGGFGGANRGGRGGRRGGRRDQEEKGWVPVTKLGRLVKAGKISSIEEIFLHSLPVKEFQIIDQLLPNLKDEVMNIKPVQKQTRAGQRTRFKAVVVVGDSNGHVGLGIKTAKEVAGAIRAGIIIAKLSVIPIRRGYWGTNLGQPHSLATKTSGKCGSVSVRLIPAPRGSGIVASPAVKKLMQLAGVEDVYTSSTGSTRTLENTLKAAFVAIGNTYGFLTPNLWEVQALTPSPMDVYADYATASKKKL",
+            "entity_poly_seq_one_letter_code_can": "MSAPQAQGQQAPRRGGFGGANRGGRGGRRGGRRDQEEKGWVPVTKLGRLVKAGKISSIEEIFLHSLPVKEFQIIDQLLPNLKDEVMNIKPVQKQTRAGQRTRFKAVVVVGDSNGHVGLGIKTAKEVAGAIRAGIIIAKLSVIPIRRGYWGTNLGQPHSLATKTSGKCGSVSVRLIPAPRGSGIVASPAVKKLMQLAGVEDVYTSSTGSTRTLENTLKAAFVAIGNTYGFLTPNLWEVQALTPSPMDVYADYATASKKKL",
+            "entity_poly_seq_length": 259,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CRK7"
+            ],
+            "rcsb_pdbx_description": "KLLA0D08305p",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MVAIISKKRKLVADGVFYAELNEFFTRELAEEGYSGVEVRVTPTKTEIIIRATKVQDVVGENGRRINELTLLIEKRFKYKRGTIALYAERVHDRGLSAVAQAESMKFKLLNGLAIRRAAYGVVRYVMESGAKGCEVVISGKLRAARAKSMKFADGFLIHSGQPVNDFIETATRHVLLRQGVLGIKVKIMKDPSRNTSGPKALPDAVTIIEPKEEEPVLEPSVKDYRPTEPVEAAESA",
+            "entity_poly_seq_one_letter_code_can": "MVAIISKKRKLVADGVFYAELNEFFTRELAEEGYSGVEVRVTPTKTEIIIRATKVQDVVGENGRRINELTLLIEKRFKYKRGTIALYAERVHDRGLSAVAQAESMKFKLLNGLAIRRAAYGVVRYVMESGAKGCEVVISGKLRAARAKSMKFADGFLIHSGQPVNDFIETATRHVLLRQGVLGIKVKIMKDPSRNTSGPKALPDAVTIIEPKEEEPVLEPSVKDYRPTEPVEAAESA",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL",
+                "This domain is found at the C-terminus of 40S ribosomal protein S4.",
+                "This is the N-terminal domain of Ribosomal S4 / S4e proteins. This domain is associated with S4 and KOW domains [1].",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal family S4e",
+                "40S ribosomal protein S4 C-terminus",
+                "RS4NT (NUC023) domain",
+                "S4 domain",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF00900",
+                "PF16121",
+                "PF08071",
+                "PF01479",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CWJ2"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S4",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MARGPKKHLKRLAAPHHWMLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGREVKAILMQRHVKVDGKVRTDTTFPAGFMDVITLEATNENFRLVYDVKGRFAVHRITDEEASYKLAKVKKVQLGKKGIPYVVTHDGRTIRYPDPNIKVNDTVKVDLATGTITDFIKFDTGKLVYVTGGRNLGRVGTIVHRERHEGGFDLVHIKDSLENTFVTRLNNVFVIGEPGRPWISLPKGKGIKLTISEERDRRRAQHGL",
+            "entity_poly_seq_one_letter_code_can": "MARGPKKHLKRLAAPHHWMLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGREVKAILMQRHVKVDGKVRTDTTFPAGFMDVITLEATNENFRLVYDVKGRFAVHRITDEEASYKLAKVKKVQLGKKGIPYVVTHDGRTIRYPDPNIKVNDTVKVDLATGTITDFIKFDTGKLVYVTGGRNLGRVGTIVHRERHEGGFDLVHIKDSLENTFVTRLNNVFVIGEPGRPWISLPKGKGIKLTISEERDRRRAQHGL",
+            "entity_poly_seq_length": 261,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS4",
+                "uS4",
+                "uL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CRA3"
+            ],
+            "rcsb_pdbx_description": "KLLA0D10659p",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MSEHEAQVEVEVQEDFEVVQEFVPVELATTIPVEIQQAQQEIKLFNKWSFEDVEVKDASLVDYIQISKPIYVAHTAGRYANKRFRKAQCPIVERLTNSLMMNGRNNGKKLKAVRIVKHTLEIINVLTDQNPLQVVVDAIINSGPREDTTRVGGGGAARRQAVDVSPLRRVNQSIALLTIGAREAAFRNIKTIAETLAEELINAAKGSSTSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_one_letter_code_can": "MSEHEAQVEVEVQEDFEVVQEFVPVELATTIPVEIQQAQQEIKLFNKWSFEDVEVKDASLVDYIQISKPIYVAHTAGRYANKRFRKAQCPIVERLTNSLMMNGRNNGKKLKAVRIVKHTLEIINVLTDQNPLQVVVDAIINSGPREDTTRVGGGGAARRQAVDVSPLRRVNQSIALLTIGAREAAFRNIKTIAETLAEELINAAKGSSTSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_length": 227,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6e"
+            ],
+            "pfam_accessions": [
+                "PF01092"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CM04"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S6",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MKLNISYPINGTQKCIEIDDEHRVRVFYDKRIGQEVDGESVGDEFKGYVFKIAGGNDKQGFPMKQGVLLPTRVKLLLAKGHSCYRPRRNGERKRKSVRGAIVGPDLAVLALIITKKGEQEIEGITNDTVPKRLGPKRANNIRKFFGLTKEDDVRDYVIRREVTKGDKSYTKAPKIQRLVTPQRLQRKRQQKSLKIKNAQAQREAAAEYAQLLAKRLSERKAEKAEVRKRRASSLKA",
+            "entity_poly_seq_one_letter_code_can": "MKLNISYPINGTQKCIEIDDEHRVRVFYDKRIGQEVDGESVGDEFKGYVFKIAGGNDKQGFPMKQGVLLPTRVKLLLAKGHSCYRPRRNGERKRKSVRGAIVGPDLAVLALIITKKGEQEIEGITNDTVPKRLGPKRANNIRKFFGLTKEDDVRDYVIRREVTKGDKSYTKAPKIQRLVTPQRLQRKRQQKSLKIKNAQAQREAAAEYAQLLAKRLSERKAEKAEVRKRRASSLKA",
+            "entity_poly_seq_length": 236,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7e"
+            ],
+            "pfam_accessions": [
+                "PF01251"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CTD6"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S7",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MSDPQAKILSQAPTELELQVAQAFIDLENNSPELKADLRALQFKSIREIEVAGGKKALAVFVPVPSLAAYHKVQIKLTRELEKKFQDRHVIFLAERRILPKPSRKSRQTQKRPRSRTLTAVHDKILEDLVFPTEIVGKRVRYLVGGNKIQKILLNSKDVQHIDNKLESFQAVYNKLTGKQIVFEIPSETH",
+            "entity_poly_seq_one_letter_code_can": "MSDPQAKILSQAPTELELQVAQAFIDLENNSPELKADLRALQFKSIREIEVAGGKKALAVFVPVPSLAAYHKVQIKLTRELEKKFQDRHVIFLAERRILPKPSRKSRQTQKRPRSRTLTAVHDKILEDLVFPTEIVGKRVRYLVGGNKIQKILLNSKDVQHIDNKLESFQAVYNKLTGKQIVFEIPSETH",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8e"
+            ],
+            "pfam_accessions": [
+                "PF01201"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CMG3"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S8",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MGISRDSRHKRAATGAKRAQFRKKRKFELGRQAANTKIGTKRIHPVRTRGGNQKFRALRIETGNFSWASEGVARKTRITGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWYESHYGQSLGKKKNTKAEEETATTSKNTERKWAARAAEAKIEHAVDSQFGAGRLYAAISSRPGQSGRCDGYILEGEELAFYLRRLTAKK",
+            "entity_poly_seq_one_letter_code_can": "MGISRDSRHKRAATGAKRAQFRKKRKFELGRQAANTKIGTKRIHPVRTRGGNQKFRALRIETGNFSWASEGVARKTRITGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWYESHYGQSLGKKKNTKAEEETATTSKNTERKWAARAAEAKIEHAVDSQFGAGRLYAAISSRPGQSGRCDGYILEGEELAFYLRRLTAKK",
+            "entity_poly_seq_length": 201,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CM18"
+            ],
+            "rcsb_pdbx_description": "KLLA0E23673p",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MPRAPRTYSKTYSTPKRPYESARLDAELKLAGEYGLKNKREIYRISFQLSKIRRAARDLLTRDEKDPKRLFEGNALIRRLVRIGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAKSVHHARVLISQRHIAVGKQIVNIPSFMVRLESEKHIDFARTSPFGGARPGRVARKRAAAAGGEEADEE",
+            "entity_poly_seq_one_letter_code_can": "MPRAPRTYSKTYSTPKRPYESARLDAELKLAGEYGLKNKREIYRISFQLSKIRRAARDLLTRDEKDPKRLFEGNALIRRLVRIGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAKSVHHARVLISQRHIAVGKQIVNIPSFMVRLESEKHIDFARTSPFGGARPGRVARKRAAAAGGEEADEE",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of some isoforms of the cytoskeletal muscle protein plectin as well as the ribosomal S10 protein. This domain may be involved in RNA binding."
+            ],
+            "pfam_descriptions": [
+                "Plectin/S10 domain"
+            ],
+            "pfam_accessions": [
+                "PF03501"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CVZ5"
+            ],
+            "rcsb_pdbx_description": "KLLA0B08173p",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MLIPKEDRKKIYQHLFQEGVLVAKKDFNQPKHEEIDTKNLFVIKALQSLTSKGFVKTQFSWQYYYYTLTEEGVVYLREYLNLPEHIFPATYLAGQSGDQRPQGKKY",
+            "entity_poly_seq_one_letter_code_can": "MLIPKEDRKKIYQHLFQEGVLVAKKDFNQPKHEEIDTKNLFVIKALQSLTSKGFVKTQFSWQYYYYTLTEEGVVYLREYLNLPEHIFPATYLAGQSGDQRPQGKKY",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL",
+                "This short N-terminal region is found in a number of higher eukaryotic ribosomal subunit 17 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17",
+                "Ribosomal_S17 N-terminal"
+            ],
+            "pfam_accessions": [
+                "PF00366",
+                "PF16205"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CX80"
+            ],
+            "rcsb_pdbx_description": "KLLA0A10483p",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MSTELTVQSERAFQKQPHIFTNPKAKANRKTKRWYKNVGLGFKTPKTAIEGSYIDKKCPFTGLVSIRGKILTGTVVSTRMHRTIVIRRDYLHYVPKYNRYEKRHKNVPAHVSPAFRVQVGDIVTVGQCRPISKTVRFNVLKVASATGKANKQFAKF",
+            "entity_poly_seq_one_letter_code_can": "MSTELTVQSERAFQKQPHIFTNPKAKANRKTKRWYKNVGLGFKTPKTAIEGSYIDKKCPFTGLVSIRGKILTGTVVSTRMHRTIVIRRDYLHYVPKYNRYEKRHKNVPAHVSPAFRVQVGDIVTVGQCRPISKTVRFNVLKVASATGKANKQFAKF",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17",
+                "eS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CLU4"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S12",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MSDVEEVQQVPVAELTIEDALKVVLRTSLVHDGLARGLRESAKALTRGEGQLAVLVESVTEEAISKLVQGLATENNVPLIKVADAKQLGEWAGLGKIDRDGNARKVVGASVVVVKNWGADTQEREILLEHFSQQ",
+            "entity_poly_seq_one_letter_code_can": "MSDVEEVQQVPVAELTIEDALKVVLRTSLVHDGLARGLRESAKALTRGEGQLAVLVESVTEEAISKLVQGLATENNVPLIKVADAKQLGEWAGLGKIDRDGNARKVVGASVVVVKNWGADTQEREILLEHFSQQ",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This domain is found at the N-terminus of ribosomal S13 and S15 proteins.                      This domain is also identified as NUC021 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S13/S15 N-terminal domain",
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF08069",
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CJK0"
+            ],
+            "rcsb_pdbx_description": "KLLA0F18040p",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MGRMHSKGKGMSSSAIPYSRNAPAWFKGSSDGVVEQIIKYARKGLTPSQIGVLLRDAHGVTQAKVITGNKILRILKSNGLAPEIPEDLYFLIKKAVSVRKHLERNRKDKDAKFRLILIESRIHRLARYYRTVSVLPPNWKYESATASALVN",
+            "entity_poly_seq_one_letter_code_can": "MGRMHSKGKGMSSSAIPYSRNAPAWFKGSSDGVVEQIIKYARKGLTPSQIGVLLRDAHGVTQAKVITGNKILRILKSNGLAPEIPEDLYFLIKKAVSVRKHLERNRKDKDAKFRLILIESRIHRLARYYRTVSVLPPNWKYESATASALVN",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "P27069"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S14",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MANVVQAKDNSQVFGVARIFASFNDTFVHVTDLSGRETIARVTGGMKVKADRDESSPYAAMLAAQDVAAKCKEVGITAVHIKIRATGGTRSKTPGPGGQAALRALARSGLRIGRIEDVTPVPSDSTRKKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "MANVVQAKDNSQVFGVARIFASFNDTFVHVTDLSGRETIARVTGGMKVKADRDESSPYAAMLAAQDVAAKCKEVGITAVHIKIRATGGTRSKTPGPGGQAALRALARSGLRIGRIEDVTPVPSDSTRKKGGRRGRRL",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CKV4"
+            ],
+            "rcsb_pdbx_description": "KLLA0F07843p",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MSEAAAPRKRSFKTYSYKGVDLEKLLEMPTEDFVKLAPARVRRKFARGLSEKPAGLMKKLRAAKLSAPENEKPAVVRTHLRNMIIVPEMIGSVVGVYNGKVFNQVEIRPEMVGHYLGEFSITYTPVRHGRAGATTSRFIPLR",
+            "entity_poly_seq_one_letter_code_can": "MSEAAAPRKRSFKTYSYKGVDLEKLLEMPTEDFVKLAPARVRRKFARGLSEKPAGLMKKLRAAKLSAPENEKPAVVRTHLRNMIIVPEMIGSVVGVYNGKVFNQVEIRPEMVGHYLGEFSITYTPVRHGRAGATTSRFIPLR",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q875N2"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S16",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MSTVPSVQTFGKKKSATAVAHVKAGKGLIKVNGSPITLVQPEILRFKVYEPLLLVGLDKFANIDIRVKVTGGGHVSQVYAIRQAIAKGLVAYHQKFVDEQSKNELKKAFTSYDRTLLIADSRRPEPKKFGGRGARSRFQKSYR",
+            "entity_poly_seq_one_letter_code_can": "MSTVPSVQTFGKKKSATAVAHVKAGKGLIKVNGSPITLVQPEILRFKVYEPLLLVGLDKFANIDIRVKVTGGGHVSQVYAIRQAIAKGLVAYHQKFVDEQSKNELKKAFTSYDRTLLIADSRRPEPKKFGGRGARSRFQKSYR",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S17"
+            ],
+            "pfam_accessions": [
+                "PF00833"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CWU3"
+            ],
+            "rcsb_pdbx_description": "KLLA0B01474p",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MGRVRTKTVKRASKALIEKYYPKLTMDFQTNKRLCDEIATIQSKRLRNKIAGYTTHLMKRIQKGPVRGISFKLQEEERERKDQYVPDVSALDLSHSNDVLNVDTQTAELVNSLGLKLPLSVSSVSAVRDRRFRKRN",
+            "entity_poly_seq_one_letter_code_can": "MGRVRTKTVKRASKALIEKYYPKLTMDFQTNKRLCDEIATIQSKRLRNKIAGYTTHLMKRIQKGPVRGISFKLQEEERERKDQYVPDVSALDLSHSNDVLNVDTQTAELVNSLGLKLPLSVSSVSAVRDRRFRKRN",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CWT9"
+            ],
+            "rcsb_pdbx_description": "KLLA0B01562p",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MSLVVQEQGSFQHILRLLNTNVDGNINVVYALTTIRGVGRRYANLVCKKADVDLHKRAGELTQEELERIVQIMQNPTHYKIPAWFLNRQKDVNDGKDYHSLANNLESKLRDDLERLKKIRSHRGIRHFWGLRVRGQHTKTTGRRRA",
+            "entity_poly_seq_one_letter_code_can": "MSLVVQEQGSFQHILRLLNTNVDGNINVVYALTTIRGVGRRYANLVCKKADVDLHKRAGELTQEELERIVQIMQNPTHYKIPAWFLNRQKDVNDGKDYHSLANNLESKLRDDLERLKKIRSHRGIRHFWGLRVRGQHTKTTGRRRA",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19e"
+            ],
+            "pfam_accessions": [
+                "PF01090"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CXM0"
+            ],
+            "rcsb_pdbx_description": "KLLA0A07194p",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MPGVSVRDVPAQDFINNYASFLQRQGKLEVPGYVDIVKTSAGNELPPQDSEGWFYKRAASVARHIYLRKQVGVGKLNKLYGGAKNRGVRPHKHVDASGSINRKVLQSLEKLGVVEISPKGGRRISDNGLRDLDRIAAATLEDEE",
+            "entity_poly_seq_one_letter_code_can": "MPGVSVRDVPAQDFINNYASFLQRQGKLEVPGYVDIVKTSAGNELPPQDSEGWFYKRAASVARHIYLRKQVGVGKLNKLYGGAKNRGVRPHKHVDASGSINRKVLQSLEKLGVVEISPKGGRRISDNGLRDLDRIAAATLEDEE",
+            "entity_poly_seq_length": 144,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CIM1"
+            ],
+            "rcsb_pdbx_description": "KLLA0F25542p",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MSQVEKKSEQQQEVVIHKIRINLTSTKVKQLENVSANIIKNAETFKLVKKGPVRLPTKVLKISTRKTPNGEGSKTWDTYEMRIHKRYIDLEAPAHIVKRITQITIEPGVDVEVIIAA",
+            "entity_poly_seq_one_letter_code_can": "MSQVEKKSEQQQEVVIHKIRINLTSTKVKQLENVSANIIKNAETFKLVKKGPVRLPTKVLKISTRKTPNGEGSKTWDTYEMRIHKRYIDLEAPAHIVKRITQITIEPGVDVEVIIAA",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S21e"
+            ],
+            "pfam_accessions": [
+                "PF01249"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CXT6"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S21",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MENDKGQLVELYVPRKCSATNRIIKAKDHSSVQINIAQVDEEGRAIPGEYVTYALSGYIRARGEADDSLNRLAQQDGLLKNVWSYSR",
+            "entity_poly_seq_one_letter_code_can": "MENDKGQLVELYVPRKCSATNRIIKAKDHSSVQINIAQVDEEGRAIPGEYVTYALSGYIRARGEADDSLNRLAQQDGLLKNVWSYSR",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CW21"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S22",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MTRTSVLADALNAINNAEKTGKRQVLIRPSSKVIIKFLQVMQKHGYIGEFEYIDDHRSGKIVVQLNGRLNKCGVISPRFNVKIADVEKWTANLLPARQFGYVILTTSAGIMDHEEAHRKHVSGKILGFVY",
+            "entity_poly_seq_one_letter_code_can": "MTRTSVLADALNAINNAEKTGKRQVLIRPSSKVIIKFLQVMQKHGYIGEFEYIDDHRSGKIVVQLNGRLNKCGVISPRFNVKIADVEKWTANLLPARQFGYVILTTSAGIMDHEEAHRKHVSGKILGFVY",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "F2Z602"
+            ],
+            "rcsb_pdbx_description": "KLLA0B11231p",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MGKGKPRGLNSARKLRVHRRNNRWAETTYKKRLLGTAFKSSPFGGSSHAKGIVLEKIGIESKQPNSAIRKCVRVQLIKNGKKVTAFVPNDGCLNFVDENDEVLLAGFGRKGKAKGDIPGVRFKVVKVSGVSLLALWKEKKEKPRS",
+            "entity_poly_seq_one_letter_code_can": "MGKGKPRGLNSARKLRVHRRNNRWAETTYKKRLLGTAFKSSPFGGSSHAKGIVLEKIGIESKQPNSAIRKCVRVQLIKNGKKVTAFVPNDGCLNFVDENDEVLLAGFGRKGKAKGDIPGVRFKVVKVSGVSLLALWKEKKEKPRS",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S24e"
+            ],
+            "pfam_accessions": [
+                "PF01282"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CU44"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S24",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MSDAITIRTRKVISNPLLARKQFVVDVLHPNRANVSKDELREKLAEAYKAEKDAVSVFGFRTQYGGGKSTGFGLVYNSVADAKKFEPAYRLVRYGLAEKVEKASRQQRKQRKNRGKKIFGTGKSIAKKAARRNAD",
+            "entity_poly_seq_one_letter_code_can": "MSDAITIRTRKVISNPLLARKQFVVDVLHPNRANVSKDELREKLAEAYKAEKDAVSVFGFRTQYGGGKSTGFGLVYNSVADAKKFEPAYRLVRYGLAEKVEKASRQQRKQRKNRGKKIFGTGKSIAKKAARRNAD",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "es24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "S25 ribosomal protein"
+            ],
+            "pfam_accessions": [
+                "PF03297"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CW78"
+            ],
+            "rcsb_pdbx_description": "KLLA0B06182p",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MPPKQQLSKAAKAAAAMAGGKKSKKKWSKKSHKDKAKHAVVLDQDKFDRIMKEAPTYRYVSVSVLVDRFKLGGSLARVALRHLENEGIIKPVSKHSKQAIYTRATASE",
+            "entity_poly_seq_one_letter_code_can": "MPPKQQLSKAAKAAAAMAGGKKSKKKWSKKSHKDKAKHAVVLDQDKFDRIMKEAPTYRYVSVSVLVDRFKLGGSLARVALRHLENEGIIKPVSKHSKQAIYTRATASE",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S26e"
+            ],
+            "pfam_accessions": [
+                "PF01283"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CS01"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S26",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MPKKRASNGRNKKGRGHVKPVRCVNCSRSVPKDKAIKRMAIRNIVEAAAIRDLSEASVYAEYALPKTYNKLHYCISCAIHARIVRVRSRTDRRIRAPPQRPRFNRDNKVSPADAAKKAL",
+            "entity_poly_seq_one_letter_code_can": "MPKKRASNGRNKKGRGHVKPVRCVNCSRSVPKDKAIKRMAIRNIVEAAAIRDLSEASVYAEYALPKTYNKLHYCISCAIHARIVRVRSRTDRRIRAPPQRPRFNRDNKVSPADAAKKAL",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS26"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S27"
+            ],
+            "pfam_accessions": [
+                "PF01667"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CNL2"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S27",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MVLVQDLLHPTAASEARKHKLKTLVQSPRSHFLDVKCPGCLNITTVFSHAQTAVTCESCSTVLCTPTGGKAKLSEGTSFRRK",
+            "entity_poly_seq_one_letter_code_can": "MVLVQDLLHPTAASEARKHKLKTLVQSPRSHFLDVKCPGCLNITTVFSHAQTAVTCESCSTVLCTPTGGKAKLSEGTSFRRK",
+            "entity_poly_seq_length": 82,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S28e"
+            ],
+            "pfam_accessions": [
+                "PF01200"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "P33285"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S28",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MDTKTPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTTRTIVRNVKGPVREGDILVLMESEREARRLR",
+            "entity_poly_seq_one_letter_code_can": "MDTKTPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTTRTIVRNVKGPVREGDILVLMESEREARRLR",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CPG3"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S29",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MAHENVWYSHPRKFGKGSRQCRISGSHSGLIRKYGLNIDRQSFREKANDIGFYKYR",
+            "entity_poly_seq_one_letter_code_can": "MAHENVWYSHPRKFGKGSRQCRISGSHSGLIRKYGLNIDRQSFREKANDIGFYKYR",
+            "entity_poly_seq_length": 56,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S30"
+            ],
+            "pfam_accessions": [
+                "PF04758"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CUH5"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S30",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MGKVHGSLARAGKVKSQTPKVEKQEKPKQPKGRAYKRLLYTRRFVNVTLTNGKRKMNPSPSSQ",
+            "entity_poly_seq_one_letter_code_can": "MGKVHGSLARAGKVKSQTPKVEKQEKPKQPKGRAYKRLLYTRRFVNVTLTNGKRKMNPSPSSQ",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family contains a number of ubiquitin-like proteins: SUMO (smt3 homologue) (see Swiss:Q02724), Nedd8 (see Swiss:P29595), Elongin B (see Swiss:Q15370), Rub1 (see Swiss:Q9SHE7), and Parkin (see Swiss:O60260). A number of them are thought to carry a distinctive five-residue motif termed the proteasome-interacting motif (PIM), which may have a biologically significant role in protein delivery to proteasomes and recruitment of proteasomes to transcription sites [5].",
+                "This family of ribosomal proteins consists mainly of the 40S ribosomal protein S27a which is synthesised as a C-terminal extension of ubiquitin (CEP). The S27a domain compromises the C-terminal half of the protein. The synthesis of ribosomal proteins as extensions of ubiquitin promotes their incorporation into nascent ribosomes by a transient metabolic stabilisation and is required for efficient ribosome biogenesis [3].  The ribosomal extension protein S27a contains a basic region that is proposed to form a zinc finger; its fusion gene is proposed as a mechanism to maintain a fixed ratio between ubiquitin necessary for degrading proteins and ribosomes a source of proteins [2]."
+            ],
+            "pfam_descriptions": [
+                "Ubiquitin family",
+                "Ribosomal protein S27a"
+            ],
+            "pfam_accessions": [
+                "PF00240",
+                "PF01599"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "P69061"
+            ],
+            "rcsb_pdbx_description": "Ubiquitin-40S ribosomal protein S27a",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKRKKKVYTTPKKIRHKHKKVKLAVLNYYKVDDEGKVAKLRKECPNCGPGIFLANHGDRFYCGKCHSTFATQK",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGGKKRKKKVYTTPKKIRHKHKKVKLAVLNYYKVDDEGKVAKLRKECPNCGPGIFLANHGDRFYCGKCHSTFATQK",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL40",
+                "eS31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "Q6CNI7"
+            ],
+            "rcsb_pdbx_description": "KLLA0E12277p",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MSSSNIMLVLRGTLEGHNGWVTSLSTSAAQPNLLVSGSRDKTLISWRLTENEQQFGVPVRSYKGHSHIVQDVVVSADGNYAVSASWDKTLRLWNLATGNSEARFVGHTGDVLSVAIDANSSKIISASRDKTIRVWNTVGDCAYVLLGHTDWVTKVRVAPKNLEDGEVDDGRITFVSAGMDKIVRSWSLNEDSYRIEADFIGHNNYINVVQPSPDGSLAASAGKDGQIYVWNLKHKSAFMNFDAKDEVFALAFSPSRFWLTAATASGIKIYDLENEVLIDELKPEFAGYTKAQDPHAVSLAWSADGQTLFAGYTDNVIRVWQVMTAN",
+            "entity_poly_seq_one_letter_code_can": "MSSSNIMLVLRGTLEGHNGWVTSLSTSAAQPNLLVSGSRDKTLISWRLTENEQQFGVPVRSYKGHSHIVQDVVVSADGNYAVSASWDKTLRLWNLATGNSEARFVGHTGDVLSVAIDANSSKIISASRDKTIRVWNTVGDCAYVLLGHTDWVTKVRVAPKNLEDGEVDDGRITFVSAGMDKIVRSWSLNEDSYRIEADFIGHNNYINVVQPSPDGSLAASAGKDGQIYVWNLKHKSAFMNFDAKDEVFALAFSPSRFWLTAATASGIKIYDLENEVLIDELKPEFAGYTKAQDPHAVSLAWSADGQTLFAGYTDNVIRVWQVMTAN",
+            "entity_poly_seq_length": 326,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L41"
+            ],
+            "pfam_accessions": [
+                "PF05162"
+            ],
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "uniprot_accession": [
+                "P0CX86"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L41-A",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MRAKWRKKRTRRLKRKRRKVRARSK",
+            "entity_poly_seq_one_letter_code_can": "MRAKWRKKRTRRLKRKRRKVRARSK",
+            "entity_poly_seq_length": 25,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL41"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes both the eukaryotic translation factor eIF-1A and the bacterial translation initiation factor IF-1."
+            ],
+            "pfam_descriptions": [
+                "Translation initiation factor 1A / IF-1"
+            ],
+            "pfam_accessions": [
+                "PF01176"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P38912"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 1A",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MGKKNTKGGKKGRRGKNDSDGPKRELIYKEEGQEYAQITKMLGNGRVEASCFDGNKRMAHIRGKLRKKVWMGQGDIILVSLRDFQDDQCDVVHKYNLDEARTLKNQGELPENAKINETDNFGFESDEDVNFEFGNADEDDEEGEDEELDIDDI",
+            "entity_poly_seq_one_letter_code_can": "MGKKNTKGGKKGRRGKNDSDGPKRELIYKEEGQEYAQITKMLGNGRVEASCFDGNKRMAHIRGKLRKKVWMGQGDIILVSLRDFQDDQCDVVHKYNLDEARTLKNQGELPENAKINETDNFGFESDEDVNFEFGNADEDDEEGEDEELDIDDI",
+            "entity_poly_seq_length": 153,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "These proteins share a region of similarity that falls towards the C terminus from Pfam:PF00575.",
+                "The S1 domain occurs in a wide range of RNA associated proteins.  It is structurally similar to cold shock protein which binds nucleic acids. The S1 domain has an OB-fold structure."
+            ],
+            "pfam_descriptions": [
+                "Eukaryotic translation initiation factor 2 alpha subunit",
+                "S1 RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF07541",
+                "PF00575"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P20459"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 2 subunit alpha",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MSTSHCRFYENKYPEIDDIVMVNVQQIAEMGAYVKLLEYDNIEGMILLSELSRRRIRSIQKLIRVGKNDVAVVLRVDKEKGYIDLSKRRVSSEDIIKCEEKYQKSKTVHSILRYCAEKFQIPLEELYKTIAWPLSRKFGHAYEAFKLSIIDETVWEGIEPPSKDVLDELKNYISKRLTPQAVKIRADVEVSCFSYEGIDAIKDALKSAEDMSTEQMQVKVKLVAAPLYVLTTQALDKQKGIEQLESAIEKITEVITKYGGVCNITMPPKAVTATEDAELQALLESKELDNRSDSEDDEDESDDE",
+            "entity_poly_seq_one_letter_code_can": "MSTSHCRFYENKYPEIDDIVMVNVQQIAEMGAYVKLLEYDNIEGMILLSELSRRRIRSIQKLIRVGKNDVAVVLRVDKEKGYIDLSKRRVSSEDIIKCEEKYQKSKTVHSILRYCAEKFQIPLEELYKTIAWPLSRKFGHAYEAFKLSIIDETVWEGIEPPSKDVLDELKNYISKRLTPQAVKIRADVEVSCFSYEGIDAIKDALKSAEDMSTEQMQVKVKLVAAPLYVLTTQALDKQKGIEQLESAIEKITEVITKYGGVCNITMPPKAVTATEDAELQALLESKELDNRSDSEDDEDESDDE",
+            "entity_poly_seq_length": 304,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This domain contains a P-loop motif, also found in several other families such as Pfam:PF00071, Pfam:PF00025 and Pfam:PF00063. Elongation factor Tu consists of three structural domains, this plus two C-terminal beta barrel domains.",
+                "Members of this family, which are found in the initiation factors eIF2 and EF-Tu, adopt a structure consisting of a beta barrel with Greek key topology. They are required for formation of the ternary complex with GTP and initiator tRNA [1].",
+                "Elongation factor Tu consists of three structural domains, this is the second domain. This domain adopts a beta barrel structure. This the second domain is involved in binding to charged tRNA [1]. This domain is also found in other proteins such as elongation factor G and translation initiation factor IF-2. This domain is structurally related to Pfam:PF03143, and in fact has weak sequence matches to this domain."
+            ],
+            "pfam_descriptions": [
+                "Elongation factor Tu GTP binding domain",
+                "Initiation factor eIF2 gamma, C terminal",
+                "Elongation factor Tu domain 2"
+            ],
+            "pfam_accessions": [
+                "PF00009",
+                "PF09173",
+                "PF03144"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P32481"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 2 subunit gamma",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MSDLQDQEPSIIINGNLEPVGEPDIVEETEVVAQETQETQDADKPKKKVAFTGLEEDGETEEEKRKREFEEGGGLPEQPLNPDFSKLNPLSAEIINRQATINIGTIGHVAHGKSTVVRAISGVQTVRFKDELERNITIKLGYANAKIYKCQEPTCPEPDCYRSFKSDKEISPKCQRPGCPGRYKLVRHVSFVDCPGHDILMSTMLSGAAVMDAALLLIAGNESCPQPQTSEHLAAIEIMKLKHVIILQNKVDLMREESALEHQKSILKFIRGTIADGAPIVPISAQLKYNIDAVNEFIVKTIPVPPRDFMISPRLIVIRSFDVNKPGAEIEDLKGGVAGGSILNGVFKLGDEIEIRPGIVTKDDKGKIQCKPIFSNIVSLFAEQNDLKFAVPGGLIGVGTKVDPTLCRADRLVGQVVGAKGHLPNIYTDIEINYFLLRRLLGVKTDGQKQAKVRKLEPNEVLMVNIGSTATGARVVAVKADMARLQLTSPACTEINEKIALSRRIEKHWRLIGWATIKKGTTLEPIA",
+            "entity_poly_seq_one_letter_code_can": "MSDLQDQEPSIIINGNLEPVGEPDIVEETEVVAQETQETQDADKPKKKVAFTGLEEDGETEEEKRKREFEEGGGLPEQPLNPDFSKLNPLSAEIINRQATINIGTIGHVAHGKSTVVRAISGVQTVRFKDELERNITIKLGYANAKIYKCQEPTCPEPDCYRSFKSDKEISPKCQRPGCPGRYKLVRHVSFVDCPGHDILMSTMLSGAAVMDAALLLIAGNESCPQPQTSEHLAAIEIMKLKHVIILQNKVDLMREESALEHQKSILKFIRGTIADGAPIVPISAQLKYNIDAVNEFIVKTIPVPPRDFMISPRLIVIRSFDVNKPGAEIEDLKGGVAGGSILNGVFKLGDEIEIRPGIVTKDDKGKIQCKPIFSNIVSLFAEQNDLKFAVPGGLIGVGTKVDPTLCRADRLVGQVVGAKGHLPNIYTDIEINYFLLRRLLGVKTDGQKQAKVRKLEPNEVLMVNIGSTATGARVVAVKADMARLQLTSPACTEINEKIALSRRIEKHWRLIGWATIKKGTTLEPIA",
+            "entity_poly_seq_length": 527,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This family includes the N terminus of eIF-5 Swiss:P55010, and the C terminus of eIF-2 beta Swiss:P20042. This region corresponds to the whole of the archaebacterial eIF-2 beta homologue. The region contains a putative zinc binding C4 finger."
+            ],
+            "pfam_descriptions": [
+                "Domain found in IF2B/IF5"
+            ],
+            "pfam_accessions": [
+                "PF01873"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P09064"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 2 subunit beta",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MSSDLAAELGFDPALKKKKKTKKVIPDDFDAAVNGKENGSGDDLFAGLKKKKKKSKSVSADAEAEKEPTDDIAEALGELSLKKKKKKTKDSSVDAFEKELAKAGLDNVDAESKEGTPSANSSIQQEVGLPYSELLSRFFNILRTNNPELAGDRSGPKFRIPPPVCLRDGKKTIFSNIQDIAEKLHRSPEHLIQYLFAELGTSGSVDGQKRLVIKGKFQSKQMENVLRRYILEYVTCKTCKSINTELKREQSNRLFFMVCKSCGSTRSVSSIKTGFQATVGKRRRM",
+            "entity_poly_seq_one_letter_code_can": "MSSDLAAELGFDPALKKKKKTKKVIPDDFDAAVNGKENGSGDDLFAGLKKKKKKSKSVSADAEAEKEPTDDIAEALGELSLKKKKKKTKDSSVDAFEKELAKAGLDNVDAESKEGTPSANSSIQQEVGLPYSELLSRFFNILRTNNPELAGDRSGPKFRIPPPVCLRDGKKTIFSNIQDIAEKLHRSPEHLIQYLFAELGTSGSVDGQKRLVIKGKFQSKQMENVLRRYILEYVTCKTCKSINTELKREQSNRLFFMVCKSCGSTRSVSSIKTGFQATVGKRRRM",
+            "entity_poly_seq_length": 285,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This domain of unknown function is found at the C-terminus of several translation initiation factors [1].",
+                "This family includes the N terminus of eIF-5 Swiss:P55010, and the C terminus of eIF-2 beta Swiss:P20042. This region corresponds to the whole of the archaebacterial eIF-2 beta homologue. The region contains a putative zinc binding C4 finger."
+            ],
+            "pfam_descriptions": [
+                "eIF4-gamma/eIF5/eIF2-epsilon",
+                "Domain found in IF2B/IF5"
+            ],
+            "pfam_accessions": [
+                "PF02020",
+                "PF01873"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P38431"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 5",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "MSINICRDNHDPFYRYKMPPIQAKVEGRGNGIKTAVLNVADISHALNRPAPYIVKYFGFELGAQTSISVDKDRYLVNGVHEPAKLQDVLDGFINKFVLCGSCKNPETEIIITKDNDLVRDCKACGKRTPMDLRHKLSSFILKNPPDSVSGSKKKKKAATASANVRGGGLSISDIAQGKSQNAPSDGTGSSTPQHHDEDEDELSRQIKAAASTLEDIEVKDDEWAVDMSEEAIRARAKELEVNSELTQLDEYGEWILEQAGEDKENLPSDVELYKKAAELDVLNDPKIGCVLAQCLFDEDIVNEIAEHNAFFTKILVTPEYEKNFMGGIERFLGLEHKDLIPLLPKILVQLYNNDIISEEEIMRFGTKSSKKFVPKEVSKKVRRAAKPFITWLETAESDDDEEDDE",
+            "entity_poly_seq_one_letter_code_can": "MSINICRDNHDPFYRYKMPPIQAKVEGRGNGIKTAVLNVADISHALNRPAPYIVKYFGFELGAQTSISVDKDRYLVNGVHEPAKLQDVLDGFINKFVLCGSCKNPETEIIITKDNDLVRDCKACGKRTPMDLRHKLSSFILKNPPDSVSGSKKKKKAATASANVRGGGLSISDIAQGKSQNAPSDGTGSSTPQHHDEDEDELSRQIKAAASTLEDIEVKDDEWAVDMSEEAIRARAKELEVNSELTQLDEYGEWILEQAGEDKENLPSDVELYKKAAELDVLNDPKIGCVLAQCLFDEDIVNEIAEHNAFFTKILVTPEYEKNFMGGIERFLGLEHKDLIPLLPKILVQLYNNDIISEEEIMRFGTKSSKKFVPKEVSKKVRRAAKPFITWLETAESDDDEEDDE",
+            "entity_poly_seq_length": 405,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P38249"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit A",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MAPPPFRPENAIKRADELISVGEKQAALQSLHDFITARRIRWATPSTVEPVVFKFLEIGVELKKGKLLKDGLHQYKKLIQGSTEGLVSVGAVARKFIDLVESKIASEQTRADELQKQEIDDDLEGGVTPENLLISVYESDQSVAGFNDEAITSWLRFTWESYRAVLDLLRNNALLEITYSGVVKKTMHFCLKYQRKNEFKRLAEMLRQHLDAANYQQSKSGNNLVDLSDADTLQRYLDQRFQQVDVSVKLELWHEAYRSIEDVFHLMKISKRAPKPSTLANYYENLVKVFFVSGDPLLHTTAWKKFYKLYSTNPRATEEEFKTYSSTIFLSAISTQLDEIPSIGYDPHLRMYRLLNLDAKPTRKEMLQSIIEDESIYGKVDEELKELYDIIEVNFDVDTVKQQLENLLVKLSSKTYFSQYIAPLRDVIMRRVFVAASQKFTTVSQSELYKLATLPAPLDLSAWDIEKSLLQAAVEDYVSITIDHESAKVTFAKDPFDIFASTASKEVSEEENTEPEVQEEKEETDEALGPQETEDGEEKEEESDPVIIRNSYIHNKLLELSNVLHDVDSFNNASYMEKVRIARETLIKKNKDDLEKISKIVDERVKRSQEQKQKHMEHAALHAEQDAEVRQQRILEEKAAIEAKLEEEAHRRLIEKKKREFEAIKEREITKMITEVNAKGHVYIDPNEAKSLDLDTIKQVIIAEVSKNKSELESRMEYAMKKLDHTERALRKVELPLLQKEVDKLQETDTANYEAMKKKIVDAAKAEYEARMADRKNLVMVYDDYLKFKEHVSGTKESELAAIRNQKKAELEAAKKARIEEVRKRRYEEAIARRKEEIANAERQKRAQELAEATRKQREIEEAAAKKSTPYSFRAGNREPPSTPSTLPKATVSPDKAKLDMIAQKQREMEEAIEQRLAGRTAGGSSPATPATPATPATPTPSSGPKKMTMAEKLRAKRLAKGGR",
+            "entity_poly_seq_one_letter_code_can": "MAPPPFRPENAIKRADELISVGEKQAALQSLHDFITARRIRWATPSTVEPVVFKFLEIGVELKKGKLLKDGLHQYKKLIQGSTEGLVSVGAVARKFIDLVESKIASEQTRADELQKQEIDDDLEGGVTPENLLISVYESDQSVAGFNDEAITSWLRFTWESYRAVLDLLRNNALLEITYSGVVKKTMHFCLKYQRKNEFKRLAEMLRQHLDAANYQQSKSGNNLVDLSDADTLQRYLDQRFQQVDVSVKLELWHEAYRSIEDVFHLMKISKRAPKPSTLANYYENLVKVFFVSGDPLLHTTAWKKFYKLYSTNPRATEEEFKTYSSTIFLSAISTQLDEIPSIGYDPHLRMYRLLNLDAKPTRKEMLQSIIEDESIYGKVDEELKELYDIIEVNFDVDTVKQQLENLLVKLSSKTYFSQYIAPLRDVIMRRVFVAASQKFTTVSQSELYKLATLPAPLDLSAWDIEKSLLQAAVEDYVSITIDHESAKVTFAKDPFDIFASTASKEVSEEENTEPEVQEEKEETDEALGPQETEDGEEKEEESDPVIIRNSYIHNKLLELSNVLHDVDSFNNASYMEKVRIARETLIKKNKDDLEKISKIVDERVKRSQEQKQKHMEHAALHAEQDAEVRQQRILEEKAAIEAKLEEEAHRRLIEKKKREFEAIKEREITKMITEVNAKGHVYIDPNEAKSLDLDTIKQVIIAEVSKNKSELESRMEYAMKKLDHTERALRKVELPLLQKEVDKLQETDTANYEAMKKKIVDAAKAEYEARMADRKNLVMVYDDYLKFKEHVSGTKESELAAIRNQKKAELEAAKKARIEEVRKRRYEEAIARRKEEIANAERQKRAQELAEATRKQREIEEAAAKKSTPYSFRAGNREPPSTPSTLPKATVSPDKAKLDMIAQKQREMEEAIEQRLAGRTAGGSSPATPATPATPATPTPSSGPKKMTMAEKLRAKRLAKGGR",
+            "entity_poly_seq_length": 964,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This is a family of eukaryotic translation initiation factors.",
+                "The RRM motif is probably diagnostic of an RNA binding protein. RRMs are found in a variety of RNA binding proteins, including various hnRNP proteins, proteins implicated in regulation of alternative splicing, and protein components of snRNPs. The motif also appears in a few single stranded DNA binding proteins.  The RRM structure consists of four strands and two helices arranged in an alpha/beta sandwich, with a third helix present during RNA binding in some cases The C-terminal beta strand (4th strand) and final helix are hard to align and have been omitted in the SEED alignment The LA proteins (Swiss:P05455) have an N terminal rrm which is included in the seed. There is a second region towards the C terminus that has some features characteristic of a rrm but does not appear to have the important structural core of a rrm. The LA proteins (Swiss:P05455) are one of the main autoantigens in Systemic lupus erythematosus (SLE), an autoimmune disease."
+            ],
+            "pfam_descriptions": [
+                "Eukaryotic translation initiation factor eIF2A",
+                "RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)"
+            ],
+            "pfam_accessions": [
+                "PF08662",
+                "PF00076"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P06103"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit B",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MKNFLPRTLKNIYELYFNNISVHSIVSRNTQLKRSKIIQMTTETFEDIKLEDIPVDDIDFSDLEEQYKVTEEFNFDQYIVVNGAPVIPSAKVPVLKKALTSLFSKAGKVVNMEFPIDEATGKTKGFLFVECGSMNDAKKIIKSFHGKRLDLKHRLFLYTMKDVERYNSDDFDTEFREPDMPTFVPSSSLKSWLMDDKVRDQFVLQDDVKTSVFWNSMFNEEDSLVESRENWSTNYVRFSPKGTYLFSYHQQGVTAWGGPNFDRLRRFYHPDVRNSSVSPNEKYLVTFSTEPIIVEEDNEFSPFTKKNEGHQLCIWDIASGLLMATFPVIKSPYLKWPLVRWSYNDKYCARMVGDSLIVHDATKNFMPLEAKALKPSGIRDFSFAPEGVKLQPFRNGDEPSVLLAYWTPETNNSACTATIAEVPRGRVLKTVNLVQVSNVTLHWQNQAEFLCFNVERHTKSGKTQFSNLQICRLTERDIPVEKVELKDSVFEFGWEPHGNRFVTISVHEVADMNYAIPANTIRFYAPETKEKTDVIKRWSLVKEIPKTFANTVSWSPAGRFVVVGALVGPNMRRSDLQFYDMDYPGEKNINDNNDVSASLKDVAHPTYSAATNITWDPSGRYVTAWSSSLKHKVEHGYKIFNIAGNLVKEDIIAGFKNFAWRPRPASILSNAERKKVRKNLREWSAQFEEQDAMEADTAMRDLILHQRELLKQWTEYREKIGQEMEKSMNFKIFDVQPEDASDDFTTIEEIVEEVLEETKEKVE",
+            "entity_poly_seq_one_letter_code_can": "MKNFLPRTLKNIYELYFNNISVHSIVSRNTQLKRSKIIQMTTETFEDIKLEDIPVDDIDFSDLEEQYKVTEEFNFDQYIVVNGAPVIPSAKVPVLKKALTSLFSKAGKVVNMEFPIDEATGKTKGFLFVECGSMNDAKKIIKSFHGKRLDLKHRLFLYTMKDVERYNSDDFDTEFREPDMPTFVPSSSLKSWLMDDKVRDQFVLQDDVKTSVFWNSMFNEEDSLVESRENWSTNYVRFSPKGTYLFSYHQQGVTAWGGPNFDRLRRFYHPDVRNSSVSPNEKYLVTFSTEPIIVEEDNEFSPFTKKNEGHQLCIWDIASGLLMATFPVIKSPYLKWPLVRWSYNDKYCARMVGDSLIVHDATKNFMPLEAKALKPSGIRDFSFAPEGVKLQPFRNGDEPSVLLAYWTPETNNSACTATIAEVPRGRVLKTVNLVQVSNVTLHWQNQAEFLCFNVERHTKSGKTQFSNLQICRLTERDIPVEKVELKDSVFEFGWEPHGNRFVTISVHEVADMNYAIPANTIRFYAPETKEKTDVIKRWSLVKEIPKTFANTVSWSPAGRFVVVGALVGPNMRRSDLQFYDMDYPGEKNINDNNDVSASLKDVAHPTYSAATNITWDPSGRYVTAWSSSLKHKVEHGYKIFNIAGNLVKEDIIAGFKNFAWRPRPASILSNAERKKVRKNLREWSAQFEEQDAMEADTAMRDLILHQRELLKQWTEYREKIGQEMEKSMNFKIFDVQPEDASDDFTTIEEIVEEVLEETKEKVE",
+            "entity_poly_seq_length": 763,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "The largest of the mammalian translation initiation factors, eIF3, consists of at least eight subunits ranging in mass from 35 to 170 kDa. eIF3 binds to the 40 S ribosome in an early step of translation initiation and promotes the binding of methionyl-tRNAi and mRNA [1].",
+                "This domain has also been called the PINT motif (Proteasome, Int-6, Nip-1 and TRIP-15) [1]."
+            ],
+            "pfam_descriptions": [
+                "Eukaryotic translation initiation factor 3 subunit 8 N-terminus",
+                "PCI domain"
+            ],
+            "pfam_accessions": [
+                "PF05470",
+                "PF01399"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292,
+                559292
+            ],
+            "uniprot_accession": [
+                "P32497"
+            ],
+            "rcsb_pdbx_description": "eIF3c,eIF3c",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)QEDFFTRLQTIIDSRGKKTVNQQSLISTLEELLTVAEKPYEFIMAYLTLIPSRFDASANLSYQPIDQWKSSFNDISKLLSILDQTIDTYQVNEFADPIDFIEDEPKEDSDGVKRILGSIFSFVERLDDEFMKSLLNIDPHSSDYLIRLRDEQSIYNLILRTQLYFEATLKDEHDLERALTRPFVKRLDHIYYKSENLIKIMETAAWNIIPAQFKSKFTSKDQLDSADYVDNLIDGLSTILSKQNNIAVQKRAILYNIYYTALNKDFQTAKDMLLTSQVQTNINQFDSSLQILFNRVVVQLGLSAFKLCLIEECHQILNDLLSSSHLREILGQQSLHRISLNSSNNASADERARQCLPYHQHINLDLIDVVFLTCSLLIEIPRMTAFYSGIKVKRIPYSPKSIRRSLEHYDKLSFQGPPETLRDYVLFAAKSMQKGNWRDSVKYLREIKSWALLPNMETVLNSLTERVQVESLKTYFFSFKRFYSSFSVAKLAELFDLPENKVVEVLQSVIAELEIPAKLNDEKTIFVVEKGDEITKLEEAMVKLNKEYKIAKERLNPPSNRR",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXQEDFFTRLQTIIDSRGKKTVNQQSLISTLEELLTVAEKPYEFIMAYLTLIPSRFDASANLSYQPIDQWKSSFNDISKLLSILDQTIDTYQVNEFADPIDFIEDEPKEDSDGVKRILGSIFSFVERLDDEFMKSLLNIDPHSSDYLIRLRDEQSIYNLILRTQLYFEATLKDEHDLERALTRPFVKRLDHIYYKSENLIKIMETAAWNIIPAQFKSKFTSKDQLDSADYVDNLIDGLSTILSKQNNIAVQKRAILYNIYYTALNKDFQTAKDMLLTSQVQTNINQFDSSLQILFNRVVVQLGLSAFKLCLIEECHQILNDLLSSSHLREILGQQSLHRISLNSSNNASADERARQCLPYHQHINLDLIDVVFLTCSLLIEIPRMTAFYSGIKVKRIPYSPKSIRRSLEHYDKLSFQGPPETLRDYVLFAAKSMQKGNWRDSVKYLREIKSWALLPNMETVLNSLTERVQVESLKTYFFSFKRFYSSFSVAKLAELFDLPENKVVEVLQSVIAELEIPAKLNDEKTIFVVEKGDEITKLEEAMVKLNKEYKIAKERLNPPSNRR",
+            "entity_poly_seq_length": 812,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "This domain family is found in eukaryotes, and is approximately 130 amino acids in length. The family is found in association with Pfam:PF00076. This family is subunit G of the eukaryotic translation initiation factor 3. Subunit G is required for eIF3 integrity.",
+                "The RRM motif is probably diagnostic of an RNA binding protein. RRMs are found in a variety of RNA binding proteins, including various hnRNP proteins, proteins implicated in regulation of alternative splicing, and protein components of snRNPs. The motif also appears in a few single stranded DNA binding proteins.  The RRM structure consists of four strands and two helices arranged in an alpha/beta sandwich, with a third helix present during RNA binding in some cases The C-terminal beta strand (4th strand) and final helix are hard to align and have been omitted in the SEED alignment The LA proteins (Swiss:P05455) have an N terminal rrm which is included in the seed. There is a second region towards the C terminus that has some features characteristic of a rrm but does not appear to have the important structural core of a rrm. The LA proteins (Swiss:P05455) are one of the main autoantigens in Systemic lupus erythematosus (SLE), an autoimmune disease."
+            ],
+            "pfam_descriptions": [
+                "Eukaryotic translation initiation factor 3 subunit G",
+                "RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)"
+            ],
+            "pfam_accessions": [
+                "PF12353",
+                "PF00076"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "A6ZZ25"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit G",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "MSEVAPEEIIENADGSRSIITYKIEDGVKYKITQKVKEVKVLEKVHKSVAERKNWHKYGSEKGSPAGPSAVTARLGEEVELRLSRNWKQAEEERIQKEKASLTKTGLQCRLCGNDHMTMNCPFKTILSELSALEDPATSEGGVEAASEEKAGQVGGAGSIPGQYVPPSRRAGARDPSSDAYRDSRERDDMCTLKIMQVNENADENSLREELLFPFAPIPRVSVVRNKETGKSRGLAFVTFSSEEVAEQALRFLDGRGYMNLILRVEWSKPKVKE",
+            "entity_poly_seq_one_letter_code_can": "MSEVAPEEIIENADGSRSIITYKIEDGVKYKITQKVKEVKVLEKVHKSVAERKNWHKYGSEKGSPAGPSAVTARLGEEVELRLSRNWKQAEEERIQKEKASLTKTGLQCRLCGNDHMTMNCPFKTILSELSALEDPATSEGGVEAASEEKAGQVGGAGSIPGQYVPPSRRAGARDPSSDAYRDSRERDDMCTLKIMQVNENADENSLREELLFPFAPIPRVSVVRNKETGKSRGLAFVTFSSEEVAEQALRFLDGRGYMNLILRVEWSKPKVKE",
+            "entity_poly_seq_length": 274,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P40217"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit I",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "MKAIKLTGHERPLTQVKYNKEGDLLFSCSKDSSASVWYSLNGERLGTLDGHTGTIWSIDVDCFTKYCVTGSADYSIKLWDVSNGQCVATWKSPVPVKRVEFSPCGNYFLAILDNVMKNPGSINIYEIERDSATHELTKVSEEPIHKIITHEGLDAATVAGWSTKGKYIIAGHKDGKISKYDVSNNYEYVDSIDLHEKSISDMQFSPDLTYFITSSRDTNSFLVDVSTLQVLKKYETDCPLNTAVITPLKEFIILGGGQEAKDVTTTSANEGKFEARFYHKIFEEEIGRVQGHFGPLNTVAISPQGTSYASGGEDGFIRLHHFEKSYFDFKYDVEKAAEAKEHMQEAN",
+            "entity_poly_seq_one_letter_code_can": "MKAIKLTGHERPLTQVKYNKEGDLLFSCSKDSSASVWYSLNGERLGTLDGHTGTIWSIDVDCFTKYCVTGSADYSIKLWDVSNGQCVATWKSPVPVKRVEFSPCGNYFLAILDNVMKNPGSINIYEIERDSATHELTKVSEEPIHKIITHEGLDAATVAGWSTKGKYIIAGHKDGKISKYDVSNNYEYVDSIDLHEKSISDMQFSPDLTYFITSSRDTNSFLVDVSTLQVLKKYETDCPLNTAVITPLKEFIILGGGQEAKDVTTTSANEGKFEARFYHKIFEEEIGRVQGHFGPLNTVAISPQGTSYASGGEDGFIRLHHFEKSYFDFKYDVEKAAEAKEHMQEAN",
+            "entity_poly_seq_length": 347,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6FYX",
+            "rcsb_pdbx_description": "tRNAi",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "AGCGCCGU(1MG)(2MG)CGCAG(H2U)GGAAGCGC(M2G)CAGGGCUCAU(T6A)ACCCUGAU(7MG)(H2U)(5MC)(5MC)UCGGAUCG(1MA)AACCG(RIA)GCGGCGCUACCA",
+            "entity_poly_seq_one_letter_code_can": "AGCGCCGUGGCGCAGUGGAAGCGCGCAGGGCUCAUAACCCUGAUGUCCUCGGAUCGAAACCGAGCGGCGCUACCA",
+            "entity_poly_seq_length": 75,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "rcsb_pdbx_description": "18S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)"
+            ],
+            "rcsb_source_organism_id": [
+                284590
+            ],
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "UAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUA(PSU)UUGAUAGUUCCUUUACUACAUGGAUAUCUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCCUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAG(PSU)GACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAACUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAGUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGUCUGGUUGUCCGGUCCGACUUUAUGUCGCGCACGGUUUUUCAACCGGAUCUUUCCUUCUGGCUAACCUGUACUCCUUGUGGGUGCAGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUG(PSU)UCAAAGCAGGCGAAAGCUCGAAUAUAUUAGCAUGGAAUAAUGGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGA(PSU)CAGAUAC(5MC)GUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUCUUAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGAC(C4J)CAACACGGGGAAACUCACCAGGUCCAGACACAAUAAGGAUUGACAGAUUGAGAGCUCUUUCUUGAUUUUGUGGGUGGUGGUGCAUGGCCGUUCUUAGU(PSU)GGUGGAGUGAUUUGUCUGCUUAAUUGCGAUAACGAACGAGACCUUAACCUACUAAAUAGGGUUGCUGGCACUUGCCGGUUGACUCUUCUUAGAGGGACUAUCGGUUUCAAGCCGAUGGAAGUUUGAGGCAAUAACA(2MG)GUCUGUGAUGCCCUUAGACGUUCUGGGCCGCACGCGCGCUACACUGACGGAGCCAGCGAGUACAACCUUGGCCGAGAGGUCUGGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAAC(2MG)AG(7MG)AAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCG(5MC)CCGUCGCUAGUACCGAUUGAAUGGCUUAGUGAGGCCUCAGGAUUUGCUUAGAGAAGGGGGCAACUCCAUCUCAGAGCGAAGAAUCUGGUCAAACUUGGUCAUUUAGAGGAACUAAAAGUCGUAACAAGGUUUCCGUAGGUGA(MA6)CCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_one_letter_code_can": "UAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGAUAUCUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCCUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAACUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAGUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGUCUGGUUGUCCGGUCCGACUUUAUGUCGCGCACGGUUUUUCAACCGGAUCUUUCCUUCUGGCUAACCUGUACUCCUUGUGGGUGCAGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGAAAGCUCGAAUAUAUUAGCAUGGAAUAAUGGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUCUUAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACXCAACACGGGGAAACUCACCAGGUCCAGACACAAUAAGGAUUGACAGAUUGAGAGCUCUUUCUUGAUUUUGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGUGAUUUGUCUGCUUAAUUGCGAUAACGAACGAGACCUUAACCUACUAAAUAGGGUUGCUGGCACUUGCCGGUUGACUCUUCUUAGAGGGACUAUCGGUUUCAAGCCGAUGGAAGUUUGAGGCAAUAACAGGUCUGUGAUGCCCUUAGACGUUCUGGGCCGCACGCGCGCUACACUGACGGAGCCAGCGAGUACAACCUUGGCCGAGAGGUCUGGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACCGAUUGAAUGGCUUAGUGAGGCCUCAGGAUUUGCUUAGAGAAGGGGGCAACUCCAUCUCAGAGCGAAGAAUCUGGUCAAACUUGGUCAUUUAGAGGAACUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_length": 1798,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6FYX",
+            "rcsb_pdbx_description": "mRNA (31-MER)",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae"
+            ],
+            "rcsb_source_organism_id": [
+                4932
+            ],
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "GGGCUCUCUUCUCUCUCUAACUAUAAAAAUGUCUCUUCUCUCUCUCGAU",
+            "entity_poly_seq_one_letter_code_can": "GGGCUCUCUUCUCUCUCUAACUAUAAAAAUGUCUCUUCUCUCUCUCGAU",
+            "entity_poly_seq_length": 49,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "METHIONINE",
+            "formula_weight": 0.149,
+            "chemicalId": "MET",
+            "chemicalName": "METHIONINE",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "PHOSPHOMETHYLPHOSPHONIC ACID GUANYLATE ESTER",
+            "formula_weight": 0.521,
+            "chemicalId": "GCP",
+            "chemicalName": "PHOSPHOMETHYLPHOSPHONIC ACID GUANYLATE ESTER",
+            "cif_residueId": "none"
+        }
+    ]
+}

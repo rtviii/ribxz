@@ -1,0 +1,807 @@
+{
+    "rcsb_id": "4V92",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.7,
+    "rcsb_external_ref_id": [
+        "EMD-2604"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-2604"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": null,
+    "cryoem_exp_resolution": 3.7,
+    "cryoem_exp_num_particles": 18132,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2014,
+    "citation_rcsb_authors": [
+        "Fernandez, I.S.",
+        "Bai, X.",
+        "Murshudov, G.",
+        "Scheres, S.H.W.",
+        "Ramakrishnan, V."
+    ],
+    "citation_title": "Initiation of Translation by Cricket Paralysis Virus Ires Requires its Translocation in the Ribosome.",
+    "citation_pdbx_doi": "10.1016/J.CELL.2014.04.015",
+    "pdbx_keywords_text": "EUKARYOTIC, TRANSLATION, INITIATION, RIBOSOME, IRES",
+    "_organismId": [
+        28985
+    ],
+    "_organismName": [
+        "KLUYVEROMYCES LACTIS"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES7",
+            "entity_poly_strand_id": "BH",
+            "entity_poly_seq_one_letter_code": "PQAKILSQAPTELELQVAQAFVELENSSPELKAELRPLQFKSIREIDVAGGKKALAIFVPVPSLAGFHKVQTKLTRELEKKFQDRHVIFLAERRILPKPSRTSRQVQKRPRSRTLTAVHDKILEDLVFPTEIVGKRVRYLVGGNKIQKVLLDSKDVQQIDYKLESFQAVYNKLTGKQIVFEIPS",
+            "entity_poly_seq_one_letter_code_can": "PQAKILSQAPTELELQVAQAFVELENSSPELKAELRPLQFKSIREIDVAGGKKALAIFVPVPSLAGFHKVQTKLTRELEKKFQDRHVIFLAERRILPKPSRTSRQVQKRPRSRTLTAVHDKILEDLVFPTEIVGKRVRYLVGGNKIQKVLLDSKDVQQIDYKLESFQAVYNKLTGKQIVFEIPS",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES8",
+            "entity_poly_strand_id": "BI",
+            "entity_poly_seq_one_letter_code": "GISRDSRHKRSATGAKRAQFRKKRKFELGRQPANTKIGAKRIHSVRTRGGNKKYRALRIETGNFSWASEGISKKTRIAGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWFEAHYGQTLGKKSKNAERKWAARAASAKIESSVESQFSAGRLYACISSRPGQSGRCDGYILEGEELAFYLRRLTAK",
+            "entity_poly_seq_one_letter_code_can": "GISRDSRHKRSATGAKRAQFRKKRKFELGRQPANTKIGAKRIHSVRTRGGNKKYRALRIETGNFSWASEGISKKTRIAGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWFEAHYGQTLGKKSKNAERKWAARAASAKIESSVESQFSAGRLYACISSRPGQSGRCDGYILEGEELAFYLRRLTAK",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US4",
+            "entity_poly_strand_id": "BJ",
+            "entity_poly_seq_one_letter_code": "PRAPRTYSKTYSTPKRPYESSRLDAELKLAGEFGLKNKKEIYRISFQLSKIRRAARDLLTRDEKDPKRLFEGNALIRRLVRVGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAASVHHARVLITQRHIAVGKQIVNIPSFMVRLDSEKHIDFAPTSPFGGARPGRVARRNAARK",
+            "entity_poly_seq_one_letter_code_can": "PRAPRTYSKTYSTPKRPYESSRLDAELKLAGEFGLKNKKEIYRISFQLSKIRRAARDLLTRDEKDPKRLFEGNALIRRLVRVGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAASVHHARVLITQRHIAVGKQIVNIPSFMVRLDSEKHIDFAPTSPFGGARPGRVARRNAARK",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES10",
+            "entity_poly_strand_id": "BK",
+            "entity_poly_seq_one_letter_code": "MLMPKEDRNKIHQYLFQEGVVVAKADFNQAAHEEIDTKNLYVIKALQSLTSKGYVKTQFSWQYYYYTLTEEGVEYLREYLNLPEHIVPGTYIQ",
+            "entity_poly_seq_one_letter_code_can": "MLMPKEDRNKIHQYLFQEGVVVAKADFNQAAHEEIDTKNLYVIKALQSLTSKGYVKTQFSWQYYYYTLTEEGVEYLREYLNLPEHIVPGTYIQ",
+            "entity_poly_seq_length": 93,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US17",
+            "entity_poly_strand_id": "BL",
+            "entity_poly_seq_one_letter_code": "ELTVQSERAFQKQPHIFNNPKVKTSKRTKRWYKNAGLGFKTPKTAIEGSYIDKKCPFTGLVSIRGKILTGTVVSTKMHRTIVIRRAYLHYIPKYNRYEKRHKNVPVHVSPAFRVQVGDIVTVGQCRPISKTVRFNVVKVSAA",
+            "entity_poly_seq_one_letter_code_can": "ELTVQSERAFQKQPHIFNNPKVKTSKRTKRWYKNAGLGFKTPKTAIEGSYIDKKCPFTGLVSIRGKILTGTVVSTKMHRTIVIRRAYLHYIPKYNRYEKRHKNVPVHVSPAFRVQVGDIVTVGQCRPISKTVRFNVVKVSAA",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES12",
+            "entity_poly_strand_id": "BM",
+            "entity_poly_seq_one_letter_code": "IEDALKVVLRTALVHDGLARGLRESTKALTRGEALLVVLVSSVTEANIIKLVEGLANDPENKVPLIKVADAKQLGEWAGLGKIDREGNARKVVGASVVVVKNWGAETDELSMIMEHFSQQ",
+            "entity_poly_seq_one_letter_code_can": "IEDALKVVLRTALVHDGLARGLRESTKALTRGEALLVVLVSSVTEANIIKLVEGLANDPENKVPLIKVADAKQLGEWAGLGKIDREGNARKVVGASVVVVKNWGAETDELSMIMEHFSQQ",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US15",
+            "entity_poly_strand_id": "BN",
+            "entity_poly_seq_one_letter_code": "GRMHSAGKGISSSAIPYSRNAPAWFKLSSESVIEQIVKYARKGLTPSQIGVLLRDAHGVTQARVITGNKIMRILKSNGLAPEIPEDLYYLIKKAVSVRKHLERNRKDKDAKFRLILIESRIHRLARYYRTVAVLPPNWKYESATASALVN",
+            "entity_poly_seq_one_letter_code_can": "GRMHSAGKGISSSAIPYSRNAPAWFKLSSESVIEQIVKYARKGLTPSQIGVLLRDAHGVTQARVITGNKIMRILKSNGLAPEIPEDLYYLIKKAVSVRKHLERNRKDKDAKFRLILIESRIHRLARYYRTVAVLPPNWKYESATASALVN",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US11",
+            "entity_poly_strand_id": "BO",
+            "entity_poly_seq_one_letter_code": "SQVFGVARIYASFNDTFVHVTDLSGKETIARVTGGMKVKADRDESSPYAAMLAAQDVAAKCKEVGITAVHVKIRATGGTRTKTPGPGGQAALRALARSGLRIGRIEDVTPVPSDSTRKKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "SQVFGVARIYASFNDTFVHVTDLSGKETIARVTGGMKVKADRDESSPYAAMLAAQDVAAKCKEVGITAVHVKIRATGGTRTKTPGPGGQAALRALARSGLRIGRIEDVTPVPSDSTRKKGGRRGRRL",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US19",
+            "entity_poly_strand_id": "BP",
+            "entity_poly_seq_one_letter_code": "FKTHSYRGVDLEKLLEMSTEDFVKLAPARVRRRFARGMTSKPAGFMKKLRAAKLAAPENEKPAPVRTHMRNMIIVPEMIGSVVGIYNGKAFNQVEIRPEMLGHYLGEFSITYTPV",
+            "entity_poly_seq_one_letter_code_can": "FKTHSYRGVDLEKLLEMSTEDFVKLAPARVRRRFARGMTSKPAGFMKKLRAAKLAAPENEKPAPVRTHMRNMIIVPEMIGSVVGIYNGKAFNQVEIRPEMLGHYLGEFSITYTPV",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US9",
+            "entity_poly_strand_id": "BQ",
+            "entity_poly_seq_one_letter_code": "AVPSVQTFGKKKSATAVAHVKAGKGLIKVNGSPITLVEPEILAFKVYEPLLLVGLDKFSNIDIRVRVTGGGHVSQVYAIRQAIAKGLVAYHQKYVDEQSKNELKKAFTSYDATLLIADSRRPEPKKFGGKGARSRFQKSY",
+            "entity_poly_seq_one_letter_code_can": "AVPSVQTFGKKKSATAVAHVKAGKGLIKVNGSPITLVEPEILAFKVYEPLLLVGLDKFSNIDIRVRVTGGGHVSQVYAIRQAIAKGLVAYHQKYVDEQSKNELKKAFTSYDATLLIADSRRPEPKKFGGKGARSRFQKSY",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES17",
+            "entity_poly_strand_id": "BR",
+            "entity_poly_seq_one_letter_code": "GRVRTKTVKRASKALIERYYPKLTLDFQTNKRLCDEIATIQSKRLRNKIAGYTTHLMKRIQKGPVRGISFKLQEEERERKDQYVPEVKAARSNGVLNVDNQTSDLVKSLGLKLPLSVINVS",
+            "entity_poly_seq_one_letter_code_can": "GRVRTKTVKRASKALIERYYPKLTLDFQTNKRLCDEIATIQSKRLRNKIAGYTTHLMKRIQKGPVRGISFKLQEEERERKDQYVPEVKAARSNGVLNVDNQTSDLVKSLGLKLPLSVINVS",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US13",
+            "entity_poly_strand_id": "BS",
+            "entity_poly_seq_one_letter_code": "SLVVQEQGSFQHILRLLNTNVDGNIKIVYALTTIKGVGRRYSNLVCKKADVDLHKRAGELTQEELERIVQIMQNPTHYKIPAWFLNRQNDITDGKDYHTLANNVESKLRDDLERLKKIRAHRGIRHFWGLRVRGQHTKTT",
+            "entity_poly_seq_one_letter_code_can": "SLVVQEQGSFQHILRLLNTNVDGNIKIVYALTTIKGVGRRYSNLVCKKADVDLHKRAGELTQEELERIVQIMQNPTHYKIPAWFLNRQNDITDGKDYHTLANNVESKLRDDLERLKKIRAHRGIRHFWGLRVRGQHTKTT",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES19",
+            "entity_poly_strand_id": "BT",
+            "entity_poly_seq_one_letter_code": "GVSVRDVAAQDFINAYASFLQRQGKLEVPGYVDIVKTSSGNEMPPQDAEGWFYKRAASVARHIYMRKQVGVGKLNKLYGGAKSRGVRPYKHIDASGSINRKVLQALEKIGIVEISPKGGRRISENGQRDLDRIAAQTLEEDE",
+            "entity_poly_seq_one_letter_code_can": "GVSVRDVAAQDFINAYASFLQRQGKLEVPGYVDIVKTSSGNEMPPQDAEGWFYKRAASVARHIYMRKQVGVGKLNKLYGGAKSRGVRPYKHIDASGSINRKVLQALEKIGIVEISPKGGRRISENGQRDLDRIAAQTLEEDE",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US10",
+            "entity_poly_strand_id": "BU",
+            "entity_poly_seq_one_letter_code": "QQIIKIRITLTSTKVKQLENVSSNIVKNAEQHNLVKKGPVRLPTKVLKISTRKTPNGEGSKTWETYEMRIHKRYIDLEAPVQIVKRITQITIEPGVDVEVVVAS",
+            "entity_poly_seq_one_letter_code_can": "QQIIKIRITLTSTKVKQLENVSSNIVKNAEQHNLVKKGPVRLPTKVLKISTRKTPNGEGSKTWETYEMRIHKRYIDLEAPVQIVKRITQITIEPGVDVEVVVAS",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES21",
+            "entity_poly_strand_id": "BV",
+            "entity_poly_seq_one_letter_code": "MENDKGQLVELYVPRKCSATNRIIKADDHASVQINVAKVDEEGRAIPGEYVTYALSGYVRSRGESDDSLNRLAQNDGLLKNVWSYSR",
+            "entity_poly_seq_one_letter_code_can": "MENDKGQLVELYVPRKCSATNRIIKADDHASVQINVAKVDEEGRAIPGEYVTYALSGYVRSRGESDDSLNRLAQNDGLLKNVWSYSR",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US8",
+            "entity_poly_strand_id": "BW",
+            "entity_poly_seq_one_letter_code": "TRSSVLADALNAINNAEKTGKRQVLIRPSSKVIIKFLQVMQKHGYIGEFEYIDDHRSGKIVVQLNGRLNKCGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGFVY",
+            "entity_poly_seq_one_letter_code_can": "TRSSVLADALNAINNAEKTGKRQVLIRPSSKVIIKFLQVMQKHGYIGEFEYIDDHRSGKIVVQLNGRLNKCGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGFVY",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US12",
+            "entity_poly_strand_id": "BX",
+            "entity_poly_seq_one_letter_code": "GKGKPRGLNSARKLRVHRRNNRWAENNYKKRLLGTAFKSSPFGGSSHAKGIVLEKLGIESKQPNSAIRKCVRVQLIKNGKKVTAFVPNAGCLNFVDENDEVLLAGFGRKGKAKGDIPGVRFKVVKVSGVSLLALWKEKKEKP",
+            "entity_poly_seq_one_letter_code_can": "GKGKPRGLNSARKLRVHRRNNRWAENNYKKRLLGTAFKSSPFGGSSHAKGIVLEKLGIESKQPNSAIRKCVRVQLIKNGKKVTAFVPNAGCLNFVDENDEVLLAGFGRKGKAKGDIPGVRFKVVKVSGVSLLALWKEKKEKP",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES24",
+            "entity_poly_strand_id": "BY",
+            "entity_poly_seq_one_letter_code": "SDAVTIRTRKVISNPLLARKQFVVDVLHPNRANVSKDELREKLAEVYKAEKDAVSVFGFRTQFGGGKSVGFGLVYNSVAEAKKFEPTYRLVRYGLAEKVEKASRQQRKQKKNRDKKIFGTGKRLAKKVARRNAD",
+            "entity_poly_seq_one_letter_code_can": "SDAVTIRTRKVISNPLLARKQFVVDVLHPNRANVSKDELREKLAEVYKAEKDAVSVFGFRTQFGGGKSVGFGLVYNSVAEAKKFEPTYRLVRYGLAEKVEKASRQQRKQKKNRDKKIFGTGKRLAKKVARRNAD",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES25",
+            "entity_poly_strand_id": "BZ",
+            "entity_poly_seq_one_letter_code": "LDQEKYDRILKEVPTYRYVSVSVLVDRLKIGGSLARIALRHLEKEGIIKPVSKHSKQAIYTRAT",
+            "entity_poly_seq_one_letter_code_can": "LDQEKYDRILKEVPTYRYVSVSVLVDRLKIGGSLARIALRHLEKEGIIKPVSKHSKQAIYTRAT",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES26",
+            "entity_poly_strand_id": "Ba",
+            "entity_poly_seq_one_letter_code": "PKKRASNGRNKKGRGHVKPVRCVNCSKSIPKDKAIKRMAIRNIVEAAAVRDLSEASVYPEYALPKTYNKLHYCVSCAIHARIVRVRSREDRKNRAPP",
+            "entity_poly_seq_one_letter_code_can": "PKKRASNGRNKKGRGHVKPVRCVNCSKSIPKDKAIKRMAIRNIVEAAAVRDLSEASVYPEYALPKTYNKLHYCVSCAIHARIVRVRSREDRKNRAPP",
+            "entity_poly_seq_length": 97,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US2",
+            "entity_poly_strand_id": "BA",
+            "entity_poly_seq_one_letter_code": "SLPATFDLTPEDAQLLLAANTHLGARNVQVHQEPYVFNARPDGVHVINVGKTWEKLVLAARIIAAIPNPEDVVAISSRTFGQRAVLKFAAHTGATPIAGRFTPGSFTNYITRSFKEPRLVIVTDPRSDAQAIKEASYVNIPVIALTDLDSPSEFVDVAIPCNNRGKHSIGLIWYLLAREVLRLRGALVDRTQPWSIMPDLYFYRDP",
+            "entity_poly_seq_one_letter_code_can": "SLPATFDLTPEDAQLLLAANTHLGARNVQVHQEPYVFNARPDGVHVINVGKTWEKLVLAARIIAAIPNPEDVVAISSRTFGQRAVLKFAAHTGATPIAGRFTPGSFTNYITRSFKEPRLVIVTDPRSDAQAIKEASYVNIPVIALTDLDSPSEFVDVAIPCNNRGKHSIGLIWYLLAREVLRLRGALVDRTQPWSIMPDLYFYRDP",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES27",
+            "entity_poly_strand_id": "Bb",
+            "entity_poly_seq_one_letter_code": "VLVQDLLHPTAASEARKHKLKTLVQGPRSYFLDVKCPGCLNITTVFSHAQTAVTCESCSTILCTPTGGKAKLSEGTSFRRK",
+            "entity_poly_seq_one_letter_code_can": "VLVQDLLHPTAASEARKHKLKTLVQGPRSYFLDVKCPGCLNITTVFSHAQTAVTCESCSTILCTPTGGKAKLSEGTSFRRK",
+            "entity_poly_seq_length": 81,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES28",
+            "entity_poly_strand_id": "Bc",
+            "entity_poly_seq_one_letter_code": "TPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTSRTIVRNVKGPVRENDILVLMESEREARRLR",
+            "entity_poly_seq_one_letter_code_can": "TPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTSRTIVRNVKGPVRENDILVLMESEREARRLR",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US14",
+            "entity_poly_strand_id": "Bd",
+            "entity_poly_seq_one_letter_code": "NVWFSHPRRYGKGSRQCRVCSSHTGLIRKYGLNICRQCFREKANDIGFNKFR",
+            "entity_poly_seq_one_letter_code_can": "NVWFSHPRRYGKGSRQCRVCSSHTGLIRKYGLNICRQCFREKANDIGFNKFR",
+            "entity_poly_seq_length": 52,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES30",
+            "entity_poly_strand_id": "Be",
+            "entity_poly_seq_one_letter_code": "SLARAGKVKSQTPKVEKTEKPKKPKGRAYKRLLYTRRFVNVTLVNGKRRMNPGPS",
+            "entity_poly_seq_one_letter_code_can": "SLARAGKVKSQTPKVEKTEKPKKPKGRAYKRLLYTRRFVNVTLVNGKRRMNPGPS",
+            "entity_poly_seq_length": 55,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES31",
+            "entity_poly_strand_id": "Bf",
+            "entity_poly_seq_one_letter_code": "AAKKAAAAAKAAAVLSYYKVDAEGKVTKLAAACSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA",
+            "entity_poly_seq_one_letter_code_can": "AAKKAAAAAKAAAVLSYYKVDAEGKVTKLAAACSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "RACK1",
+            "entity_poly_strand_id": "Bg",
+            "entity_poly_seq_one_letter_code": "NEVLVLRGTLEGHNGWVTSLATSAGQPNLLLSASRDKTLISWKLTGDDQKFGVPVRSFKGHSHIVQDCTLTADGAYALSASWDKTLRLWDVATGETYQRFVGHKSDVMSVDIDKKASMIISGSRDKTIKVWTIKGQCLATLLGHNDWVSQVRVVPNEKADDDSVTIISAGNDKMVKAWNLNQFQIEADFIGHNSNINTLTASPDGTLIASAGKDGEIMLWNLAAKKAMYTLSAQDEVFSLAFSPNRYWLAAATATGIKVFSLDPQYLVDDLRPEFAGYSKAAEPHAVSLAWSADGQTLFAGYTDNVIRVWQVMTA",
+            "entity_poly_seq_one_letter_code_can": "NEVLVLRGTLEGHNGWVTSLATSAGQPNLLLSASRDKTLISWKLTGDDQKFGVPVRSFKGHSHIVQDCTLTADGAYALSASWDKTLRLWDVATGETYQRFVGHKSDVMSVDIDKKASMIISGSRDKTIKVWTIKGQCLATLLGHNDWVSQVRVVPNEKADDDSVTIISAGNDKMVKAWNLNQFQIEADFIGHNSNINTLTASPDGTLIASAGKDGEIMLWNLAAKKAMYTLSAQDEVFSLAFSPNRYWLAAATATGIKVFSLDPQYLVDDLRPEFAGYSKAAEPHAVSLAWSADGQTLFAGYTDNVIRVWQVMTA",
+            "entity_poly_seq_length": 315,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES1",
+            "entity_poly_strand_id": "BB",
+            "entity_poly_seq_one_letter_code": "VDPFTRKEWFDIKAPSTFENANVGKTLVNKSTGLKSASDALKGRVVEVCLADLQGSEDHSFRKIKLRVDEVQGKNLLTNFHGMDFTTDKLRSMVRKWQTLIEANVTVKTSDDYVLRIFAIAFTRAQANQVKAHSYAQSSHIRAIRKVISEILTKEVQGSTLAQLTSKLIPEVINKEIENATKDIFPLQNIHVRKVKLLKQPKFDVGALMALHG",
+            "entity_poly_seq_one_letter_code_can": "VDPFTRKEWFDIKAPSTFENANVGKTLVNKSTGLKSASDALKGRVVEVCLADLQGSEDHSFRKIKLRVDEVQGKNLLTNFHGMDFTTDKLRSMVRKWQTLIEANVTVKTSDDYVLRIFAIAFTRAQANQVKAHSYAQSSHIRAIRKVISEILTKEVQGSTLAQLTSKLIPEVINKEIENATKDIFPLQNIHVRKVKLLKQPKFDVGALMALHG",
+            "entity_poly_seq_length": 213,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US5",
+            "entity_poly_strand_id": "BC",
+            "entity_poly_seq_one_letter_code": "GWVPVTKLGRLVKAGKITTIEEIFLHSLPVKEFQIIDTLLPGLQDEVMNIKPVQKQTRAGQRTRFKAVVVVGDSNGHVGLGIKTAKEVAGAIRAGIIIAKLSVIPIRRGYWGTNLGQPHSLATKTTGKCGSVTVRLIPAPRGSGIVASPAVKKLLQLAGVEDVYTQSNGKTRTLENTLKAAFVAIGNTYGFLTPNLWAEQPLPVSPLDIYSDEASA",
+            "entity_poly_seq_one_letter_code_can": "GWVPVTKLGRLVKAGKITTIEEIFLHSLPVKEFQIIDTLLPGLQDEVMNIKPVQKQTRAGQRTRFKAVVVVGDSNGHVGLGIKTAKEVAGAIRAGIIIAKLSVIPIRRGYWGTNLGQPHSLATKTTGKCGSVTVRLIPAPRGSGIVASPAVKKLLQLAGVEDVYTQSNGKTRTLENTLKAAFVAIGNTYGFLTPNLWAEQPLPVSPLDIYSDEASA",
+            "entity_poly_seq_length": 216,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US3",
+            "entity_poly_strand_id": "BD",
+            "entity_poly_seq_one_letter_code": "LISKKRKLVADGVFYAELNEFFTRELAEEGYSGVEVRVTPTKTEVIIRATRTQDVLGENGRRINELTLLVQKRFKYAPGTIVLYAERVQDRGLSAVAQAESMKFKLLNGLAIRRAAYGVVRYVMESGAKGCEVVVSGKLRAARAKAMKFADGFLIHSGQPVNDFIDTATRHVLMRQGVLGIKVKIMRDPAKSRTGPKALPDAVTIIEPKEEEPILAPSVKDY",
+            "entity_poly_seq_one_letter_code_can": "LISKKRKLVADGVFYAELNEFFTRELAEEGYSGVEVRVTPTKTEVIIRATRTQDVLGENGRRINELTLLVQKRFKYAPGTIVLYAERVQDRGLSAVAQAESMKFKLLNGLAIRRAAYGVVRYVMESGAKGCEVVVSGKLRAARAKAMKFADGFLIHSGQPVNDFIDTATRHVLMRQGVLGIKVKIMRDPAKSRTGPKALPDAVTIIEPKEEEPILAPSVKDY",
+            "entity_poly_seq_length": 222,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES4",
+            "entity_poly_strand_id": "BE",
+            "entity_poly_seq_one_letter_code": "ARGPKKHLKRLAAPHHWLLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGREVKAILMQRHVKVDGKVRTDTTYPAGFMDVITLDATNENFRLVYDVKGRFAVHRITDEEASYKLGKVKKVQLGKKGVPYVVTHDGRTIRYPDPNIKVNDTVKIDLASGKITDFIKFDAGKLVYVTGGRNLGRIGTIVHKERHDGGFDLVHIKDSLDNTFVTRLNNVFVIGEQGKPYISLPKGKGIKLSIAEERDRRRAQQGL",
+            "entity_poly_seq_one_letter_code_can": "ARGPKKHLKRLAAPHHWLLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGREVKAILMQRHVKVDGKVRTDTTYPAGFMDVITLDATNENFRLVYDVKGRFAVHRITDEEASYKLGKVKKVQLGKKGVPYVVTHDGRTIRYPDPNIKVNDTVKIDLASGKITDFIKFDAGKLVYVTGGRNLGRIGTIVHKERHDGGFDLVHIKDSLDNTFVTRLNNVFVIGEQGKPYISLPKGKGIKLSIAEERDRRRAQQGL",
+            "entity_poly_seq_length": 260,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "US7",
+            "entity_poly_strand_id": "BF",
+            "entity_poly_seq_one_letter_code": "FTPVVLATPIPEEVQQAQTEIKLFNKWSFEEVEVKDASLVDYVQVAQPIFVAHTAGRYANKRFRKAQCPIIERLTNSLMMNGRNNGKKLKAVRIIKHTLDIINVLTDQNPIQVVVDAITNTGPREDTTRVGGGGAARRQAVDVSPLRRVNQAIALLTIGAREAAFRNIKTIAETLAEELINAAKGSSTSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_one_letter_code_can": "FTPVVLATPIPEEVQQAQTEIKLFNKWSFEEVEVKDASLVDYVQVAQPIFVAHTAGRYANKRFRKAQCPIIERLTNSLMMNGRNNGKKLKAVRIIKHTLDIINVLTDQNPIQVVVDAITNTGPREDTTRVGGGGAARRQAVDVSPLRRVNQAIALLTIGAREAAFRNIKTIAETLAEELINAAKGSSTSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ES6",
+            "entity_poly_strand_id": "BG",
+            "entity_poly_seq_one_letter_code": "MKLNISYPVNGSQKTFEIDDEHRIRVFFDARIGQEVDGEAVGDEFKGYVFKISGGNDKQGFPMKQGVLLPTRIALLLTKNVSCYRPRRDGERKRKSVRGAIVGPDLAVLALVIVKKGEQELEGLTDTTVPKRLGPKRANNIRKFFGLSKEDDVRDFVIRREVTKGEKTYTKAPKIQRLVTPQRLQRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEI",
+            "entity_poly_seq_one_letter_code_can": "MKLNISYPVNGSQKTFEIDDEHRIRVFFDARIGQEVDGEAVGDEFKGYVFKISGGNDKQGFPMKQGVLLPTRIALLLTKNVSCYRPRRDGERKRKSVRGAIVGPDLAVLALVIVKKGEQELEGLTDTTVPKRLGPKRANNIRKFFGLSKEDDVRDFVIRREVTKGEKTYTKAPKIQRLVTPQRLQRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEI",
+            "entity_poly_seq_length": 226,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "4V92",
+            "rcsb_pdbx_description": "18S RRNA",
+            "rcsb_source_organism_description": [
+                "KLUYVEROMYCES LACTIS"
+            ],
+            "rcsb_source_organism_id": [
+                28985
+            ],
+            "entity_poly_strand_id": "A2",
+            "entity_poly_seq_one_letter_code": "UAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGUAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCUUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGCCCGGUUGGCCGGUCGGAUUUCCAACGGGGCCUUUCCUUCUGGCUAACCUUGAGUCCUUGUGGCUCUUGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGUAUUGCUCGAAUAUAUUAGCAUGGAAUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUUUAAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGGAAACUCACCAGGUCCAGACACAAUAAGGAUUGACAGAUUGAGAGCUCUUUCUUGAUUUUGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGUGAUUUGUCUGCUUAAUUGCGAUAACGAACGAGACCUUAACCUACUAAAUAGUGGUGCUAGCAUUUGCUGGUUAUCCACUUCUUAGAGGGACUAUCGGUUUCAAGCCGAUGGAAGUUUGAGGCAAUAACAGGUCUGUGAUGCCCUUAGACGUUCUGGGCCGCACGCGCGCUACACUGACGGAGCCAGCGAGUCUAACCUUGGCCGAGAGGUCUUGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACCGAUUGAAUGGCUUAGUGAGGCCUCAGGAUCUGCUUAGAGAUCUCAGAGCGGAGAAUUUGGACAAACUUGGUCAUUUAGAGGAACUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAU",
+            "entity_poly_seq_one_letter_code_can": "UAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGUAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCUUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGCCCGGUUGGCCGGUCGGAUUUCCAACGGGGCCUUUCCUUCUGGCUAACCUUGAGUCCUUGUGGCUCUUGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGUAUUGCUCGAAUAUAUUAGCAUGGAAUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUUUAAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGGAAACUCACCAGGUCCAGACACAAUAAGGAUUGACAGAUUGAGAGCUCUUUCUUGAUUUUGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGUGAUUUGUCUGCUUAAUUGCGAUAACGAACGAGACCUUAACCUACUAAAUAGUGGUGCUAGCAUUUGCUGGUUAUCCACUUCUUAGAGGGACUAUCGGUUUCAAGCCGAUGGAAGUUUGAGGCAAUAACAGGUCUGUGAUGCCCUUAGACGUUCUGGGCCGCACGCGCGCUACACUGACGGAGCCAGCGAGUCUAACCUUGGCCGAGAGGUCUUGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACCGAUUGAAUGGCUUAGUGAGGCCUCAGGAUCUGCUUAGAGAUCUCAGAGCGGAGAAUUUGGACAAACUUGGUCAUUUAGAGGAACUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAU",
+            "entity_poly_seq_length": 1767,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4V92",
+            "rcsb_pdbx_description": "RNA OF CRICKET-PARALYSIS-VIRUS-IRES",
+            "rcsb_source_organism_description": [
+                "CRICKET PARALYSIS VIRUS"
+            ],
+            "rcsb_source_organism_id": [
+                12136
+            ],
+            "entity_poly_strand_id": "AZ",
+            "entity_poly_seq_one_letter_code": "AAAAAUGUGAUCUUGCUUGUAAAUACAAUUUUGAGAGGUUAAUAAAUUACAAGUAGUGCUAUUUUUGUAUUUAGGUUAGCUAUUUAGCUUUACGUUCCAGGAUGCCUAGUGGCAGCCCCACAAUAUCCAGGAAGCCCUCUCUGCGGUCGAAAAACCUAGGUAGGUUUUUCUAAGAAAUUUACCUAUUUUU",
+            "entity_poly_seq_one_letter_code_can": "AAAAAUGUGAUCUUGCUUGUAAAUACAAUUUUGAGAGGUUAAUAAAUUACAAGUAGUGCUAUUUUUGUAUUUAGGUUAGCUAUUUAGCUUUACGUUCCAGGAUGCCUAGUGGCAGCCCCACAAUAUCCAGGAAGCCCUCUCUGCGGUCGAAAAACCUAGGUAGGUUUUUCUAAGAAAUUUACCUAUUUUU",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": null
+}

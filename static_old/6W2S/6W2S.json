@@ -1,0 +1,1430 @@
+{
+    "rcsb_id": "6W2S",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3,
+    "rcsb_external_ref_id": [
+        "EMD-21529"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-21529"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.47,
+    "cryoem_exp_num_particles": 36100,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Neupane, R.",
+        "Pisareva, V.P.",
+        "Rodriguez, C.F.",
+        "Pisarev, A.V.",
+        "Fernandez, I.S."
+    ],
+    "citation_title": "A complex IRES at the 5'-UTR of a viral mRNA assembles a functional 48S complex via an uAUG intermediate.",
+    "citation_pdbx_doi": "10.7554/eLife.54575",
+    "pdbx_keywords_text": "CrPV 5'-UTR IRES, Internal ribosome entry site, RIBOSOME, Ribosome-TRANSLATION complex",
+    "_organismId": [
+        9986
+    ],
+    "_organismName": [
+        "Oryctolagus cuniculus"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL",
+                "This domain is found at the C-terminus of 40S ribosomal protein SA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2",
+                "40S ribosomal protein SA C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00318",
+                "PF16122"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TWL4"
+            ],
+            "rcsb_pdbx_description": "uS2",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MSGALDVLQMKEEDVLKFLAAGTHLGGTNLDFQMEQYIYKRKSDGIYIINLKRTWEKLLLAARAIVAIENPADVSVISSRNTGQRAVLKFAAATGATPIAGRFTPGTFTNQIQTAFREPRLLVVTDPQADHQPLTEASYVNLPTIALCNTDSPLRYVDIAIPCNNKGAHSVGLMWWMLAQEVLRMRGTISREHPWEVMPDLYFYRDPEEIEKEEQAAAEKAVTKEEFQGEWTAPEPEFTATQPEVADWSEGMQVPSVPIQQFPTEDWSAQPATEDWSAAPTAQATEWMGTTTEWS",
+            "entity_poly_seq_one_letter_code_can": "MSGALDVLQMKEEDVLKFLAAGTHLGGTNLDFQMEQYIYKRKSDGIYIINLKRTWEKLLLAARAIVAIENPADVSVISSRNTGQRAVLKFAAATGATPIAGRFTPGTFTNQIQTAFREPRLLVVTDPQADHQPLTEASYVNLPTIALCNTDSPLRYVDIAIPCNNKGAHSVGLMWWMLAQEVLRMRGTISREHPWEVMPDLYFYRDPEEIEKEEQAAAEKAVTKEEFQGEWTAPEPEFTATQPEVADWSEGMQVPSVPIQQFPTEDWSAQPATEDWSAAPTAQATEWMGTTTEWS",
+            "entity_poly_seq_length": 295,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S3Ae family"
+            ],
+            "pfam_accessions": [
+                "PF01015"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SS70"
+            ],
+            "rcsb_pdbx_description": "eS1",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MAVGKNKRLTKGGKKGAKKKVVDPFSKKDWYDVKAPAMFNIRNIGKTLVTRTQGTKIASDGLKGRVFEVSLADLQNDEVAFRKFKLITEDVQGKNCLTNFHGMDLTRDKMCSMVKKWQTMIEAHVDVKTTDGYLLRLFCVGFTKKRNNQIRKTSYAQHQQVRQIRKKMMEIMTREVQTNDLKEVVNKLIPDSIGKDIEKACQSIYPLHDVFVRKVKMLKKPKFELGKLMELHGEGSSSGKATGDETGAKVERADGYEPPVQESV",
+            "entity_poly_seq_one_letter_code_can": "MAVGKNKRLTKGGKKGAKKKVVDPFSKKDWYDVKAPAMFNIRNIGKTLVTRTQGTKIASDGLKGRVFEVSLADLQNDEVAFRKFKLITEDVQGKNCLTNFHGMDLTRDKMCSMVKKWQTMIEAHVDVKTTDGYLLRLFCVGFTKKRNNQIRKTSYAQHQQVRQIRKKMMEIMTREVQTNDLKEVVNKLIPDSIGKDIEKACQSIYPLHDVFVRKVKMLKKPKFELGKLMELHGEGSSSGKATGDETGAKVERADGYEPPVQESV",
+            "entity_poly_seq_length": 264,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SWM1"
+            ],
+            "rcsb_pdbx_description": "uS5",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MADDAGAAGGPGGPGGPGNKEWLPVTKLGRLVKDMKIKSLEEIYLFSLPIKESEIIDFFLGAALKDEVLKIMPVQKQTRAGQRTRFKAFVAIGDYNGHVGLGLKCSKEVATAIRGAIILAKLSIVPVRRGYWGNKIGKPHTVPCKVTGRCGSVLVRLIPAPRGTGIVSAPVPKKLLLMAGIDDCYTSARGCTATLGNFAKATFDAISKTYSYLTPDLWKETVFTKSPYQEFTNHLMKTHTRVSVQRTQAPAVATT",
+            "entity_poly_seq_one_letter_code_can": "MADDAGAAGGPGGPGGPGNKEWLPVTKLGRLVKDMKIKSLEEIYLFSLPIKESEIIDFFLGAALKDEVLKIMPVQKQTRAGQRTRFKAFVAIGDYNGHVGLGLKCSKEVATAIRGAIILAKLSIVPVRRGYWGNKIGKPHTVPCKVTGRCGSVLVRLIPAPRGTGIVSAPVPKKLLLMAGIDDCYTSARGCTATLGNFAKATFDAISKTYSYLTPDLWKETVFTKSPYQEFTNHLMKTHTRVSVQRTQAPAVATT",
+            "entity_poly_seq_length": 255,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL",
+                "This domain is found at the C-terminus of 40S ribosomal protein S4.",
+                "This is the N-terminal domain of Ribosomal S4 / S4e proteins. This domain is associated with S4 and KOW domains [1].",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal family S4e",
+                "40S ribosomal protein S4 C-terminus",
+                "RS4NT (NUC023) domain",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF00900",
+                "PF16121",
+                "PF08071",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TK17"
+            ],
+            "rcsb_pdbx_description": "eS4",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MARGPKKHLKRVAAPKHWMLDKLTGVFAPRPSTGPHKLRECLPLIIFLRNKLKYALTGDEVKKICMQRFIKIDGKVRADITYPAGFMDVISIDKTGENFRLIYDTKGRFAVHRITPEEAKYKLCKVRKIFVGTKGIPHLVTHDARTIRYPDPLIKVNDTIQIDLETGKITDFIKFDTGNLCMVTGGANLGRIGVITNRERHPGSFDVVHVKDANGNSFATRLSNIFVIGKGNKPWISLPRGKGIRLTIAEERDKRLAAKQSSG",
+            "entity_poly_seq_one_letter_code_can": "MARGPKKHLKRVAAPKHWMLDKLTGVFAPRPSTGPHKLRECLPLIIFLRNKLKYALTGDEVKKICMQRFIKIDGKVRADITYPAGFMDVISIDKTGENFRLIYDTKGRFAVHRITPEEAKYKLCKVRKIFVGTKGIPHLVTHDARTIRYPDPLIKVNDTIQIDLETGKITDFIKFDTGNLCMVTGGANLGRIGVITNRERHPGSFDVVHVKDANGNSFATRLSNIFVIGKGNKPWISLPRGKGIRLTIAEERDKRLAAKQSSG",
+            "entity_poly_seq_length": 263,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS4",
+                "uL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6e"
+            ],
+            "pfam_accessions": [
+                "PF01092"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TM55"
+            ],
+            "rcsb_pdbx_description": "eS6",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MKLNISFPATGCQKLIEVDDERKLRTFYEKRMATEVAADALGEEWKGYVVRISGGNDKQGFPMKQGVLTHGRVRLLLSKGHSCYRPRRTGERKRKSVRGCIVDANLSVLNLVIVKKGEKDIPGLTDTTVPRRLGPKRASRIRKLFNLSKEDDVRQYVVRKPLNKEGKKPRTKAPKIQRLVTPRVLQHKRRRIALKKQRTKKNKEEAAEYAKLLAKRMKEAKEKRQEQIAKRRRLSSLRASTSKSESSQK",
+            "entity_poly_seq_one_letter_code_can": "MKLNISFPATGCQKLIEVDDERKLRTFYEKRMATEVAADALGEEWKGYVVRISGGNDKQGFPMKQGVLTHGRVRLLLSKGHSCYRPRRTGERKRKSVRGCIVDANLSVLNLVIVKKGEKDIPGLTDTTVPRRLGPKRASRIRKLFNLSKEDDVRQYVVRKPLNKEGKKPRTKAPKIQRLVTPRVLQHKRRRIALKKQRTKKNKEEAAEYAKLLAKRMKEAKEKRQEQIAKRRRLSSLRASTSKSESSQK",
+            "entity_poly_seq_length": 249,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8e"
+            ],
+            "pfam_accessions": [
+                "PF01201"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TJW1"
+            ],
+            "rcsb_pdbx_description": "eS8",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MGISRDNWHKRRKTGGKRKPYHKKRKYELGRPAANTKIGPRRIHTVRVRGGNKKYRALRLDVGNFSWGSECCTRKTRIIDVVYNASNNELVRTKTLVKNCIVLIDSTPYRQWYESHYALPLGRKKGAKLTPEEEEILNKKRSKKIQKKYDERKKNAKISSLLEEQFQQGKLLACIASRPGQCGRADGYVLEGKELEFYLRKIKARKGK",
+            "entity_poly_seq_one_letter_code_can": "MGISRDNWHKRRKTGGKRKPYHKKRKYELGRPAANTKIGPRRIHTVRVRGGNKKYRALRLDVGNFSWGSECCTRKTRIIDVVYNASNNELVRTKTLVKNCIVLIDSTPYRQWYESHYALPLGRKKGAKLTPEEEEILNKKRSKKIQKKYDERKKNAKISSLLEEQFQQGKLLACIASRPGQCGRADGYVLEGKELEFYLRKIKARKGK",
+            "entity_poly_seq_length": 208,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "B7NZS8"
+            ],
+            "rcsb_pdbx_description": "uS4",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MPVARSWVCRKTYVTPRRPFEKSRLDQELKLIGEYGLRNKREVWRVKFTLAKIRKAARELLTLDEKDPRRLFEGNALLRRLVRIGVLDEGKMKLDYILGLKIEDFLERRLQTQVFKLGLAKSIHHARVLIRQRHIRVRKQVVNIPSFIVRLDSQKHIDFSLRSPYGGGRPGRVKRKNAKKGQGGAGAGDDEEED",
+            "entity_poly_seq_one_letter_code_can": "MPVARSWVCRKTYVTPRRPFEKSRLDQELKLIGEYGLRNKREVWRVKFTLAKIRKAARELLTLDEKDPRRLFEGNALLRRLVRIGVLDEGKMKLDYILGLKIEDFLERRLQTQVFKLGLAKSIHHARVLIRQRHIRVRKQVVNIPSFIVRLDSQKHIDFSLRSPYGGGRPGRVKRKNAKKGQGGAGAGDDEEED",
+            "entity_poly_seq_length": 194,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL",
+                "This short N-terminal region is found in a number of higher eukaryotic ribosomal subunit 17 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17",
+                "Ribosomal_S17 N-terminal"
+            ],
+            "pfam_accessions": [
+                "PF00366",
+                "PF16205"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TRM4"
+            ],
+            "rcsb_pdbx_description": "uS17",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MADIQTERAYQKQPTIFQNKKRVLLGETGKEKLPRYYKNIGLGFKTPKEAIEGTYIDKKCPFTGNVSIRGRILSGVVTKMKMQRTIVIRRDYLHYIRKYNRFEKRHKNMSVHLSPCFRDVQIGDIVTVGECRPLSKTVRFNVLKVTKAAGTKKQFQKF",
+            "entity_poly_seq_one_letter_code_can": "MADIQTERAYQKQPTIFQNKKRVLLGETGKEKLPRYYKNIGLGFKTPKEAIEGTYIDKKCPFTGNVSIRGRILSGVVTKMKMQRTIVIRRDYLHYIRKYNRFEKRHKNMSVHLSPCFRDVQIGDIVTVGECRPLSKTVRFNVLKVTKAAGTKKQFQKF",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17",
+                "eS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1U472"
+            ],
+            "rcsb_pdbx_description": "uS11",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MAPRKGKEKKEEQVISLGPQVAEGENVFGVCHIFASFNDTFVHVTDLSGKETICRVTGGMKVKADRDESSPYAAMLAAQDVAQRCKELGITALHIKLRATGGNRTKTPGPGAQSALRALARSGMKIGRIEDVTPIPSDSTRRKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "MAPRKGKEKKEEQVISLGPQVAEGENVFGVCHIFASFNDTFVHVTDLSGKETICRVTGGMKVKADRDESSPYAAMLAAQDVAQRCKELGITALHIKLRATGGNRTKTPGPGAQSALRALARSGMKIGRIEDVTPIPSDSTRRKGGRRGRRL",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS21",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MQSDAGEFVDLYVPRKCSASNRIIGAKDHASIQMNVAEVDKVTGRFNGQFKTYAICGAIRRMGESDDSILRLAKSDGIVSNNF",
+            "entity_poly_seq_one_letter_code_can": "MQSDAGEFVDLYVPRKCSASNRIIGAKDHASIQMNVAEVDKVTGRFNGQFKTYAICGAIRRMGESDDSILRLAKSDGIVSNNF",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SZ47"
+            ],
+            "rcsb_pdbx_description": "uS12",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "AGKCRGLRTARKLRSHRRDQKWHDKQYKKAHLGTALKANPFGGASHAKGIVLEKVGVEAKQPNSAIRKCVRVQLIKNGKKITAFVPNDGCLNFIEENDEVLVAGFGRKGHAVGDIPGVRFKVVKVANVSLLALYKGKKERPRS",
+            "entity_poly_seq_one_letter_code_can": "AGKCRGLRTARKLRSHRRDQKWHDKQYKKAHLGTALKANPFGGASHAKGIVLEKVGVEAKQPNSAIRKCVRVQLIKNGKKITAFVPNDGCLNFIEENDEVLVAGFGRKGHAVGDIPGVRFKVVKVANVSLLALYKGKKERPRS",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S24e"
+            ],
+            "pfam_accessions": [
+                "PF01282"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1T3D8"
+            ],
+            "rcsb_pdbx_description": "eS24",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MNDTVTIRTRKFMTNRLLQRKQMVIDVLHPGKATVPKTEIREKLAKMYKTTPDVIFVFGFRTHFGGGKTTGFGMIYDSLDYAKKNEPKHRLARHGLYEKKKTSRKQRKERKNRMKKVRGTAKANVGAGKKEPRG",
+            "entity_poly_seq_one_letter_code_can": "MNDTVTIRTRKFMTNRLLQRKQMVIDVLHPGKATVPKTEIREKLAKMYKTTPDVIFVFGFRTHFGGGKTTGFGMIYDSLDYAKKNEPKHRLARHGLYEKKKTSRKQRKERKNRMKKVRGTAKANVGAGKKEPRG",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "es24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S26e"
+            ],
+            "pfam_accessions": [
+                "PF01283"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TFE8"
+            ],
+            "rcsb_pdbx_description": "eS26",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MTKKRRNNGRAKKGRGHVQPIRCTNCARCVPKDKAIKKFVIRNIVEAAAVRDISEVSVFDAYVLPKLYVKLHYCVSCAIHSKVVRNRSREARKDRTPPPRFRPAGAAPPPPPKPM",
+            "entity_poly_seq_one_letter_code_can": "MTKKRRNNGRAKKGRGHVQPIRCTNCARCVPKDKAIKKFVIRNIVEAAAVRDISEVSVFDAYVLPKLYVKLHYCVSCAIHSKVVRNRSREARKDRTPPPRFRPAGAAPPPPPKPM",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS26"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S27"
+            ],
+            "pfam_accessions": [
+                "PF01667"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TZ76"
+            ],
+            "rcsb_pdbx_description": "eS27",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MPLAKDLLHPSPEEEKRKHKKKRLVQSPNSYFMDVKCPGCYKITTVFSHAQTVVLCVGCSTVLCQPTGGKARLTEGCSFRRKQH",
+            "entity_poly_seq_one_letter_code_can": "MPLAKDLLHPSPEEEKRKHKKKRLVQSPNSYFMDVKCPGCYKITTVFSHAQTVVLCVGCSTVLCQPTGGKARLTEGCSFRRKQH",
+            "entity_poly_seq_length": 84,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a number of ubiquitin-like proteins: SUMO (smt3 homologue) (see Swiss:Q02724), Nedd8 (see Swiss:P29595), Elongin B (see Swiss:Q15370), Rub1 (see Swiss:Q9SHE7), and Parkin (see Swiss:O60260). A number of them are thought to carry a distinctive five-residue motif termed the proteasome-interacting motif (PIM), which may have a biologically significant role in protein delivery to proteasomes and recruitment of proteasomes to transcription sites [5]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S30",
+                "Ubiquitin family"
+            ],
+            "pfam_accessions": [
+                "PF04758",
+                "PF00240"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1T8A2"
+            ],
+            "rcsb_pdbx_description": "eS30",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MQLFVRAQELHTLEVTGRETVAQIKAHVASLEGIAPEDQVVLLAGTPLEDEATLGQCGVEALSTLEVAGRMLGGKVHGSLARVGKVRGQTLKVAKQEKKKKRTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS",
+            "entity_poly_seq_one_letter_code_can": "MQLFVRAQELHTLEVTGRETVAQIKAHVASLEGIAPEDQVVLLAGTPLEDEATLGQCGVEALSTLEVAGRMLGGKVHGSLARVGKVRGQTLKVAKQEKKKKRTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS30",
+                "eL40"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TNM3"
+            ],
+            "rcsb_pdbx_description": "uS3",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MSARRRRRRAAFRRRAEPFIPISVREPLPFLSAARGGKMAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVELYAEKVATRGLCAIAQAESLRYKLLGGLAVRRACYGVLRFIMESGAKGCEVVVSGKLRGQRAKSMKFVDGLMIHSGDPVNYYVDTAVRHVLLRQGVLGIKVKIMLPWDPSGKIGPKKPLPDHVSIVEPKDEILPTTPISEQKGGKPEPPAMPQPVPTA",
+            "entity_poly_seq_one_letter_code_can": "MSARRRRRRAAFRRRAEPFIPISVREPLPFLSAARGGKMAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVELYAEKVATRGLCAIAQAESLRYKLLGGLAVRRACYGVLRFIMESGAKGCEVVVSGKLRGQRAKSMKFVDGLMIHSGDPVNYYVDTAVRHVLLRQGVLGIKVKIMLPWDPSGKIGPKKPLPDHVSIVEPKDEILPTTPISEQKGGKPEPPAMPQPVPTA",
+            "entity_poly_seq_length": 281,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TFM5"
+            ],
+            "rcsb_pdbx_description": "uS7",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MTEWETAAPAVAETPDIKLFGKWSTDDVQINDISLQDYIAVKEKYAKYLPHSAGRYAAKRFRKAQCPIVERLTNSMMMHGRNNGKKLMTVRIVKHAFEIIHLLTGENPLQVLVNAIINSGPREDSTRIGRAGTVRRQAVDVSPLRRVNQAIWLLCTGAREAAFRNIKTIAECLADELINAAKGSSNSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_one_letter_code_can": "MTEWETAAPAVAETPDIKLFGKWSTDDVQINDISLQDYIAVKEKYAKYLPHSAGRYAAKRFRKAQCPIVERLTNSMMMHGRNNGKKLMTVRIVKHAFEIIHLLTGENPLQVLVNAIINSGPREDSTRIGRAGTVRRQAVDVSPLRRVNQAIWLLCTGAREAAFRNIKTIAECLADELINAAKGSSNSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of some isoforms of the cytoskeletal muscle protein plectin as well as the ribosomal S10 protein. This domain may be involved in RNA binding."
+            ],
+            "pfam_descriptions": [
+                "Plectin/S10 domain"
+            ],
+            "pfam_accessions": [
+                "PF03501"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TPV3"
+            ],
+            "rcsb_pdbx_description": "eS10",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MLMPKKNRIAIYELLFKEGVMVAKKDVHMPKHPELADKNVPNLHVMKAMQSLKSRGYVKEQFAWRHFYWYLTNEGIQYLRDYLHLPPEIVPATLRRSRPETGRPRPKGLEGERPARLTRGEADRDTYRRSAVPPGADKKAEAGAGSATE",
+            "entity_poly_seq_one_letter_code_can": "MLMPKKNRIAIYELLFKEGVMVAKKDVHMPKHPELADKNVPNLHVMKAMQSLKSRGYVKEQFAWRHFYWYLTNEGIQYLRDYLHLPPEIVPATLRRSRPETGRPRPKGLEGERPARLTRGEADRDTYRRSAVPPGADKKAEAGAGSATE",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SFR8"
+            ],
+            "rcsb_pdbx_description": "eS12",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MAEEGIAAGGVMDVNTALQEVLKTALIHDGLARGIREAAKALDKRQAHLCVLASNCDEPMYVKLVEALCAEHQINLIKVDDNKKLGEWVGLCKIDREGKPRKVVGCSCVVVKDYGKESQAKDVIEEYFKCKK",
+            "entity_poly_seq_one_letter_code_can": "MAEEGIAAGGVMDVNTALQEVLKTALIHDGLARGIREAAKALDKRQAHLCVLASNCDEPMYVKLVEALCAEHQINLIKVDDNKKLGEWVGLCKIDREGKPRKVVGCSCVVVKDYGKESQAKDVIEEYFKCKK",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1U0Q2"
+            ],
+            "rcsb_pdbx_description": "uS19",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MAEVEQKKKRTFRKFTYRGVDLDQLLDMSYEQLMQLYSARQRRRLSRGLRRKQHSLLKRLRKAKKEAPPMEKPEVVKTHLRDMIILPEMVGSMVGVYNGKTFNQVEIKPEMIGHYLGEFSITYKPVKHGRPGIGATHSSRFIPLK",
+            "entity_poly_seq_one_letter_code_can": "MAEVEQKKKRTFRKFTYRGVDLDQLLDMSYEQLMQLYSARQRRRLSRGLRRKQHSLLKRLRKAKKEAPPMEKPEVVKTHLRDMIILPEMVGSMVGVYNGKTFNQVEIKPEMIGHYLGEFSITYKPVKHGRPGIGATHSSRFIPLK",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SGX4"
+            ],
+            "rcsb_pdbx_description": "uS9",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "SARVAPRFPFPVVAPRGEDRHSSAAAMPSKGPLQSVQVFGRKKTATAVAHCKRGNGLIKVNGRPLEMIEPRTLQYKLLEPVLLLGKERFAGVDIRVRVKGGGHVAQIYAIRQSISKALVAYYQKYVDEASKKEIKDILIQYDRTLLVADPRRCESKKFGGPGARARYQKSYR",
+            "entity_poly_seq_one_letter_code_can": "SARVAPRFPFPVVAPRGEDRHSSAAAMPSKGPLQSVQVFGRKKTATAVAHCKRGNGLIKVNGRPLEMIEPRTLQYKLLEPVLLLGKERFAGVDIRVRVKGGGHVAQIYAIRQSISKALVAYYQKYVDEASKKEIKDILIQYDRTLLVADPRRCESKKFGGPGARARYQKSYR",
+            "entity_poly_seq_length": 172,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S17"
+            ],
+            "pfam_accessions": [
+                "PF00833"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TU13"
+            ],
+            "rcsb_pdbx_description": "eS17",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MGRVRTKTVKKAARVIIEKYYTRLGNDFHTNKRVCEEIAIIPSKKLRNKIAGYVTHLMKRIQRGPVRGISIKLQEEERERRDNYVPEVSALDQEIIEVDPDTKEMLKLLDFGSLSNLQVTQPTVGMNFKTPRGAV",
+            "entity_poly_seq_one_letter_code_can": "MGRVRTKTVKKAARVIIEKYYTRLGNDFHTNKRVCEEIAIIPSKKLRNKIAGYVTHLMKRIQRGPVRGISIKLQEEERERRDNYVPEVSALDQEIIEVDPDTKEMLKLLDFGSLSNLQVTQPTVGMNFKTPRGAV",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TPG3"
+            ],
+            "rcsb_pdbx_description": "uS13",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MSLVIPEKFQHILRVLNTNIDGRRKIAFAITAIKGVGRRYAHVVLRKADIDLTKRAGELTEDEVERVITIMQNPRQYKIPDWFLNRQKDVKDGKYSQVLANGLDNKLREDLERLKKIRAHRGLRHFWGLRVRGQHTKTTGRRGRTVGVSKKK",
+            "entity_poly_seq_one_letter_code_can": "MSLVIPEKFQHILRVLNTNIDGRRKIAFAITAIKGVGRRYAHVVLRKADIDLTKRAGELTEDEVERVITIMQNPRQYKIPDWFLNRQKDVKDGKYSQVLANGLDNKLREDLERLKKIRAHRGLRHFWGLRVRGQHTKTTGRRGRTVGVSKKK",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19e"
+            ],
+            "pfam_accessions": [
+                "PF01090"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TN62"
+            ],
+            "rcsb_pdbx_description": "eS19",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MPGVTVKDVNQQEFVRALAAFLKKSGKLKVPEWVDTVKLAKHKELAPYDENWFYTRAASTARHLYLRGGAGVGSMTKIYGGRQRNGVMPSHFSRGSKSVARRVLQALEGLKMVEKDQDWGRKLTPQGQRDLDRIAGQVAAAKKKH",
+            "entity_poly_seq_one_letter_code_can": "MPGVTVKDVNQQEFVRALAAFLKKSGKLKVPEWVDTVKLAKHKELAPYDENWFYTRAASTARHLYLRGGAGVGSMTKIYGGRQRNGVMPSHFSRGSKSVARRVLQALEGLKMVEKDQDWGRKLTPQGQRDLDRIAGQVAAAKKKH",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SIZ2"
+            ],
+            "rcsb_pdbx_description": "uS10",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MAFKDTGKTPVEPEVAIHRIRITLTSRNVKSLEKVCADLIRGAKEKNLKVKGPVRMPTKTLRITTRKTPCGEGSKTWDRFQMRIHKRLIDLHSPSEIVKQITSISIEPGVEVEVTIADA",
+            "entity_poly_seq_one_letter_code_can": "MAFKDTGKTPVEPEVAIHRIRITLTSRNVKSLEKVCADLIRGAKEKNLKVKGPVRMPTKTLRITTRKTPCGEGSKTWDRFQMRIHKRLIDLHSPSEIVKQITSISIEPGVEVEVTIADA",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "S25 ribosomal protein"
+            ],
+            "pfam_accessions": [
+                "PF03297"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TDB3"
+            ],
+            "rcsb_pdbx_description": "eS25",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MPPKDDKKKKDAGKSAKKDKDPVNKSGGKAKKKKWSKGKVRDKLNNLVLFDKATYDKLCKEVPNYKLITPAVVSERLKIRGSLARAALQELLSKGLIKLVSKHRAQVIYTRNTKGGDAPAAGEDA",
+            "entity_poly_seq_one_letter_code_can": "MPPKDDKKKKDAGKSAKKDKDPVNKSGGKAKKKKWSKGKVRDKLNNLVLFDKATYDKLCKEVPNYKLITPAVVSERLKIRGSLARAALQELLSKGLIKLVSKHRAQVIYTRNTKGGDAPAAGEDA",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S28e"
+            ],
+            "pfam_accessions": [
+                "PF01200"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TIB4"
+            ],
+            "rcsb_pdbx_description": "eS28",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MDTSRVQPIKLARVTKVLGRTGSQGQCTQVRVEFMDDTSRSIIRNVKGPVREGDVLTLLESEREARRLR",
+            "entity_poly_seq_one_letter_code_can": "MDTSRVQPIKLARVTKVLGRTGSQGQCTQVRVEFMDDTSRSIIRNVKGPVREGDVLTLLESEREARRLR",
+            "entity_poly_seq_length": 69,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1U7M4"
+            ],
+            "rcsb_pdbx_description": "eS29",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MGHQQLYWSHPRKFGQGSRSCRVCSNRHGLIRKYGLNMCRQCFRQYAKDIGFIKLD",
+            "entity_poly_seq_one_letter_code_can": "MGHQQLYWSHPRKFGQGSRSCRVCSNRHGLIRKYGLNMCRQCFRQYAKDIGFIKLD",
+            "entity_poly_seq_length": 56,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This family contains a number of ubiquitin-like proteins: SUMO (smt3 homologue) (see Swiss:Q02724), Nedd8 (see Swiss:P29595), Elongin B (see Swiss:Q15370), Rub1 (see Swiss:Q9SHE7), and Parkin (see Swiss:O60260). A number of them are thought to carry a distinctive five-residue motif termed the proteasome-interacting motif (PIM), which may have a biologically significant role in protein delivery to proteasomes and recruitment of proteasomes to transcription sites [5].",
+                "This family of ribosomal proteins consists mainly of the 40S ribosomal protein S27a which is synthesised as a C-terminal extension of ubiquitin (CEP). The S27a domain compromises the C-terminal half of the protein. The synthesis of ribosomal proteins as extensions of ubiquitin promotes their incorporation into nascent ribosomes by a transient metabolic stabilisation and is required for efficient ribosome biogenesis [3].  The ribosomal extension protein S27a contains a basic region that is proposed to form a zinc finger; its fusion gene is proposed as a mechanism to maintain a fixed ratio between ubiquitin necessary for degrading proteins and ribosomes a source of proteins [2]."
+            ],
+            "pfam_descriptions": [
+                "Ubiquitin family",
+                "Ribosomal protein S27a"
+            ],
+            "pfam_accessions": [
+                "PF00240",
+                "PF01599"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SK22"
+            ],
+            "rcsb_pdbx_description": "eS31",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKRKKKSYTTPKKNKHKRKKVKLAVLKYYKVDENGKISRLRRECPSDECGAGVFMASHFDRHYCGKCCLTYCFNKPEDK",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAKKRKKKSYTTPKKNKHKRKKVKLAVLKYYKVDENGKISRLRRECPSDECGAGVFMASHFDRHYCGKCCLTYCFNKPEDK",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL40",
+                "eS31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SJB4"
+            ],
+            "rcsb_pdbx_description": "RACK1",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MTEQMTLRGTLKGHNGWVTQIATTPQFPDMILSASRDKTIIMWKLTRDETNYGIPQRALRGHSHFVSDVVISSDGQFALSGSWDGTLRLWDLTTGTTTRRFVGHTKDVLSVAFSSDNRQIVSGSRDKTIKLWNTLGVCKYTVQDESHSEWVSCVRFSPNSSNPIIVSCGWDKLVKVWNLANCKLKTNHIGHTGYLNTVTVSPDGSLCASGGKDGQAMLWDLNEGKHLYTLDGGDIINALCFSPNRYWLCAATGPSIKIWDLEGKIIVDELKQEVISTSSKAEPPQCTSLAWSADGQTLFAGYTDNLVRVWQVTIGTR",
+            "entity_poly_seq_one_letter_code_can": "MTEQMTLRGTLKGHNGWVTQIATTPQFPDMILSASRDKTIIMWKLTRDETNYGIPQRALRGHSHFVSDVVISSDGQFALSGSWDGTLRLWDLTTGTTTRRFVGHTKDVLSVAFSSDNRQIVSGSRDKTIKLWNTLGVCKYTVQDESHSEWVSCVRFSPNSSNPIIVSCGWDKLVKVWNLANCKLKTNHIGHTGYLNTVTVSPDGSLCASGGKDGQAMLWDLNEGKHLYTLDGGDIINALCFSPNRYWLCAATGPSIKIWDLEGKIIVDELKQEVISTSSKAEPPQCTSLAWSADGQTLFAGYTDNLVRVWQVTIGTR",
+            "entity_poly_seq_length": 317,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This domain has also been called the PINT motif (Proteasome, Int-6, Nip-1 and TRIP-15) [1]."
+            ],
+            "pfam_descriptions": [
+                "PCI domain"
+            ],
+            "pfam_accessions": [
+                "PF01399"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SMZ5"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit A",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "MPAYFQRPENALKRANEFLEVGKKQPALDVLYDVMKSKKHRTWQKIHEPIMLKYLELCVDLRKSHLAKEGLYQYKNICQQVNIKSLEDVVRAYLKLAEEKTEAAKEESQQMVLDIEDLDNIQTPESVLLSAVSGEDTQDRTDRLLLTPWVKFLWESYRQCLDLLRNNSRVERLYHDIAQQAFKFCLQYTRKAEFRKLCDNLRMHLSQIQRHHNQSTAINLNNPESQSMHLETRLVQLDSAISMELWQEAFKAVEDIHGLFSLSKKPPKPQLMANYYNKVSTVFWKSGNALFHASTLHRLYHLSREMRKNLTQDEMQRMSTRVLLATLSIPITPERTDIARLLDMDGIIVEKQRRLATLLGLQAPPTRIGLINDMVRFNVLQYVVPEVKDLYNWLEVEFNPLKLCERVTKVLNWVREQPEKEPELQQYVPQLQSNTILRLLQQVAQIYQSIEFSRLTSLVPFVDAFQLERAIVDAARHCDLQVRIDHTSRTLSFGSDLNYATREDAPIGPHLQSMPSEQIRNQLTAMSSVLAKALEVIKPAHILQEKEEQHQLAVTAYLKNSRKEHQRILARRQTIEERKERLESLNIQREKEELEQREAELQKVRKAEEERLRQEAKEREKERILQEHEQIKKKTVRERLEQIKKTELGAKAFKDIDIEDLEELDPDFIMAKQVEQLEKEKKELQERLKNQEKKIDYFERAKRLEEIPLIKSAYEEQRIKDMDLWEQQEEERITTMQLEREKALEHKNRMSRMLEDRDLFVMRLKAARQSVYEEKLKQFEERLAEERHNRLEERKRQRKEERRITYYREKEEEEQRRAEEQMLKEREERERAERAKREEELREYQERVKKLEEVERKKRQRELEIEERERRREEERRLGEDPLSRRDSRWGDRDSEGTWRKGPEADSEWRRGPPEKEWRRGEGRDDERSHRRDEERPRRVGDDEDRESSLRPDDDRTLRRGMEDDRGPRRGPDEERFSRRGLEDERPSWRSTDDDRPPRRIGEEDRGSWRHAEDDRPPRRGLDDDRGSWRTADEDRGPRRMMDEDRGPRRGGADDERPSWRSADDDRGPRRGIDDDRGPRRGLDDDRGPWRNADDDRIPRRGADDDRGPWRNMDDDRMSRRADDDRISRRGEDSRPGPWRPFVKPGGWREKEKAREESWGPPRESRPPEEREWERERDRDNPDREENDKDPERERDRERDGDREERFRRPRDEGGWRRGPAEEASSWRDSSRRDDRDRDDRRRERDDRRDLRDRRDLRDDRDRRGPPLRSERDEVSSWRRADDRKDDRAEERDPPRRVPPPVLSRDRDRDRDRDRDRDREREREREREGEKEKTSWRAEKDRESLRRTKNETDEDGWTTVRR",
+            "entity_poly_seq_one_letter_code_can": "MPAYFQRPENALKRANEFLEVGKKQPALDVLYDVMKSKKHRTWQKIHEPIMLKYLELCVDLRKSHLAKEGLYQYKNICQQVNIKSLEDVVRAYLKLAEEKTEAAKEESQQMVLDIEDLDNIQTPESVLLSAVSGEDTQDRTDRLLLTPWVKFLWESYRQCLDLLRNNSRVERLYHDIAQQAFKFCLQYTRKAEFRKLCDNLRMHLSQIQRHHNQSTAINLNNPESQSMHLETRLVQLDSAISMELWQEAFKAVEDIHGLFSLSKKPPKPQLMANYYNKVSTVFWKSGNALFHASTLHRLYHLSREMRKNLTQDEMQRMSTRVLLATLSIPITPERTDIARLLDMDGIIVEKQRRLATLLGLQAPPTRIGLINDMVRFNVLQYVVPEVKDLYNWLEVEFNPLKLCERVTKVLNWVREQPEKEPELQQYVPQLQSNTILRLLQQVAQIYQSIEFSRLTSLVPFVDAFQLERAIVDAARHCDLQVRIDHTSRTLSFGSDLNYATREDAPIGPHLQSMPSEQIRNQLTAMSSVLAKALEVIKPAHILQEKEEQHQLAVTAYLKNSRKEHQRILARRQTIEERKERLESLNIQREKEELEQREAELQKVRKAEEERLRQEAKEREKERILQEHEQIKKKTVRERLEQIKKTELGAKAFKDIDIEDLEELDPDFIMAKQVEQLEKEKKELQERLKNQEKKIDYFERAKRLEEIPLIKSAYEEQRIKDMDLWEQQEEERITTMQLEREKALEHKNRMSRMLEDRDLFVMRLKAARQSVYEEKLKQFEERLAEERHNRLEERKRQRKEERRITYYREKEEEEQRRAEEQMLKEREERERAERAKREEELREYQERVKKLEEVERKKRQRELEIEERERRREEERRLGEDPLSRRDSRWGDRDSEGTWRKGPEADSEWRRGPPEKEWRRGEGRDDERSHRRDEERPRRVGDDEDRESSLRPDDDRTLRRGMEDDRGPRRGPDEERFSRRGLEDERPSWRSTDDDRPPRRIGEEDRGSWRHAEDDRPPRRGLDDDRGSWRTADEDRGPRRMMDEDRGPRRGGADDERPSWRSADDDRGPRRGIDDDRGPRRGLDDDRGPWRNADDDRIPRRGADDDRGPWRNMDDDRMSRRADDDRISRRGEDSRPGPWRPFVKPGGWREKEKAREESWGPPRESRPPEEREWERERDRDNPDREENDKDPERERDRERDGDREERFRRPRDEGGWRRGPAEEASSWRDSSRRDDRDRDDRRRERDDRRDLRDRRDLRDDRDRRGPPLRSERDEVSSWRRADDRKDDRAEERDPPRRVPPPVLSRDRDRDRDRDRDRDREREREREREGEKEKTSWRAEKDRESLRRTKNETDEDGWTTVRR",
+            "entity_poly_seq_length": 1362,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "The largest of the mammalian translation initiation factors, eIF3, consists of at least eight subunits ranging in mass from 35 to 170 kDa. eIF3 binds to the 40 S ribosome in an early step of translation initiation and promotes the binding of methionyl-tRNAi and mRNA [1].",
+                "This domain has also been called the PINT motif (Proteasome, Int-6, Nip-1 and TRIP-15) [1]."
+            ],
+            "pfam_descriptions": [
+                "Eukaryotic translation initiation factor 3 subunit 8 N-terminus",
+                "PCI domain"
+            ],
+            "pfam_accessions": [
+                "PF05470",
+                "PF01399"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1U971"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit C",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "MSRFFTTGSDSESESSLSGEELVTKPVGGNYGKQPLLLSEDEEDTKRVVRSAKDKRFEELTNLIRTIRNAMKIRDVTKCLEEFELLGKAYGKAKSIVDKEGVPRFYIRILADLEDYLNELWEDKEGKKKMNKNNAKALSTLRQKIRKYNRDFESHITNYKQNPEQSADEDAEKNEEDSEGSSDEDEDEDGVSAAAFLKKKAEAPSGESRKFLKKMEDEDEDSEDSEDDEEWDTGSTSSDSDSEEEEGKQTALASRFLKKAPTTEEDKKAAEKKREDKAKKKHDRKSKRLDEEEEDNEGGEWERVRGGVPLVKEKPKMFAKGTEITHAVVIKKLNEILQARGKKGTDRAAQIELLQLLVQIASENNLGEGVIVKIKFNIIASLYDYNPNLATYMKPEMWQKCLDCINELMDILFANPNIFVGENILEESENLQNVDQPLRVRGCILTLVERMDEEFTKIMQNTDPHSQEYVEHLKDEAQVCAIIERVQRYLEEKGTTEEICRVYLRRILHTYYKFDYKAHQRQLTPPEGSSKSEQDQAENEGEDSAVLMERLCKYIYAKDRTDRIRTCAILCHIYHHALHSRWYQARDLMLMSHLQDNIQHADPPVQILYNRTMVQLGICAFRQGLTKDAHNALLDIQSSGRAKELLGQGLLLRSLQERNQEQEKVERRRQEPFHLHINLELLECVYLVSAMLLEIPYMAAHESDARRRMISKQFHHQLRVGERQPLLGPPESMREHVVAASKAMKMGDWKTCHSFIINEKMNGKVWDLFPEADKVRTMLVRKIQEESLRTYLFTYSSVYDSISMETLSDMFELDLPTVHSIISKMIINEELMASLDQPTQTVVMHRTEPTAQQNLALQLAEKLGSLVENNERVFDHKQGTYGGYFRDQKDGYRKNEGYMRRGGYRQQQSQTAY",
+            "entity_poly_seq_one_letter_code_can": "MSRFFTTGSDSESESSLSGEELVTKPVGGNYGKQPLLLSEDEEDTKRVVRSAKDKRFEELTNLIRTIRNAMKIRDVTKCLEEFELLGKAYGKAKSIVDKEGVPRFYIRILADLEDYLNELWEDKEGKKKMNKNNAKALSTLRQKIRKYNRDFESHITNYKQNPEQSADEDAEKNEEDSEGSSDEDEDEDGVSAAAFLKKKAEAPSGESRKFLKKMEDEDEDSEDSEDDEEWDTGSTSSDSDSEEEEGKQTALASRFLKKAPTTEEDKKAAEKKREDKAKKKHDRKSKRLDEEEEDNEGGEWERVRGGVPLVKEKPKMFAKGTEITHAVVIKKLNEILQARGKKGTDRAAQIELLQLLVQIASENNLGEGVIVKIKFNIIASLYDYNPNLATYMKPEMWQKCLDCINELMDILFANPNIFVGENILEESENLQNVDQPLRVRGCILTLVERMDEEFTKIMQNTDPHSQEYVEHLKDEAQVCAIIERVQRYLEEKGTTEEICRVYLRRILHTYYKFDYKAHQRQLTPPEGSSKSEQDQAENEGEDSAVLMERLCKYIYAKDRTDRIRTCAILCHIYHHALHSRWYQARDLMLMSHLQDNIQHADPPVQILYNRTMVQLGICAFRQGLTKDAHNALLDIQSSGRAKELLGQGLLLRSLQERNQEQEKVERRRQEPFHLHINLELLECVYLVSAMLLEIPYMAAHESDARRRMISKQFHHQLRVGERQPLLGPPESMREHVVAASKAMKMGDWKTCHSFIINEKMNGKVWDLFPEADKVRTMLVRKIQEESLRTYLFTYSSVYDSISMETLSDMFELDLPTVHSIISKMIINEELMASLDQPTQTVVMHRTEPTAQQNLALQLAEKLGSLVENNERVFDHKQGTYGGYFRDQKDGYRKNEGYMRRGGYRQQQSQTAY",
+            "entity_poly_seq_length": 913,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This is the N terminal domain of subunit 6 translation initiation factor eIF3.",
+                "This domain has also been called the PINT motif (Proteasome, Int-6, Nip-1 and TRIP-15) [1]."
+            ],
+            "pfam_descriptions": [
+                "eIF3 subunit 6 N terminal domain",
+                "PCI domain"
+            ],
+            "pfam_accessions": [
+                "PF09440",
+                "PF01399"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SUC8"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit E",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "MLKIFTCNSHSDLPTNLMAEYDLTTRIAHFLDRHLVFPLLEFLSVKEIYNEKELLQGKLDLLSDTNMVDFAMDVYKNLYSDDIPHALREKRTTVVAQLKQLQAETEPIVKMFEDPETTRQMQSTRDGRMLFDYLADKHGFRQEYLDTLYRYAKFQYECGNYSGAAEYLYFFRVLVPATDRNALSSLWGKLASEILMQNWDAAMEDLTRLKETIDNNSVSSPLQSLQQRTWLIHWSLFVFFNHPKGRDNIIDLFLYQPQYLNAIQTMCPHILRYLTTAVITNKDVRKRRQVLKDLVKVIQQESYTYKDPITEFVECLYVNFDFDGAQKKLRECESVLVNDFFLVACLEDFIENARLFIFETFCRIHQCISINMLADKLNMTPEEAERWIVNLIRNARLDAKIDSKLGHVVMGNNAVSPYQQVIEKTKSLSFRSQMLAMNIEKKLNQNSRSEAPNWATQDSGFY",
+            "entity_poly_seq_one_letter_code_can": "MLKIFTCNSHSDLPTNLMAEYDLTTRIAHFLDRHLVFPLLEFLSVKEIYNEKELLQGKLDLLSDTNMVDFAMDVYKNLYSDDIPHALREKRTTVVAQLKQLQAETEPIVKMFEDPETTRQMQSTRDGRMLFDYLADKHGFRQEYLDTLYRYAKFQYECGNYSGAAEYLYFFRVLVPATDRNALSSLWGKLASEILMQNWDAAMEDLTRLKETIDNNSVSSPLQSLQQRTWLIHWSLFVFFNHPKGRDNIIDLFLYQPQYLNAIQTMCPHILRYLTTAVITNKDVRKRRQVLKDLVKVIQQESYTYKDPITEFVECLYVNFDFDGAQKKLRECESVLVNDFFLVACLEDFIENARLFIFETFCRIHQCISINMLADKLNMTPEEAERWIVNLIRNARLDAKIDSKLGHVVMGNNAVSPYQQVIEKTKSLSFRSQMLAMNIEKKLNQNSRSEAPNWATQDSGFY",
+            "entity_poly_seq_length": 462,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This is C-terminal to the Mov24 region of the yeast proteasomal subunit Rpn11 and seems likely to regulate the mitochondrial fission and tubulation processes, ie the outer mitochondrial membrane proteins. This function appears to be unrelated to the proteasome activity of the N-terminal region [1].",
+                "Members of this family are found in proteasome regulatory subunits, eukaryotic initiation factor 3 (eIF3) subunits and regulators of transcription factors. This family is also known as the MPN domain [3] and PAD-1-like domain [4], JABP1 domain [5] or JAMM domain [7].  These are metalloenzymes that function as the ubiquitin isopeptidase/ deubiquitinase in the ubiquitin-based signalling and protein turnover pathways in eukaryotes [7]. Versions of the domain in prokaryotic cognates of the ubiquitin-modification pathway are shown to have a similar role, and the archael protein from Haloferax volcanii is found to cleave ubiquitin-like small archaeal modifier proteins (SAMP1/2) from protein conjugates [8,9]."
+            ],
+            "pfam_descriptions": [
+                "Maintenance of mitochondrial structure and function",
+                "JAB1/Mov34/MPN/PAD-1 ubiquitin protease"
+            ],
+            "pfam_accessions": [
+                "PF13012",
+                "PF01398"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SLC2"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit F",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MATPAVSASAPPATPAATPAAAAAPASAPAAAPAPTPAPAPAAAPAAGAAPAAAADPAAAAAAAGTGQTPASAQAPAQTSAPSLPGPALPGPFPGGRVVRLHPVILASIVDSYERRNEGAARVIGTLLGTVDKHSVEVTNCFSVPHNESEDEVAVDMEFAKNMYELHKKVSPNELILGWYATGHDITEHSVLIHEYYSREAPNPIHLTVDTSLQNGRMSIKAYVSTSMGVPGRTMGVMFTPLTVKYAYYDTERIGVDLIMKTCFSPNRVIGLSSDLQQVGGASARIQDALSTVLQYAEDVLSGKVSADNTVGRFLMSLVNQVPKIVPDDFETMLNSNINDLLMVTYLANLTQSQIALNEKLVNL",
+            "entity_poly_seq_one_letter_code_can": "MATPAVSASAPPATPAATPAAAAAPASAPAAAPAPTPAPAPAAAPAAGAAPAAAADPAAAAAAAGTGQTPASAQAPAQTSAPSLPGPALPGPFPGGRVVRLHPVILASIVDSYERRNEGAARVIGTLLGTVDKHSVEVTNCFSVPHNESEDEVAVDMEFAKNMYELHKKVSPNELILGWYATGHDITEHSVLIHEYYSREAPNPIHLTVDTSLQNGRMSIKAYVSTSMGVPGRTMGVMFTPLTVKYAYYDTERIGVDLIMKTCFSPNRVIGLSSDLQQVGGASARIQDALSTVLQYAEDVLSGKVSADNTVGRFLMSLVNQVPKIVPDDFETMLNSNINDLLMVTYLANLTQSQIALNEKLVNL",
+            "entity_poly_seq_length": 364,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This domain is conserved from plants to humans. It is a signature protein motif found in components of CSN (COP9 signalosome) where it functions as a structural scaffold for subunit-subunit interactions within the complex and is a key regulator of photomorphogenic development [1]. It is found in Eukaryotic translation initiation factor 3 subunit K, a component of the eukaryotic translation initiation factor 3 (eIF-3) complex required for the initiation of protein synthesis [2]. It is also found in 26S proteasome non-ATPase regulatory subunit 8 (PSMD8), a regulatory subunit of the 26S proteasome [3]."
+            ],
+            "pfam_descriptions": [
+                "CSN8/PSMD8/EIF3K family"
+            ],
+            "pfam_accessions": [
+                "PF10075"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1T3L2"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit K",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "MAMFEQMRANVGKLLKGIDRYNPENLATLERYVETQAKENAYDLEANLAVLKLYQFNPAFFQTTVTAQILLKALTNLPHTDFTLCKCMIDQAHQEERPIRQILYLGDLLETCHFQAFWQALDENMDLLEGITGFEDSVRKFICHVVGITYQHIDRWLLAEMLGDLTDSQLKMWMSKYGWSADESGQIFICSQEESIKPKNIVEKIDFDSVSSIMASSQ",
+            "entity_poly_seq_one_letter_code_can": "MAMFEQMRANVGKLLKGIDRYNPENLATLERYVETQAKENAYDLEANLAVLKLYQFNPAFFQTTVTAQILLKALTNLPHTDFTLCKCMIDQAHQEERPIRQILYLGDLLETCHFQAFWQALDENMDLLEGITGFEDSVRKFICHVVGITYQHIDRWLLAEMLGDLTDSQLKMWMSKYGWSADESGQIFICSQEESIKPKNIVEKIDFDSVSSIMASSQ",
+            "entity_poly_seq_length": 218,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "RNA polymerase I is a multisubunit enzyme and its transcription competence is dependent on the presence of PAF67 [1]. This family of proteins is conserved from worms to humans."
+            ],
+            "pfam_descriptions": [
+                "RNA polymerase I-associated factor PAF67"
+            ],
+            "pfam_accessions": [
+                "PF10255"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SED9"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit L",
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "PAGGCAQTSAFPAGPRRAELPAPRRTRGSLSSLSPAVFASAAAMSYPADDYESEAVYDPYAYPSDYDMHTGDPKQDLAYERQYEQQTYQVIPEVIRNFIQYFHKTVSDLIDQKVYELQASRVSSDVIDQKVYEIQDIYENSWTKLTERFFKNTPWPEAETIAPQVGNDAVFLILYKELYYRHIYAKVSGGPSLAQRFESYYNYCNLFNYILNADGPAPLELPNQWLWDIIDEFIYQFQSFSQYRCKTAKKSEEEIDFLRSNPKIWNVHSVLNVLHSLVDKSNINRQLEVYTSGGDPESVAGEYGRHSLYKMLGYFSLVGLLRLHSLLGDYYQAIKVLENIELNKKSMYSRVPECQVTTYYYVGFAYLMMRRYQDAIRVFANILLYIQRTKSMFQRTTYKYEMINKQNEQMHALLAIALTMYPMRIDESIHLQLREKYGDKMLRMQKGDPQVYEELFSYSCPKFLSPVVPNYDSVHPNYHKEPFLQQLKVFSDEVQQQAQLSTIRSFLKLYTTMPVAKLAGFLDLTEQEFRIQLLVFKHKMKNLVWTSGISALDGEFQSASEVDFYIDKDMIHIADTKVARRYGDFFIRQIHKFEELNRTLKKMGQRP",
+            "entity_poly_seq_one_letter_code_can": "PAGGCAQTSAFPAGPRRAELPAPRRTRGSLSSLSPAVFASAAAMSYPADDYESEAVYDPYAYPSDYDMHTGDPKQDLAYERQYEQQTYQVIPEVIRNFIQYFHKTVSDLIDQKVYELQASRVSSDVIDQKVYEIQDIYENSWTKLTERFFKNTPWPEAETIAPQVGNDAVFLILYKELYYRHIYAKVSGGPSLAQRFESYYNYCNLFNYILNADGPAPLELPNQWLWDIIDEFIYQFQSFSQYRCKTAKKSEEEIDFLRSNPKIWNVHSVLNVLHSLVDKSNINRQLEVYTSGGDPESVAGEYGRHSLYKMLGYFSLVGLLRLHSLLGDYYQAIKVLENIELNKKSMYSRVPECQVTTYYYVGFAYLMMRRYQDAIRVFANILLYIQRTKSMFQRTTYKYEMINKQNEQMHALLAIALTMYPMRIDESIHLQLREKYGDKMLRMQKGDPQVYEELFSYSCPKFLSPVVPNYDSVHPNYHKEPFLQQLKVFSDEVQQQAQLSTIRSFLKLYTTMPVAKLAGFLDLTEQEFRIQLLVFKHKMKNLVWTSGISALDGEFQSASEVDFYIDKDMIHIADTKVARRYGDFFIRQIHKFEELNRTLKKMGQRP",
+            "entity_poly_seq_length": 607,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This is the C-terminal helix domain found in Eukaryotic translation initiation factor 3 subunit M (eIF3m). In mammalian eIF3a, the C-terminal helix following the PCI domain is involved in interactions with other core subunits [1].",
+                "This domain has also been called the PINT motif (Proteasome, Int-6, Nip-1 and TRIP-15) [1]."
+            ],
+            "pfam_descriptions": [
+                "eIF3 subunit M, C-terminal helix",
+                "PCI domain"
+            ],
+            "pfam_accessions": [
+                "PF18005",
+                "PF01399"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SLW8"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit M",
+            "entity_poly_strand_id": "8",
+            "entity_poly_seq_one_letter_code": "MSVPAFIDISEEDQAAELRAYLKSKGAEISEENSEGGLHVDLAQIIEACDVCLKEDDKDVESVMNSVVSLLLILEPDKQEALIESLCEKLVKFREGERPSLRLQLLSNLFHGMDKNTPVRYTVYCSLIKVAASCGAIQYIPTELDQVRKWISDWNLTTEKKHTLLRLLYEALVDCKKSDAASKVMVELLGSYTEDNASQARVDAHRCIVRALKDPNAFLFDHLLTLKPVKFLEGELIHDLLTIFVSAKLASYVKFYQNNKDFIDSLGLLHEQNMAKMRLLTFMGMAVENKEISFDTMQQELQIGADDVEAFVIDAVRTKMVYCKIDQTQRKVVVSHSTHRTFGKQQWQQLYDTLNAWKQNLNKVKNSLLSLSDT",
+            "entity_poly_seq_one_letter_code_can": "MSVPAFIDISEEDQAAELRAYLKSKGAEISEENSEGGLHVDLAQIIEACDVCLKEDDKDVESVMNSVVSLLLILEPDKQEALIESLCEKLVKFREGERPSLRLQLLSNLFHGMDKNTPVRYTVYCSLIKVAASCGAIQYIPTELDQVRKWISDWNLTTEKKHTLLRLLYEALVDCKKSDAASKVMVELLGSYTEDNASQARVDAHRCIVRALKDPNAFLFDHLLTLKPVKFLEGELIHDLLTIFVSAKLASYVKFYQNNKDFIDSLGLLHEQNMAKMRLLTFMGMAVENKEISFDTMQQELQIGADDVEAFVIDAVRTKMVYCKIDQTQRKVVVSHSTHRTFGKQQWQQLYDTLNAWKQNLNKVKNSLLSLSDT",
+            "entity_poly_seq_length": 374,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "This domain is found at the N-terminus of ribosomal S13 and S15 proteins.                      This domain is also identified as NUC021 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S13/S15 N-terminal domain",
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF08069",
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SP51"
+            ],
+            "rcsb_pdbx_description": "uS15",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MGRMHAPGKGLSQSALPYRRSVPTWLKLTSDDVKEQIYKLAKKGLTPSQIGVILRDSHGVAQVRFVTGNKILRILKSKGLAPDLPEDLYHLIKKAVAVRKHLERNRKDKDAKFRLILIESRIHRLARYYKTKRVLPPNWKYESSTASALVA",
+            "entity_poly_seq_one_letter_code_can": "MGRMHAPGKGLSQSALPYRRSVPTWLKLTSDDVKEQIYKLAKKGLTPSQIGVILRDSHGVAQVRFVTGNKILRILKSKGLAPDLPEDLYHLIKKAVAVRKHLERNRKDKDAKFRLILIESRIHRLARYYKTKRVLPPNWKYESSTASALVA",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1TG89"
+            ],
+            "rcsb_pdbx_description": "uS8",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MVRMNVLADALKSINNAEKRGKRQVLIRPCSKVIVRFLTVMMKHGYIGEFEIIDDHRAGKIVVNLTGRLNKCGVISPRFDVQLKDLEKWQNNLLPSRQFGFIVLTTSAGIMDHEEARRKHTGGKILGFFF",
+            "entity_poly_seq_one_letter_code_can": "MVRMNVLADALKSINNAEKRGKRQVLIRPCSKVIVRFLTVMMKHGYIGEFEIIDDHRAGKIVVNLTGRLNKCGVISPRFDVQLKDLEKWQNNLLPSRQFGFIVLTTSAGIMDHEEARRKHTGGKILGFFF",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "Members of this family are found in proteasome regulatory subunits, eukaryotic initiation factor 3 (eIF3) subunits and regulators of transcription factors. This family is also known as the MPN domain [3] and PAD-1-like domain [4], JABP1 domain [5] or JAMM domain [7].  These are metalloenzymes that function as the ubiquitin isopeptidase/ deubiquitinase in the ubiquitin-based signalling and protein turnover pathways in eukaryotes [7]. Versions of the domain in prokaryotic cognates of the ubiquitin-modification pathway are shown to have a similar role, and the archael protein from Haloferax volcanii is found to cleave ubiquitin-like small archaeal modifier proteins (SAMP1/2) from protein conjugates [8,9]."
+            ],
+            "pfam_descriptions": [
+                "JAB1/Mov34/MPN/PAD-1 ubiquitin protease"
+            ],
+            "pfam_accessions": [
+                "PF01398"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1ST95"
+            ],
+            "rcsb_pdbx_description": "Eukaryotic translation initiation factor 3 subunit H",
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "LPTAHAQSVPQMASRKEGTGSGGTSSSSATGVVGKGKGKGGSGDSAVKQVQIDGLVVLKIIKHYQEEGQGTEVVQGVLLGLVVEDRLEITNCFPFPQHTEDDADFDEVQYQMEMMRSLRHVNIDHLHVGWYQSTYYGSFVTRALLDSQFSYQHAIEESVVLIYDPIKTAQGSLSLKAYRLTPKLMEVCKEKDFSPEALKKANITFEHMFEEVPIVIKNSHLINVLMWELEKKSAVADKHELLSLASSNHLGKNLQLLMDRVDEMSQDIVKYNTYMRNTSKQQQQKHQYQQRRQQENMQRQSRGEPPLPEEDLSKLFKPPQPPARMDSLLIAGQINTYCQNIKEFTAQNLGKLFMAQALQEYNN",
+            "entity_poly_seq_one_letter_code_can": "LPTAHAQSVPQMASRKEGTGSGGTSSSSATGVVGKGKGKGGSGDSAVKQVQIDGLVVLKIIKHYQEEGQGTEVVQGVLLGLVVEDRLEITNCFPFPQHTEDDADFDEVQYQMEMMRSLRHVNIDHLHVGWYQSTYYGSFVTRALLDSQFSYQHAIEESVVLIYDPIKTAQGSLSLKAYRLTPKLMEVCKEKDFSPEALKKANITFEHMFEEVPIVIKNSHLINVLMWELEKKSAVADKHELLSLASSNHLGKNLQLLMDRVDEMSQDIVKYNTYMRNTSKQQQQKHQYQQRRQQENMQRQSRGEPPLPEEDLSKLFKPPQPPARMDSLLIAGQINTYCQNIKEFTAQNLGKLFMAQALQEYNN",
+            "entity_poly_seq_length": 363,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7e"
+            ],
+            "pfam_accessions": [
+                "PF01251"
+            ],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [
+                "G1SVB0"
+            ],
+            "rcsb_pdbx_description": "eS7",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MFSSSAKIVKPNGEKPDEFESGISQALLELEMNSDLKAQLRELNITAAKEIEVGGGRKAIIIFVPVPQLKSFQKIQVRLVRELEKKFSGKHVVFIAQRRILPKPTRKSRTKNKQKRPRSRTLTAVHDAILEDLVFPSEIVGKRIRVKLDGSRLIKVHLDKAQQNNVEHKVETFSGVYKKLTGKDVNFEFPEFQL",
+            "entity_poly_seq_one_letter_code_can": "MFSSSAKIVKPNGEKPDEFESGISQALLELEMNSDLKAQLRELNITAAKEIEVGGGRKAIIIFVPVPQLKSFQKIQVRLVRELEKKFSGKHVVFIAQRRILPKPTRKSRTKNKQKRPRSRTLTAVHDAILEDLVFPSEIVGKRIRVKLDGSRLIKVHLDKAQQNNVEHKVETFSGVYKKLTGKDVNFEFPEFQL",
+            "entity_poly_seq_length": 194,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS7"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6W2S",
+            "rcsb_pdbx_description": "18S rRNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "UACCUGGUUGAUCCUGCCAGUAGCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUUCCUUUGGUCGCUCGACUUGGAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCCGACGGGCGCUGACCCCCUUCGCGGGGGGGAUGCGUGCAUUUAUCAGUGGUGACUCUAGAUAACCUCGGGCCGAUCGCACGCCCGGCGGCGACGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGACCCGGGGAGGUAGUGACGAAAAAUAACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGAAUGAGUCCACUUUAAAUCCUUUAACGAGGAUCCAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUAGUUGGAUCUUGGGAGCGGCCGUCCCCUGCUCGGCGCCGGCCCGAAGCGUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCCGCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUAUUUUGUUGGUUUUCGGAACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCCGACCGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCCGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCCCGGUCGGCGUAACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCCUGCCCUUUGUACACACCGCCCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCCGCCGGGGUGCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_one_letter_code_can": "UACCUGGUUGAUCCUGCCAGUAGCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUUCCUUUGGUCGCUCGACUUGGAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCCGACGGGCGCUGACCCCCUUCGCGGGGGGGAUGCGUGCAUUUAUCAGUGGUGACUCUAGAUAACCUCGGGCCGAUCGCACGCCCGGCGGCGACGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGACCCGGGGAGGUAGUGACGAAAAAUAACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGAAUGAGUCCACUUUAAAUCCUUUAACGAGGAUCCAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUAGUUGGAUCUUGGGAGCGGCCGUCCCCUGCUCGGCGCCGGCCCGAAGCGUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCCGCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUAUUUUGUUGGUUUUCGGAACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCCGACCGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCCGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCCCGGUCGGCGUAACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCCUGCCCUUUGUACACACCGCCCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCCGCCGGGGUGCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_length": 1697,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6W2S",
+            "rcsb_pdbx_description": "CrPV 5'-UTR IRES",
+            "rcsb_source_organism_description": [
+                "Cricket paralysis virus"
+            ],
+            "rcsb_source_organism_id": [
+                12136
+            ],
+            "entity_poly_strand_id": "0",
+            "entity_poly_seq_one_letter_code": "UUCGAUACCAAGAGCUGGUGUCUGAGGGAUUACGACUCGCGUGGUCGGACAGCACAUGUUAGUCAUGUAUUAUGGUGUUUCCCAACACGUAUCUUUGCUCUAGUAUUGAACUUUAGUGAUGAGUGUACUUGGCAUGUACACCUGAUUAGUUAGCCCUUGUGGAUACGCCACUGCCGCUCAGGUACAGUAGGACAUACCCCAAAUAUUGGGUUUUUUUUUUAGAGAAGAAAAUUAGUGGCGAAACGUACGGUUUAUGUCAAAGGAGAAGGUGAUUUUAAUUGCACCUGAAGCAACCCUAGGUCUUCCCUUUGAUGUGAGCUAAUAAGGAGUAACCGAUUCUUACAAUGUGAUCAUGUCUUUUCAACAAACAAAGGAUC",
+            "entity_poly_seq_one_letter_code_can": "UUCGAUACCAAGAGCUGGUGUCUGAGGGAUUACGACUCGCGUGGUCGGACAGCACAUGUUAGUCAUGUAUUAUGGUGUUUCCCAACACGUAUCUUUGCUCUAGUAUUGAACUUUAGUGAUGAGUGUACUUGGCAUGUACACCUGAUUAGUUAGCCCUUGUGGAUACGCCACUGCCGCUCAGGUACAGUAGGACAUACCCCAAAUAUUGGGUUUUUUUUUUAGAGAAGAAAAUUAGUGGCGAAACGUACGGUUUAUGUCAAAGGAGAAGGUGAUUUUAAUUGCACCUGAAGCAACCCUAGGUCUUCCCUUUGAUGUGAGCUAAUAAGGAGUAACCGAUUCUUACAAUGUGAUCAUGUCUUUUCAACAAACAAAGGAUC",
+            "entity_poly_seq_length": 377,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

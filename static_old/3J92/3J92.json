@@ -1,0 +1,1176 @@
+{
+    "rcsb_id": "3J92",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.6,
+    "rcsb_external_ref_id": [
+        "EMD-2832"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-2832"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.6,
+    "cryoem_exp_num_particles": 63826,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2015,
+    "citation_rcsb_authors": [
+        "Shao, S.",
+        "Brown, A.",
+        "Santhanam, B.",
+        "Hegde, R.S."
+    ],
+    "citation_title": "Structure and Assembly Pathway of the Ribosome Quality Control Complex.",
+    "citation_pdbx_doi": "10.1016/j.molcel.2014.12.015",
+    "pdbx_keywords_text": "RWD, RING, quality control, RIBOSOME-LIGASE complex",
+    "_organismId": [
+        9986,
+        9606
+    ],
+    "_organismName": [
+        "Oryctolagus cuniculus",
+        "Homo sapiens"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL2",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "MGRVIRGQRKGAGSVFRAHVKHRKGAARLRAVDFAERHGYIKGIVKDIIHDPGRGAPLAKVVFRDPYRFKKRTELFIAAEGIHTGQFVYCGKKAQLNIGNVLPVGTMPEGTIVCCLEEKPGDRGKLARASGNYATVISHNPETKKTRVKLPSGSKKVISSANRAVVGVVAGGGRIDKPILKAGRAYHKYKAKRNCWPRVRGVAMNPVEHPFGGGNHQHIGKPSTIRRDAPAGRKVGLIAARRTGRLRGTKTVQEKEN",
+            "entity_poly_seq_one_letter_code_can": "MGRVIRGQRKGAGSVFRAHVKHRKGAARLRAVDFAERHGYIKGIVKDIIHDPGRGAPLAKVVFRDPYRFKKRTELFIAAEGIHTGQFVYCGKKAQLNIGNVLPVGTMPEGTIVCCLEEKPGDRGKLARASGNYATVISHNPETKKTRVKLPSGSKKVISSANRAVVGVVAGGGRIDKPILKAGRAYHKYKAKRNCWPRVRGVAMNPVEHPFGGGNHQHIGKPSTIRRDAPAGRKVGLIAARRTGRLRGTKTVQEKEN",
+            "entity_poly_seq_length": 257,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL4",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MACARPLISVYSEKGESSGKNVTLPAVFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVARIPRVRGGGTHRSGQGAFGNMCRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRIEEVPELPLVVEDKVESYKKTKEAVLLLKKLKAWNDIKKVYASQRMRAGKGKMRNRRRIQRRGPCIIYNEDNGIIKAFRNIPGITLLNVSKLNILKLAPGGHVGRFCIWTESAFRKLDELYGTWRKAATLKSNYNLPMHKMLNTDLSRILKSPEIQRALRAPRKKIHRRVLKKNPLKNLRIMLKLNPYAKTMRRNTILRQARNHKIRMDKAAAAAAALKAKSGEK",
+            "entity_poly_seq_one_letter_code_can": "MACARPLISVYSEKGESSGKNVTLPAVFKAPIRPDIVNFVHTNLRKNNRQPYAVSELAGHQTSAESWGTGRAVARIPRVRGGGTHRSGQGAFGNMCRGGRMFAPTKTWRRWHRRVNTTQKRYAICSALAASALPALVMSKGHRIEEVPELPLVVEDKVESYKKTKEAVLLLKKLKAWNDIKKVYASQRMRAGKGKMRNRRRIQRRGPCIIYNEDNGIIKAFRNIPGITLLNVSKLNILKLAPGGHVGRFCIWTESAFRKLDELYGTWRKAATLKSNYNLPMHKMLNTDLSRILKSPEIQRALRAPRKKIHRRVLKKNPLKNLRIMLKLNPYAKTMRRNTILRQARNHKIRMDKAAAAAAALKAKSGEK",
+            "entity_poly_seq_length": 368,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL18",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MGFVKVVKNKAYFKRYQVKFRRRREGKTDYYARKRLVIQDKNKYNTPKYRMIVRVTNRDIICQIAYARIEGDMIVCAAYAHELPKYGVKVGLTNYAAAYCTGLLLARRLLNRFGMDKIYEGQVEVTGDEYNVESIDGQPGAFTCYLDAGLARTTTGNKVFGALKGAVDGGLSIPHSTKRFPGYDSESKEFNAEVHRKHILGQNVADYMRYLIEEDEDAYKKQFSQYIKNNVTPDMMEEMYKKAHAAIRENPVYEKKPKKEVKKKRWNRPKMSLAQKKDRVAQKKASFLRAQERAAES",
+            "entity_poly_seq_one_letter_code_can": "MGFVKVVKNKAYFKRYQVKFRRRREGKTDYYARKRLVIQDKNKYNTPKYRMIVRVTNRDIICQIAYARIEGDMIVCAAYAHELPKYGVKVGLTNYAAAYCTGLLLARRLLNRFGMDKIYEGQVEVTGDEYNVESIDGQPGAFTCYLDAGLARTTTGNKVFGALKGAVDGGLSIPHSTKRFPGYDSESKEFNAEVHRKHILGQNVADYMRYLIEEDEDAYKKQFSQYIKNNVTPDMMEEMYKKAHAAIRENPVYEKKPKKEVKKKRWNRPKMSLAQKKDRVAQKKASFLRAQERAAES",
+            "entity_poly_seq_length": 297,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL30",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MEGADVKEKKKKVPAVPETLKKKRKNFAELKIKRLRKKFAQKMLRKARRKLIYEKAKHYHKEYRQMYRTEIRMARMARKAGNFYVPAEPKLAFVIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLRIVEPYIAWGYPNLKSVNELIYKRGYGKINKKRIALTDNALIARSLGKYGIICMEDLIHEIYTVGKRFKEANNFLWPFKLSSPRGGMKKKTTHFVEGEDAGNREDQINRLIRRMN",
+            "entity_poly_seq_one_letter_code_can": "MEGADVKEKKKKVPAVPETLKKKRKNFAELKIKRLRKKFAQKMLRKARRKLIYEKAKHYHKEYRQMYRTEIRMARMARKAGNFYVPAEPKLAFVIRIRGINGVSPKVRKVLQLLRLRQIFNGTFVKLNKASINMLRIVEPYIAWGYPNLKSVNELIYKRGYGKINKKRIALTDNALIARSLGKYGIICMEDLIHEIYTVGKRFKEANNFLWPFKLSSPRGGMKKKTTHFVEGEDAGNREDQINRLIRRMN",
+            "entity_poly_seq_length": 250,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL8",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MPKGKKAKGKKVAPAPAVVKKQEAKKVVNLLFEKRPKNFGIGQDIQPKRDLTRFVKWPRYIRLQRQRAILYKRLKVPPTINQFTQALDRQTATQLLKLTHKYRPETKQEKKQRLLARAEKKAAGKGDVPTKRPPVLRAGVNTVTTLVENKKAQLVVIAHDVDPIELVVFLPALCRKMGVPYCIIKGKARLGRLVHRKTCTTVAFTQVNSEDKGALAKLVEAIRTNYNDRYNEIRRHWGGNVLGPKSVARITKLEKAKAKELATKLG",
+            "entity_poly_seq_one_letter_code_can": "MPKGKKAKGKKVAPAPAVVKKQEAKKVVNLLFEKRPKNFGIGQDIQPKRDLTRFVKWPRYIRLQRQRAILYKRLKVPPTINQFTQALDRQTATQLLKLTHKYRPETKQEKKQRLLARAEKKAAGKGDVPTKRPPVLRAGVNTVTTLVENKKAQLVVIAHDVDPIELVVFLPALCRKMGVPYCIIKGKARLGRLVHRKTCTTVAFTQVNSEDKGALAKLVEAIRTNYNDRYNEIRRHWGGNVLGPKSVARITKLEKAKAKELATKLG",
+            "entity_poly_seq_length": 266,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL13",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MAPSRNGMILKPHFHKDWQRRVATWFNQPARKIRRRKARQAKARRIAPRPASGPLRPVVRCPTVRYHTKVRAGRGFSLEELRVAGIHKKVARTIGISVDPRRRNKCTESLQANVQRLKEYRSKLILFPRKPSAPKKGDSSAEELKLATQLTGPVMPIRNVYKREKARVITDEEKNFKAFASLRMARANARLFGIRAKRAKEAAEQDVEKKK",
+            "entity_poly_seq_one_letter_code_can": "MAPSRNGMILKPHFHKDWQRRVATWFNQPARKIRRRKARQAKARRIAPRPASGPLRPVVRCPTVRYHTKVRAGRGFSLEELRVAGIHKKVARTIGISVDPRRRNKCTESLQANVQRLKEYRSKLILFPRKPSAPKKGDSSAEELKLATQLTGPVMPIRNVYKREKARVITDEEKNFKAFASLRMARANARLFGIRAKRAKEAAEQDVEKKK",
+            "entity_poly_seq_length": 211,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL14",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MVFRRFVEVGRVAYVSFGPHAGKLVAIVDVIDQNRALVDGPCTQVRRQAMPFKCMQLTDFILKFPHSARQKYVRKAWEKADINAKWAATRWAKKIEAREKKAKMTDFDRYKVMKARKMRNRLIKLEVKKLQKAALLKASPKKALAKGAAAAAAAAAAKVPVKKITTAGKKAPAQKAPAQKAAGQKAAPPPKAQKVQKPPAQKAPAPKASGEKA",
+            "entity_poly_seq_one_letter_code_can": "MVFRRFVEVGRVAYVSFGPHAGKLVAIVDVIDQNRALVDGPCTQVRRQAMPFKCMQLTDFILKFPHSARQKYVRKAWEKADINAKWAATRWAKKIEAREKKAKMTDFDRYKVMKARKMRNRLIKLEVKKLQKAALLKASPKKALAKGAAAAAAAAAAKVPVKKITTAGKKAPAQKAPAQKAAGQKAAPPPKAQKVQKPPAQKAPAPKASGEKA",
+            "entity_poly_seq_length": 213,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL13",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MAEGQQVLVLDGRGHLLGRLAAIVAKQVLLGRKVVVVRCEGINISGNFYRNKLKYLAFLRKRMNTNPSRGPYHFRAPSRIFWRTVRGMLPHKTKRGQAALDRLKVFDGIPPPYDKKKRMVVPAALKVVRLKPTRKFAYLGRLAHEVGWKYQAVTATLEEKRKEKAKIHYRKKKQLMRLRKQAEKNVEKKIDRFTEVLKTHGFLV",
+            "entity_poly_seq_one_letter_code_can": "MAEGQQVLVLDGRGHLLGRLAAIVAKQVLLGRKVVVVRCEGINISGNFYRNKLKYLAFLRKRMNTNPSRGPYHFRAPSRIFWRTVRGMLPHKTKRGQAALDRLKVFDGIPPPYDKKKRMVVPAALKVVRLKPTRKFAYLGRLAHEVGWKYQAVTATLEEKRKEKAKIHYRKKKQLMRLRKQAEKNVEKKIDRFTEVLKTHGFLV",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL22",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MVRYSLDPENPTKSCKSRGSNLRVHFKNTRETAQAIKGMHIRKATKYLKDVTLQKQCVPFRRYNGGVGRCAQAKQWGWTQGRWPKKSAEFLLHMLKNAESNAELKGLDVDSLVIEHIQVNKAPKMRRRTYRAHGRINPYMSSPCHIEMILTEKEQIVPKPEEEVAQKKKISQKKLKKQKLMARE",
+            "entity_poly_seq_one_letter_code_can": "MVRYSLDPENPTKSCKSRGSNLRVHFKNTRETAQAIKGMHIRKATKYLKDVTLQKQCVPFRRYNGGVGRCAQAKQWGWTQGRWPKKSAEFLLHMLKNAESNAELKGLDVDSLVIEHIQVNKAPKMRRRTYRAHGRINPYMSSPCHIEMILTEKEQIVPKPEEEVAQKKKISQKKLKKQKLMARE",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL18",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MGVDIRHNKDRKVRRKEPKSQDIYLRLLVKLYRFLARRTNSTFNQVVLKRLFMSRTNRPPLSLSRMIRKMKLPGREGKTAVVVGTITDDVRVQEVPKLKVCALRVSSRARSRILKAGGKILTFDQLALDSPKGCGTVLLSGPRKGREVYRHFGKAPGTPHSHTKPYVRSKGRKFERARGRRASRGYKN",
+            "entity_poly_seq_one_letter_code_can": "MGVDIRHNKDRKVRRKEPKSQDIYLRLLVKLYRFLARRTNSTFNQVVLKRLFMSRTNRPPLSLSRMIRKMKLPGREGKTAVVVGTITDDVRVQEVPKLKVCALRVSSRARSRILKAGGKILTFDQLALDSPKGCGTVLLSGPRKGREVYRHFGKAPGTPHSHTKPYVRSKGRKFERARGRRASRGYKN",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL19",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "YSMLRLQKRLASSVLRCGKKKVWLDPNETNEIANANSRQQIRKLIKDGLIIRKPVTVHSRARCRKNTLARRKGRHMGIGKRKGTANARMPEKVTWMRRMRILRRLLRRYRESKKIDRHMYHSLYLKVKGNVFKNKRILMEHIHKLKADKARKKLLADQAEARRSKTKEARKRREERLQAKKEEIIKTLSKEEETKK",
+            "entity_poly_seq_one_letter_code_can": "YSMLRLQKRLASSVLRCGKKKVWLDPNETNEIANANSRQQIRKLIKDGLIIRKPVTVHSRARCRKNTLARRKGRHMGIGKRKGTANARMPEKVTWMRRMRILRRLLRRYRESKKIDRHMYHSLYLKVKGNVFKNKRILMEHIHKLKADKARKKLLADQAEARRSKTKEARKRREERLQAKKEEIIKTLSKEEETKK",
+            "entity_poly_seq_length": 196,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL21",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MTNTKGKRRGTRYMFSRPFRKHGVVPLATYMRIYKKGDIVDIKGMGTVQKGMPHKCYHGKTGRVYNVTQHAVGIVVNKQVKGKILAKRINVRIEHIKHSKSRDSFLKRVKENDQKKKEAKEKGTWVQLKRQPAPPREAHFVRTNGKEPELLEPIPYEFMA",
+            "entity_poly_seq_one_letter_code_can": "MTNTKGKRRGTRYMFSRPFRKHGVVPLATYMRIYKKGDIVDIKGMGTVQKGMPHKCYHGKTGRVYNVTQHAVGIVVNKQVKGKILAKRINVRIEHIKHSKSRDSFLKRVKENDQKKKEAKEKGTWVQLKRQPAPPREAHFVRTNGKEPELLEPIPYEFMA",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL22",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MAPVKKLVAKGGKKKKQVLKFTLDCTHPVEDGIMDAANFEQFLQERIKVNGKAGNLGGGVVTIERSKSKITVTSEVPFSKRYLKYLTKKYLKKNNLRDWLRVVANSKESYELRYFQINQDEEEEEDED",
+            "entity_poly_seq_one_letter_code_can": "MAPVKKLVAKGGKKKKQVLKFTLDCTHPVEDGIMDAANFEQFLQERIKVNGKAGNLGGGVVTIERSKSKITVTSEVPFSKRYLKYLTKKYLKKNNLRDWLRVVANSKESYELRYFQINQDEEEEEDED",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL14",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MSKRGRGGSSGAKFRISLGLPVGAVINCADNTGAKNLYIISVKGIKGRLNRLPAAGVGDMVMATVKKGKPELRKKVHPAVVIRQRKSYRRKDGVFLYFEDNAGVIVNNKGEMKGSAITGPVAKECADLWPRIASNAGSIA",
+            "entity_poly_seq_one_letter_code_can": "MSKRGRGGSSGAKFRISLGLPVGAVINCADNTGAKNLYIISVKGIKGRLNRLPAAGVGDMVMATVKKGKPELRKKVHPAVVIRQRKSYRRKDGVFLYFEDNAGVIVNNKGEMKGSAITGPVAKECADLWPRIASNAGSIA",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL24",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MKVELCSFSGYKIYPGHGRRYARTDGKVFQFLNAKCESAFLSKRNPRQINWTVLYRRKHKKGQSEEIQKKRTRRAVKFQRAITGASLADIMAKRNQKPEVRKAQREQAIRAAKEAKKAKQASKKTAMAAAKAPTKAAPKQKIVKPVKVSAPRVGGKR",
+            "entity_poly_seq_one_letter_code_can": "MKVELCSFSGYKIYPGHGRRYARTDGKVFQFLNAKCESAFLSKRNPRQINWTVLYRRKHKKGQSEEIQKKRTRRAVKFQRAITGASLADIMAKRNQKPEVRKAQREQAIRAAKEAKKAKQASKKTAMAAAKAPTKAAPKQKIVKPVKVSAPRVGGKR",
+            "entity_poly_seq_length": 157,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL15",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "QPSRLRKTRKLRGHVSHGHGRIGKHRKHPGGRGNAGGMHHHRINFDKYHPGYFGKVGMRHYHLKRNQSFCPTVNLDKLWTLVSEQTRINAAKNKTGAAPIIDVVRSGYYKVLGKGKLPKQPVIVKAKFFSRRAEEKIKGVGGACVLVA",
+            "entity_poly_seq_one_letter_code_can": "QPSRLRKTRKLRGHVSHGHGRIGKHRKHPGGRGNAGGMHHHRINFDKYHPGYFGKVGMRHYHLKRNQSFCPTVNLDKLWTLVSEQTRINAAKNKTGAAPIIDVVRSGYYKVLGKGKLPKQPVIVKAKFFSRRAEEKIKGVGGACVLVA",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL30",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MVAAKKTKKSLESINSRLQLVMKSGKYVLGYKQTLKMIRQGKAKLVILANNCPALRKSEIEYYAMLAKTGVHHYSGNNIELGTACGKYYRVCTLAIIDPGDSDIIRSMPEQTGEK",
+            "entity_poly_seq_one_letter_code_can": "MVAAKKTKKSLESINSRLQLVMKSGKYVLGYKQTLKMIRQGKAKLVILANNCPALRKSEIEYYAMLAKTGVHHYSGNNIELGTACGKYYRVCTLAIIDPGDSDIIRSMPEQTGEK",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL31",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MAPAKKGGEKKKGRSAINEVVTREYTINIHKRIHGVGFKKRAPRALKEIRKFAMKEMGTPDVRIDTRLNKAVWAKGIRNVPYRIRVRLSRKRNEDEDSPNKLYTLVTYVPVTTFKNLQTVNVDEN",
+            "entity_poly_seq_one_letter_code_can": "MAPAKKGGEKKKGRSAINEVVTREYTINIHKRIHGVGFKKRAPRALKEIRKFAMKEMGTPDVRIDTRLNKAVWAKGIRNVPYRIRVRLSRKRNEDEDSPNKLYTLVTYVPVTTFKNLQTVNVDEN",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL33",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MSGRLWSKAIFAGYKRGLRNQREHTALLKIEGVYARDETEFYLGKRCAYVYKAKNNTVTPGGKPNKTRVIWGKVTRAHGNSGMVRAKFRSNLPAKAIGHRIRVMLYPSRI",
+            "entity_poly_seq_one_letter_code_can": "MSGRLWSKAIFAGYKRGLRNQREHTALLKIEGVYARDETEFYLGKRCAYVYKAKNNTVTPGGKPNKTRVIWGKVTRAHGNSGMVRAKFRSNLPAKAIGHRIRVMLYPSRI",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL34",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MVQRLTYRRRLSYNTASNKTRLSRTPGNRIVYLYTKKVGKAPKSACGVCPGRLRGVRAVRPKVLMRLSKTKKHVSRAYGGSMCAKCVRDRIKRAFLIEEQKIVVKVLKAQAQSQKAK",
+            "entity_poly_seq_one_letter_code_can": "MVQRLTYRRRLSYNTASNKTRLSRTPGNRIVYLYTKKVGKAPKSACGVCPGRLRGVRAVRPKVLMRLSKTKKHVSRAYGGSMCAKCVRDRIKRAFLIEEQKIVVKVLKAQAQSQKAK",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL36",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MALRYPMAVGLNKGHKVTKNVSKPRHSRRRGRLTKHTKFVRDMIREVCGFAPYERRAMELLKVSKDKRALKFIKKRVGTHIRAKRKREELSNVLAAMRKAAAKKD",
+            "entity_poly_seq_one_letter_code_can": "MALRYPMAVGLNKGHKVTKNVSKPRHSRRRGRLTKHTKFVRDMIREVCGFAPYERRAMELLKVSKDKRALKFIKKRVGTHIRAKRKREELSNVLAAMRKAAAKKD",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL37",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MTKGTSSFGKRRNKTHTLCRRCGSKAYHLQKSTCGKCGYPAKRKRKYNWSAKAKRRNTTGTGRMRHLKIVYRRFRHGFREGITPKPKRAAVAASSSS",
+            "entity_poly_seq_one_letter_code_can": "MTKGTSSFGKRRNKTHTLCRRCGSKAYHLQKSTCGKCGYPAKRKRKYNWSAKAKRRNTTGTGRMRHLKIVYRRFRHGFREGITPKPKRAAVAASSSS",
+            "entity_poly_seq_length": 97,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL40",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLRQLAQKYNCDKMICRKCYARLHPRAVNCRKKKCGHTNNLRPKKKVK",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLRQLAQKYNCDKMICRKCYARLHPRAVNCRKKKCGHTNNLRPKKKVK",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL42",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MVNVPKTRRTFCKKCGKHQPHKVTQYKKGKDSLYAQGKRRYDRKQSGYGGQTKPIFRKKAKTTKKIVLRLECVEPNCRSKRMLAIKRCKHFELGGDKKRKGQVIQF",
+            "entity_poly_seq_one_letter_code_can": "MVNVPKTRRTFCKKCGKHQPHKVTQYKKGKDSLYAQGKRRYDRKQSGYGGQTKPIFRKKAKTTKKIVLRLECVEPNCRSKRMLAIKRCKHFELGGDKKRKGQVIQF",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL43",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MAKRTKKVGIVGKYGTRYGASLRKMVKKIEISQHAKYTCSFCGKTKMKRRAVGIWHCGSCMKTVAGGAWTYNTTSAVTVKSAIRRLKELKDQ",
+            "entity_poly_seq_one_letter_code_can": "MAKRTKKVGIVGKYGTRYGASLRKMVKKIEISQHAKYTCSFCGKTKMKRRAVGIWHCGSCMKTVAGGAWTYNTTSAVTVKSAIRRLKELKDQ",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL11",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "MPPKFDPNEIKVVYLRCTGGEVGATSALAPKIGPLGLSPKKVGDDIAKATGDWKGLRITVKLTIQNRQAQIEVVPSASALIIKALKEPPRDRKKQKNIKHSGNITFDEIVNIARQMRHRSLARELSGTIKEILGTAQSVGCNVDGRHPHDIIDDINSGAVECPAS",
+            "entity_poly_seq_one_letter_code_can": "MPPKFDPNEIKVVYLRCTGGEVGATSALAPKIGPLGLSPKKVGDDIAKATGDWKGLRITVKLTIQNRQAQIEVVPSASALIIKALKEPPRDRKKQKNIKHSGNITFDEIVNIARQMRHRSLARELSGTIKEILGTAQSVGCNVDGRHPHDIIDDINSGAVECPAS",
+            "entity_poly_seq_length": 165,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL5",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MAQDQGEKENPMRELRIRKLCLNICVGESGDRLTRAAKVLEQLTGQTPVFSKARYTVRSFGIRRNEKIAVHCTVRGAKAEEILEKGLKVREYELRKNNFSDTGNFGFGIQEHIDLGIKYDPSIGIYGLDFYVVLGRPGFSIADKKRRTGCIGAKHRISKEEAMRWFQQKHDGIILPGN",
+            "entity_poly_seq_one_letter_code_can": "MAQDQGEKENPMRELRIRKLCLNICVGESGDRLTRAAKVLEQLTGQTPVFSKARYTVRSFGIRRNEKIAVHCTVRGAKAEEILEKGLKVREYELRKNNFSDTGNFGFGIQEHIDLGIKYDPSIGIYGLDFYVVLGRPGFSIADKKRRTGCIGAKHRISKEEAMRWFQQKHDGIILPGN",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL15",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MGAYKYIQELWRKKQSDVMRFLLRVRCWQYRQLSALHRAPRPTRPDKARRLGYKAKQGYVIYRIRVRRGGRKRPVPKGATYGKPVHHGVNQLKFARSLQSVAEERAGRHCGALRVLNSYWVGEDSTYKFFEVILIDPFHKAIRRNPDTQWITKPVHKHREMRGLTSAGRKSRGLGKGHKFHHTIGGSRRAAWRRRNTLQLHRYR",
+            "entity_poly_seq_one_letter_code_can": "MGAYKYIQELWRKKQSDVMRFLLRVRCWQYRQLSALHRAPRPTRPDKARRLGYKAKQGYVIYRIRVRRGGRKRPVPKGATYGKPVHHGVNQLKFARSLQSVAEERAGRHCGALRVLNSYWVGEDSTYKFFEVILIDPFHKAIRRNPDTQWITKPVHKHREMRGLTSAGRKSRGLGKGHKFHHTIGGSRRAAWRRRNTLQLHRYR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL20",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MKKQIWGRGTNGLPASKGRDFRQRNQGERLRESGYFLSGGGGERGESAMKASGTLREYKVVGRCLPTPKCRTPPLYRMRIFAPNHVVAKSRFWYFVSQLKKMKKSSGEIVYCGQVFEKSPLRVKNFGIWLRYDSRSGTHNMYREYRDLTTAGAVTQCYRDMGARHRARAHSIQIMKVEEIAASKCRRPAVKQFHDSKIKFPLPHRVLRRQHKPRFTTKRPNTFF",
+            "entity_poly_seq_one_letter_code_can": "MKKQIWGRGTNGLPASKGRDFRQRNQGERLRESGYFLSGGGGERGESAMKASGTLREYKVVGRCLPTPKCRTPPLYRMRIFAPNHVVAKSRFWYFVSQLKKMKKSSGEIVYCGQVFEKSPLRVKNFGIWLRYDSRSGTHNMYREYRDLTTAGAVTQCYRDMGARHRARAHSIQIMKVEEIAASKCRRPAVKQFHDSKIKFPLPHRVLRRQHKPRFTTKRPNTFF",
+            "entity_poly_seq_length": 224,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MSHRKFSAPRHGSLGFLPRKRSSRHRGKVKSFPKDDSSKPVHLTAFLGYKAGMTHIVREVDRPGSKVNKKEVVEAVTIVETPPMIVVGIVGYVETPRGLRTFKTIFAEHISDECKRRFYKNWHKSKKKAFTKYCKKWQDAAGAAALAADFSSMKAYCQVIRVIAHTQMRLLPLRQKKAHLMEIQVNGGTVAEKLDWARERLEQQVPVNQVFGQDEMIDVIGVTKGKGYKGVTSRWHTKKLPRKTHRGLRKVACIGAWHPARVAFSVARAGQKGYHHRTEINKKIYKIGQGYLIKDGKLIKNNASTDYDLSDKSINPLGGFVHYGEVTNDFVMLKGCVVGTKKRVLTLRKSLLVQTKRRALEKIDLKFIDTTSKFGHGRFQTVEEKKAFMGPLKKD",
+            "entity_poly_seq_one_letter_code_can": "MSHRKFSAPRHGSLGFLPRKRSSRHRGKVKSFPKDDSSKPVHLTAFLGYKAGMTHIVREVDRPGSKVNKKEVVEAVTIVETPPMIVVGIVGYVETPRGLRTFKTIFAEHISDECKRRFYKNWHKSKKKAFTKYCKKWQDAAGAAALAADFSSMKAYCQVIRVIAHTQMRLLPLRQKKAHLMEIQVNGGTVAEKLDWARERLEQQVPVNQVFGQDEMIDVIGVTKGKGYKGVTSRWHTKKLPRKTHRGLRKVACIGAWHPARVAFSVARAGQKGYHHRTEINKKIYKIGQGYLIKDGKLIKNNASTDYDLSDKSINPLGGFVHYGEVTNDFVMLKGCVVGTKKRVLTLRKSLLVQTKRRALEKIDLKFIDTTSKFGHGRFQTVEEKKAFMGPLKKD",
+            "entity_poly_seq_length": 395,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL23",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MAPKAKKEAPAPPKAEAKAKALKAKKAVLKGVHSHKKKKIRTSPTFRRPKTLRLRRQPKYPRKSAPRRNKLDHYAIIKFPLTTESAMKKIEDNNTLVFIVDVKANKHQIKQAVKKLYDIDVAKVNTLIRPDGEKKAYVRLAPDYDALDVANKIGII",
+            "entity_poly_seq_one_letter_code_can": "MAPKAKKEAPAPPKAEAKAKALKAKKAVLKGVHSHKKKKIRTSPTFRRPKTLRLRRQPKYPRKSAPRRNKLDHYAIIKFPLTTESAMKKIEDNNTLVFIVDVKANKHQIKQAVKKLYDIDVAKVNTLIRPDGEKKAYVRLAPDYDALDVANKIGII",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL24",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MKFNPFVTSDRSKNRKRHFNAPSHIRRKIMSSPLSKELRQKYNVRSMPIRKDDEVQVVRGHYKGQQIGKVVQVYRKKYVIYIERVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERKAKSRQVGKEKGKYKEETIEKMQE",
+            "entity_poly_seq_one_letter_code_can": "MKFNPFVTSDRSKNRKRHFNAPSHIRRKIMSSPLSKELRQKYNVRSMPIRKDDEVQVVRGHYKGQQIGKVVQVYRKKYVIYIERVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERKAKSRQVGKEKGKYKEETIEKMQE",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL27",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MGKFMKPGKVVLVLAGRYSGRKAVIVKNIDDGTSDRPYSHALVAGIDRYPRKVTAAMGKKKIAKRSKIKSFVKVYNYNHLMPTRYSVDIPLDKTVVNKDVFRDPALKRKARREAKVKFEERYKTGKNKWFFQKLRF",
+            "entity_poly_seq_one_letter_code_can": "MGKFMKPGKVVLVLAGRYSGRKAVIVKNIDDGTSDRPYSHALVAGIDRYPRKVTAAMGKKKIAKRSKIKSFVKVYNYNHLMPTRYSVDIPLDKTVVNKDVFRDPALKRKARREAKVKFEERYKTGKNKWFFQKLRF",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL29",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MAKSKNHTTHNQSRKWHRNGIKKPRSQRYESLKGVDPKFLRNMRFAKKHNKKGLKKMQANNAKAMSARAEAIKALVKPKEVKPNIPKGGSRKLSRLAYIAHPKLGKRARARIAKGLRFCRPKSQAKAQSKAKATAGGTAAAPVPPASAPKGAQAPTKAPQ",
+            "entity_poly_seq_one_letter_code_can": "MAKSKNHTTHNQSRKWHRNGIKKPRSQRYESLKGVDPKFLRNMRFAKKHNKKGLKKMQANNAKAMSARAEAIKALVKPKEVKPNIPKGGSRKLSRLAYIAHPKLGKRARARIAKGLRFCRPKSQAKAQSKAKATAGGTAAAPVPPASAPKGAQAPTKAPQ",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL32",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MAALRPLVKPKIVKKRTKKFIRHQSDRYVKIKRNWRKPRGIDNRVRRRFKGQILMPNIGYGSNKKTKHMLPSGFRKFLVHNVKELEVLLMCNKSYCAEIAHNVSSKNRKAIVERAAQLAIRVTNPNARLRSEENE",
+            "entity_poly_seq_one_letter_code_can": "MAALRPLVKPKIVKKRTKKFIRHQSDRYVKIKRNWRKPRGIDNRVRRRFKGQILMPNIGYGSNKKTKHMLPSGFRKFLVHNVKELEVLLMCNKSYCAEIAHNVSSKNRKAIVERAAQLAIRVTNPNARLRSEENE",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL29",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MAKIKARDLRGKKKEELLKQLEDLKVELSQLRVAKVTGGAASKLSKIRVVRKSIARVLTVINQTQKENLRKFYKGKKYKPLDLRPKKTRAMRRRLNKHEENLKTKKQQRKERLYPLRKFAVKA",
+            "entity_poly_seq_one_letter_code_can": "MAKIKARDLRGKKKEELLKQLEDLKVELSQLRVAKVTGGAASKLSKIRVVRKSIARVLTVINQTQKENLRKFYKGKKYKPLDLRPKKTRAMRRRLNKHEENLKTKKQQRKERLYPLRKFAVKA",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL38",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MPRKIEEIKDFLLTARRKDAKSVKIKKNKDNVKFKVRCSRYLYTLVITDKEKAEKLKQSLPPGLAVKELK",
+            "entity_poly_seq_one_letter_code_can": "MPRKIEEIKDFLLTARRKDAKSVKIKKNKDNVKFKVRCSRYLYTLVITDKEKAEKLKQSLPPGLAVKELK",
+            "entity_poly_seq_length": 70,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL39",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MSSHKTFRIKRFLAKKQKQNRPIPQWIRMKTGNKIRYNSKRRHWRRTKLGL",
+            "entity_poly_seq_one_letter_code_can": "MSSHKTFRIKRFLAKKQKQNRPIPQWIRMKTGNKIRYNSKRRHWRRTKLGL",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL28",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "MSAHLQWMVVRNCSSFLIKRNKQTYSTEPNNLKARNSFRYNGLIHHKTVGVEPAADGKGVVVVIKRRSGQRKPATSYVRTTINKNARATLSSIRHMIRKNKYRPDLRMAAIRRASAILRSQKPVMVKRKRTRPTKSS",
+            "entity_poly_seq_one_letter_code_can": "MSAHLQWMVVRNCSSFLIKRNKQTYSTEPNNLKARNSFRYNGLIHHKTVGVEPAADGKGVVVVIKRRSGQRKPATSYVRTTINKNARATLSSIRHMIRKNKYRPDLRMAAIRRASAILRSQKPVMVKRKRTRPTKSS",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL10",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "MPREDRATWKSNYFLKIIQLLDDYPKCFIVGADNVGSKQMQQIRMSLRGKAVVLMGKNTMMRKAIRGHLENNPALEKLLPHIRGNVGFVFTKEDLTEIRDMLLANKVPAAARAGAIAPCEVTVPAQNTGLGPEKTSFFQALGITTKISRGTIEILSDVQLIKTGDKVGASEATLLNMLNISPFSFGLVIQQVFDNGSIYNPEVLDITEETLHSRFLEGVRNVASVCLQIGYPTVASVPHSIINGYKRVLALSVETDYTFPLAEKVKAFLADPSAFVAAAPVAAATTAAPAAAAAPAKVEAKEESEESDEDMGFGLFD",
+            "entity_poly_seq_one_letter_code_can": "MPREDRATWKSNYFLKIIQLLDDYPKCFIVGADNVGSKQMQQIRMSLRGKAVVLMGKNTMMRKAIRGHLENNPALEKLLPHIRGNVGFVFTKEDLTEIRDMLLANKVPAAARAGAIAPCEVTVPAQNTGLGPEKTSFFQALGITTKISRGTIEILSDVQLIKTGDKVGASEATLLNMLNISPFSFGLVIQQVFDNGSIYNPEVLDITEETLHSRFLEGVRNVASVCLQIGYPTVASVPHSIINGYKRVLALSVETDYTFPLAEKVKAFLADPSAFVAAAPVAAATTAAPAAAAAPAKVEAKEESEESDEDMGFGLFD",
+            "entity_poly_seq_length": 317,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [
+                "This domain occurs in proteins that have been annotated as Fibronectin/fibrinogen binding protein by similarity. This annotation comes from Swiss:O34693 where the N-terminal region is involved in this activity [1]. It is an RNA binding domain of the NFACT (NEMF, FbpA, Caliban, and Tae2) proteins. This NFACT-R family is found in two eukaryotic gene contexts: fused to the NFACT-N and NFACT-C domains in the NFACT protein involved in the ribosomal quality control pathway which contributes to CAT-tailing and as a standalone domain [2]. Additionally this domain contains a conserved motif D/E-X-W/Y-X-H that may be functionally important.",
+                "This is the C-terminal domain of the NFACT (NEMF, FbpA, Caliban, and Tae2) proteins involved in the ribosomal quality control pathway. This context is conserved in archaea and eukaryotes, but NFACT proteins in bacteria lack the NFACT-C domain [1]."
+            ],
+            "pfam_descriptions": [
+                "NFACT protein RNA binding domain",
+                "NFACT protein C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF05670",
+                "PF11923"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "O60524"
+            ],
+            "rcsb_pdbx_description": "NEMF",
+            "entity_poly_strand_id": "u,v",
+            "entity_poly_seq_one_letter_code": "MKSRFSTIDLRAVLAELNASLLGMRVNNVYDVDNKTYLIRLQKPDFKATLLLESGIRIHTTEFEWPKNMMPSSFAMKCRKHLKSRRLVSAKQLGVDRIVDFQFGSDEAAYHLIIELYDRGNIVLTDYEYVILNILRFRTDEADDVKFAVRERYPLDHARAAEPLLTLERLTEIVASAPKGELLKRVLNPLLPYGPALIEHCLLENGFSGNVKVDEKLETKDIEKVLVSLQKAEDYMKTTSNFSGKGYIIQKREIKPSLEADKPVEDILTYEEFHPFLFSQHSQCPYIEFESFDKAVDEFYSKIEGQKIDLKALQQEKQALKKLDNVRKDHENRLEALQQAQEIDKLKGELIEMNLQIVDRAIQVVRSALANQIDWTEIGLIVKEAQAQGDPVASAIKELKLQTNHVTMLLRNPYLLSEEEDDDVDGDVNVEKNETEPPKGKKKKQKNKQLQKPQKNKPLLVDVDLSLSAYANAKKYYDHKRYAAKKTQKTVEAAEKAFKSA",
+            "entity_poly_seq_one_letter_code_can": "MKSRFSTIDLRAVLAELNASLLGMRVNNVYDVDNKTYLIRLQKPDFKATLLLESGIRIHTTEFEWPKNMMPSSFAMKCRKHLKSRRLVSAKQLGVDRIVDFQFGSDEAAYHLIIELYDRGNIVLTDYEYVILNILRFRTDEADDVKFAVRERYPLDHARAAEPLLTLERLTEIVASAPKGELLKRVLNPLLPYGPALIEHCLLENGFSGNVKVDEKLETKDIEKVLVSLQKAEDYMKTTSNFSGKGYIIQKREIKPSLEADKPVEDILTYEEFHPFLFSQHSQCPYIEFESFDKAVDEFYSKIEGQKIDLKALQQEKQALKKLDNVRKDHENRLEALQQAQEIDKLKGELIEMNLQIVDRAIQVVRSALANQIDWTEIGLIVKEAQAQGDPVASAIKELKLQTNHVTMLLRNPYLLSEEEDDDVDGDVNVEKNETEPPKGKKKKQKNKQLQKPQKNKPLLVDVDLSLSAYANAKKYYDHKRYAAKKTQKTVEAAEKAFKSA",
+            "entity_poly_seq_length": 501,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "O94822"
+            ],
+            "rcsb_pdbx_description": "Listerin",
+            "entity_poly_strand_id": "w,z,0",
+            "entity_poly_seq_one_letter_code": "MGGKNKQRTKGNLRPSNSGRAAELLAKEQGTVPGFIGFGTSQSDLGYVPAIQGAEEIDSLVDSDFRMVLRKLSKKDVTTKLKAMQEFGTMCTERDTETVKGVLPYWPRIFCKISLDHDRRVREATQQAFEKLILKVKKQLAPYLKSLMGYWLMAQCDTYTPAAFAAKDAFEAAFPPSKQPEAIAFCKDEITSVLQDHLIKETPDTLSDPQTVPEEEREAKFYRVVTCSLLALKRLLCLLPDNELDSLEEKFKSLLSQNKFWKYGKHSVPQIRSAYFELVSALCQRIPQLMKEEASKVSPSVLLSIDDSDPIVCPALWEAVLYTLTTIEDCWLHVNAKKSVFPKLSTVIREGGRGLATVIYPYLLPFISKLPQSITNPKLDFFKNFLTSLVAGLSTERTKTSSLESSAVISAFFECLRFIMQQNLGEEEIEQMLVNDQLIPFIDAVLKDPGLQHGQLFNHLAETLSSWEAKADTEKDEKTAHNLENVLIHFWERLSEICVAKISEPEADVESVLGVSNLLQVLQKPKSSLKSSKKKNGKVRFADEILESNKENEKCVSSEGEKIEGWELTTEPSLTHNSSGLLSPLRKKPLEDLVCKLADISINYVNERKSEQHLRFLSTLLDSFSSSRVFKMLLGDEKQSIVQAKPLEIAKLVQKNPAVQFLYQKLIGWLNEDQRKDFGFLVDILYSALRCCDNDMERKKVLDDLTKVDLKWNSLLKIIEKACPSSDKHALVTPWLKGDILGEKLVNLADCLCNEDLESRVSSESHFSERWTLLSLVLSQHVKNDYLIGDVYVERIIVRLHETLFKTKKLSEAESSDSSVSFICDVAYNYFSSAKGCLLMPSSEDLLLTLFQLCAQSKEKTHLPDFLICKLKNTWLSGVNLLVHQTDSSYKESTFLHLSALWLKNQVQASSLDINSLQVLLSAVDDLLNTLLESEDSYLMGVYIGSVMPNDSEWEKMRQSLPMQWLHRPLLEGRLSLNYECFKTDFKEQDIKTLPSHLCTSALLSKMVLIALRKETVLENNELEKIIAELLYSLQWCEELDNPPIFLIGFCEILQKMNITYDNLRVLGNTSGLLQLLFNRSREHGTLWSLIIAKLILSRSISSDEVKPHYKRKESFFPLTEGNLHTIQSLCPFLSKEEKKEFSAQCIPALLGWTKKDLCSTNGGFGHLAIFNSCLQTKSIDDGELLHGILKIIISWKKEHEDIFLFSCNLSEASPEVLGVNIEIIRFLSLFLKYCSSPLAESEWDFIMCSMLAWLETTSENQALYSIPLVQLFACVSCDLACDLSAFFDSTTLDTIGNLPVNLISEWKEFFSQGIHSLLLPILVTVTGENKDVSETSFQNAMLKPMCETLTYISKEQLLSHKLPARLVADQKTNLPEYLQTLLNTLAPLLLFRARPVQIAVYHMLYKLMPELPQYDQDNLKSYGDEEEEPALSPPAALMSLLSIQEDLLENVLGCIPVGQIVTIKPLSEDFCYVLGYLLTWKLILTFFKAASSQLRALYSMYLRKTKSLNKLLYHLFRLMPENPTYAETAVEVPNKDPKTFFTEELQLSIRETTMLPYHIPHLACSVYHMTLKDLPAMVRLWWNSSEKRVFNIVDRFTSKYVSSVLSFQEISSVQTSTQLFNGMTVKARATTREVMATYTIEDIVIELIIQLPSNYPLGSIIVESGKRVGVAVQQWRNWMLQLSTYLTHQNGSIMEGLALWKNNVDKRFEGVEDCMICFSVIHGFNYSLPKKACRTCKKKFHSACLYKWFTSSNKSTCPLCRETFF",
+            "entity_poly_seq_one_letter_code_can": "MGGKNKQRTKGNLRPSNSGRAAELLAKEQGTVPGFIGFGTSQSDLGYVPAIQGAEEIDSLVDSDFRMVLRKLSKKDVTTKLKAMQEFGTMCTERDTETVKGVLPYWPRIFCKISLDHDRRVREATQQAFEKLILKVKKQLAPYLKSLMGYWLMAQCDTYTPAAFAAKDAFEAAFPPSKQPEAIAFCKDEITSVLQDHLIKETPDTLSDPQTVPEEEREAKFYRVVTCSLLALKRLLCLLPDNELDSLEEKFKSLLSQNKFWKYGKHSVPQIRSAYFELVSALCQRIPQLMKEEASKVSPSVLLSIDDSDPIVCPALWEAVLYTLTTIEDCWLHVNAKKSVFPKLSTVIREGGRGLATVIYPYLLPFISKLPQSITNPKLDFFKNFLTSLVAGLSTERTKTSSLESSAVISAFFECLRFIMQQNLGEEEIEQMLVNDQLIPFIDAVLKDPGLQHGQLFNHLAETLSSWEAKADTEKDEKTAHNLENVLIHFWERLSEICVAKISEPEADVESVLGVSNLLQVLQKPKSSLKSSKKKNGKVRFADEILESNKENEKCVSSEGEKIEGWELTTEPSLTHNSSGLLSPLRKKPLEDLVCKLADISINYVNERKSEQHLRFLSTLLDSFSSSRVFKMLLGDEKQSIVQAKPLEIAKLVQKNPAVQFLYQKLIGWLNEDQRKDFGFLVDILYSALRCCDNDMERKKVLDDLTKVDLKWNSLLKIIEKACPSSDKHALVTPWLKGDILGEKLVNLADCLCNEDLESRVSSESHFSERWTLLSLVLSQHVKNDYLIGDVYVERIIVRLHETLFKTKKLSEAESSDSSVSFICDVAYNYFSSAKGCLLMPSSEDLLLTLFQLCAQSKEKTHLPDFLICKLKNTWLSGVNLLVHQTDSSYKESTFLHLSALWLKNQVQASSLDINSLQVLLSAVDDLLNTLLESEDSYLMGVYIGSVMPNDSEWEKMRQSLPMQWLHRPLLEGRLSLNYECFKTDFKEQDIKTLPSHLCTSALLSKMVLIALRKETVLENNELEKIIAELLYSLQWCEELDNPPIFLIGFCEILQKMNITYDNLRVLGNTSGLLQLLFNRSREHGTLWSLIIAKLILSRSISSDEVKPHYKRKESFFPLTEGNLHTIQSLCPFLSKEEKKEFSAQCIPALLGWTKKDLCSTNGGFGHLAIFNSCLQTKSIDDGELLHGILKIIISWKKEHEDIFLFSCNLSEASPEVLGVNIEIIRFLSLFLKYCSSPLAESEWDFIMCSMLAWLETTSENQALYSIPLVQLFACVSCDLACDLSAFFDSTTLDTIGNLPVNLISEWKEFFSQGIHSLLLPILVTVTGENKDVSETSFQNAMLKPMCETLTYISKEQLLSHKLPARLVADQKTNLPEYLQTLLNTLAPLLLFRARPVQIAVYHMLYKLMPELPQYDQDNLKSYGDEEEEPALSPPAALMSLLSIQEDLLENVLGCIPVGQIVTIKPLSEDFCYVLGYLLTWKLILTFFKAASSQLRALYSMYLRKTKSLNKLLYHLFRLMPENPTYAETAVEVPNKDPKTFFTEELQLSIRETTMLPYHIPHLACSVYHMTLKDLPAMVRLWWNSSEKRVFNIVDRFTSKYVSSVLSFQEISSVQTSTQLFNGMTVKARATTREVMATYTIEDIVIELIIQLPSNYPLGSIIVESGKRVGVAVQQWRNWMLQLSTYLTHQNGSIMEGLALWKNNVDKRFEGVEDCMICFSVIHGFNYSLPKKACRTCKKKFHSACLYKWFTSSNKSTCPLCRETFF",
+            "entity_poly_seq_length": 1766,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Listerin",
+            "entity_poly_strand_id": "x,y",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 218,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "nascent chain",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "MPGPTPSGTNVGSSLSDEDFKAVFGMTRSAFANLPLWQQNLKKEKGLFGSGRSPSKAVAARAAGSTVRQRKNASCGTRSAGRTTSAGTGGMWRFYTEDSPGLKV",
+            "entity_poly_seq_one_letter_code_can": "MPGPTPSGTNVGSSLSDEDFKAVFGMTRSAFANLPLWQQNLKKEKGLFGSGRSPSKAVAARAAGSTVRQRKNASCGTRSAGRTTSAGTGGMWRFYTEDSPGLKV",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL6",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MAGEKAEKPGTKEKKPEAKKADAGGKVKKAKKVKKGKPHCSRNPVLVRGIGRYSRSAMYSRMAMYKRKYSAAKSKVEKKKKVRVLATVTKPVGGDKNGGTRVVKLRKMPRYYPTEDVPRKLLSHGKKPFSKHVRKLRASITPGTILIILTGRHRGKRVIFLKQLSSGLLLVTGPLVLNRVPLRRTHQKFVIATSTKIDISGVKIPKHLTDAYFKKKKLRKPRHQEGEIFDTEKEKYEISEQRKVDQKAVDSQILRRIKAVPQLQGYLRSVFALTNGIYPHKLVF",
+            "entity_poly_seq_one_letter_code_can": "MAGEKAEKPGTKEKKPEAKKADAGGKVKKAKKVKKGKPHCSRNPVLVRGIGRYSRSAMYSRMAMYKRKYSAAKSKVEKKKKVRVLATVTKPVGGDKNGGTRVVKLRKMPRYYPTEDVPRKLLSHGKKPFSKHVRKLRASITPGTILIILTGRHRGKRVIFLKQLSSGLLLVTGPLVLNRVPLRRTHQKFVIATSTKIDISGVKIPKHLTDAYFKKKKLRKPRHQEGEIFDTEKEKYEISEQRKVDQKAVDSQILRRIKAVPQLQGYLRSVFALTNGIYPHKLVF",
+            "entity_poly_seq_length": 284,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL6",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MKTILSNQTVDIPENVDITLKGRTVIVKGPRGTLRRDFNHINVELSLLGKKKKRLRVDKWWGNRKELATVRTICSHVQNMIKGVTLGFRYKMRSVYAHFPINVVIQENGSLVEIRNFLGEKYIRRVRMRPGVACSVSQAQKDELILEGNDIELVSNSAALIQQATTVKNKDIRKFLDGIYVSEKGTVQQADE",
+            "entity_poly_seq_one_letter_code_can": "MKTILSNQTVDIPENVDITLKGRTVIVKGPRGTLRRDFNHINVELSLLGKKKKRLRVDKWWGNRKELATVRTICSHVQNMIKGVTLGFRYKMRSVYAHFPINVVIQENGSLVEIRNFLGEKYIRRVRMRPGVACSVSQAQKDELILEGNDIELVSNSAALIQQATTVKNKDIRKFLDGIYVSEKGTVQQADE",
+            "entity_poly_seq_length": 192,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL16",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MGRRPARCYRYCKNKPYPKSRFCRGVPDAKIRIFDLGRKKAKVDEFPLGGHMVSDEYEQLSSEALEAARICANKYMVKSCGRDGFHMRVRLHPFHVIRINKMLSCAGADRLQTGMRGAFGKPQGTVARVHIGQVIMSIRTKLQNEEHVIEALRRAKFKFPGRQKIHISKKWGFTKFNADEFENMVAKKCLIPDGCGVKYVPNHGPLDKWRVLHS",
+            "entity_poly_seq_one_letter_code_can": "MGRRPARCYRYCKNKPYPKSRFCRGVPDAKIRIFDLGRKKAKVDEFPLGGHMVSDEYEQLSSEALEAARICANKYMVKSCGRDGFHMRVRLHPFHVIRINKMLSCAGADRLQTGMRGAFGKPQGTVARVHIGQVIMSIRTKLQNEEHVIEALRRAKFKFPGRQKIHISKKWGFTKFNADEFENMVAKKCLIPDGCGVKYVPNHGPLDKWRVLHS",
+            "entity_poly_seq_length": 214,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "3J92",
+            "rcsb_pdbx_description": "28S rRNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "CGCGACCUCAGAUCAGACGUGGCGACCCGCUGAAUUUAAGCAUAUUAGUCAGCGGAGGAGAAGAAACUAACCAGGAUUCCCUCAGUAACGGCGAGUGAACAGGGAAGAGCCCAGCGCCGAAUCCCCGCCCCGCGGCGGGGCGCGGGACAUGUGGCGUACGGAAGACCCGCUCCCCGGCGCCGCUCGUGGGGGGCCCAAGUCCUUCUGAUCGAGGCCCAGCCCGUGGACGGUGUGAGGCCGGUAGCGGCCCCCGGCGCGCCGGGCCCGGGUCUUCCCGGAGUCGGGUUGCUUGGGAAUGCAGCCCAAAGCGGGUGGUAAACUCCAUCUAAGGCUAAAUACCGGCACGAGACCGAUAGUCAACAAGUACCGUAAGGGAAAGUUGAAAAGAACUUUGAAGAGAGAGUUCAAGAGGGCGUGAAACCGUUAAGAGGUAAACGGGUGGGGUCCGCGCAGUCCGCCCGGAGGAUUCAACCCGGCGGCGGGUCCGGCCGUGUCGGCGGCCCGGCGGAUCUUUCCCGCGCGGGGGACCGUCCCCCGACCGGCGACCGGCCGCCGCCGGGCGCAUUUCCACCGCGGCGGUGCGCCGCGACCGGCUCCGGGACGGCUGGGAAGGCCCGGCGGGGAAGGUGGCUCGGCCGAGUGUUACAGCCCCCCCGGCAGCAGCACUCGCCGAAUCCCGGGGCCGAGGGAGCGAGACCCGUCGCCGCGCUCUCCCCCCUCCCGGCGCCGCCGGGGGGGGCCGGGCCACCCCUCCCACGGCGCGACCGCUCGGGGCGGACUGUCCCCAGUGCGCCCCGGGCGGGUCGCGCCGUCGGGCCCGGGGGAGGGGCCACGCGCGCGUCCCCCGAAGAGGGGGACGGCGGAGCGAGCGCACGGGGUCGGCGGCGACGUCGGCUACCCACCCGACCCGUCUUGAAACACGGACCAAGGAGUCUAACACGUGCGCGAGUCGGGGGCUCGCACGAAAGCCGCCGUGGCGCAAUGAAGGUGAAGGCCGGCGCGCUCGCCGGCCGAGGUGGGAUCCCGAGGCCUCUCCAGUCCGCCGAGGGCGCACCACCGGCCCGUCUCGCCCGCCGCGCCGGGGAGGUGGAGCACGAGCGCACGUGUUAGGACCCGAAAGAUGGUGAACUAUGCCUGGGCAGGGCGAAGCCAGAGGAAACUCUGGUGGAGGUCCGUAGCGGUCCUGACGUGCAAAUCGGUCGUCCGACCUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUCCCUCCGAAGUUUCCCUCAGGAUAGCUGGCGCUCUCGCACACGCAGUUUUAUCCGGUAAAGCGAAUGAUUAGAGGUCUUGGGGCCGAAACGAUCUCAACCUAUUCUCAAACUUUAAAUGGGUAAGAAGCCCGGCUCGCUGGCGUGGAGCCGGGCGUGGAAUGCGAGUGCCUAGUGGGCCACUUUUGGUAAGCAGAACUGGCGCUGCGGGAUGAACCGAACGCCGGGUUAAGGCGCCCGAUGCCGACGCUCAUCAGACCCCAGAAAAGGUGUUGGUUGAUAUAGACAGCAGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCGAAUCAACUAGCCCUGAAAAUGGAUGGCGCUGGAGCGUCGGGCCCAUACCCGGCCGUCGCCGGCAGUCGAGAGUGGACGGGAGCGGCGGGGGCGGCGCGCGCGCGCGCCCGCCCCCGGAGCCCCGCGGACGCUACGCCGCGACGAGUAGGAGGGCCGCUGCGGUGAGCCUUGAAGCCUAGGGCGCGGGCCCGGGUGGAGCCGCCGCAGGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAACGAGAACUUUGAAGGCCGAAGUGGAGAAGGGUUCCAUGUGAACAGCAGUUGAACAUGGGUCAGUCGGUCCUGAGAGAUGGGCGAGCGCCGUUCCGAAGGGACGGGCGAUGGCCUCCGUUGCCCUCGGCCGAUCGAAAGGGAGUCGGGUUCAGAUCCCCGAAUCCGGAGUGGCGGAGAUGGGCGCCGCGAGGCGUCCAGUGCGGUAACGCGACCGAUCCCGGAGAAGCCGGCGGGAGCCCCGGGGAGAGUUCUCUUUUCUUUGUGAAGGGCAGGGCGCCCUGGAAUGGGUUCGCCCCGAGAGAGGGGCCCGUGCCUUGGAAAGCGUCGCGGUUCCGGCGGCGUCCGGUGAGCUCUCGCUGGCCCUUGAAAAUCCGGGGGAGAGGGUGUAAAUCUCGCGCCGGGCCGUACCCAUAUCCGCAGCAGGUCUCCAAGGUGAACAGCCUCUGGCAUGUUGGAACAAUGUAGGUAAGGGAAGUCGGCAAGCCGGAUCCGUAACUUCGGGAUAAGGAUUGGCUCUAAGGGCUGGGUCGGUCGUCGGCCGGCGCCUAGCAGCCGACUUAGAACUGGUGCGGACCAGGGGAAUCCGACUGUUUAAUUAAAACAAAGCAUCGCGAAGGCCCGCGGCGGGUGUUGACGCGAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAAUGAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUGAACGAGAUUCCCACUGUCCCUACCUACUAUCCAGCGAAACCACAGCCAAGGGAACGGGCUUGGCGGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCUGGCACGGUGAAGAGACAUGUUUUUUCACUGACCCGGUGAGGCGGGGGGGCGAGCCCCGAGGGGCUCUCGCUUCUGGCGCCAAGCGCCCGGCCGCGCGCCGGCCGGGCGCGACCCGCUCCGGGGACAGUGCCAGGUGGGGAGUUUGACUGGGGCGGUACACCUGUCAAACGGUAACGCAGGUGUCCUAAGGCGAGCUCAGGGAGGACAGAAACCUCCCGUGGAGCAGAAGGGCAAAAGCUCGCUUGAUCUUGAUUUUCAGUACGAAUACAGACCGUGAAAGCGGGGCCUCACGAUCCUUCUGACCUUUUGGGUUUUAAGCAGGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGUGAAGCAGAAUUCACCAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAUGUGUUGUUGCCAUGGUAAUCCUGCUCAGUACGAGAGGAACCGCAGGUUCAGACAUUUGGUGUAUGUGCUUGGCUGAGGAGCCAAUGGGGCGAAGCUACCAUCUGUGGGAUUAUGACUGAACGCCUCUAAGUCAGAAUCCCGCCCAGGCGGAACGAUACGGCAGCGCCGCGGAGCCUCGGUUGGCCUCGGAUAGCCGGUCCCCCGCGGGGUCCGGUGCGGAGUGCCCUUCGUCCUGGGAAACGGGGCGCGGCCGGAGAGGCGGCCGCCCCCUCGCCCGUCACGCACGCCGUUCGUGGGGAACCUGGCGCUAAACCAUUCGUAGACGACCUGCUUCUGGGUCGGGGUUUCGUACGUAGCAGAGCAGCUCCCUCGCUGCGAUCUAUUGAAAGUCAGCCCUCGACACAAGGGUUUGU",
+            "entity_poly_seq_one_letter_code_can": "CGCGACCUCAGAUCAGACGUGGCGACCCGCUGAAUUUAAGCAUAUUAGUCAGCGGAGGAGAAGAAACUAACCAGGAUUCCCUCAGUAACGGCGAGUGAACAGGGAAGAGCCCAGCGCCGAAUCCCCGCCCCGCGGCGGGGCGCGGGACAUGUGGCGUACGGAAGACCCGCUCCCCGGCGCCGCUCGUGGGGGGCCCAAGUCCUUCUGAUCGAGGCCCAGCCCGUGGACGGUGUGAGGCCGGUAGCGGCCCCCGGCGCGCCGGGCCCGGGUCUUCCCGGAGUCGGGUUGCUUGGGAAUGCAGCCCAAAGCGGGUGGUAAACUCCAUCUAAGGCUAAAUACCGGCACGAGACCGAUAGUCAACAAGUACCGUAAGGGAAAGUUGAAAAGAACUUUGAAGAGAGAGUUCAAGAGGGCGUGAAACCGUUAAGAGGUAAACGGGUGGGGUCCGCGCAGUCCGCCCGGAGGAUUCAACCCGGCGGCGGGUCCGGCCGUGUCGGCGGCCCGGCGGAUCUUUCCCGCGCGGGGGACCGUCCCCCGACCGGCGACCGGCCGCCGCCGGGCGCAUUUCCACCGCGGCGGUGCGCCGCGACCGGCUCCGGGACGGCUGGGAAGGCCCGGCGGGGAAGGUGGCUCGGCCGAGUGUUACAGCCCCCCCGGCAGCAGCACUCGCCGAAUCCCGGGGCCGAGGGAGCGAGACCCGUCGCCGCGCUCUCCCCCCUCCCGGCGCCGCCGGGGGGGGCCGGGCCACCCCUCCCACGGCGCGACCGCUCGGGGCGGACUGUCCCCAGUGCGCCCCGGGCGGGUCGCGCCGUCGGGCCCGGGGGAGGGGCCACGCGCGCGUCCCCCGAAGAGGGGGACGGCGGAGCGAGCGCACGGGGUCGGCGGCGACGUCGGCUACCCACCCGACCCGUCUUGAAACACGGACCAAGGAGUCUAACACGUGCGCGAGUCGGGGGCUCGCACGAAAGCCGCCGUGGCGCAAUGAAGGUGAAGGCCGGCGCGCUCGCCGGCCGAGGUGGGAUCCCGAGGCCUCUCCAGUCCGCCGAGGGCGCACCACCGGCCCGUCUCGCCCGCCGCGCCGGGGAGGUGGAGCACGAGCGCACGUGUUAGGACCCGAAAGAUGGUGAACUAUGCCUGGGCAGGGCGAAGCCAGAGGAAACUCUGGUGGAGGUCCGUAGCGGUCCUGACGUGCAAAUCGGUCGUCCGACCUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUCCCUCCGAAGUUUCCCUCAGGAUAGCUGGCGCUCUCGCACACGCAGUUUUAUCCGGUAAAGCGAAUGAUUAGAGGUCUUGGGGCCGAAACGAUCUCAACCUAUUCUCAAACUUUAAAUGGGUAAGAAGCCCGGCUCGCUGGCGUGGAGCCGGGCGUGGAAUGCGAGUGCCUAGUGGGCCACUUUUGGUAAGCAGAACUGGCGCUGCGGGAUGAACCGAACGCCGGGUUAAGGCGCCCGAUGCCGACGCUCAUCAGACCCCAGAAAAGGUGUUGGUUGAUAUAGACAGCAGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCGAAUCAACUAGCCCUGAAAAUGGAUGGCGCUGGAGCGUCGGGCCCAUACCCGGCCGUCGCCGGCAGUCGAGAGUGGACGGGAGCGGCGGGGGCGGCGCGCGCGCGCGCCCGCCCCCGGAGCCCCGCGGACGCUACGCCGCGACGAGUAGGAGGGCCGCUGCGGUGAGCCUUGAAGCCUAGGGCGCGGGCCCGGGUGGAGCCGCCGCAGGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAACGAGAACUUUGAAGGCCGAAGUGGAGAAGGGUUCCAUGUGAACAGCAGUUGAACAUGGGUCAGUCGGUCCUGAGAGAUGGGCGAGCGCCGUUCCGAAGGGACGGGCGAUGGCCUCCGUUGCCCUCGGCCGAUCGAAAGGGAGUCGGGUUCAGAUCCCCGAAUCCGGAGUGGCGGAGAUGGGCGCCGCGAGGCGUCCAGUGCGGUAACGCGACCGAUCCCGGAGAAGCCGGCGGGAGCCCCGGGGAGAGUUCUCUUUUCUUUGUGAAGGGCAGGGCGCCCUGGAAUGGGUUCGCCCCGAGAGAGGGGCCCGUGCCUUGGAAAGCGUCGCGGUUCCGGCGGCGUCCGGUGAGCUCUCGCUGGCCCUUGAAAAUCCGGGGGAGAGGGUGUAAAUCUCGCGCCGGGCCGUACCCAUAUCCGCAGCAGGUCUCCAAGGUGAACAGCCUCUGGCAUGUUGGAACAAUGUAGGUAAGGGAAGUCGGCAAGCCGGAUCCGUAACUUCGGGAUAAGGAUUGGCUCUAAGGGCUGGGUCGGUCGUCGGCCGGCGCCUAGCAGCCGACUUAGAACUGGUGCGGACCAGGGGAAUCCGACUGUUUAAUUAAAACAAAGCAUCGCGAAGGCCCGCGGCGGGUGUUGACGCGAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAAUGAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUGAACGAGAUUCCCACUGUCCCUACCUACUAUCCAGCGAAACCACAGCCAAGGGAACGGGCUUGGCGGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCUGGCACGGUGAAGAGACAUGUUUUUUCACUGACCCGGUGAGGCGGGGGGGCGAGCCCCGAGGGGCUCUCGCUUCUGGCGCCAAGCGCCCGGCCGCGCGCCGGCCGGGCGCGACCCGCUCCGGGGACAGUGCCAGGUGGGGAGUUUGACUGGGGCGGUACACCUGUCAAACGGUAACGCAGGUGUCCUAAGGCGAGCUCAGGGAGGACAGAAACCUCCCGUGGAGCAGAAGGGCAAAAGCUCGCUUGAUCUUGAUUUUCAGUACGAAUACAGACCGUGAAAGCGGGGCCUCACGAUCCUUCUGACCUUUUGGGUUUUAAGCAGGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGUGAAGCAGAAUUCACCAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAUGUGUUGUUGCCAUGGUAAUCCUGCUCAGUACGAGAGGAACCGCAGGUUCAGACAUUUGGUGUAUGUGCUUGGCUGAGGAGCCAAUGGGGCGAAGCUACCAUCUGUGGGAUUAUGACUGAACGCCUCUAAGUCAGAAUCCCGCCCAGGCGGAACGAUACGGCAGCGCCGCGGAGCCUCGGUUGGCCUCGGAUAGCCGGUCCCCCGCGGGGUCCGGUGCGGAGUGCCCUUCGUCCUGGGAAACGGGGCGCGGCCGGAGAGGCGGCCGCCCCCUCGCCCGUCACGCACGCCGUUCGUGGGGAACCUGGCGCUAAACCAUUCGUAGACGACCUGCUUCUGGGUCGGGGUUUCGUACGUAGCAGAGCAGCUCCCUCGCUGCGAUCUAUUGAAAGUCAGCCCUCGACACAAGGGUUUGU",
+            "entity_poly_seq_length": 3664,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "rcsb_pdbx_description": "5.8S rRNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "8",
+            "entity_poly_seq_one_letter_code": "CGACUCUUAGCGGUGGAUCACUCGGCUCGUGCGUCGAUGAAGAACGCAGCUAGCUGCGAGAAUUAAUGUGAAUUGCAGGACACAUUGAUCAUCGACACUUCGAACGCACUUGCGGCCCCGGGUUCCUCCCGGGGCUACGCCUGUCUGAGCGUCGCU",
+            "entity_poly_seq_one_letter_code_can": "CGACUCUUAGCGGUGGAUCACUCGGCUCGUGCGUCGAUGAAGAACGCAGCUAGCUGCGAGAAUUAAUGUGAAUUGCAGGACACAUUGAUCAUCGACACUUCGAACGCACUUGCGGCCCCGGGUUCCUCCCGGGGCUACGCCUGUCUGAGCGUCGCU",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "rcsb_pdbx_description": "tRNA",
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGG(5MU)UCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_one_letter_code_can": "CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J92",
+            "rcsb_pdbx_description": "5S rRNA",
+            "rcsb_source_organism_description": [
+                "Oryctolagus cuniculus"
+            ],
+            "rcsb_source_organism_id": [
+                9986
+            ],
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "GUCUACGGCCAUACCACCCUGAACGCGCCCGAUCUCGUCUGAUCUCGGAAGCUAAGCAGGGUCGGGCCUGGUUAGUACUUGGAUGGGAGACCGCCUGGGAAUACCGGGUGCUGUAGGCUU",
+            "entity_poly_seq_one_letter_code_can": "GUCUACGGCCAUACCACCCUGAACGCGCCCGAUCUCGUCUGAUCUCGGAAGCUAAGCAGGGUCGGGCCUGGUUAGUACUUGGAUGGGAGACCGCCUGGGAAUACCGGGUGCUGUAGGCUU",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

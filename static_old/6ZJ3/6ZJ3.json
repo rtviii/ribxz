@@ -1,0 +1,2124 @@
+{
+    "rcsb_id": "6ZJ3",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.15,
+    "rcsb_external_ref_id": [
+        "EMD-11232"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-11232"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.15,
+    "cryoem_exp_num_particles": 176308,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Matzov, D.",
+        "Taoka, M.",
+        "Nobe, Y.",
+        "Yamauchi, Y.",
+        "Halfon, Y.",
+        "Asis, N.",
+        "Zimermann, E.",
+        "Rozenberg, H.",
+        "Bashan, A.",
+        "Bhushan, S.",
+        "Isobe, T.",
+        "Gray, M.W.",
+        "Yonath, A.",
+        "Shalev-Benami, M."
+    ],
+    "citation_title": "Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis.",
+    "citation_pdbx_doi": "10.1093/nar/gkaa893",
+    "pdbx_keywords_text": "Single particle cryo-EM RNA modifications, RIBOSOME",
+    "_organismId": [
+        3039
+    ],
+    "_organismName": [
+        "Euglena gracilis"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS4",
+            "entity_poly_strand_id": "SE",
+            "entity_poly_seq_one_letter_code": "MARGPKKHLKRLAAPKHWMMDKLGGIFAPKPRAGPHKSQQCLPLILIVRNRLKYALNYREAHMILKQRYVKVDGKVRTDIKFPAGFMDVIEIPKTGDKFRVLYDTKGRFILHKIKGEEVDFKLCKVVKKGTAKKETPYVVTHDGRTLRFPDPNLKKNDTVVIDLKTGKIKEWVRFKVGCLLMVTSGANTGRVGELVNRERHPGSFDIIHLKDAADNKFATRADNVFVIGSSIYHPLVSLPKLKGVKLSIVEDREKKLAHNSKKQKQKKQKR",
+            "entity_poly_seq_one_letter_code_can": "MARGPKKHLKRLAAPKHWMMDKLGGIFAPKPRAGPHKSQQCLPLILIVRNRLKYALNYREAHMILKQRYVKVDGKVRTDIKFPAGFMDVIEIPKTGDKFRVLYDTKGRFILHKIKGEEVDFKLCKVVKKGTAKKETPYVVTHDGRTLRFPDPNLKKNDTVVIDLKTGKIKEWVRFKVGCLLMVTSGANTGRVGELVNRERHPGSFDIIHLKDAADNKFATRADNVFVIGSSIYHPLVSLPKLKGVKLSIVEDREKKLAHNSKKQKQKKQKR",
+            "entity_poly_seq_length": 271,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS5",
+            "entity_poly_strand_id": "SF",
+            "entity_poly_seq_one_letter_code": "MSGEKGGKGFGGKGKGKGKGKGKGKGKIEEKEWIPVTKLGRLVKEAKLRKLEEIYLFSLPVKEYQIVDEFLPSPGKLKDEVMKISPVQKQTKAGQRTRFKAYVVVGDCDGHVGLGVRCSKEVATAIRASIQAAKVAVIPVRRGYWGNKIGLPHTVPCKVTGKCGSCRVRLVPAPRGAGIVAAGVPKKLLQFAGVEDCFTQSIGQTRTLGNFVKATFAALSKTYGFLTPDLWPETHFVKDPYQEHTDFLSQGLKMVKA",
+            "entity_poly_seq_one_letter_code_can": "MSGEKGGKGFGGKGKGKGKGKGKGKGKIEEKEWIPVTKLGRLVKEAKLRKLEEIYLFSLPVKEYQIVDEFLPSPGKLKDEVMKISPVQKQTKAGQRTRFKAYVVVGDCDGHVGLGVRCSKEVATAIRASIQAAKVAVIPVRRGYWGNKIGLPHTVPCKVTGKCGSCRVRLVPAPRGAGIVAAGVPKKLLQFAGVEDCFTQSIGQTRTLGNFVKATFAALSKTYGFLTPDLWPETHFVKDPYQEHTDFLSQGLKMVKA",
+            "entity_poly_seq_length": 257,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS6",
+            "entity_poly_strand_id": "SG",
+            "entity_poly_seq_one_letter_code": "MKFNIASPQCGTIKQFEIDDEKKLVQLNDKRLAQEFDGEILDDKWKGYVFKIVGGCDKQGFPMKQGVLVNSRVKLLLKGGTVGCRKWRVRSGERRRKTIRGCIVSQDIALLNLKIVTEGEEKIEGLTDTTVPRRLGPKRASKIRRLFNLTKEDDVRKFVIRRELPAKDNKKARSKAPKIQRLITPAVIRRRANKKRKILKKLAQSKAEREAYNHLVERRKTLNRQRTKAALLRQVAGRRKKELDVINKEAAKKAAAEAAAKAAAAAAAAKAKPAPKGKAAKKK",
+            "entity_poly_seq_one_letter_code_can": "MKFNIASPQCGTIKQFEIDDEKKLVQLNDKRLAQEFDGEILDDKWKGYVFKIVGGCDKQGFPMKQGVLVNSRVKLLLKGGTVGCRKWRVRSGERRRKTIRGCIVSQDIALLNLKIVTEGEEKIEGLTDTTVPRRLGPKRASKIRRLFNLTKEDDVRKFVIRRELPAKDNKKARSKAPKIQRLITPAVIRRRANKKRKILKKLAQSKAEREAYNHLVERRKTLNRQRTKAALLRQVAGRRKKELDVINKEAAKKAAAEAAAKAAAAAAAAKAKPAPKGKAAKKK",
+            "entity_poly_seq_length": 283,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS7",
+            "entity_poly_strand_id": "SH",
+            "entity_poly_seq_one_letter_code": "MSKTTPLLFKKWSSAEVDVNDLSLQDYISKRSVYLPHTAQRWTKKRFRKAQCPITERLVNSLMYHGRNNGKKAMAVRHLKACFEIISLVTDQNPIQVLVDAITKAGPREDSTRVGTAGVVRRQSVDVSPLRRVNQAIYLITTGAREASFRTIKTFPECLADEIINASKGSSNSYAIKKKDEIERVAKANR",
+            "entity_poly_seq_one_letter_code_can": "MSKTTPLLFKKWSSAEVDVNDLSLQDYISKRSVYLPHTAQRWTKKRFRKAQCPITERLVNSLMYHGRNNGKKAMAVRHLKACFEIISLVTDQNPIQVLVDAITKAGPREDSTRVGTAGVVRRQSVDVSPLRRVNQAIYLITTGAREASFRTIKTFPECLADEIINASKGSSNSYAIKKKDEIERVAKANR",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS7",
+            "entity_poly_strand_id": "SI",
+            "entity_poly_seq_one_letter_code": "MATTQVVGPRKKLRKSARKSATPLEDEVAQAIFDLEVNNKSLKPVLQPLYVNTAKEVDIGHGKRAVVIFSPLRFLKKFHRIHKQLTAELEKKFSGKQVLVIGQRKITRQGKHNKNKIPRTRTAVSVRENILADLLYPVDVVGRRWRHKTDGSKQTKIFLDAREKDKVEGKIEAISVVYKKLTGVDASFGFMTNPLLQQFQ",
+            "entity_poly_seq_one_letter_code_can": "MATTQVVGPRKKLRKSARKSATPLEDEVAQAIFDLEVNNKSLKPVLQPLYVNTAKEVDIGHGKRAVVIFSPLRFLKKFHRIHKQLTAELEKKFSGKQVLVIGQRKITRQGKHNKNKIPRTRTAVSVRENILADLLYPVDVVGRRWRHKTDGSKQTKIFLDAREKDKVEGKIEAISVVYKKLTGVDASFGFMTNPLLQQFQ",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS8",
+            "entity_poly_strand_id": "SJ",
+            "entity_poly_seq_one_letter_code": "MVRQSTLADCLKCISNAEKRGKRQVLVRPCSKTILRFLRVMQKHGYIGDFEVVDNHRGNKIVIELNGRLNKCGVISPRYDISLPQMEKWITSLLPSRQFGFIVLTTSHGIMDHEEARKKHTGGKILGFFY",
+            "entity_poly_seq_one_letter_code_can": "MVRQSTLADCLKCISNAEKRGKRQVLVRPCSKTILRFLRVMQKHGYIGDFEVVDNHRGNKIVIELNGRLNKCGVISPRYDISLPQMEKWITSLLPSRQFGFIVLTTSHGIMDHEEARKKHTGGKILGFFY",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS8",
+            "entity_poly_strand_id": "SK",
+            "entity_poly_seq_one_letter_code": "MGITRWDLHKKRATGGKRHIHRKKRKFELGRPPAATKLVHGERRVRRVRTRGGNRKWRALRLSGGIFSWGSENTAKHCRILDVVYNATNNELVRTKTLVKGCIVQIDGTPFRNWYYKWYGIRLCNPKEVEKERRKQAGIAAKKKQSRKKVDEEEEEVKKVSKKDKKGSKGKEAKKSAKKDEEEEKPSKKEKKGKADKKADDKKDSKKKEKAETAEKKTAEKKEGEKKKGKRVYKNHLRKTHLRRKQKGFGLEEGLQAQLAVPVCKILARISSRPGQDGRANGYILEGKELEFYQKKLDKKKHKK",
+            "entity_poly_seq_one_letter_code_can": "MGITRWDLHKKRATGGKRHIHRKKRKFELGRPPAATKLVHGERRVRRVRTRGGNRKWRALRLSGGIFSWGSENTAKHCRILDVVYNATNNELVRTKTLVKGCIVQIDGTPFRNWYYKWYGIRLCNPKEVEKERRKQAGIAAKKKQSRKKVDEEEEEVKKVSKKDKKGSKGKEAKKSAKKDEEEEKPSKKEKKGKADKKADDKKDSKKKEKAETAEKKTAEKKEGEKKKGKRVYKNHLRKTHLRRKQKGFGLEEGLQAQLAVPVCKILARISSRPGQDGRANGYILEGKELEFYQKKLDKKKHKK",
+            "entity_poly_seq_length": 304,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS9",
+            "entity_poly_strand_id": "SL",
+            "entity_poly_seq_one_letter_code": "MADRKKLAESKKQKVMTFGKKKHAIAVVTCNKGKGLVKCNGVPIDLLQPEPLRLKVMEPILIAGKHRFRNVDMRIRVRGGGQTSQLYAVRQAIAKALVAYYQKYVDEAQKLEIKDAYLQYDRTLLVADPRRTEPKKFGGHGARARRTKSYR",
+            "entity_poly_seq_one_letter_code_can": "MADRKKLAESKKQKVMTFGKKKHAIAVVTCNKGKGLVKCNGVPIDLLQPEPLRLKVMEPILIAGKHRFRNVDMRIRVRGGGQTSQLYAVRQAIAKALVAYYQKYVDEAQKLEIKDAYLQYDRTLLVADPRRTEPKKFGGHGARARRTKSYR",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS10",
+            "entity_poly_strand_id": "SM",
+            "entity_poly_seq_one_letter_code": "MAGIPPVKKEAPAAAAAQIHKIRITLSSKNPKALEKVCAELIKGAKDHKLRVRGPVKIPTKVLRITTRKSPCGEGTNTWDRYQMRIHKRLIDLHSPSEVVKEITSINIEPGVEVEVTVADV",
+            "entity_poly_seq_one_letter_code_can": "MAGIPPVKKEAPAAAAAQIHKIRITLSSKNPKALEKVCAELIKGAKDHKLRVRGPVKIPTKVLRITTRKSPCGEGTNTWDRYQMRIHKRLIDLHSPSEVVKEITSINIEPGVEVEVTVADV",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS10",
+            "entity_poly_strand_id": "SN",
+            "entity_poly_seq_one_letter_code": "MLVSKKNREEVYQYLFKEGVLVAKKDPGSKHPKMDVQNLVVIELMRGFASKGFVKEQYAWRHYYWYLTNEGIEYLRQYLHLPAEIVPSTLKKSTRAPAQRAVEGDRPPRMGRGGGGYGGGRDEYRKAQPAPGEFNPTFGGGRGLGRGAAPAE",
+            "entity_poly_seq_one_letter_code_can": "MLVSKKNREEVYQYLFKEGVLVAKKDPGSKHPKMDVQNLVVIELMRGFASKGFVKEQYAWRHYYWYLTNEGIEYLRQYLHLPAEIVPSTLKKSTRAPAQRAVEGDRPPRMGRGGGGYGGGRDEYRKAQPAPGEFNPTFGGGRGLGRGAAPAE",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS11",
+            "entity_poly_strand_id": "SO",
+            "entity_poly_seq_one_letter_code": "MPGKKKEVVEKVPAVQRYGPQTAAGDLVFGVCHIYASFNDTFVHVTDISGRETISRVTGGMKVKADRDESSPYAAMLAAQDVAERCKECGITALHIKMRATGGTRSKQPGPGAQSALRALARSGMKIGRIEDVTPIPTDSTRRKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "MPGKKKEVVEKVPAVQRYGPQTAAGDLVFGVCHIYASFNDTFVHVTDISGRETISRVTGGMKVKADRDESSPYAAMLAAQDVAERCKECGITALHIKMRATGGTRSKQPGPGAQSALRALARSGMKIGRIEDVTPIPTDSTRRKGGRRGRRL",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS12",
+            "entity_poly_strand_id": "SP",
+            "entity_poly_seq_one_letter_code": "MGKPHGIRTARKLRSHRREQRWADKDYNKRNLGTTLKCSPFGGTSHVKGIVLEKVGVEAKQPNSAIRKCVRVQLIKNGKKICAFVPKDGCLNFIEENDEVLVSGFGRSGHAVGDLPGIRFKVVKVSGVGLMALFREKKEKPRS",
+            "entity_poly_seq_one_letter_code_can": "MGKPHGIRTARKLRSHRREQRWADKDYNKRNLGTTLKCSPFGGTSHVKGIVLEKVGVEAKQPNSAIRKCVRVQLIKNGKKICAFVPKDGCLNFIEENDEVLVSGFGRSGHAVGDLPGIRFKVVKVSGVGLMALFREKKEKPRS",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS12",
+            "entity_poly_strand_id": "SQ",
+            "entity_poly_seq_one_letter_code": "MSDTEETPEVQPQAEDDMPSDLMSALKEVLKRARAHDGLAIGLHAACKALDKRAAHLCVLAEDCTEAAYTRLVEALCQSHGIDLIKVPERLKLGEWVGLGSYDSAGNVKKMVACSCAVVKDYGESSKALTMVLEHFQRS",
+            "entity_poly_seq_one_letter_code_can": "MSDTEETPEVQPQAEDDMPSDLMSALKEVLKRARAHDGLAIGLHAACKALDKRAAHLCVLAEDCTEAAYTRLVEALCQSHGIDLIKVPERLKLGEWVGLGSYDSAGNVKKMVACSCAVVKDYGESSKALTMVLEHFQRS",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS13",
+            "entity_poly_strand_id": "SR",
+            "entity_poly_seq_one_letter_code": "MSLILQPDDFQHILRVLNTNIDGKNKVAYALTSIKGIGRRFAILCCKKADIDLNRRAGTLSNDEIARLVAIMQNPTQFKIPEWFLNRKKDPKDGKFSQSVSNVVEQKMRDDLEKLKKVRCHRGLRHMWGLRVRGQHTKTTGRRGRTVGVSKKK",
+            "entity_poly_seq_one_letter_code_can": "MSLILQPDDFQHILRVLNTNIDGKNKVAYALTSIKGIGRRFAILCCKKADIDLNRRAGTLSNDEIARLVAIMQNPTQFKIPEWFLNRKKDPKDGKFSQSVSNVVEQKMRDDLEKLKKVRCHRGLRHMWGLRVRGQHTKTTGRRGRTVGVSKKK",
+            "entity_poly_seq_length": 153,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS14",
+            "entity_poly_strand_id": "SS",
+            "entity_poly_seq_one_letter_code": "MGFKDIWRSHPGRGRGTRRCRISGNRHGIIRKYGLMMTRREFREIAGDIGFVKYN",
+            "entity_poly_seq_one_letter_code_can": "MGFKDIWRSHPGRGRGTRRCRISGNRHGIIRKYGLMMTRREFREIAGDIGFVKYN",
+            "entity_poly_seq_length": 55,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS15",
+            "entity_poly_strand_id": "ST",
+            "entity_poly_seq_one_letter_code": "MGRMHSKGKGISNSCLPYRRTAPSWLKTSSREVVDQICKLAKKGVPPAQIGIQLRDSHGIGSVKSITGRKILRVLKHNGLAPEIPEDLYHMIKKAVNVRKHLEKSRKDKDAKFRLVLVESRIHRLARYYKQTKQLPATWKYESSTASALVA",
+            "entity_poly_seq_one_letter_code_can": "MGRMHSKGKGISNSCLPYRRTAPSWLKTSSREVVDQICKLAKKGVPPAQIGIQLRDSHGIGSVKSITGRKILRVLKHNGLAPEIPEDLYHMIKKAVNVRKHLEKSRKDKDAKFRLVLVESRIHRLARYYKQTKQLPATWKYESSTASALVA",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS19",
+            "entity_poly_strand_id": "SW",
+            "entity_poly_seq_one_letter_code": "MDMDAEKYAELKKKRTFKKFTYRGIELEGLLDLSNEELAQILPKRARRKFSRGLKRKHMALLKKLRRAKKDAALGEKPPTIKTHLRNMVIIPEMIGSMIGVYNGKIFNAVEIKGEMVGHYLGEFSITYRPVKHGRPGIGATHSSRFIPLK",
+            "entity_poly_seq_one_letter_code_can": "MDMDAEKYAELKKKRTFKKFTYRGIELEGLLDLSNEELAQILPKRARRKFSRGLKRKHMALLKKLRRAKKDAALGEKPPTIKTHLRNMVIIPEMIGSMIGVYNGKIFNAVEIKGEMVGHYLGEFSITYRPVKHGRPGIGATHSSRFIPLK",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS21",
+            "entity_poly_strand_id": "SY",
+            "entity_poly_seq_one_letter_code": "MLNDEGINVDAYIPRKCSATNQLITAKDHASVQFNVGLIDENGAYIGEYKTIAFAGFLRRGAASDQALNRLMLAANILKEKGESEVVDVPKQRRGH",
+            "entity_poly_seq_one_letter_code_can": "MLNDEGINVDAYIPRKCSATNQLITAKDHASVQFNVGLIDENGAYIGEYKTIAFAGFLRRGAASDQALNRLMLAANILKEKGESEVVDVPKQRRGH",
+            "entity_poly_seq_length": 96,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS24",
+            "entity_poly_strand_id": "SZ",
+            "entity_poly_seq_one_letter_code": "MTDDKKPPFRVSFKNFMTNRLMQRKQFNIEIEHPGRSTVPKKEIQQKISQIFKIQEENTIVLFGFRTKFGGGRSTGHGMIYDNLSICKRYEPKYRLIRLGLRSKKEGSRKQKKEKKNRMKKYRGGKKAKGAVAAKKK",
+            "entity_poly_seq_one_letter_code_can": "MTDDKKPPFRVSFKNFMTNRLMQRKQFNIEIEHPGRSTVPKKEIQQKISQIFKIQEENTIVLFGFRTKFGGGRSTGHGMIYDNLSICKRYEPKYRLIRLGLRSKKEGSRKQKKEKKNRMKKYRGGKKAKGAVAAKKK",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS26",
+            "entity_poly_strand_id": "Sb",
+            "entity_poly_seq_one_letter_code": "MTVKRRNHGRNKKNRGHVCGIRCSNCGRMTPKDKAVKRFIVRNMVETAAVRDIADASVYYTGYNLPKLYLKMQYCISCAIHGRIVRVRSVENRKIRSPPQKLRRGGGQQKPGGGGGGGAR",
+            "entity_poly_seq_one_letter_code_can": "MTVKRRNHGRNKKNRGHVCGIRCSNCGRMTPKDKAVKRFIVRNMVETAAVRDIADASVYYTGYNLPKLYLKMQYCISCAIHGRIVRVRSVENRKIRSPPQKLRRGGGQQKPGGGGGGGAR",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS27",
+            "entity_poly_strand_id": "Sc",
+            "entity_poly_seq_one_letter_code": "MSTFKDSNLLFPPEASEKRKHKLKRLVQGQNSFFMDVKCPSCWAITIVFSHVAKVVVCSSCNTVLAQPTGGKAKLTEGCSFRKKPE",
+            "entity_poly_seq_one_letter_code_can": "MSTFKDSNLLFPPEASEKRKHKLKRLVQGQNSFFMDVKCPSCWAITIVFSHVAKVVVCSSCNTVLAQPTGGKAKLTEGCSFRKKPE",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS28",
+            "entity_poly_strand_id": "Sd",
+            "entity_poly_seq_one_letter_code": "MSGQAPPKESGDQPKLAQVIKIIGRTGSRGGVTQVRVKILDDNRNDRTIIRNVKGPCRVDDILALMETEREARRLR",
+            "entity_poly_seq_one_letter_code_can": "MSGQAPPKESGDQPKLAQVIKIIGRTGSRGGVTQVRVKILDDNRNDRTIIRNVKGPCRVDDILALMETEREARRLR",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "RACK1",
+            "entity_poly_strand_id": "Sh",
+            "entity_poly_seq_one_letter_code": "MDSTGHFAYLGQLKGHNGWVTALATPADDSDWVLSASRDKTLLKWKIERDPSGFVTGIPQRSLLGHSGFVQDVQLSSDGQFALSASWDSTMRLWDLSTGTCTRKFTGHAKDVLTCAFSADNRQIVSGSRDNLMKVWNTLGECKYTINEDGHTDWVSCVRFNPNPAAPLIVSGGWDKVVKVWSLTNLKLLTNLLGHTGYLNTVCCSPDGSLCASGGKDGAAMLWDLNKGEHLYELEGGDIIHALCFSPCRYWLCAATESSIKIWDLESKSIVAELVPELPAMSKKAMKPECISLQWSADGSTLYSGYTDHTIRVWGVS",
+            "entity_poly_seq_one_letter_code_can": "MDSTGHFAYLGQLKGHNGWVTALATPADDSDWVLSASRDKTLLKWKIERDPSGFVTGIPQRSLLGHSGFVQDVQLSSDGQFALSASWDSTMRLWDLSTGTCTRKFTGHAKDVLTCAFSADNRQIVSGSRDNLMKVWNTLGECKYTINEDGHTDWVSCVRFNPNPAAPLIVSGGWDKVVKVWSLTNLKLLTNLLGHTGYLNTVCCSPDGSLCASGGKDGAAMLWDLNKGEHLYELEGGDIIHALCFSPCRYWLCAATESSIKIWDLESKSIVAELVPELPAMSKKAMKPECISLQWSADGSTLYSGYTDHTIRVWGVS",
+            "entity_poly_seq_length": 317,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL2",
+            "entity_poly_strand_id": "LP",
+            "entity_poly_seq_one_letter_code": "MGKPVRGQRKGAGSIYITHGHKRQGQARLRPLDYGERKGFIRGVVKEIVHDSGRGAPLAKVQFRHPYKFKKVTHLMVACEGMYVGQYIYCGKKAQLAIGNVLPLSKMPEGTIVCNLEAKVADRSRLAKASGAYAIVISHNPDTGKSRVKLPSGQKKTVSSQCRAMIGLIAGGGRIEKPVLKAGNNYYRFKVKRNCWPRVRGVAMSPVDHPHGGGNHQHIGFPCTVSRNAPPGQKVGLIAARRTGRLRGGVKSGKDTEADSKKKK",
+            "entity_poly_seq_one_letter_code_can": "MGKPVRGQRKGAGSIYITHGHKRQGQARLRPLDYGERKGFIRGVVKEIVHDSGRGAPLAKVQFRHPYKFKKVTHLMVACEGMYVGQYIYCGKKAQLAIGNVLPLSKMPEGTIVCNLEAKVADRSRLAKASGAYAIVISHNPDTGKSRVKLPSGQKKTVSSQCRAMIGLIAGGGRIEKPVLKAGNNYYRFKVKRNCWPRVRGVAMSPVDHPHGGGNHQHIGFPCTVSRNAPPGQKVGLIAARRTGRLRGGVKSGKDTEADSKKKK",
+            "entity_poly_seq_length": 264,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL3",
+            "entity_poly_strand_id": "LQ",
+            "entity_poly_seq_one_letter_code": "MSHRKFERPRHGNMGFLPRKRCRRERGRIKTFPKDDPSQAPHLTAFLCYKAGMTHVVRELDRPGSKMHKKEVVEAVSVMEAPPMIVVGLVGYAKTPRGLRCLKTVWAQHLPEQFKRCFYKNWSRSKKKAFSHYSANLMGPEGKKAYEAGIAKIKKFACVVRLIAIGQVKLLRIGQKKAHCMEIQINGGSIADKVEFGLKLFESSIPVDSVFKESEVVDCIGVTRGHGFEGVIHRWGVTRLPRKTHKGLRKVACIGAWHPARVGYTVPRAGQNGFHHRVEANKKIYKIGKSALVDKANARCETDLTDKTITPLGGFVRYGIVREDYLLIKGSVPGPIKRVMTIRKALRIKTNKAFTEEVQVKFIDTSSKFGHGKFQTREEKRKFMGPTKKSALRGVRKGKTGKEGKKSSKK",
+            "entity_poly_seq_one_letter_code_can": "MSHRKFERPRHGNMGFLPRKRCRRERGRIKTFPKDDPSQAPHLTAFLCYKAGMTHVVRELDRPGSKMHKKEVVEAVSVMEAPPMIVVGLVGYAKTPRGLRCLKTVWAQHLPEQFKRCFYKNWSRSKKKAFSHYSANLMGPEGKKAYEAGIAKIKKFACVVRLIAIGQVKLLRIGQKKAHCMEIQINGGSIADKVEFGLKLFESSIPVDSVFKESEVVDCIGVTRGHGFEGVIHRWGVTRLPRKTHKGLRKVACIGAWHPARVGYTVPRAGQNGFHHRVEANKKIYKIGKSALVDKANARCETDLTDKTITPLGGFVRYGIVREDYLLIKGSVPGPIKRVMTIRKALRIKTNKAFTEEVQVKFIDTSSKFGHGKFQTREEKRKFMGPTKKSALRGVRKGKTGKEGKKSSKK",
+            "entity_poly_seq_length": 410,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL4",
+            "entity_poly_strand_id": "LR",
+            "entity_poly_seq_one_letter_code": "MAARPLVTVQKEGKTVPLPKVFSSALRYDVVRFVHTNIAKNTRIPYAVSRRAGHKHSAESWGTGRAVARIPRISGGGTHRSGQGAFGNMCRGGRMFAPTKVFRKWHAKVPRKVRRLAVRAALAASAIPALVMARGHNLEDVPEIPLVVPNSVEALEKTKDAVKLLKDIGAYHDVEKVAATKKVRVGKGKRRNRRYCVRKGPLVVLSKRCEAQRAFRNLPGVDINFVSALNLLRLAPGGHIGRLIVFTEDAFNQLDKVLKVDTIEGLPDSKRVINSEEVQGVIRHKIKASRRKPQKNSSRPRLNPAHKVETKVQKKLYIERCKVNADPELRKAKEKKQKAAKKLWLLKVTGKVDKKGNPRKSTKTPKQDKKKKSKK",
+            "entity_poly_seq_one_letter_code_can": "MAARPLVTVQKEGKTVPLPKVFSSALRYDVVRFVHTNIAKNTRIPYAVSRRAGHKHSAESWGTGRAVARIPRISGGGTHRSGQGAFGNMCRGGRMFAPTKVFRKWHAKVPRKVRRLAVRAALAASAIPALVMARGHNLEDVPEIPLVVPNSVEALEKTKDAVKLLKDIGAYHDVEKVAATKKVRVGKGKRRNRRYCVRKGPLVVLSKRCEAQRAFRNLPGVDINFVSALNLLRLAPGGHIGRLIVFTEDAFNQLDKVLKVDTIEGLPDSKRVINSEEVQGVIRHKIKASRRKPQKNSSRPRLNPAHKVETKVQKKLYIERCKVNADPELRKAKEKKQKAAKKLWLLKVTGKVDKKGNPRKSTKTPKQDKKKKSKK",
+            "entity_poly_seq_length": 375,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL6",
+            "entity_poly_strand_id": "LT",
+            "entity_poly_seq_one_letter_code": "MRAIYAVHKTPIPEGVKVFVRNRRIVVRGPRGTLKREMRHVKYDMSVKGKKNKEFRCEVWFGKNQDEACIKTICSHVANMITGVTKGFRYKMRFAYAHFPINVSISDDGKAVEIRNFLGEKLIRKVEVREGVSASRTDPAKQKDELVLEGNDIEKVAQCAADIHQSCLVKNKDIRKFLDGIYVSSKETVVSEA",
+            "entity_poly_seq_one_letter_code_can": "MRAIYAVHKTPIPEGVKVFVRNRRIVVRGPRGTLKREMRHVKYDMSVKGKKNKEFRCEVWFGKNQDEACIKTICSHVANMITGVTKGFRYKMRFAYAHFPINVSISDDGKAVEIRNFLGEKLIRKVEVREGVSASRTDPAKQKDELVLEGNDIEKVAQCAADIHQSCLVKNKDIRKFLDGIYVSSKETVVSEA",
+            "entity_poly_seq_length": 193,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL6",
+            "entity_poly_strand_id": "LU",
+            "entity_poly_seq_one_letter_code": "MVRKGPSKKVTPTPGQVLILLSGRFRGRRVICLKELEHGIFLVTGPYKVNGVPLRRVNRRYCICTSTHIDISGLDLNIPEAQIFARRKALKKVKKALKGKRARAIQEKKDQAEVARPENSFLKRGKKTKESKSEEAFFEELKEHKKKKAGFKQQYQKQIDEPLIKRLKELDPLLTKYLSSIFTLQVNDKPHLMRF",
+            "entity_poly_seq_one_letter_code_can": "MVRKGPSKKVTPTPGQVLILLSGRFRGRRVICLKELEHGIFLVTGPYKVNGVPLRRVNRRYCICTSTHIDISGLDLNIPEAQIFARRKALKKVKKALKGKRARAIQEKKDQAEVARPENSFLKRGKKTKESKSEEAFFEELKEHKKKKAGFKQQYQKQIDEPLIKRLKELDPLLTKYLSSIFTLQVNDKPHLMRF",
+            "entity_poly_seq_length": 195,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [
+                "Q4VH13"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L7a",
+            "entity_poly_strand_id": "LV",
+            "entity_poly_seq_one_letter_code": "MGPKKAAAQPAASAKKAAPKVAPKKGSKSKDATGKKPAGKKGKDGKGKKAEAEVKKAGKPVQLFESRPKNFSVGQDLQPKRDLSRFVRWPAYIKRQRQKRILLKRLRVPPAINQFNHTVDRHLKKELFKFALKYKPESSFERRSRLKKEAEAKLKDPKAPASVPGPRVYSGAQRVFRLVEQKRAKLVLIAHDVDPIEIVLCLPALCRKQGIPWCIVKGKANLGKLVGLKTATSLAFVDIKNGDKTDFEKLTQSVKLAYNDKYEELSRKWGGLRLSKKSKQKMAKKKRIAAANAAK",
+            "entity_poly_seq_one_letter_code_can": "MGPKKAAAQPAASAKKAAPKVAPKKGSKSKDATGKKPAGKKGKDGKGKKAEAEVKKAGKPVQLFESRPKNFSVGQDLQPKRDLSRFVRWPAYIKRQRQKRILLKRLRVPPAINQFNHTVDRHLKKELFKFALKYKPESSFERRSRLKKEAEAKLKDPKAPASVPGPRVYSGAQRVFRLVEQKRAKLVLIAHDVDPIEIVLCLPALCRKQGIPWCIVKGKANLGKLVGLKTATSLAFVDIKNGDKTDFEKLTQSVKLAYNDKYEELSRKWGGLRLSKKSKQKMAKKKRIAAANAAK",
+            "entity_poly_seq_length": 295,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL13",
+            "entity_poly_strand_id": "LW",
+            "entity_poly_seq_one_letter_code": "MVKPKDRKWRGIVVDGKNHLMGRLAAVVAKQLLRGESICVVRCEDINISQSFMRNKFRLKNIMRKRHLTQPKRGPFHYRSPRKMFEKVVRSMLPYRTAHGTAAFERLRVAEGIPQPFAKKKRCICPAAHRILRLAPNRKFCRLGDLCTDIGWRHDKTIKDLEGKRKKLAELRWKKKKELTKLRRAAERLVDRIIPRIEYGDPKIKIGSL",
+            "entity_poly_seq_one_letter_code_can": "MVKPKDRKWRGIVVDGKNHLMGRLAAVVAKQLLRGESICVVRCEDINISQSFMRNKFRLKNIMRKRHLTQPKRGPFHYRSPRKMFEKVVRSMLPYRTAHGTAAFERLRVAEGIPQPFAKKKRCICPAAHRILRLAPNRKFCRLGDLCTDIGWRHDKTIKDLEGKRKKLAELRWKKKKELTKLRRAAERLVDRIIPRIEYGDPKIKIGSL",
+            "entity_poly_seq_length": 209,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL13",
+            "entity_poly_strand_id": "LX",
+            "entity_poly_seq_one_letter_code": "MVKKGNAPVPNAHFHKHWNPTGSQKGHVRCFFKQGPQKKIRRARRQKKAAAVFPRPVKGPLRPIVHCKSQRFNMKTRLGRGFTTLELKTAGLTDRRYARTIGISVDRRRRNHCEESLALNAERIKTYLSKLVLFPLKAGKKLPEGVTEEDIKNPVQSKQDGFPKASSYGKNALKPEAPRKLTDQEKKRLTFQFLRKVQRDTKMVGKRIKRKAKKEAKAAKEAAKQK",
+            "entity_poly_seq_one_letter_code_can": "MVKKGNAPVPNAHFHKHWNPTGSQKGHVRCFFKQGPQKKIRRARRQKKAAAVFPRPVKGPLRPIVHCKSQRFNMKTRLGRGFTTLELKTAGLTDRRYARTIGISVDRRRRNHCEESLALNAERIKTYLSKLVLFPLKAGKKLPEGVTEEDIKNPVQSKQDGFPKASSYGKNALKPEAPRKLTDQEKKRLTFQFLRKVQRDTKMVGKRIKRKAKKEAKAAKEAAKQK",
+            "entity_poly_seq_length": 226,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL14",
+            "entity_poly_strand_id": "LY",
+            "entity_poly_seq_one_letter_code": "MSKRASGKGTGNKFRISLALPVAAVMNCADNTGAKNLYIISVKGIKGRLNKLPAACVGDMVLATVKKGKPELRKKVMPAIVVRQRKHWRRKDGTFIYFEDNAGVICNPKGEMKGSGVTGPVAKEAADIWPRVASNAGTVV",
+            "entity_poly_seq_one_letter_code_can": "MSKRASGKGTGNKFRISLALPVAAVMNCADNTGAKNLYIISVKGIKGRLNKLPAACVGDMVLATVKKGKPELRKKVMPAIVVRQRKHWRRKDGTFIYFEDNAGVICNPKGEMKGSGVTGPVAKEAADIWPRVASNAGTVV",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL14",
+            "entity_poly_strand_id": "LZ",
+            "entity_poly_seq_one_letter_code": "MVKAKRNFVEIGRVIYVRFGKNRDTLAVITDIIDHNWIFADGRAFPNGMKRGAVNIKDIALTHMKLKMGHGLRHRHLKELVAKEDVLNKWKKTTVARRLEKQKNKLNSTDLERWRIQYNRRQRSSLIKVKFNKLKKKALQTARRLHGKKNPIPFADRKKPQKQAPKEGKVKKDDKGRKLKDSERRKIKKCRINYKSLAGWQLDVNPGPIAGSSLVSKVH",
+            "entity_poly_seq_one_letter_code_can": "MVKAKRNFVEIGRVIYVRFGKNRDTLAVITDIIDHNWIFADGRAFPNGMKRGAVNIKDIALTHMKLKMGHGLRHRHLKELVAKEDVLNKWKKTTVARRLEKQKNKLNSTDLERWRIQYNRRQRSSLIKVKFNKLKKKALQTARRLHGKKNPIPFADRKKPQKQAPKEGKVKKDDKGRKLKDSERRKIKKCRINYKSLAGWQLDVNPGPIAGSSLVSKVH",
+            "entity_poly_seq_length": 219,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL15",
+            "entity_poly_strand_id": "Lb",
+            "entity_poly_seq_one_letter_code": "MGVYTYMQFVWNKKQSDVMRFTQRIRAWEYRHSHRMVRLPRPTRTDKARRLGYKRKPGYVIWRVRVRRGGRKRPVPKGICYGKPKTAGVNHLMNAKNMRVIAEGRVGKHCGGLRVLNSYWVNADAIYKYFEVILVDPMHKAIRSDPEINWICKPRQKHREARGVTSAGRKHRGLRHKGHRATKARPSVRANWKRRNLVKFWRYR",
+            "entity_poly_seq_one_letter_code_can": "MGVYTYMQFVWNKKQSDVMRFTQRIRAWEYRHSHRMVRLPRPTRTDKARRLGYKRKPGYVIWRVRVRRGGRKRPVPKGICYGKPKTAGVNHLMNAKNMRVIAEGRVGKHCGGLRVLNSYWVNADAIYKYFEVILVDPMHKAIRSDPEINWICKPRQKHREARGVTSAGRKHRGLRHKGHRATKARPSVRANWKRRNLVKFWRYR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL18",
+            "entity_poly_strand_id": "Ld",
+            "entity_poly_seq_one_letter_code": "MFVKIVKNRSYFSRLQIKYRRRREGKTNYRKRRLLVAQDKNKYNTPKHRLCVRMSNKDITAQIIIAKIQGDVVLAAAYAHELPIHGAVVGLTNFAGAYATGLLLARRILTKLGLADKYVGVAEANGEEYHVEAQEGRRPFKAFMDTGLARVTTGARIFAVLKGVVDGGVNVPHSMKRFPGYNRDKGEMDSETLRERIFAGHVAEYQKMLIREEPEKYQEVYSQYIAKGVKPGEVEDMWANCHASIRANPMAKLLSETFEV",
+            "entity_poly_seq_one_letter_code_can": "MFVKIVKNRSYFSRLQIKYRRRREGKTNYRKRRLLVAQDKNKYNTPKHRLCVRMSNKDITAQIIIAKIQGDVVLAAAYAHELPIHGAVVGLTNFAGAYATGLLLARRILTKLGLADKYVGVAEANGEEYHVEAQEGRRPFKAFMDTGLARVTTGARIFAVLKGVVDGGVNVPHSMKRFPGYNRDKGEMDSETLRERIFAGHVAEYQKMLIREEPEKYQEVYSQYIAKGVKPGEVEDMWANCHASIRANPMAKLLSETFEV",
+            "entity_poly_seq_length": 260,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL18",
+            "entity_poly_strand_id": "Le",
+            "entity_poly_seq_one_letter_code": "MGIDKPKQYKNKDKRHPTATNPYIRVLVKIYRFLARRVATPFNKAVLKRLMKSRMWRPRISTSRIKLAMRKPDKKDHICVCVSHVIHDDRVLGLKPLKVCALKFSKGARAAIESAGGQCLTFDQLAMITPKGSKCVLIRGKVTRRKQYKSFGAPGVPGSHAVPKLGNRKSALRGRRHENARGRRKSRAFKVKA",
+            "entity_poly_seq_one_letter_code_can": "MGIDKPKQYKNKDKRHPTATNPYIRVLVKIYRFLARRVATPFNKAVLKRLMKSRMWRPRISTSRIKLAMRKPDKKDHICVCVSHVIHDDRVLGLKPLKVCALKFSKGARAAIESAGGQCLTFDQLAMITPKGSKCVLIRGKVTRRKQYKSFGAPGVPGSHAVPKLGNRKSALRGRRHENARGRRKSRAFKVKA",
+            "entity_poly_seq_length": 193,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL19",
+            "entity_poly_strand_id": "Lf",
+            "entity_poly_seq_one_letter_code": "MVAGLKLQGRLAAALLKCGRNRVWLDPNETSDIAMANSRANVRKLIKDGFIIRKPVAVQSRARWRKLRAAKLKGRHTGPGKRRGTANARMPTKVLWIQRQRVLRRMLMRYRDAKKIDKHLYRELYMKCKGNVFKNKRLLMEHIHKAKAAKQKEKLIKDQLDAKKQKSLAKREKVKAAEVKRREREKEKVHDEKEKVKKDKEEKKAPAKEEKKAPAKEEKKAPAKEEKKAAKEEKKAPAKEEKKASKPGKK",
+            "entity_poly_seq_one_letter_code_can": "MVAGLKLQGRLAAALLKCGRNRVWLDPNETSDIAMANSRANVRKLIKDGFIIRKPVAVQSRARWRKLRAAKLKGRHTGPGKRRGTANARMPTKVLWIQRQRVLRRMLMRYRDAKKIDKHLYRELYMKCKGNVFKNKRLLMEHIHKAKAAKQKEKLIKDQLDAKKQKSLAKREKVKAAEVKRREREKEKVHDEKEKVKKDKEEKKAPAKEEKKAPAKEEKKAPAKEEKKAAKEEKKAPAKEEKKASKPGKK",
+            "entity_poly_seq_length": 250,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL21",
+            "entity_poly_strand_id": "Lh",
+            "entity_poly_seq_one_letter_code": "MPHSWGKKARTRDLFSKGFRCHGRPSLSTYLAVFKIGDYVDVVTDPSVQKGQPSKVFQGKTGTVWNVTPRAVGVLVNKRVRGRIVRKKISVRTEHVRKSRCQQDFKERVRHNELVKRTGVGKKIKRQPVGPREGQLLKLRKKPIPLGAKKFVFSEVYNF",
+            "entity_poly_seq_one_letter_code_can": "MPHSWGKKARTRDLFSKGFRCHGRPSLSTYLAVFKIGDYVDVVTDPSVQKGQPSKVFQGKTGTVWNVTPRAVGVLVNKRVRGRIVRKKISVRTEHVRKSRCQQDFKERVRHNELVKRTGVGKKIKRQPVGPREGQLLKLRKKPIPLGAKKFVFSEVYNF",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL22",
+            "entity_poly_strand_id": "Lj",
+            "entity_poly_seq_one_letter_code": "MPRPSASKEGSTNKKGSQIAKAKDSKKPKAEKKGSATAKHKDSLKGSKTAAGSATKKVPTIEYKIDCSIPAADSIFDADLLKGFEQFLNERIKVKGRTGKLRDAVKVGIDGTSVSIKAFIAFSKKYLKFLTKKYLKKKTLRDWLRVVSTNKTTYELRYFNIHDQDEGEEE",
+            "entity_poly_seq_one_letter_code_can": "MPRPSASKEGSTNKKGSQIAKAKDSKKPKAEKKGSATAKHKDSLKGSKTAAGSATKKVPTIEYKIDCSIPAADSIFDADLLKGFEQFLNERIKVKGRTGKLRDAVKVGIDGTSVSIKAFIAFSKKYLKFLTKKYLKKKTLRDWLRVVSTNKTTYELRYFNIHDQDEGEEE",
+            "entity_poly_seq_length": 170,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL24",
+            "entity_poly_strand_id": "Lm",
+            "entity_poly_seq_one_letter_code": "MRKENCLFSGLPVHPGHGKRFVPTLVQSTRPVLTFVTAKTRKLYLRKKNPRVIRWTVTYRKLNKKTATVEEIRKRNKKSKKILRPIAGADLETIRQKKAQRDTIREASREAALKELEARKAKRVEAKTGGKDVKKAAPKSKPVAPKMPKTSVKKGGR",
+            "entity_poly_seq_one_letter_code_can": "MRKENCLFSGLPVHPGHGKRFVPTLVQSTRPVLTFVTAKTRKLYLRKKNPRVIRWTVTYRKLNKKTATVEEIRKRNKKSKKILRPIAGADLETIRQKKAQRDTIREASREAALKELEARKAKRVEAKTGGKDVKKAAPKSKPVAPKMPKTSVKKGGR",
+            "entity_poly_seq_length": 157,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL27",
+            "entity_poly_strand_id": "Ln",
+            "entity_poly_seq_one_letter_code": "MVKFLKAGRVVIVLQGRMAGKKAVIVQNSDTGNKERPYGHCVVAGIEQTPKKVTRRMSKKKIARRTKLKPFIKVVNHRHLMPTRYNIDLGAEFKGKISITDPTKRTASKRNVKKVFQQRYLAAKNKWFFQKLRF",
+            "entity_poly_seq_one_letter_code_can": "MVKFLKAGRVVIVLQGRMAGKKAVIVQNSDTGNKERPYGHCVVAGIEQTPKKVTRRMSKKKIARRTKLKPFIKVVNHRHLMPTRYNIDLGAEFKGKISITDPTKRTASKRNVKKVFQQRYLAAKNKWFFQKLRF",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eLEgr1",
+            "entity_poly_strand_id": "Lo",
+            "entity_poly_seq_one_letter_code": "MAEVELVSVPECKAQTVDKHVLWSCINFGTSNVALIDPYHPAHRGARKYINQFHSGKVPKTAAKAKEAKAEE",
+            "entity_poly_seq_one_letter_code_can": "MAEVELVSVPECKAQTVDKHVLWSCINFGTSNVALIDPYHPAHRGARKYINQFHSGKVPKTAAKAKEAKAEE",
+            "entity_poly_seq_length": 72,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL29",
+            "entity_poly_strand_id": "Lp",
+            "entity_poly_seq_one_letter_code": "MPKVKAHEIRQLEKKDLLKQLDDLKTELAQLRVAKQTSGAASKLCKIKIVRRSIARVLTVLNMKEKNTLRKLYKNKKYKPLDLRPKKTKKERLALSIIDRRRKTARQKKILHAYPMRKYYVKV",
+            "entity_poly_seq_one_letter_code_can": "MPKVKAHEIRQLEKKDLLKQLDDLKTELAQLRVAKQTSGAASKLCKIKIVRRSIARVLTVLNMKEKNTLRKLYKNKKYKPLDLRPKKTKKERLALSIIDRRRKTARQKKILHAYPMRKYYVKV",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL29",
+            "entity_poly_strand_id": "Lq",
+            "entity_poly_seq_one_letter_code": "MAKSKNHTNHNQNYKDHRHPIRLKGRRNQISSKGLEQKLKKNRKKSRKGFLTPDVQKEIREKRSKKGEARRLKSYEKFKAKLPIWKAKHKAAVKAEKEQGVPDPKKASKQKEAAVKK",
+            "entity_poly_seq_one_letter_code_can": "MAKSKNHTNHNQNYKDHRHPIRLKGRRNQISSKGLEQKLKKNRKKSRKGFLTPDVQKEIREKRSKKGEARRLKSYEKFKAKLPIWKAKHKAAVKAEKEQGVPDPKKASKQKEAAVKK",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL30",
+            "entity_poly_strand_id": "Lr",
+            "entity_poly_seq_one_letter_code": "MPRMTAVPPPERKKRVLADKKEIQEARIARKKAAKKKTVDKRKEMVRRYYRYRRLLNAQKSMLQNQRRLAKTFGHYFVEPEPKIAFVIRIRGICDMPPKPKKILQLLRLRQIFNGVFVRLNAATVNMLRVVSPWITWGYPSHQVVRNLMYKRAFAHFAHKRLPITNQLIEKALGKYKIICMEDLIYQLYTCGPRFREVSKFLWPFKLSAPRGGLKSKKKHFIEGGDSGNREIYINQLIRKMI",
+            "entity_poly_seq_one_letter_code_can": "MPRMTAVPPPERKKRVLADKKEIQEARIARKKAAKKKTVDKRKEMVRRYYRYRRLLNAQKSMLQNQRRLAKTFGHYFVEPEPKIAFVIRIRGICDMPPKPKKILQLLRLRQIFNGVFVRLNAATVNMLRVVSPWITWGYPSHQVVRNLMYKRAFAHFAHKRLPITNQLIEKALGKYKIICMEDLIYQLYTCGPRFREVSKFLWPFKLSAPRGGLKSKKKHFIEGGDSGNREIYINQLIRKMI",
+            "entity_poly_seq_length": 242,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL31",
+            "entity_poly_strand_id": "Lt",
+            "entity_poly_seq_one_letter_code": "MVKAEEKVQKKPVLKKDGKKVVAKKTKKSKPKPKVVKKTVKKAKNQPLSLETTINLHRVVFGCTFKRRARKAIKAIRGFVRRVMKTHDVRIDPKLNKFVWSGGVKGVPFRARLRLDRKRSEDEDSKKKLYTVVSWVPVHDFKNLTHKKIEE",
+            "entity_poly_seq_one_letter_code_can": "MVKAEEKVQKKPVLKKDGKKVVAKKTKKSKPKPKVVKKTVKKAKNQPLSLETTINLHRVVFGCTFKRRARKAIKAIRGFVRRVMKTHDVRIDPKLNKFVWSGGVKGVPFRARLRLDRKRSEDEDSKKKLYTVVSWVPVHDFKNLTHKKIEE",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL33",
+            "entity_poly_strand_id": "Lv",
+            "entity_poly_seq_one_letter_code": "MPKPIVRLFQPAVMTGFKRSKRKQDPHVAILAIKNVATRKHTDFYLGKRCVYLYRGKKKVAGRKGSKVKTNMRRIWGRITRSHGKAGCVKAVFKPNLPGESIGRKVRIYLFPSSI",
+            "entity_poly_seq_one_letter_code_can": "MPKPIVRLFQPAVMTGFKRSKRKQDPHVAILAIKNVATRKHTDFYLGKRCVYLYRGKKKVAGRKGSKVKTNMRRIWGRITRSHGKAGCVKAVFKPNLPGESIGRKVRIYLFPSSI",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL34",
+            "entity_poly_strand_id": "Lw",
+            "entity_poly_seq_one_letter_code": "MAIGGTRVRYRRHNTKNTRSNKIRTVRTPGSRITVLYRKKLPKGPHTPVSLGHKPIPGVKRLRSIQRKSAPKRHLTVSRAYGGCLTHDLVRERIIRAFLIEEQKIVKRVLKAQSKKKRKFRKRAKADE",
+            "entity_poly_seq_one_letter_code_can": "MAIGGTRVRYRRHNTKNTRSNKIRTVRTPGSRITVLYRKKLPKGPHTPVSLGHKPIPGVKRLRSIQRKSAPKRHLTVSRAYGGCLTHDLVRERIIRAFLIEEQKIVKRVLKAQSKKKRKFRKRAKADE",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL36",
+            "entity_poly_strand_id": "Lx",
+            "entity_poly_seq_one_letter_code": "MGKFGALPSAKLRRCSAVTPLPKPFRARDRIKKPKKKLRAVRDLVQEVVGFSPYERRMIELLKVGREKRALRFAKRRLGTHRQAKKKRDIMTEVLRKMRAAAHPKK",
+            "entity_poly_seq_one_letter_code_can": "MGKFGALPSAKLRRCSAVTPLPKPFRARDRIKKPKKKLRAVRDLVQEVVGFSPYERRMIELLKVGREKRALRFAKRRLGTHRQAKKKRDIMTEVLRKMRAAAHPKK",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL37",
+            "entity_poly_strand_id": "Ly",
+            "entity_poly_seq_one_letter_code": "MTKGTTSFGKRNGRTHKLCKRCGKRSWAVQKKRCAACGYPNPKMRSFNWSEKAKRRNTMGTGRMRHMKNVLKKAAVRQRQDQVAPHQKRKTAENRKKFALSRKTKLAKDAKKAEAAQ",
+            "entity_poly_seq_one_letter_code_can": "MTKGTTSFGKRNGRTHKLCKRCGKRSWAVQKKRCAACGYPNPKMRSFNWSEKAKRRNTMGTGRMRHMKNVLKKAAVRQRQDQVAPHQKRKTAENRKKFALSRKTKLAKDAKKAEAAQ",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL38",
+            "entity_poly_strand_id": "Lz",
+            "entity_poly_seq_one_letter_code": "MPKEIRDIKQFLVICGRKDCKSVKIKKNVGNTKFKVRTKTYLYTLVVKDHKKSEKIQQSIPPNITKEVIGKGRRKVTKPAAK",
+            "entity_poly_seq_one_letter_code_can": "MPKEIRDIKQFLVICGRKDCKSVKIKKNVGNTKFKVRTKTYLYTLVVKDHKKSEKIQQSIPPNITKEVIGKGRRKVTKPAAK",
+            "entity_poly_seq_length": 82,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL39",
+            "entity_poly_strand_id": "L1",
+            "entity_poly_seq_one_letter_code": "MGAIKTLKQKLKYGKKMKQNRPIPYWVRFKTNSKQRYNEKRRHWRRTKLKM",
+            "entity_poly_seq_one_letter_code_can": "MGAIKTLKQKLKYGKKMKQNRPIPYWVRFKTNSKQRYNEKRRHWRRTKLKM",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL41",
+            "entity_poly_strand_id": "L3",
+            "entity_poly_seq_one_letter_code": "MGSISRPRGMRRKWRKKRMKRLQRRRRKMRQRSK",
+            "entity_poly_seq_one_letter_code_can": "MGSISRPRGMRRKWRKKRMKRLQRRRRKMRQRSK",
+            "entity_poly_seq_length": 34,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eLEgr2",
+            "entity_poly_strand_id": "L6",
+            "entity_poly_seq_one_letter_code": "MGGDDFEKKPLPDCLKELHEKQQAKLAKSKENYTPPKYNTPRKTTRERLNRRAQIKAALQRKKDKLKAE",
+            "entity_poly_seq_one_letter_code_can": "MGGDDFEKKPLPDCLKELHEKQQAKLAKSKENYTPPKYNTPRKTTRERLNRRAQIKAALQRKKDKLKAE",
+            "entity_poly_seq_length": 69,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eLEgr3",
+            "entity_poly_strand_id": "L7",
+            "entity_poly_seq_one_letter_code": "MPLKNNCFRRVYHSNWEYLLSLEKEADAEPKQKALRYKQEKKQQFREKGLKLAAAKTAEAAKSA",
+            "entity_poly_seq_one_letter_code_can": "MPLKNNCFRRVYHSNWEYLLSLEKEADAEPKQKALRYKQEKKQQFREKGLKLAAAKTAEAAKSA",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS17",
+            "entity_poly_strand_id": "SU",
+            "entity_poly_seq_one_letter_code": "MTEVELDDNAFHKQDNIFLAAKNPSSKWVAPGSKGRRRWWKKIGLGFKTPKAAILGTYIDHKCPFTSKVSIRGRILRGIIIRHKMFRTVVVRRNYLHYQKKYKRYEKRHKNWSVHISPAFDFSIGDEVVFGQCRPLSKTVTFNVLQVVPKSKKVAAQRKEFEKF",
+            "entity_poly_seq_one_letter_code_can": "MTEVELDDNAFHKQDNIFLAAKNPSSKWVAPGSKGRRRWWKKIGLGFKTPKAAILGTYIDHKCPFTSKVSIRGRILRGIIIRHKMFRTVVVRRNYLHYQKKYKRYEKRHKNWSVHISPAFDFSIGDEVVFGQCRPLSKTVTFNVLQVVPKSKKVAAQRKEFEKF",
+            "entity_poly_seq_length": 164,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS17",
+            "entity_poly_strand_id": "SV",
+            "entity_poly_seq_one_letter_code": "MGRVRTKTVKRASKVIIEKYFQKLTQDFQTNKKVICEIAIVPSTRLRNKIAGFTTKLMKRIARGPVRGISLKLQEEEREKRMDFAPEVSQVDQQIMDQGVEVDEDTLAMLAAMDMANISHLKKVQVQLPQATQQQQGGKGGKGRS",
+            "entity_poly_seq_one_letter_code_can": "MGRVRTKTVKRASKVIIEKYFQKLTQDFQTNKKVICEIAIVPSTRLRNKIAGFTTKLMKRIARGPVRGISLKLQEEEREKRMDFAPEVSQVDQQIMDQGVEVDEDTLAMLAAMDMANISHLKKVQVQLPQATQQQQGGKGGKGRS",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS19",
+            "entity_poly_strand_id": "SX",
+            "entity_poly_seq_one_letter_code": "MTGGKPAVVKDVDPQKFIAAYAAYLKKAGKIEIPKYVDVIKLAQFKELAPADPDWYYTRCAAIARRIYINPGTGVGGFRKVFGGNDRRGVRPGRFTKSSGGIIRHCLQQLEKMGIVEVASNGGRIMTKEGQRDLDRIAQQVLYPEMFE",
+            "entity_poly_seq_one_letter_code_can": "MTGGKPAVVKDVDPQKFIAAYAAYLKKAGKIEIPKYVDVIKLAQFKELAPADPDWYYTRCAAIARRIYINPGTGVGGFRKVFGGNDRRGVRPGRFTKSSGGIIRHCLQQLEKMGIVEVASNGGRIMTKEGQRDLDRIAQQVLYPEMFE",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS25",
+            "entity_poly_strand_id": "Sa",
+            "entity_poly_seq_one_letter_code": "MPPKKDAKKDPKKDAKGAKKGKDSKSSGGGKAKKKKWSKGKVREKLHNAVMWEKVIRDKLYSEVPKYKVITVSVISDRLKVNGSLAREALKVLHAEGLIKPVNVNANCRLYTRATAETA",
+            "entity_poly_seq_one_letter_code_can": "MPPKKDAKKDPKKDAKGAKKGKDSKSSGGGKAKKKKWSKGKVREKLHNAVMWEKVIRDKLYSEVPKYKVITVSVISDRLKVNGSLAREALKVLHAEGLIKPVNVNANCRLYTRATAETA",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS30",
+            "entity_poly_strand_id": "Se",
+            "entity_poly_seq_one_letter_code": "MGKVHGSLARAGKVKGQTPKVPKQEKKKEAVGRAKKRLLYNKRFISAPVGLGGKRAQPNKQPAGKLG",
+            "entity_poly_seq_one_letter_code_can": "MGKVHGSLARAGKVKGQTPKVPKQEKKKEAVGRAKKRLLYNKRFISAPVGLGGKRAQPNKQPAGKLG",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS31",
+            "entity_poly_strand_id": "Sf",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLEVESNDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGGGKKKKKKNFTRPKKKKHKKKKVPLAVLKFYKVDDSGEITRTRMECPHPDCGAGVFMAAHKDRQYCGKCGLTYVFQKEGEE",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLEVESNDTIDNVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNIQKESTLHLVLRLRGGGGKKKKKKNFTRPKKKKHKKKKVPLAVLKFYKVDDSGEITRTRMECPHPDCGAGVFMAAHKDRQYCGKCGLTYVFQKEGEE",
+            "entity_poly_seq_length": 157,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eSEug1",
+            "entity_poly_strand_id": "Sg",
+            "entity_poly_seq_one_letter_code": "MAPKKKPSAPKAKAPAAPAPKAAPPAKKGGKGAKAGKKDAAKKESKKDFICAILIRKLDFEGMSHETVKKVFKSCGGIVGVRLRHGKYTLIFFKSNENAKKCLEFNNKVVKGNKIQVLRARRAKLPKKREGYCRTIWVGPLPGGTTKEQLRKHFAPAGQVKKVRYYPSKKMGFVYFKKAEEALKAVAMQDVLFSHGKDVSKLEKVPKQLQVKLKIKLSRRTVTGDKLKRERLYNRRPPSEIERKEQKSAARAALRTAAKAAKESEEKKKASGSGTKKESTTKKSSSTKKGSTSKK",
+            "entity_poly_seq_one_letter_code_can": "MAPKKKPSAPKAKAPAAPAPKAAPPAKKGGKGAKAGKKDAAKKESKKDFICAILIRKLDFEGMSHETVKKVFKSCGGIVGVRLRHGKYTLIFFKSNENAKKCLEFNNKVVKGNKIQVLRARRAKLPKKREGYCRTIWVGPLPGGTTKEQLRKHFAPAGQVKKVRYYPSKKMGFVYFKKAEEALKAVAMQDVLFSHGKDVSKLEKVPKQLQVKLKIKLSRRTVTGDKLKRERLYNRRPPSEIERKEQKSAARAALRTAAKAAKESEEKKKASGSGTKKESTTKKSSSTKKGSTSKK",
+            "entity_poly_seq_length": 295,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL5",
+            "entity_poly_strand_id": "LS",
+            "entity_poly_seq_one_letter_code": "MPEGENKASKRLKKLQNPMREIRVAKLIINICVGESGDRLTRAAKVVEQLTGQTPVLSKARLTIRSFNIRRNEKIAVHCTVRGQKAEELLERGLKVKEFELKKKNFSKNGNFGFGINEHIDLGIKYDPNTGIYGMDFYVVLERRGFRVARKKRKSGKVGKAHKITKKESIKWFIEKFDGIVTDKKKTTTDE",
+            "entity_poly_seq_one_letter_code_can": "MPEGENKASKRLKKLQNPMREIRVAKLIINICVGESGDRLTRAAKVVEQLTGQTPVLSKARLTIRSFNIRRNEKIAVHCTVRGQKAEELLERGLKVKEFELKKKNFSKNGNFGFGINEHIDLGIKYDPNTGIYGMDFYVVLERRGFRVARKKRKSGKVGKAHKITKKESIKWFIEKFDGIVTDKKKTTTDE",
+            "entity_poly_seq_length": 191,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eS1",
+            "entity_poly_strand_id": "SA",
+            "entity_poly_seq_one_letter_code": "MAVGKNKSVKKGQAKRKIVDFMTRKEWYDVVAPTTFTKRSICKTLVNKSVGNKNCTDNLKGRVFELNLGDLNEDESQAHRNIRLRVDDVVGRNCLTNFHGMSLTTDKLRSLVRKWCTLVEASMDLKTSDGFLLRIFVIGFTKRRPNQVRKNCYAQHSQVLRLRKKMFEIISAAVTKSDLQSCVKKFQLETIGKDIETASSRYYPLRDVHVRKVKVLHLPKFEPNKLLQEVHGGELPKSWEEGPTGAAVE",
+            "entity_poly_seq_one_letter_code_can": "MAVGKNKSVKKGQAKRKIVDFMTRKEWYDVVAPTTFTKRSICKTLVNKSVGNKNCTDNLKGRVFELNLGDLNEDESQAHRNIRLRVDDVVGRNCLTNFHGMSLTTDKLRSLVRKWCTLVEASMDLKTSDGFLLRIFVIGFTKRRPNQVRKNCYAQHSQVLRLRKKMFEIISAAVTKSDLQSCVKKFQLETIGKDIETASSRYYPLRDVHVRKVKVLHLPKFEPNKLLQEVHGGELPKSWEEGPTGAAVE",
+            "entity_poly_seq_length": 249,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL15",
+            "entity_poly_strand_id": "La",
+            "entity_poly_seq_one_letter_code": "MTYRERKNKGQHQKTRKLRGHVSHGHGRVGKHRKHASGRGNAGGQHHHRIWMDKYHPGYFGKVGIRRFHYRLNPRFCPTTSISRLLRLVPKEQLEACKGKEELPVVNLLQHGYFKLLGTGRLSQGVIVKARSFSQGAERKIKKAGGACILVA",
+            "entity_poly_seq_one_letter_code_can": "MTYRERKNKGQHQKTRKLRGHVSHGHGRVGKHRKHASGRGNAGGQHHHRIWMDKYHPGYFGKVGIRRFHYRLNPRFCPTTSISRLLRLVPKEQLEACKGKEELPVVNLLQHGYFKLLGTGRLSQGVIVKARSFSQGAERKIKKAGGACILVA",
+            "entity_poly_seq_length": 152,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [
+                "Q39724"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein L10",
+            "entity_poly_strand_id": "Lc",
+            "entity_poly_seq_one_letter_code": "MGRRPAKCYRYCKNKAYPKSRYCRGVPEAKIRIYDCGMRKLNADTFPLTYHLISMEREQIGSEALEAARINANKYMIKNAGKEAYHIRVRVHPFHVCRINKMLSCAGADRLQQGMRGAFGKPNGLAARVRIGQPLMSIRVKPQHEAVVVAALKRASYKFAGRQVIAKSTMWGFTEIRSENYVKWKEEGKFRVDGVSTKILRNRGRLHRAKRVRAA",
+            "entity_poly_seq_one_letter_code_can": "MGRRPAKCYRYCKNKAYPKSRYCRGVPEAKIRIYDCGMRKLNADTFPLTYHLISMEREQIGSEALEAARINANKYMIKNAGKEAYHIRVRVHPFHVCRINKMLSCAGADRLQQGMRGAFGKPNGLAARVRIGQPLMSIRVKPQHEAVVVAALKRASYKFAGRQVIAKSTMWGFTEIRSENYVKWKEEGKFRVDGVSTKILRNRGRLHRAKRVRAA",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS2",
+            "entity_poly_strand_id": "SB",
+            "entity_poly_seq_one_letter_code": "MSKGRPILDPTEDDIRKLLACKVHLGTKNLVKQMERYVYARRKDGIHVLDLHMTWQKLVLAARVLVAIENPADVCAISARPYGQRAILKFSQYTGAQYVASRFTPGALTNQIQDTFMQPRILLITDPRTDHQAITESAYGNVPVIAFCDTDSPLVYVDLAIPCNNRGQKAIGMLYWMLTREILRMRGTCPRAVPWEIKVDLFFYRDPEEVLKKEEEVQQIAAPVADLYTGAQAQVQVDTGAAANWGDETGTWEAGGGWGAE",
+            "entity_poly_seq_one_letter_code_can": "MSKGRPILDPTEDDIRKLLACKVHLGTKNLVKQMERYVYARRKDGIHVLDLHMTWQKLVLAARVLVAIENPADVCAISARPYGQRAILKFSQYTGAQYVASRFTPGALTNQIQDTFMQPRILLITDPRTDHQAITESAYGNVPVIAFCDTDSPLVYVDLAIPCNNRGQKAIGMLYWMLTREILRMRGTCPRAVPWEIKVDLFFYRDPEEVLKKEEEVQQIAAPVADLYTGAQAQVQVDTGAAANWGDETGTWEAGGGWGAE",
+            "entity_poly_seq_length": 261,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL20",
+            "entity_poly_strand_id": "Lg",
+            "entity_poly_seq_one_letter_code": "MPGFSGIRHYEIVGRAYPTEKEPSPKVYKMTVFAKNSVVGKARFWKLMRKQNKVKKTHGQVLQIRRIFEKNPNTIKNYSILLRYQSKTGVMNVSKEYRDTTLCGAVHQMYMDMAGRHHARYLDIDIIGTTVLKPSQCLRPHIRQFLQHKVKFPLLHRITKKLPQHKATFLYSKPSTYRSGFM",
+            "entity_poly_seq_one_letter_code_can": "MPGFSGIRHYEIVGRAYPTEKEPSPKVYKMTVFAKNSVVGKARFWKLMRKQNKVKKTHGQVLQIRRIFEKNPNTIKNYSILLRYQSKTGVMNVSKEYRDTTLCGAVHQMYMDMAGRHHARYLDIDIIGTTVLKPSQCLRPHIRQFLQHKVKFPLLHRITKKLPQHKATFLYSKPSTYRSGFM",
+            "entity_poly_seq_length": 182,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL22",
+            "entity_poly_strand_id": "Li",
+            "entity_poly_seq_one_letter_code": "MGKAKYSYTPKAEAKCAKARGTDLRVHFKNTRETVKTLHGMTVKKAFAYLRDVLARKRCIPFRRYGTGCGRTPQAKEFKHTRGRWPVKSVEYVQNLLKNAVANANTKGLDPNAMFISHIQANRAQQQRRRTYRAHGRINPYMSNPCHLEVVLVTKEEPVKPPEP",
+            "entity_poly_seq_one_letter_code_can": "MGKAKYSYTPKAEAKCAKARGTDLRVHFKNTRETVKTLHGMTVKKAFAYLRDVLARKRCIPFRRYGTGCGRTPQAKEFKHTRGRWPVKSVEYVQNLLKNAVANANTKGLDPNAMFISHIQANRAQQQRRRTYRAHGRINPYMSNPCHLEVVLVTKEEPVKPPEP",
+            "entity_poly_seq_length": 164,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL23",
+            "entity_poly_strand_id": "Lk",
+            "entity_poly_seq_one_letter_code": "MAPKKEAKAPPKKSAAKPKAKAKGAKGDEKKPVKKAVFKRYNKIRTTVQFHRPYTRRTKGQKKYVRRSGRSVSIAQKKDQFHILKFPLTTESAMKKIEDNNTLVFIVDIRANKNQIKTAVRKMYDIKAARVNTLIRPDGLKKAYVKLMPDNDALDIANKIGIL",
+            "entity_poly_seq_one_letter_code_can": "MAPKKEAKAPPKKSAAKPKAKAKGAKGDEKKPVKKAVFKRYNKIRTTVQFHRPYTRRTKGQKKYVRRSGRSVSIAQKKDQFHILKFPLTTESAMKKIEDNNTLVFIVDIRANKNQIKTAVRKMYDIKAARVNTLIRPDGLKKAYVKLMPDNDALDIANKIGIL",
+            "entity_poly_seq_length": 163,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL24",
+            "entity_poly_strand_id": "Ll",
+            "entity_poly_seq_one_letter_code": "MVNKVGKSGDRRKARKSYFTAPSHVRRVIMSARLSKDLRQKYKVKSLPIRKEDEVKVKRGSHKGRDGKVIACYRLKYAVHIDKITREKANGQTVQIGIHPSNVEITKLKLDKDRKKLLETKGRRKNKDSKDKTKVGQAEVAMQDVD",
+            "entity_poly_seq_one_letter_code_can": "MVNKVGKSGDRRKARKSYFTAPSHVRRVIMSARLSKDLRQKYKVKSLPIRKEDEVKVKRGSHKGRDGKVIACYRLKYAVHIDKITREKANGQTVQIGIHPSNVEITKLKLDKDRKKLLETKGRRKNKDSKDKTKVGQAEVAMQDVD",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS3",
+            "entity_poly_strand_id": "SC",
+            "entity_poly_seq_one_letter_code": "MANTGNLSKKRKFVADGVFYAELNEFLKRELAEDGYSGVEVRVTPQRTEIIIRATRTKEVLGEKGRRIRELTSVVQKRFNFPDNGVELYAERVANRGLSAIAQAESLRYKLMGGLAVRRACYGVLRFVMDNQAKGCEIIVSGKLRAQRAKSMKFKDGYMIKSGHPAEIYVDKAVRHVYLRQGVLGIKVSIMLPFDPTGKMGPDRPIPDQVTIINPKDEPL",
+            "entity_poly_seq_one_letter_code_can": "MANTGNLSKKRKFVADGVFYAELNEFLKRELAEDGYSGVEVRVTPQRTEIIIRATRTKEVLGEKGRRIRELTSVVQKRFNFPDNGVELYAERVANRGLSAIAQAESLRYKLMGGLAVRRACYGVLRFVMDNQAKGCEIIVSGKLRAQRAKSMKFKDGYMIKSGHPAEIYVDKAVRHVYLRQGVLGIKVSIMLPFDPTGKMGPDRPIPDQVTIINPKDEPL",
+            "entity_poly_seq_length": 220,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL30",
+            "entity_poly_strand_id": "Ls",
+            "entity_poly_seq_one_letter_code": "MVSKKAKKQDQNINSRLQLVVKSGKYCLGYQSTLKSLRQGKSKLVIIANNCSPMRKSEVEYYAMLSKTSVHHYAGNNIDLGTACGKFFTASMLSIIDAGDSDIIRAMPQ",
+            "entity_poly_seq_one_letter_code_can": "MVSKKAKKQDQNINSRLQLVVKSGKYCLGYQSTLKSLRQGKSKLVIIANNCSPMRKSEVEYYAMLSKTSVHHYAGNNIDLGTACGKFFTASMLSIIDAGDSDIIRAMPQ",
+            "entity_poly_seq_length": 109,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL32",
+            "entity_poly_strand_id": "Lu",
+            "entity_poly_seq_one_letter_code": "MARVGVNRTVTRKELKKKKHVPHFKRYQSWRHVRVSESWRKPHGIDSAFRRRFKGYPAMVGIGYKQPKNVRHVHPDGKRQFLVHNLKDLEVLLMYNKKYAAVIGHSVGARKRKSIVTRAKELQIKVTNANARLRAEEHE",
+            "entity_poly_seq_one_letter_code_can": "MARVGVNRTVTRKELKKKKHVPHFKRYQSWRHVRVSESWRKPHGIDSAFRRRFKGYPAMVGIGYKQPKNVRHVHPDGKRQFLVHNLKDLEVLLMYNKKYAAVIGHSVGARKRKSIVTRAKELQIKVTNANARLRAEEHE",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uS4",
+            "entity_poly_strand_id": "SD",
+            "entity_poly_seq_one_letter_code": "MVRKYRNFSKVYSTPRRPFDKERLDKELKLCGEYGLRCKKEVWRVGAVLTKMRSAARQLLTLEEGHLRRQIEGAALLRRCQKYGLLDESKLKLDYVLSLTVPDFLERRLQTIVFKLGLAKSIHHARVLIAQRHIRVGKQICTSPSFLVRMDSEKHIDFAPQSPLGGGPPGRVKRKKLAAESKKKDGGDDGGDEEED",
+            "entity_poly_seq_one_letter_code_can": "MVRKYRNFSKVYSTPRRPFDKERLDKELKLCGEYGLRCKKEVWRVGAVLTKMRSAARQLLTLEEGHLRRQIEGAALLRRCQKYGLLDESKLKLDYVLSLTVPDFLERRLQTIVFKLGLAKSIHHARVLIAQRHIRVGKQICTSPSFLVRMDSEKHIDFAPQSPLGGGPPGRVKRKKLAAESKKKDGGDDGGDEEED",
+            "entity_poly_seq_length": 196,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL40",
+            "entity_poly_strand_id": "L2",
+            "entity_poly_seq_one_letter_code": "MQVKVQTLVGRVLQIDLEEGASIDALKAKIEEEISLPSESQALFMDGKELDGESAEYKLDAATIHVVARLRGGVMMEPTLQALARKYNCEKMVCRKCYARLPLRSHNCRSKMCGHTSELRMKKKLK",
+            "entity_poly_seq_one_letter_code_can": "MQVKVQTLVGRVLQIDLEEGASIDALKAKIEEEISLPSESQALFMDGKELDGESAEYKLDAATIHVVARLRGGVMMEPTLQALARKYNCEKMVCRKCYARLPLRSHNCRSKMCGHTSELRMKKKLK",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL42",
+            "entity_poly_strand_id": "L5",
+            "entity_poly_seq_one_letter_code": "MARRTVKVGITGKYGTRYGANLRKRVKKIEISKKAKHFCHWCGKFRFKRQAVGIWHCTSCGKTMAGGAWTLNTGNSTTVRSTIRRLREMTEQ",
+            "entity_poly_seq_one_letter_code_can": "MARRTVKVGITGKYGTRYGANLRKRVKKIEISKKAKHFCHWCGKFRFKRQAVGIWHCTSCGKTMAGGAWTLNTGNSTTVRSTIRRLREMTEQ",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL43",
+            "entity_poly_strand_id": "L4",
+            "entity_poly_seq_one_letter_code": "MVQYPKTRKTFCKGEPCKKHQTHKVVQYKVGKASVVAQGKRRYDMKQKGFGGQTKPVFHKKAKTTKKITLKLQCTSCKLIKQIKIKRCKHFELADRKGRSKGQPDW",
+            "entity_poly_seq_one_letter_code_can": "MVQYPKTRKTFCKGEPCKKHQTHKVVQYKVGKASVVAQGKRRYDMKQKGFGGQTKPVFHKKAKTTKKITLKLQCTSCKLIKQIKIKRCKHFELADRKGRSKGQPDW",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "18S rRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "S1",
+            "entity_poly_seq_one_letter_code": "GAAUCUGG(OMU)UGAUCCUGCCAGCAGUCA(PSU)(A2M)UGC(PSU)UUGUU(OMC)A(A2M)G(OMG)GCUAAGCCAUGCAC(OMG)UCUCAGCGCAAACGGAGUGACAGUGGAUCUG(PSU)GAAUGGCUC(OMC)UUA(OMC)A(PSU)CAGC(A2M)GUCAUCUACG(PSU)GAUAGAGUGUGCUCGGUCCACCUGCAAGGACCCCAUUGGACAUCCACCAAAACC(PSU)UG(OMU)(OMG)GCUAA(OMU)ACACGUUCGACCCAGUCAGCCAUGCAACACUCGGCAGGGAUCCUGUCUCCGGACAGUCCCUUCACCGGUGGUGGCGGAUGUAUGCCCAGCUGA(PSU)ACGAAGACCAGCGGCCGCAAGGCCAGUGUGUUGGCAUGGUUGACUCAGGCUGGCCCUCCGUGGCCGCAGUGCUGGUGGAUUUCGUGCAUGCCUCGUGCAUGCCCCACUU(OMG)AU(OMC)GCAAGAGCU(PSU)CUG(A2M)CCUAUCAGCUUGACUGUGGUGUAUCGGACCACAGUGGCCUUGACGGGUAACGGAGAA(PSU)CAGGGUUCGAUUCCGGAGA(OMG)GGAGCCUGAGAGACGGCUACCACUACCAAGGUGGGCAGCAGGCACGC(A2M)AAUUGCCCCA(PSU)GCAAAGACAGUCUGUGAGGC(A2M)GCGACGAACAGUAGCAACCCCGUCGGCCUUACGUGCCGAUGGGGCUUGGAAUGGA(OMC)GCUAUCCAAAGACAGCCG(PSU)(OMG)AGU(A2M)UCA(A2M)CCGGAGGGCAAGUCUGGUGCCAGCAGCUGCGG(OMU)AAUUCCAGCUCCGAGGGCG(OMU)A(OMU)ACUAACAUUGCUGCUGUU(A2M)AAACACUUGUAGUCUGCCUACGGGCUGCAGGUCUGCUGGGUGGCCGGUUUGUUGUUUCUCUGGCCAGGGAAGGACCUCGGUUCGACCCUGUGUUGGGCUGCAACGGCUGGACUCAACCCCCAGUGGUACGUCCCUGCGCCCACCUCUCAGUCGAUGGUGAGAUCUGCUCCUGCCAAAAGUCUGCUUCACUGCAGGCCAAAGCGGUUUAUGCCUCCCGCACUGGCAACGGACACCAACAGGGGACCCAGCCUCGAGCUGGGUAGUCUACCUCUGGUCCACCACCGGAGCCCACCGUCUUCGACACCCUGGAAAA(OMC)UCAGUGUGCUCAAAGCAUCCCCGCG(A2M)CGGC(PSU)GAAUGUCCAUCCAUGGAAUGUCAAGGC(A2M)UCGACCAAGUGUGGCAUUGGAGUUGUGCUGGCCUUGGGGCCCACUCUGGACAACCUGGUGGUGUGUUCCUGCAGGAUCAACAGGAUCGUUGCCCUGCCUGGCCUUCGGGUCUCGUCAGGCUUCGUCCCCUGUCCCUGCAGCUUGCACCCAUCGAUCGUAAGUGAUGGGACUGUUCGGGGUGAAAGAUACGGGAGCGCCAGAGGUGAAAUUCUUAGAUCGCUGCCAGAUCCACUGCAGCGAAGGCGUUCUGCAAGUGCACGUCCGUCGAUCAAGA(A2M)UGAGAG(PSU)UCGGGGAGCAAAGA(PSU)GA(PSU)CAGACACCGUCGUAGUCCGGCCACUGUAAACGAUGCCGGCCAGGCCUUGGCAGAGCAAGAAUCCUAGACUCUGUCAGGGCCACUCCUCCCACAACGAGAAAUCCACAGCCUGUGGGUUCAGGGGGGAGUACUGUCGCAA(OMG)GCUGAAACUUAA(A2M)GGAA(PSU)UGACGGAAUGGCACCACAAGGCGUGGAGUAUGCGGC(PSU)(PSU)AAUU(UR3)GAC(B8N)CAACGCGGGGAAUG(OMU)UACCAGG(PSU)(OMC)AGGACGCAACUGGGA(OMU)UGACAGAUUGAGAGCUCU(PSU)UCUUGAUCUUGUGGACGG(OMU)G(OMG)UGCAUGGCCGCUCCUGAUUGGUG(OMG)AGUGA(PSU)UUG(PSU)CUGGUUGAUUCCGAUAACGAGUGAGACA(OMU)CUGCCUCCCACUAGCCUGAGGCUCGCAUUUGGUAGGGUUCGGCUGCUAGGGGGCUGCCCCCUGGCAACAGGGGGAGAUGUACCGGUGCAUGCUCCCGCCGAAAGAGAGCCUCCAGUUCAGCUUCUCUGAGGUGCUGUGUCCGCCACAAAGGGCAUGCAUGCU(A2M)(OMG)AGCCAACAGCAGGUCUGUGAUGCUCCCAGAUGUCCUGGGCCGCACGCGCACUACAUUG(PSU)CACAG(OMU)GAAGGUGUCGACAUGCCCACUCCGGUGGGCCCUGGCCUGAAGAGGCUGGGAAAUCCUGCAAGCCUGUGACGUAC(OMU)GGGG(A2M)UAGAUGGUUGCAACUGUC(PSU)GCCUUGAAC(OMG)UG(7MG)AA(PSU)GCCUAGUAUGCCUGGGUCA(PSU)CAGCCCAGACCGAU(PSU)GUGUCC(OMC)UGCCA(PSU)U(PSU)GUACACACCG(OMC)C(5MC)GUCGUUGCUACCGAUGGUGGCUGGAUAGAGUCAUC(A2M)GGAGGUUGUGGAGGCGGCCUCUCGGGGCAGUAGAGCAUCCCAGCCGAAAUUGGACGAUGUCCAGCCACUAGAGGAAGCAAAAGUCGUAACAAGGUUGCUGUAGGUG(MA6)(MA6)CCUGCAGCAGGAUCAU(PSU)GC",
+            "entity_poly_seq_one_letter_code_can": "GAAUCUGGUUGAUCCUGCCAGCAGUCAUAUGCUUUGUUCAAGGGCUAAGCCAUGCACGUCUCAGCGCAAACGGAGUGACAGUGGAUCUGUGAAUGGCUCCUUACAUCAGCAGUCAUCUACGUGAUAGAGUGUGCUCGGUCCACCUGCAAGGACCCCAUUGGACAUCCACCAAAACCUUGUGGCUAAUACACGUUCGACCCAGUCAGCCAUGCAACACUCGGCAGGGAUCCUGUCUCCGGACAGUCCCUUCACCGGUGGUGGCGGAUGUAUGCCCAGCUGAUACGAAGACCAGCGGCCGCAAGGCCAGUGUGUUGGCAUGGUUGACUCAGGCUGGCCCUCCGUGGCCGCAGUGCUGGUGGAUUUCGUGCAUGCCUCGUGCAUGCCCCACUUGAUCGCAAGAGCUUCUGACCUAUCAGCUUGACUGUGGUGUAUCGGACCACAGUGGCCUUGACGGGUAACGGAGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAGACGGCUACCACUACCAAGGUGGGCAGCAGGCACGCAAAUUGCCCCAUGCAAAGACAGUCUGUGAGGCAGCGACGAACAGUAGCAACCCCGUCGGCCUUACGUGCCGAUGGGGCUUGGAAUGGACGCUAUCCAAAGACAGCCGUGAGUAUCAACCGGAGGGCAAGUCUGGUGCCAGCAGCUGCGGUAAUUCCAGCUCCGAGGGCGUAUACUAACAUUGCUGCUGUUAAAACACUUGUAGUCUGCCUACGGGCUGCAGGUCUGCUGGGUGGCCGGUUUGUUGUUUCUCUGGCCAGGGAAGGACCUCGGUUCGACCCUGUGUUGGGCUGCAACGGCUGGACUCAACCCCCAGUGGUACGUCCCUGCGCCCACCUCUCAGUCGAUGGUGAGAUCUGCUCCUGCCAAAAGUCUGCUUCACUGCAGGCCAAAGCGGUUUAUGCCUCCCGCACUGGCAACGGACACCAACAGGGGACCCAGCCUCGAGCUGGGUAGUCUACCUCUGGUCCACCACCGGAGCCCACCGUCUUCGACACCCUGGAAAACUCAGUGUGCUCAAAGCAUCCCCGCGACGGCUGAAUGUCCAUCCAUGGAAUGUCAAGGCAUCGACCAAGUGUGGCAUUGGAGUUGUGCUGGCCUUGGGGCCCACUCUGGACAACCUGGUGGUGUGUUCCUGCAGGAUCAACAGGAUCGUUGCCCUGCCUGGCCUUCGGGUCUCGUCAGGCUUCGUCCCCUGUCCCUGCAGCUUGCACCCAUCGAUCGUAAGUGAUGGGACUGUUCGGGGUGAAAGAUACGGGAGCGCCAGAGGUGAAAUUCUUAGAUCGCUGCCAGAUCCACUGCAGCGAAGGCGUUCUGCAAGUGCACGUCCGUCGAUCAAGAAUGAGAGUUCGGGGAGCAAAGAUGAUCAGACACCGUCGUAGUCCGGCCACUGUAAACGAUGCCGGCCAGGCCUUGGCAGAGCAAGAAUCCUAGACUCUGUCAGGGCCACUCCUCCCACAACGAGAAAUCCACAGCCUGUGGGUUCAGGGGGGAGUACUGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAUGGCACCACAAGGCGUGGAGUAUGCGGCUUAAUUUGACXCAACGCGGGGAAUGUUACCAGGUCAGGACGCAACUGGGAUUGACAGAUUGAGAGCUCUUUCUUGAUCUUGUGGACGGUGGUGCAUGGCCGCUCCUGAUUGGUGGAGUGAUUUGUCUGGUUGAUUCCGAUAACGAGUGAGACAUCUGCCUCCCACUAGCCUGAGGCUCGCAUUUGGUAGGGUUCGGCUGCUAGGGGGCUGCCCCCUGGCAACAGGGGGAGAUGUACCGGUGCAUGCUCCCGCCGAAAGAGAGCCUCCAGUUCAGCUUCUCUGAGGUGCUGUGUCCGCCACAAAGGGCAUGCAUGCUAGAGCCAACAGCAGGUCUGUGAUGCUCCCAGAUGUCCUGGGCCGCACGCGCACUACAUUGUCACAGUGAAGGUGUCGACAUGCCCACUCCGGUGGGCCCUGGCCUGAAGAGGCUGGGAAAUCCUGCAAGCCUGUGACGUACUGGGGAUAGAUGGUUGCAACUGUCUGCCUUGAACGUGGAAUGCCUAGUAUGCCUGGGUCAUCAGCCCAGACCGAUUGUGUCCCUGCCAUUUGUACACACCGCCCGUCGUUGCUACCGAUGGUGGCUGGAUAGAGUCAUCAGGAGGUUGUGGAGGCGGCCUCUCGGGGCAGUAGAGCAUCCCAGCCGAAAUUGGACGAUGUCCAGCCACUAGAGGAAGCAAAAGUCGUAACAAGGUUGCUGUAGGUGAACCUGCAGCAGGAUCAUUGC",
+            "entity_poly_seq_length": 2315,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "P-tRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "S3",
+            "entity_poly_seq_one_letter_code": "GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUCAUAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACCA",
+            "entity_poly_seq_one_letter_code_can": "GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUCAUAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACCA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "E-tRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "S4",
+            "entity_poly_seq_one_letter_code": "GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACAA",
+            "entity_poly_seq_one_letter_code_can": "GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACAA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 1",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LB",
+            "entity_poly_seq_one_letter_code": "GUGACCUGGCGCACAUGGA(A2M)UGACCCACCGAACUUAAGCAUA(OMU)CACUCAGU(OMG)GAGGAACAGCAAGCAACC(PSU)CGAUUGCUGCAG(OMU)AAUGGCGAAUGAACGAGCAGGACCCACGGCUC(PSU)(PSU)CCUGAAAAUGGGCUU",
+            "entity_poly_seq_one_letter_code_can": "GUGACCUGGCGCACAUGGAAUGACCCACCGAACUUAAGCAUAUCACUCAGUGGAGGAACAGCAAGCAACCUCGAUUGCUGCAGUAAUGGCGAAUGAACGAGCAGGACCCACGGCUCUUCCUGAAAAUGGGCUU",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 2",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LC",
+            "entity_poly_seq_one_letter_code": "CUCGA(PSU)CGGCU(PSU)UCGUUGGAAUCCAGCAAACCCUGUGGGCUAUGGAGCAGUUGGCUGUGUCUCGGUGCUUCCCAGUACCAAGAAGAGUCCUGGAAUGGACCCACGAAACAGGGAGACUGUCCCG(PSU)AUGGCUGAACCGUGUGCUGGGAUCACUGGGAUGUGGCUGGCUGUAUCCCCGAGUAGAG(PSU)GG(OMC)UUGGGAC(OMU)GCAGUU(PSU)GAAGAGUGACGUGUAUCCGUCACAAGGUGGCAUACAGA(OMC)CUG(OMG)GACCGAUAGUGCACAAGUAGAGUGA(PSU)CGAAGGAUG(OMC)AAAGAACUCCGCGAAG(A2M)GGGUUAAAAGUCCCUGAAGCCGCAACAGGAUCG(OMG)UG(OMG)UGUGCAGUGCUGUAU",
+            "entity_poly_seq_one_letter_code_can": "CUCGAUCGGCUUUCGUUGGAAUCCAGCAAACCCUGUGGGCUAUGGAGCAGUUGGCUGUGUCUCGGUGCUUCCCAGUACCAAGAAGAGUCCUGGAAUGGACCCACGAAACAGGGAGACUGUCCCGUAUGGCUGAACCGUGUGCUGGGAUCACUGGGAUGUGGCUGGCUGUAUCCCCGAGUAGAGUGGCUUGGGACUGCAGUUUGAAGAGUGACGUGUAUCCGUCACAAGGUGGCAUACAGACCUGGGACCGAUAGUGCACAAGUAGAGUGAUCGAAGGAUGCAAAGAACUCCGCGAAGAGGGUUAAAAGUCCCUGAAGCCGCAACAGGAUCGGUGGUGUGCAGUGCUGUAU",
+            "entity_poly_seq_length": 350,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 4",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LE",
+            "entity_poly_seq_one_letter_code": "UCGCUGGUGGUUGGGCUGGAUUCGGGGUGUGCUUGGCUGCACCGGGGGCUGCACCGUUCUGACGGUGGUCCCCUUGCUGGCUGCACCGUCCCCCAGCCUGACCCCAGUGAGAAAUUGGCAGCAGAGCUUGGCACCCCUCCUUGCAGUGCUGCUCUCUGCCCGUCUCG(1MA)AAC(A2M)(OMC)G(7MG)ACCAAGGAGU(OMC)UAAGGAGCUUGCCAGUCGGAUGGCUGAUCCAAAACCUCUUCUGAGGCGUGGUGAAGGCAACUAUCCUUCCAGA(PSU)GGGGCUAGUCUCUGC(A2M)UGGAACGACCGGACCCGAAGUCCAGUGGACAGGGU(PSU)UCGAG(OMU)GCUUGCAAGGUCCUUGGGACCC(OMG)A(A2M)AGGUGGUGAAC(PSU)AU(A2M)CCGU(PSU)CUACGGUGAAGCCAUGGGAAACUGUGGUGGAAGCCGGU(OMC)GCUGU(PSU)CUGACGUGCAAA(PSU)(OMU)GUG(OMU)AGCCUGAG(PSU)GC(OMG)GC(A2M)UAG(OMG)GGUGAAAG(OMG)(OMC)CAA(OMU)CGAGCCACCUAG(PSU)AGCUGGUUCCCUUCGAAGUUUCCC(PSU)CAGGA(PSU)AGC(OMU)GGGAUCCAAUGAUGCAAAGCUUGUAUGUGACUGGUUGCAUC(OMC)GG(OMU)AAAGCAAC(OMG)CAUGAGAGGCCAACCCUGGGGAGCCCAGCUCCUCAACC(PSU)A(PSU)CCUCGAACUGUGAAUGGGUGCGGACAACCCAGGCAUGCUUC(PSU)UUGCCACGACAGGAGGCUGUGUAACAGCAGUUCUCCCCGUCUUC(OMU)GAGCAUGUU",
+            "entity_poly_seq_one_letter_code_can": "UCGCUGGUGGUUGGGCUGGAUUCGGGGUGUGCUUGGCUGCACCGGGGGCUGCACCGUUCUGACGGUGGUCCCCUUGCUGGCUGCACCGUCCCCCAGCCUGACCCCAGUGAGAAAUUGGCAGCAGAGCUUGGCACCCCUCCUUGCAGUGCUGCUCUCUGCCCGUCUCGAAACACGGACCAAGGAGUCUAAGGAGCUUGCCAGUCGGAUGGCUGAUCCAAAACCUCUUCUGAGGCGUGGUGAAGGCAACUAUCCUUCCAGAUGGGGCUAGUCUCUGCAUGGAACGACCGGACCCGAAGUCCAGUGGACAGGGUUUCGAGUGCUUGCAAGGUCCUUGGGACCCGAAAGGUGGUGAACUAUACCGUUCUACGGUGAAGCCAUGGGAAACUGUGGUGGAAGCCGGUCGCUGUUCUGACGUGCAAAUUGUGUAGCCUGAGUGCGGCAUAGGGGUGAAAGGCCAAUCGAGCCACCUAGUAGCUGGUUCCCUUCGAAGUUUCCCUCAGGAUAGCUGGGAUCCAAUGAUGCAAAGCUUGUAUGUGACUGGUUGCAUCCGGUAAAGCAACGCAUGAGAGGCCAACCCUGGGGAGCCCAGCUCCUCAACCUAUCCUCGAACUGUGAAUGGGUGCGGACAACCCAGGCAUGCUUCUUUGCCACGACAGGAGGCUGUGUAACAGCAGUUCUCCCCGUCUUCUGAGCAUGUU",
+            "entity_poly_seq_length": 698,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 5",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LF",
+            "entity_poly_seq_one_letter_code": "CGUUGAACAAUGGAUCCUACGUGGACCAUGACUGGUAAGC(A2M)G(OMU)GCUGGUGAUGCGGGGUGCUCCGAGAGCAGACUUACAGAUCCCGAGUGC(OMU)GGCUCAUACUCAGA(PSU)CCCA(OMC)AAAGGAUG(PSU)UGC(PSU)UACUACGGAUAGCAGGUCGGUGGCCAUGAAGGUUGGAACCCGCUGAGGAAUGUGUAACAACUCACCUGCCGAAGU(OMG)CGCA(OMG)CUCCGAAAAUGGA(OMU)G(OMG)UGCCCAAG(PSU)CAGUGUGUCUCCCUUACAGUCUGCCAUCGAUGUGGCAGCCAAGGC(A2M)GAGCAUCGUUGUGUAGAAAGGGCAUGGACAACAGCUGAUCGUGUUGGGAUUGAUCCCGGCUUGAGGCGUUGCCCAG(A2M)GCA(OMG)AU(OMC)U(OMU)G(OMG)U(OMU)GUAGUA(OMG)(OMC)GAGUACUCCACCUGGAGAG(OMG)AG(PSU)GGCAACACAACCCCGC(PSU)GUGUGC(OMG)GUUG(A2M)GG(A2M)CUGGAG(OMU)GGAGCAGGUUUCCACACCAAACAG(JMC)CG(PSU)UG(A2M)AUGUGGGUCAACCGACCGUGAGCCAA(OMG)(OMU)GGUAAGUUCACCGAACAA(OMC)CAAAGCUGCCUC",
+            "entity_poly_seq_one_letter_code_can": "CGUUGAACAAUGGAUCCUACGUGGACCAUGACUGGUAAGCAGUGCUGGUGAUGCGGGGUGCUCCGAGAGCAGACUUACAGAUCCCGAGUGCUGGCUCAUACUCAGAUCCCACAAAGGAUGUUGCUUACUACGGAUAGCAGGUCGGUGGCCAUGAAGGUUGGAACCCGCUGAGGAAUGUGUAACAACUCACCUGCCGAAGUGCGCAGCUCCGAAAAUGGAUGGUGCCCAAGUCAGUGUGUCUCCCUUACAGUCUGCCAUCGAUGUGGCAGCCAAGGCAGAGCAUCGUUGUGUAGAAAGGGCAUGGACAACAGCUGAUCGUGUUGGGAUUGAUCCCGGCUUGAGGCGUUGCCCAGAGCAGAUCUUGGUUGUAGUAGCGAGUACUCCACCUGGAGAGGAGUGGCAACACAACCCCGCUGUGUGCGGUUGAGGACUGGAGUGGAGCAGGUUUCCACACCAAACAGXCGUUGAAUGUGGGUCAACCGACCGUGAGCCAAGUGGUAAGUUCACCGAACAACCAAAGCUGCCUC",
+            "entity_poly_seq_length": 527,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 6",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LG",
+            "entity_poly_seq_one_letter_code": "GGGCAGGAA(OMU)GGCAA(A2M)CAG(OMG)CAAGUGCGAGCA(A2M)GAUUCUACUGUCAUGGGCUAGAGGUCCCUUCGGGUCGGUGGCGACACCCCCAAGGCAGCCCCUCCAGGCAUCGAACCAGUGAAUCCCCUGUGGAGU(PSU)CUCGU(PSU)UCC(OMU)CCUGAUGCAGACUCAC(OMG)CGGGCUA(PSU)CGAUCGGCAUGACAGA(PSU)GGUGGUGUAUGCCCUUCGCUCAGCAAGGCGGUGUGGUCUCCACACCGAUGGC",
+            "entity_poly_seq_one_letter_code_can": "GGGCAGGAAUGGCAAACAGGCAAGUGCGAGCAAGAUUCUACUGUCAUGGGCUAGAGGUCCCUUCGGGUCGGUGGCGACACCCCCAAGGCAGCCCCUCCAGGCAUCGAACCAGUGAAUCCCCUGUGGAGUUCUCGUUUCCUCCUGAUGCAGACUCACGCGGGCUAUCGAUCGGCAUGACAGAUGGUGGUGUAUGCCCUUCGCUCAGCAAGGCGGUGUGGUCUCCACACCGAUGGC",
+            "entity_poly_seq_length": 234,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 8",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LI",
+            "entity_poly_seq_one_letter_code": "GGUGCGAGCCUGCAGUGAAAUACCACUACCU(PSU)CACCGUUGUUUUACUCAUCGAGUUGCAAGAGAGCGGUGGCCA(PSU)UUGGACAUCGACCCUGCCCUUGUGGUGGGAUCGU(PSU)GCUUUCCCCGAUUCAUGCACCAAGUCUGCAGCAGUCUCUGUUGUGGACGACUCUGGACGUGUCACAG(PSU)CCGAUCAGCAGUC(OMU)CGAAACA(PSU)CGA(OMU)CAG(PSU)UGGGGAGUU(PSU)G(OMG)CUG(OMG)GGCGGCACGCCU(PSU)U(PSU)A(OMC)AACAC(6MZ)ACGAAGG(OMC)(OMG)UCCUGAAGCAUUGCUCAGGCAGAACAGAAAUCUCCCAGGGAGGAGAAGGCCAAAGGUGCUGCUGAUGCUGCGACUC(OMU)CAGUACGAGUCCGA(A2M)ACGUGCAAUCGUGGCC(PSU)AACGAUCCUUUGGU(OMC)(A2M)AGUGUG(OMC)GAAUUCUGGAU(A2M)UCGAAG(OMC)CA(OMG)A(OMG)GUGUCAGAAAAAUUACCACAG(OMG)GAUAACUGGC(PSU)UGUGGCUGCCAAGCGUUCAAA(OMG)CGACG(PSU)CGC(PSU)U(PSU)UUGA(PSU)CCUU(5MC)GAUGUCGG(OMC)UCUUCCUAGCUUCCCACCCGCAGCCGAGUGGAAG(A2M)GU(PSU)(OMG)GAU(OMU)(OMG)(PSU)UCACCCA(5MC)CA(A2M)CAGGGAACG(PSU)G(A2M)G(OMC)UGGG(UR3)U(PSU)AGA(OMC)CGUCGUGAGACAGGU(PSU)GGUUU(PSU)ACCCUCCUGCCACAGA",
+            "entity_poly_seq_one_letter_code_can": "GGUGCGAGCCUGCAGUGAAAUACCACUACCUUCACCGUUGUUUUACUCAUCGAGUUGCAAGAGAGCGGUGGCCAUUUGGACAUCGACCCUGCCCUUGUGGUGGGAUCGUUGCUUUCCCCGAUUCAUGCACCAAGUCUGCAGCAGUCUCUGUUGUGGACGACUCUGGACGUGUCACAGUCCGAUCAGCAGUCUCGAAACAUCGAUCAGUUGGGGAGUUUGGCUGGGGCGGCACGCCUUUUACAACACAACGAAGGCGUCCUGAAGCAUUGCUCAGGCAGAACAGAAAUCUCCCAGGGAGGAGAAGGCCAAAGGUGCUGCUGAUGCUGCGACUCUCAGUACGAGUCCGAAACGUGCAAUCGUGGCCUAACGAUCCUUUGGUCAAGUGUGCGAAUUCUGGAUAUCGAAGCCAGAGGUGUCAGAAAAAUUACCACAGGGAUAACUGGCUUGUGGCUGCCAAGCGUUCAAAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAGCUUCCCACCCGCAGCCGAGUGGAAGAGUUGGAUUGUUCACCCACCAACAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUGGUUUUACCCUCCUGCCACAGA",
+            "entity_poly_seq_length": 617,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 9",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LJ",
+            "entity_poly_seq_one_letter_code": "UGGGCG(PSU)GACAAUGGCAUCACAUGGUAGUACGAGAGGAACCCUUGUGGCAC(OMU)CCCCUGG(PSU)UUCCACCGUGAGUCGAGCGACUGGUGUAGUGAAGC(PSU)ACCAAGU(OMG)ACGGA(OMU)AC(PSU)GAC(PSU)GGACGCAUCUUAAGCC(OMU)GAAUCCGAGACCAGGCCUACAGCAUGCCUG",
+            "entity_poly_seq_one_letter_code_can": "UGGGCGUGACAAUGGCAUCACAUGGUAGUACGAGAGGAACCCUUGUGGCACUCCCCUGGUUUCCACCGUGAGUCGAGCGACUGGUGUAGUGAAGCUACCAAGUGACGGAUACUGACUGGACGCAUCUUAAGCCUGAAUCCGAGACCAGGCCUACAGCAUGCCUG",
+            "entity_poly_seq_length": 164,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 10",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LK",
+            "entity_poly_seq_one_letter_code": "GGAGCAUCGAGGCAGAGCAGUACCCUUCUGGGUCUGCGCCAACACCAACUGGAUCUGAACUGGC",
+            "entity_poly_seq_one_letter_code_can": "GGAGCAUCGAGGCAGAGCAGUACCCUUCUGGGUCUGCGCCAACACCAACUGGAUCUGAACUGGC",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 11",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LL",
+            "entity_poly_seq_one_letter_code": "CGGAGUGAUUGCCGGCACCGGAUGUGGUGUGCAGGCCUGCGAGAUGGCAACA(PSU)UGAGUGGGCAGGCUGCAAGCCUCCUGCCGGUCGGACAAAC(A2M)G",
+            "entity_poly_seq_one_letter_code_can": "CGGAGUGAUUGCCGGCACCGGAUGUGGUGUGCAGGCCUGCGAGAUGGCAACAUUGAGUGGGCAGGCUGCAAGCCUCCUGCCGGUCGGACAAACAG",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 12",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LM",
+            "entity_poly_seq_one_letter_code": "CCAACACCCCGCCCAGACCAGGCUGGAUCUGCGGCGAGUGUAAG(PSU)GUU(OMC)AGAGG(PSU)UAU",
+            "entity_poly_seq_one_letter_code_can": "CCAACACCCCGCCCAGACCAGGCUGGAUCUGCGGCGAGUGUAAGUGUUCAGAGGUUAU",
+            "entity_poly_seq_length": 58,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 13",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LN",
+            "entity_poly_seq_one_letter_code": "UG(PSU)CCGAUCCGUUGAGCUCCAAGGCCGGGCUUCUGCAGGGAGUGGCUUCGGCUGCCCCUGCUGGGGCCGACCUGACAGAGUGGGUG",
+            "entity_poly_seq_one_letter_code_can": "UGUCCGAUCCGUUGAGCUCCAAGGCCGGGCUUCUGCAGGGAGUGGCUUCGGCUGCCCCUGCUGGGGCCGACCUGACAGAGUGGGUG",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "5S rRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LO",
+            "entity_poly_seq_one_letter_code": "GCGUACGGCCAUACUACCGGGAAUACACCUGAACCCGUUCGAUUUCAGAAGUUAAGCCUGGUCAGGCCCAGUUAGUACUGAGGUGGGCGACCACUUGGGAACACUGGGUGCUGUACGCUU",
+            "entity_poly_seq_one_letter_code_can": "GCGUACGGCCAUACUACCGGGAAUACACCUGAACCCGUUCGAUUUCAGAAGUUAAGCCUGGUCAGGCCCAGUUAGUACUGAGGUGGGCGACCACUUGGGAACACUGGGUGCUGUACGCUU",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "A-tRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "S2",
+            "entity_poly_seq_one_letter_code": "GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAA(MIA)AUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACCA",
+            "entity_poly_seq_one_letter_code_can": "GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCACCA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "5.8S rRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LA",
+            "entity_poly_seq_one_letter_code": "ACCUGUUGUGGUGGA(PSU)GUCUUGGCCCAGGUUCUGAGGA(A2M)G(OMG)ACACAGCAGCCUUGCGAUACGUUCGG(PSU)GAUAC(OMG)CAGAGUCUUGUGAUCUGGACAA(A2M)GGAACAGCUUCGAACGCAACUGGCCAGCAAGGGGUUCCCCCCCGAGCUGCCUGUGCGCCAGUGUUG",
+            "entity_poly_seq_one_letter_code_can": "ACCUGUUGUGGUGGAUGUCUUGGCCCAGGUUCUGAGGAAGGACACAGCAGCCUUGCGAUACGUUCGGUGAUACGCAGAGUCUUGUGAUCUGGACAAAGGAACAGCUUCGAACGCAACUGGCCAGCAAGGGGUUCCCCCCCGAGCUGCCUGUGCGCCAGUGUUG",
+            "entity_poly_seq_length": 163,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 3",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LD",
+            "entity_poly_seq_one_letter_code": "UGACCAAGCGUCUCUGGGUCAGCCCAGGGCUGGCCACCGAGCCCCUGUCUCCGGACAGGGAUGACUAUCGUGGCAGCCCCGUGGUGGCAGCUCCGCCUGCCAGGACCUGGAGUUUG",
+            "entity_poly_seq_one_letter_code_can": "UGACCAAGCGUCUCUGGGUCAGCCCAGGGCUGGCCACCGAGCCCCUGUCUCCGGACAGGGAUGACUAUCGUGGCAGCCCCGUGGUGGCAGCUCCGCCUGCCAGGACCUGGAGUUUG",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "LSU rRNA chain 7",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "LH",
+            "entity_poly_seq_one_letter_code": "AAGUGGCAGUCACUGGUU(OMC)CAAUGAACAGCCUGAAGGAUUCUCGUGCCUCAGGACCCUUGUGUCCGUACUGCAUCACCGCAGCCGGUCU(OMC)CUCGACUAGACGUCGC(PSU)UGUCCACGGACGAAA(OMU)G(OMC)(A2M)GCUAAGGG(A2M)AG(PSU)CGGCAAACUGGCCGUGCACCUUUGGAAGAUACGGUGGCUCCAGAGGCCAAGUCAGCAGGCCCUGUCGUGGGGGUUGUGGGAGUUACGGUCGAUCACCCUGUGGGAUGGCCUCUCGGGGCCGUUCUGCGGGGCUGUCUUCGCCGUGGCCUCUGCUUCAUCCCGGACAGGGGCAACCCUUCGGGUCCUCGUGGCCUGUAGGGCCGACCUGUUGACUAACCAGUGGC(PSU)CGUG(PSU)GGAACUGUUG(OMC)UG(OMU)GCAG(OMG)GGAAUC(PSU)GAC(PSU)G(PSU)(PSU)(OMU)AAUUGAAACC(JMH)AGCUU(PSU)GUGAAGGGACCAGCUGGCUGGUUCCGUGAGGUGACU(PSU)CUGCC(OMC)AGUGCUCUGAUUGUCAAUGCGA(A2M)GAGA(OMU)UCAGCCAAGCGCGGGUAAACGGCGGGAG(PSU)A(A2M)C(PSU)AUGAC(PSU)C(PSU)CUUAAGGUAGC(5MC)A(A2M)(A2M)UGCCUC(OMG)UCAACCAAUUAUUGACGCGCAUGAA(PSU)GGA(OMU)CA(A2M)CG(A2M)G(A2M)UUCCUGCUGU(OMC)CCUAGU(OMC)GC(OMU)G(PSU)CUGG(PSU)GAACCA(A2M)CAA(OMC)CAAGGGAACGGGCUUG(OMG)AUG(PSU)GUCA(OMG)CGG(OMG)GAA(A2M)GAAGACCCU(OMG)U(PSU)GAGU(B8H)UGAC(OMU)CUAG(PSU)(PSU)UGAU(A2M)CUGU(OMG)CAACAACAUGUGGGGCGUAGCAUAGGUGGGAGGUGAGUGCCA",
+            "entity_poly_seq_one_letter_code_can": "AAGUGGCAGUCACUGGUUCCAAUGAACAGCCUGAAGGAUUCUCGUGCCUCAGGACCCUUGUGUCCGUACUGCAUCACCGCAGCCGGUCUCCUCGACUAGACGUCGCUUGUCCACGGACGAAAUGCAGCUAAGGGAAGUCGGCAAACUGGCCGUGCACCUUUGGAAGAUACGGUGGCUCCAGAGGCCAAGUCAGCAGGCCCUGUCGUGGGGGUUGUGGGAGUUACGGUCGAUCACCCUGUGGGAUGGCCUCUCGGGGCCGUUCUGCGGGGCUGUCUUCGCCGUGGCCUCUGCUUCAUCCCGGACAGGGGCAACCCUUCGGGUCCUCGUGGCCUGUAGGGCCGACCUGUUGACUAACCAGUGGCUCGUGUGGAACUGUUGCUGUGCAGGGGAAUCUGACUGUUUAAUUGAAACCCAGCUUUGUGAAGGGACCAGCUGGCUGGUUCCGUGAGGUGACUUCUGCCCAGUGCUCUGAUUGUCAAUGCGAAGAGAUUCAGCCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAACCAAUUAUUGACGCGCAUGAAUGGAUCAACGAGAUUCCUGCUGUCCCUAGUCGCUGUCUGGUGAACCAACAACCAAGGGAACGGGCUUGGAUGUGUCAGCGGGGAAAGAAGACCCUGUUGAGUUUGACUCUAGUUUGAUACUGUGCAACAACAUGUGGGGCGUAGCAUAGGUGGGAGGUGAGUGCCA",
+            "entity_poly_seq_length": 744,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZJ3",
+            "rcsb_pdbx_description": "A-site tRNA",
+            "rcsb_source_organism_description": [
+                "Euglena gracilis"
+            ],
+            "rcsb_source_organism_id": [
+                3039
+            ],
+            "entity_poly_strand_id": "S5",
+            "entity_poly_seq_one_letter_code": "CACCAUGUUCAA",
+            "entity_poly_seq_one_letter_code_can": "CACCAUGUUCAA",
+            "entity_poly_seq_length": 12,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

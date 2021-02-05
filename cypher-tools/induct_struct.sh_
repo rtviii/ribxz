@@ -4,7 +4,7 @@
 
 NEOIMPORT='/var/lib/neo4j/import'
 USER='rt'
-PASS='55288'
+PASS='rrr'
 
 # The current instance of the neo4j database.
 DATABASE_NAME='rxz'
@@ -138,7 +138,9 @@ merge (s:rRNA{
         entity_poly_entity_type            :rna.entity_poly_entity_type
         })-[:rRNA_of]->(struct)
 on create set s.rcsb_pdbx_description = CASE WHEN rna.rcsb_pdbx_description = null then "null"  else rna.rcsb_pdbx_description END
+
 with value, struct
+
 unwind value.ligands as lig
 merge (l:Ligand {
         chemicalId      : lig.chemicalId,
@@ -146,4 +148,5 @@ merge (l:Ligand {
         cif_residueId   : lig.cif_residueId,
         formula_weight  : lig.formula_weight,
         pdbx_description: lig.pdbx_description})
+
 merge (l)<-[:ContainsLigand{cif_residueId: lig.cif_residueId}]-(struct)" | cypher-shell -u $USER -p $PASS -d $DATABASE_NAME --format plain

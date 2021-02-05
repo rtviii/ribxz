@@ -1,5 +1,4 @@
 import axios from "axios";
-import { RibosomeStructure } from "../types";
 // import { openMain, updateMain } from "../helpers/help";
 
 interface Description {

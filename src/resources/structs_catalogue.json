@@ -1357,8 +1357,8 @@
             "MG"
         ],
         "species": [
-            "Escherichia coli k-12",
-            "Escherichia coli K-12"
+            "Escherichia coli K-12",
+            "Escherichia coli k-12"
         ]
     },
     "3JCJ": {
@@ -6885,6 +6885,492 @@
         ],
         "species": [
             "Homo sapiens"
+        ]
+    },
+    "2ZJR": {
+        "reso": 2.91,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Deinococcus radiodurans"
+        ]
+    },
+    "2ZJQ": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [],
+        "species": [
+            "Deinococcus radiodurans"
+        ]
+    },
+    "3DLL": {
+        "reso": 3.5,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "ZLD",
+            "ZN"
+        ],
+        "species": [
+            "Deinococcus radiodurans"
+        ]
+    },
+    "4CSU": {
+        "reso": 5.5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "ESCHERICHIA COLI"
+        ]
+    },
+    "4D67": {
+        "reso": 9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "ORYCTOLAGUS CUNICULUS"
+        ]
+    },
+    "4D5Y": {
+        "reso": 9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "ORYCTOLAGUS CUNICULUS"
+        ]
+    },
+    "4D61": {
+        "reso": 9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "ORYCTOLAGUS CUNICULUS",
+            "HOMO SAPIENS"
+        ]
+    },
+    "4D5L": {
+        "reso": 9,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "ORYCTOLAGUS CUNICULUS"
+        ]
+    },
+    "4LT8": {
+        "reso": 3.14000177152,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "4LSK": {
+        "reso": 3.48000627319,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "PAR",
+            "ZN"
+        ],
+        "species": [
+            "Thermus thermophilus"
+        ]
+    },
+    "3J8G": {
+        "reso": 5,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Escherichia coli K12"
+        ]
+    },
+    "3JBO": {
+        "reso": 5.8,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Plasmodium falciparum 3D7"
+        ]
+    },
+    "3JCN": {
+        "reso": 4.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "GNP",
+            "FME"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "3G71": {
+        "reso": 2.85,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "NA",
+            "CL",
+            "SR",
+            "WIN",
+            "CD"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3G6E": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "K",
+            "NA",
+            "CL",
+            "SR",
+            "HMT",
+            "CD"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CC2": {
+        "reso": 2.4,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "NA",
+            "CL",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCL": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCM": {
+        "reso": 2.55,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCQ": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCR": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "K",
+            "CD"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCE": {
+        "reso": 2.75,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCJ": {
+        "reso": 3.3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "K",
+            "CD"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CC4": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K",
+            "ANM"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CC7": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCS": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "K",
+            "CD"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCU": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CD6": {
+        "reso": 2.75,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CCV": {
+        "reso": 2.9,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CME": {
+        "reso": 2.95,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K",
+            "PHE",
+            "ACA"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CMA": {
+        "reso": 2.8,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "MG",
+            "CL",
+            "SR",
+            "NA",
+            "CD",
+            "K",
+            "PHE",
+            "ACA"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CPW": {
+        "reso": 2.7,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "ZLD",
+            "MG",
+            "K",
+            "NA",
+            "CL",
+            "SR",
+            "CD",
+            "ACE"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "3CXC": {
+        "reso": 3,
+        "method": "X-RAY DIFFRACTION",
+        "ligands": [
+            "SLD",
+            "MG",
+            "K",
+            "NA",
+            "CL",
+            "CD"
+        ],
+        "species": [
+            "Haloarcula marismortui"
+        ]
+    },
+    "4ADX": {
+        "reso": 6.6,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "METHANOTHERMOBACTER THERMAUTOTROPHICUS"
+        ]
+    },
+    "3BBX": {
+        "reso": 10,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG"
+        ],
+        "species": [
+            "Escherichia coli"
+        ]
+    },
+    "3J3V": {
+        "reso": 13.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Bacillus subtilis"
+        ]
+    },
+    "3J78": {
+        "reso": 6.3,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "3J6X": {
+        "reso": 6.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "3J6Y": {
+        "reso": 6.1,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "3J77": {
+        "reso": 6.2,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [],
+        "species": [
+            "Saccharomyces cerevisiae"
+        ]
+    },
+    "3J81": {
+        "reso": 4,
+        "method": "ELECTRON MICROSCOPY",
+        "ligands": [
+            "MG",
+            "ZN",
+            "MET"
+        ],
+        "species": [
+            "Kluyveromyces lactis",
+            "Saccharomyces cerevisiae"
         ]
     }
 }

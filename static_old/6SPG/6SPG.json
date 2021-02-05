@@ -1,0 +1,1725 @@
+{
+    "rcsb_id": "6SPG",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.34,
+    "rcsb_external_ref_id": [
+        "EMD-10285"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-10285"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.34,
+    "cryoem_exp_num_particles": 128795,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2019,
+    "citation_rcsb_authors": [
+        "Halfon, Y.",
+        "Jimenez-Fernandez, A.",
+        "La Rosa, R.",
+        "Espinosa Portero, R.",
+        "Krogh Johansen, H.",
+        "Matzov, D.",
+        "Eyal, Z.",
+        "Bashan, A.",
+        "Zimmerman, E.",
+        "Belousoff, M.",
+        "Molin, S.",
+        "Yonath, A."
+    ],
+    "citation_title": "Structure ofPseudomonas aeruginosaribosomes from an aminoglycoside-resistant clinical isolate.",
+    "citation_pdbx_doi": "10.1073/pnas.1909831116",
+    "pdbx_keywords_text": "Ribosome, Pseudomonas aeruginosa",
+    "_organismId": [
+        287
+    ],
+    "_organismName": [
+        "Pseudomonas aeruginosa"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZPV8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S2",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "QVNMRDMLKAGVHFGHQTRYWNPKMGKFIFGARNKIHIINLEKTLPMFNEALTFVERLAAGKNKILFVGTKRSAGKIVREEAARCGMPYVDHRWLGGMLTNYKTIRQSIKRLRDLETQSQDGTFDKLTKKEALMRSRDLEKLERSLGGIKDMGGLPDALFVIDVDHERIAITEANKLGIPVIGVVDTNSSPEGVDYVIPGNDDAIRAVQLYLNSMAEAVIRGKQGAATSADEFVEEAPA",
+            "entity_poly_seq_one_letter_code_can": "QVNMRDMLKAGVHFGHQTRYWNPKMGKFIFGARNKIHIINLEKTLPMFNEALTFVERLAAGKNKILFVGTKRSAGKIVREEAARCGMPYVDHRWLGGMLTNYKTIRQSIKRLRDLETQSQDGTFDKLTKKEALMRSRDLEKLERSLGGIKDMGGLPDALFVIDVDHERIAITEANKLGIPVIGVVDTNSSPEGVDYVIPGNDDAIRAVQLYLNSMAEAVIRGKQGAATSADEFVEEAPA",
+            "entity_poly_seq_length": 239,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A140S919"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "QKVHPNGIRLGIVKEHTSVWYADRKNYADYLFADLKVREYLQDKLKSASVSRIDIHRPAQTARITIHTARPGIVIGKKGEDVEKLRQDLTKQMGVPVHINIEEIRKPELDAMLVAQSVAQQLERRVMFRRAMKRAVQNAMRIGAKGIKIQVSGRLGGAEIARTEWYREGRVPLHTLRADIDYATYEAHTTYGVIGVKVWIFKGEV",
+            "entity_poly_seq_one_letter_code_can": "QKVHPNGIRLGIVKEHTSVWYADRKNYADYLFADLKVREYLQDKLKSASVSRIDIHRPAQTARITIHTARPGIVIGKKGEDVEKLRQDLTKQMGVPVHINIEEIRKPELDAMLVAQSVAQQLERRVMFRRAMKRAVQNAMRIGAKGIKIQVSGRLGGAEIARTEWYREGRVPLHTLRADIDYATYEAHTTYGVIGVKVWIFKGEV",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZDF7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "ARYIGPKCKLSRREGTDLFLKSGARALDSKCKAENVPGQHGQRRGRLSDYGLQLREKQKVRRIYGVLERQFRGYYQEASRRKGSTGENLLQLLECRLDNVVYRMGFGSTRSESRQLVSHKAITVNGQTVNIPSYQVKAGDVVAVREKSKNQLRIAQALELCGQRGRVEWVEVDLDKKAGTFKSAPARSDLSADINENLIVELYSK",
+            "entity_poly_seq_one_letter_code_can": "ARYIGPKCKLSRREGTDLFLKSGARALDSKCKAENVPGQHGQRRGRLSDYGLQLREKQKVRRIYGVLERQFRGYYQEASRRKGSTGENLLQLLECRLDNVVYRMGFGSTRSESRQLVSHKAITVNGQTVNIPSYQVKAGDVVAVREKSKNQLRIAQALELCGQRGRVEWVEVDLDKKAGTFKSAPARSDLSADINENLIVELYSK",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A241XG65"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "GYIEKLVQVNRVAKTVKGGRIFAFTALTVVGDGKGRVGFGRGKAREVPAAIQKAMEAARRNMIQVDLNGTTLQYPTKSAHGASKVYMQPASEGTGIIAGGAMRAVLEVAGVQNVLAKCYGSTNPVNVVYATFKGLKNMQAPEAVAAKRGKSVEEIL",
+            "entity_poly_seq_one_letter_code_can": "GYIEKLVQVNRVAKTVKGGRIFAFTALTVVGDGKGRVGFGRGKAREVPAAIQKAMEAARRNMIQVDLNGTTLQYPTKSAHGASKVYMQPASEGTGIIAGGAMRAVLEVAGVQNVLAKCYGSTNPVNVVYATFKGLKNMQAPEAVAAKRGKSVEEIL",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069Q263"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "RHYEIVFLVHPDQSEQVGGMVERYTKAIEEDGGKIHRLEDWGRRQLAYAINNVHKAHYVLMNVECSAKALAELEDNFRYNDAVIRNLVMRRDEAVTEQSEMLKAE",
+            "entity_poly_seq_one_letter_code_can": "RHYEIVFLVHPDQSEQVGGMVERYTKAIEEDGGKIHRLEDWGRRQLAYAINNVHKAHYVLMNVECSAKALAELEDNFRYNDAVIRNLVMRRDEAVTEQSEMLKAE",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A2V3F2U6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "RRRVAAKREVLADPKYGSQILAKFMNHVMESGKKAVAERIVYGALDKVKERGKADPLETFEKALDAIAPLVEVKSRRVGGATYQVPVEVRPSRRNALAMRWLVDFARKRGEKSMALRLAGELLDAAEGKGAAVKKREDVHRMAEANKAFSHYRF",
+            "entity_poly_seq_one_letter_code_can": "RRRVAAKREVLADPKYGSQILAKFMNHVMESGKKAVAERIVYGALDKVKERGKADPLETFEKALDAIAPLVEVKSRRVGGATYQVPVEVRPSRRNALAMRWLVDFARKRGEKSMALRLAGELLDAAEGKGAAVKKREDVHRMAEANKAFSHYRF",
+            "entity_poly_seq_length": 154,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT9"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "SMQDPLADMLTRIRNAQMAEKTVVSMPSSKLKAAVAKVLKDEGYIADFQISSEVKPQLSIELKYFEGKPVIEEVKRISRPGLRQYKSVEQLPKVRGGLGVSIVSTNKGVMTDRAARAAGVGGEVLCTVF",
+            "entity_poly_seq_one_letter_code_can": "SMQDPLADMLTRIRNAQMAEKTVVSMPSSKLKAAVAKVLKDEGYIADFQISSEVKPQLSIELKYFEGKPVIEEVKRISRPGLRQYKSVEQLPKVRGGLGVSIVSTNKGVMTDRAARAAGVGGEVLCTVF",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069PXX1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "ATQNYGTGRRKTATARVFLRPGTGKISINNRGLDQFFGRETARMVVRQPLELTETVEKFDIFVTVVGGGVSGQAGAIRHGITRALIEYDETLRSSLRKAGYVTRDAREVERKKVGLRKARKRPQYS",
+            "entity_poly_seq_one_letter_code_can": "ATQNYGTGRRKTATARVFLRPGTGKISINNRGLDQFFGRETARMVVRQPLELTETVEKFDIFVTVVGGGVSGQAGAIRHGITRALIEYDETLRSSLRKAGYVTRDAREVERKKVGLRKARKRPQYS",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "IRLKAFDHRLIDQSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKTVDALMKLDLAAGVEVQISLG",
+            "entity_poly_seq_one_letter_code_can": "IRLKAFDHRLIDQSTQEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKDARDQYEIRTHKRVLDIVQPTDKTVDALMKLDLAAGVEVQISLG",
+            "entity_poly_seq_length": 96,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXU4"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "KTVVDGIAHIHASFNNTIVTITDRQGNALSWATSGGSGFRGSRKSTPFAAQVAAERAGQAALEYGLKNLDVNVKGPGPGRESAVRALNACGYKIASITDVTPIPHNGCRPPKKRR",
+            "entity_poly_seq_one_letter_code_can": "KTVVDGIAHIHASFNNTIVTITDRQGNALSWATSGGSGFRGSRKSTPFAAQVAAERAGQAALEYGLKNLDVNVKGPGPGRESAVRALNACGYKIASITDVTPIPHNGCRPPKKRR",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A071L394"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "ATINQLVRKPRKRMVDKSDVPALQNCPQRRGVCTRVYTTTPKKPNSALRKVCRVRLTNGFEVSSYIGGEGHNLQEHSVVLIRGGRVKDLPGVRYHTVRGSLDTSGVKDRKQGRSKYGAKRP",
+            "entity_poly_seq_one_letter_code_can": "ATINQLVRKPRKRMVDKSDVPALQNCPQRRGVCTRVYTTTPKKPNSALRKVCRVRLTNGFEVSSYIGGEGHNLQEHSVVLIRGGRVKDLPGVRYHTVRGSLDTSGVKDRKQGRSKYGAKRP",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXU3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "RIAGVNIPDNKHTVISLTYIYGVGRTTAQSICAATGVNPAAKIKDLSDEQIDQLRNEVAKITTEGDLRREINMNIKRLMDLGCYRGLRHRRGLPVRGQRTKTNARTRKGP",
+            "entity_poly_seq_one_letter_code_can": "RIAGVNIPDNKHTVISLTYIYGVGRTTAQSICAATGVNPAAKIKDLSDEQIDQLRNEVAKITTEGDLRREINMNIKRLMDLGCYRGLRHRRGLPVRGQRTKTNARTRKGP",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "KESMKNRELKRQLTVAKYAKKRAELKAIIANPNSSAEERWNAQVALQKQPRDASASRLRNRCRLTGRPHGFYRKFGLSRNKLREAAMRGDVPGLVKAS",
+            "entity_poly_seq_one_letter_code_can": "KESMKNRELKRQLTVAKYAKKRAELKAIIANPNSSAEERWNAQVALQKQPRDASASRLRNRCRLTGRPHGFYRKFGLSRNKLREAAMRGDVPGLVKAS",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A071L3R7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "LSVEEKAQIVNEYKQAEGDTGSPEVQVALLSANINKLQDHFKANGKDHHSRRGLIRMVNQRRKLLDYLKGKDVSRYTALIGRLGLR",
+            "entity_poly_seq_one_letter_code_can": "LSVEEKAQIVNEYKQAEGDTGSPEVQVALLSANINKLQDHFKANGKDHHSRRGLIRMVNQRRKLLDYLKGKDVSRYTALIGRLGLR",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A2V4FRZ2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S16",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MVTIRLARGGSKKRPFYHLTVTNSRNARDGRFVERIGFFNPVATGGEVRLSVDQERATYWLGQGAQPSERVAQLLKDA",
+            "entity_poly_seq_one_letter_code_can": "MVTIRLARGGSKKRPFYHLTVTNSRNARDGRFVERIGFFNPVATGGEVRLSVDQERATYWLGQGAQPSERVAQLLKDA",
+            "entity_poly_seq_length": 78,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "RTLTGRVVSDKMDKTVTVLIERRVKHPIYGKYVKRSTKLHAHDESNQCRIGDLVTIRETRPLAKTKAWTLVDIVER",
+            "entity_poly_seq_one_letter_code_can": "RTLTGRVVSDKMDKTVTVLIERRVKHPIYGKYVKRSTKLHAHDESNQCRIGDLVTIRETRPLAKTKAWTLVDIVER",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A2V3DLV3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S18",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "FFRRRRFCRFTAEGVKEIDYKDLNTLKAYVSETGKIVPSRITGTKAKYQRQLATAIKRARYLALLPYTDSH",
+            "entity_poly_seq_one_letter_code_can": "FFRRRRFCRFTAEGVKEIDYKDLNTLKAYVSETGKIVPSRITGTKAKYQRQLATAIKRARYLALLPYTDSH",
+            "entity_poly_seq_length": 71,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "PRSLKKGPFIDLHLLKKVEVAVEKNDRKPIKTWSRRSMILPHMVGLTIAVHNGRQHVPVLVNEDMVGHKLGEFAATRTYR",
+            "entity_poly_seq_one_letter_code_can": "PRSLKKGPFIDLHLLKKVEVAVEKNDRKPIKTWSRRSMILPHMVGLTIAVHNGRQHVPVLVNEDMVGHKLGEFAATRTYR",
+            "entity_poly_seq_length": 80,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "Bacterial ribosomal protein S20 interacts with 16S rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S20"
+            ],
+            "pfam_accessions": [
+                "PF01649"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZDZ9"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S20",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "NTPSAKKRAKQAEKRRSHNASLRSMVRTYIKNVVKAIDAKDLEKAQAAFTAAVPVIDRMADKGIIHKNKAARHKSRLSGHIKALS",
+            "entity_poly_seq_one_letter_code_can": "NTPSAKKRAKQAEKRRSHNASLRSMVRTYIKNVVKAIDAKDLEKAQAAFTAAVPVIDRMADKGIIHKNKAARHKSRLSGHIKALS",
+            "entity_poly_seq_length": 85,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S21"
+            ],
+            "pfam_accessions": [
+                "PF01165"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069QC99"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S21",
+            "entity_poly_strand_id": "u",
+            "entity_poly_seq_one_letter_code": "KVKENEPFDVALRRFKRSCEKAGALAEVRSREFYEKPTAERKRKAAAAVKRHAKKVQREQRRR",
+            "entity_poly_seq_one_letter_code_can": "KVKENEPFDVALRRFKRSCEKAGALAEVRSREFYEKPTAERKRKAAAAVKRHAKKVQREQRRR",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A241XHA2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "IVKCKPTSAGRRFVVKVVNQELHKGAPYAPLLEKKSKSGGRNNNGRITTRHIGGGHKQHYRLVDFRRNKDGIPAIVERVEYDPNRTAHIALLKYADGERRYIIAPKGVAAGDQLISGIGAPIKAGNSMPLRNIPVGSTVHGIELKPGKGAQIARSAGASAQLVAREGAYVTLRLRSGEMRKVLAECRATLGEVSNSEHSLRSLGKAGATRWRGVRPTVRGVAMNPVDHPHGGGEGRTSAGRHPVSPWGLQTKGKKTRSNKRTDNMIVRRRK",
+            "entity_poly_seq_one_letter_code_can": "IVKCKPTSAGRRFVVKVVNQELHKGAPYAPLLEKKSKSGGRNNNGRITTRHIGGGHKQHYRLVDFRRNKDGIPAIVERVEYDPNRTAHIALLKYADGERRYIIAPKGVAAGDQLISGIGAPIKAGNSMPLRNIPVGSTVHGIELKPGKGAQIARSAGASAQLVAREGAYVTLRLRSGEMRKVLAECRATLGEVSNSEHSLRSLGKAGATRWRGVRPTVRGVAMNPVDHPHGGGEGRTSAGRHPVSPWGLQTKGKKTRSNKRTDNMIVRRRK",
+            "entity_poly_seq_length": 271,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZBZ2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "IGVVGRKCGMTRIFTEEGVSIPVTVIEVEPNRVTQFKTEETDGYRAVQVTAGERRASRVTKAQAGHFAKANVAAGRGVWEFRLGEEQYAAGDQITVDLFQAGQMVDVTGESKGKGFAGTIKRWNFRGQDNTHGNSVSHRVPGSIGQCQTPGRVFKGKKMSGHLGAERVTVQSLEIVRVDAERNLLLVKGAVPGATGGDVIVRPAAKA",
+            "entity_poly_seq_one_letter_code_can": "IGVVGRKCGMTRIFTEEGVSIPVTVIEVEPNRVTQFKTEETDGYRAVQVTAGERRASRVTKAQAGHFAKANVAAGRGVWEFRLGEEQYAAGDQITVDLFQAGQMVDVTGESKGKGFAGTIKRWNFRGQDNTHGNSVSHRVPGSIGQCQTPGRVFKGKKMSGHLGAERVTVQSLEIVRVDAERNLLLVKGAVPGATGGDVIVRPAAKA",
+            "entity_poly_seq_length": 207,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A241XH26"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "QLNVNGAQAIEVSERTFGGEFNETLVHQAVVAYMAGGRQGSKAQKTRSEVSGGGKKPWRQKGTGRARAGTIRSPIWRGGGTTFAAKPRSHEQKLNKKMYRAALRSILAELVRLDRLVVVADFAVDAPKTKGLVAKLDTLGLKDVLIVTDGVDENLYLAARNLAHVDVRDVQGSDPVSLIAYDKVLVTVSAVKKFEELLG",
+            "entity_poly_seq_one_letter_code_can": "QLNVNGAQAIEVSERTFGGEFNETLVHQAVVAYMAGGRQGSKAQKTRSEVSGGGKKPWRQKGTGRARAGTIRSPIWRGGGTTFAAKPRSHEQKLNKKMYRAALRSILAELVRLDRLVVVADFAVDAPKTKGLVAKLDTLGLKDVLIVTDGVDENLYLAARNLAHVDVRDVQGSDPVSLIAYDKVLVTVSAVKKFEELLG",
+            "entity_poly_seq_length": 199,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZMU2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "RLKELYRKEIAPKLKEELQLANVMEVPRVTKITLNMGLGEAVGDKKIIENAVADLEKITGQKPVVTYARKSIAGFKIREGWPIGVKVTLRSDRMYEFLDRLLSISLPRVRDFRGLNAKSFDGRGNYSMGVKEQIIFPEIDYDKIDALRGLDITLTTTARTDDEGRALLRAFKFP",
+            "entity_poly_seq_one_letter_code_can": "RLKELYRKEIAPKLKEELQLANVMEVPRVTKITLNMGLGEAVGDKKIIENAVADLEKITGQKPVVTYARKSIAGFKIREGWPIGVKVTLRSDRMYEFLDRLLSISLPRVRDFRGLNAKSFDGRGNYSMGVKEQIIFPEIDYDKIDALRGLDITLTTTARTDDEGRALLRAFKFP",
+            "entity_poly_seq_length": 174,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L9, N-terminal domain",
+                "Ribosomal protein L9, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF01281",
+                "PF03948"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZKF0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L9",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "EVILLEKVANLGNLGDKVNIKGGYARNFLLPQGKATVATAENVAAFEARRAELEKAAAEKKAAAEARAAQLSELVVTL",
+            "entity_poly_seq_one_letter_code_can": "EVILLEKVANLGNLGDKVNIKGGYARNFLLPQGKATVATAENVAAFEARRAELEKAAAEKKAAAEARAAQLSELVVTL",
+            "entity_poly_seq_length": 78,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "The N-terminal domain of Ribosomal protein L11 adopts an  alpha/beta fold and is followed by the RNA binding C-terminal domain.",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L11, N-terminal domain",
+                "Ribosomal protein L11, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03946",
+                "PF00298"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A2V3GYK0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L11",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "KKIQAYIKLQVKAGQANPSPPVGPALGQHGVNIMEFCKAFNAKTQGQEPGLPTPVIITVYSDRSFTFETKSTPAAVLLKKAAGITSGSARPNSQKVGTVTRAQLEEIAKTKQADLTAADLDAAVRTIAGSARSMGLNVEG",
+            "entity_poly_seq_one_letter_code_can": "KKIQAYIKLQVKAGQANPSPPVGPALGQHGVNIMEFCKAFNAKTQGQEPGLPTPVIITVYSDRSFTFETKSTPAAVLLKKAAGITSGSARPNSQKVGTVTRAQLEEIAKTKQADLTAADLDAAVRTIAGSARSMGLNVEG",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MIQTQSMLDVADNSGARRVMCIKVLGGSHRRYAGIGDIIKVTVKEAIPRGKVKKGQVMTAVVVRTKHGVRRTDGSIIRFDGNAAVLLNNKQEPIGTRIFGPVTRELRTEKFMKIVSLAPE",
+            "entity_poly_seq_one_letter_code_can": "MIQTQSMLDVADNSGARRVMCIKVLGGSHRRYAGIGDIIKVTVKEAIPRGKVKKGQVMTAVVVRTKHGVRRTDGSIIRFDGNAAVLLNNKQEPIGTRIFGPVTRELRTEKFMKIVSLAPE",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A2V3D5Z8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "QLNDLRSAPGARREKHRPGRGIGSGLGKTGGRGHKGLTSRSGGKVAPGFEGGQQPLHRRLPKFGFVSLKAMDRAEVRTSELAKVEGDVVSLQTLKDANLINQHVQRVKVMLSGEVGRAVTLKGIAATKGARAAIEAAGGKFED",
+            "entity_poly_seq_one_letter_code_can": "QLNDLRSAPGARREKHRPGRGIGSGLGKTGGRGHKGLTSRSGGKVAPGFEGGQQPLHRRLPKFGFVSLKAMDRAEVRTSELAKVEGDVVSLQTLKDANLINQHVQRVKVMLSGEVGRAVTLKGIAATKGARAAIEAAGGKFED",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069QEB6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MLQPKRTKFRKQMTGHNRGLAHRGSKVSFGEYALKATSRGRLTARQIESARRALTRHVKRGGKIWIRVFPDKPVTKKPLEVRMGKGKGGVEYWVAQIQPGKVLYEIEGVSEELAREAFALAAAKLPLATSFVKRT",
+            "entity_poly_seq_one_letter_code_can": "MLQPKRTKFRKQMTGHNRGLAHRGSKVSFGEYALKATSRGRLTARQIESARRALTRHVKRGGKIWIRVFPDKPVTKKPLEVRMGKGKGGVEYWVAQIQPGKVLYEIEGVSEELAREAFALAAAKLPLATSFVKRT",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZCA1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MRHRKSGRHLSRTSAHRKAMFQNMAVSLFEHELIKTTLPKAKELRRVAEPLITLAKEDSVANRRLAFDRTRSKAAVGKLFNDLGKRYANRPGGYLRILKCGFRAGDNAPMAYVELVDR",
+            "entity_poly_seq_one_letter_code_can": "MRHRKSGRHLSRTSAHRKAMFQNMAVSLFEHELIKTTLPKAKELRRVAEPLITLAKEDSVANRRLAFDRTRSKAAVGKLFNDLGKRYANRPGGYLRILKCGFRAGDNAPMAYVELVDR",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXU0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "SVKKETRLRRARKARLKMRELETVRLCVYRSSQHIYAQVIAADGGKVLASASTLDKDLREGATGNIDAAKKVGQLVAERAKAAGVTQVAFDRSGFKYHGRVKALADAAREGGLEF",
+            "entity_poly_seq_one_letter_code_can": "SVKKETRLRRARKARLKMRELETVRLCVYRSSQHIYAQVIAADGGKVLASASTLDKDLREGATGNIDAAKKVGQLVAERAKAAGVTQVAFDRSGFKYHGRVKALADAAREGGLEF",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A263PZC6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "KIIQQIEAEQMNKEIPAFAPGDTVIVQVKVKEGDRQRLQAFEGVVIAKRNRGLNSAFTVRKISNGVGVERTFQTYSPIVDSLSVKRRGDVRKAKLYYLRALSGKAARIKEKLV",
+            "entity_poly_seq_one_letter_code_can": "KIIQQIEAEQMNKEIPAFAPGDTVIVQVKVKEGDRQRLQAFEGVVIAKRNRGLNSAFTVRKISNGVGVERTFQTYSPIVDSLSVKRRGDVRKAKLYYLRALSGKAARIKEKLV",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZDZ0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MYAVIVTGGKQHKVTEGEFLKVEKLDVATGEAIDFDRVLLVANGEDVKIGLPVVEGAKVTAEVVSHGRHDKVRIIKFRRRKHHMKRQGHRQWFTEIKITGIQ",
+            "entity_poly_seq_one_letter_code_can": "MYAVIVTGGKQHKVTEGEFLKVEKLDVATGEAIDFDRVLLVANGEDVKIGLPVVEGAKVTAEVVSHGRHDKVRIIKFRRRKHHMKRQGHRQWFTEIKITGIQ",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A1C7BCP0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "EVAAKLSGARISAQKARLVADQIRGKKVGEALNLLAFSSKKAAEIMKKVLESAVANAEHNEGADVDDLKVSTVFVNEGRSLKRIMPRAKGRADRIVKRSCHITVKVADK",
+            "entity_poly_seq_one_letter_code_can": "EVAAKLSGARISAQKARLVADQIRGKKVGEALNLLAFSSKKAAEIMKKVLESAVANAEHNEGADVDDLKVSTVFVNEGRSLKRIMPRAKGRADRIVKRSCHITVKVADK",
+            "entity_poly_seq_length": 109,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "NQERVFKVLLGPHISEKATGLADGKSQFVFKVATDATKLEIKKAVESLFSVKVQRVTTLNVKGKTKRTARGLGKRNDWKKAYIALQPGQDLD",
+            "entity_poly_seq_one_letter_code_can": "NQERVFKVLLGPHISEKATGLADGKSQFVFKVATDATKLEIKKAVESLFSVKVQRVTTLNVKGKTKRTARGLGKRNDWKKAYIALQPGQDLD",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXT7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MQKIRRDDEVIVIAGKDKGKRGKVLKVLADDRLVVGGVNLIKRHTKPNPMLGQQGGIVEKEAPLHVSNVAIFNTETSKADRVGFKVEDGKKIRVFKSTQKPVQ",
+            "entity_poly_seq_one_letter_code_can": "MQKIRRDDEVIVIAGKDKGKRGKVLKVLADDRLVVGGVNLIKRHTKPNPMLGQQGGIVEKEAPLHVSNVAIFNTETSKADRVGFKVEDGKKIRVFKSTQKPVQ",
+            "entity_poly_seq_length": 103,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family contains the C-terminal domain of ribosomal protein TL5. The N-terminal domain, which binds to 5S rRNA, is contained in family Ribosomal_L25p, Pfam:PF01386. Full length (N- and C-terminal domain) homologues of TL5 are also known as CTC proteins. TL5 or CTC are not found in Eukarya or Archaea. In some Bacteria, including E. coli, this ribosomal subunit occurs as a single domain protein (named Ribosomal subunit L25), where the only domain is homologous to TL5 N-terminal domain (hence included in family Pfam:PF01386). The function of the C-terminal domain of TLC is at present unknown.",
+                "Ribosomal protein L25 is an RNA binding protein, that binds 5S rRNA. This family includes Ctc from B. subtilis Swiss:P14194, which is induced by stress."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein TL5, C-terminal domain",
+                "Ribosomal L25p family"
+            ],
+            "pfam_accessions": [
+                "PF14693",
+                "PF01386"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZBM5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L25",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "FIVNAQVRSDLGKGASRRLRRNAGLVPAVVYGGDKEPQSVTLELREIAKLLENEAAFSHVIALNVGGVKETVLIKALQRHPAKGFVMHADFLRVVADHKLTAHVPLHFINEEVAVGVKQAGGEISHTISEVEVSCLPKDLPEFIEVDMAKVELGQIVHLSDLKAPKGVELVQLAHGNDLAVANIHASR",
+            "entity_poly_seq_one_letter_code_can": "FIVNAQVRSDLGKGASRRLRRNAGLVPAVVYGGDKEPQSVTLELREIAKLLENEAAFSHVIALNVGGVKETVLIKALQRHPAKGFVMHADFLRVVADHKLTAHVPLHFINEEVAVGVKQAGGEISHTISEVEVSCLPKDLPEFIEVDMAKVELGQIVHLSDLKAPKGVELVQLAHGNDLAVANIHASR",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A071LFT4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "TRNGRDSESKRLGVKLFGGQAVKAGNILVRLRGTKFHAGYGVGLGKDHTLFAKVDGVVKFETKGAFGRKYVSIVAA",
+            "entity_poly_seq_one_letter_code_can": "TRNGRDSESKRLGVKLFGGQAVKAGNILVRLRGTKFHAGYGVGLGKDHTLFAKVDGVVKFETKGAFGRKYVSIVAA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZIQ9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "SRVCQVTGKGPVTGNNISHAHNKTRRRFLPNLQHHRFWVESEKRFVRLRVSAKGMRIIDKRGIEAVLADLRARGEKF",
+            "entity_poly_seq_one_letter_code_can": "SRVCQVTGKGPVTGNNISHAHNKTRRRFLPNLQHHRFWVESEKRFVRLRVSAKGMRIIDKRGIEAVLADLRARGEKF",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL29",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "KANELREEKSGPVTGNNISHLLRDQFNLRMQKATGQLGQSHLLSQVKRDIARVKTVLNQQ",
+            "entity_poly_seq_one_letter_code_can": "KANELREEKSGPVTGNNISHLLRDQFNLRMQKATGQLGQSHLLSQVKRDIARVKTVLNQQ",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXU1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "ATVKVTLVKSLNGRLANHKACVKGLGLRRINHTVEVQDTPENRGMINKAYYLLRVEG",
+            "entity_poly_seq_one_letter_code_can": "ATVKVTLVKSLNGRLANHKACVKGLGLRRINHTVEVQDTPENRGMINKAYYLLRVEG",
+            "entity_poly_seq_length": 57,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31"
+            ],
+            "pfam_accessions": [
+                "PF01197"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A072ZJG4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "KADIHPTYEAIEATCSCGNVIKTRSTLCKPI",
+            "entity_poly_seq_one_letter_code_can": "KADIHPTYEAIEATCSCGNVIKTRSTLCKPI",
+            "entity_poly_seq_length": 31,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069QB25"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "AVQQNKKSRSARDMRRSHDALESNALSVEKSTGEVHLRHHVSPDGFYRGRKVV",
+            "entity_poly_seq_one_letter_code_can": "AVQQNKKSRSARDMRRSHDALESNALSVEKSTGEVHLRHHVSPDGFYRGRKVV",
+            "entity_poly_seq_length": 53,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A140SG33"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "RELIRLVSSAGTGHFYTTDKNKRTKPEKIEIKKYDPVVRQHVIYKEAKIK",
+            "entity_poly_seq_one_letter_code_can": "RELIRLVSSAGTGHFYTTDKNKRTKPEKIEIKKYDPVVRQHVIYKEAKIK",
+            "entity_poly_seq_length": 50,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A087L9L7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MKRTFQPSTLKRARVHGFRARMATKNGRQVLSRRRAKGRKRLTV",
+            "entity_poly_seq_one_letter_code_can": "MKRTFQPSTLKRARVHGFRARMATKNGRQVLSRRRAKGRKRLTV",
+            "entity_poly_seq_length": 44,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069QC44"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "PKMKTKSGAAKRFKKTAGGLKHKHAFKSHILTKMTTKRKRQLRGTSMLNKSDVARVERSLRLR",
+            "entity_poly_seq_one_letter_code_can": "PKMKTKSGAAKRFKKTAGGLKHKHAFKSHILTKMTTKRKRQLRGTSMLNKSDVARVERSLRLR",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "E2RXU2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "MKVRASVKKLCRNCKIIRRDGIVRVICSAEPRHKQRQG",
+            "entity_poly_seq_one_letter_code_can": "MKVRASVKKLCRNCKIIRRDGIVRVICSAEPRHKQRQG",
+            "entity_poly_seq_length": 38,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A2V3F3S9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "SRVAKNPVKLPAGVEIKLAGQQLSIKGAKGALELKVHPSVEVIQDSGELRFAARNGDQQTRAMAGTTRALVNNMVVGVSQGFERKLQLVGVGYKAQAKGQVLSLSLGFSHPVDYELPAGIVAETPSQTDILIKGIDKQLVGQVAAEIRDFRPPEPYKGKGVRYADEVVRRKEA",
+            "entity_poly_seq_one_letter_code_can": "SRVAKNPVKLPAGVEIKLAGQQLSIKGAKGALELKVHPSVEVIQDSGELRFAARNGDQQTRAMAGTTRALVNNMVVGVSQGFERKLQLVGVGYKAQAKGQVLSLSLGFSHPVDYELPAGIVAETPSQTDILIKGIDKQLVGQVAAEIRDFRPPEPYKGKGVRYADEVVRRKEA",
+            "entity_poly_seq_length": 173,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A071L356"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "KTYTAKPETVQRDWFVVDAAGQTLGRLATEIARRLRGKHKPEYTPHVDTGDYIVVINAEQVRVTGAKTTDKMYYHHSGFPGGIKSINFEKLIAKAPERVIETAVKGMLPKNPLGRDMYRKLKVYKGASHPHTAQQPQELKI",
+            "entity_poly_seq_one_letter_code_can": "KTYTAKPETVQRDWFVVDAAGQTLGRLATEIARRLRGKHKPEYTPHVDTGDYIVVINAEQVRVTGAKTTDKMYYHHSGFPGGIKSINFEKLIAKAPERVIETAVKGMLPKNPLGRDMYRKLKVYKGASHPHTAQQPQELKI",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "uniprot_accession": [
+                "A0A069QEE3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "ARVKRGVIARRRHKKILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGARQNGLSYSRLIAGLKKAAIEIDRKVLADLAVNEKAAFTAIVEKAKASLA",
+            "entity_poly_seq_one_letter_code_can": "ARVKRGVIARRRHKKILKLAKGYYGARSRVFRVAKQAVIKAGQYAYRDRRQRKRQFRALWIARINAGARQNGLSYSRLIAGLKKAAIEIDRKVLADLAVNEKAAFTAIVEKAKASLA",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6SPG",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "GUCAAGUGAAGAAGCGCAUACGGUGGAUGCCUUGGCAGUCAGAGGCGAUGAAAGACGUGGUAGCCUGCGAAAAGCUUCGGGGAGUCGGCAAACAGACUUUGAUCCGGAGAUCUCUGAAUGGGGGAACCCACCUAGGAUAACCUAGGUAUCUUGUACUGAAUCCAUAGGUGCAAGAGGCGAACCAGGGGAACUGAAACAUCUAAGUACCCUGAGGAAAAGAAAUCAACCGAGAUUCCCUUAGUAGUGGCGAGCGAACGGGGAUUAGCCCUUAAGCUUCAUUGAUUUUAGCGGAACGCUCUGGAAAGUGCGGCCAUAGUGGGUGAUAGCCCCGUACGCGAAAGGAUCUUUGAAGUGAAAUCAAGUAGGACGGAGCACGAGAAACUUUGUCUGAACAUGGGGGGACCAUCCUCCAAGGCUAAAUACUACUGACUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGCGAAAAGAACCCCGGAGAGGGGAGUGAAAUAGAACCUGAAACCGUAUGCGUACAAGCAGUGGGAGCCUACUUGUUAGGUGACUGCGUACCUUUUGUAUAAUGGGUCAGCGACUUAUAUUCAGUGGCAAGCUUAACCGUAUAGGGUAGGCGUAGCGAAAGCGAGUCUUAAUAGGGCGUUUAGUCGCUGGGUAUAGACCCGAAACCGGGCGAUCUAUCCAUGAGCAGGUUGAAGGUUAGGUAACACUGACUGGAGGACCGAACCCACUCCCGUUGAAAAGGUAGGGGAUGACUUGUGGAUCGGAGUGAAAGGCUAAUCAAGCUCGGAGAUAGCUGGUUCUCCUCGAAAGCUAUUUAGGUAGCGCCUCAUGUAUCACUCUGGGGGGUAGAGCACUGUUUCGGCUAGGGGGUCAUCCCGACUUACCAAACCGAUGCAAACUCCGAAUACCCAGAAGUGCCGAGCAUGGGAGACACACGGCGGGUGCUAACGUCCGUCGUGAAAAGGGAAACAACCCAGACCGCCAGCUAAGGUCCCAAAGUUGUGGUUAAGUGGUAAACGAUGUGGGAAGGCUUAGACAGCUAGGAGGUUGGCUUAGAAGCAGCCACCCUUUAAAGAAAGCGUAAUAGCUCACUAGUCGAGUCGGCCUGCGCGGAAGAUGUAACGGGGCUCAAACCACACACCGAAGCUGCGGGUGUCACGUAAGUGACGCGGUAGAGGAGCGUUCUGUAAGCCUGUGAAGGUGAGUUGAGAAGCUUGCUGGAGGUAUCAGAAGUGCGAAUGCUGACAUGAGUAACGACAAUGGGUGUGAAAAACACCCACGCCGAAAGACCAAGGGUUCCUGCGCAACGUUAAUCGACGCAGGGUUAGUCGGUUCCUAAGGCGAGGCUGAAAAGCGUAGUCGAUGGGAAACAGGUUAAUAUUCCUGUACUUCUGGUUACUGCGAUGGAGGGACGGAGAAGGCUAGGCCAGCUUGGCGUUGGUUGUCCAAGUUUAAGGUGGUAGGCUGAAAUCUUAGGUAAAUCCGGGGUUUCAAGGCCGAGAGCUGAUGACGAGUCGUCUUUUAGAUGACGAAGUGGUUGAUGCCAUGCUUCCAAGAAAAGCUUCUAAGCUUCAGGUAACCAGGAACCGUACCCCAAACCGACACAGGUGGUCGGGUAGAGAAUACCAAGGCGCUUGAGAGAACUCGGGUGAAGGAACUAGGCAAAAUGGCACCGUAACUUCGGGAGAAGGUGCGCCGGCUAGGGUGAAGGAUUUACUCCGUAAGCUCUGGCUGGUCGAAGAUACCAGGCCGCUGCGACUGUUUAUUAAAAACACAGCACUCUGCAAACACGAAAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUUAAUUGAUGGGGUUAGCGCAAGCGAAGCUCUUGAUCGAAGCCCCGGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAUGGCGUAACGAUGGCGGCGCUGUCUCCACCCGAGACUCAGUGAAAUUGAAAUCGCUGUGAAGAUGCAGUGUAUCCGCGGCUAGACGGAAAGACCCCGUGAACCUUUACUGUAGCUUUGCACUGGACUUUGAGCCUGCUUGUGUAGGAUAGGUGGGAGGCUUUGAAGCGUGGACGCCAGUUCGCGUGGAGCCAUCCUUGAAAUACCACCCUGGCAUGCUUGAGGUUCUAACUCUGGUCCGUAAUCCGGAUCGAGGACAGUGUAUGGUGGGCAGUUUGACUGGGGCGGUCUCCUCCUAAAGAGUAACGGAGGAGUACGAAGGUGCGCUCAGACCGGUCGGAAAUCGGUCGCAGAGUAUAAAGGCAAAAGCGCGCUUGACUGCGAGACAGACACGUCGAGCAGGUACGAAAGUAGGUCUUAGUGAUCCGGUGGUUCUGUAUGGAAGGGCCAUCGCUCAACGGAUAAAAGGUACUCCGGGGAUAACAGGCUGAUACCGCCCAAGAGUUCAUAUCGACGGCGGUGUUUGGCACCUCGAUGUCGGCUCAUCACAUCCUGGGGCUGAAGCCGGUCCCAAGGGUAUGGCUGUUCGCCAUUUAAAGUGGUACGCGAGCUGGGUUUAGAACGUCGUGAGACAGUUCGGUCCCUAUCUGCCGUGGACGUUUGAGAUUUGAGAGGGGCUGCUCCUAGUACGAGAGGACCGGAGUGGACGAACCUCUGGUGUUCCGGUUGUCACGCCAGUGGCAUUGCCGGGUAGCUAUGUUCGGAAAAGAUAACCGCUGAAAGCAUCUAAGCGGGAAACUUGCCUCAAGAUGAGAUCUCACUGGGAACUUGAUUCCCCUGAAGGGCCGUCGAAGACUACGACGUUGAUAGGCUGGGUGUGUAAGCGUUGUGAGGCGUUGAGCUAACCAGUACUAAUGGCCCGUGAGGCUUGACC",
+            "entity_poly_seq_one_letter_code_can": "GUCAAGUGAAGAAGCGCAUACGGUGGAUGCCUUGGCAGUCAGAGGCGAUGAAAGACGUGGUAGCCUGCGAAAAGCUUCGGGGAGUCGGCAAACAGACUUUGAUCCGGAGAUCUCUGAAUGGGGGAACCCACCUAGGAUAACCUAGGUAUCUUGUACUGAAUCCAUAGGUGCAAGAGGCGAACCAGGGGAACUGAAACAUCUAAGUACCCUGAGGAAAAGAAAUCAACCGAGAUUCCCUUAGUAGUGGCGAGCGAACGGGGAUUAGCCCUUAAGCUUCAUUGAUUUUAGCGGAACGCUCUGGAAAGUGCGGCCAUAGUGGGUGAUAGCCCCGUACGCGAAAGGAUCUUUGAAGUGAAAUCAAGUAGGACGGAGCACGAGAAACUUUGUCUGAACAUGGGGGGACCAUCCUCCAAGGCUAAAUACUACUGACUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGCGAAAAGAACCCCGGAGAGGGGAGUGAAAUAGAACCUGAAACCGUAUGCGUACAAGCAGUGGGAGCCUACUUGUUAGGUGACUGCGUACCUUUUGUAUAAUGGGUCAGCGACUUAUAUUCAGUGGCAAGCUUAACCGUAUAGGGUAGGCGUAGCGAAAGCGAGUCUUAAUAGGGCGUUUAGUCGCUGGGUAUAGACCCGAAACCGGGCGAUCUAUCCAUGAGCAGGUUGAAGGUUAGGUAACACUGACUGGAGGACCGAACCCACUCCCGUUGAAAAGGUAGGGGAUGACUUGUGGAUCGGAGUGAAAGGCUAAUCAAGCUCGGAGAUAGCUGGUUCUCCUCGAAAGCUAUUUAGGUAGCGCCUCAUGUAUCACUCUGGGGGGUAGAGCACUGUUUCGGCUAGGGGGUCAUCCCGACUUACCAAACCGAUGCAAACUCCGAAUACCCAGAAGUGCCGAGCAUGGGAGACACACGGCGGGUGCUAACGUCCGUCGUGAAAAGGGAAACAACCCAGACCGCCAGCUAAGGUCCCAAAGUUGUGGUUAAGUGGUAAACGAUGUGGGAAGGCUUAGACAGCUAGGAGGUUGGCUUAGAAGCAGCCACCCUUUAAAGAAAGCGUAAUAGCUCACUAGUCGAGUCGGCCUGCGCGGAAGAUGUAACGGGGCUCAAACCACACACCGAAGCUGCGGGUGUCACGUAAGUGACGCGGUAGAGGAGCGUUCUGUAAGCCUGUGAAGGUGAGUUGAGAAGCUUGCUGGAGGUAUCAGAAGUGCGAAUGCUGACAUGAGUAACGACAAUGGGUGUGAAAAACACCCACGCCGAAAGACCAAGGGUUCCUGCGCAACGUUAAUCGACGCAGGGUUAGUCGGUUCCUAAGGCGAGGCUGAAAAGCGUAGUCGAUGGGAAACAGGUUAAUAUUCCUGUACUUCUGGUUACUGCGAUGGAGGGACGGAGAAGGCUAGGCCAGCUUGGCGUUGGUUGUCCAAGUUUAAGGUGGUAGGCUGAAAUCUUAGGUAAAUCCGGGGUUUCAAGGCCGAGAGCUGAUGACGAGUCGUCUUUUAGAUGACGAAGUGGUUGAUGCCAUGCUUCCAAGAAAAGCUUCUAAGCUUCAGGUAACCAGGAACCGUACCCCAAACCGACACAGGUGGUCGGGUAGAGAAUACCAAGGCGCUUGAGAGAACUCGGGUGAAGGAACUAGGCAAAAUGGCACCGUAACUUCGGGAGAAGGUGCGCCGGCUAGGGUGAAGGAUUUACUCCGUAAGCUCUGGCUGGUCGAAGAUACCAGGCCGCUGCGACUGUUUAUUAAAAACACAGCACUCUGCAAACACGAAAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUUAAUUGAUGGGGUUAGCGCAAGCGAAGCUCUUGAUCGAAGCCCCGGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAUGGCGUAACGAUGGCGGCGCUGUCUCCACCCGAGACUCAGUGAAAUUGAAAUCGCUGUGAAGAUGCAGUGUAUCCGCGGCUAGACGGAAAGACCCCGUGAACCUUUACUGUAGCUUUGCACUGGACUUUGAGCCUGCUUGUGUAGGAUAGGUGGGAGGCUUUGAAGCGUGGACGCCAGUUCGCGUGGAGCCAUCCUUGAAAUACCACCCUGGCAUGCUUGAGGUUCUAACUCUGGUCCGUAAUCCGGAUCGAGGACAGUGUAUGGUGGGCAGUUUGACUGGGGCGGUCUCCUCCUAAAGAGUAACGGAGGAGUACGAAGGUGCGCUCAGACCGGUCGGAAAUCGGUCGCAGAGUAUAAAGGCAAAAGCGCGCUUGACUGCGAGACAGACACGUCGAGCAGGUACGAAAGUAGGUCUUAGUGAUCCGGUGGUUCUGUAUGGAAGGGCCAUCGCUCAACGGAUAAAAGGUACUCCGGGGAUAACAGGCUGAUACCGCCCAAGAGUUCAUAUCGACGGCGGUGUUUGGCACCUCGAUGUCGGCUCAUCACAUCCUGGGGCUGAAGCCGGUCCCAAGGGUAUGGCUGUUCGCCAUUUAAAGUGGUACGCGAGCUGGGUUUAGAACGUCGUGAGACAGUUCGGUCCCUAUCUGCCGUGGACGUUUGAGAUUUGAGAGGGGCUGCUCCUAGUACGAGAGGACCGGAGUGGACGAACCUCUGGUGUUCCGGUUGUCACGCCAGUGGCAUUGCCGGGUAGCUAUGUUCGGAAAAGAUAACCGCUGAAAGCAUCUAAGCGGGAAACUUGCCUCAAGAUGAGAUCUCACUGGGAACUUGAUUCCCCUGAAGGGCCGUCGAAGACUACGACGUUGAUAGGCUGGGUGUGUAAGCGUUGUGAGGCGUUGAGCUAACCAGUACUAAUGGCCCGUGAGGCUUGACC",
+            "entity_poly_seq_length": 2888,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "GCUUGACGAUCAUAGAGCGUUGGAACCACCUGAUCCCUUCCCGAACUCAGAAGUGAAACGACGCAUCGCCGAUGGUAGUGUGGGGUCUCCCCAUGUGAGAGUAGGUCAUCGUCAAGC",
+            "entity_poly_seq_one_letter_code_can": "GCUUGACGAUCAUAGAGCGUUGGAACCACCUGAUCCCUUCCCGAACUCAGAAGUGAAACGACGCAUCGCCGAUGGUAGUGUGGGGUCUCCCCAUGUGAGAGUAGGUCAUCGUCAAGC",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6SPG",
+            "rcsb_pdbx_description": "16S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Pseudomonas aeruginosa"
+            ],
+            "rcsb_source_organism_id": [
+                287
+            ],
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "AACUGAAGAGUUUGAUCAUGGCUCAGAUUGAACGCUGGCGGCAGGCCUAACACAUGCAAGUCGAGCGGAUAAAGGGAGCUUGCUCCUGGAUUCAGCGGCGGACGGGUGAGUAAUGCCUAGGAAUCUGCCUGGUAGUGGGGGAUAACGUCCGGAAACGGGCGCUAAUACCGCAUACGUCCUGAGGGAGAAAGUGGGGGAUCUUCGGACCUCACGCUAUCAGAUGAGCCUAGGUCGGAUUAGCUAGUUGGUGGGGUAAAGGCCUACCAAGGCGACGAUCCGUAACUGGUCUGAGAGGAUGAUCAGUCACACUGGAACUGAGACACGGUCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGGACAAUGGGCGAAAGCCUGAUCCAGCCAUGCCGCGUGUGUGAAGAAGGUCUUCGGAUUGUAAAGCACUUUAAGUUGGGAGGAAGGGCAGUAAGUUAAUACCUUGCUGUUUUGACGUUACCAACAGAAUAAGCACCGGCUAACUUCGUGCCAGCAGCCGCGGUAAUACGAAGGGUGCAAGCGUUAAUCGGAAUUACUGGGCGUAAAGCGCGCGUAGGUGGUUCAGCAAGUUGGAUGUGAAAUCCCCGGGCUCAACCUGGGAACUGCAUCCAAAACUACUGAGCUAGAGUACGGUAGAGGGUGGUGGAAUUUCCUGUGUAGCGGUGAAAUGCGUAGAUAUAGGAAGGAACACCAGUGGCGAAGGCGACCACCUGGACUGAUACUGACACUGAGGUGCGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGUCGACUAGCCGUUGGGAUCCUUGAGAUCUUAGUGGCGCAGCUAACGCGAUAAGUCGACCGCCUGGGGAGUACGGCCGCAAGGUUAAAACUCAAAUGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCUGGCCUUGACAUGCUGAGAACUUUCCAGAGAUGGAUUGGUGCCUUCGGGAACUCAGACACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGUAACGAGCGCAACCCUUGUCCUUAGUUACCAGCACCUCGGGUGGGCACUCUAAGGAGACUGCCGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGGCCCUUACGGCCAGGGCUACACACGUGCUACAAUGGUCGGUACAAAGGGUUGCCAAGCCGCGAGGUGGAGCUAAUCCCAUAAAACCGAUCGUAGUCCGGAUCGCAGUCUGCAACUCGACUGCGUGAAGUCGGAAUCGCUAGUAAUCGUGAAUCAGAAUGUCACGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCAUGGGAGUGGGUUGCUCCAGAAGUAGCUAGUCUAACCGCAAGGGGGACGGUUACCACGGAGUGAUUCAUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUAGGGGAACCUGCGGCUGGAUC",
+            "entity_poly_seq_one_letter_code_can": "AACUGAAGAGUUUGAUCAUGGCUCAGAUUGAACGCUGGCGGCAGGCCUAACACAUGCAAGUCGAGCGGAUAAAGGGAGCUUGCUCCUGGAUUCAGCGGCGGACGGGUGAGUAAUGCCUAGGAAUCUGCCUGGUAGUGGGGGAUAACGUCCGGAAACGGGCGCUAAUACCGCAUACGUCCUGAGGGAGAAAGUGGGGGAUCUUCGGACCUCACGCUAUCAGAUGAGCCUAGGUCGGAUUAGCUAGUUGGUGGGGUAAAGGCCUACCAAGGCGACGAUCCGUAACUGGUCUGAGAGGAUGAUCAGUCACACUGGAACUGAGACACGGUCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGGACAAUGGGCGAAAGCCUGAUCCAGCCAUGCCGCGUGUGUGAAGAAGGUCUUCGGAUUGUAAAGCACUUUAAGUUGGGAGGAAGGGCAGUAAGUUAAUACCUUGCUGUUUUGACGUUACCAACAGAAUAAGCACCGGCUAACUUCGUGCCAGCAGCCGCGGUAAUACGAAGGGUGCAAGCGUUAAUCGGAAUUACUGGGCGUAAAGCGCGCGUAGGUGGUUCAGCAAGUUGGAUGUGAAAUCCCCGGGCUCAACCUGGGAACUGCAUCCAAAACUACUGAGCUAGAGUACGGUAGAGGGUGGUGGAAUUUCCUGUGUAGCGGUGAAAUGCGUAGAUAUAGGAAGGAACACCAGUGGCGAAGGCGACCACCUGGACUGAUACUGACACUGAGGUGCGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGUCGACUAGCCGUUGGGAUCCUUGAGAUCUUAGUGGCGCAGCUAACGCGAUAAGUCGACCGCCUGGGGAGUACGGCCGCAAGGUUAAAACUCAAAUGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCUGGCCUUGACAUGCUGAGAACUUUCCAGAGAUGGAUUGGUGCCUUCGGGAACUCAGACACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGUAACGAGCGCAACCCUUGUCCUUAGUUACCAGCACCUCGGGUGGGCACUCUAAGGAGACUGCCGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGGCCCUUACGGCCAGGGCUACACACGUGCUACAAUGGUCGGUACAAAGGGUUGCCAAGCCGCGAGGUGGAGCUAAUCCCAUAAAACCGAUCGUAGUCCGGAUCGCAGUCUGCAACUCGACUGCGUGAAGUCGGAAUCGCUAGUAAUCGUGAAUCAGAAUGUCACGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCAUGGGAGUGGGUUGCUCCAGAAGUAGCUAGUCUAACCGCAAGGGGGACGGUUACCACGGAGUGAUUCAUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUAGGGGAACCUGCGGCUGGAUC",
+            "entity_poly_seq_length": 1526,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

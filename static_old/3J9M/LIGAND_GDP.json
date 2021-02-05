@@ -1,0 +1,48 @@
+{
+  "constituents": [
+    {
+      "resn": "H_GDP",
+      "strand_id": "AX",
+      "resid": 500,
+      "struct": "3J9M",
+      "banClass": null
+    }
+  ],
+  "nbrs": [
+    {
+      "resn": " ",
+      "strand_id": "AX",
+      "resid": 135,
+      "struct": "3J9M",
+      "banClass": null
+    },
+    {
+      "resn": " ",
+      "strand_id": "AX",
+      "resid": 131,
+      "struct": "3J9M",
+      "banClass": null
+    },
+    {
+      "resn": " ",
+      "strand_id": "AX",
+      "resid": 134,
+      "struct": "3J9M",
+      "banClass": null
+    },
+    {
+      "resn": " ",
+      "strand_id": "AX",
+      "resid": 130,
+      "struct": "3J9M",
+      "banClass": null
+    },
+    {
+      "resn": " ",
+      "strand_id": "AX",
+      "resid": 313,
+      "struct": "3J9M",
+      "banClass": null
+    }
+  ]
+}

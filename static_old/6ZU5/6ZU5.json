@@ -1,0 +1,1683 @@
+{
+    "rcsb_id": "6ZU5",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.9,
+    "rcsb_external_ref_id": [
+        "EMD-11437"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-11437"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.9,
+    "cryoem_exp_num_particles": 124947,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Ehrenbolger, K.",
+        "Jespersen, N.",
+        "Sharma, H.",
+        "Sokolova, Y.Y.",
+        "Tokarev, Y.S.",
+        "Vossbrinck, C.R.",
+        "Barandun, J."
+    ],
+    "citation_title": "Differences in structure and hibernation mechanism highlight diversification of the microsporidian ribosome.",
+    "citation_pdbx_doi": "10.1371/journal.pbio.3000958",
+    "pdbx_keywords_text": "Microsporidia, Pathogen, Ribosome, Hibernation, Genome Compaction",
+    "_organismId": [
+        235221
+    ],
+    "_organismName": [
+        "Paranosema locustae"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL2",
+            "entity_poly_strand_id": "LA0",
+            "entity_poly_seq_one_letter_code": "MSKVIRRLRLLKPHHRPKAMWKVGETRIPVVSETMHGVVSEIVHERGKVAPLAKIRVDTGKCVRRELLVAVEGNYVGQKVEIGDSVPVAVGNALKLKNIPEGTGVCSVERRPYDGGKMAKSSGAYVTVVGHNRDTNITTVRLPSGEKRSVSSECRAVVGVIAGGGVNEKPLLKASRAHYRAKARGLYWPTVRGVAMNPVDHPHGGGNKQHIGHPSTISKHAPPGQKVGLVAARRTGLRRGSKKVLNK",
+            "entity_poly_seq_one_letter_code_can": "MSKVIRRLRLLKPHHRPKAMWKVGETRIPVVSETMHGVVSEIVHERGKVAPLAKIRVDTGKCVRRELLVAVEGNYVGQKVEIGDSVPVAVGNALKLKNIPEGTGVCSVERRPYDGGKMAKSSGAYVTVVGHNRDTNITTVRLPSGEKRSVSSECRAVVGVIAGGGVNEKPLLKASRAHYRAKARGLYWPTVRGVAMNPVDHPHGGGNKQHIGHPSTISKHAPPGQKVGLVAARRTGLRRGSKKVLNK",
+            "entity_poly_seq_length": 247,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL15",
+            "entity_poly_strand_id": "LAA",
+            "entity_poly_seq_one_letter_code": "MYQNFYPMASKDKKTRKLRGHVSHGHGRVGKHRKHPGGRGKCGGMAHRKTLFMKYHPDHFGKRGMNCTHLKKNARYAPPINVSKLWSLIPKSQLETIMNDNTIAPIINCRSFGYHIVRGGGQLSLKRPIVVMARYFTPKAVSMIESLGGRCIISP",
+            "entity_poly_seq_one_letter_code_can": "MYQNFYPMASKDKKTRKLRGHVSHGHGRVGKHRKHPGGRGKCGGMAHRKTLFMKYHPDHFGKRGMNCTHLKKNARYAPPINVSKLWSLIPKSQLETIMNDNTIAPIINCRSFGYHIVRGGGQLSLKRPIVVMARYFTPKAVSMIESLGGRCIISP",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL3",
+            "entity_poly_strand_id": "LB0",
+            "entity_poly_seq_one_letter_code": "MSCRKFEAPRHGSLAYMPRRRARSVKQSIRAFEKDNPEDPIHLTAFYVYKAGMTHVVRNKAMNDKKGTIKEVTESVTILEAPPMVVFGIVGYVNTPQGLKINKTLLSSHINESVLRRFYRKFYLSKKRMFSSARRKAGQKELDADILVLKDSDVIRVLAHTQVEKIKSIRTKKAHISEIQVNGGTVNDKVEWAVSMLEREVKISDVFSTNEFVDTIGVTKGKGFQGVTKRFGTRILPRKTNKGRRKVACIGAWHPANVLRTVPRAGQLGFHRRTELNKLIYLIGNGKEEIKTDFDPTLKSINPMGGFPHYGLVNNDFLMVKGGITGPVKRVLAIRKNLIGKKNNENIQIKFIDTSSKIGSGRFQTSEEKRAFFGITKKDVSEEIK",
+            "entity_poly_seq_one_letter_code_can": "MSCRKFEAPRHGSLAYMPRRRARSVKQSIRAFEKDNPEDPIHLTAFYVYKAGMTHVVRNKAMNDKKGTIKEVTESVTILEAPPMVVFGIVGYVNTPQGLKINKTLLSSHINESVLRRFYRKFYLSKKRMFSSARRKAGQKELDADILVLKDSDVIRVLAHTQVEKIKSIRTKKAHISEIQVNGGTVNDKVEWAVSMLEREVKISDVFSTNEFVDTIGVTKGKGFQGVTKRFGTRILPRKTNKGRRKVACIGAWHPANVLRTVPRAGQLGFHRRTELNKLIYLIGNGKEEIKTDFDPTLKSINPMGGFPHYGLVNNDFLMVKGGITGPVKRVLAIRKNLIGKKNNENIQIKFIDTSSKIGSGRFQTSEEKRAFFGITKKDVSEEIK",
+            "entity_poly_seq_length": 385,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL4",
+            "entity_poly_strand_id": "LC0",
+            "entity_poly_seq_one_letter_code": "MRDTVNCYGIDGETVEKQLEMPDVLRVPIRKDLVEDAFRCVRMDNRQPYAVSPNAGMQHSAHSWGTGRAMARVPRVSGSGTTRSGQGAFANFCRKGRLAHPTKVIRRWQRKFNLNAKRHAEAMALAATAIPPLVESRGHRIAGVKMIPLVVSNSIKEIKSTKEAFEMLKRFGLAEELARVKESKCIRAGKGKMRNRRYVMKKGLLIIYDNQSDIQKAFRNIAGVDLACVDSLSLLDLCPGSHLGRLVMWTLGAFEKLNEIYGQYGKEAPLTSGYFLPTNVVSKDDVESLFFSDEIQAFLDVPNLIKYEKTSRKPETIESLNPYLNLMESN",
+            "entity_poly_seq_one_letter_code_can": "MRDTVNCYGIDGETVEKQLEMPDVLRVPIRKDLVEDAFRCVRMDNRQPYAVSPNAGMQHSAHSWGTGRAMARVPRVSGSGTTRSGQGAFANFCRKGRLAHPTKVIRRWQRKFNLNAKRHAEAMALAATAIPPLVESRGHRIAGVKMIPLVVSNSIKEIKSTKEAFEMLKRFGLAEELARVKESKCIRAGKGKMRNRRYVMKKGLLIIYDNQSDIQKAFRNIAGVDLACVDSLSLLDLCPGSHLGRLVMWTLGAFEKLNEIYGQYGKEAPLTSGYFLPTNVVSKDDVESLFFSDEIQAFLDVPNLIKYEKTSRKPETIESLNPYLNLMESN",
+            "entity_poly_seq_length": 330,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL31",
+            "entity_poly_strand_id": "LDD",
+            "entity_poly_seq_one_letter_code": "MASLSNKAVEMTVNLGKLARKASWRYKAPKCIYYLKKFIRSQFKSENDILIAPEVNKYIWRHGIKNIPKRMRIKIERGPSNKNPELNVFRVCLVNVNTFKGLQSQSYTE",
+            "entity_poly_seq_one_letter_code_can": "MASLSNKAVEMTVNLGKLARKASWRYKAPKCIYYLKKFIRSQFKSENDILIAPEVNKYIWRHGIKNIPKRMRIKIERGPSNKNPELNVFRVCLVNVNTFKGLQSQSYTE",
+            "entity_poly_seq_length": 109,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL33",
+            "entity_poly_strand_id": "LFF",
+            "entity_poly_seq_one_letter_code": "MKDVFDPCLTAIPATFISHMRGRRIVHPSHSLLRIEGVKTREDAKFFLGNGVVSLYELSGKKMENRGRIRRLHGNSGVVAAKFERNLPPNKIGTEVFVKLYKVEDDDY",
+            "entity_poly_seq_one_letter_code_can": "MKDVFDPCLTAIPATFISHMRGRRIVHPSHSLLRIEGVKTREDAKFFLGNGVVSLYELSGKKMENRGRIRRLHGNSGVVAAKFERNLPPNKIGTEVFVKLYKVEDDDY",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL8",
+            "entity_poly_strand_id": "LG0",
+            "entity_poly_seq_one_letter_code": "MASQAKREMIERRRNPRDLDQKHQREERKALIAERVHLYRNALRIPPAVYQFSTFLNQQDMDQVLSLFRNYIPETRAEKKKRLMSENPRAGRKPILIKFGLKHVTDLIERKEARIVIIASDVDPIEVVVFLPTLCRKMGIPYAIVNGKKELGTLVHLKSTSCICLCDVAPKDSVEFKNILAKINAIFMDNYEITMKKWGGGALLRDKPQESSAPQA",
+            "entity_poly_seq_one_letter_code_can": "MASQAKREMIERRRNPRDLDQKHQREERKALIAERVHLYRNALRIPPAVYQFSTFLNQQDMDQVLSLFRNYIPETRAEKKKRLMSENPRAGRKPILIKFGLKHVTDLIERKEARIVIIASDVDPIEVVVFLPTLCRKMGIPYAIVNGKKELGTLVHLKSTSCICLCDVAPKDSVEFKNILAKINAIFMDNYEITMKKWGGGALLRDKPQESSAPQA",
+            "entity_poly_seq_length": 216,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL6",
+            "entity_poly_strand_id": "LH0",
+            "entity_poly_seq_one_letter_code": "MKRLLCEEKVEIPEGCSVEILERVMTVRGKRATAVRDLSHFVLTMDVHEGHVRLRLWNGTNRERSKLITCASVIRNCIVGCMSGYEYTLKVVYKHFPMSVAIEDDGKTVVVKNFLGQKHARRYKMRGDSIARLGTEKDTFVVEGSSLEDVSQSAGTIQENCQVKKIDSRTFLDGIYFLSRNVVGAK",
+            "entity_poly_seq_one_letter_code_can": "MKRLLCEEKVEIPEGCSVEILERVMTVRGKRATAVRDLSHFVLTMDVHEGHVRLRLWNGTNRERSKLITCASVIRNCIVGCMSGYEYTLKVVYKHFPMSVAIEDDGKTVVVKNFLGQKHARRYKMRGDSIARLGTEKDTFVVEGSSLEDVSQSAGTIQENCQVKKIDSRTFLDGIYFLSRNVVGAK",
+            "entity_poly_seq_length": 186,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL29",
+            "entity_poly_strand_id": "LHH",
+            "entity_poly_seq_one_letter_code": "MKIRTLELREKSVEELETLAFSLKEELLRLRQQKNTQTLKPHEIRVMRKNIARVLTVRTEKLYAEMYEKHKNDKRMPKDLRPRLTKAKRMALTKRQLNMSVHSVCKRRRAYPRMYFSYSEPVDPKN",
+            "entity_poly_seq_one_letter_code_can": "MKIRTLELREKSVEELETLAFSLKEELLRLRQQKNTQTLKPHEIRVMRKNIARVLTVRTEKLYAEMYEKHKNDKRMPKDLRPRLTKAKRMALTKRQLNMSVHSVCKRRRAYPRMYFSYSEPVDPKN",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL16",
+            "entity_poly_strand_id": "LI0",
+            "entity_poly_seq_one_letter_code": "MGRRPARCYRYCKNKPYPKSRFCRGVPDPKLAIYDLGRKRARVTEFPLSVHLVSNEREQLSAEALEAARIAANRYMIKHAGKDNFHMRIRVHPLHVIRINKMLSCAGADRLQTGMRGSFGKPYGRVARVDFGQEILSIRTKDAFKAVACEALRRAKAKFPGHQQIKVSCAFGFTGISREEFERLRKEGKLISQGSHVTIIKEKGSIVGYKEKLSKAIQ",
+            "entity_poly_seq_one_letter_code_can": "MGRRPARCYRYCKNKPYPKSRFCRGVPDPKLAIYDLGRKRARVTEFPLSVHLVSNEREQLSAEALEAARIAANRYMIKHAGKDNFHMRIRVHPLHVIRINKMLSCAGADRLQTGMRGSFGKPYGRVARVDFGQEILSIRTKDAFKAVACEALRRAKAKFPGHQQIKVSCAFGFTGISREEFERLRKEGKLISQGSHVTIIKEKGSIVGYKEKLSKAIQ",
+            "entity_poly_seq_length": 218,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL36",
+            "entity_poly_strand_id": "LII",
+            "entity_poly_seq_one_letter_code": "MRKKLRRMRVKYPVTPLVGIEPIPRPGKKHDWNNHGSPMAKAIASEICGLAPYEKKALELIKSDQERKCRRFLKKRLGNLTRTKRKQEALTAIAREQQ",
+            "entity_poly_seq_one_letter_code_can": "MRKKLRRMRVKYPVTPLVGIEPIPRPGKKHDWNNHGSPMAKAIASEICGLAPYEKKALELIKSDQERKCRRFLKKRLGNLTRTKRKQEALTAIAREQQ",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL37",
+            "entity_poly_strand_id": "LJJ",
+            "entity_poly_seq_one_letter_code": "SKGTSSFGKKNKRNHILCVRCGSMSYHKQKLRCSSCGYPEKKLRNRGSPKARRRRGEGTGRMRHLKKVRRAARNGFKGNAILRALRNANTTSDSK",
+            "entity_poly_seq_one_letter_code_can": "SKGTSSFGKKNKRNHILCVRCGSMSYHKQKLRCSSCGYPEKKLRNRGSPKARRRRGEGTGRMRHLKKVRRAARNGFKGNAILRALRNANTTSDSK",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL13",
+            "entity_poly_strand_id": "LL0",
+            "entity_poly_seq_one_letter_code": "MKHNNTLPNNHFKKTAIRFKTWFNQPAKKEKRIQLRKEKAEKMYPMPVEKLRPIVRCSSIRYNIKQRLGRGFTPEECRAAGLDYNYARTIGIAVDMRRKNMNKETFDQNVERIKVYTSRLTFYKDRKEAKASGAAQHIGKIMPPKKTPPVVQTIKVEEIAQKFPTK",
+            "entity_poly_seq_one_letter_code_can": "MKHNNTLPNNHFKKTAIRFKTWFNQPAKKEKRIQLRKEKAEKMYPMPVEKLRPIVRCSSIRYNIKQRLGRGFTPEECRAAGLDYNYARTIGIAVDMRRKNMNKETFDQNVERIKVYTSRLTFYKDRKEAKASGAAQHIGKIMPPKKTPPVVQTIKVEEIAQKFPTK",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL39",
+            "entity_poly_strand_id": "LLL",
+            "entity_poly_seq_one_letter_code": "GSRKTEIIKTRLSRALVRNRPIPVWKRRMRGNTQQYNMKRRHWRRNKLKIY",
+            "entity_poly_seq_one_letter_code_can": "GSRKTEIIKTRLSRALVRNRPIPVWKRRMRGNTQQYNMKRRHWRRNKLKIY",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL20",
+            "entity_poly_strand_id": "LS0",
+            "entity_poly_seq_one_letter_code": "MWRCGGIKEYRIYGSKMPTEQEVAPQIFFHNVFAKNEIVARSRFNNLMKTKYKIKSGKIVILKIEELVEDLKDMKIKNYGIQLVYRSKKGIHNMYKEFRSISRCKAVEMLFNDMAGRHKAKRDDIKIVSLKELRSEDLRRDRVIQFTKDDVMYPVFKKVLNSKYDFVLKGTNIFN",
+            "entity_poly_seq_one_letter_code_can": "MWRCGGIKEYRIYGSKMPTEQEVAPQIFFHNVFAKNEIVARSRFNNLMKTKYKIKSGKIVILKIEELVEDLKDMKIKNYGIQLVYRSKKGIHNMYKEFRSISRCKAVEMLFNDMAGRHKAKRDDIKIVSLKELRSEDLRRDRVIQFTKDDVMYPVFKKVLNSKYDFVLKGTNIFN",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL21",
+            "entity_poly_strand_id": "LT0",
+            "entity_poly_seq_one_letter_code": "MRSNGYRRGTRHRFSQAFRKHGMPKPSILTRVFKKGQYVDVVVNPAIHKGMPHKFFHGRTGKIFNIDKRSIGILMNKRCGPRYVEKMVIARVEHVRPSRCNEEYIKRRTENDRLRREAAARGEKLGSLKRKPGGPRGAVLISTENNTPIEIRNEPYFEVY",
+            "entity_poly_seq_one_letter_code_can": "MRSNGYRRGTRHRFSQAFRKHGMPKPSILTRVFKKGQYVDVVVNPAIHKGMPHKFFHGRTGKIFNIDKRSIGILMNKRCGPRYVEKMVIARVEHVRPSRCNEEYIKRRTENDRLRREAAARGEKLGSLKRKPGGPRGAVLISTENNTPIEIRNEPYFEVY",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL14",
+            "entity_poly_strand_id": "LV0",
+            "entity_poly_seq_one_letter_code": "MPSKHVLEDRRPKIRSTCGVQVGTRIACADNTGAKIMQIIGVKGVRGRLNRLPAASVGDVVLCSVKKGRPDMRKKIVLCVVIRQKKAWRRRDGSHICFEDNAAVVITNKGDPKGTQIAGPVPREVADIWPKISSNAPAII",
+            "entity_poly_seq_one_letter_code_can": "MPSKHVLEDRRPKIRSTCGVQVGTRIACADNTGAKIMQIIGVKGVRGRLNRLPAASVGDVVLCSVKKGRPDMRKKIVLCVVIRQKKAWRRRDGSHICFEDNAAVVITNKGDPKGTQIAGPVPREVADIWPKISSNAPAII",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL24",
+            "entity_poly_strand_id": "LY0",
+            "entity_poly_seq_one_letter_code": "MKFNKEKTASRRKNRKAHFTANSTERRIRMSSPLSKELREKYGFRSFPIRRNDKVVVMKGRFKGNTGTVVEVRRKMYKVYVDSCEASKMNGRKVRVGIDASNLKIIELYQGDGRDKILERKMNNRRMQMERAAKIKMEQK",
+            "entity_poly_seq_one_letter_code_can": "MKFNKEKTASRRKNRKAHFTANSTERRIRMSSPLSKELREKYGFRSFPIRRNDKVVVMKGRFKGNTGTVVEVRRKMYKVYVDSCEASKMNGRKVRVGIDASNLKIIELYQGDGRDKILERKMNNRRMQMERAAKIKMEQK",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS1",
+            "entity_poly_strand_id": "SB0",
+            "entity_poly_seq_one_letter_code": "MAKKDQPVTKKSLKKGLKKKATDSFAKKEWFSLRIPSGFVTAEPGKTLCTKQNTKANLEKYLLGRNFEVNQGDLNPGNEESAVRKFRFIVNNVNGRIAESEFNGMELTTEKKRGIVRKWHTLIEAFRDVCTKDGYHLRVFVTALTKHRPGSVSRTCYAKTSDVKKVRRLMFEVIENEVSGSELAKVVKKLSVEKLGKEIEKKASVILPLQNCYTAKVKVVKRPRPEVIRN",
+            "entity_poly_seq_one_letter_code_can": "MAKKDQPVTKKSLKKGLKKKATDSFAKKEWFSLRIPSGFVTAEPGKTLCTKQNTKANLEKYLLGRNFEVNQGDLNPGNEESAVRKFRFIVNNVNGRIAESEFNGMELTTEKKRGIVRKWHTLIEAFRDVCTKDGYHLRVFVTALTKHRPGSVSRTCYAKTSDVKKVRRLMFEVIENEVSGSELAKVVKKLSVEKLGKEIEKKASVILPLQNCYTAKVKVVKRPRPEVIRN",
+            "entity_poly_seq_length": 230,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS27",
+            "entity_poly_strand_id": "SBB",
+            "entity_poly_seq_one_letter_code": "MAIKDLAFPTAEELRTTCKRKRLIPQNNSYFLYLRCKSCDIIILAYSHSQTRRTCPGCNMVMLMPKGGKARIEGDVKIKKIKRLVE",
+            "entity_poly_seq_one_letter_code_can": "MAIKDLAFPTAEELRTTCKRKRLIPQNNSYFLYLRCKSCDIIILAYSHSQTRRTCPGCNMVMLMPKGGKARIEGDVKIKKIKRLVE",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS28",
+            "entity_poly_strand_id": "SCC",
+            "entity_poly_seq_one_letter_code": "MTDQVFLGEVMQLYNKTGPGGSITLCQLKLEDTGRMLHRAVIGPIKIGDVVTLLDCEREHRRGRF",
+            "entity_poly_seq_one_letter_code_can": "MTDQVFLGEVMQLYNKTGPGGSITLCQLKLEDTGRMLHRAVIGPIKIGDVVTLLDCEREHRRGRF",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS14",
+            "entity_poly_strand_id": "SDD",
+            "entity_poly_seq_one_letter_code": "MEENIKIKPGSYAGRVDTRKFGRGSRSCRACFTHRGIIRQYNLYLCRRCFREYALEIGFKKVD",
+            "entity_poly_seq_one_letter_code_can": "MEENIKIKPGSYAGRVDTRKFGRGSRSCRACFTHRGIIRQYNLYLCRRCFREYALEIGFKKVD",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS30",
+            "entity_poly_strand_id": "SEE",
+            "entity_poly_seq_one_letter_code": "LESKGSIARAGKVRNQTPKVEKQEKPKALTGRARKRALYERRLEANFFETRKMKMNPNFS",
+            "entity_poly_seq_one_letter_code_can": "LESKGSIARAGKVRNQTPKVEKQEKPKALTGRARKRALYERRLEANFFETRKMKMNPNFS",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS6",
+            "entity_poly_strand_id": "SG0",
+            "entity_poly_seq_one_letter_code": "MKLNVAYPAKGTQKMIPIDFQTSMRLYGLRLGAQVEGELIGEDFRGYVFKITGGDDVSGLPMKDGVFTDKRVRLLLKKGNKGYRCREKGVRKRKSVRGCIISGEIAVVSMIILKEGEKPIEGLTDRVVECSHLPKRASKLRKLFNIPKDANIVEFIKEQIRNNSDSEKKIRYPRIKVTRLITPMRIERKRKRLEEKEARKIKSENERKEYMKKYYPEKIESL",
+            "entity_poly_seq_one_letter_code_can": "MKLNVAYPAKGTQKMIPIDFQTSMRLYGLRLGAQVEGELIGEDFRGYVFKITGGDDVSGLPMKDGVFTDKRVRLLLKKGNKGYRCREKGVRKRKSVRGCIISGEIAVVSMIILKEGEKPIEGLTDRVVECSHLPKRASKLRKLFNIPKDANIVEFIKEQIRNNSDSEKKIRYPRIKVTRLITPMRIERKRKRLEEKEARKIKSENERKEYMKKYYPEKIESL",
+            "entity_poly_seq_length": 222,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS10",
+            "entity_poly_strand_id": "SK0",
+            "entity_poly_seq_one_letter_code": "MLIPTKNILAVKRHMLEKRCIVVEDTPKGNHPVLNIPNLQVLNIMKSLVSKRYVKKTFCWRHGYYFLEDTAVDVLKDQLCMSDDEAAGLYAPSAVVSNIKAQ",
+            "entity_poly_seq_one_letter_code_can": "MLIPTKNILAVKRHMLEKRCIVVEDTPKGNHPVLNIPNLQVLNIMKSLVSKRYVKKTFCWRHGYYFLEDTAVDVLKDQLCMSDDEAAGLYAPSAVVSNIKAQ",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS17",
+            "entity_poly_strand_id": "SL0",
+            "entity_poly_seq_one_letter_code": "MGDILDKAKTYPKQKKPHLVSRREGKDIKPERYYKNIGMGYNVPETAINGTYIDKKCPFTGNVTIRGRIFKGEVFKMKQEKTIVVVKRYFHYNKKYKRYERRNTKFNVHLSPCFFGLVRVGDTVTCGETRALSKTKHFAVIDYKQKDSEDGQYAQFTGFS",
+            "entity_poly_seq_one_letter_code_can": "MGDILDKAKTYPKQKKPHLVSRREGKDIKPERYYKNIGMGYNVPETAINGTYIDKKCPFTGNVTIRGRIFKGEVFKMKQEKTIVVVKRYFHYNKKYKRYERRNTKFNVHLSPCFFGLVRVGDTVTCGETRALSKTKHFAVIDYKQKDSEDGQYAQFTGFS",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS15",
+            "entity_poly_strand_id": "SN0",
+            "entity_poly_seq_one_letter_code": "MARMHSKGRGVSESTVPYNRVRPHWVTQSKDEVVGTILSLSRKGLKPSEIGKIMRDEYAIGHVRNVTGMNILQILRAHGLAPAIPEDLCALLDKRAGILSHLNTFRNDKSARYRLNLVESRMYRLARYYKRTMVLPATWKPHAASK",
+            "entity_poly_seq_one_letter_code_can": "MARMHSKGRGVSESTVPYNRVRPHWVTQSKDEVVGTILSLSRKGLKPSEIGKIMRDEYAIGHVRNVTGMNILQILRAHGLAPAIPEDLCALLDKRAGILSHLNTFRNDKSARYRLNLVESRMYRLARYYKRTMVLPATWKPHAASK",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS11",
+            "entity_poly_strand_id": "SO0",
+            "entity_poly_seq_one_letter_code": "MTEDISTKDLVFGVAHILATSNDTFVHITDLTGSETVCKVSGGMKVKAHRDESSPYAAMLAAQDAAQKAIERGITAVHVKLRGRGGVKSAIPGPGAQAALRALIRNGLKLGRVEDATPTPTDRTRRKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "MTEDISTKDLVFGVAHILATSNDTFVHITDLTGSETVCKVSGGMKVKAHRDESSPYAAMLAAQDAAQKAIERGITAVHVKLRGRGGVKSAIPGPGAQAALRALIRNGLKLGRVEDATPTPTDRTRRKGGRRGRRL",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS19",
+            "entity_poly_strand_id": "SP0",
+            "entity_poly_seq_one_letter_code": "MEGDVEKERRQFKKYTYRGVPLSELVKMPLLKFSELLTSSKRRRLRRGISERELDLLKKCALSKKNAEGTQEKPDMVKTQARTMVIVPQMVGCVIGVHNGRVYVPVEIKPEMIGYYLKDFSDTKTCSTHGKPGVGATSGSKFVPLK",
+            "entity_poly_seq_one_letter_code_can": "MEGDVEKERRQFKKYTYRGVPLSELVKMPLLKFSELLTSSKRRRLRRGISERELDLLKKCALSKKNAEGTQEKPDMVKTQARTMVIVPQMVGCVIGVHNGRVYVPVEIKPEMIGYYLKDFSDTKTCSTHGKPGVGATSGSKFVPLK",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS9",
+            "entity_poly_strand_id": "SQ0",
+            "entity_poly_seq_one_letter_code": "AIPMEKKVIAIGQKKTAKARSECMEGDVFSVTVNNVPLRLLPDDMMASKLRDIITRVGLKYFENLVFSITVRGGGPVSKIYAVRQAFAKSLVAYYGTYMDEWTRQEIRSNLLSFDKFTLVADPRRAEPKKYGGRGARARRQKSYR",
+            "entity_poly_seq_one_letter_code_can": "AIPMEKKVIAIGQKKTAKARSECMEGDVFSVTVNNVPLRLLPDDMMASKLRDIITRVGLKYFENLVFSITVRGGGPVSKIYAVRQAFAKSLVAYYGTYMDEWTRQEIRSNLLSFDKFTLVADPRRAEPKKYGGRGARARRQKSYR",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS17",
+            "entity_poly_strand_id": "SR0",
+            "entity_poly_seq_one_letter_code": "MGRVRNSNVKRAAKNIVEKYFPKLDCDFHHNKRVLESVTEIQTKRFKNQIAGYVTHLYTRVEKGKVKKIFIKKHEEERERRENMIPSSSIMDTEKIEVDDITMQMIKDYCYRGNYVVSVSEEQ",
+            "entity_poly_seq_one_letter_code_can": "MGRVRNSNVKRAAKNIVEKYFPKLDCDFHHNKRVLESVTEIQTKRFKNQIAGYVTHLYTRVEKGKVKKIFIKKHEEERERRENMIPSSSIMDTEKIEVDDITMQMIKDYCYRGNYVVSVSEEQ",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS13",
+            "entity_poly_strand_id": "SS0",
+            "entity_poly_seq_one_letter_code": "MEGRKSLFETFTSEPAQIQHIIRMLNTNIDGSRRVVHALTQIKGIGKRMSDAIVKRTGVDASKRMGALSASELELLQDGIQNPAKYGIPRWMFNHQFDAVDGTDSHLIGNQIDANLRFYIEKGKKMKHIRVCRLARGLKVRGQRTKSNGRGGKTIGVSRKK",
+            "entity_poly_seq_one_letter_code_can": "MEGRKSLFETFTSEPAQIQHIIRMLNTNIDGSRRVVHALTQIKGIGKRMSDAIVKRTGVDASKRMGALSASELELLQDGIQNPAKYGIPRWMFNHQFDAVDGTDSHLIGNQIDANLRFYIEKGKKMKHIRVCRLARGLKVRGQRTKSNGRGGKTIGVSRKK",
+            "entity_poly_seq_length": 161,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS12",
+            "entity_poly_strand_id": "SX0",
+            "entity_poly_seq_one_letter_code": "MKGLYCAKKLKRNRQAKRRNDPTYRKRLLGTKYKQDIIGVAPQAKGIVLEKIEVEAKQPNSAIRKAVRVQLIKNGKKVSAFVPYDGAINDIDMNDIVTLEGFGKKGRSKGDIPGIRYKVCKVQNVSLLALFRGKKDKPSR",
+            "entity_poly_seq_one_letter_code_can": "MKGLYCAKKLKRNRQAKRRNDPTYRKRLLGTKYKQDIIGVAPQAKGIVLEKIEVEAKQPNSAIRKAVRVQLIKNGKKVSAFVPYDGAINDIDMNDIVTLEGFGKKGRSKGDIPGIRYKVCKVQNVSLLALFRGKKDKPSR",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS25",
+            "entity_poly_strand_id": "SZ0",
+            "entity_poly_seq_one_letter_code": "MVKKVLESKEKKAAKIASTSNKEKKKWTQGKTREAVRRSVTVEADVFSKIERDVAKASLVTAPSVAEKFNLNVGVAQKILEHLCAGGVLCCLSRNSRLRLYSRAQKVGARPADTTLPAAEAPAQTE",
+            "entity_poly_seq_one_letter_code_can": "MVKKVLESKEKKAAKIASTSNKEKKKWTQGKTREAVRRSVTVEADVFSKIERDVAKASLVTAPSVAEKFNLNVGVAQKILEHLCAGGVLCCLSRNSRLRLYSRAQKVGARPADTTLPAAEAPAQTE",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL6",
+            "entity_poly_strand_id": "LE0",
+            "entity_poly_seq_one_letter_code": "MIDTSKLSMLSRRGIKVIPEEAGLYPSDDLPAYIEKLEKRMQKKPRVRRTDLVKGCIVVVLEGDFTARRVVFLKQVENNKALCCGPAPINNVPFFVIDERYLLRTSTVLDLKEDVNIDISTVFESKRGVVADRMDIDANSDQKRIENAIVDAVSSIRFMKRYLATPFKMPKFKSVSSLKF",
+            "entity_poly_seq_one_letter_code_can": "MIDTSKLSMLSRRGIKVIPEEAGLYPSDDLPAYIEKLEKRMQKKPRVRRTDLVKGCIVVVLEGDFTARRVVFLKQVENNKALCCGPAPINNVPFFVIDERYLLRTSTVLDLKEDVNIDISTVFESKRGVVADRMDIDANSDQKRIENAIVDAVSSIRFMKRYLATPFKMPKFKSVSSLKF",
+            "entity_poly_seq_length": 180,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL32",
+            "entity_poly_strand_id": "LEE",
+            "entity_poly_seq_one_letter_code": "MEPYLRVPRQRKTKHKFNRFHSDRFKRVKKSWRRPKGIDNRVRRKLSGAIKMPNKGYGTDKLAKHMVHGGFRLVQIRNVGDLLPLISQNRFYCAEVAHSVGAKKRIEIFYKAMEYGIHLTNGKARLVEENKE",
+            "entity_poly_seq_one_letter_code_can": "MEPYLRVPRQRKTKHKFNRFHSDRFKRVKKSWRRPKGIDNRVRRKLSGAIKMPNKGYGTDKLAKHMVHGGFRLVQIRNVGDLLPLISQNRFYCAEVAHSVGAKKRIEIFYKAMEYGIHLTNGKARLVEENKE",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL30",
+            "entity_poly_strand_id": "LF0",
+            "entity_poly_seq_one_letter_code": "MDQEVPYSYRRKMEYEERMEVLSRKMNEEYQARREENARYALQRTKELIAEYKEHMKKEEDARREAEARGAFYVPKEPEFYVVVRIRGIHKVPPRERKILELIRLKKPNHAVFVRNNAPMRAMLHKVRAYIAFGFADIHLLRTLVYKRGMAKVSKRPLANNSSVFKIGQDMRLNLTNEAIEDHFGGRIRCVEELIYQIYMGTDLFKKANNFLWPFTLCSPRKGFGGRKAKDITQGGSTGCHYDKIGNLIYRMIE",
+            "entity_poly_seq_one_letter_code_can": "MDQEVPYSYRRKMEYEERMEVLSRKMNEEYQARREENARYALQRTKELIAEYKEHMKKEEDARREAEARGAFYVPKEPEFYVVVRIRGIHKVPPRERKILELIRLKKPNHAVFVRNNAPMRAMLHKVRAYIAFGFADIHLLRTLVYKRGMAKVSKRPLANNSSVFKIGQDMRLNLTNEAIEDHFGGRIRCVEELIYQIYMGTDLFKKANNFLWPFTLCSPRKGFGGRKAKDITQGGSTGCHYDKIGNLIYRMIE",
+            "entity_poly_seq_length": 254,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL34",
+            "entity_poly_strand_id": "LGG",
+            "entity_poly_seq_one_letter_code": "MVQHLTHRGRRTYNNASNQKKIRRTPGNRRVYIPKKKPGRVPKCVKCRSKLRGIDICRPAAFARLRKSQRTVARTYGGNLCGSCLENRILDAFLSAEEQLLLGKKQTNAADNN",
+            "entity_poly_seq_one_letter_code_can": "MVQHLTHRGRRTYNNASNQKKIRRTPGNRRVYIPKKKPGRVPKCVKCRSKLRGIDICRPAAFARLRKSQRTVARTYGGNLCGSCLENRILDAFLSAEEQLLLGKKQTNAADNN",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL5",
+            "entity_poly_strand_id": "LJ0",
+            "entity_poly_seq_one_letter_code": "MTEQLENPMRQIRIEKLCINCCVGESGEKLNRALKVLEQISGQKPCTGKARLTIRGFGIRRNEKISAYVTVRGEKAREILNNALKVKEYEIKKSSFSNTGGFGFGIDEHIDLGIKYDPSIGIYGMDFIVVLSRPGLRVSKRRIKKSRVGNKQRISKEEAMQWFVKNYDGVLLNK",
+            "entity_poly_seq_one_letter_code_can": "MTEQLENPMRQIRIEKLCINCCVGESGEKLNRALKVLEQISGQKPCTGKARLTIRGFGIRRNEKISAYVTVRGEKAREILNNALKVKEYEIKKSSFSNTGGFGFGIDEHIDLGIKYDPSIGIYGMDFIVVLSRPGLRVSKRRIKKSRVGNKQRISKEEAMQWFVKNYDGVLLNK",
+            "entity_poly_seq_length": 174,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL14",
+            "entity_poly_strand_id": "LM0",
+            "entity_poly_seq_one_letter_code": "MAKNFVQVGRLATPRFLAQRNILYVITDIQDDSMVIVQDAQGTRKLVSVKSLHLMDDVVEIHRDMSVEEVSKKIPQQKEEEVSENDFERFKRELRTEIEEEVLRSRGF",
+            "entity_poly_seq_one_letter_code_can": "MAKNFVQVGRLATPRFLAQRNILYVITDIQDDSMVIVQDAQGTRKLVSVKSLHLMDDVVEIHRDMSVEEVSKKIPQQKEEEVSENDFERFKRELRTEIEEEVLRSRGF",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL40",
+            "entity_poly_strand_id": "LMM",
+            "entity_poly_seq_one_letter_code": "MQVFIKSPGLLEVVSIDRDTTISDLQAMSRYLCNMAFVVNGVLLDKDISLASQGIQDLSTVSAIPLLVGGAGDKQMNENDKALALKRKEAMICRSCYARLAPRAINCRKKKKCGGSNNLRPKKKLKETKKGK",
+            "entity_poly_seq_one_letter_code_can": "MQVFIKSPGLLEVVSIDRDTTISDLQAMSRYLCNMAFVVNGVLLDKDISLASQGIQDLSTVSAIPLLVGGAGDKQMNENDKALALKRKEAMICRSCYARLAPRAINCRKKKKCGGSNNLRPKKKLKETKKGK",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL15",
+            "entity_poly_strand_id": "LN0",
+            "entity_poly_seq_one_letter_code": "MSASEYLREIRKKKQSDLARYLGTIRNYEFRLNTAVHRAERPTFPERAHKLGYKAKQGICIFRVRIRRGGRKRLVNNGNTRGKPVNAGIYQLKPANSLQSMAELKAGKRAGNLRVLNSYWVGQDGVYKYFEVIMVDPNHNAIRNDPKLNWICKSTMKHRECRGLTSASRKSRGLGKGIRYNHTIGGSRKAAWRRRNTVSLRRYR",
+            "entity_poly_seq_one_letter_code_can": "MSASEYLREIRKKKQSDLARYLGTIRNYEFRLNTAVHRAERPTFPERAHKLGYKAKQGICIFRVRIRRGGRKRLVNNGNTRGKPVNAGIYQLKPANSLQSMAELKAGKRAGNLRVLNSYWVGQDGVYKYFEVIMVDPNHNAIRNDPKLNWICKSTMKHRECRGLTSASRKSRGLGKGIRYNHTIGGSRKAAWRRRNTVSLRRYR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Lso2",
+            "entity_poly_strand_id": "LNN",
+            "entity_poly_seq_one_letter_code": "MSRTRNAQKKYEGMMRKLKAKEERMRKEEELKEEEAKKFWSIGAKDESKKQALELKRQEKIARRAMRKKIYEEELGL",
+            "entity_poly_seq_one_letter_code_can": "MSRTRNAQKKYEGMMRKLKAKEERMRKEEELKEEEAKKFWSIGAKDESKKQALELKRQEKIARRAMRKKIYEEELGL",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL13",
+            "entity_poly_strand_id": "LO0",
+            "entity_poly_seq_one_letter_code": "MINKEIIVDGTGHIAGKLGTYIAKKLLEGYTITVLCAESIVLTGPIHRTKLRYKDYLNKRCLVNPLRGPFHYKEPSKLFMRLVKRMVPYKKKRGAAALQRLQVFEGIPEKFENTERSICPRALLEYCANPIRKSATYGKLLSEFGWKHLNITEEMKKKVLQREEKAKKEKDARMEEIQRIRESSSFNKEVEEIMSRIE",
+            "entity_poly_seq_one_letter_code_can": "MINKEIIVDGTGHIAGKLGTYIAKKLLEGYTITVLCAESIVLTGPIHRTKLRYKDYLNKRCLVNPLRGPFHYKEPSKLFMRLVKRMVPYKKKRGAAALQRLQVFEGIPEKFENTERSICPRALLEYCANPIRKSATYGKLLSEFGWKHLNITEEMKKKVLQREEKAKKEKDARMEEIQRIRESSSFNKEVEEIMSRIE",
+            "entity_poly_seq_length": 198,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL42",
+            "entity_poly_strand_id": "LOO",
+            "entity_poly_seq_one_letter_code": "NGKWQNNLKVNIPDKRNTHCKKCNKHTEHKVSQYKKSKEGRNGQGTRRYRRKQRGYHGQTKPILRRKAKVTKKLVIKLRCSVCDAKHQQTMKRTKHVEFGGKKKTKGQALTY",
+            "entity_poly_seq_one_letter_code_can": "NGKWQNNLKVNIPDKRNTHCKKCNKHTEHKVSQYKKSKEGRNGQGTRRYRRKQRGYHGQTKPILRRKAKVTKKLVIKLRCSVCDAKHQQTMKRTKHVEFGGKKKTKGQALTY",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL22",
+            "entity_poly_strand_id": "LP0",
+            "entity_poly_seq_one_letter_code": "MKKKYAPEIHDPGNTVKCRIDNARVSFKNTRETSRVLVNRKLGDALNYLYDVIKKKQCVPMKRYARGVGRTAQAKAFKTQRGRWPVKSAKFFIELINNLKVNAVNKNLNPDEMVIKNIIVNKAPIIPGRIHRAYGRINPYNSHPCHIQMIAVKKMVAVPKAIDGEYAAEVV",
+            "entity_poly_seq_one_letter_code_can": "MKKKYAPEIHDPGNTVKCRIDNARVSFKNTRETSRVLVNRKLGDALNYLYDVIKKKQCVPMKRYARGVGRTAQAKAFKTQRGRWPVKSAKFFIELINNLKVNAVNKNLNPDEMVIKNIIVNKAPIIPGRIHRAYGRINPYNSHPCHIQMIAVKKMVAVPKAIDGEYAAEVV",
+            "entity_poly_seq_length": 171,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL43",
+            "entity_poly_strand_id": "LPP",
+            "entity_poly_seq_one_letter_code": "AKSRGTKKVGIVGKYGVRYGSSLRKRIKAIEISQHAKYECKACGKTSVKREVVGIWKCKACAFTFAGGAFAPTTSAGAHSNSITRQ",
+            "entity_poly_seq_one_letter_code_can": "AKSRGTKKVGIVGKYGVRYGSSLRKRIKAIEISQHAKYECKACGKTSVKREVVGIWKCKACAFTFAGGAFAPTTSAGAHSNSITRQ",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL18",
+            "entity_poly_strand_id": "LQ0",
+            "entity_poly_seq_one_letter_code": "MVATAFASKKYVSRGRKKLVSRNIYLEGLAALYERIAKSSANEIVHKIAAQLKMSRNNRPPMKVSKLANISEKYPGKVYVVVAKVLDDNCFLEVPKMQIVALQFSKSAKEKIEKAGGSTHTLDQLFEVAPGLENVELFRGDLTARKAYKYFGAPGDRHSRTYPKTTSKGKNREKRLLK",
+            "entity_poly_seq_one_letter_code_can": "MVATAFASKKYVSRGRKKLVSRNIYLEGLAALYERIAKSSANEIVHKIAAQLKMSRNNRPPMKVSKLANISEKYPGKVYVVVAKVLDDNCFLEVPKMQIVALQFSKSAKEKIEKAGGSTHTLDQLFEVAPGLENVELFRGDLTARKAYKYFGAPGDRHSRTYPKTTSKGKNREKRLLK",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL19",
+            "entity_poly_strand_id": "LR0",
+            "entity_poly_seq_one_letter_code": "MTKLPTIRRIAASIFKCGKNKIWFDPGETPRLASSSTRMQVRRLIKDGVILRKPNTVHSRWRANKRAEARKKGRHMGIGKRKGTKNARMPEKRVWIKKIRGQRASLKEMKKSGHITPEEFRQYYMQAKGNMFKSLKVMEDHIEKKREEKMRIKDLAAQAAALRMKK",
+            "entity_poly_seq_one_letter_code_can": "MTKLPTIRRIAASIFKCGKNKIWFDPGETPRLASSSTRMQVRRLIKDGVILRKPNTVHSRWRANKRAEARKKGRHMGIGKRKGTKNARMPEKRVWIKKIRGQRASLKEMKKSGHITPEEFRQYYMQAKGNMFKSLKVMEDHIEKKREEKMRIKDLAAQAAALRMKK",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL22",
+            "entity_poly_strand_id": "LU0",
+            "entity_poly_seq_one_letter_code": "MNSVQAENDTRCYELNCSVLVKDSLLSTEDLNSYLEARMKVNGRTGNLAGNIDLVCTEESILVKPRVRLSKKYLKYLVKKFLYKKELIDWVRILSTGKSSYKLAYYRVVSNKYE",
+            "entity_poly_seq_one_letter_code_can": "MNSVQAENDTRCYELNCSVLVKDSLLSTEDLNSYLEARMKVNGRTGNLAGNIDLVCTEESILVKPRVRLSKKYLKYLVKKFLYKKELIDWVRILSTGKSSYKLAYYRVVSNKYE",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL24",
+            "entity_poly_strand_id": "LW0",
+            "entity_poly_seq_one_letter_code": "MVKEGVCVYSGYEVPKGSGLIRVTNDTRSFLFLNKKVQSLSNRKINPRDVAWTAASRAFHKKGMKKVVRKEAEIQVVKEVRGFPSVPKSIIVQPKRDDDQKKKAERGAETFRAQKKVTKAEGRKMKADGRWQR",
+            "entity_poly_seq_one_letter_code_can": "MVKEGVCVYSGYEVPKGSGLIRVTNDTRSFLFLNKKVQSLSNRKINPRDVAWTAASRAFHKKGMKKVVRKEAEIQVVKEVRGFPSVPKSIIVQPKRDDDQKKKAERGAETFRAQKKVTKAEGRKMKADGRWQR",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL23",
+            "entity_poly_strand_id": "LX0",
+            "entity_poly_seq_one_letter_code": "MEIKRNNPKYTRKAVTQPATGHPADIIRFGACNEKAVRLIENNNTLVFICDKYATKPQIGNAVTRFYKVPVEKVNTARSIKGYKKAYVKLKNEGDALKIANEAGII",
+            "entity_poly_seq_one_letter_code_can": "MEIKRNNPKYTRKAVTQPATGHPADIIRFGACNEKAVRLIENNNTLVFICDKYATKPQIGNAVTRFYKVPVEKVNTARSIKGYKKAYVKLKNEGDALKIANEAGII",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL27",
+            "entity_poly_strand_id": "LZ0",
+            "entity_poly_seq_one_letter_code": "MLLKPNTVVVALKGRFAGKKGVVVSASEDGRKILVAGIEKMPQPVTDDMSECKKKRLSRMSAFIKNYNSRHLLATRYYGDVGLGAIDFSRIFENFESKKMAIDAVKKAFINANKQKKAAWLFEKLVF",
+            "entity_poly_seq_one_letter_code_can": "MLLKPNTVVVALKGRFAGKKGVVVSASEDGRKILVAGIEKMPQPVTDDMSECKKKRLSRMSAFIKNYNSRHLLATRYYGDVGLGAIDFSRIFENFESKKMAIDAVKKAFINANKQKKAAWLFEKLVF",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS2",
+            "entity_poly_strand_id": "SA0",
+            "entity_poly_seq_one_letter_code": "MQKEIEIPEDFVKAIILSNAHLGSTTATTNFKQYIYGRRKNDLIHVIDINEMWKKLIIAARLFVSIEDPSSIIVASNKKFGKRAVLRFCSETGATPLIGRFIPGGFTNQVINDVKESRLVVVSDTYADKQTVMEASYVNTPCIAFCNSDNSLSRVDVVIPMNNRSPLSIGCGFYLFAKVIKYIKGEESFDVDVRSEIELYFYRDPVELDMIIQEQKEKNETSFQVKDAAPEVPAEAEQWADA",
+            "entity_poly_seq_one_letter_code_can": "MQKEIEIPEDFVKAIILSNAHLGSTTATTNFKQYIYGRRKNDLIHVIDINEMWKKLIIAARLFVSIEDPSSIIVASNKKFGKRAVLRFCSETGATPLIGRFIPGGFTNQVINDVKESRLVVVSDTYADKQTVMEASYVNTPCIAFCNSDNSLSRVDVVIPMNNRSPLSIGCGFYLFAKVIKYIKGEESFDVDVRSEIELYFYRDPVELDMIIQEQKEKNETSFQVKDAAPEVPAEAEQWADA",
+            "entity_poly_seq_length": 242,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS26",
+            "entity_poly_strand_id": "SAA",
+            "entity_poly_seq_one_letter_code": "MPVKRKNHGRAKKNRGHVKLIRCDNCASAVPKDKAIKRFQIKSLIEAAAHDDVRTATIYEEYEVPKFFHKNQYCVSCAVHLKAVRCRSAEGRKDRSNPHARVKQ",
+            "entity_poly_seq_one_letter_code_can": "MPVKRKNHGRAKKNRGHVKLIRCDNCASAVPKDKAIKRFQIKSLIEAAAHDDVRTATIYEEYEVPKFFHKNQYCVSCAVHLKAVRCRSAEGRKDRSNPHARVKQ",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS5",
+            "entity_poly_strand_id": "SC0",
+            "entity_poly_seq_one_letter_code": "MESSVAGRNTGPLPRKKEEAVRPRVPRQQDKEWVPTTDLGILVKMGKINMEDIFQYSLKIKESGIVDHLLKGQLKEEVIKIKSVQKQTRAGQRTRMKVVVVVGNGAGYVGIGTKTSKEAATAIKGAIERAKCAIRPVRLGFWGNNYGKEHTVPCKATGKSGSVIMRVIPAPKGSGIRAGSVPKKIFQLAGVKDVFTLSKGQTSTTENFAKATVSALDKSSCFFVPEFWREKEPELNPLSRYSRLIKEYREKIARK",
+            "entity_poly_seq_one_letter_code_can": "MESSVAGRNTGPLPRKKEEAVRPRVPRQQDKEWVPTTDLGILVKMGKINMEDIFQYSLKIKESGIVDHLLKGQLKEEVIKIKSVQKQTRAGQRTRMKVVVVVGNGAGYVGIGTKTSKEAATAIKGAIERAKCAIRPVRLGFWGNNYGKEHTVPCKATGKSGSVIMRVIPAPKGSGIRAGSVPKKIFQLAGVKDVFTLSKGQTSTTENFAKATVSALDKSSCFFVPEFWREKEPELNPLSRYSRLIKEYREKIARK",
+            "entity_poly_seq_length": 255,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS3",
+            "entity_poly_strand_id": "SD0",
+            "entity_poly_seq_one_letter_code": "MVSTKQVLSKFIEKGIMKAELNEFFSKEFEDEVYSGMEMKPHEIPVQITVRVNKTHEVIGERKSRLNRIKHVLMERFPLLRTGVEINVEMVKNKGLCPKTQAEYIKAKLIENVPFRRAVNSVMRSIKESGAQGCVIIVSGKLKGQRARSVKYADGLLIHTGSSKEDYVKEALSVVHLKQGVIGIKVRIMLPYDPENVNGPSKVISDKIKIFEPKELY",
+            "entity_poly_seq_one_letter_code_can": "MVSTKQVLSKFIEKGIMKAELNEFFSKEFEDEVYSGMEMKPHEIPVQITVRVNKTHEVIGERKSRLNRIKHVLMERFPLLRTGVEINVEMVKNKGLCPKTQAEYIKAKLIENVPFRRAVNSVMRSIKESGAQGCVIIVSGKLKGQRARSVKYADGLLIHTGSSKEDYVKEALSVVHLKQGVIGIKVRIMLPYDPENVNGPSKVISDKIKIFEPKELY",
+            "entity_poly_seq_length": 217,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS4",
+            "entity_poly_strand_id": "SE0",
+            "entity_poly_seq_one_letter_code": "MTRGPRRHLKRLNAPSSWQLDKLGGKYAPKPSSGPHRLSECIPLCILLTRKLEYATTTKELKYILRKKMIKVNGVVRTDKDFPVGFMDVISIDTTNENMRLLYSNNRAFMLHNISSEEATYRLCRVSKKKMGIGGIPYIYTQDGSTFRYCDPKINVNDVVKVNIKEKKVVGFLPFKSGMKVFITKGKNLGCIGVISGIEKHMGSHDIAYVVDAKGRSFSTRTSNAFIIGDSESYWISLPEGEGIKISELEKSNIKYGEIASVPVAEE",
+            "entity_poly_seq_one_letter_code_can": "MTRGPRRHLKRLNAPSSWQLDKLGGKYAPKPSSGPHRLSECIPLCILLTRKLEYATTTKELKYILRKKMIKVNGVVRTDKDFPVGFMDVISIDTTNENMRLLYSNNRAFMLHNISSEEATYRLCRVSKKKMGIGGIPYIYTQDGSTFRYCDPKINVNDVVKVNIKEKKVVGFLPFKSGMKVFITKGKNLGCIGVISGIEKHMGSHDIAYVVDAKGRSFSTRTSNAFIIGDSESYWISLPEGEGIKISELEKSNIKYGEIASVPVAEE",
+            "entity_poly_seq_length": 267,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS7",
+            "entity_poly_strand_id": "SF0",
+            "entity_poly_seq_one_letter_code": "MSIACDSGELLLFDKYSRDEVVVNDRSLKNYIFLRSLSSYPHTASRKGSRQFGKGEIPIEERFVCGLMRRGRNSGKKRLAMAALRNAFIIINTLTGKNPLQVLVDALVNCGPREDCARIGKGGAMKRTSVDVSPLRRLNVAIFLVCKGIRQACMKSTKTIAEAIADELIAASRNSPNSFGVKKKDEIERMAKSNR",
+            "entity_poly_seq_one_letter_code_can": "MSIACDSGELLLFDKYSRDEVVVNDRSLKNYIFLRSLSSYPHTASRKGSRQFGKGEIPIEERFVCGLMRRGRNSGKKRLAMAALRNAFIIINTLTGKNPLQVLVDALVNCGPREDCARIGKGGAMKRTSVDVSPLRRLNVAIFLVCKGIRQACMKSTKTIAEAIADELIAASRNSPNSFGVKKKDEIERMAKSNR",
+            "entity_poly_seq_length": 195,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "RACK1",
+            "entity_poly_strand_id": "SGG",
+            "entity_poly_seq_one_letter_code": "MTTTARLNEVATFSGHKDAVMALGTCETPDAKLLFSASRDRRVLGWSLGEGAMFGRIVKEFTKHGHSVNDVAVARSGSFVVSAGCDGLGRIIDVQSGERTLLRGHESDLTCAAINCQENKIVTGSVDKTLRLWNMCGELQHTFDAAIECAHEDWVMCAEFRPLDENEVVSGSVDGTVKVWDIDARVVKSTFFDGCLIQSCAEGSEYRTRPVADGSFAVRALALSADGSCCAYGGSNCKTYILNLAESEAIAAFETDTPVSALAFGLTDVILACGTQDKIYIWDVVSNCLLAVADLSAHGKRVRCRSLVWTTSNLIAGLGNGKILVFEFVR",
+            "entity_poly_seq_one_letter_code_can": "MTTTARLNEVATFSGHKDAVMALGTCETPDAKLLFSASRDRRVLGWSLGEGAMFGRIVKEFTKHGHSVNDVAVARSGSFVVSAGCDGLGRIIDVQSGERTLLRGHESDLTCAAINCQENKIVTGSVDKTLRLWNMCGELQHTFDAAIECAHEDWVMCAEFRPLDENEVVSGSVDGTVKVWDIDARVVKSTFFDGCLIQSCAEGSEYRTRPVADGSFAVRALALSADGSCCAYGGSNCKTYILNLAESEAIAAFETDTPVSALAFGLTDVILACGTQDKIYIWDVVSNCLLAVADLSAHGKRVRCRSLVWTTSNLIAGLGNGKILVFEFVR",
+            "entity_poly_seq_length": 330,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS7",
+            "entity_poly_strand_id": "SH0",
+            "entity_poly_seq_one_letter_code": "MSEQTEHEKKVAQEIKKLYSQDMSGEFGDKLSDIRIQTIDREQGKKILLIRVPEEVLEVVHIGYSKLSGKLKALYPDFHTLVIRNTPIVNVSSIKGNVYRIDSKNTKKSVHENWIRDLCYPALVEMRKTDVFNGCERIESALVSSNSNYSDDDFAAMECAFKTLTGRTIHYGNIFY",
+            "entity_poly_seq_one_letter_code_can": "MSEQTEHEKKVAQEIKKLYSQDMSGEFGDKLSDIRIQTIDREQGKKILLIRVPEEVLEVVHIGYSKLSGKLKALYPDFHTLVIRNTPIVNVSSIKGNVYRIDSKNTKKSVHENWIRDLCYPALVEMRKTDVFNGCERIESALVSSNSNYSDDDFAAMECAFKTLTGRTIHYGNIFY",
+            "entity_poly_seq_length": 176,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS8",
+            "entity_poly_strand_id": "SI0",
+            "entity_poly_seq_one_letter_code": "MGLSRSNRHKRTKTGAKKPIFCKKRKFHMARQPSNTKIGEDKLQELRCRGGVIKKRALRLSSGNFTCRTHGFSYKTKIMQVMYHPSSNELMRTNTLTKSAVIKLDSKQFKEKFDSILSTDSELKNTDPLFFSNLDAGKLYGVIVSRPGQCGRADGYILQGDELNFYINKFKKKAR",
+            "entity_poly_seq_one_letter_code_can": "MGLSRSNRHKRTKTGAKKPIFCKKRKFHMARQPSNTKIGEDKLQELRCRGGVIKKRALRLSSGNFTCRTHGFSYKTKIMQVMYHPSSNELMRTNTLTKSAVIKLDSKQFKEKFDSILSTDSELKNTDPLFFSNLDAGKLYGVIVSRPGQCGRADGYILQGDELNFYINKFKKKAR",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS4",
+            "entity_poly_strand_id": "SJ0",
+            "entity_poly_seq_one_letter_code": "MARPKYSKRSRVPRKPYEKDRLIDEMKLLGEFGLKNKRELWTQEKICDDIKKRARDLLISTDESEIIINGRALLNKLIKLGIFSDVDFKDMDDIKRNLEKVLDLTASHFLRRRLQHRVFEACLAKSVHHARNLINHRHITVRGCVIDKPGYMVFAENEGHIEINKFSSVGGAKPGRSKKKHAVAQGE",
+            "entity_poly_seq_one_letter_code_can": "MARPKYSKRSRVPRKPYEKDRLIDEMKLLGEFGLKNKRELWTQEKICDDIKKRARDLLISTDESEIIINGRALLNKLIKLGIFSDVDFKDMDDIKRNLEKVLDLTASHFLRRRLQHRVFEACLAKSVHHARNLINHRHITVRGCVIDKPGYMVFAENEGHIEINKFSSVGGAKPGRSKKKHAVAQGE",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL29",
+            "entity_poly_strand_id": "LBB",
+            "entity_poly_seq_one_letter_code": "MAKRKNHTNHNQNRKNHRNGIKKVKKSAPSFRGLNHKYLRNMLYSRKYNNIGRAAYEAEHGPQQ",
+            "entity_poly_seq_one_letter_code_can": "MAKRKNHTNHNQNRKNHRNGIKKVKKSAPSFRGLNHKYLRNMLYSRKYNNIGRAAYEAEHGPQQ",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS19",
+            "entity_poly_strand_id": "ST0",
+            "entity_poly_seq_one_letter_code": "MKELFMVRADALNEALAGYLKSKNIVKLPENFDIIKTSHGKQRAPSDKDWYYKRAASIFRKLLIAMHEEKRIGVKRLSRKYGCAKNRGSRPSKHVDGSRGHIRKIMQDLERAGLIVKDGNYRKVSDMGIIETGQLISQIKE",
+            "entity_poly_seq_one_letter_code_can": "MKELFMVRADALNEALAGYLKSKNIVKLPENFDIIKTSHGKQRAPSDKDWYYKRAASIFRKLLIAMHEEKRIGVKRLSRKYGCAKNRGSRPSKHVDGSRGHIRKIMQDLERAGLIVKDGNYRKVSDMGIIETGQLISQIKE",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS10",
+            "entity_poly_strand_id": "SU0",
+            "entity_poly_seq_one_letter_code": "MELEIDEKKYSVDINLEGTSVEEIEKVCRDFYAYAKTLVPDMGGVKRLQTKKGKITTRRSPCGEGTNTWSRYRISVHRRSFSAHLYPSVLEKFATFLKGSNVEISLVIKSN",
+            "entity_poly_seq_one_letter_code_can": "MELEIDEKKYSVDINLEGTSVEEIEKVCRDFYAYAKTLVPDMGGVKRLQTKKGKITTRRSPCGEGTNTWSRYRISVHRRSFSAHLYPSVLEKFATFLKGSNVEISLVIKSN",
+            "entity_poly_seq_length": 111,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS21",
+            "entity_poly_strand_id": "SV0",
+            "entity_poly_seq_one_letter_code": "MSFEQRICTFTGRPIPHTDNASVQLTFVELDSDGRATDKVLIYNVCGKIRKDGTIDEILTNTLAQN",
+            "entity_poly_seq_one_letter_code_can": "MSFEQRICTFTGRPIPHTDNASVQLTFVELDSDGRATDKVLIYNVCGKIRKDGTIDEILTNTLAQN",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS8",
+            "entity_poly_strand_id": "SW0",
+            "entity_poly_seq_one_letter_code": "MNRLAATCKAINNANRSGKRQVLIRFVTKTTRKFLEKMQVCGYISTLTYIDDHRQGKVIIGLNGRLNKCGAICPNYCLTLKDVEKFKDKILPARQFGHLILNTSKGMIDHNECVTMKSGGEVLGFFY",
+            "entity_poly_seq_one_letter_code_can": "MNRLAATCKAINNANRSGKRQVLIRFVTKTTRKFLEKMQVCGYISTLTYIDDHRQGKVIIGLNGRLNKCGAICPNYCLTLKDVEKFKDKILPARQFGHLILNTSKGMIDHNECVTMKSGGEVLGFFY",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS24",
+            "entity_poly_strand_id": "SY0",
+            "entity_poly_seq_one_letter_code": "MSLETQICMMRENRPLQRREVVLSISHPKSRTPSKEDICSQISSLFKVRKELIIVSGCSTRFGTHQTKCKVRIYESPEMLREIERDFVVKRKTGEEVRKKKARRVRKKERKEKAKIFGTLRRHLKKAEKRAQK",
+            "entity_poly_seq_one_letter_code_can": "MSLETQICMMRENRPLQRREVVLSISHPKSRTPSKEDICSQISSLFKVRKELIIVSGCSTRFGTHQTKCKVRIYESPEMLREIERDFVVKRKTGEEVRKKKARRVRKKERKEKAKIFGTLRRHLKKAEKRAQK",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL30",
+            "entity_poly_strand_id": "LCC",
+            "entity_poly_seq_one_letter_code": "MSRKRNVTDGLAFKLPLAMRTGVYKVGYKSAIKLLQAGRTKYIVAAANFPSVKRKLLEYYAALSNNVPVVIFKGSNNELAKVCDHHYRIGVISILDDGESGLISAGTQ",
+            "entity_poly_seq_one_letter_code_can": "MSRKRNVTDGLAFKLPLAMRTGVYKVGYKSAIKLLQAGRTKYIVAAANFPSVKRKLLEYYAALSNNVPVVIFKGSNNELAKVCDHHYRIGVISILDDGESGLISAGTQ",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL18",
+            "entity_poly_strand_id": "LD0",
+            "entity_poly_seq_one_letter_code": "MTDNKIKKSYFSRFQTKLRRRREGKTDYKHRYNLIRQDVNKHGLMKIRLVVRITNSRIICEILRAHVDGDRSIAYADSTELKRYGITFGLKNYTAAYATGLLVACRYNNKIAGEGPRPECYLDIGLRRSTRGARVFGAMKGALDGGLVMPHSLKRVPGYVSEEEFDSEVFRNKLFGKILAGYMKEMMENYPEKYKKTFQEYIKKGINPDDLENIYENAFKKIREDPSRVSKTHGDYSIFKEFKRVRLSKEERAARSRAKLLDIEVK",
+            "entity_poly_seq_one_letter_code_can": "MTDNKIKKSYFSRFQTKLRRRREGKTDYKHRYNLIRQDVNKHGLMKIRLVVRITNSRIICEILRAHVDGDRSIAYADSTELKRYGITFGLKNYTAAYATGLLVACRYNNKIAGEGPRPECYLDIGLRRSTRGARVFGAMKGALDGGLVMPHSLKRVPGYVSEEEFDSEVFRNKLFGKILAGYMKEMMENYPEKYKKTFQEYIKKGINPDDLENIYENAFKKIREDPSRVSKTHGDYSIFKEFKRVRLSKEERAARSRAKLLDIEVK",
+            "entity_poly_seq_length": 266,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6ZU5",
+            "rcsb_pdbx_description": "5S rRNA",
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "entity_poly_strand_id": "L70",
+            "entity_poly_seq_one_letter_code": "AGCUGCGGUCAUAUCCACAGUAGAGCACCAGAACCCGUCAGAUCUCUGAAGUUAAGCCUGUGAGAGCCUGUGGAGUACUUGGGUGGGCGACCACCUGGGAAAUGCAGGUACUGUAGCUU",
+            "entity_poly_seq_one_letter_code_can": "AGCUGCGGUCAUAUCCACAGUAGAGCACCAGAACCCGUCAGAUCUCUGAAGUUAAGCCUGUGAGAGCCUGUGGAGUACUUGGGUGGGCGACCACCUGGGAAAUGCAGGUACUGUAGCUU",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "rcsb_pdbx_description": "18S rRNA",
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "entity_poly_strand_id": "S60",
+            "entity_poly_seq_one_letter_code": "CACCAGGUUGAUUCUGCCUGACGUGUGCGCUAGUCUUGGGGACUUAGCCAUGCAAGCCAGCGAAGCGGCGCGGAGCGGCGGACGGCUCAGUAGGACGGCGAUAAUCCACCCGCAGCAGAGACAAGGAUAACCGCGGCAAGCUGCGGCUAAGACAUGGACAGGCUGCGGCGCGGGGAGGCGCGGGCAGCGGACAGGGAGCGGCUGCGGCGGAGUUGCUGGCCCAUCAGCUGGUAGGUAGGGUAAGGGCCUACCUAGGCGACGACGGGUGACGGGGGGUGAGAGCCCGGAACCGGAGAGGGAGCCUGAGAAACAGCUCCCACGUCCAAGGACGGCAGCAGGCGCGGAACUUGCCCAAUCCCGGCGGGGGAGGCAGCCACAAGACGUGGGGGCCCGGAACGCACGGCAAAGGAGUGCGGGGCGACUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAGGAGCGCACAUGAGUGUUGCUGCAGUUAAAACGUCCGUAGUCGGCCCGGGCGCGCUGUGAGGAAACCGCGGGGCCCAAGGCGGCGGGCAGCACGGGAGCGGGGGCGACAGGAACGGACAACGGCCGCGGGAUCCGGGGGCGAGAGGUGAAAAUCGGGGACCCCGCGGGGACGGGCGGAAGCGAAGGCGGCGGCCGGGGACGUGUCCGUUGAUCAAGGACGAAGGCCGGAGGAUCAAAGAUGAUUAGAUACCGUCGUAGUUCCGGCAGUAAACGAUGCCGACGGGGCGAGGCCAGGGGGCUGUGUCCGGGAGAAAUUGGAGUGUUUGGGCUCUGGGGAUAGUACGGUCGCAAGACAGAAACUUAAAGAAAUUGACGGAAGGACACCACAAGGAGUGGAGUGUGCGGCUUAAUUUGACUCAACGCGGGGCAGCUUACCAGGGCCGGAUGCGCGGGAGAUUGGCGGCGGAGCGCCCCCGAGAUUGCGCAGGGAGUGGUGCAUGGCCGUUUGCAACACGUGGGGUGACCUGUCUGGUUGAUUCCGACAACGCGUGAGGCCUGGGGUGCAGCAGGGGCUGUGCGACGGGCGGCGGCAAGCUGCAGGAGGGCAGGCGAAAACAGGUCAGUGAUGCCCUCAGAUGCUCUGGGCUGCACGCGCACUACAAUGGCGCGGCGAGCGGGAGUGCCGGGAGGCGCGGGCGAGGCCGUGGCGCAGCAGGGAUGGGGGCCUGGAAGGGUGCCCUGAACGAGGAAUUCCUAGUAGCCGCGGGUCACCAAGCCGCGGCGAAUGAGUCCCUGUUCUUUGUACACACCGCCCGUCACUACCUAAGAUGGAUGUGCAGGCGAGGAGGCUGGGCAGGCACCCGAGCCUGUGCAACUAGAUAAGGUAUAAGUCGUAACAAGGCUGCAGUAGGUGAACCUGCGGCAGGAUCACUA",
+            "entity_poly_seq_one_letter_code_can": "CACCAGGUUGAUUCUGCCUGACGUGUGCGCUAGUCUUGGGGACUUAGCCAUGCAAGCCAGCGAAGCGGCGCGGAGCGGCGGACGGCUCAGUAGGACGGCGAUAAUCCACCCGCAGCAGAGACAAGGAUAACCGCGGCAAGCUGCGGCUAAGACAUGGACAGGCUGCGGCGCGGGGAGGCGCGGGCAGCGGACAGGGAGCGGCUGCGGCGGAGUUGCUGGCCCAUCAGCUGGUAGGUAGGGUAAGGGCCUACCUAGGCGACGACGGGUGACGGGGGGUGAGAGCCCGGAACCGGAGAGGGAGCCUGAGAAACAGCUCCCACGUCCAAGGACGGCAGCAGGCGCGGAACUUGCCCAAUCCCGGCGGGGGAGGCAGCCACAAGACGUGGGGGCCCGGAACGCACGGCAAAGGAGUGCGGGGCGACUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAGGAGCGCACAUGAGUGUUGCUGCAGUUAAAACGUCCGUAGUCGGCCCGGGCGCGCUGUGAGGAAACCGCGGGGCCCAAGGCGGCGGGCAGCACGGGAGCGGGGGCGACAGGAACGGACAACGGCCGCGGGAUCCGGGGGCGAGAGGUGAAAAUCGGGGACCCCGCGGGGACGGGCGGAAGCGAAGGCGGCGGCCGGGGACGUGUCCGUUGAUCAAGGACGAAGGCCGGAGGAUCAAAGAUGAUUAGAUACCGUCGUAGUUCCGGCAGUAAACGAUGCCGACGGGGCGAGGCCAGGGGGCUGUGUCCGGGAGAAAUUGGAGUGUUUGGGCUCUGGGGAUAGUACGGUCGCAAGACAGAAACUUAAAGAAAUUGACGGAAGGACACCACAAGGAGUGGAGUGUGCGGCUUAAUUUGACUCAACGCGGGGCAGCUUACCAGGGCCGGAUGCGCGGGAGAUUGGCGGCGGAGCGCCCCCGAGAUUGCGCAGGGAGUGGUGCAUGGCCGUUUGCAACACGUGGGGUGACCUGUCUGGUUGAUUCCGACAACGCGUGAGGCCUGGGGUGCAGCAGGGGCUGUGCGACGGGCGGCGGCAAGCUGCAGGAGGGCAGGCGAAAACAGGUCAGUGAUGCCCUCAGAUGCUCUGGGCUGCACGCGCACUACAAUGGCGCGGCGAGCGGGAGUGCCGGGAGGCGCGGGCGAGGCCGUGGCGCAGCAGGGAUGGGGGCCUGGAAGGGUGCCCUGAACGAGGAAUUCCUAGUAGCCGCGGGUCACCAAGCCGCGGCGAAUGAGUCCCUGUUCUUUGUACACACCGCCCGUCACUACCUAAGAUGGAUGUGCAGGCGAGGAGGCUGGGCAGGCACCCGAGCCUGUGCAACUAGAUAAGGUAUAAGUCGUAACAAGGCUGCAGUAGGUGAACCUGCGGCAGGAUCACUA",
+            "entity_poly_seq_length": 1400,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6ZU5",
+            "rcsb_pdbx_description": "25S rRNA",
+            "rcsb_source_organism_description": [
+                "Paranosema locustae"
+            ],
+            "rcsb_source_organism_id": [
+                235221
+            ],
+            "entity_poly_strand_id": "L50",
+            "entity_poly_seq_one_letter_code": "ACACACCCCGGUGGGGGAUCCCUCGGCCUGCGCGCCGGGCAAGGACGCGGACGCACGCGAUAGACGGCACGAUCCUCAGACACGACUGCCGGUCUCCGACAGCGGCGCAGCCGCAGACAACCCCCCGGACUUAAGCAUAUCACUAGGGGGCGGAGAAGAAACCAACAGGGAUUCCUGCAGUAGCGGCGAGCGAACAGGGACGAGCCCGCAUGGCAAUCGGCAUCGCCGAGUUGUGACAGCGCACCGCGAACGCCCCGGACAGGGCGGCCACAGAGGGCGACAGCCCCGUAGCAGCGCGCAGCGGAGCGAGUAGCGCUGCUUGGUCAUGCAGCGCGAAGCGGUGGUGGCGCCAUCGAAGGCUAAAUACGCCGCAGGACCGAUAGCGCACAAGUACCGCGAGGGGACGGCGACGAGCAGCCCGCAGGGGCGGCGAAAGCGUGAAACCACCGGGGCGCCCACUUGUGGGCCCCGUCUUGAAACACGGACCAAGGAGUGCAUGUGCGCAGCGAGUCCGCUCCGCGGCGCAGCGAAGGCCAUCGAGCUGCGCACAUGCGACCCGAUAGGCAGUGAACUACGCCUGGGCAGGGCGAAGCCCGCGGAAACGCAGGUGGAGGCCCCGAGCCGUUCUGACGUGCAAUUCGAUGGCGCGACCUGGGCGUAGCGGCGAAAGACCAAUCGAACUGCCUGGUAGCUGGUUCCCUCCGAAAUGUCCCGCAGGACAGCGGGCGCCCCGCAGGUCUGCCGCGUAGAGCAAUGGCGCGGCGUCCGGCAGCGCCGGCGCACCCCCAAACUGCGAAGCGGCAGGGCGCGCGCAGCAGCGUGCGCGCGCACAACUGCGGGCGCCUAGUGGGCCGCCGCUGGUAAGCAGCGCCGGCAAUGAGGACACAACCUCGUGCGCGGGCAAGGGACCCCAGCUGCGCACACAGACGAAGGGCGCGGGCGCGUCGCGACAGCAGGGCGGUGGCCAUAGAGGUCGGCACCCGCUAAGAACCGUGUUGCAACGUACCUGCCGAACACGCCCGCCCCGAAAAUGGACGGUGCUCAGCGCAGCCCCGACCCCGCGCACGCACAGCGUGGUAGGAGGGCGCGCCGGCGCCGCAGAAGCGCAUGCGUGCGCAUGCGUGGAGGCACCCGCGGCGCAGAUCUUGGUGGCAGUAGCACACUCGGGCGCGAGCCCCGAGGGCCGGGAGACGGGUUCUUCCGCCAGGCCGCUCCGCGGAAGGUGAGCCGGGUCCUAAGGACGCGCUGGCCCGCAACCGACAGGCAAGCGGGCACACAUUCCCGCGCCGUGUGCCAUGCGGCAACGCACCGUGCGCGGCCGGGCGCAGGGCUGGCGCCGGGGGCCCUCCUCCCCCGCAAAGCGGCCCGCCUGCGGACUCUUGCAGCACGAGGCAGCCCGCGCCGCGUGGCGGGGCCGUCGCCGCGCGCCAGGACUCGCCCCCCGUGAAGCCCCGCGCACGCACACACACGCCCGUACCAAUCCGCACCAGGGCUCCAGGGCGCGCACCCCACGGCCAGGGCCCACGCAGGUUUGGGAAUUCGGCAAGCUGGAUCCGCAACCUCGGGACAAGGAUUGGCUCCGGGCGCCGGAGCUGUCGCUUCCAAGGGGAAUCCGACUGUUUAGUAAAAACAUAGCCUUGCGCCGCACGCAAGGUGAAUUCUGCCCAGUGCCCGGGACGUCACGCCGGCGCGACCCGCGCACGCACGGGUCAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAACGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAGCAACGAGAUUCCCACUGUCCCUACCUGCUCCCCAGCGAACCCACUGCCAAGGGAACGGGCUUGGCGCAGUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUGUGGGGCCGCGGCGCGCCGCGCCGGCGUAGGCAGGUGGGAGGUGCGCCGUGAGUGAAAGACCACUGCGCGCGCGCGCGCCCGCUUCGCGCAGCAACGCCCCCAGAUGGGGAGUUUGGCUGGGGCGGCACGUCUGCUAGACCCCAACGCAGACGUCCUACGGUGGGCUCAGCGCGGACAGAACCCGCGCGUCGAGCACAAGGGCAAACGCCCGCCUCACGGCGCCCCCCCGGGUGCCGGCGGGAAACCGGGGCCUAGCGAUCCCUCGCGCAUGCACGCCGCGUCGCGGGGGUGGCUGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUCCGCAGCGACGCCGCUUUUUGAUUCUUCGAUGUCGGCUCUUCCUAGCAUGGCGUGGCAGCGCGCGCCAAGUGUUGGAUUGUUCACCCACUGACAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAGCGCGGACACACCGGGCAGCGCGGGCUAGUACGAGAGGAACGCCCGUGCGGGGCCGCUGGUCCGCGCCUGUCCGACAGGGCAGGUGCGCCGCUACGCCCCGUGCGUGUACGGCUGGACGCCUCUAAGCCGGAGCCGCCCCCCCGUGUGUCUAAACCCCUGGUUUCCGCCCCCCGCGACCACGACGCGGCCGGGGGCUGGUGCUGUGCGCGUGCGAGCUCUGCGAGCCGCUGAGGCUUCCAGACCCCUGCGGGGUGUU",
+            "entity_poly_seq_one_letter_code_can": "ACACACCCCGGUGGGGGAUCCCUCGGCCUGCGCGCCGGGCAAGGACGCGGACGCACGCGAUAGACGGCACGAUCCUCAGACACGACUGCCGGUCUCCGACAGCGGCGCAGCCGCAGACAACCCCCCGGACUUAAGCAUAUCACUAGGGGGCGGAGAAGAAACCAACAGGGAUUCCUGCAGUAGCGGCGAGCGAACAGGGACGAGCCCGCAUGGCAAUCGGCAUCGCCGAGUUGUGACAGCGCACCGCGAACGCCCCGGACAGGGCGGCCACAGAGGGCGACAGCCCCGUAGCAGCGCGCAGCGGAGCGAGUAGCGCUGCUUGGUCAUGCAGCGCGAAGCGGUGGUGGCGCCAUCGAAGGCUAAAUACGCCGCAGGACCGAUAGCGCACAAGUACCGCGAGGGGACGGCGACGAGCAGCCCGCAGGGGCGGCGAAAGCGUGAAACCACCGGGGCGCCCACUUGUGGGCCCCGUCUUGAAACACGGACCAAGGAGUGCAUGUGCGCAGCGAGUCCGCUCCGCGGCGCAGCGAAGGCCAUCGAGCUGCGCACAUGCGACCCGAUAGGCAGUGAACUACGCCUGGGCAGGGCGAAGCCCGCGGAAACGCAGGUGGAGGCCCCGAGCCGUUCUGACGUGCAAUUCGAUGGCGCGACCUGGGCGUAGCGGCGAAAGACCAAUCGAACUGCCUGGUAGCUGGUUCCCUCCGAAAUGUCCCGCAGGACAGCGGGCGCCCCGCAGGUCUGCCGCGUAGAGCAAUGGCGCGGCGUCCGGCAGCGCCGGCGCACCCCCAAACUGCGAAGCGGCAGGGCGCGCGCAGCAGCGUGCGCGCGCACAACUGCGGGCGCCUAGUGGGCCGCCGCUGGUAAGCAGCGCCGGCAAUGAGGACACAACCUCGUGCGCGGGCAAGGGACCCCAGCUGCGCACACAGACGAAGGGCGCGGGCGCGUCGCGACAGCAGGGCGGUGGCCAUAGAGGUCGGCACCCGCUAAGAACCGUGUUGCAACGUACCUGCCGAACACGCCCGCCCCGAAAAUGGACGGUGCUCAGCGCAGCCCCGACCCCGCGCACGCACAGCGUGGUAGGAGGGCGCGCCGGCGCCGCAGAAGCGCAUGCGUGCGCAUGCGUGGAGGCACCCGCGGCGCAGAUCUUGGUGGCAGUAGCACACUCGGGCGCGAGCCCCGAGGGCCGGGAGACGGGUUCUUCCGCCAGGCCGCUCCGCGGAAGGUGAGCCGGGUCCUAAGGACGCGCUGGCCCGCAACCGACAGGCAAGCGGGCACACAUUCCCGCGCCGUGUGCCAUGCGGCAACGCACCGUGCGCGGCCGGGCGCAGGGCUGGCGCCGGGGGCCCUCCUCCCCCGCAAAGCGGCCCGCCUGCGGACUCUUGCAGCACGAGGCAGCCCGCGCCGCGUGGCGGGGCCGUCGCCGCGCGCCAGGACUCGCCCCCCGUGAAGCCCCGCGCACGCACACACACGCCCGUACCAAUCCGCACCAGGGCUCCAGGGCGCGCACCCCACGGCCAGGGCCCACGCAGGUUUGGGAAUUCGGCAAGCUGGAUCCGCAACCUCGGGACAAGGAUUGGCUCCGGGCGCCGGAGCUGUCGCUUCCAAGGGGAAUCCGACUGUUUAGUAAAAACAUAGCCUUGCGCCGCACGCAAGGUGAAUUCUGCCCAGUGCCCGGGACGUCACGCCGGCGCGACCCGCGCACGCACGGGUCAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAACGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAGCAACGAGAUUCCCACUGUCCCUACCUGCUCCCCAGCGAACCCACUGCCAAGGGAACGGGCUUGGCGCAGUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUGUGGGGCCGCGGCGCGCCGCGCCGGCGUAGGCAGGUGGGAGGUGCGCCGUGAGUGAAAGACCACUGCGCGCGCGCGCGCCCGCUUCGCGCAGCAACGCCCCCAGAUGGGGAGUUUGGCUGGGGCGGCACGUCUGCUAGACCCCAACGCAGACGUCCUACGGUGGGCUCAGCGCGGACAGAACCCGCGCGUCGAGCACAAGGGCAAACGCCCGCCUCACGGCGCCCCCCCGGGUGCCGGCGGGAAACCGGGGCCUAGCGAUCCCUCGCGCAUGCACGCCGCGUCGCGGGGGUGGCUGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUCCGCAGCGACGCCGCUUUUUGAUUCUUCGAUGUCGGCUCUUCCUAGCAUGGCGUGGCAGCGCGCGCCAAGUGUUGGAUUGUUCACCCACUGACAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAGCGCGGACACACCGGGCAGCGCGGGCUAGUACGAGAGGAACGCCCGUGCGGGGCCGCUGGUCCGCGCCUGUCCGACAGGGCAGGUGCGCCGCUACGCCCCGUGCGUGUACGGCUGGACGCCUCUAAGCCGGAGCCGCCCCCCCGUGUGUCUAAACCCCUGGUUUCCGCCCCCCGCGACCACGACGCGGCCGGGGGCUGGUGCUGUGCGCGUGCGAGCUCUGCGAGCCGCUGAGGCUUCCAGACCCCUGCGGGGUGUU",
+            "entity_poly_seq_length": 2639,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ADENOSINE MONOPHOSPHATE",
+            "formula_weight": 0.347,
+            "chemicalId": "AMP",
+            "chemicalName": "ADENOSINE MONOPHOSPHATE",
+            "cif_residueId": "none"
+        }
+    ]
+}

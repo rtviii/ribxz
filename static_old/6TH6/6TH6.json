@@ -1,0 +1,1985 @@
+{
+    "rcsb_id": "6TH6",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.55,
+    "rcsb_external_ref_id": [
+        "EMD-10503"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-10503"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.55,
+    "cryoem_exp_num_particles": 283424,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Sas-Chen, A.",
+        "Thomas, J.M.",
+        "Matzov, D.",
+        "Taoka, M.",
+        "Nance, K.D.",
+        "Nir, R.",
+        "Bryson, K.M.",
+        "Shachar, R.",
+        "Liman, G.L.S.",
+        "Burkhart, B.W.",
+        "Gamage, S.T.",
+        "Nobe, Y.",
+        "Briney, C.A.",
+        "Levy, M.J.",
+        "Fuchs, R.T.",
+        "Robb, G.B.",
+        "Hartmann, J.",
+        "Sharma, S.",
+        "Lin, Q.",
+        "Florens, L.",
+        "Washburn, M.P.",
+        "Isobe, T.",
+        "Santangelo, T.J.",
+        "Shalev-Benami, M.",
+        "Meier, J.L.",
+        "Schwartz, S."
+    ],
+    "citation_title": "Dynamic RNA acetylation revealed by quantitative cross-evolutionary mapping.",
+    "citation_pdbx_doi": "10.1038/s41586-020-2418-2",
+    "pdbx_keywords_text": "T. kodakarensis, ac4C, Ribosome, cryo-EM",
+    "_organismId": [
+        69014
+    ],
+    "_organismName": [
+        "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJD2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S2",
+            "entity_poly_strand_id": "Ab",
+            "entity_poly_seq_one_letter_code": "MEEYLVPLDQYLAAGVHIGTQQKTKDMKKFIYRVRQDGLYVLDVRKTDERLRVAGKFLAKFDPESILAVSVRLYGQRPVKKFGEVTGAKAIPGRFLPGTMTNPQVKNFIEPDVLIVTDPRADHQALKEAVEIGIPIVALVDTENFLSYVDIAIPTNNKGRKALALIYWILAREVLYNRKEIESREDFKIPVEDFEMRIIRT",
+            "entity_poly_seq_one_letter_code_can": "MEEYLVPLDQYLAAGVHIGTQQKTKDMKKFIYRVRQDGLYVLDVRKTDERLRVAGKFLAKFDPESILAVSVRLYGQRPVKKFGEVTGAKAIPGRFLPGTMTNPQVKNFIEPDVLIVTDPRADHQALKEAVEIGIPIVALVDTENFLSYVDIAIPTNNKGRKALALIYWILAREVLYNRKEIESREDFKIPVEDFEMRIIRT",
+            "entity_poly_seq_length": 201,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "Ac",
+            "entity_poly_seq_one_letter_code": "MAIERYFIKEGVKEMLIDEFLEKELRRAGYGGLDIKKTPLGTKVTIFAANPGYVIGRGGRRIRELTRILEKQFGLENPQIEVEEIKNPYLNAKVQAVRLAQALERGIHFRRAAYSAIRAIMRNGARGVEIRLSGKLTGERAKSVRFYQGYLAKVGNPAETLVSRGYAQAQLKLGVIGVKVSIMPPDAKLPDEIEIKEIVEEEVSANEAQ",
+            "entity_poly_seq_one_letter_code_can": "MAIERYFIKEGVKEMLIDEFLEKELRRAGYGGLDIKKTPLGTKVTIFAANPGYVIGRGGRRIRELTRILEKQFGLENPQIEVEEIKNPYLNAKVQAVRLAQALERGIHFRRAAYSAIRAIMRNGARGVEIRLSGKLTGERAKSVRFYQGYLAKVGNPAETLVSRGYAQAQLKLGVIGVKVSIMPPDAKLPDEIEIKEIVEEEVSANEAQ",
+            "entity_poly_seq_length": 209,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S3Ae family"
+            ],
+            "pfam_accessions": [
+                "PF01015"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGM4"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3Ae",
+            "entity_poly_strand_id": "Ad",
+            "entity_poly_seq_one_letter_code": "MARGNPRKRAAAAKDKWKMKEWYIVYAPDFFGSKEIGLTPADDPEKVIGRVIETTLKDLTGDFTKGHVKLYFQVYDVKGQNAYTKFKGHTLARSYIRSLVRRRTTRVDGIFNITTKDGYKLRVMGMVIAYRRIQTSQERAIRKIIQDIIYKKAEELNFADFVLQSVNGQIASEIAKEARKIYPIKRAEVRKIKVLAEPSA",
+            "entity_poly_seq_one_letter_code_can": "MARGNPRKRAAAAKDKWKMKEWYIVYAPDFFGSKEIGLTPADDPEKVIGRVIETTLKDLTGDFTKGHVKLYFQVYDVKGQNAYTKFKGHTLARSYIRSLVRRRTTRVDGIFNITTKDGYKLRVMGMVIAYRRIQTSQERAIRKIIQDIIYKKAEELNFADFVLQSVNGQIASEIAKEARKIYPIKRAEVRKIKVLAEPSA",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4",
+            "entity_poly_strand_id": "Ae",
+            "entity_poly_seq_one_letter_code": "MGDPKRQRKKYETPSHPWIKERLDRERVLKRNYALKNKKELWRHETQLKEFRRRARRLLAARGKQAEIERQQLLQRLYRLGLLPADAVLDDVLSLTVEDVLERRLQTIVYRKGLARTMKQARQLIVHGHIEVNGQVIRSPGYLVLREEEDTITYAKGSPFAKEGHPERMVIEQAKQGGEA",
+            "entity_poly_seq_one_letter_code_can": "MGDPKRQRKKYETPSHPWIKERLDRERVLKRNYALKNKKELWRHETQLKEFRRRARRLLAARGKQAEIERQQLLQRLYRLGLLPADAVLDDVLSLTVEDVLERRLQTIVYRKGLARTMKQARQLIVHGHIEVNGQVIRSPGYLVLREEEDTITYAKGSPFAKEGHPERMVIEQAKQGGEA",
+            "entity_poly_seq_length": 180,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL",
+                "This is the N-terminal domain of Ribosomal S4 / S4e proteins. This domain is associated with S4 and KOW domains [1].",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal family S4e",
+                "RS4NT (NUC023) domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00900",
+                "PF08071",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4e",
+            "entity_poly_strand_id": "Af",
+            "entity_poly_seq_one_letter_code": "MARKGPKRHLKRLAAPTSWYIHRKAYKWAVRPSPGPHSMKTSIPLIYIVRDYLGYAKTAREARKILNEGKILVDGRVRKDYKFPVGIMDVVSIPETGEHYRVLPNRIGKLILHPISEEEAKLKPFRINNKRMVKGAKVQLNLHDGSNHLVSLAEKDAYKTSYTVIMQVPERQIVKVLPFEVGAYVFVTQGKNVARKGKIVEVRQFPMGWPDVVTIEDENGELFDTLKEYAFVIGKDKPEISLP",
+            "entity_poly_seq_one_letter_code_can": "MARKGPKRHLKRLAAPTSWYIHRKAYKWAVRPSPGPHSMKTSIPLIYIVRDYLGYAKTAREARKILNEGKILVDGRVRKDYKFPVGIMDVVSIPETGEHYRVLPNRIGKLILHPISEEEAKLKPFRINNKRMVKGAKVQLNLHDGSNHLVSLAEKDAYKTSYTVIMQVPERQIVKVLPFEVGAYVFVTQGKNVARKGKIVEVRQFPMGWPDVVTIEDENGELFDTLKEYAFVIGKDKPEISLP",
+            "entity_poly_seq_length": 243,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS4",
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "Ag",
+            "entity_poly_seq_one_letter_code": "MSDPREIAQRVLEEWEPKTKLGRLVKEGQITDIHEIFRKGYQIKEPEIVDVLLPEVNLRENQEVLDIALTVRMTDSGRRIRFRVLAAVGNRDGYVGLGIGHGREVGIAIRKAINYAKMNIIEIKRGCGSWECRCRRPHSIPFAVEGKEGSVRVKLMPGPRGLGLVIGDVGKKILTLAGVQDVWSQTLGETRTTVNFAKAVFNALYNTNRVAIKPEDIERYGIVVGRAMPTTFEVE",
+            "entity_poly_seq_one_letter_code_can": "MSDPREIAQRVLEEWEPKTKLGRLVKEGQITDIHEIFRKGYQIKEPEIVDVLLPEVNLRENQEVLDIALTVRMTDSGRRIRFRVLAAVGNRDGYVGLGIGHGREVGIAIRKAINYAKMNIIEIKRGCGSWECRCRRPHSIPFAVEGKEGSVRVKLMPGPRGLGLVIGDVGKKILTLAGVQDVWSQTLGETRTTVNFAKAVFNALYNTNRVAIKPEDIERYGIVVGRAMPTTFEVE",
+            "entity_poly_seq_length": 235,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6e"
+            ],
+            "pfam_accessions": [
+                "PF01092"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDK8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6e",
+            "entity_poly_strand_id": "Ah",
+            "entity_poly_seq_one_letter_code": "MATFKLVISNPKNGVAKQVEISGPEADKLIGRRIGEEIPASELGLNLSEIFGEEIPADAKLKITGGTDKDGFPMRPDVHGPRRVKILLSRGPGFRPRERGERRKKTVHGNTISPNIVQVNMKIVF",
+            "entity_poly_seq_one_letter_code_can": "MATFKLVISNPKNGVAKQVEISGPEADKLIGRRIGEEIPASELGLNLSEIFGEEIPADAKLKITGGTDKDGFPMRPDVHGPRRVKILLSRGPGFRPRERGERRKKTVHGNTISPNIVQVNMKIVF",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JE04"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7",
+            "entity_poly_strand_id": "Ai",
+            "entity_poly_seq_one_letter_code": "MAKPLTERFFIPKEVKVMGRWSVEDVTVEDPSLKPYINLDARILPHSHGRYAKKPFGKANVHIVERLINKVMRSGASHYKAGGHFMRREHRSIMSKKMKAYEVVKEAFMIIERRTKQNPIQVLVKAIENSAPREDTTTIAFGGIRYHMSVDVSPLRRLDIALKNIALGASIKCYRNKTTYAQALAEEIIAAANKDPKSFAYSKKEEIERIAQSSR",
+            "entity_poly_seq_one_letter_code_can": "MAKPLTERFFIPKEVKVMGRWSVEDVTVEDPSLKPYINLDARILPHSHGRYAKKPFGKANVHIVERLINKVMRSGASHYKAGGHFMRREHRSIMSKKMKAYEVVKEAFMIIERRTKQNPIQVLVKAIENSAPREDTTTIAFGGIRYHMSVDVSPLRRLDIALKNIALGASIKCYRNKTTYAQALAEEIIAAANKDPKSFAYSKKEEIERIAQSSR",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8",
+            "entity_poly_strand_id": "Aj",
+            "entity_poly_seq_one_letter_code": "MTLLDPLANALSHITNSERVGKKEVYIKPASKLIGEVLRVMLENGYIGEFELIDDGRAGIYRVQLIGKINKAGAIKPRFPVKARDYEKWEKRFLPAFEFGILIVSTSQGVMTHKEALEKGIGGRLIAYVY",
+            "entity_poly_seq_one_letter_code_can": "MTLLDPLANALSHITNSERVGKKEVYIKPASKLIGEVLRVMLENGYIGEFELIDDGRAGIYRVQLIGKINKAGAIKPRFPVKARDYEKWEKRFLPAFEFGILIVSTSQGVMTHKEALEKGIGGRLIAYVY",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8e"
+            ],
+            "pfam_accessions": [
+                "PF01201"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGF3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8e",
+            "entity_poly_strand_id": "Ak",
+            "entity_poly_seq_one_letter_code": "MAIWQGRSLKKPSGGRIILARKKRKRELGREPANTKVGEDREKRKIIRTYGGNRKVRLVEALYANVFEGGKGKKVKILNVVENPANRQYARRNIITKGAIIETEIGKAIVTSRPGQDGVVNAVLIKEENA",
+            "entity_poly_seq_one_letter_code_can": "MAIWQGRSLKKPSGGRIILARKKRKRELGREPANTKVGEDREKRKIIRTYGGNRKVRLVEALYANVFEGGKGKKVKILNVVENPANRQYARRNIITKGAIIETEIGKAIVTSRPGQDGVVNAVLIKEENA",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJE2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9",
+            "entity_poly_strand_id": "Al",
+            "entity_poly_seq_one_letter_code": "MRVIQTAGKRKTAVARATIREGKGRVRINHKPVEIIEPEIARFTIMEPLILAGEEIVSRVDIDVKVEGGGFMGQAEAARVAIARALVEWTNDMNLKEKFMKYDRTMLVGDSRRTEPHKPNRSTKGPRAKRQKSYR",
+            "entity_poly_seq_one_letter_code_can": "MRVIQTAGKRKTAVARATIREGKGRVRINHKPVEIIEPEIARFTIMEPLILAGEEIVSRVDIDVKVEGGGFMGQAEAARVAIARALVEWTNDMNLKEKFMKYDRTMLVGDSRRTEPHKPNRSTKGPRAKRQKSYR",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JFZ5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10",
+            "entity_poly_strand_id": "Am",
+            "entity_poly_seq_one_letter_code": "MQKARIKLASTNIKALNEVTDQIKQIAERTGVRMSGPIPLPTKRIRITTRKSPDGEGSATFDRFELRVHKRLVDIEADERAMRQIMRIRVPEDVTIEIELIS",
+            "entity_poly_seq_one_letter_code_can": "MQKARIKLASTNIKALNEVTDQIKQIAERTGVRMSGPIPLPTKRIRITTRKSPDGEGSATFDRFELRVHKRLVDIEADERAMRQIMRIRVPEDVTIEIELIS",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11",
+            "entity_poly_strand_id": "An",
+            "entity_poly_seq_one_letter_code": "MSEEQTTQVNIKKKEKWGVAHIYSSYNNTIIHITDLTGAETISRWSGGMVVKADRDEPSPYAAMIAARRAAEEAMEKGITGVHIKVRAPGGSKSKSPGPGAQAAIRALSRAGLRIGRVEDVTPIPHDGTRPKGGRRGRRV",
+            "entity_poly_seq_one_letter_code_can": "MSEEQTTQVNIKKKEKWGVAHIYSSYNNTIIHITDLTGAETISRWSGGMVVKADRDEPSPYAAMIAARRAAEEAMEKGITGVHIKVRAPGGSKSKSPGPGAQAAIRALSRAGLRIGRVEDVTPIPHDGTRPKGGRRGRRV",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JE20"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12",
+            "entity_poly_strand_id": "Ao",
+            "entity_poly_seq_one_letter_code": "MAGKKAPYGEFAGRKLKLKRKKFRWSDIRYKRRVLRLKEKSDPLEGAPQARGIVLEKIAVEAKQPNSAMRKAVRVQLIKNGKVVTAFTPGDGAINHIDEHDEVIIEGIGGPKGGSMGDIPGIRYKVVKVNRVSLKELVKGRKEKPRR",
+            "entity_poly_seq_one_letter_code_can": "MAGKKAPYGEFAGRKLKLKRKKFRWSDIRYKRRVLRLKEKSDPLEGAPQARGIVLEKIAVEAKQPNSAMRKAVRVQLIKNGKVVTAFTPGDGAINHIDEHDEVIIEGIGGPKGGSMGDIPGIRYKVVKVNRVSLKELVKGRKEKPRR",
+            "entity_poly_seq_length": 147,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13",
+            "entity_poly_strand_id": "Ap",
+            "entity_poly_seq_one_letter_code": "MTENFRHIVRVAGVDIDGHKQVRWALTGIKGIGINFATMVLRVAGIDPFMKAGYLTDEQVKKIEEILADPVAHGIPAWAVNRPKDYETGKDMHLITAKLVMAWREDVNRLRRIRAYRGIRHELGLPVRGQRTRSNFRHGTTVGVSRRKK",
+            "entity_poly_seq_one_letter_code_can": "MTENFRHIVRVAGVDIDGHKQVRWALTGIKGIGINFATMVLRVAGIDPFMKAGYLTDEQVKKIEEILADPVAHGIPAWAVNRPKDYETGKDMHLITAKLVMAWREDVNRLRRIRAYRGIRHELGLPVRGQRTRSNFRHGTTVGVSRRKK",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This domain is found at the N-terminus of ribosomal S13 and S15 proteins.                      This domain is also identified as NUC021 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S13/S15 N-terminal domain",
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF08069",
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGJ4"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "Aq",
+            "entity_poly_seq_one_letter_code": "MARIHARKRGKSGSKRPPRTAPPAWVEYTAEEVEALVVKLRKEGYSTAMIGTILRDQYGIPSVKLITGKKITKILEENGLAPEIPEDLMFLIRRAVNLRKHLEQHPKDKHSRRGLQLIESKIRRLVKYYRRTGKLPAKWRYDPEQAKLLVR",
+            "entity_poly_seq_one_letter_code_can": "MARIHARKRGKSGSKRPPRTAPPAWVEYTAEEVEALVVKLRKEGYSTAMIGTILRDQYGIPSVKLITGKKITKILEENGLAPEIPEDLMFLIRRAVNLRKHLEQHPKDKHSRRGLQLIESKIRRLVKYYRRTGKLPAKWRYDPEQAKLLVR",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14 type Z",
+            "entity_poly_strand_id": "Ar",
+            "entity_poly_seq_one_letter_code": "MAKADYNKRKPRKFGKGARRCMRCGQYGPIIRIHGLMLCRHCFREVAPKLGFKKYE",
+            "entity_poly_seq_one_letter_code_can": "MAKADYNKRKPRKFGKGARRCMRCGQYGPIIRIHGLMLCRHCFREVAPKLGFKKYE",
+            "entity_poly_seq_length": 56,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH9"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "As",
+            "entity_poly_seq_one_letter_code": "MREIGLRVQPPAEVCNDPKCPWHGNLKIHGRYVEGIVVSDKGKKTVVVERQYYHYLKKYERYELRKSKVHAHNPECINAKVGDKVLIAETRPISKTKSWVVVAVLQRAERAEEV",
+            "entity_poly_seq_one_letter_code_can": "MREIGLRVQPPAEVCNDPKCPWHGNLKIHGRYVEGIVVSDKGKKTVVVERQYYHYLKKYERYELRKSKVHAHNPECINAKVGDKVLIAETRPISKTKSWVVVAVLQRAERAEEV",
+            "entity_poly_seq_length": 114,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S17"
+            ],
+            "pfam_accessions": [
+                "PF00833"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDC7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17e",
+            "entity_poly_strand_id": "At",
+            "entity_poly_seq_one_letter_code": "MGNIKQTFIKRTARELFDRYPDKFTRDFEHNKKMVAELTNVTSKTIRNRIAGYITRLVRMKEEGKIL",
+            "entity_poly_seq_one_letter_code_can": "MGNIKQTFIKRTARELFDRYPDKFTRDFEHNKKMVAELTNVTSKTIRNRIAGYITRLVRMKEEGKIL",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19",
+            "entity_poly_strand_id": "Au",
+            "entity_poly_seq_one_letter_code": "MARKKEFRYRGYTLDELLNMSLEEFAKLLPSRQRRSLKRGLSPEQKKLLRKIRLAKKGKYNKPIRTHSRDMIVLPEMVGMTIHVYNGKEFVPVEIKEEMIGHYLGEFAMTRKVVQHGSPGVGATRSSMFVAVK",
+            "entity_poly_seq_one_letter_code_can": "MARKKEFRYRGYTLDELLNMSLEEFAKLLPSRQRRSLKRGLSPEQKKLLRKIRLAKKGKYNKPIRTHSRDMIVLPEMVGMTIHVYNGKEFVPVEIKEEMIGHYLGEFAMTRKVVQHGSPGVGATRSSMFVAVK",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19e"
+            ],
+            "pfam_accessions": [
+                "PF01090"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGN5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19e",
+            "entity_poly_strand_id": "Av",
+            "entity_poly_seq_one_letter_code": "MATVYDVPGDLLVERVAKALKEVPEIKPPEWAPFVKTGRHKERLPEQEDWWYYRVASVFRKVYIDGPVGIERLRTWYGGRKNRGHAPEHFYKAGGSIIRKALQQLEAAGFVQKVPGEGRIVTPKGQSFLDKIATELKKELEEQIPELKKY",
+            "entity_poly_seq_one_letter_code_can": "MATVYDVPGDLLVERVAKALKEVPEIKPPEWAPFVKTGRHKERLPEQEDWWYYRVASVFRKVYIDGPVGIERLRTWYGGRKNRGHAPEHFYKAGGSIIRKALQQLEAAGFVQKVPGEGRIVTPKGQSFLDKIATELKKELEEQIPELKKY",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S24e"
+            ],
+            "pfam_accessions": [
+                "PF01282"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JIY8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S24e",
+            "entity_poly_strand_id": "Aw",
+            "entity_poly_seq_one_letter_code": "MEIKVTEIRENKLLGRKEIYFDVLHEGEPTPSREAVKGKLVAMLDLDPNTTVIQYIRSYFGSNVSKGYAKAYETRERMLYIEPEYILVRDGLVQKQEE",
+            "entity_poly_seq_one_letter_code_can": "MEIKVTEIRENKLLGRKEIYFDVLHEGEPTPSREAVKGKLVAMLDLDPNTTVIQYIRSYFGSNVSKGYAKAYETRERMLYIEPEYILVRDGLVQKQEE",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "es24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S27"
+            ],
+            "pfam_accessions": [
+                "PF01667"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JE50"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S27e",
+            "entity_poly_strand_id": "Ax",
+            "entity_poly_seq_one_letter_code": "MALPKNLIPMPRSRFLRVKCIDCGNEQIVFSHPATPVRCLVCGATLVEPTGGKGIIKAKVLEVEL",
+            "entity_poly_seq_one_letter_code_can": "MALPKNLIPMPRSRFLRVKCIDCGNEQIVFSHPATPVRCLVCGATLVEPTGGKGIIKAKVLEVEL",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S28e"
+            ],
+            "pfam_accessions": [
+                "PF01200"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGR4"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S28e",
+            "entity_poly_strand_id": "Ay",
+            "entity_poly_seq_one_letter_code": "MSDEGYPAEVIEIVGRTGVTGGVTQVKVRILEGRDKGRVIRRNVKGPVRVGDIVILRETEREAREIRRRR",
+            "entity_poly_seq_one_letter_code_can": "MSDEGYPAEVIEIVGRTGVTGGVTQVKVRILEGRDKGRVIRRNVKGPVRVGDIVILRETEREAREIRRRR",
+            "entity_poly_seq_length": 70,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This zinc ribbon domain is found in archaeal species. It is likely to bind zinc via its four well-conserved cysteine residues."
+            ],
+            "pfam_descriptions": [
+                "Domain of unknown function (DUF1610)"
+            ],
+            "pfam_accessions": [
+                "PF07754"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JFE2"
+            ],
+            "rcsb_pdbx_description": "Predicted zinc-ribbon RNA-binding protein involved in translation",
+            "entity_poly_strand_id": "Az",
+            "entity_poly_seq_one_letter_code": "MFAVEMKFEVPVCTSCGKEITPREHATHFVCPNCGEAIIWRCESCRVLSVPYKCPKCGWEGP",
+            "entity_poly_seq_one_letter_code_can": "MFAVEMKFEVPVCTSCGKEITPREHATHFVCPNCGEAIIWRCESCRVLSVPYKCPKCGWEGP",
+            "entity_poly_seq_length": 62,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "BC",
+            "entity_poly_seq_one_letter_code": "MGKSLIQQRRGKGTTTFRAPSHRYRGAVRYVPLNLVQERTLRGVVEEILHDPGRTAPVARVKFEDGTKKLIIAPEGVLVGQEIYIGPEAPIAIGNTLPLAKIPEGTYVYDIEGVPGDGGKYVRAGGTYALVVSREKDKVIVQLPSGELKAFNPMCRATIGVVAGGGRLEKPIVKAGKAYYIAKARNRFWPKPRGVKMNAVNHPHGGKEHHIGRPSTVSRRAPPGRKVGHIAARRTGRRK",
+            "entity_poly_seq_one_letter_code_can": "MGKSLIQQRRGKGTTTFRAPSHRYRGAVRYVPLNLVQERTLRGVVEEILHDPGRTAPVARVKFEDGTKKLIIAPEGVLVGQEIYIGPEAPIAIGNTLPLAKIPEGTYVYDIEGVPGDGGKYVRAGGTYALVVSREKDKVIVQLPSGELKAFNPMCRATIGVVAGGGRLEKPIVKAGKAYYIAKARNRFWPKPRGVKMNAVNHPHGGKEHHIGRPSTVSRRAPPGRKVGHIAARRTGRRK",
+            "entity_poly_seq_length": 239,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDJ0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "BD",
+            "entity_poly_seq_one_letter_code": "MGKIHRPRRGSLAYSPRKRAKSIVPRIRSWPKDSEVRMLGFAGYKAGMTHILMIDDSPGLTKGKEIFVPVTIVEVPPLFVYGIRAYKQGYLGLETATEVWFHDLHKNVARRIKTLPKNYNEEAFQAKLGQLEDLVNDGEIADVRLLVHTQPWLIGLKKKPEVMEYAIGGDDVKAKFDYAKEKIGKELRAGEVLHEGELLDVIAVTKGKGTQGPVKRWGVKVQFHKAQRAGKGRHIGNLGPWHPARVMWTVPQAGQMGFHHRTEFNKRLIAIGENGKLVLDGNEIEITPKGGFPHYGIVRSDFLMIEGTIPGSFKRIIRVRPAIRPPKKKPPVERPQITYVSRESKQ",
+            "entity_poly_seq_one_letter_code_can": "MGKIHRPRRGSLAYSPRKRAKSIVPRIRSWPKDSEVRMLGFAGYKAGMTHILMIDDSPGLTKGKEIFVPVTIVEVPPLFVYGIRAYKQGYLGLETATEVWFHDLHKNVARRIKTLPKNYNEEAFQAKLGQLEDLVNDGEIADVRLLVHTQPWLIGLKKKPEVMEYAIGGDDVKAKFDYAKEKIGKELRAGEVLHEGELLDVIAVTKGKGTQGPVKRWGVKVQFHKAQRAGKGRHIGNLGPWHPARVMWTVPQAGQMGFHHRTEFNKRLIAIGENGKLVLDGNEIEITPKGGFPHYGIVRSDFLMIEGTIPGSFKRIIRVRPAIRPPKKKPPVERPQITYVSRESKQ",
+            "entity_poly_seq_length": 346,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDI0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "BE",
+            "entity_poly_seq_one_letter_code": "MKVKVFNLEGEPVEEIELPKVFSTPFRPDLIRRAVIASWTHRIQPQGRDPQAGKRRVTENIGKGHGMARVERIKTSPRFAAFVPFAVGGRRTHPPKVEKIIWEDINKKERRLAIMSAIAATANYDLVRARGHVVDNVVQIPLVVTDDLQKVFKTAQTREIFKKLGVWDDIERAKKNTKIRAGKGKMRGRRYKKAKGPLIVVAKNEGIVQGARNHPGVDVVTVDNLGVEYLAPGTHPGRLTIWTKGAIERLREIYG",
+            "entity_poly_seq_one_letter_code_can": "MKVKVFNLEGEPVEEIELPKVFSTPFRPDLIRRAVIASWTHRIQPQGRDPQAGKRRVTENIGKGHGMARVERIKTSPRFAAFVPFAVGGRRTHPPKVEKIIWEDINKKERRLAIMSAIAATANYDLVRARGHVVDNVVQIPLVVTDDLQKVFKTAQTREIFKKLGVWDDIERAKKNTKIRAGKGKMRGRRYKKAKGPLIVVAKNEGIVQGARNHPGVDVVTVDNLGVEYLAPGTHPGRLTIWTKGAIERLREIYG",
+            "entity_poly_seq_length": 255,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "BF",
+            "entity_poly_seq_one_letter_code": "MQINREAILADWEAHPMRKPRIAKVTINIGVGESGERLTKAETMLEQLVGQKPIRRRAKQTNRDFGIRRGEPIAVKVTLRGEKAYQMLDRLLEAVDRKLKASNFDEHGNFCFGIQEHINIPGVEYDPEIGIFGMDVCVTLERPGFRVAKRKRQRRKIPTKHKLTKEEGIVFAMEELKAKVEGL",
+            "entity_poly_seq_one_letter_code_can": "MQINREAILADWEAHPMRKPRIAKVTINIGVGESGERLTKAETMLEQLVGQKPIRRRAKQTNRDFGIRRGEPIAVKVTLRGEKAYQMLDRLLEAVDRKLKASNFDEHGNFCFGIQEHINIPGVEYDPEIGIFGMDVCVTLERPGFRVAKRKRQRRKIPTKHKLTKEEGIVFAMEELKAKVEGL",
+            "entity_poly_seq_length": 183,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "BG",
+            "entity_poly_seq_one_letter_code": "MPVDAWIREEIEIPEGVEVTVEGNTVKVKGPKGELQRELKYPGVQIFTEDGKVVIYKEFPRKKDVAIVRTFKAHINNMIKGVTEGFKYRLKVVYSHFPMTVKVQGDEVVIENFLGEKNPRRAKILPGVTVKVKGSEIEVEGIDKEAVGQTAANIEQATRITKWDRRVFQDGIYIVEKAGKPIKF",
+            "entity_poly_seq_one_letter_code_can": "MPVDAWIREEIEIPEGVEVTVEGNTVKVKGPKGELQRELKYPGVQIFTEDGKVVIYKEFPRKKDVAIVRTFKAHINNMIKGVTEGFKYRLKVVYSHFPMTVKVQGDEVVIENFLGEKNPRRAKILPGVTVKVKGSEIEVEGIDKEAVGQTAANIEQATRITKWDRRVFQDGIYIVEKAGKPIKF",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGR3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L7Ae",
+            "entity_poly_strand_id": "BH,BI",
+            "entity_poly_seq_one_letter_code": "MAKPSYVKFEVPQELAEKALEAVEIARDTGRIRKGTNETTKAVERGQAKLVIIAEDVDPEEIVAHLPPLCEEKEIPYVYVPSKKELGAAAGLEVPAASVAIIEPGKARELVEDIAMKVKELMK",
+            "entity_poly_seq_one_letter_code_can": "MAKPSYVKFEVPQELAEKALEAVEIARDTGRIRKGTNETTKAVERGQAKLVIIAEDVDPEEIVAHLPPLCEEKEIPYVYVPSKKELGAAAGLEVPAASVAIIEPGKARELVEDIAMKVKELMK",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDI6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L10e",
+            "entity_poly_strand_id": "BJ",
+            "entity_poly_seq_one_letter_code": "MGLRPAKIDRDVDKPAYTRREYIRGAPGPKITIFDMGNLSAEFEYEVSLHAEQAMQIRQNALEAIRIQVNRYLQKNVGRSNYHFKIRVYPFQVLRENPMATGRKADRYGNGMRRPFGKPIGLAARVRKDQKILTVWVNGQHLKFALGAMHRAKMKLPYSAYYRIYDKEGNDVTTKVLSTMKL",
+            "entity_poly_seq_one_letter_code_can": "MGLRPAKIDRDVDKPAYTRREYIRGAPGPKITIFDMGNLSAEFEYEVSLHAEQAMQIRQNALEAIRIQVNRYLQKNVGRSNYHFKIRVYPFQVLRENPMATGRKADRYGNGMRRPFGKPIGLAARVRKDQKILTVWVNGQHLKFALGAMHRAKMKLPYSAYYRIYDKEGNDVTTKVLSTMKL",
+            "entity_poly_seq_length": 182,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "BK",
+            "entity_poly_seq_one_letter_code": "MRIINAEGLILGRLASKVAKMLLEGEEVVIVNAEKAIITGNREDIFAKYKQRTELRTRTNPRRGPFYPKRSDEIVRRTVRGMLPWKTDRGRKAFKRLKVYVGVPKEFEGKEFETISEAHMSRLATPKYVTVGEVAKFLGGKF",
+            "entity_poly_seq_one_letter_code_can": "MRIINAEGLILGRLASKVAKMLLEGEEVVIVNAEKAIITGNREDIFAKYKQRTELRTRTNPRRGPFYPKRSDEIVRRTVRGMLPWKTDRGRKAFKRLKVYVGVPKEFEGKEFETISEAHMSRLATPKYVTVGEVAKFLGGKF",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "BL",
+            "entity_poly_seq_one_letter_code": "MAKKGAGATRGISPVRPTRALPIGAYLKVADNSGAKVIQIIGVVGYKGTRRRLAAAGVGDMVVATVKKGRPDMRHQVVRAVVVRQRKEYRRLDGMRVKFEDNAAAIVTPEGVPRGTEIRGAIAREAAERWVRLGSIASIVL",
+            "entity_poly_seq_one_letter_code_can": "MAKKGAGATRGISPVRPTRALPIGAYLKVADNSGAKVIQIIGVVGYKGTRRRLAAAGVGDMVVATVKKGRPDMRHQVVRAVVVRQRKEYRRLDGMRVKFEDNAAAIVTPEGVPRGTEIRGAIAREAAERWVRLGSIASIVL",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJE4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14e",
+            "entity_poly_strand_id": "BM,BN",
+            "entity_poly_seq_one_letter_code": "MPAIEVGRIAVVIAGRRAGQKVVVADIIDKNFVLVTGAGLNKVKRRRMNVKHLEPLPERVNIQRGASDEEIKAALEGAGISLE",
+            "entity_poly_seq_one_letter_code_can": "MPAIEVGRIAVVIAGRRAGQKVVVADIIDKNFVLVTGAGLNKVKRRRMNVKHLEPLPERVNIQRGASDEEIKAALEGAGISLE",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJH0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "BO",
+            "entity_poly_seq_one_letter_code": "MIRRRKKVRKLRGSHTHGWGCKKKHRGGGSKGGRGMAGTGKRKDQKWTWTIKYAPDRLGKRGFHRPKAVQYIPKVINLNDIDENFELFKDAGIIYEEDGKLVFDATALGVDKILGTGKLTRALVVKAYYVTPKAEEKIKAAGGEVLLA",
+            "entity_poly_seq_one_letter_code_can": "MIRRRKKVRKLRGSHTHGWGCKKKHRGGGSKGGRGMAGTGKRKDQKWTWTIKYAPDRLGKRGFHRPKAVQYIPKVINLNDIDENFELFKDAGIIYEEDGKLVFDATALGVDKILGTGKLTRALVVKAYYVTPKAEEKIKAAGGEVLLA",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L15"
+            ],
+            "pfam_accessions": [
+                "PF00827"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JH43"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15e",
+            "entity_poly_strand_id": "BP",
+            "entity_poly_seq_one_letter_code": "MGMYKYIREAWKSPKKSYVGELLKKRMIQWRRDPVVKRIERPTRLDRARSLGYQAKQGYVVVRVRVRRGGRKRPRWKGGRKPSKMGMVKYSPKKSLQWIAEEKAARKFPNLEVLNSYWVGEDGMYKWFEVIMVDPHHPVIKSDPKIAWIAGKAHKGRVFRGLTSAGKRSRGLLNKGKGAEKVRPSIRAHQGKGK",
+            "entity_poly_seq_one_letter_code_can": "MGMYKYIREAWKSPKKSYVGELLKKRMIQWRRDPVVKRIERPTRLDRARSLGYQAKQGYVVVRVRVRRGGRKRPRWKGGRKPSKMGMVKYSPKKSLQWIAEEKAARKFPNLEVLNSYWVGEDGMYKWFEVIMVDPHHPVIKSDPKIAWIAGKAHKGRVFRGLTSAGKRSRGLLNKGKGAEKVRPSIRAHQGKGK",
+            "entity_poly_seq_length": 194,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family contains the large 60S ribosomal L5 proteins from Eukaryota and the 50S L18 proteins from Archaea. It has been shown that the amino terminal 93 amino acids of Swiss:P09895 are necessary and sufficient to bind 5S rRNA in vitro [1], suggesting that the entire family has a function in rRNA binding [2,3,4,5].",
+                "This domain is the C-terminal end of ribosomal L18/L5 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal large subunit proteins 60S L5, and 50S L18",
+                "Ribosomal L18 C-terminal region"
+            ],
+            "pfam_accessions": [
+                "PF17144",
+                "PF14204"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "BQ",
+            "entity_poly_seq_one_letter_code": "MAHGPRYRVPFRRRREGKTNYHKRLKLLKSKKPRLVVRKTLNHHIAQIVVYDPKGDKTLVSAHTMELMRDFGWKGHGGNTPSAYLLGLLIGYKAKQAGIEEAILDIGLHPPTRGSSIFAVLKGAVDAGLNVPHSEEIYPEDYRINGEHIANYAKALKEEDEALYRKQFSGYLVKGLEPEKLPEHFEEVKAKIIEKFEGARE",
+            "entity_poly_seq_one_letter_code_can": "MAHGPRYRVPFRRRREGKTNYHKRLKLLKSKKPRLVVRKTLNHHIAQIVVYDPKGDKTLVSAHTMELMRDFGWKGHGGNTPSAYLLGLLIGYKAKQAGIEEAILDIGLHPPTRGSSIFAVLKGAVDAGLNVPHSEEIYPEDYRINGEHIANYAKALKEEDEALYRKQFSGYLVKGLEPEKLPEHFEEVKAKIIEKFEGARE",
+            "entity_poly_seq_length": 201,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This is a family of ribosomal proteins, 60S L18 from eukaryotes and 50S L18e from Archaea."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein 60S L18 and 50S L18e"
+            ],
+            "pfam_accessions": [
+                "PF17135"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18e",
+            "entity_poly_strand_id": "BR",
+            "entity_poly_seq_one_letter_code": "MVKRTGPTDINLRRLIRTLRKKSNEEGVKIWKDIAWRLERPRRQRAEVNISKINRYTKEGDVVIVPGSVLGAGRLEHKVVVAAWKFSEAARRKIIEAGGEAISIEELMERNPKGSGVIIME",
+            "entity_poly_seq_one_letter_code_can": "MVKRTGPTDINLRRLIRTLRKKSNEEGVKIWKDIAWRLERPRRQRAEVNISKINRYTKEGDVVIVPGSVLGAGRLEHKVVVAAWKFSEAARRKIIEAGGEAISIEELMERNPKGSGVIIME",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19e"
+            ],
+            "pfam_accessions": [
+                "PF01280"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19e",
+            "entity_poly_strand_id": "BS",
+            "entity_poly_seq_one_letter_code": "MIMLKTQRRIAAELLKCGENRIWIDPERIEDVAAAITREDIKRLIHDGVIKKKPIKGQSRARARAFQEARKKGRHRGPGSKKGKKTARMGKKEVWMMTIRALRKELRKLKAEGKLDAHTYRRLYIRAKGGQFKNKRQLYMFMQEHGILKE",
+            "entity_poly_seq_one_letter_code_can": "MIMLKTQRRIAAELLKCGENRIWIDPERIEDVAAAITREDIKRLIHDGVIKKKPIKGQSRARARAFQEARKKGRHRGPGSKKGKKTARMGKKEVWMMTIRALRKELRKLKAEGKLDAHTYRRLYIRAKGGQFKNKRQLYMFMQEHGILKE",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes: archaeal 50S ribosomal protein L18Ae, often referred to as L20e or LX; fungal 60S ribosomal protein L20; and higher eukaryote 60S ribosomal protein L18A."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A"
+            ],
+            "pfam_accessions": [
+                "PF01775"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGT3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18Ae",
+            "entity_poly_strand_id": "BT",
+            "entity_poly_seq_one_letter_code": "MEVKVFRVKGTFERLGKKQPFTKEYRALKEEHVRELVYSDIGSKHRVPRTKIWIESIEEIKPEEAEDPVVRRLSLEL",
+            "entity_poly_seq_one_letter_code_can": "MEVKVFRVKGTFERLGKKQPFTKEYRALKEEHVRELVYSDIGSKHRVPRTKIWIESIEEIKPEEAEDPVVRRLSLEL",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L21e"
+            ],
+            "pfam_accessions": [
+                "PF01157"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JI51"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21e",
+            "entity_poly_strand_id": "BU",
+            "entity_poly_seq_one_letter_code": "MVKKAHSFRRKTRGKLSKHPRRRGLPPLTRFLQEFEVGQKVHIVIEPSYHKGMPDPRFHGRTGTVVGKRGDAYIVQITDGGKVKTFFIHPVHLRPQKG",
+            "entity_poly_seq_one_letter_code_can": "MVKKAHSFRRKTRGKLSKHPRRRGLPPLTRFLQEFEVGQKVHIVIEPSYHKGMPDPRFHGRTGTVVGKRGDAYIVQITDGGKVKTFFIHPVHLRPQKG",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "BV",
+            "entity_poly_seq_one_letter_code": "MSRGRFSYSFQNFDPERMARASGRDLRISPKHSVELLREIRGMMLNDALRYLDDVIAKKRPVPMKRFNDSQGHKPGKGFGPGRYPVKVAKAVKKILLNAKNNAEQKGLDVDRLKIIHAAAHRGPVLRGYIPRAFGRATPFNEQTTHIEIVVEEIRR",
+            "entity_poly_seq_one_letter_code_can": "MSRGRFSYSFQNFDPERMARASGRDLRISPKHSVELLREIRGMMLNDALRYLDDVIAKKRPVPMKRFNDSQGHKPGKGFGPGRYPVKVAKAVKKILLNAKNNAEQKGLDVDRLKIIHAAAHRGPVLRGYIPRAFGRATPFNEQTTHIEIVVEEIRR",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "BW",
+            "entity_poly_seq_one_letter_code": "MDPYKVIIRPLVTEKAVSLIERENKLTFIVDRRATKQDIKRAVEEMFNVKVAKVNTLVTMKGEKKAYVKLKPEYDASEIAARLGLF",
+            "entity_poly_seq_one_letter_code_can": "MDPYKVIIRPLVTEKAVSLIERENKLTFIVDRRATKQDIKRAVEEMFNVKVAKVNTLVTMKGEKKAYVKLKPEYDASEIAARLGLF",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "Ribosomal_L26 is a family of the 50S and the 60S ribosomal proteins from eukaryotes - L26 - and archaea - L25.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins L26 eukaryotic, L24P archaeal",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF16906",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "BX",
+            "entity_poly_seq_one_letter_code": "MKLDMKQPRKQRKFLYNAPLHLRGKIMSAPLSKELREKYGVRNLPIRVGDKVKVMRGDFKGVEGKVVEVDLRRYRIHVEGVTHKKTDGTEVFYPLHPSNVMIVELNLEDEKREKIIERRAA",
+            "entity_poly_seq_one_letter_code_can": "MKLDMKQPRKQRKFLYNAPLHLRGKIMSAPLSKELREKYGVRNLPIRVGDKVKVMRGDFKGVEGKVVEVDLRRYRIHVEGVTHKKTDGTEVFYPLHPSNVMIVELNLEDEKREKIIERRAA",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L24e"
+            ],
+            "pfam_accessions": [
+                "PF01246"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGR5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24e",
+            "entity_poly_strand_id": "BY",
+            "entity_poly_seq_one_letter_code": "MARWNVCSYCGREFEPGTGKMFVRNDGRVLFFCSSKCEKYYFMGRNPRKLKWTKAFQEARLQRAKRK",
+            "entity_poly_seq_one_letter_code_can": "MARWNVCSYCGREFEPGTGKMFVRNDGRVLFFCSSKCEKYYFMGRNPRKLKWTKAFQEARLQRAKRK",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDH6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "BZ",
+            "entity_poly_seq_one_letter_code": "MKPSEIREMSIEEIDKKIRELRLELAKERGVLTMGASMENPMVIRNLRRDIARLLTIKREKLREKR",
+            "entity_poly_seq_one_letter_code_can": "MKPSEIREMSIEEIDKKIRELRLELAKERGVLTMGASMENPMVIRNLRRDIARLLTIKREKLREKR",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "Ba",
+            "entity_poly_seq_one_letter_code": "MAKLALIRLRSGIRARGEVRDTLAMLRLHRINHLVIVDDTPSYRGMIQKVKDYITWGEIDKETLAKLLRKRGRLIGNKPITDEYVKEKLGMTIEEFAEKVVNGEMKLRDLPNIKPVFRLHPPRGGLKGSKKRSFKEGGALGYRGEKINELIERML",
+            "entity_poly_seq_one_letter_code_can": "MAKLALIRLRSGIRARGEVRDTLAMLRLHRINHLVIVDDTPSYRGMIQKVKDYITWGEIDKETLAKLLRKRGRLIGNKPITDEYVKEKLGMTIEEFAEKVVNGEMKLRDLPNIKPVFRLHPPRGGLKGSKKRSFKEGGALGYRGEKINELIERML",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JE35"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30e",
+            "entity_poly_strand_id": "Bb",
+            "entity_poly_seq_one_letter_code": "MVDFAFELRKVQDTGKIVMGAKKSIHLAKVGGAKLIIVARNARPDIKEDIYYYAKLSGIPVYEFEGTSVELGTLLGRPHTVSALAVIDPGESKILALAGGKE",
+            "entity_poly_seq_one_letter_code_can": "MVDFAFELRKVQDTGKIVMGAKKSIHLAKVGGAKLIIVARNARPDIKEDIYYYAKLSGIPVYEFEGTSVELGTLLGRPHTVSALAVIDPGESKILALAGGKE",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31e"
+            ],
+            "pfam_accessions": [
+                "PF01198"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGT5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31e",
+            "entity_poly_strand_id": "Bc",
+            "entity_poly_seq_one_letter_code": "MPIKPGEEVIFVVPINKIKKRVPRWKRAPRAARFVREWIARHAKADEVIIGTDVNEKIWERGAEKPPGKLRVKVVVEESEGKRIARVSLA",
+            "entity_poly_seq_one_letter_code_can": "MPIKPGEEVIFVVPINKIKKRVPRWKRAPRAARFVREWIARHAKADEVIIGTDVNEKIWERGAEKPPGKLRVKVVVEESEGKRIARVSLA",
+            "entity_poly_seq_length": 90,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes ribosomal protein L32 from eukaryotes and archaebacteria."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L32"
+            ],
+            "pfam_accessions": [
+                "PF01655"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJG5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32e",
+            "entity_poly_strand_id": "Bd",
+            "entity_poly_seq_one_letter_code": "MNEKARLLRIRAKLKRKKPRFLRQEWWRYPKFKNDPKWRRPKGIDSKMRLKKKGKPRSPSIGWSSPKAVRGLHPSGYEEVLVHNVKELEAIDPTRQAARIAGTVGARKREMILARAKELGVKVLN",
+            "entity_poly_seq_one_letter_code_can": "MNEKARLLRIRAKLKRKKPRFLRQEWWRYPKFKNDPKWRRPKGIDSKMRLKKKGKPRSPSIGWSSPKAVRGLHPSGYEEVLVHNVKELEAIDPTRQAARIAGTVGARKREMILARAKELGVKVLN",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34e"
+            ],
+            "pfam_accessions": [
+                "PF01199"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJF7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34e",
+            "entity_poly_strand_id": "Be",
+            "entity_poly_seq_one_letter_code": "MKPMYRSRSWRRKYVRTPGGRTVIHFERRKPKVAHCAMCGRPLNGVPRGRPSELRKLPKTKKRPERPYPNLCPSCMRKVMKAQVRASITA",
+            "entity_poly_seq_one_letter_code_can": "MKPMYRSRSWRRKYVRTPGGRTVIHFERRKPKVAHCAMCGRPLNGVPRGRPSELRKLPKTKKRPERPYPNLCPSCMRKVMKAQVRASITA",
+            "entity_poly_seq_length": 90,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This ribosomal protein is found in archaebacteria and eukaryotes. It contains four conserved cysteine residues that may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L37ae protein family"
+            ],
+            "pfam_accessions": [
+                "PF01780"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JDM6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L37Ae",
+            "entity_poly_strand_id": "Bg",
+            "entity_poly_seq_one_letter_code": "MGRTTKVGSAGRFGPRYGLKIRRRVAAVEARMKQKHVCPVCGRKAVRRISTGIWQCQKCGATFAGGAYLPTTPAGKVAKRVTASKA",
+            "entity_poly_seq_one_letter_code_can": "MGRTTKVGSAGRFGPRYGLKIRRRVAAVEARMKQKHVCPVCGRKAVRRISTGIWQCQKCGATFAGGAYLPTTPAGKVAKRVTASKA",
+            "entity_poly_seq_length": 86,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL43"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "This family includes ribosomal protein L37 from eukaryotes and archaebacteria. The family contains many conserved cysteines and histidines suggesting that this protein may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L37e"
+            ],
+            "pfam_accessions": [
+                "PF01907"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JIE1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L37e",
+            "entity_poly_strand_id": "Bh",
+            "entity_poly_seq_one_letter_code": "MGAGTAPKGKRNRTPTHIRCRRCGRRAFNVKKGYCAACGFGRSRRMRKYSWSHKWRKKRNLSY",
+            "entity_poly_seq_one_letter_code_can": "MGAGTAPKGKRNRTPTHIRCRRCGRRAFNVKKGYCAACGFGRSRRMRKYSWSHKWRKKRNLSY",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL37"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L39 protein"
+            ],
+            "pfam_accessions": [
+                "PF00832"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JGT6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L39e",
+            "entity_poly_strand_id": "Bi",
+            "entity_poly_seq_one_letter_code": "MARNKPFAKKLRLAKAAKQNRRVPVWVIVKTNRKVITHPKRRHWRRTKLKE",
+            "entity_poly_seq_one_letter_code_can": "MARNKPFAKKLRLAKAAKQNRRVPVWVIVKTNRKVITHPKRRHWRRTKLKE",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL39"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JJD3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L40e",
+            "entity_poly_strand_id": "Bj",
+            "entity_poly_seq_one_letter_code": "MARFPEAEARIFRKLVCMRCGATNPWGAKKCRKCGYKGLRPKAREPRGGGR",
+            "entity_poly_seq_one_letter_code_can": "MARFPEAEARIFRKLVCMRCGATNPWGAKKCRKCGYKGLRPKAREPRGGGR",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JEV0"
+            ],
+            "rcsb_pdbx_description": "LSU ribosomal protein L41E",
+            "entity_poly_strand_id": "Bk",
+            "entity_poly_seq_one_letter_code": "MKRRPRKWKKKGRMRWKWIKKRIRRLKRQRRKERGLI",
+            "entity_poly_seq_one_letter_code_can": "MKRRPRKWKKKGRMRWKWIKKRIRRLKRQRRKERGLI",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L44"
+            ],
+            "pfam_accessions": [
+                "PF00935"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "uniprot_accession": [
+                "Q5JE51"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L44e",
+            "entity_poly_strand_id": "Bl",
+            "entity_poly_seq_one_letter_code": "MKYPKQIRTYCPFCKRHTIHKVEKVKKRPRSELSAGQRRFRRKLKGYTGFPRPNPAGREKPVKKLDLRFRCTVCGKAHTRGQGFRVKKFELVEV",
+            "entity_poly_seq_one_letter_code_can": "MKYPKQIRTYCPFCKRHTIHKVEKVKKRPRSELSAGQRRFRRKLKGYTGFPRPNPAGREKPVKKLDLRFRCTVCGKAHTRGQGFRVKKFELVEV",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL42"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6TH6",
+            "rcsb_pdbx_description": "16S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "entity_poly_strand_id": "Aa",
+            "entity_poly_seq_one_letter_code": "AUUC(4AC)GG(OMU)UGAUCCUGCCGGAGGCCACUGCUAUGGGGGUCCGACUAAGCCAUGCGAGUCAUGGGGCGCGCUCUGCGCGCACCGGCGGACGGCUCAGUAACACGUCGGUAACCUACCCUCGGGAGGGGGAUAACCCCGGGAAACUGGGGCUAAUCCCCCAUAGGCCUGAGGUACUGGAAGGUCCUCAGGCCGAAAGGGGCAUCUGCCCGCCCGAGGAUGGGCCGGCGGCCGAUUAGGUAGUUGGUGGGGUAACGGCCCACCAAGCCGAAGAUCGGUACGGGCCAUGAGAGUGGGAGCCCGGAGAUGGACACUGAGACACGGGUCCAGGCCCUACGGGGCGCAGCAGGCGCGA(A2M)ACCUCCGCAAUGCGGGCAACCGCGACGGGGGGACCCCCAGUGCCGUGGCAUAGCCACGGCUUUUCCGGAGUGUAAAAAGCUCCGGGAAUAAGG(OMG)CUG(OMG)GCAAGGC(4AC)GGUGGCAGCCGCCGCGGUAAUACCGGCGGCCCGAGUGGU(OMG)GCCGCUAUUAUUGGGCCUAAAGCGUCCGUA(OMG)CCGGGCCCGUAAGUCCCU(OMG)GCGAAAUCCCACGGCUCAACCGUGGGGCUUGCUGGGGAUACUGCGGGCCUUGGGACCGGGAGAGGCCGGGGGUACCCCUGGGGUAGGGGUGAAAUCCUAUAAUCCCAGG(OMG)(OMG)GACCGCCAGUGG(5MC)GAAGGCGCCCGGCUGGAACGGGUCCGACGGUGAGGGACGAAGGCCAGGGGAGCGAAC(4AC)GGAUUAGAUACCCGGGUAGUCCUGGCUGUAAAGGAUGCGGGCUAGGUGUCGGGCGAGCUUCGAGCUCGCCCGGUGCCGGAGGGAAGCCGUUAAGCCCGCCGCCUGGGGAGUACGGCCGCAA(OMG)G(5MC)UGAAACUUAAAGGAAUUGGCGGGGGAGCACUACAAGGGGUGGAGCGUGCGGUUUAAUU(OMG)GAU(5MU)(LV2)AACGCCGGGAACCUCACCGGGGGCGACGGCAGGAUGAAGGCCAGGCUGAAGGUCUUGCCGGACACGCCGAGAGGAGGUGCAUGGCCGCCGUCAGCUCGUACCGUGAGGCGUCCACUUAAGUGUGGUAACGAGCGAGACCCGCGCCCCCAGUUGCCAGUCCUCCCCGCUGGGGAGGAGGCACUCUGGGGGGACCGCCGGCGAUAAGCCGGAGGAAGGAGCGGGCGACGGUAGGUCAGUAUGCCCCGAAACCCCCGGGCUACACGCGCGCUACAAUGGGCGGGACAAUGGGAUCCGACCCCGAAAGGGGAAGGGAAUCCCCUAAACCCGCCCUCAGUUCGGAUCGCGGGCUGCAACUCGCCCGCGUGAAGCUGGAAUCCCUAGUACCCGCGUGUCAUCAUCGCGCGGCGAAUACGUCCCUGCUCCUUGCACACAC(5MC)G(OMC)CCGUCACUCCACCCGAGCGGGGUCCGGGUGAGGCCUGGUCUCCCUUCGGGGAGGCCGGGUCGAGCCUGGGCUCCGUGAGGGGGGAGAAGUCGUA(6MZ)CAAGGUAGC(4AC)GUAGGGG(MA6)(MA6)CCUACGGCUCGAUCACCUCCUAUCGCCGGA",
+            "entity_poly_seq_one_letter_code_can": "AUUCNGGUUGAUCCUGCCGGAGGCCACUGCUAUGGGGGUCCGACUAAGCCAUGCGAGUCAUGGGGCGCGCUCUGCGCGCACCGGCGGACGGCUCAGUAACACGUCGGUAACCUACCCUCGGGAGGGGGAUAACCCCGGGAAACUGGGGCUAAUCCCCCAUAGGCCUGAGGUACUGGAAGGUCCUCAGGCCGAAAGGGGCAUCUGCCCGCCCGAGGAUGGGCCGGCGGCCGAUUAGGUAGUUGGUGGGGUAACGGCCCACCAAGCCGAAGAUCGGUACGGGCCAUGAGAGUGGGAGCCCGGAGAUGGACACUGAGACACGGGUCCAGGCCCUACGGGGCGCAGCAGGCGCGAAACCUCCGCAAUGCGGGCAACCGCGACGGGGGGACCCCCAGUGCCGUGGCAUAGCCACGGCUUUUCCGGAGUGUAAAAAGCUCCGGGAAUAAGGGCUGGGCAAGGCNGGUGGCAGCCGCCGCGGUAAUACCGGCGGCCCGAGUGGUGGCCGCUAUUAUUGGGCCUAAAGCGUCCGUAGCCGGGCCCGUAAGUCCCUGGCGAAAUCCCACGGCUCAACCGUGGGGCUUGCUGGGGAUACUGCGGGCCUUGGGACCGGGAGAGGCCGGGGGUACCCCUGGGGUAGGGGUGAAAUCCUAUAAUCCCAGGGGGACCGCCAGUGGCGAAGGCGCCCGGCUGGAACGGGUCCGACGGUGAGGGACGAAGGCCAGGGGAGCGAACNGGAUUAGAUACCCGGGUAGUCCUGGCUGUAAAGGAUGCGGGCUAGGUGUCGGGCGAGCUUCGAGCUCGCCCGGUGCCGGAGGGAAGCCGUUAAGCCCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUUAAAGGAAUUGGCGGGGGAGCACUACAAGGGGUGGAGCGUGCGGUUUAAUUGGAUUCAACGCCGGGAACCUCACCGGGGGCGACGGCAGGAUGAAGGCCAGGCUGAAGGUCUUGCCGGACACGCCGAGAGGAGGUGCAUGGCCGCCGUCAGCUCGUACCGUGAGGCGUCCACUUAAGUGUGGUAACGAGCGAGACCCGCGCCCCCAGUUGCCAGUCCUCCCCGCUGGGGAGGAGGCACUCUGGGGGGACCGCCGGCGAUAAGCCGGAGGAAGGAGCGGGCGACGGUAGGUCAGUAUGCCCCGAAACCCCCGGGCUACACGCGCGCUACAAUGGGCGGGACAAUGGGAUCCGACCCCGAAAGGGGAAGGGAAUCCCCUAAACCCGCCCUCAGUUCGGAUCGCGGGCUGCAACUCGCCCGCGUGAAGCUGGAAUCCCUAGUACCCGCGUGUCAUCAUCGCGCGGCGAAUACGUCCCUGCUCCUUGCACACACCGCCCGUCACUCCACCCGAGCGGGGUCCGGGUGAGGCCUGGUCUCCCUUCGGGGAGGCCGGGUCGAGCCUGGGCUCCGUGAGGGGGGAGAAGUCGUAACAAGGUAGCNGUAGGGGAACCUACGGCUCGAUCACCUCCUAUCGCCGGA",
+            "entity_poly_seq_length": 1498,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "entity_poly_strand_id": "BA",
+            "entity_poly_seq_one_letter_code": "AACGUCCCGCCCGGUGGCAACUAAGCCGCCUGGUGGAUGGCUCGGCUCGGGGCGCCGACG(A2M)A(OMG)G(OMG)CGUGGCAAGCUGCGAUAAGCCCCGGCGAGGCGCAGGCAGCCGUCGAACCGGGGAUGCCCGAAUGGGACCUCCCGCGGCUUUUGCCGCACUCCCAGUCGGGAGGGGGAACGCGGGGAAUUGAAACAUCUUAGUACCCGCAGGAAAAGAAA(OMG)CAAAAGCGAUGCCGUUAGUAGGGGCGACCGAAAGCGGCACAGGGCAAACUGAACCCCGGGCCGAAAGGUUCGGGGGAUGUGGUGUUGUAGGGCCCGCGGAGGAGCCCUGGGGGCGAAGCCGAAGUC(5MC)GCUGGAACGCGGCGCCGGAGAGGGUGAAAGCCCCGUAGGCGUAAGCCCCCGAGCUCCUGCGGUGUCCCUGAGUACCGUCGGUCGGAUAUCCGGCGGGAAGCUGGGAGGCA(OMU)CGGCUCCCAACCCUAAAUACGUC(OMC)CGAGACCGAUAGC(OMG)AACUAGUAC(LHH)GUG(A2M)GGGAAAGCUGAAAAGCACCCCGGGAGGGGGGUGAAAAGAGCCUGAAACCAGGCGGCGAUAGGAGGGUGCGGCCCGAAAGGGUUGACCCUCCCCGAAGGAAACACGGGCGACCGUGGAGUACGAGGGGAGGUGACCGGGGUUGCACCGUCCG(OMU)CUUGGAUCAC(OMG)GGGCA(OMG)GGAGUUCACCCGAGCGGCGAGGUUAAGGGGGUCAACCCCGAAGCCGCAGGGAAACCGACAGGUCCGCAGCCCGUAAGGGCGAGGGACGGGGUGUGAAAGCGCCCGGAGUCGCUCGGGUGAGACCC(OMG)AAGCCGGUCGAUCUAGCCCGGGGCAGGGUGAA(OMG)UCCCUCAACAGAGGG(A2M)UGGAGGCCCGCUAGGGGUG(OMC)UG(A2M)CG(5MC)GCA(A2M)UUCGCUCCCGUGACCCCGGGCUAGGGGUGAAA(OMG)GCCAAUCGAGGCCGGCGAU(A2M)GCUGGUUCCC(OMG)CCGAAUUAUCCCCCAGGAUAGCCCGGCCGGAGGUAGGCAGUGGGGUAGAGCACUGAUUGGGGGUUUAGGGGGCGAAAGCCUCCGGCUCCCUGUCAAACUCCGAACCCACUGCCGCCGUAGAUGGCCGGAGUAGGGGGGCGGUGUAAGCCGUCACCCGAGAGGGGA(A2M)CAACCCAGACCGGGGUUAA(OMG)GCCCCAAAGUGCCGGCUAAGUGUUACUCCAAAGGGUGUCCCUGGCCUUAGACAGCGGGGAGGUAGGCUUAGAAGCAGCCAUCCUUUAAAGAGUGCGUAACAGCUCACCCGUCGAGGUCAGGGGCCCCGAAAAUGGACGGGGCUUAAGCCGGCCGCCGAGACCCCGGCGCACGGACCGAUUGGUCCGUGAUCGGGUAGGCGGGCGUGCCGAUGGGGCGGAAGCCGGGCCGUGAGGUCCGGUGGACCCGUCGGUAUUGCGGAUCCUGCCGGGAGUAGCAGCAUAGCCGGGUGAGAAUCCCGGCCGCCGUAGGGGCCAGGGUUCCACGGCAAUGUUCGUCAGCCGUGGGUUAGUCGGUCCUAACCCGACCCGUAACUCGGCGUCGGGGAAAGGGAAACGGGUUUAUAUUCCCGUACCGCGGUGGUAGGUGCGGCAACGCAAGCCCGAGGGGUGACGCCUCGGGGUAGGCGGACCGGUCCACAAGGCCGGCUAAGCG(OMU)AUAAGCCCGGGGAGUGCCGUAAUGGCGAGAACCGGGUGAAAGCGCGAAUGGCCUCCCGUAAGGGGGGUUCCGCCGAUCCCUGGGG(OMC)CCGUGAAAAGC(OMC)CCUCGGGAACGAUCCACCGCGACCGUACCGAGAACCGACACUGGUGCCCCUGGG(OMU)GAGAAGCCUAAGGCGUGUCGGGGGAAACCCAGCCGAGGGAACU(OMC)GGCAAAUUGGCCCCGUAACUUCGGGAGAAGGGGUGCCUGCGGGUGUGUAACCCGCAGGUCGCAGUGACUAGGGGGGCCCGACUG(OMU)UUAGUAAAAACACAGGUCCCAGCUAGCCCGAAAGGGUUU(OMG)UAC(OMU)GGG(OMG)CCGACGCCUGC(5MC)CAG(OMU)GCCGGUAUGUGAAGCCCGGGUACAACCGGGUGAAGCACCG(OMG)UAAAC(OMG)GCGGGGGUAACUAUAACCCUCUUAAGGUAG(OMC)GAAAUUC(5MC)UUGUCGGUUAAAUGCCGAC(5MC)UGCAUGAAUGGCGUAACGAGGUCCCCACUGUCCCCGGCU(OMG)GGGC(5MC)CGGCGAAACCUCUGCCAGGCGCAU(A2M)UGCCUGGGACCUCCGGUGGGAAGCGAAGACCCCAUGGAGCUUUACUGCAGCCUGCCGUUGCCGUACGGCGGGGGGUGCGCAGCGUAGGCGGGAGGCGUCGAAGCCCGCCCUCCGGGGCGGGUGGAGCCGCCCAUGAGACACCGCCCACCCUCUGCCGUACGGCUAACCCGCGGAAGCGGGGACAGCGGUAGGUGGGCAGUUUGGCUG(OMG)GGCGGCACACCCUCGAAAAGGUAUC(OMG)AGGGUGCCCUAAGGUCGGCUCAGGCGGGUCAGGAAUCCGCCGUAGAGUGCAAGGGCAAAAGCCGGCCUGACUGGACCCGUAACAGAGGCGGGUCCAGCCGCGAAAGCGUGGCCUAGCGAACCCCUGUGCCUCCCCGGUGGGGGCCAGG(OMG)AUGACAGAAAAGC(OMU)AC(OMC)CUGG(OMG)GA(4SU)AACAGAGUCGUCUCGGGCGAGAGCCCAUAUCGACCCCGAGGCUUGCUACCUCGCUGUCG(OMG)CUCUUCCCAUCCUGGCCCUGCAGCAGGGGCCAAGGGUGGGGG(OMU)GUUCACCCAUUAAAG(OMG)GGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUCGGAUGCUAUCUACCGGAGGUGUUGGCCGCCUGAG(OMG)GGAAGGCUCCCCCAGUACGAGAGGAACAGGGAGCCGCGGC(OMC)UCUGGUCUACCGGUUGUCCUACAGGGCAUAGCCGGGCAGCUACGCCGCAGCCGAUAAGGCCUGAAAGCAUCUAAGGCCGAAGCGGCCCC(OMC)GAAAACAGGCGGCCACUCCUGGGCGUUGGGCCUGGGCGACCGGUCCGUUGCCCAGGACGAGGGCCCGGGAAGAAGACCCGGUUGAUGGGGCGGGGAUGUAAGCGGGAAGGGAAACCGACCCGUUCAGUCUGCCGCUCCCAACAGCCCGAGUGCUACCGGGC",
+            "entity_poly_seq_one_letter_code_can": "AACGUCCCGCCCGGUGGCAACUAAGCCGCCUGGUGGAUGGCUCGGCUCGGGGCGCCGACGAAGGGCGUGGCAAGCUGCGAUAAGCCCCGGCGAGGCGCAGGCAGCCGUCGAACCGGGGAUGCCCGAAUGGGACCUCCCGCGGCUUUUGCCGCACUCCCAGUCGGGAGGGGGAACGCGGGGAAUUGAAACAUCUUAGUACCCGCAGGAAAAGAAAGCAAAAGCGAUGCCGUUAGUAGGGGCGACCGAAAGCGGCACAGGGCAAACUGAACCCCGGGCCGAAAGGUUCGGGGGAUGUGGUGUUGUAGGGCCCGCGGAGGAGCCCUGGGGGCGAAGCCGAAGUCCGCUGGAACGCGGCGCCGGAGAGGGUGAAAGCCCCGUAGGCGUAAGCCCCCGAGCUCCUGCGGUGUCCCUGAGUACCGUCGGUCGGAUAUCCGGCGGGAAGCUGGGAGGCAUCGGCUCCCAACCCUAAAUACGUCCCGAGACCGAUAGCGAACUAGUACCGUGAGGGAAAGCUGAAAAGCACCCCGGGAGGGGGGUGAAAAGAGCCUGAAACCAGGCGGCGAUAGGAGGGUGCGGCCCGAAAGGGUUGACCCUCCCCGAAGGAAACACGGGCGACCGUGGAGUACGAGGGGAGGUGACCGGGGUUGCACCGUCCGUCUUGGAUCACGGGGCAGGGAGUUCACCCGAGCGGCGAGGUUAAGGGGGUCAACCCCGAAGCCGCAGGGAAACCGACAGGUCCGCAGCCCGUAAGGGCGAGGGACGGGGUGUGAAAGCGCCCGGAGUCGCUCGGGUGAGACCCGAAGCCGGUCGAUCUAGCCCGGGGCAGGGUGAAGUCCCUCAACAGAGGGAUGGAGGCCCGCUAGGGGUGCUGACGCGCAAUUCGCUCCCGUGACCCCGGGCUAGGGGUGAAAGGCCAAUCGAGGCCGGCGAUAGCUGGUUCCCGCCGAAUUAUCCCCCAGGAUAGCCCGGCCGGAGGUAGGCAGUGGGGUAGAGCACUGAUUGGGGGUUUAGGGGGCGAAAGCCUCCGGCUCCCUGUCAAACUCCGAACCCACUGCCGCCGUAGAUGGCCGGAGUAGGGGGGCGGUGUAAGCCGUCACCCGAGAGGGGAACAACCCAGACCGGGGUUAAGGCCCCAAAGUGCCGGCUAAGUGUUACUCCAAAGGGUGUCCCUGGCCUUAGACAGCGGGGAGGUAGGCUUAGAAGCAGCCAUCCUUUAAAGAGUGCGUAACAGCUCACCCGUCGAGGUCAGGGGCCCCGAAAAUGGACGGGGCUUAAGCCGGCCGCCGAGACCCCGGCGCACGGACCGAUUGGUCCGUGAUCGGGUAGGCGGGCGUGCCGAUGGGGCGGAAGCCGGGCCGUGAGGUCCGGUGGACCCGUCGGUAUUGCGGAUCCUGCCGGGAGUAGCAGCAUAGCCGGGUGAGAAUCCCGGCCGCCGUAGGGGCCAGGGUUCCACGGCAAUGUUCGUCAGCCGUGGGUUAGUCGGUCCUAACCCGACCCGUAACUCGGCGUCGGGGAAAGGGAAACGGGUUUAUAUUCCCGUACCGCGGUGGUAGGUGCGGCAACGCAAGCCCGAGGGGUGACGCCUCGGGGUAGGCGGACCGGUCCACAAGGCCGGCUAAGCGUAUAAGCCCGGGGAGUGCCGUAAUGGCGAGAACCGGGUGAAAGCGCGAAUGGCCUCCCGUAAGGGGGGUUCCGCCGAUCCCUGGGGCCCGUGAAAAGCCCCUCGGGAACGAUCCACCGCGACCGUACCGAGAACCGACACUGGUGCCCCUGGGUGAGAAGCCUAAGGCGUGUCGGGGGAAACCCAGCCGAGGGAACUCGGCAAAUUGGCCCCGUAACUUCGGGAGAAGGGGUGCCUGCGGGUGUGUAACCCGCAGGUCGCAGUGACUAGGGGGGCCCGACUGUUUAGUAAAAACACAGGUCCCAGCUAGCCCGAAAGGGUUUGUACUGGGGCCGACGCCUGCCCAGUGCCGGUAUGUGAAGCCCGGGUACAACCGGGUGAAGCACCGGUAAACGGCGGGGGUAACUAUAACCCUCUUAAGGUAGCGAAAUUCCUUGUCGGUUAAAUGCCGACCUGCAUGAAUGGCGUAACGAGGUCCCCACUGUCCCCGGCUGGGGCCCGGCGAAACCUCUGCCAGGCGCAUAUGCCUGGGACCUCCGGUGGGAAGCGAAGACCCCAUGGAGCUUUACUGCAGCCUGCCGUUGCCGUACGGCGGGGGGUGCGCAGCGUAGGCGGGAGGCGUCGAAGCCCGCCCUCCGGGGCGGGUGGAGCCGCCCAUGAGACACCGCCCACCCUCUGCCGUACGGCUAACCCGCGGAAGCGGGGACAGCGGUAGGUGGGCAGUUUGGCUGGGGCGGCACACCCUCGAAAAGGUAUCGAGGGUGCCCUAAGGUCGGCUCAGGCGGGUCAGGAAUCCGCCGUAGAGUGCAAGGGCAAAAGCCGGCCUGACUGGACCCGUAACAGAGGCGGGUCCAGCCGCGAAAGCGUGGCCUAGCGAACCCCUGUGCCUCCCCGGUGGGGGCCAGGGAUGACAGAAAAGCUACCCUGGGGAUAACAGAGUCGUCUCGGGCGAGAGCCCAUAUCGACCCCGAGGCUUGCUACCUCGCUGUCGGCUCUUCCCAUCCUGGCCCUGCAGCAGGGGCCAAGGGUGGGGGUGUUCACCCAUUAAAGGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUCGGAUGCUAUCUACCGGAGGUGUUGGCCGCCUGAGGGGAAGGCUCCCCCAGUACGAGAGGAACAGGGAGCCGCGGCCUCUGGUCUACCGGUUGUCCUACAGGGCAUAGCCGGGCAGCUACGCCGCAGCCGAUAAGGCCUGAAAGCAUCUAAGGCCGAAGCGGCCCCCGAAAACAGGCGGCCACUCCUGGGCGUUGGGCCUGGGCGACCGGUCCGUUGCCCAGGACGAGGGCCCGGGAAGAAGACCCGGUUGAUGGGGCGGGGAUGUAAGCGGGAAGGGAAACCGACCCGUUCAGUCUGCCGCUCCCAACAGCCCGAGUGCUACCGGGC",
+            "entity_poly_seq_length": 3037,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6TH6",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1)"
+            ],
+            "rcsb_source_organism_id": [
+                69014
+            ],
+            "entity_poly_strand_id": "BB",
+            "entity_poly_seq_one_letter_code": "GGUACGGCGGCCAUAGCGGCGGGGCCACACCCGGUCUCGUUUCGACCCCGGAAGUUAAGCCCGCCAGCGUUCCCGGGUGUACUGCCCUCCGAGAGGGGGCGGGAAACCGGGAACGCCGCCGGCCAC",
+            "entity_poly_seq_one_letter_code_can": "GGUACGGCGGCCAUAGCGGCGGGGCCACACCCGGUCUCGUUUCGACCCCGGAAGUUAAGCCCGCCAGCGUUCCCGGGUGUACUGCCCUCCGAGAGGGGGCGGGAAACCGGGAACGCCGCCGGCCAC",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

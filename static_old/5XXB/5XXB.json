@@ -1,0 +1,1003 @@
+{
+    "rcsb_id": "5XXB",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.17,
+    "rcsb_external_ref_id": [
+        "EMD-6778"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-6778"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.17,
+    "cryoem_exp_num_particles": 108162,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2017,
+    "citation_rcsb_authors": [
+        "Li, Z.",
+        "Guo, Q.",
+        "Zheng, L.",
+        "Ji, Y.",
+        "Xie, Y.T.",
+        "Lai, D.H.",
+        "Lun, Z.R.",
+        "Suo, X.",
+        "Gao, N."
+    ],
+    "citation_title": "Cryo-EM structures of the 80S ribosomes from human parasites Trichomonas vaginalis and Toxoplasma gondii",
+    "citation_pdbx_doi": "10.1038/cr.2017.104",
+    "pdbx_keywords_text": "parasitic ribosome, rRNA, rproteins, RIBOSOME",
+    "_organismId": [
+        5811
+    ],
+    "_organismName": [
+        "Toxoplasma gondii"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL8",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MASMKKGSAAAKGSSGGKKKLPAAPLAGKSGKKVQKSPIFAKTPRSFRVGGNIQPRRDLSRFVKWPKYILLQRQRRVLMQRLKVPPAINQFTHTLDKNQTSQLMRLLAKYKPETRAEKKQRLLQEAERQSAGGAAGGKKPVMIKYGINHVTDLIEIKKAKLVVIAHDVTPVELVCFIPQLCRKKEVPYCIVKGKSRLGQLVHQKNCPVLAIDNVRKEDQAELEAQCKIYRAMFNDNSEVRRRWGGGINGIKSQHAQQKKEKLINIELKKKMGLQLA",
+            "entity_poly_seq_one_letter_code_can": "MASMKKGSAAAKGSSGGKKKLPAAPLAGKSGKKVQKSPIFAKTPRSFRVGGNIQPRRDLSRFVKWPKYILLQRQRRVLMQRLKVPPAINQFTHTLDKNQTSQLMRLLAKYKPETRAEKKQRLLQEAERQSAGGAAGGKKPVMIKYGINHVTDLIEIKKAKLVVIAHDVTPVELVCFIPQLCRKKEVPYCIVKGKSRLGQLVHQKNCPVLAIDNVRKEDQAELEAQCKIYRAMFNDNSEVRRRWGGGINGIKSQHAQQKKEKLINIELKKKMGLQLA",
+            "entity_poly_seq_length": 276,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL6",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MKSVYACETITIPAGVTVDVKSRVVTVKGKYGEITRAFRHLPVDIQKTKSGNRLKVEMWYGTCTDLSCIRTLCSHIKNMFTGVMKKFQYKMRFVYAHFPINVNISGNGTVVEIRNFLGEKRVRIVKMLPGVKCEKATNVKDEIALTGTDVELVSRSAALIHQSTLVRRKDIRKFLDGIYVSETSTVEQDA",
+            "entity_poly_seq_one_letter_code_can": "MKSVYACETITIPAGVTVDVKSRVVTVKGKYGEITRAFRHLPVDIQKTKSGNRLKVEMWYGTCTDLSCIRTLCSHIKNMFTGVMKKFQYKMRFVYAHFPINVNISGNGTVVEIRNFLGEKRVRIVKMLPGVKCEKATNVKDEIALTGTDVELVSRSAALIHQSTLVRRKDIRKFLDGIYVSETSTVEQDA",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL16",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MGRRPARCYRYCKNKPYPKSRFCRGVPDAKIRIYDAGRKRADVDEFPGVAHLVSDEYEQISSEALEAARVCANKYMIKNCGKDNFHLRIRVHPFHVLRINKMLSCAGADRLQTGMRGAFGKPMGLVARVDIGQILMSIRTRESNVATAVTALRRAAFKFPGRQKVFVSNKWGFTKFTKVEYKKWQAEGRIVSDGVGAKWISTKGPLANTFPSAADITLPVA",
+            "entity_poly_seq_one_letter_code_can": "MGRRPARCYRYCKNKPYPKSRFCRGVPDAKIRIYDAGRKRADVDEFPGVAHLVSDEYEQISSEALEAARVCANKYMIKNCGKDNFHLRIRVHPFHVLRINKMLSCAGADRLQTGMRGAFGKPMGLVARVDIGQILMSIRTRESNVATAVTALRRAAFKFPGRQKVFVSNKWGFTKFTKVEYKKWQAEGRIVSDGVGAKWISTKGPLANTFPSAADITLPVA",
+            "entity_poly_seq_length": 221,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL5",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MVKKGEENPMRKIRIEKLTLNICVGESGDRLTRAARVLEQLTGQRPQFSKARFTIRSFGIRRNEKIACYVTVRGKKAEDILEKGLKVKEYELKKKNFSDSGNFGFGIQEHIDLGIKYDPSTGIYGMDFYVQLTRPGNRVAHRKRARGRVGHSHRVTKEDSIKWFQQTYDGIVLNH",
+            "entity_poly_seq_one_letter_code_can": "MVKKGEENPMRKIRIEKLTLNICVGESGDRLTRAARVLEQLTGQRPQFSKARFTIRSFGIRRNEKIACYVTVRGKKAEDILEKGLKVKEYELKKKNFSDSGNFGFGIQEHIDLGIKYDPSTGIYGMDFYVQLTRPGNRVAHRKRARGRVGHSHRVTKEDSIKWFQQTYDGIVLNH",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL13",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MQVDTGFTKSISVHWSLLPLSSDSVGLHNFLSRPQNMRCDITRGVDESSIFRCGSRLLLFRRVTAGGARLAQRKGNSTAFRGAPYGCSTLHPDNFLLFLSVSLSQISASWTQHLGRASAEHLLVPAISWRKQSLSVVCFSSVKMVSKNNVLPNVHLHKWWQRYVKTWFNQPGRKQSRRLRRQEKAAKLGVVPSGLLRPIVHPPTQRYNLKVRAGRGFTLEELKSVGLSPRVALSIGVAVDHRRRNRSAESLNANVTRLKAYLAKLVLFQRGSKAKKGLAGIPADTPKSQIQNVKHVKISTAMPIPKASKRCKPRAITAEEQKFMAYATLRKALRDCKNVGKHEKKLAAEKEANQK",
+            "entity_poly_seq_one_letter_code_can": "MQVDTGFTKSISVHWSLLPLSSDSVGLHNFLSRPQNMRCDITRGVDESSIFRCGSRLLLFRRVTAGGARLAQRKGNSTAFRGAPYGCSTLHPDNFLLFLSVSLSQISASWTQHLGRASAEHLLVPAISWRKQSLSVVCFSSVKMVSKNNVLPNVHLHKWWQRYVKTWFNQPGRKQSRRLRRQEKAAKLGVVPSGLLRPIVHPPTQRYNLKVRAGRGFTLEELKSVGLSPRVALSIGVAVDHRRRNRSAESLNANVTRLKAYLAKLVLFQRGSKAKKGLAGIPADTPKSQIQNVKHVKISTAMPIPKASKRCKPRAITAEEQKFMAYATLRKALRDCKNVGKHEKKLAAEKEANQK",
+            "entity_poly_seq_length": 355,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL14",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MGLFTRYYQPGRLCVVQYGPDAGKLCFVVDIINQTRVLVDGAGVTGVKRQSMPVRRIALTDQYLKIPRSVRSATLKKALEKDDVIAKFNQSSWGKRRLAKEQRANMSDFDRFKLMVILKQRRKVMQQKLKSLKK",
+            "entity_poly_seq_one_letter_code_can": "MGLFTRYYQPGRLCVVQYGPDAGKLCFVVDIINQTRVLVDGAGVTGVKRQSMPVRRIALTDQYLKIPRSVRSATLKKALEKDDVIAKFNQSSWGKRRLAKEQRANMSDFDRFKLMVILKQRRKVMQQKLKSLKK",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL15",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MGAYKYLEELWKKKQSDVLRFLLRVRTWEYRQLPAVHRCTQSTRPDKARRLGYKKKQGFVIYRVRVRRGDRKKQVHKGIVYGKPKNQGVRKQKSTRNLRAVAEEKVGRKICGGLRVLNSYWVGQDAVYKYYEVILVDPAHNAIRNDPRINWLCKPVMKHRECRGLTSAGKKYRGLRTKGSGAARLRPSRRACWKKRQAVRLRRYR",
+            "entity_poly_seq_one_letter_code_can": "MGAYKYLEELWKKKQSDVLRFLLRVRTWEYRQLPAVHRCTQSTRPDKARRLGYKKKQGFVIYRVRVRRGDRKKQVHKGIVYGKPKNQGVRKQKSTRNLRAVAEEKVGRKICGGLRVLNSYWVGQDAVYKYYEVILVDPAHNAIRNDPRINWLCKPVMKHRECRGLTSAGKKYRGLRTKGSGAARLRPSRRACWKKRQAVRLRRYR",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL13",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MWALRMYRLIFCATRGRPRRACVGSFRRTEEISSFLCLLFFCCLERRSSEKRVQLSKDLFTRRFSKMTFKKVVVIDCQGHLLGRLASVVAKELLKGQQIICVRCEDINISGSLHRNRLKYQRFLRLRMNSNPRRGPYHLRAPSRILWRTIRGMLRHKVERGQKALARLQVYEGVPTMVERKKRMVVPSALRIVRLKPKRNFCRLGDLSSQVGWSHGDLVARLEEKRKTRSSAYYQKKKERTKMQTEAKQFAQTTLPKDQVAFLQQYGHA",
+            "entity_poly_seq_one_letter_code_can": "MWALRMYRLIFCATRGRPRRACVGSFRRTEEISSFLCLLFFCCLERRSSEKRVQLSKDLFTRRFSKMTFKKVVVIDCQGHLLGRLASVVAKELLKGQQIICVRCEDINISGSLHRNRLKYQRFLRLRMNSNPRRGPYHLRAPSRILWRTIRGMLRHKVERGQKALARLQVYEGVPTMVERKKRMVVPSALRIVRLKPKRNFCRLGDLSSQVGWSHGDLVARLEEKRKTRSSAYYQKKKERTKMQTEAKQFAQTTLPKDQVAFLQQYGHA",
+            "entity_poly_seq_length": 269,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL22",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MVKYAKEPSNENKCCKAFGQDLRVHFKNTHATVQAIKKDKKGNPMKLSAAKKFLEDVMEKKRCVPFRKFTGCIGRKAQAKEFKHTQGRWPVKSCKFVLDLLRNAESNAEMKNLDVDNLVIEHIQVNRAPKGRRRTYRAHGRINPYMSQPCHIEVILREQEQAVEKPSVEGVKAKTIRLTKKALARSRVRVGGGSN",
+            "entity_poly_seq_one_letter_code_can": "MVKYAKEPSNENKCCKAFGQDLRVHFKNTHATVQAIKKDKKGNPMKLSAAKKFLEDVMEKKRCVPFRKFTGCIGRKAQAKEFKHTQGRWPVKSCKFVLDLLRNAESNAEMKNLDVDNLVIEHIQVNRAPKGRRRTYRAHGRINPYMSQPCHIEVILREQEQAVEKPSVEGVKAKTIRLTKKALARSRVRVGGGSN",
+            "entity_poly_seq_length": 195,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL18",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MGIDLERNGRKKKGGRRTVKSQNPYLRLLVKLYQFLARRTNSRFNAVVLKRLMNPKRLKAPMSLSKLARHMKGKEDHIAVLVGSVTDDIRMVHAPKLTVCALRFSETARRRLEKAGGECLTFDQLALRRPKGSKCVLLRAATKSREADKHFGAAPGTPGSKARPYVRSTGRKFEKARGRRKSRGYKN",
+            "entity_poly_seq_one_letter_code_can": "MGIDLERNGRKKKGGRRTVKSQNPYLRLLVKLYQFLARRTNSRFNAVVLKRLMNPKRLKAPMSLSKLARHMKGKEDHIAVLVGSVTDDIRMVHAPKLTVCALRFSETARRRLEKAGGECLTFDQLALRRPKGSKCVLLRAATKSREADKHFGAAPGTPGSKARPYVRSTGRKFEKARGRRKSRGYKN",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL19",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MSLQLQKRLAASILKCGRRRVWMDPNEASDISMANSRFSIRKLVKDNLIIRKAVAVHSRYRVRLYHEAKRAGRHMGKGKRKGTREARLPAKVLWMRRQRVLRRLLKKYRDSKKIDKHMYHSMYMRCKGNQFKNKRVLIEAIHNEKNLKLKEKALQEQLEARKSKAAAQKEKRRMKELKKEADSPASA",
+            "entity_poly_seq_one_letter_code_can": "MSLQLQKRLAASILKCGRRRVWMDPNEASDISMANSRFSIRKLVKDNLIIRKAVAVHSRYRVRLYHEAKRAGRHMGKGKRKGTREARLPAKVLWMRRQRVLRRLLKKYRDSKKIDKHMYHSMYMRCKGNQFKNKRVLIEAIHNEKNLKLKEKALQEQLEARKSKAAAQKEKRRMKELKKEADSPASA",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL20",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MKADPTLQQKISQYQVVGRKQPTEAEPNPSLFRMRLFARNKVLAVSKFWYLLKKMKKVKKSTGEILAVNEIREKRPTFVKNFGVWLRYDSRTGTHNMYKEVRDISQNGAVSQLYAEMAGRHRALPSNIQIIRVAEIKASQCRRAHMQQLFDSKLKLPAIRRIFPTPKDKKSVFCARKPTLFLH",
+            "entity_poly_seq_one_letter_code_can": "MKADPTLQQKISQYQVVGRKQPTEAEPNPSLFRMRLFARNKVLAVSKFWYLLKKMKKVKKSTGEILAVNEIREKRPTFVKNFGVWLRYDSRTGTHNMYKEVRDISQNGAVSQLYAEMAGRHRALPSNIQIIRVAEIKASQCRRAHMQQLFDSKLKLPAIRRIFPTPKDKKSVFCARKPTLFLH",
+            "entity_poly_seq_length": 183,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL21",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MPTSFGKRARTRQKFSKGFRRHGMPAVSRLLVIHKKGDYVDIVCDPSVQKGMPYSYYHGRTGIVFNVTQRAVGVEVNKVVGNRVIKKRIHVRLEHVRKSRCNELFLRRVKENDAAHHEAHLKGESIKTKRQIPGPKPGCFVSGTMEVLEPAPFVESY",
+            "entity_poly_seq_one_letter_code_can": "MPTSFGKRARTRQKFSKGFRRHGMPAVSRLLVIHKKGDYVDIVCDPSVQKGMPYSYYHGRTGIVFNVTQRAVGVEVNKVVGNRVIKKRIHVRLEHVRKSRCNELFLRRVKENDAAHHEAHLKGESIKTKRQIPGPKPGCFVSGTMEVLEPAPFVESY",
+            "entity_poly_seq_length": 157,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL22",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MAKAHMRAAGSGRGAGGKKGAAAKPVKVKFTVDCQKPVDDNIIEAKGLERFLQTHIKVDGKCNNLGDRVQVSREKAKVFVTAELPFSKRYIKYLTKKYLKKQMLRDFMRVVSSRDTVYELRYFQMPQEDETAA",
+            "entity_poly_seq_one_letter_code_can": "MAKAHMRAAGSGRGAGGKKGAAAKPVKVKFTVDCQKPVDDNIIEAKGLERFLQTHIKVDGKCNNLGDRVQVSREKAKVFVTAELPFSKRYIKYLTKKYLKKQMLRDFMRVVSSRDTVYELRYFQMPQEDETAA",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL14",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MKRGRGGVGGSKMRVTLGLPVGALINCCDNSGAKNLYIIAVKGWGSCLNRLPACSLGDLVLATVKKGKPDLRKKVHMAIIVRQRRAWRRAEGYFIYFEDNAGVVANNKGEMKGSAVTGPVGKECAELWPKISAAATAIC",
+            "entity_poly_seq_one_letter_code_can": "MKRGRGGVGGSKMRVTLGLPVGALINCCDNSGAKNLYIIAVKGWGSCLNRLPACSLGDLVLATVKKGKPDLRKKVHMAIIVRQRRAWRRAEGYFIYFEDNAGVVANNKGEMKGSAVTGPVGKECAELWPKISAAATAIC",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL24",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MSAVKTTIKTDMCSFSEYRIYPGRGQRFVAKDGKVHTFIHRKEASLFRQKIKPVKLHWTLVWRRMNKKGGKDAVNKRRSRKATKTVQKAIVGLSLEDIKRTRAQKPETKAKSATAVKDAKEKSKKSKAAGVRPQSGPAQKVQIPKQQKQATRGRK",
+            "entity_poly_seq_one_letter_code_can": "MSAVKTTIKTDMCSFSEYRIYPGRGQRFVAKDGKVHTFIHRKEASLFRQKIKPVKLHWTLVWRRMNKKGGKDAVNKRRSRKATKTVQKAIVGLSLEDIKRTRAQKPETKAKSATAVKDAKEKSKKSKAAGVRPQSGPAQKVQIPKQQKQATRGRK",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL23",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MAPKAGASAGAKASAKKAVAGKVKKAQQAAKGLKASSSFKKARVRTNVHFFRPHTLRKSRQPKVVRRCYEAATCTFPKLAKTDKYTIVRQPLTTESAMKKIEETNTLVFLVDPRSNKRQIKQAVKELYDVDTQRVNTLIRPDGLKKAYVRLTSDYDALDVANKIGII",
+            "entity_poly_seq_one_letter_code_can": "MAPKAGASAGAKASAKKAVAGKVKKAQQAAKGLKASSSFKKARVRTNVHFFRPHTLRKSRQPKVVRRCYEAATCTFPKLAKTDKYTIVRQPLTTESAMKKIEETNTLVFLVDPRSNKRQIKQAVKELYDVDTQRVNTLIRPDGLKKAYVRLTSDYDALDVANKIGII",
+            "entity_poly_seq_length": 167,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL24",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MKFSSQVSSSRRKSRKAHFSAPSSVRRKIMTAPLCKELRKKYNVRSLPIRKDDEVMVVRGHHHDREGKVTKVYRKKWVIHIERVTRDKANGETVTIGIHPSKVVITKAKLDKDRKALLERKSRATTKGKYTEKDVAMSQVD",
+            "entity_poly_seq_one_letter_code_can": "MKFSSQVSSSRRKSRKAHFSAPSSVRRKIMTAPLCKELRKKYNVRSLPIRKDDEVMVVRGHHHDREGKVTKVYRKKWVIHIERVTRDKANGETVTIGIHPSKVVITKAKLDKDRKALLERKSRATTKGKYTEKDVAMSQVD",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL27",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MVKLLKSGRVVVVLNGRHAGKKGVVVNTWEGSKERQFAFCLVAGIEKAPLKVHKKMPAKKIEKRMRVKPFLKYINVNHLMPTRYTVSSDMDVKTMVPEDAMRTVDDRKAAKKGLKKIFYEKFTNPVNEKVGKVSKDLLFLRKKLRF",
+            "entity_poly_seq_one_letter_code_can": "MVKLLKSGRVVVVLNGRHAGKKGVVVNTWEGSKERQFAFCLVAGIEKAPLKVHKKMPAKKIEKRMRVKPFLKYINVNHLMPTRYTVSSDMDVKTMVPEDAMRTVDDRKAAKKGLKKIFYEKFTNPVNEKVGKVSKDLLFLRKKLRF",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL15",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MTTRLRKTRKRRGHVSAGYGRVGKHRKHPGGRGKAGGMHHMRINYDKYHPGYFGKVGMRHYHLLKNQYTCPTVNVDKLWSLVSPATLEKAEQSKDKAAVIDVTKSGYFKVLGKGDLPKIPVIVKARFFSKIAEKKIKAAGGACVLTG",
+            "entity_poly_seq_one_letter_code_can": "MTTRLRKTRKRRGHVSAGYGRVGKHRKHPGGRGKAGGMHHMRINYDKYHPGYFGKVGMRHYHLLKNQYTCPTVNVDKLWSLVSPATLEKAEQSKDKAAVIDVTKSGYFKVLGKGDLPKIPVIVKARFFSKIAEKKIKAAGGACVLTG",
+            "entity_poly_seq_length": 147,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL29",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MAKSKNHTNHNQNKKAHRNGIKKPQRKRKMSTKGMCPKFLRNQRACKRGMMKSD",
+            "entity_poly_seq_one_letter_code_can": "MAKSKNHTNHNQNKKAHRNGIKKPQRKRKMSTKGMCPKFLRNQRACKRGMMKSD",
+            "entity_poly_seq_length": 54,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL30",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MAKKAKKSGSEGINSRLQLVMKSGKVNLGCKTAIHALRTGKAKLIIISNNCPALRKSEIEYYAMLSKCGVHHYHGDNNELGTACGKLFRVSCLAVTDPGDSDIIRSVE",
+            "entity_poly_seq_one_letter_code_can": "MAKKAKKSGSEGINSRLQLVMKSGKVNLGCKTAIHALRTGKAKLIIISNNCPALRKSEIEYYAMLSKCGVHHYHGDNNELGTACGKLFRVSCLAVTDPGDSDIIRSVE",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL31",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MKGTTRKAQNKSLQPVCRDYTIHLHKLIHGIQFKKRAPRALREIRRFAQKTMHTKDVRIDTKLNKFIWSGGIRNVPRRVRVRIARRRNDDEDSKEKFYTLVQHVPVASFENLKTEYVNEE",
+            "entity_poly_seq_one_letter_code_can": "MKGTTRKAQNKSLQPVCRDYTIHLHKLIHGIQFKKRAPRALREIRRFAQKTMHTKDVRIDTKLNKFIWSGGIRNVPRRVRVRIARRRNDDEDSKEKFYTLVQHVPVASFENLKTEYVNEE",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL32",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MAPVSTVKRSIVKKRVKSFPRFQSDRYKRVKSSWRKPKGIDCRVRRKFKGTNTMPNIGYGSNKKTRHMLPNGFFKFLVSSPKDIELLLMHNTKFAAEIAHNISSRKRREILERADQLNVLVLNRSARLDTAEDE",
+            "entity_poly_seq_one_letter_code_can": "MAPVSTVKRSIVKKRVKSFPRFQSDRYKRVKSSWRKPKGIDCRVRRKFKGTNTMPNIGYGSNKKTRHMLPNGFFKFLVSSPKDIELLLMHNTKFAAEIAHNISSRKRREILERADQLNVLVLNRSARLDTAEDE",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL33",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MKKSGTKQPVRLYVRGIVLGYKRSKVNQYPSCSLLQLEGVNDRKDTQFYLGKRVAYVYKAKTEKQGSKYRVIWGRIRRPHGNGGIVRAKFRSNLPPSSIAGRVRVFLYPSNI",
+            "entity_poly_seq_one_letter_code_can": "MKKSGTKQPVRLYVRGIVLGYKRSKVNQYPSCSLLQLEGVNDRKDTQFYLGKRVAYVYKAKTEKQGSKYRVIWGRIRRPHGNGGIVRAKFRSNLPPSSIAGRVRVFLYPSNI",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL34",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MAPRLVYRRHNHYATGSNRVRRVRTPGAKVVFHNVGKQPSRPKCGNCHRALPGIPAVAPHRLRLLKKRERTVHRAYGGSRCHACVRERIVRAFLVEEQKCVKQVLQVKEKQKKDEMKAESKKSKQKKSSKTAKA",
+            "entity_poly_seq_one_letter_code_can": "MAPRLVYRRHNHYATGSNRVRRVRTPGAKVVFHNVGKQPSRPKCGNCHRALPGIPAVAPHRLRLLKKRERTVHRAYGGSRCHACVRERIVRAFLVEEQKCVKQVLQVKEKQKKDEMKAESKKSKQKKSSKTAKA",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL29",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MVKIRAYELRGKSQKELVKQLEDLKKELAQLRVAKVTGSAASKLSKVTEVRKGIARVLTVYTQKQREEARAAFKGKKFIPNDLRAKKTRAIRRRLTASQTRKMTVRKMKRTQNVPKRKFALIA",
+            "entity_poly_seq_one_letter_code_can": "MVKIRAYELRGKSQKELVKQLEDLKKELAQLRVAKVTGSAASKLSKVTEVRKGIARVLTVYTQKQREEARAAFKGKKFIPNDLRAKKTRAIRRRLTASQTRKMTVRKMKRTQNVPKRKFALIA",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL36",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MSGIAVGLKRGYVVTKKATPARPSRRPRKLSPRMSSIREIIRQVAGFAPYERRIIELLKIGTAATTKRALKFAKKRLGTHRRGKGKREELQNVVSAQRRKA",
+            "entity_poly_seq_one_letter_code_can": "MSGIAVGLKRGYVVTKKATPARPSRRPRKLSPRMSSIREIIRQVAGFAPYERRIIELLKIGTAATTKRALKFAKKRLGTHRRGKGKREELQNVVSAQRRKA",
+            "entity_poly_seq_length": 101,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL37",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MGKAGKGTGSFGKRHGKTHFLCIRCGRRAYHTQKKTCGACGYPNAKKRTYNWSEKAKRRHTTGTGRCRHLKDMPRRAKNNFREGTKATPVKKRKTQQK",
+            "entity_poly_seq_one_letter_code_can": "MGKAGKGTGSFGKRHGKTHFLCIRCGRRAYHTQKKTCGACGYPNAKKRTYNWSEKAKRRHTTGTGRCRHLKDMPRRAKNNFREGTKATPVKKRKTQQK",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL38",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MAKEIRDLRKFLLTARRPDAKRVTIVRQHKKPRATGGGASTVTKFKIRCSRYLYTFVVEDREKAQKLEGSLPPSLEKVSIPGKK",
+            "entity_poly_seq_one_letter_code_can": "MAKEIRDLRKFLLTARRPDAKRVTIVRQHKKPRATGGGASTVTKFKIRCSRYLYTFVVEDREKAQKLEGSLPPSLEKVSIPGKK",
+            "entity_poly_seq_length": 84,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL2",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "MGRVIRAQRKGRGSVFRAHTHKRKGEAKLRPLDFAERRGYIKGLVKDILHDPGRGAPLAEVSFRDAYRYKLNKQRMVAVEGMYTGQFIYCGKNAALTIGNILPLNKMPEGTVVSNVEEKAGDRGTLARTSGTYATIVGHSDDGSKTRIRLPSGARKTVSGYSRGMVGIVAGGGRIDKPMLKAGNAYHKYKVKRNCWPKVRGVAMNPVEHPHGGGNHQHIGHPSTVSRMAAPGQKVGLIAARRTGLLRGGRKTKLAGKSQE",
+            "entity_poly_seq_one_letter_code_can": "MGRVIRAQRKGRGSVFRAHTHKRKGEAKLRPLDFAERRGYIKGLVKDILHDPGRGAPLAEVSFRDAYRYKLNKQRMVAVEGMYTGQFIYCGKNAALTIGNILPLNKMPEGTVVSNVEEKAGDRGTLARTSGTYATIVGHSDDGSKTRIRLPSGARKTVSGYSRGMVGIVAGGGRIDKPMLKAGNAYHKYKVKRNCWPKVRGVAMNPVEHPHGGGNHQHIGHPSTVSRMAAPGQKVGLIAARRTGLLRGGRKTKLAGKSQE",
+            "entity_poly_seq_length": 260,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL39",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MGSIKGLSLKKHLGRKQKQNRPIPPWIRMRTGSKIRYNAKRRHWRRTKLGM",
+            "entity_poly_seq_one_letter_code_can": "MGSIKGLSLKKHLGRKQKQNRPIPPWIRMRTGSKIRYNAKRRHWRRTKLGM",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL40",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLDVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLALLAQKYNCEKKVCRKCYARLPPRATNCRKKKCGHSNQLRPKKKPKN",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLDVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGIIEPSLALLAQKYNCEKKVCRKCYARLPPRATNCRKKKCGHSNQLRPKKKPKN",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL42",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "MVNVPKLRNTFCKGPKCRKHQPHKVSQYKKGKDSLVVQGKRRYDRKQKGFGGQTKPIFRKKAKTTKKIVLKLECTKCKTKRLLPIKRCKSFELGAEKKSKGGPGY",
+            "entity_poly_seq_one_letter_code_can": "MVNVPKLRNTFCKGPKCRKHQPHKVSQYKKGKDSLVVQGKRRYDRKQKGFGGQTKPIFRKKAKTTKKIVLKLECTKCKTKRLLPIKRCKSFELGAEKKSKGGPGY",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL43",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MAKRTKKVGVVGKYGTRYGASLRKQVKKIELQQHAKYSCPFCGKMATKRQAVGIWKCRGCSKVMTGGAWTLQTAAAATVRSTVARLRKQAGEAQAA",
+            "entity_poly_seq_one_letter_code_can": "MAKRTKKVGVVGKYGTRYGASLRKQVKKIELQQHAKYSCPFCGKMATKRQAVGIWKCRGCSKVMTGGAWTLQTAAAATVRSTVARLRKQAGEAQAA",
+            "entity_poly_seq_length": 96,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL28",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MVSSELLWQCVRRNHCFIRKFNGITLSAERMNLTNKNTLKYSGIAHKQPLGLNRHGANNGCIALVTVQKCSRAMRKPTRAVQVRKFKKSKKEMSKVMKAVAERRPDLLKVANKKMKKLIRTGNSSNKKE",
+            "entity_poly_seq_one_letter_code_can": "MVSSELLWQCVRRNHCFIRKFNGITLSAERMNLTNKNTLKYSGIAHKQPLGLNRHGANNGCIALVTVQKCSRAMRKPTRAVQVRKFKKSKKEMSKVMKAVAERRPDLLKVANKKMKKLIRTGNSSNKKE",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MSHRKFERPRHGSLGFLPRKRCKRHRGKVKAFPKDDPSKPPHLTAFMGYKAGMTHVVRELDKPGSKLHKKEIVEAVTVVDTPPMVCVGVVGYIETPRGLRALVTVWAGHLSDECKRRFYKNWYKSKRKAFTKYAKRYGDNNKMEAELTRMKNYCSVIRAICHTQPSKTPIGSKKAHVMEIQVNGGSIAEKVDFCTKMFETAVPVKAVFTEGEMIDVIGVTKGHGVKGVVSRWGVTRLPRKTHRGLRKIACIGAWHPARVQFQVPRHGQKGYFHRTEMNKKVYRVGNGADPRNATTESDLTEKRITPMGGFPHYGTVNNDFLLLKGCIVGCKKRPITFRKTLVPRTTRRALEPVNLKFIDTSAKWGHGRFQTSEEKAKFYGPLKSRAAAM",
+            "entity_poly_seq_one_letter_code_can": "MSHRKFERPRHGSLGFLPRKRCKRHRGKVKAFPKDDPSKPPHLTAFMGYKAGMTHVVRELDKPGSKLHKKEIVEAVTVVDTPPMVCVGVVGYIETPRGLRALVTVWAGHLSDECKRRFYKNWYKSKRKAFTKYAKRYGDNNKMEAELTRMKNYCSVIRAICHTQPSKTPIGSKKAHVMEIQVNGGSIAEKVDFCTKMFETAVPVKAVFTEGEMIDVIGVTKGHGVKGVVSRWGVTRLPRKTHRGLRKIACIGAWHPARVQFQVPRHGQKGYFHRTEMNKKVYRVGNGADPRNATTESDLTEKRITPMGGFPHYGTVNNDFLLLKGCIVGCKKRPITFRKTLVPRTTRRALEPVNLKFIDTSAKWGHGRFQTSEEKAKFYGPLKSRAAAM",
+            "entity_poly_seq_length": 389,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL4",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MATARPLVSVYKPEDGTASGTSLMPSVFLSPLRPDLVRFVHTNMAKNRRQPYGVAPNAGYQTSAESWGTGRAVSRIPRVPGGGTHRAGQAAFGNMCRGGGMFAPNKTWRRWHRKVNVTQKRHAVASAVAATGLPALVMARGHRIDEVPELPLVVSEKLEKVSKTREAVKILETLGCTAELERVRASAKKLRAGKGKMRGRRTHMRRGPLVVYAEDNGVTRAFRNIPGVELCKVDSLNLLQLAPGGALGRFCLYTASAFKRLQLLFGRHTGTGTAQLKKGYHLPRALMSNADLSRIVNSEEIQRVVRPARVAPQKKRGQKKNLLKNHAVLCRVNPAARNLKILARLAQTEGTKQRALVLRKKQANREEHKKHRQSARRFAAEIRQAFSDKMAAELEAAARRKAEEAGAIAQASAEEE",
+            "entity_poly_seq_one_letter_code_can": "MATARPLVSVYKPEDGTASGTSLMPSVFLSPLRPDLVRFVHTNMAKNRRQPYGVAPNAGYQTSAESWGTGRAVSRIPRVPGGGTHRAGQAAFGNMCRGGGMFAPNKTWRRWHRKVNVTQKRHAVASAVAATGLPALVMARGHRIDEVPELPLVVSEKLEKVSKTREAVKILETLGCTAELERVRASAKKLRAGKGKMRGRRTHMRRGPLVVYAEDNGVTRAFRNIPGVELCKVDSLNLLQLAPGGALGRFCLYTASAFKRLQLLFGRHTGTGTAQLKKGYHLPRALMSNADLSRIVNSEEIQRVVRPARVAPQKKRGQKKNLLKNHAVLCRVNPAARNLKILARLAQTEGTKQRALVLRKKQANREEHKKHRQSARRFAAEIRQAFSDKMAAELEAAARRKAEEAGAIAQASAEEE",
+            "entity_poly_seq_length": 416,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL18",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MAFVKALKNKAYFKRYQVKYRRRRQGKTDYAARRALVLQDRNKYNAHKHRLVVRLTNKRIICQVVYSTIEGDRVLATAESTELPRYGVKIGLTNYAAAYCTGLLLARRVLKQLGMSETFEGVEATGEEYHIEENFGERRPFKVLLDVGIVRTTVGNRVFGAMKGAADGGLHVPHGIKKFPGYSKPEGEGEGSYDPEAHRARILGLHVADYMRQLKEEDPEKYSAQFSQYIKNKIEADDIEAMYKNAHAQIRKNPDAVKKERAANVQNVRQGNVIKTAKGQYVRHVKLTKAQRRERVQQKIAMIAEQMAEA",
+            "entity_poly_seq_one_letter_code_can": "MAFVKALKNKAYFKRYQVKYRRRRQGKTDYAARRALVLQDRNKYNAHKHRLVVRLTNKRIICQVVYSTIEGDRVLATAESTELPRYGVKIGLTNYAAAYCTGLLLARRVLKQLGMSETFEGVEATGEEYHIEENFGERRPFKVLLDVGIVRTTVGNRVFGAMKGAADGGLHVPHGIKKFPGYSKPEGEGEGSYDPEAHRARILGLHVADYMRQLKEEDPEKYSAQFSQYIKNKIEADDIEAMYKNAHAQIRKNPDAVKKERAANVQNVRQGNVIKTAKGQYVRHVKLTKAQRRERVQQKIAMIAEQMAEA",
+            "entity_poly_seq_length": 310,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein eL6",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MAPTAAALAKKRLRTRKPKRQLYKSPAGAAKRMAKLRSSITPGTVLILLSGGHRGKRVVFLKQLAPSGLLLVTGPFKVNGVPLRRVNQRYVIATTTKVDISGVDVSSIKDEQFGASKKEKFAERKLRKKQDEGMFVQQSDSKAKQALPAQFKQLQDSVDKALLASLSKDKLLTQYLKTRFTLRGNMRPHEMKF",
+            "entity_poly_seq_one_letter_code_can": "MAPTAAALAKKRLRTRKPKRQLYKSPAGAAKRMAKLRSSITPGTVLILLSGGHRGKRVVFLKQLAPSGLLLVTGPFKVNGVPLRRVNQRYVIATTTKVDISGVDVSSIKDEQFGASKKEKFAERKLRKKQDEGMFVQQSDSKAKQALPAQFKQLQDSVDKALLASLSKDKLLTQYLKTRFTLRGNMRPHEMKF",
+            "entity_poly_seq_length": 193,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Ribosomal protein uL30",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MADRYSVKLLRPMEGVPVPERTKTKIARDVKLLNKMKQAKEAHAKKVHAQRHALKMRTYKYVSEYRKERENLIKLKREAKAKGGFYKEPEAKVILATRIKGINKLAPKPKMILRLFRLRQLHNAVFIKVNKATIEMLKAVQPFITYGYPTLKTIRQLIYKRGYAKVGKPGAHSRIRLQANDIVSQHLGKYGIHGVEDLVHEIYTCGPYFKQANNFLWPFKLNSPRKGFTSKRHGYNEPRKGDWGNREEMINELVQRMI",
+            "entity_poly_seq_one_letter_code_can": "MADRYSVKLLRPMEGVPVPERTKTKIARDVKLLNKMKQAKEAHAKKVHAQRHALKMRTYKYVSEYRKERENLIKLKREAKAKGGFYKEPEAKVILATRIKGINKLAPKPKMILRLFRLRQLHNAVFIKVNKATIEMLKAVQPFITYGYPTLKTIRQLIYKRGYAKVGKPGAHSRIRLQANDIVSQHLGKYGIHGVEDLVHEIYTCGPYFKQANNFLWPFKLNSPRKGFTSKRHGYNEPRKGDWGNREEMINELVQRMI",
+            "entity_poly_seq_length": 258,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "5XXB",
+            "rcsb_pdbx_description": "25S RNA",
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "AUCAGACCUGAAAUCAGGCGAGGUUACCCGCUGAACUUAAGCAUAUUAUUAAGCGGAGGAGAAGAAAAUAACUAUGAUUCCCUUAGUAACGGCGAGUGAACCGGGAUCAGCUCAAAGUGGAAAUCAACUGCUCUUUCCGAGCUGUUGACUUGUAGCCUCGAGAGGCGUUACCAGUGGAAGCGCAGGGUUAAGUUUCUUGGGAAAGAACAUCAUAGAGGGUGAGAAUCCCGUCCUUCCCCUGCGUUUUUUGUUCCACGUACGGUACGCUUUUAUAGAGUCGCGUUCAUCGGGAUUUGAGCGCAAAAUGUGUGGUAGGUUUCACAUAAAGCUAAGUACUGGCGCGAGACCGAUAGCAAACAAGUACCGUGAGGGAAAGAUGAAAAGUUCUUUGGAAAGAGAGUUAAAAGUGCCUGAAAUUGCUGAAAAGGAAGCGAUUGGGACCUUUUUGAUUCCAAGAAGUGCCGCCGGUUUGCCAUCUAUCCCUUUGCCUUCUCUCUCUCACCAGGUUUAGGCUUUGGUUUCUUGAUGUAUUUCCGGUUCAUCUUUUUGGAGAGGUCAGCAUCAGCUACUCGGAAUUGAUUUCGUUCAAAGAAGGUAGGUUCCUUGUGGACCGUUAUAUCUUUGUUCUUUCCUUUUCCUUGUGGCUGAGGAGUGUUCCUGUUUCCGAGCUCCACUUUCGAGUACUCGGUUUCUGUGAUGCUGGCUUAAUCGGUUCCAACCGACCCGUCUUGAAACACGGACCAAGGAGUCUAACAUAUGUGCGAGUAUGCGGGUUUUACUCCUGUAUGCGCAAUGAAAGUGAGAGUAGGGAGAUUUUGCUUUGCCAUUCUUCGCACCUACGACCGACCACGAUCUCUGAGAGAGGUUUGAGUUGGAGCAUAUCUGUUAGGACCCGAAAGAUGGUGAACUAUGCCUGAGUAGAAUGAAGUCAGGGGAAACCCUGAUGGAGGUUCGUAGCGAUACUGACGUGCAAAUCGUUCGUCAAACUUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUUCUUCCGAAGUUUCUCUCAGGAUAGCUGGAGUUUUGUUAGUUUUAUCAGGUAAAGCGAAUGAUUAGAGGCAUCGGGGGCGCGUCGCCCUCGACCUAUUCUCAAACUUUAAAUGGGUAAGAUCCAGUGGUUACUUCAUUGAACUGCUGGGAUUAAUAUGAACUCCAAGUGGGCCAUUUUUGGUAAGCAGAACUGGCGAUGAGGGAUGCUCCUAACGCUUGGUUAAGGUGCCAAAAUGCUCGCUCAUCAGAUACCAUAAAAGGUGUUGGUUCAUUUUGACAGCAGGACGGUGGUCAUGGAAGUCGAAAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCGAAUGAACCAGCCCUGAAAAUGGAUGGCGCUGAAGCGGGCUACCGAUACCAGGCCAUUGCUACUAAUUAUCACUCGACCUUUUGUAGCAAUGAGUAGGAAGACGUGGGGAUUGUGACGAAGCGUUCGGCGUAAGCCUGCGUGGAACAGUCUCUAGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAAUGAGAACUUUGAAGACUGAAGUGGAGAAGGGUUCCAUGUGAACAGCAAUUGGACAUGGGUUAGCCGGUCCUAAGCGACAGCUUAACUGCGUAUACGUUAGGUUUCUUUACCUCGUUUCGCGAAAGGGAAUCGGGUUAAUAUUCCCGAGCCAGGACGUGGAUACUGUACGGUAACGUAAGUGAACUCCUCGACGCAGGCAGGUGCUCCGGGAAGCGUUGUCUUUGCUUUUUAACAGCCUUUUCUUUUAUACCCUGGAAUCAGUUUAGCUGGAGAUAGGGUUAGCUGGCUGGUAGAGCACCUUGGUUUCCAAGGUGUCCGGUGCGCUCCUGACUGCCCUUGAAAAGAGGAGGGAAAGUUGUUAUUUACACCCCUGGCCGUACCAAUAACCGCAUCAGGUCUCCAAGGUUAGUAGCCUCUGGUCGAUAGAAUAAGGUAGAUAAGGGAAGUCGGCAAAAUAGAUCCGUAACUUCGGGAAAAGGAUUGGCUCUGAGGGCUGGGUACAUUGCGCCCCAGUGGCCUGUAUUUGACGGAGCUUGGGACUGCUUCAUGCUUCGCGGCGUGUUGCGGACCCGAGCACUGUCUGUAUUGCGCUCUGGGGAAAAGGUCCAUCUCCCUUUCCGGGGUCUUGGGCUGUGCGUGUACGGUGAACAGCUAACUCAGAACUGGAGCGGACAAGGGGAAUCCGACUGUUUAAUUAAAACAAAGCAUUGCGAUGGCCAUAACUGGUGUUGACGCAAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAUGUGAUGAAAUUCAAUCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACGAGAUUCCCACUGUCCCUAUCUACUAUCUAGCGAAACCACAGCCAAGGGAACGGGCUUGGCAGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCCGACUUUGUGAAAUGACUUAGGAGGUGUAGCAUAAGUGGGAGCUUCGGCGCUCGUGAAAUACCACUACUCUUAAUGUCGUUUUACUUAUUCCGUUAAGUUGAGACUCAUGCUCUGCAUGUGUUUUGGUUUUAAGGUGGCUUUUGCCGCUGAUCUACGCGGAAGACACAGUCAGGUUGGGAGUUUGGCUGGGGCGGCACAUCUGUGAAACAAUAGCGCAGGUGUCCUAAGGCAAGCUCAAUGAGAACAGAAAUCUCAUGUUGACCAAAAGGGGAAAAGCUUGCUUGAUUUUGAUUUUCAGUACGAAUACAAACUGUGAAAGCAUGGCCUAUCGAUCCUUUAGGUCUGAGAAACUUUCAGCUAGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCAGCCAAGCGUUCAUAGCGACGUUGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGAGACGCAGAAGUCUCAAAGUGUCGGAUUGUUCACCCGCCAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGACUUGAUACUGCGACAGUAAUCCAACUUAGUACGAGAGGAACAGUUGGGUCGGAUACUUGGUAAAUGCGGCUAGCUGAAAAGCUAGUGCCGCGACGCUACCAUCCGUUGGAUUAUGACUGAACGCCUCUAAGUCAGAAUCCAUGCUGGAUAUGCAGUGUUAUUCACCGCCUCCUUUGUUUCAUGCAAUGAUACAGGCCUCUGGCCUGCUUCUCAUCAAAGCCCUCCGCUUCAUGCUUUUGGGCGAGAAUCUCAAUUUCUAACAUUGGAGGUGAUACAUCCAUUGCAGACGACUUUGUUGCAACCGGGUAUUGUAAGUAUGAGAGUAGGCUUGUCUACGAUCUACUAAGAUUUUUCCUGCGUUGUUCGAUGUGG",
+            "entity_poly_seq_one_letter_code_can": "AUCAGACCUGAAAUCAGGCGAGGUUACCCGCUGAACUUAAGCAUAUUAUUAAGCGGAGGAGAAGAAAAUAACUAUGAUUCCCUUAGUAACGGCGAGUGAACCGGGAUCAGCUCAAAGUGGAAAUCAACUGCUCUUUCCGAGCUGUUGACUUGUAGCCUCGAGAGGCGUUACCAGUGGAAGCGCAGGGUUAAGUUUCUUGGGAAAGAACAUCAUAGAGGGUGAGAAUCCCGUCCUUCCCCUGCGUUUUUUGUUCCACGUACGGUACGCUUUUAUAGAGUCGCGUUCAUCGGGAUUUGAGCGCAAAAUGUGUGGUAGGUUUCACAUAAAGCUAAGUACUGGCGCGAGACCGAUAGCAAACAAGUACCGUGAGGGAAAGAUGAAAAGUUCUUUGGAAAGAGAGUUAAAAGUGCCUGAAAUUGCUGAAAAGGAAGCGAUUGGGACCUUUUUGAUUCCAAGAAGUGCCGCCGGUUUGCCAUCUAUCCCUUUGCCUUCUCUCUCUCACCAGGUUUAGGCUUUGGUUUCUUGAUGUAUUUCCGGUUCAUCUUUUUGGAGAGGUCAGCAUCAGCUACUCGGAAUUGAUUUCGUUCAAAGAAGGUAGGUUCCUUGUGGACCGUUAUAUCUUUGUUCUUUCCUUUUCCUUGUGGCUGAGGAGUGUUCCUGUUUCCGAGCUCCACUUUCGAGUACUCGGUUUCUGUGAUGCUGGCUUAAUCGGUUCCAACCGACCCGUCUUGAAACACGGACCAAGGAGUCUAACAUAUGUGCGAGUAUGCGGGUUUUACUCCUGUAUGCGCAAUGAAAGUGAGAGUAGGGAGAUUUUGCUUUGCCAUUCUUCGCACCUACGACCGACCACGAUCUCUGAGAGAGGUUUGAGUUGGAGCAUAUCUGUUAGGACCCGAAAGAUGGUGAACUAUGCCUGAGUAGAAUGAAGUCAGGGGAAACCCUGAUGGAGGUUCGUAGCGAUACUGACGUGCAAAUCGUUCGUCAAACUUGGGUAUAGGGGCGAAAGACUAAUCGAACCAUCUAGUAGCUGGUUUCUUCCGAAGUUUCUCUCAGGAUAGCUGGAGUUUUGUUAGUUUUAUCAGGUAAAGCGAAUGAUUAGAGGCAUCGGGGGCGCGUCGCCCUCGACCUAUUCUCAAACUUUAAAUGGGUAAGAUCCAGUGGUUACUUCAUUGAACUGCUGGGAUUAAUAUGAACUCCAAGUGGGCCAUUUUUGGUAAGCAGAACUGGCGAUGAGGGAUGCUCCUAACGCUUGGUUAAGGUGCCAAAAUGCUCGCUCAUCAGAUACCAUAAAAGGUGUUGGUUCAUUUUGACAGCAGGACGGUGGUCAUGGAAGUCGAAAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCGAAUGAACCAGCCCUGAAAAUGGAUGGCGCUGAAGCGGGCUACCGAUACCAGGCCAUUGCUACUAAUUAUCACUCGACCUUUUGUAGCAAUGAGUAGGAAGACGUGGGGAUUGUGACGAAGCGUUCGGCGUAAGCCUGCGUGGAACAGUCUCUAGUGCAGAUCUUGGUGGUAGUAGCAAAUAUUCAAAUGAGAACUUUGAAGACUGAAGUGGAGAAGGGUUCCAUGUGAACAGCAAUUGGACAUGGGUUAGCCGGUCCUAAGCGACAGCUUAACUGCGUAUACGUUAGGUUUCUUUACCUCGUUUCGCGAAAGGGAAUCGGGUUAAUAUUCCCGAGCCAGGACGUGGAUACUGUACGGUAACGUAAGUGAACUCCUCGACGCAGGCAGGUGCUCCGGGAAGCGUUGUCUUUGCUUUUUAACAGCCUUUUCUUUUAUACCCUGGAAUCAGUUUAGCUGGAGAUAGGGUUAGCUGGCUGGUAGAGCACCUUGGUUUCCAAGGUGUCCGGUGCGCUCCUGACUGCCCUUGAAAAGAGGAGGGAAAGUUGUUAUUUACACCCCUGGCCGUACCAAUAACCGCAUCAGGUCUCCAAGGUUAGUAGCCUCUGGUCGAUAGAAUAAGGUAGAUAAGGGAAGUCGGCAAAAUAGAUCCGUAACUUCGGGAAAAGGAUUGGCUCUGAGGGCUGGGUACAUUGCGCCCCAGUGGCCUGUAUUUGACGGAGCUUGGGACUGCUUCAUGCUUCGCGGCGUGUUGCGGACCCGAGCACUGUCUGUAUUGCGCUCUGGGGAAAAGGUCCAUCUCCCUUUCCGGGGUCUUGGGCUGUGCGUGUACGGUGAACAGCUAACUCAGAACUGGAGCGGACAAGGGGAAUCCGACUGUUUAAUUAAAACAAAGCAUUGCGAUGGCCAUAACUGGUGUUGACGCAAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAUGUGAUGAAAUUCAAUCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACGAGAUUCCCACUGUCCCUAUCUACUAUCUAGCGAAACCACAGCCAAGGGAACGGGCUUGGCAGAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCCGACUUUGUGAAAUGACUUAGGAGGUGUAGCAUAAGUGGGAGCUUCGGCGCUCGUGAAAUACCACUACUCUUAAUGUCGUUUUACUUAUUCCGUUAAGUUGAGACUCAUGCUCUGCAUGUGUUUUGGUUUUAAGGUGGCUUUUGCCGCUGAUCUACGCGGAAGACACAGUCAGGUUGGGAGUUUGGCUGGGGCGGCACAUCUGUGAAACAAUAGCGCAGGUGUCCUAAGGCAAGCUCAAUGAGAACAGAAAUCUCAUGUUGACCAAAAGGGGAAAAGCUUGCUUGAUUUUGAUUUUCAGUACGAAUACAAACUGUGAAAGCAUGGCCUAUCGAUCCUUUAGGUCUGAGAAACUUUCAGCUAGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCAGCCAAGCGUUCAUAGCGACGUUGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGAGACGCAGAAGUCUCAAAGUGUCGGAUUGUUCACCCGCCAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGACUUGAUACUGCGACAGUAAUCCAACUUAGUACGAGAGGAACAGUUGGGUCGGAUACUUGGUAAAUGCGGCUAGCUGAAAAGCUAGUGCCGCGACGCUACCAUCCGUUGGAUUAUGACUGAACGCCUCUAAGUCAGAAUCCAUGCUGGAUAUGCAGUGUUAUUCACCGCCUCCUUUGUUUCAUGCAAUGAUACAGGCCUCUGGCCUGCUUCUCAUCAAAGCCCUCCGCUUCAUGCUUUUGGGCGAGAAUCUCAAUUUCUAACAUUGGAGGUGAUACAUCCAUUGCAGACGACUUUGUUGCAACCGGGUAUUGUAAGUAUGAGAGUAGGCUUGUCUACGAUCUACUAAGAUUUUUCCUGCGUUGUUCGAUGUGG",
+            "entity_poly_seq_length": 3477,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "rcsb_pdbx_description": "5S RNA",
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "GCUGUCGGUCAUACUGCGUCGAAUACACCGGAUCCCUUCAGACCUCCGAAGUUAAGCGGCGCAAGGCCCGGUUAGUACUUGGGUGGGGGACUCCCAGGGAAUACCCUCGGGUGCUGACAGCUUU",
+            "entity_poly_seq_one_letter_code_can": "GCUGUCGGUCAUACUGCGUCGAAUACACCGGAUCCCUUCAGACCUCCGAAGUUAAGCGGCGCAAGGCCCGGUUAGUACUUGGGUGGGGGACUCCCAGGGAAUACCCUCGGGUGCUGACAGCUUU",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5XXB",
+            "rcsb_pdbx_description": "5.8S RNA",
+            "rcsb_source_organism_description": [
+                "Toxoplasma gondii"
+            ],
+            "rcsb_source_organism_id": [
+                5811
+            ],
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "AAAUUUUCAGCAAUGGAUGUCUUGGCUCGCGCAACGAUGAAGGACGCAGCGAACUGCGAAACGCAAUGUGAAUUGCAGAAUUCAGUGAAUCAUCAGAUUUCUGAACGCAAAUGGCACCUUGGGGAUAUUCUCCUUGGUACGUCUGUUUCAGUGUCUUU",
+            "entity_poly_seq_one_letter_code_can": "AAAUUUUCAGCAAUGGAUGUCUUGGCUCGCGCAACGAUGAAGGACGCAGCGAACUGCGAAACGCAAUGUGAAUUGCAGAAUUCAGUGAAUCAUCAGAUUUCUGAACGCAAAUGGCACCUUGGGGAUAUUCUCCUUGGUACGUCUGUUUCAGUGUCUUU",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": null
+}

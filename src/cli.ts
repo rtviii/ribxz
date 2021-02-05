@@ -33,12 +33,12 @@ const gist = ()=>{
   console.log("Should be defined in the .env file in the root dir. Relevant variables:")
   console.log(`[ STATIC_ROOT ]: now set to ${process.env.STATIC_ROOT}\n The main repository for static files and struct profiles.`)
   console.log(`[ CATALOGUE ]: now set to ${process.env.CATALOGUE}\n The catalogue file containing structs currently profiled. `)
-  console.log(`[ CYPHER_IMAGE ]: now set to ${process.env.CYPHER_IMAGE}\n The Cypher script corresponding to the "types.ts" definition of a structure and sufficient to commit the profil to Neo4j in one go. `)
+  console.log(`[ CYPHER_IMAGE ]: now set to ${process.env.CYPHER_IMAGE}\n The Cypher script corresponding to the "RibosomeTypes.ts" definition of a structure and sufficient to commit the profil to Neo4j in one go. `)
   console.log("--------------------------------------------\n")
   
   console.log("### Mechanism ###\n")
   console.log("The moving pieces are thus:")
-  console.log("I pull the structure data from RCSB GraphQL API and reshape it according to the schema defined in `types.ts`. This is the authoriative file on how the object should be formed.")
+  console.log("I pull the structure data from RCSB GraphQL API and reshape it according to the schema defined in `RibosomeTypes.ts`. This is the authoriative file on how the object should be formed.")
   console.log("As a part of profile-building, i commit a short summary of the structure to the catalogue." )
   console.log("There is a phase of splitting the structs into chains and ligands which relies on the python scripts but should end up in the STATIC eventually.")
   console.log("The static should be then moved to the appropirate path on the server to serve the .cif")
@@ -57,7 +57,7 @@ const ribxz_exec = async () => {
       struct: {
         invocation: "-struct, --generateStructureProfile [pdbid]",
         effect:
-          'Pull a structure from RCSB PDB according to the "scheme" defined in the /types.ts',
+          'Pull a structure from RCSB PDB according to the "scheme" defined in the /RibosomeTypes.ts',
         comments: "Relevant variables: ",
       },
       catalogue: {

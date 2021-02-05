@@ -1,0 +1,1037 @@
+{
+    "rcsb_id": "6TMF",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.8,
+    "rcsb_external_ref_id": [
+        "EMD-10519"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-10519"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.8,
+    "cryoem_exp_num_particles": 293010,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Nurenberg-Goloub, E.",
+        "Kratzat, H.",
+        "Heinemann, H.",
+        "Heuer, A.",
+        "Kotter, P.",
+        "Berninghausen, O.",
+        "Becker, T.",
+        "Tampe, R.",
+        "Beckmann, R."
+    ],
+    "citation_title": "Molecular analysis of the ribosome recycling factor ABCE1 bound to the 30S post-splitting complex.",
+    "citation_pdbx_doi": "10.15252/embj.2019103788",
+    "pdbx_keywords_text": "ABC Proteins, Ribosome Recycling, Translation, RIBOSOME",
+    "_organismId": [
+        1293037,
+        2287
+    ],
+    "_organismName": [
+        "Thermococcus celer Vu 13 = JCM 8558",
+        "Saccharolobus solfataricus"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZR2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S2",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "YLVPLDQYLAAGVHIGTQQKTQDMKKFIYRVRQDGLYVLDVRKTDERLRTAGKFLAKFDPTSILAVSVRLYGQKPVKKFGEVTGARAIPGRFLPGTMTNPQVKNFIEPDVLIVTDPRADHQAMKEAIEIGIPIVALVDTENFLSYVDLAIPTNNKGRKALALIYWILAREILYNRKEIESREDFKVPVEEFEMRI",
+            "entity_poly_seq_one_letter_code_can": "YLVPLDQYLAAGVHIGTQQKTQDMKKFIYRVRQDGLYVLDVRKTDERLRTAGKFLAKFDPTSILAVSVRLYGQKPVKKFGEVTGARAIPGRFLPGTMTNPQVKNFIEPDVLIVTDPRADHQAMKEAIEIGIPIVALVDTENFLSYVDLAIPTNNKGRKALALIYWILAREILYNRKEIESREDFKVPVEEFEMRI",
+            "entity_poly_seq_length": 195,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZU7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MAIERYFIEEGVREMLIDEYLEKELRRAGYSGIDIKKTPLGTKVVIFAASPGYVIGRGGRRIRELTRILERQFGLENPQIEVEEIKNPYLNAKVQAIRLARALERGIHFRRAAYSAIRAIMRNGARGVEIRLSGKLTGERAKSVRFYQGYLAKVGNPAETLVSRGYAQAKLKLGVIGVKVSIMPPDAKLPDEI",
+            "entity_poly_seq_one_letter_code_can": "MAIERYFIEEGVREMLIDEYLEKELRRAGYSGIDIKKTPLGTKVVIFAASPGYVIGRGGRRIRELTRILERQFGLENPQIEVEEIKNPYLNAKVQAIRLARALERGIHFRRAAYSAIRAIMRNGARGVEIRLSGKLTGERAKSVRFYQGYLAKVGNPAETLVSRGYAQAKLKLGVIGVKVSIMPPDAKLPDEI",
+            "entity_poly_seq_length": 193,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S3Ae family"
+            ],
+            "pfam_accessions": [
+                "PF01015"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P0R0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3Ae",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "DKWKMKEWYVVYAPDFFGSKEIGLTPADEPEKVIGRVIETTLRDLTGDFTKGQVKLYFQIYDVKGQNAYTKFKGHTLARSYIRSLVRRRTTRIDGIFNVTTKDGYKLRVMGMVIAYRRIQTSQERAIREIIRDIIYKKAEELNYRDFVLEAVSGKMAAEIAKEARRIYPIKRAEIRKIKVLAEP",
+            "entity_poly_seq_one_letter_code_can": "DKWKMKEWYVVYAPDFFGSKEIGLTPADEPEKVIGRVIETTLRDLTGDFTKGQVKLYFQIYDVKGQNAYTKFKGHTLARSYIRSLVRRRTTRIDGIFNVTTKDGYKLRVMGMVIAYRRIQTSQERAIREIIRDIIYKKAEELNYRDFVLEAVSGKMAAEIAKEARRIYPIKRAEIRKIKVLAEP",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZV3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "DPKRQRKKYETPSHPWIKERLDRERVIMRKYALKNKKELWRHETQLKEFRRRARRLLAARGKQAEVERVQLLQRLNRLGLLPADAVLDDVLSLTVEDVLDRRLQTIVYKKGLARTPRQARQLIVHGHIEVNGQIIRSPGYLVLKAEEDTITYSKTSPFARESHPERMVIEQAKQGGEA",
+            "entity_poly_seq_one_letter_code_can": "DPKRQRKKYETPSHPWIKERLDRERVIMRKYALKNKKELWRHETQLKEFRRRARRLLAARGKQAEVERVQLLQRLNRLGLLPADAVLDDVLSLTVEDVLDRRLQTIVYKKGLARTPRQARQLIVHGHIEVNGQIIRSPGYLVLKAEEDTITYSKTSPFARESHPERMVIEQAKQGGEA",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL",
+                "This is the N-terminal domain of Ribosomal S4 / S4e proteins. This domain is associated with S4 and KOW domains [1].",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal family S4e",
+                "RS4NT (NUC023) domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00900",
+                "PF08071",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZX1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4e",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "RKGAKRHLKRLAAPDQWYISRKRYKWAVRPRPGPHSMKTSIPLLYIVRDYLGYAKTAREARKILNEGRILVDGRVRRDYKFPVGIMDVVSIPETGEHYRVLPNRIGKLVLHPISEKEANIKPLRISNKRMVKGAKVQLNLHDGSNHLVTVDDKDNYRTAYTVLMKVPDREVIEILPFDVGAYVFVTRGKNVARKGKIVEVRRFPMGWPDVVTIEDENGELFDTLKEYAFVVGKEKPEISLP",
+            "entity_poly_seq_one_letter_code_can": "RKGAKRHLKRLAAPDQWYISRKRYKWAVRPRPGPHSMKTSIPLLYIVRDYLGYAKTAREARKILNEGRILVDGRVRRDYKFPVGIMDVVSIPETGEHYRVLPNRIGKLVLHPISEKEANIKPLRISNKRMVKGAKVQLNLHDGSNHLVTVDDKDNYRTAYTVLMKVPDREVIEILPFDVGAYVFVTRGKNVARKGKIVEVRRFPMGWPDVVTIEDENGELFDTLKEYAFVVGKEKPEISLP",
+            "entity_poly_seq_length": 241,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS4",
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P4N5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "SQRVLEEWEPRTKLGQLVKAGQITDIHEIFRKGYQIKEPEIVDVLLPEVNMRENQEVLDIALTVRMTDSGRRIRFRVLAAVGNRDGYVGLGIGHGREVGIAIRKAINYAKMNIIEIKRGCGSWECRCRRPHSIPFAVEGKEGSVRVKLMPGPRGLGLVIGDVGKKILSLAGVQDVWSQSLGETRTTVNFAKAVFNALYNTNRVAIQPGMEEKYGIVVGRE",
+            "entity_poly_seq_one_letter_code_can": "SQRVLEEWEPRTKLGQLVKAGQITDIHEIFRKGYQIKEPEIVDVLLPEVNMRENQEVLDIALTVRMTDSGRRIRFRVLAAVGNRDGYVGLGIGHGREVGIAIRKAINYAKMNIIEIKRGCGSWECRCRRPHSIPFAVEGKEGSVRVKLMPGPRGLGLVIGDVGKKILSLAGVQDVWSQSLGETRTTVNFAKAVFNALYNTNRVAIQPGMEEKYGIVVGRE",
+            "entity_poly_seq_length": 220,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6e"
+            ],
+            "pfam_accessions": [
+                "PF01092"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P2W6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6e",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MATFKLVISNPRNGIARQVEISGESAEKLVGKRIGDEIPASELGLNLTEIFGEEIPGDVKLRITGGTDRDGFAMRPDVHGPRRVKILVSRGPGFRPKERGERRKKTVRGNTISPEIVQVNMKLVF",
+            "entity_poly_seq_one_letter_code_can": "MATFKLVISNPRNGIARQVEISGESAEKLVGKRIGDEIPASELGLNLTEIFGEEIPGDVKLRITGGTDRDGFAMRPDVHGPRRVKILVSRGPGFRPKERGERRKKTVRGNTISPEIVQVNMKLVF",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P4K4"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "AKALTERFYQPKELKVMGRWSVEDVTVNDPSLRPYINLEARLLPHSHGRHAKKAFGKANVHIVERLINKVMRSGASSHKAGGHFMRREHRSLMSKKMKAYEVVKEAFMIIERRTKQNPIQVLVRAIENSAPREDTTTIAFGGIRYHMAVDVSPLRRLDIALKNIALGASAKCYRNKTSYAQALAEEIIAAANADPKSFAYSRKEEIERIAQSSR",
+            "entity_poly_seq_one_letter_code_can": "AKALTERFYQPKELKVMGRWSVEDVTVNDPSLRPYINLEARLLPHSHGRHAKKAFGKANVHIVERLINKVMRSGASSHKAGGHFMRREHRSLMSKKMKAYEVVKEAFMIIERRTKQNPIQVLVRAIENSAPREDTTTIAFGGIRYHMAVDVSPLRRLDIALKNIALGASAKCYRNKTSYAQALAEEIIAAANADPKSFAYSRKEEIERIAQSSR",
+            "entity_poly_seq_length": 214,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZT7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "TLLDPLANALSHITNSERVGKKEVYLKPASKLMGEVLRVMQENGYIGEFEFIDDGRAGIYRVQLIGKINKAGAIKPRFPVKAREYEAWEKRFLPAFEFGILIVSTSQGVMTHKEAIEKGIGGRLIAYVY",
+            "entity_poly_seq_one_letter_code_can": "TLLDPLANALSHITNSERVGKKEVYLKPASKLMGEVLRVMQENGYIGEFEFIDDGRAGIYRVQLIGKINKAGAIKPRFPVKAREYEAWEKRFLPAFEFGILIVSTSQGVMTHKEAIEKGIGGRLIAYVY",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8e"
+            ],
+            "pfam_accessions": [
+                "PF01201"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P4F6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8e",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "AIWQGRSLKKPSGGRIILARKKRKRELGREPAFTRVGEEKEKKKIIRTYGGNRKVRLIEAIYANVFENGKGRKVKVLGVVENPANRQYVRRDIITKGAIIETEAGRAIVTSRPGQDGVVNAVLIKE",
+            "entity_poly_seq_one_letter_code_can": "AIWQGRSLKKPSGGRIILARKKRKRELGREPAFTRVGEEKEKKKIIRTYGGNRKVRLIEAIYANVFENGKGRKVKVLGVVENPANRQYVRRDIITKGAIIETEAGRAIVTSRPGQDGVVNAVLIKE",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZS6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MKVIQTAGKRKTAIARATIREGKGRVRINHRPVEIIEPEIARFTIMEPLVLAGEEIVKGVDIDVKVEGGGFMGQAEAARVAIARALVEWTNDMNLKEKFMKYDRTMLVGDSRRTEPHKPNRSTKGPRAKRQK",
+            "entity_poly_seq_one_letter_code_can": "MKVIQTAGKRKTAIARATIREGKGRVRINHRPVEIIEPEIARFTIMEPLVLAGEEIVKGVDIDVKVEGGGFMGQAEAARVAIARALVEWTNDMNLKEKFMKYDRTMLVGDSRRTEPHKPNRSTKGPRAKRQK",
+            "entity_poly_seq_length": 132,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P3Q8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MQKARIKLASTDIKALNEVTDQIRQIAERTGVRMSGPIPLPTKRIRITTRKSPDGEGTATFDKFELRVHKRLVDIEADERAMRQIMRIRVPEDVTIEIELIS",
+            "entity_poly_seq_one_letter_code_can": "MQKARIKLASTDIKALNEVTDQIRQIAERTGVRMSGPIPLPTKRIRITTRKSPDGEGTATFDKFELRVHKRLVDIEADERAMRQIMRIRVPEDVTIEIELIS",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZU0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "QVNLKKKEKWGVAHIYSSYNNTIIHITDLTGAETVSRWSGGMVVKADRDEPSPYAAMIAARRAAEEAMEKGFTGVHIKVRAPGGSKSKSPGPGAQAAIRALARAGLRIGRVEDVTPIPHDGTRPKGGRRGRRV",
+            "entity_poly_seq_one_letter_code_can": "QVNLKKKEKWGVAHIYSSYNNTIIHITDLTGAETVSRWSGGMVVKADRDEPSPYAAMIAARRAAEEAMEKGFTGVHIKVRAPGGSKSKSPGPGAQAAIRALARAGLRIGRVEDVTPIPHDGTRPKGGRRGRRV",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P4I2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "GKKAPYGEFAGRKLKLKRKKFRWSDIRYKRRVLRLKEKSDPLEGAPQAKGIVLEKIAVEAKQPNSAMRKAVRVQLIKNGKVVTAFTPGDGAINHIDEHDEVIIEGIGGPKGGSMGDIPGIRYKVVKVNRVSLKELVKGRKEKPR",
+            "entity_poly_seq_one_letter_code_can": "GKKAPYGEFAGRKLKLKRKKFRWSDIRYKRRVLRLKEKSDPLEGAPQAKGIVLEKIAVEAKQPNSAMRKAVRVQLIKNGKVVTAFTPGDGAINHIDEHDEVIIEGIGGPKGGSMGDIPGIRYKVVKVNRVSLKELVKGRKEKPR",
+            "entity_poly_seq_length": 144,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZT2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "DEFRHIVRIAGVDLNGNKQLRWALTGIRGIGINFATMVLRVAGIDPYMKTGYLTNEQIKKIEEILEDPVAHGIPAWAVNRPKDYETGKDMHLITAKLVMAWREDVNRLRRVRAYRGIRHELGLPLRGQRTRSNFRH",
+            "entity_poly_seq_one_letter_code_can": "DEFRHIVRIAGVDLNGNKQLRWALTGIRGIGINFATMVLRVAGIDPYMKTGYLTNEQIKKIEEILEDPVAHGIPAWAVNRPKDYETGKDMHLITAKLVMAWREDVNRLRRVRAYRGIRHELGLPLRGQRTRSNFRH",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZW1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14 type Z",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MAKADYNKRKPRKFGKGARRCVRCGQYGPVIRVHGLMLCRHCFREIAPKLGFKKYE",
+            "entity_poly_seq_one_letter_code_can": "MAKADYNKRKPRKFGKGARRCVRCGQYGPVIRVHGLMLCRHCFREIAPKLGFKKYE",
+            "entity_poly_seq_length": 56,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This domain is found at the N-terminus of ribosomal S13 and S15 proteins.                      This domain is also identified as NUC021 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S13/S15 N-terminal domain",
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF08069",
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P0Q1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MARMHARKRGKSGSKRPPRTAPPTWVEYTAEEVEGLVVKLRKEGYSAAMIGTILRDQYGIPSVKLITGKKITKILEENGLAPQIPEDLMALIRKAVNLRKHLEMHPKDRHSMRGLQLTESKIRRLVKYYRRTGKLPAKWRYDPEQAKLLVR",
+            "entity_poly_seq_one_letter_code_can": "MARMHARKRGKSGSKRPPRTAPPTWVEYTAEEVEGLVVKLRKEGYSAAMIGTILRDQYGIPSVKLITGKKITKILEENGLAPQIPEDLMALIRKAVNLRKHLEMHPKDRHSMRGLQLTESKIRRLVKYYRRTGKLPAKWRYDPEQAKLLVR",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZX3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MREIGLKVQPPAEKCDDPHCPWHGHLRIHGRYFEGIVVSDKGKKTVVVERRHYHYLKKYERYELRRSKVHAHNPECIDAKVGDRVLVAETRPISKTKSWVVVAVTKRAGER",
+            "entity_poly_seq_one_letter_code_can": "MREIGLKVQPPAEKCDDPHCPWHGHLRIHGRYFEGIVVSDKGKKTVVVERRHYHYLKKYERYELRRSKVHAHNPECIDAKVGDRVLVAETRPISKTKSWVVVAVTKRAGER",
+            "entity_poly_seq_length": 111,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S17"
+            ],
+            "pfam_accessions": [
+                "PF00833"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P2C1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17e",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MGNIKQMFIKRTARELFDRYPNEFSRDFEHNKKKVEELTNVTSKTIRNRIAGYITKLVRMKEEG",
+            "entity_poly_seq_one_letter_code_can": "MGNIKQMFIKRTARELFDRYPNEFSRDFEHNKKKVEELTNVTSKTIRNRIAGYITKLVRMKEEG",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P4M9"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19P",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "EFKYRGYTFEELLNMSLEDFAKLLPSRQRRSLKRGLSPEQKKLLRKIRLARKGKYKKPIRTHSRDMVILPEMVGITIHVYNGKEFVPVEIKEEMIGHYLGEFALTRKVVQHGSPG",
+            "entity_poly_seq_one_letter_code_can": "EFKYRGYTFEELLNMSLEDFAKLLPSRQRRSLKRGLSPEQKKLLRKIRLARKGKYKKPIRTHSRDMVILPEMVGITIHVYNGKEFVPVEIKEEMIGHYLGEFALTRKVVQHGSPG",
+            "entity_poly_seq_length": 115,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19e"
+            ],
+            "pfam_accessions": [
+                "PF01090"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P4W7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19e",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "ATVYDVPGDLLVERTAKALKEVEAIKPPEWAPFVKTGRHKERIPEQEDWWYYRVASIFRKIYIDGPVGIERLRTWYGGRKNRGHAPEHFYKAGGSIIRKALQQLEAAGFVQKVPGEGRIVTPQGQSFLDRIATELKKELEEQLPELKKY",
+            "entity_poly_seq_one_letter_code_can": "ATVYDVPGDLLVERTAKALKEVEAIKPPEWAPFVKTGRHKERIPEQEDWWYYRVASIFRKIYIDGPVGIERLRTWYGGRKNRGHAPEHFYKAGGSIIRKALQQLEAAGFVQKVPGEGRIVTPQGQSFLDRIATELKKELEEQLPELKKY",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This zinc ribbon domain is found in archaeal species. It is likely to bind zinc via its four well-conserved cysteine residues."
+            ],
+            "pfam_descriptions": [
+                "Domain of unknown function (DUF1610)"
+            ],
+            "pfam_accessions": [
+                "PF07754"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P055"
+            ],
+            "rcsb_pdbx_description": "RNA-binding protein",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "KFEVPVCTSCGKEITPREHATHFVCPNCGEAIIWRCESCRVLSVPYKCPKCGWEGP",
+            "entity_poly_seq_one_letter_code_can": "KFEVPVCTSCGKEITPREHATHFVCPNCGEAIIWRCESCRVLSVPYKCPKCGWEGP",
+            "entity_poly_seq_length": 56,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S24e"
+            ],
+            "pfam_accessions": [
+                "PF01282"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P0B9"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S24e",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MEIKVREMKENRLLGRKEIYFDVIHEGEATPSRADVKGKLVAMLDLNPETVVIQYIRSYFGSRVSRGYAKAYESKERMLYIEPEYVLVRDGIIKKEE",
+            "entity_poly_seq_one_letter_code_can": "MEIKVREMKENRLLGRKEIYFDVIHEGEATPSRADVKGKLVAMLDLNPETVVIQYIRSYFGSRVSRGYAKAYESKERMLYIEPEYVLVRDGIIKKEE",
+            "entity_poly_seq_length": 97,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "es24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S27"
+            ],
+            "pfam_accessions": [
+                "PF01667"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218NZS1"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S27e",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "LPKNLIPMPKSRFLRVKCIDCGNEQIVFSNPSTTVRCLVCGATLVEPTGGKGILKAKVLEVLE",
+            "entity_poly_seq_one_letter_code_can": "LPKNLIPMPKSRFLRVKCIDCGNEQIVFSNPSTTVRCLVCGATLVEPTGGKGILKAKVLEVLE",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family of ribosomal proteins consists mainly of the 40S ribosomal protein S27a which is synthesised as a C-terminal extension of ubiquitin (CEP). The S27a domain compromises the C-terminal half of the protein. The synthesis of ribosomal proteins as extensions of ubiquitin promotes their incorporation into nascent ribosomes by a transient metabolic stabilisation and is required for efficient ribosome biogenesis [3].  The ribosomal extension protein S27a contains a basic region that is proposed to form a zinc finger; its fusion gene is proposed as a mechanism to maintain a fixed ratio between ubiquitin necessary for degrading proteins and ribosomes a source of proteins [2]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S27a"
+            ],
+            "pfam_accessions": [
+                "PF01599"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P0A5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S27ae",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MGQKWKLYEVKGGKVRRKNKFCPRCGPGVFMAEHKDRWSCGRCGYTEWKR",
+            "entity_poly_seq_one_letter_code_can": "MGQKWKLYEVKGGKVRRKNKFCPRCGPGVFMAEHKDRWSCGRCGYTEWKR",
+            "entity_poly_seq_length": 50,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S28e"
+            ],
+            "pfam_accessions": [
+                "PF01200"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P147"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S28e",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MSDEGYPAEVIEIVARTGVTGGVTQVKVRILEGRDKGRVIRRNVKGPVRVGDIVILRETEREAREI",
+            "entity_poly_seq_one_letter_code_can": "MSDEGYPAEVIEIVARTGVTGGVTQVKVRILEGRDKGRVIRRNVKGPVRVGDIVILRETEREAREI",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P167"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L7Ae",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MAKPSYVKFEVPAELAEKALEAVELARDTGRIRKGTNETTKAVERGQAKLVVIAEDVDPEEIVAHLPPLCEEKEIPYIYVPSKKELGAAAGIEVPAASVAILEPGKGRELVEDIAAKVRELMK",
+            "entity_poly_seq_one_letter_code_can": "MAKPSYVKFEVPAELAEKALEAVELARDTGRIRKGTNETTKAVERGQAKLVVIAEDVDPEEIVAHLPPLCEEKEIPYIYVPSKKELGAAAGIEVPAASVAILEPGKGRELVEDIAAKVRELMK",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "uniprot_accession": [
+                "A0A218P2S9"
+            ],
+            "rcsb_pdbx_description": "LSU ribosomal protein L41E",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MKRRPRKWKKKGRMRWKWIKKRIRRLKKQRRKERGLI",
+            "entity_poly_seq_one_letter_code_can": "MKRRPRKWKKKGRMRWKWIKKRIRRLKKQRRKERGLI",
+            "entity_poly_seq_length": 37,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6TMF",
+            "pfam_comments": [
+                "Possible metal-binding domain in endoribonuclease RNase L inhibitor.  Found at the N-terminal end of RNase L inhibitor proteins, adjacent to the 4Fe-4S binding domain, fer4, Pfam:PF00037. Also often found adjacent to the DUF367 domain Pfam:PF04034 in uncharacterised proteins. The RNase L system plays a major role in the anti-viral and anti-proliferative activities of interferons [1], and could possibly play a more general role in the regulation of RNA stability in mammalian cells.  Inhibitory activity requires concentration-dependent association of RLI with RNase L [2].",
+                "Superfamily includes proteins containing  domains which bind to iron-sulfur clusters. Members  include bacterial ferredoxins, various dehydrogenases, and various reductases.  Structure of the domain is an alpha-antiparallel beta sandwich.",
+                "ABC transporters for a large family of proteins responsible for translocation of a variety of compounds across biological membranes.  ABC transporters are the largest family of proteins in many completely sequenced bacteria. ABC transporters are composed of two copies of this domain and two copies of a transmembrane domain Pfam:PF00664.  These four domains may belong to a single polypeptide as in Swiss:P13569, or belong in different polypeptide chains."
+            ],
+            "pfam_descriptions": [
+                "Possible Fer4-like domain in RNase L inhibitor, RLI",
+                "4Fe-4S binding domain",
+                "ABC transporter"
+            ],
+            "pfam_accessions": [
+                "PF04068",
+                "PF00037",
+                "PF00005"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharolobus solfataricus"
+            ],
+            "rcsb_source_organism_id": [
+                2287
+            ],
+            "uniprot_accession": [
+                "Q980K5"
+            ],
+            "rcsb_pdbx_description": "ATPase",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MRVAVINYDFCKPDKCNLECINFCPVDRSGGKAIELSEIVKGKPVIYEETCIGCGICVKKCPYEAISIVNLPDELEGEVIHRYKVNGFKLFGLPTPKNNTILGVLGKNGVGKTTVLKILAGEIIPNFGDPNSKVGKDEVLKRFRGKEIYNYFKELYSNELKIVHKIQYVEYASKFLKGTVNEILTKIDERGKKDEVKELLNMTNLWNKDANILSGGGLQRLLVAASLLREADVYIFDAPSSYLDVRERMNMAKAIRELLKNKYVIVVDHDLIVLDYLTDLIHIIYGESSVYGRVSKSYAARVGINNFLKGYLPAENMKIRPDEIKFMLKEVSDLDLSKDLKTKMKWTKIIKKLGDFQLVVDNGEAKEGEIIGILGPNGIGKTTFARILVGEITADEGSVTPEKQILSYKPQRIFPNYDGTVQQYLENASKDALSTSSWFFEEVTKRLNLHRLLESNVNDLSGGELQKLYIAATLAKEADLYVLDAPSSYLDVEERYIVAKAIKRVTRERKAVTFIIDHDLSIHDYIADRIIVFKGEPEKAGLATSPVTLKTGMNEFLRELEVTFRRDAETGRPRVNKIGSYLDRVQKERGDYYS",
+            "entity_poly_seq_one_letter_code_can": "MRVAVINYDFCKPDKCNLECINFCPVDRSGGKAIELSEIVKGKPVIYEETCIGCGICVKKCPYEAISIVNLPDELEGEVIHRYKVNGFKLFGLPTPKNNTILGVLGKNGVGKTTVLKILAGEIIPNFGDPNSKVGKDEVLKRFRGKEIYNYFKELYSNELKIVHKIQYVEYASKFLKGTVNEILTKIDERGKKDEVKELLNMTNLWNKDANILSGGGLQRLLVAASLLREADVYIFDAPSSYLDVRERMNMAKAIRELLKNKYVIVVDHDLIVLDYLTDLIHIIYGESSVYGRVSKSYAARVGINNFLKGYLPAENMKIRPDEIKFMLKEVSDLDLSKDLKTKMKWTKIIKKLGDFQLVVDNGEAKEGEIIGILGPNGIGKTTFARILVGEITADEGSVTPEKQILSYKPQRIFPNYDGTVQQYLENASKDALSTSSWFFEEVTKRLNLHRLLESNVNDLSGGELQKLYIAATLAKEADLYVLDAPSSYLDVEERYIVAKAIKRVTRERKAVTFIIDHDLSIHDYIADRIIVFKGEPEKAGLATSPVTLKTGMNEFLRELEVTFRRDAETGRPRVNKIGSYLDRVQKERGDYYS",
+            "entity_poly_seq_length": 594,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6TMF",
+            "rcsb_pdbx_description": "16S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Thermococcus celer Vu 13 = JCM 8558"
+            ],
+            "rcsb_source_organism_id": [
+                1293037
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "AUUCCGGUUGAUCCUGCCGGAGGCCACUGCUAUGGGGGUCCGACUAAGCCAUGCGAGUCAUGGGGCGCCUUGCGCGCACCGGCGGACGGCUCAGUAACACGUCGGUAACCUACCCUCGGGAGGGGGAUAACCCCGGGAAACUGGGGCUAAUCCCCCAUAGGCCUGAGGUACUGGAAGGUCCUCAGGCCGAAAGGGGCUCUGCCCGCCCGAGGAUGGGCCGGCGGCCGAUUAGGUAGUUGGUGGGGUAACGGCCCACCAAGCCGAAGAUCGGUACGGGCCAUGAGAGUGGGAGCCCGGAGAUGGACACUGAGACACGGGUCCAGGCCCUACGGGGCGCAGCAGGCGCGAAACCUCCGCAAUGCGGGCAACCGCGACGGGGGGACCCCCAGUGCCGUGGCAACGCCACGGCUUUUCCGGAGUGUAAAAAGCUCCGGGAAUAAGGGCUGGGCAAGGCCGGUGGCAGCCGCCGCGGUAAUACCGGCGGCCCGAGUGGUGGCCGCUAUUAUUGGGCCUAAAGCGUCCGUAGCCGGGCCCGUAAGUCCCUGGCGAAAUCCCACGGCUCAACCGUGGGGCUUGCUGGGGAUACUGCGGGCCUUGGGACCGGGAGAGGCCGGGGGUACCCCUGGGGUAGGGGUGAAAUCCUAUAAUCCCAGGGGGACCGCCAGUGGCGAAGGCGCCCGGCUGGAACGGGUCCGACGGUGAGGGACGAAGGCCAGGGGAGCGAACCGGAUUAGAUACCCGGGUAGUCCUGGCUGUAAAGGAUGCGGGCUAGGUGUCGGGCGAGCUUCGAGCUCGCCCGGUGCCGAAGGGAAGCCGUUAAGCCCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUUAAAGGAAUUGGCGGGGGAGCACUACAAGGGGUGGAGCGUGCGGUUUAAUUGGAUUCAACGCCGGGAACCUCACCGGGGGCGACGGCAGGAUGAAGGCCAGGCUGAAGGUCUUGCCGGACACGCCGAGAGGAGGUGCAUGGCCGCCGUCAGCUCGUACCGUGAGGCGUCCACUUAAGUGUGGUAACGAGCGAGACCCGCGCCCCCAGUUGCCAGUCCUUCCCGCUGGGGAGGAGGCACUCUGGGGGGACCGCCGGCGAUAAGCCGGAGGAAGGAGCGGGCGACGGUAGGUCAGUAUGCCCCGAAACCCCCGGGCUACACGCGCGCUACAAUGGGCGGGACAAUGGGAUCCGACCCCGAAAGGGGAAGGGAAUCCCCUAAACCCGCCCCCAGUUCGGAUCGCGGGCUGCAACUCGCCCGCGUGAAGCUGGAAUCCCUAGUACCCGCGUGUCAUCAUCGCGCGGCGAAUACGUCCCUGCUCCUUGCACACACCGCCCGUCACUCCACCCGAGCGGGGUCCGGAUGAGGCCUGAUCUCCCUUCGGGGAGGUCGGGUCGAGUCUGGGCUCCGUGAGGGGGGAGAAGUCGUAACAAGGUAGCCGUAGGGGAACCUACGGCUCGAUCACCUCC",
+            "entity_poly_seq_one_letter_code_can": "AUUCCGGUUGAUCCUGCCGGAGGCCACUGCUAUGGGGGUCCGACUAAGCCAUGCGAGUCAUGGGGCGCCUUGCGCGCACCGGCGGACGGCUCAGUAACACGUCGGUAACCUACCCUCGGGAGGGGGAUAACCCCGGGAAACUGGGGCUAAUCCCCCAUAGGCCUGAGGUACUGGAAGGUCCUCAGGCCGAAAGGGGCUCUGCCCGCCCGAGGAUGGGCCGGCGGCCGAUUAGGUAGUUGGUGGGGUAACGGCCCACCAAGCCGAAGAUCGGUACGGGCCAUGAGAGUGGGAGCCCGGAGAUGGACACUGAGACACGGGUCCAGGCCCUACGGGGCGCAGCAGGCGCGAAACCUCCGCAAUGCGGGCAACCGCGACGGGGGGACCCCCAGUGCCGUGGCAACGCCACGGCUUUUCCGGAGUGUAAAAAGCUCCGGGAAUAAGGGCUGGGCAAGGCCGGUGGCAGCCGCCGCGGUAAUACCGGCGGCCCGAGUGGUGGCCGCUAUUAUUGGGCCUAAAGCGUCCGUAGCCGGGCCCGUAAGUCCCUGGCGAAAUCCCACGGCUCAACCGUGGGGCUUGCUGGGGAUACUGCGGGCCUUGGGACCGGGAGAGGCCGGGGGUACCCCUGGGGUAGGGGUGAAAUCCUAUAAUCCCAGGGGGACCGCCAGUGGCGAAGGCGCCCGGCUGGAACGGGUCCGACGGUGAGGGACGAAGGCCAGGGGAGCGAACCGGAUUAGAUACCCGGGUAGUCCUGGCUGUAAAGGAUGCGGGCUAGGUGUCGGGCGAGCUUCGAGCUCGCCCGGUGCCGAAGGGAAGCCGUUAAGCCCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUUAAAGGAAUUGGCGGGGGAGCACUACAAGGGGUGGAGCGUGCGGUUUAAUUGGAUUCAACGCCGGGAACCUCACCGGGGGCGACGGCAGGAUGAAGGCCAGGCUGAAGGUCUUGCCGGACACGCCGAGAGGAGGUGCAUGGCCGCCGUCAGCUCGUACCGUGAGGCGUCCACUUAAGUGUGGUAACGAGCGAGACCCGCGCCCCCAGUUGCCAGUCCUUCCCGCUGGGGAGGAGGCACUCUGGGGGGACCGCCGGCGAUAAGCCGGAGGAAGGAGCGGGCGACGGUAGGUCAGUAUGCCCCGAAACCCCCGGGCUACACGCGCGCUACAAUGGGCGGGACAAUGGGAUCCGACCCCGAAAGGGGAAGGGAAUCCCCUAAACCCGCCCCCAGUUCGGAUCGCGGGCUGCAACUCGCCCGCGUGAAGCUGGAAUCCCUAGUACCCGCGUGUCAUCAUCGCGCGGCGAAUACGUCCCUGCUCCUUGCACACACCGCCCGUCACUCCACCCGAGCGGGGUCCGGAUGAGGCCUGAUCUCCCUUCGGGGAGGUCGGGUCGAGUCUGGGCUCCGUGAGGGGGGAGAAGUCGUAACAAGGUAGCCGUAGGGGAACCUACGGCUCGAUCACCUCC",
+            "entity_poly_seq_length": 1485,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "IRON/SULFUR CLUSTER",
+            "formula_weight": 0.352,
+            "chemicalId": "SF4",
+            "chemicalName": "IRON/SULFUR CLUSTER",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER",
+            "formula_weight": 0.506,
+            "chemicalId": "ANP",
+            "chemicalName": "PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER",
+            "cif_residueId": "none"
+        }
+    ]
+}

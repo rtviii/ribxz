@@ -1,0 +1,1723 @@
+{
+    "rcsb_id": "6GB2",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.2,
+    "rcsb_external_ref_id": [
+        "EMD-4370"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-4370"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": "FOURIER SPACE",
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.2,
+    "cryoem_exp_num_particles": 75666,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2018,
+    "citation_rcsb_authors": [
+        "Kummer, E.",
+        "Leibundgut, M.",
+        "Rackham, O.",
+        "Lee, R.G.",
+        "Boehringer, D.",
+        "Filipovska, A.",
+        "Ban, N."
+    ],
+    "citation_title": "Unique features of mammalian mitochondrial translation initiation revealed by cryo-EM.",
+    "citation_pdbx_doi": "10.1038/s41586-018-0373-y",
+    "pdbx_keywords_text": "translation initiation, initiation factor IF2, mitochondria, membrane targeting, RIBOSOME",
+    "_organismId": [
+        9823,
+        9606
+    ],
+    "_organismName": [
+        "Sus scrofa",
+        "Homo sapiens"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RT79"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L27",
+            "entity_poly_strand_id": "B0",
+            "entity_poly_seq_one_letter_code": "MALAVLALRTRAAVTALLSPPQAAALAVRYASKKTGGSSKNLGGKSPGKRFGIKKMEGHYVHAGNILATQRHFRWHPGAHVGLGKNKCLYALEEGVVRYTKEVYVPNPSNSEAVDLVTRLPQGAVLYKTFVHVVPAKPEGTFKLVAML",
+            "entity_poly_seq_one_letter_code_can": "MALAVLALRTRAAVTALLSPPQAAALAVRYASKKTGGSSKNLGGKSPGKRFGIKKMEGHYVHAGNILATQRHFRWHPGAHVGLGKNKCLYALEEGVVRYTKEVYVPNPSNSEAVDLVTRLPQGAVLYKTFVHVVPAKPEGTFKLVAML",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZTW8"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L28",
+            "entity_poly_strand_id": "B1",
+            "entity_poly_seq_one_letter_code": "MPLHKVPVGLWKQLRLWEGIYSRLPRHYLRSLEEARTPTPVHYRPHGAKFKINPKNWQRERVEDVPIPVHYPPESQLGLWGGEGWVLGHRYVNNDKLSKRVRKVWKPQLFQRELYSEILDKRFTVTVTMRTLDLIDQACGFDFYILKTPKEDLCSKFGMDLKRGMLLRLARQDPQLHPDDPARRAAIYDRYKAFVIPEAEAEWVGLTLDEAVEKQRLLEEKDPIPLFKIFVEELLGQLQQQALSEPAVVQTRASRK",
+            "entity_poly_seq_one_letter_code_can": "MPLHKVPVGLWKQLRLWEGIYSRLPRHYLRSLEEARTPTPVHYRPHGAKFKINPKNWQRERVEDVPIPVHYPPESQLGLWGGEGWVLGHRYVNNDKLSKRVRKVWKPQLFQRELYSEILDKRFTVTVTMRTLDLIDQACGFDFYILKTPKEDLCSKFGMDLKRGMLLRLARQDPQLHPDDPARRAAIYDRYKAFVIPEAEAEWVGLTLDEAVEKQRLLEEKDPIPLFKIFVEELLGQLQQQALSEPAVVQTRASRK",
+            "entity_poly_seq_length": 256,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family represents the N-terminal region (approximately 8 residues) of the eukaryotic mitochondrial 39-S ribosomal protein L47 (MRP-L47). Mitochondrial ribosomal proteins (MRPs) are the counterparts of the cytoplasmic ribosomal proteins, in that they fulfil similar functions in protein biosynthesis. However, they are distinct in number, features and primary structure [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 39-S ribosomal protein L47 (MRP-L47)"
+            ],
+            "pfam_accessions": [
+                "PF06984"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1SGC7"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L47",
+            "entity_poly_strand_id": "B2",
+            "entity_poly_seq_one_letter_code": "MAAAGLAVFCRRVSAALKACRLLIRPQAPPSTSCRFSPSLLPKNTPNVTSFHQFRIFHTTFSRRGLEEFFDDPKNWGEEKVKSGASWTCQQLRNKSNEDLHKLWYVLLKERNMLLTLEQEAKRQRLPMPSPERLEKVVDSMDALDKVVQEREDALRLLQTGQEKARPGAWRRDIFGRIIWHKFKQWPIPWYLNKKYNRKRFFAMPYVERFVRMRIEKQARIKARKRSLERKKEKFLQEKFPHLSETQKSSHV",
+            "entity_poly_seq_one_letter_code_can": "MAAAGLAVFCRRVSAALKACRLLIRPQAPPSTSCRFSPSLLPKNTPNVTSFHQFRIFHTTFSRRGLEEFFDDPKNWGEEKVKSGASWTCQQLRNKSNEDLHKLWYVLLKERNMLLTLEQEAKRQRLPMPSPERLEKVVDSMDALDKVVQEREDALRLLQTGQEKARPGAWRRDIFGRIIWHKFKQWPIPWYLNKKYNRKRFFAMPYVERFVRMRIEKQARIKARKRSLERKKEKFLQEKFPHLSETQKSSHV",
+            "entity_poly_seq_length": 252,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "Members of this family are involved in mitochondrial biogenesis and G2/M phase cell cycle progression. They form a component of the mitochondrial ribosome large subunit (39S) which comprises a 16S rRNA and about 50 distinct proteins."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L55"
+            ],
+            "pfam_accessions": [
+                "PF09776"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "I3L9J0"
+            ],
+            "rcsb_pdbx_description": "'Mitochondrial ribosomal protein L55",
+            "entity_poly_strand_id": "B4",
+            "entity_poly_seq_one_letter_code": "MAAKGSLLRLLWQRVVTGAAPESCRHLYTSSWRADCNRALLTRLHRQTYARLYPVLLVKQDGSTIHIRYREPRRMLTMPVDLDSLSPEERRARFRKREAKFKEKKEEPELSDDFDVEQYKRFWTKK",
+            "entity_poly_seq_one_letter_code_can": "MAAKGSLLRLLWQRVVTGAAPESCRHLYTSSWRADCNRALLTRLHRQTYARLYPVLLVKQDGSTIHIRYREPRRMLTMPVDLDSLSPEERRARFRKREAKFKEKKEEPELSDDFDVEQYKRFWTKK",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZU68"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L33",
+            "entity_poly_strand_id": "B6",
+            "entity_poly_seq_one_letter_code": "MFLSAVTFAKSKSKTILVKMMSQAGTGFSFNTKRSRLREKLTLLHYDPVVKKKVLFVEQKKIRSL",
+            "entity_poly_seq_one_letter_code_can": "MFLSAVTFAKSKSKTILVKMMSQAGTGFSFNTKRSRLREKLTLLHYDPVVKKKVLFVEQKKIRSL",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287A731"
+            ],
+            "rcsb_pdbx_description": "Ribosomal protein",
+            "entity_poly_strand_id": "B9",
+            "entity_poly_seq_one_letter_code": "MATAFLRTVLSAVGPLLHLGGRPLSTFAAGPPRAALAVGAQPSPAAALLSARPLLGPQPALGFKTKGVLKKRCRDCYLVKRRGRWFIYCKTNPKHKQRQM",
+            "entity_poly_seq_one_letter_code_can": "MATAFLRTVLSAVGPLLHLGGRPLSTFAAGPPRAALAVGAQPSPAAALLSARPLLGPQPALGFKTKGVLKKRCRDCYLVKRRGRWFIYCKTNPKHKQRQM",
+            "entity_poly_seq_length": 100,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RRN2"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L2",
+            "entity_poly_strand_id": "BD",
+            "entity_poly_seq_one_letter_code": "MALRVLTRALSSLSLTPRIAVAPGLNLLPAVQVTNNVLLTLPSGLMSLPCRPILTSVALSATSVSWKSRTKYTVMPVKMRKSGGRNHTGQIQVHGIGGGHKQRYRMIDFLRFRPEHESKPGPFEEKVIAVRYDPCRSADIALVAGGNRKRWIIATENMKAGDTVLNSDHIGRMAVAAREGDAHPLGALPVGTLINNVESEPGRGAQYIRAAGTCGVLLRKVNGTAIIQLPSKRQMQVLETCIATVGRVSNVDHNKRVIGKAGRNRWLGKRPNSGLWQRKGGWAGRKIRPLPPMKSYVKLPSAAAQS",
+            "entity_poly_seq_one_letter_code_can": "MALRVLTRALSSLSLTPRIAVAPGLNLLPAVQVTNNVLLTLPSGLMSLPCRPILTSVALSATSVSWKSRTKYTVMPVKMRKSGGRNHTGQIQVHGIGGGHKQRYRMIDFLRFRPEHESKPGPFEEKVIAVRYDPCRSADIALVAGGNRKRWIIATENMKAGDTVLNSDHIGRMAVAAREGDAHPLGALPVGTLINNVESEPGRGAQYIRAAGTCGVLLRKVNGTAIIQLPSKRQMQVLETCIATVGRVSNVDHNKRVIGKAGRNRWLGKRPNSGLWQRKGGWAGRKIRPLPPMKSYVKLPSAAAQS",
+            "entity_poly_seq_length": 306,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1S3J8"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L4",
+            "entity_poly_strand_id": "BF",
+            "entity_poly_seq_one_letter_code": "MLQLVRAGARTWFRPSGCRGLNTLAEEAVQQAEKPESVASLGLQPPVLRKCELPVPAHRRPVQAWIESLRGYEQERVGLTELHPDVFSTAPRLDILHQVAIWQKNFKRISYAKTKTRAEVRGGGRKPWVQKGSGRARHGSIRSPIWRGGGVAHGPRGPTSYYYMLPMKVRVQGLKVALTVKLAQDDLHIVDSLELPTADPQYLIELARYRRWGDSVLLVDLEHEDMPQNVVAATSGLKTFNLVPAVGLNVHSMLKHQTLVLTLPTVAFLEEKLLWHNSRYTPLYPFRLPYCDFP",
+            "entity_poly_seq_one_letter_code_can": "MLQLVRAGARTWFRPSGCRGLNTLAEEAVQQAEKPESVASLGLQPPVLRKCELPVPAHRRPVQAWIESLRGYEQERVGLTELHPDVFSTAPRLDILHQVAIWQKNFKRISYAKTKTRAEVRGGGRKPWVQKGSGRARHGSIRSPIWRGGGVAHGPRGPTSYYYMLPMKVRVQGLKVALTVKLAQDDLHIVDSLELPTADPQYLIELARYRRWGDSVLLVDLEHEDMPQNVVAATSGLKTFNLVPAVGLNVHSMLKHQTLVLTLPTVAFLEEKLLWHNSRYTPLYPFRLPYCDFP",
+            "entity_poly_seq_length": 294,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L10"
+            ],
+            "pfam_accessions": [
+                "PF00466"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RWJ0"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L10",
+            "entity_poly_strand_id": "BJ",
+            "entity_poly_seq_one_letter_code": "MAAVVAGMLRGGLLPQAGRLPTFQTVRYGSKAVTRHRRVMHFERQKLMAVTEYIPPKPTINPRCLPPPPTPPQEETGLVRLLRREIAAVFRDNRMIAVCQHVALSAEDKLLLRHQLRKHKILMKIFPNQVLKPFLEESKYQNLLPLFVGHNLLLVSEEPKVKEMVRILKGIPFLPLLGGCIDDTILSRQGFINYSKLPSLALVQGELVGGLTFLTAQTYSMLQHQPRQLTALLDQYVKQQQEGHPAVPASGQPEPPDPVPDP",
+            "entity_poly_seq_one_letter_code_can": "MAAVVAGMLRGGLLPQAGRLPTFQTVRYGSKAVTRHRRVMHFERQKLMAVTEYIPPKPTINPRCLPPPPTPPQEETGLVRLLRREIAAVFRDNRMIAVCQHVALSAEDKLLLRHQLRKHKILMKIFPNQVLKPFLEESKYQNLLPLFVGHNLLLVSEEPKVKEMVRILKGIPFLPLLGGCIDDTILSRQGFINYSKLPSLALVQGELVGGLTFLTAQTYSMLQHQPRQLTALLDQYVKQQQEGHPAVPASGQPEPPDPVPDP",
+            "entity_poly_seq_length": 262,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L14",
+            "entity_poly_strand_id": "BO",
+            "entity_poly_seq_one_letter_code": "MAFCTGLRGPFAQVSRALSQRCFSTTGSLSAIQKMTRVRVVDNSALGTTPYHRPPRCIHVYNKTGVGKVGDRILLAIRGQKKKALIVGHRMPGPRMTPRFDSNNVVLLEDNGNPVGTRIKTPIPSSLRQREGEFSKVLAIAQNFV",
+            "entity_poly_seq_one_letter_code_can": "MAFCTGLRGPFAQVSRALSQRCFSTTGSLSAIQKMTRVRVVDNSALGTTPYHRPPRCIHVYNKTGVGKVGDRILLAIRGQKKKALIVGHRMPGPRMTPRFDSNNVVLLEDNGNPVGTRIKTPIPSSLRQREGEFSKVLAIAQNFV",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RSH0"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L15",
+            "entity_poly_strand_id": "BP",
+            "entity_poly_seq_one_letter_code": "MGGPVQGGGPRALDLLRALPRVSLANLKPNPGSRKPERRPRGRRRGRKCGRGHKGERQRGTRPRLGFEGGQTPFYLRIPKYGFNEGHSFRHQYQPLSLNRLQYLIDLGRVDPTQPIDLTQLVNGRGVTIQPSKRDYGVQLVEEGADTFKAKVNIEVQMASELAIAAIEKNGGVVTTAFYDPRSLEILCKPVPFFLRGQPIPKRMLPPEALVPYYTDAKNRGYLADPARFPEARLELARKYGYVLPDITKDELFKMLSTRKDPRQIFFGLAPGWVVNMADKKILKPTDENLLKYYSS",
+            "entity_poly_seq_one_letter_code_can": "MGGPVQGGGPRALDLLRALPRVSLANLKPNPGSRKPERRPRGRRRGRKCGRGHKGERQRGTRPRLGFEGGQTPFYLRIPKYGFNEGHSFRHQYQPLSLNRLQYLIDLGRVDPTQPIDLTQLVNGRGVTIQPSKRDYGVQLVEEGADTFKAKVNIEVQMASELAIAAIEKNGGVVTTAFYDPRSLEILCKPVPFFLRGQPIPKRMLPPEALVPYYTDAKNRGYLADPARFPEARLELARKYGYVLPDITKDELFKMLSTRKDPRQIFFGLAPGWVVNMADKKILKPTDENLLKYYSS",
+            "entity_poly_seq_length": 296,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZNK1"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L18",
+            "entity_poly_strand_id": "BS",
+            "entity_poly_seq_one_letter_code": "MALRSRFWALLSICRNPGCRAAALSTSCKPATNPETDPVENEAVAPEFTNRNPRNLELLAVARKERGWGTVWPSREFWHRLRVIRTQHHIEALVEHRNGQVVVSASTREWAIKKHLYSTRNVVACESVGRVLAERCLEAGINFMVYHPTPWEAASDSIKRLQHAMTEGGVVLREPRRIYE",
+            "entity_poly_seq_one_letter_code_can": "MALRSRFWALLSICRNPGCRAAALSTSCKPATNPETDPVENEAVAPEFTNRNPRNLELLAVARKERGWGTVWPSREFWHRLRVIRTQHHIEALVEHRNGQVVVSASTREWAIKKHLYSTRNVVACESVGRVLAERCLEAGINFMVYHPTPWEAASDSIKRLQHAMTEGGVVLREPRRIYE",
+            "entity_poly_seq_length": 180,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RY70"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L21",
+            "entity_poly_strand_id": "BV",
+            "entity_poly_seq_one_letter_code": "MAAAVAASVLQGTFGRLVSAYSRSVLRTSRPGTAPPWSAPRRLSSQHTSSLRGCVPKTSLGSPPWPDIVLPDPVEETRHHAEVVGQVNELIAAGRYGRLFAVVHFAGHQWKVTAEDLILIENELDVACGERIRLEKVLLVGADNFTLLGKPLLGKELVRVEATVIEKTESWPKINMKFQKRKNYQRKRITVNPQTVLRINSIEIAPCLC",
+            "entity_poly_seq_one_letter_code_can": "MAAAVAASVLQGTFGRLVSAYSRSVLRTSRPGTAPPWSAPRRLSSQHTSSLRGCVPKTSLGSPPWPDIVLPDPVEETRHHAEVVGQVNELIAAGRYGRLFAVVHFAGHQWKVTAEDLILIENELDVACGERIRLEKVLLVGADNFTLLGKPLLGKELVRVEATVIEKTESWPKINMKFQKRKNYQRKRITVNPQTVLRINSIEIAPCLC",
+            "entity_poly_seq_length": 209,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZZC6"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L23",
+            "entity_poly_strand_id": "BX",
+            "entity_poly_seq_one_letter_code": "MARNVLYPLYQLGNPQLRVFRTNFFIQLVRPGTAQPEDTVQFRIPMEMTRVDLRNYLERIYNVPVAAVRTRVQYGSNRRRDHRNIRIKKPDYKVAYVQLALGQTFTFPDLFPERKGASVDVDVRDQVLEDQRQKHSPDPRRGGVPGWFGL",
+            "entity_poly_seq_one_letter_code_can": "MARNVLYPLYQLGNPQLRVFRTNFFIQLVRPGTAQPEDTVQFRIPMEMTRVDLRNYLERIYNVPVAAVRTRVQYGSNRRRDHRNIRIKKPDYKVAYVQLALGQTFTFPDLFPERKGASVDVDVRDQVLEDQRQKHSPDPRRGGVPGWFGL",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family consists of several eukaryotic mitochondrial 28S ribosomal protein S30 (or programmed cell death protein 9 PDCD9) sequences. The exact function of this family is unknown although it is known to be a component of the mitochondrial ribosome and a component in cellular apoptotic signaling pathways [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S30 (PDCD9)"
+            ],
+            "pfam_accessions": [
+                "PF07147"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287BIV6"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L37",
+            "entity_poly_strand_id": "Ba",
+            "entity_poly_seq_one_letter_code": "MALASGPARRALARLGRLGLGGCGAPRRGAYEWGVRSTRKPEPPPLDRVYEIPGLEPITYAGKMHFMPGLARPVFPPWDPGWTHPKFRRLPPLHEHPLYKDQACYVFHQRCRLLEGVKQALWLTKTQLIEGLPEKVLRLADDPRNHIENQDERVLNAISHARLWHSTEDIPKRETYCPVIVDSLIQLCKSQILKHPSLARRICAQNNTLSATWNRESILLQVHGSSGARLNAKDPLPPVASQEEVEATKNHVLETFYPISPTMGLQECNVYDVNDDTGFQEGYPYPCPHTLYFLESANLRPRRFQPDQLRAKMILFAFGSALAQARLLYGNDSKVLEQPVVVQSVGTDGRLFQFLVLQLNTTDLASDEGVKNLAWVDSDQLLYQHFWCLPVIKKKVVVEPVGPIGFQPETFRKFLALYLHGAV",
+            "entity_poly_seq_one_letter_code_can": "MALASGPARRALARLGRLGLGGCGAPRRGAYEWGVRSTRKPEPPPLDRVYEIPGLEPITYAGKMHFMPGLARPVFPPWDPGWTHPKFRRLPPLHEHPLYKDQACYVFHQRCRLLEGVKQALWLTKTQLIEGLPEKVLRLADDPRNHIENQDERVLNAISHARLWHSTEDIPKRETYCPVIVDSLIQLCKSQILKHPSLARRICAQNNTLSATWNRESILLQVHGSSGARLNAKDPLPPVASQEEVEATKNHVLETFYPISPTMGLQECNVYDVNDDTGFQEGYPYPCPHTLYFLESANLRPRRFQPDQLRAKMILFAFGSALAQARLLYGNDSKVLEQPVVVQSVGTDGRLFQFLVLQLNTTDLASDEGVKNLAWVDSDQLLYQHFWCLPVIKKKVVVEPVGPIGFQPETFRKFLALYLHGAV",
+            "entity_poly_seq_length": 423,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Phosphatidylethanolamine-binding protein"
+            ],
+            "pfam_accessions": [
+                "PF01161"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RW03"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L38",
+            "entity_poly_strand_id": "Bb",
+            "entity_poly_seq_one_letter_code": "MAAPWWRAALCASRRWRGFSTSAALSRRAAPLGPMPNEDIDVSDLERLKKYRSFDRYRRRAEQEARKPHWWRTYREHFGEESGPKDRVDIGLPPPKVSRTQQLLERKQALRELRANVEEERAARLQTARIPLEAVRAEWERTCGPYHKQRLAEYCGLYRDLFHGATFVPRVPLHVAYAVGEDDLMPVYHGNEVTPTEAAQAPEVTYEADEGSLWTLLLTNLDGHLLEPDAEYVHWLVTNIPGNRVTEGQETCPYLPPFPARGSGFHRFAFLLFKQDKRIDFSGDTRPSPCYQLAQRTFHTFDFYKKHQDAMTPAGLAFFQCRWDDSVTRVFHQLLDMREPVFEFVRPPPYHPKQKRFPHRQPLRYLDRYRDSHEPTYGIY",
+            "entity_poly_seq_one_letter_code_can": "MAAPWWRAALCASRRWRGFSTSAALSRRAAPLGPMPNEDIDVSDLERLKKYRSFDRYRRRAEQEARKPHWWRTYREHFGEESGPKDRVDIGLPPPKVSRTQQLLERKQALRELRANVEEERAARLQTARIPLEAVRAEWERTCGPYHKQRLAEYCGLYRDLFHGATFVPRVPLHVAYAVGEDDLMPVYHGNEVTPTEAAQAPEVTYEADEGSLWTLLLTNLDGHLLEPDAEYVHWLVTNIPGNRVTEGQETCPYLPPFPARGSGFHRFAFLLFKQDKRIDFSGDTRPSPCYQLAQRTFHTFDFYKKHQDAMTPAGLAFFQCRWDDSVTRVFHQLLDMREPVFEFVRPPPYHPKQKRFPHRQPLRYLDRYRDSHEPTYGIY",
+            "entity_poly_seq_length": 380,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This entry is of a family of short, approximately 100 amino acid residues, proteins which are mitochondrial 28S ribosomal proteins named as MRP-S32.        Their exact function could not be confirmed."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S32"
+            ],
+            "pfam_accessions": [
+                "PF10210"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287BQA1"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L42",
+            "entity_poly_strand_id": "Bf",
+            "entity_poly_seq_one_letter_code": "MALAAVKWVISSRTILKHLFPIQNSASYCVCHKSTYSSLPDDYNCKVELALTSDGRTIVCYHPSVDIPYEHTKPIPRPDPVHNIEETHDLVLKTRLEEKGEHLEQGPMIEQLSKMFFTTKHRWYPRGQYHRRRRKPNPPKDR",
+            "entity_poly_seq_one_letter_code_can": "MALAAVKWVISSRTILKHLFPIQNSASYCVCHKSTYSSLPDDYNCKVELALTSDGRTIVCYHPSVDIPYEHTKPIPRPDPVHNIEETHDLVLKTRLEEKGEHLEQGPMIEQLSKMFFTTKHRWYPRGQYHRRRRKPNPPKDR",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This is the L46 subunit of the mammalian mitochondrial ribosome, conserved from plants and fungi."
+            ],
+            "pfam_descriptions": [
+                "39S mitochondrial ribosomal protein L46"
+            ],
+            "pfam_accessions": [
+                "PF11788"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1SRT0"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L46",
+            "entity_poly_strand_id": "Bj",
+            "entity_poly_seq_one_letter_code": "MAAPVRRTMLRVVRGWRRFEGPWAHSLGSRNLALAVAPSSSSSPWRLLGALCLQRPPLVTKPLTPLQEEMADLLQQIEIERSLYSDHELRALDEAQQLAKKKSDLYEEEDEQNILLAQDLEDMWEQKFLHFKLGARLTEADKKDDRTSLHRKLDRNLILLVREKLGDQDIWMLPQSDWQPGETLRQTAERTLATLSENNMEAKFLGNAPCGHYKFKFPQAMRTETSLGAKVFFFKALLLTGDFSQAGKKGHHVWVSKEELGDYLKPKYLAQVRRFLLDL",
+            "entity_poly_seq_one_letter_code_can": "MAAPVRRTMLRVVRGWRRFEGPWAHSLGSRNLALAVAPSSSSSPWRLLGALCLQRPPLVTKPLTPLQEEMADLLQQIEIERSLYSDHELRALDEAQQLAKKKSDLYEEEDEQNILLAQDLEDMWEQKFLHFKLGARLTEADKKDDRTSLHRKLDRNLILLVREKLGDQDIWMLPQSDWQPGETLRQTAERTLATLSENNMEAKFLGNAPCGHYKFKFPQAMRTETSLGAKVFFFKALLLTGDFSQAGKKGHHVWVSKEELGDYLKPKYLAQVRRFLLDL",
+            "entity_poly_seq_length": 279,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family of proteins have been identified as part of the mitochondrial large ribosomal subunit in yeast [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial large subunit ribosomal protein (Img2)"
+            ],
+            "pfam_accessions": [
+                "PF05046"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A0R4J8D6"
+            ],
+            "rcsb_pdbx_description": "Mrpl34",
+            "entity_poly_strand_id": "Bl",
+            "entity_poly_seq_one_letter_code": "MAATVLCGVLRAWRTGVPLGCGLRRLSQTQGTPEYPSFVESVDEYHFVERLLPPASIPRPPKHEHYPTPSGWQPPRDPAPSLPYFVRRSRMHNIPVYRDITHGNRQMTVIRKVEGDIWALQKDVEDFLSPLLGKTPVTQVNEVTGTLRVKGYFDQQLKAWLLEKGF",
+            "entity_poly_seq_one_letter_code_can": "MAATVLCGVLRAWRTGVPLGCGLRRLSQTQGTPEYPSFVESVDEYHFVERLLPPASIPRPPKHEHYPTPSGWQPPRDPAPSLPYFVRRSRMHNIPVYRDITHGNRQMTVIRKVEGDIWALQKDVEDFLSPLLGKTPVTQVNEVTGTLRVKGYFDQQLKAWLLEKGF",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "MRP-L51 is a family of small proteins from the intact 55 S mitochondrial ribosome [2]. It has otherwise been referred to as bMRP-64 [1]. The exact function of this family is not known."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal subunit"
+            ],
+            "pfam_accessions": [
+                "PF10244"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287BE26"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L51",
+            "entity_poly_strand_id": "Bn",
+            "entity_poly_seq_one_letter_code": "MAGSLSWVTGRGLWGRLPLTCRSFSLGIPRLFHVRVTLPPRKVVDRWNEKRAMFGVYDNIGILGNFEKHPKELIKGPIWLRGWKGNELQRCIRKKRMVGNRMFIDDLHNLNKRISYLYKHFNRHGKYR",
+            "entity_poly_seq_one_letter_code_can": "MAGSLSWVTGRGLWGRLPLTCRSFSLGIPRLFHVRVTLPPRKVVDRWNEKRAMFGVYDNIGILGNFEKHPKELIKGPIWLRGWKGNELQRCIRKKRMVGNRMFIDDLHNLNKRISYLYKHFNRHGKYR",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "Members of this family include the mamalian mitoribosomal proteins mL52 which is found in the 39S subunit. The mL52 has no homologues in yeast [1 , 2]."
+            ],
+            "pfam_descriptions": [
+                "Mitoribosomal protein mL52"
+            ],
+            "pfam_accessions": [
+                "PF18699"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1S9B7"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L52",
+            "entity_poly_strand_id": "Bo",
+            "entity_poly_seq_one_letter_code": "MAAWGILLSTGVRRLHCGTAAQAGSQWRLQQGFAANPSGYGPLTELPDWSYADGRPAPPMKGQLRRKAQREKFARRVVLLSQEMDAGLQAWQLRQQEKLQEEEGKQKNALKSKGALLQNPQPSQ",
+            "entity_poly_seq_one_letter_code_can": "MAAWGILLSTGVRRLHCGTAAQAGSQWRLQQGFAANPSGYGPLTELPDWSYADGRPAPPMKGQLRRKAQREKFARRVVLLSQEMDAGLQAWQLRQQEKLQEEEGKQKNALKSKGALLQNPQPSQ",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mL53, MRPL53",
+            "entity_poly_strand_id": "Bp",
+            "entity_poly_seq_one_letter_code": "MAAALARLGLRAVKQVRVQFCPFEKNVESTRTFLQAVSSEKVRCTNLNCSVIADVRHDGSEPCVDVLFGDGHRLIMRGAHLTAQEMLTAFASHIQARGAAGSGDKPSASTGR",
+            "entity_poly_seq_one_letter_code_can": "MAAALARLGLRAVKQVRVQFCPFEKNVESTRTFLQAVSSEKVRCTNLNCSVIADVRHDGSEPCVDVLFGDGHRLIMRGAHLTAQEMLTAFASHIQARGAAGSGDKPSASTGR",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes yeast MRPL37 a mitochondrial ribosomal protein [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L37"
+            ],
+            "pfam_accessions": [
+                "PF08561"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "I3LN63"
+            ],
+            "rcsb_pdbx_description": "Uncharacterized protein",
+            "entity_poly_strand_id": "Bq",
+            "entity_poly_seq_one_letter_code": "MAARRLFGAARSWAAWRAWELSDAAVSGRLHVRNYAKRPVIKGGKGGKGAVVGEALKDPEVCTDPFRLTTHAMGVNIYKEGQDVVLKPDSEYPEWLFEMNVGPPKKLEELDPETREYWRLLRKHNIWRHNRLSKNRKF",
+            "entity_poly_seq_one_letter_code_can": "MAARRLFGAARSWAAWRAWELSDAAVSGRLHVRNYAKRPVIKGGKGGKGAVVGEALKDPEVCTDPFRLTTHAMGVNIYKEGQDVVLKPDSEYPEWLFEMNVGPPKKLEELDPETREYWRLLRKHNIWRHNRLSKNRKF",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "unassigned secondary structure elements",
+            "entity_poly_strand_id": "Bz",
+            "entity_poly_seq_one_letter_code": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "entity_poly_seq_one_letter_code_can": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "entity_poly_seq_length": 82,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This is the N-terminal dimerisation domain of ribosomal protein L7/L12 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7/L12 dimerisation domain",
+                "Ribosomal protein L7/L12 C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF16320",
+                "PF00542"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287ARV8"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L12",
+            "entity_poly_strand_id": "CL,DL,EL,FL,GL,HL,BL",
+            "entity_poly_seq_one_letter_code": "MLPAAASSLWGPCFGLRAAALRVARHQGPRLCGVRLMRCSSHRKGEALAGAPLDNAPKEYPPKIQQLVQDIASLTLLEISDLNELLKKTLKIQDVGFMPMGAVAPGAPPAAAAPEAAEEDLPKRKEQTHFTVRLTEAKPVDKVKLIKEIKSHIQGINLVQAKKLVESLPQEIKANVPKAEAEKIKAALEAVGGTVVLE",
+            "entity_poly_seq_one_letter_code_can": "MLPAAASSLWGPCFGLRAAALRVARHQGPRLCGVRLMRCSSHRKGEALAGAPLDNAPKEYPPKIQQLVQDIASLTLLEISDLNELLKKTLKIQDVGFMPMGAVAPGAPPAAAAPEAAEEDLPKRKEQTHFTVRLTEAKPVDKVKLIKEIKSHIQGINLVQAKKLVESLPQEIKANVPKAEAEKIKAALEAVGGTVVLE",
+            "entity_poly_seq_length": 198,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1SVC5"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L35",
+            "entity_poly_strand_id": "B8",
+            "entity_poly_seq_one_letter_code": "MAASAFAGAVRAATGILRPLHILASSAYQNCAKNACLSSVLSSRHFSHIQTSALLSAPRLITSVRNLMCGPTAPVLNRVAPLLPHVLKPPVRTVTYFSSRKGKRKTVKAVIYRFLRLHSGLWLRRKAGYKKKLWKKTAARKRRLREFVFCNKTQSKLLDKMTTSFWKRRNWYADDPYQKYQDRTNLKV",
+            "entity_poly_seq_one_letter_code_can": "MAASAFAGAVRAATGILRPLHILASSAYQNCAKNACLSSVLSSRHFSHIQTSALLSAPRLITSVRNLMCGPTAPVLNRVAPLLPHVLKPPVRTVTYFSSRKGKRKTVKAVIYRFLRLHSGLWLRRKAGYKKKLWKKTAARKRRLREFVFCNKTQSKLLDKMTTSFWKRRNWYADDPYQKYQDRTNLKV",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This domain contains a P-loop motif, also found in several other families such as Pfam:PF00071, Pfam:PF00025 and Pfam:PF00063. Elongation factor Tu consists of three structural domains, this plus two C-terminal beta barrel domains.",
+                "IF-2 is a translation initiator in each of the three main phylogenetic domains (Eukaryotes [1], Bacteria [2] and Archaea [3]). IF2 interacts with formylmethionine-tRNA, GTP, IF1, IF3 and both ribosomal subunits [2]. Through these interactions, IF2 promotes the binding of the initiator tRNA to the A site in the smaller ribosomal subunit and catalyses the hydrolysis of GTP following initiation-complex formation [2]."
+            ],
+            "pfam_descriptions": [
+                "Elongation factor Tu GTP binding domain",
+                "Translation-initiation factor 2"
+            ],
+            "pfam_accessions": [
+                "PF00009",
+                "PF11987"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P46199"
+            ],
+            "rcsb_pdbx_description": "Translation initiation factor IF-2, mitochondrial",
+            "entity_poly_strand_id": "BC",
+            "entity_poly_seq_one_letter_code": "SGGSGSGWKSQLSSTKSKKVVEVWIGMTIEELARAMEKNTDYVYEALLNTDIDIDSLEADSHLDEVWIKEVITKAGMKLKWSKLKQDKVRKNKDAVRRPQADPALLTPRSPVVTIMGHVDHGKTTLLDKFRKTQVAAVETGGITQHIGAFLVSLPSGEKITFLDTPGHAAFSAMRARGAQVTDIVVLVVAADDGVMKQTVESIQHAKDAQVPIILAVNKCDKAEADPEKVKKELLAYDVVCEDYGGDVQAVPVSALTGDNLMALAEATVALAEMLELKADPNGPVEGTVIESFTDKGRGLVTTAIIQRGTLRKGSVLVAGKCWAKVRLMFDENGKTIDEAYPSMPVGITGWRDLPSAGEEILEVESEPRAREVVDWRKYEQEQEKGQEDLKIIEEKRKEHKEAHQKAREKYGHLLWKKRSILRFLERKEQIPLKPKEKRERDSNVLSVIIKGDVDGSVEAILNIIDTYDASHECELELVHFGVGDVSANDVNLAETFDGVIYGFNVNAGNVIQQSAAKKGVKIKLHKIIYRLVEDLQEELSSRLPCAVEEHPVGEASILATFSVTEGKKKVPVAGCRVQKGQLEKQKKFKLTRNGHVIWKGSLTSLKHHKDDISIVKTGMDCGLSLDEDNMEFQVGDRIVCYEEKQIQAKTSWDPGF",
+            "entity_poly_seq_one_letter_code_can": "SGGSGSGWKSQLSSTKSKKVVEVWIGMTIEELARAMEKNTDYVYEALLNTDIDIDSLEADSHLDEVWIKEVITKAGMKLKWSKLKQDKVRKNKDAVRRPQADPALLTPRSPVVTIMGHVDHGKTTLLDKFRKTQVAAVETGGITQHIGAFLVSLPSGEKITFLDTPGHAAFSAMRARGAQVTDIVVLVVAADDGVMKQTVESIQHAKDAQVPIILAVNKCDKAEADPEKVKKELLAYDVVCEDYGGDVQAVPVSALTGDNLMALAEATVALAEMLELKADPNGPVEGTVIESFTDKGRGLVTTAIIQRGTLRKGSVLVAGKCWAKVRLMFDENGKTIDEAYPSMPVGITGWRDLPSAGEEILEVESEPRAREVVDWRKYEQEQEKGQEDLKIIEEKRKEHKEAHQKAREKYGHLLWKKRSILRFLERKEQIPLKPKEKRERDSNVLSVIIKGDVDGSVEAILNIIDTYDASHECELELVHFGVGDVSANDVNLAETFDGVIYGFNVNAGNVIQQSAAKKGVKIKLHKIIYRLVEDLQEELSSRLPCAVEEHPVGEASILATFSVTEGKKKVPVAGCRVQKGQLEKQKKFKLTRNGHVIWKGSLTSLKHHKDDISIVKTGMDCGLSLDEDNMEFQVGDRIVCYEEKQIQAKTSWDPGF",
+            "entity_poly_seq_length": 657,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ICT1",
+            "entity_poly_strand_id": "BE",
+            "entity_poly_seq_one_letter_code": "MPGWGLLGRAGARVLGCGADGLGASRGLGNRTDICLLVRSLHGKSVTWWDEHLSEENVPFVKQLVSDENKAQLASKLCPLKDEPWPIHPWEPGSSRVGLIALKLGMMPLWTKDGQKHVVTLLQVQDCHVLKYTPKENHNGRMAALTVGGKTVSHFHKSASILEFYQELGLPPKQKVKIFNVTENAVIKPGTPLYAAHFRPGQYVDVTAKTIGKGFQGVMRRWGFKGQPATHGQTKTHRRPGAISTGDVARVWPGTKMPGQLGNIDRTAFGLKVWRINTKHNIIYVNGSVPGHKNCLVKIKDSKLPAYKDFCKNLPFPTYFPDGDEEALPEDLYDENVCQPGAPSITFT",
+            "entity_poly_seq_one_letter_code_can": "MPGWGLLGRAGARVLGCGADGLGASRGLGNRTDICLLVRSLHGKSVTWWDEHLSEENVPFVKQLVSDENKAQLASKLCPLKDEPWPIHPWEPGSSRVGLIALKLGMMPLWTKDGQKHVVTLLQVQDCHVLKYTPKENHNGRMAALTVGGKTVSHFHKSASILEFYQELGLPPKQKVKIFNVTENAVIKPGTPLYAAHFRPGQYVDVTAKTIGKGFQGVMRRWGFKGQPATHGQTKTHRRPGAISTGDVARVWPGTKMPGQLGNIDRTAFGLKVWRINTKHNIIYVNGSVPGHKNCLVKIKDSKLPAYKDFCKNLPFPTYFPDGDEEALPEDLYDENVCQPGAPSITFT",
+            "entity_poly_seq_length": 348,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L9, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF01281"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "I3LR45"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L9",
+            "entity_poly_strand_id": "BI",
+            "entity_poly_seq_one_letter_code": "MAAAACTAAGGGLLRAGLERLLRGGVRALLRPRLEGVTPRSERAFSLSLSRSTVIVERWWKVPLAGEGRKPRLHRRHRVYKLVEDTKHRPKDNLELVLTQSVEELGVRGDLVSVKKSVGRNRLLPQGLAVYASPENKKLFEEEKLLRQEGKLEKLQTKAGEATVKFLRRCHLEVGMKNNVKWELNPEIVARHFLRNLGVVVAPHALKLPEEPITQRGEYWCEVTVNGLDTVRVPMSVVNFERPKTKRYKYWLAQQAAKGDVPTSSQMI",
+            "entity_poly_seq_one_letter_code_can": "MAAAACTAAGGGLLRAGLERLLRGGVRALLRPRLEGVTPRSERAFSLSLSRSTVIVERWWKVPLAGEGRKPRLHRRHRVYKLVEDTKHRPKDNLELVLTQSVEELGVRGDLVSVKKSVGRNRLLPQGLAVYASPENKKLFEEEKLLRQEGKLEKLQTKAGEATVKFLRRCHLEVGMKNNVKWELNPEIVARHFLRNLGVVVAPHALKLPEEPITQRGEYWCEVTVNGLDTVRVPMSVVNFERPKTKRYKYWLAQQAAKGDVPTSSQMI",
+            "entity_poly_seq_length": 268,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L11, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF00298"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RU54"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L11",
+            "entity_poly_strand_id": "BK",
+            "entity_poly_seq_one_letter_code": "MSKLSRATRALKKPEASGMIRAIVRAGQARPGPPLGPILGQRGVSINQFCKEFNEKTKDIKEGIPLPTKIFVKPDRTFEIKIGQPTVSYFLKAAAGIEKGARHTGKEVAGLVTLKHVYEIARVKAQDDAFALQDVPLSSVVRSIIGSARSLGIRVVKDLSSEELAAFQKERALFLAAQREADLAAQAEAAKK",
+            "entity_poly_seq_one_letter_code_can": "MSKLSRATRALKKPEASGMIRAIVRAGQARPGPPLGPILGQRGVSINQFCKEFNEKTKDIKEGIPLPTKIFVKPDRTFEIKIGQPTVSYFLKAAAGIEKGARHTGKEVAGLVTLKHVYEIARVKAQDDAFALQDVPLSSVVRSIIGSARSLGIRVVKDLSSEELAAFQKERALFLAAQREADLAAQAEAAKK",
+            "entity_poly_seq_length": 192,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L13",
+            "entity_poly_strand_id": "BN",
+            "entity_poly_seq_one_letter_code": "MSSFSKAPQQWATFARVWYLLDGKMQPPGKLAAMASVKLQGLHKPVYHQLSDCGDHVVIMNTRHIAFSGNKWEQKVYSSHTGYPGGFRQVTAAQLHQKDPVAIVKLAIYGMLPKNLHRRTMMQRLHLFPDEDIPEDILKNLVEELPQPRKVPRRLDEYTQEEIEAFPRVWSPPEDYRL",
+            "entity_poly_seq_one_letter_code_can": "MSSFSKAPQQWATFARVWYLLDGKMQPPGKLAAMASVKLQGLHKPVYHQLSDCGDHVVIMNTRHIAFSGNKWEQKVYSSHTGYPGGFRQVTAAQLHQKDPVAIVKLAIYGMLPKNLHRRTMMQRLHLFPDEDIPEDILKNLVEELPQPRKVPRRLDEYTQEEIEAFPRVWSPPEDYRL",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RI89"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L16",
+            "entity_poly_strand_id": "BQ",
+            "entity_poly_seq_one_letter_code": "MWRLLARACAPLLRAPLSDSWAAPSATAGFKTLLPVPTFEDVAIPEKPKLRFVERVPLVPKVRRERKNLSDIRGPSTEATEFTEGRFAILALGGGYLHWGHFEMMRLTINRSMDPKNMFALWRVPAPFKPITRKGMGQRMGGGKGAIDHYVTPVKAGRLIVEMGGRCEFKEVQGFLDLVAHKLPFPAKAVSRETLEKMRKDQEERERNNQNPWTFERIATANMLGIRKVLSPYDLTHKGRYWGKFYTPERV",
+            "entity_poly_seq_one_letter_code_can": "MWRLLARACAPLLRAPLSDSWAAPSATAGFKTLLPVPTFEDVAIPEKPKLRFVERVPLVPKVRRERKNLSDIRGPSTEATEFTEGRFAILALGGGYLHWGHFEMMRLTINRSMDPKNMFALWRVPAPFKPITRKGMGQRMGGGKGAIDHYVTPVKAGRLIVEMGGRCEFKEVQGFLDLVAHKLPFPAKAVSRETLEKMRKDQEERERNNQNPWTFERIATANMLGIRKVLSPYDLTHKGRYWGKFYTPERV",
+            "entity_poly_seq_length": 251,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RMQ4"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L17",
+            "entity_poly_strand_id": "BR",
+            "entity_poly_seq_one_letter_code": "MRLSVAAAISHGRVFRRLGLGPESRIHLLQNLLTGLVRHERIEASWARVDELRGYAEKLIDYGKLGDTNERAMRMADFWLTEKDLIPKLFQVLAPRFQGQNGGYTRMLQIPNRNEQDRAKMAVIEYKGNCLPPLPLPRRDSNLTLLNQLLQGLRQDQEASSHTAQTPAV",
+            "entity_poly_seq_one_letter_code_can": "MRLSVAAAISHGRVFRRLGLGPESRIHLLQNLLTGLVRHERIEASWARVDELRGYAEKLIDYGKLGDTNERAMRMADFWLTEKDLIPKLFQVLAPRFQGQNGGYTRMLQIPNRNEQDRAKMAVIEYKGNCLPPLPLPRRDSNLTLLNQLLQGLRQDQEASSHTAQTPAV",
+            "entity_poly_seq_length": 169,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L19",
+            "entity_poly_strand_id": "BT",
+            "entity_poly_seq_one_letter_code": "MAASITRGSWAAVGLGQSFPPTRALLPAPASVICRTLAGSGRQQVTGSSEPGAFQPPPKPVIVDKRRPQRPETRFLSPEFIPPRGRTNPLKFQIERKDMLERRKILHIPEFYVGSILRVTTADPYASAKTSQFLGICIQRSGSGLGATFILRNTIEGQGVEICFELYNPRIQEIQVVKLEKRLDNSLLYLRDALPEYSTFDVNMKPITQEFNQEVPVNQLKVKMKPKPWSKRWERPKFNIKGIRFDLCLTEEQMREAQKWSQPWLEFDMMREYDTSKIEAAIWDEIEASKNS",
+            "entity_poly_seq_one_letter_code_can": "MAASITRGSWAAVGLGQSFPPTRALLPAPASVICRTLAGSGRQQVTGSSEPGAFQPPPKPVIVDKRRPQRPETRFLSPEFIPPRGRTNPLKFQIERKDMLERRKILHIPEFYVGSILRVTTADPYASAKTSQFLGICIQRSGSGLGATFILRNTIEGQGVEICFELYNPRIQEIQVVKLEKRLDNSLLYLRDALPEYSTFDVNMKPITQEFNQEVPVNQLKVKMKPKPWSKRWERPKFNIKGIRFDLCLTEEQMREAQKWSQPWLEFDMMREYDTSKIEAAIWDEIEASKNS",
+            "entity_poly_seq_length": 292,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZU56"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L20",
+            "entity_poly_strand_id": "BU",
+            "entity_poly_seq_one_letter_code": "MVFLTVPLWLRSRVTDRYWRVQEVLKHARHFRGRKNRCYRLAVRAVTRAFVKCTRARRLKKRSLRTLWINRITAASQEHGLKYPAFIINLIKCQVELNRKVLADLAIYEPKTFKSLAALAKRRREEGFAAALGDGKEPDGIFSRVVQHR",
+            "entity_poly_seq_one_letter_code_can": "MVFLTVPLWLRSRVTDRYWRVQEVLKHARHFRGRKNRCYRLAVRAVTRAFVKCTRARRLKKRSLRTLWINRITAASQEHGLKYPAFIINLIKCQVELNRKVLADLAIYEPKTFKSLAALAKRRREEGFAAALGDGKEPDGIFSRVVQHR",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RQC9"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L22",
+            "entity_poly_strand_id": "BW",
+            "entity_poly_seq_one_letter_code": "MAAAVLERLGGLWMQNLRGKLALRLLSSHSILPQSHIHTSASVEISRKWEKKNKIVYPPQLPGEPRRPAEIYHCRRQIKYSKDKMWYLAKLIRGMSIDQALAQLEFSDKKGAQIIKEVLLEAQDMAVRDHNVEFRSNLYVAESTSGRGQYLKRIRYHGRGRFGIMEKVFCHYFVKLVEGPPPPREAPKTAVAHAREYIQELRNRTITHAL",
+            "entity_poly_seq_one_letter_code_can": "MAAAVLERLGGLWMQNLRGKLALRLLSSHSILPQSHIHTSASVEISRKWEKKNKIVYPPQLPGEPRRPAEIYHCRRQIKYSKDKMWYLAKLIRGMSIDQALAQLEFSDKKGAQIIKEVLLEAQDMAVRDHNVEFRSNLYVAESTSGRGQYLKRIRYHGRGRFGIMEKVFCHYFVKLVEGPPPPREAPKTAVAHAREYIQELRNRTITHAL",
+            "entity_poly_seq_length": 210,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RHJ1"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L24",
+            "entity_poly_strand_id": "BY",
+            "entity_poly_seq_one_letter_code": "MRLSALLALASKVTLPPNYRYGMSRPGSLSDKRKNPPGTRRRRVPVEPISDEDWHLFCGDKVEILEGKDAGKQGKVVQVIRQRNWVVVEGLNTHYRYVGKTVDYRGTMIPSEAPLLHNQVKLVDPTDRKPTDVEWRFTEAGERVRVSTRSGRIIPKPEFPRADGIVPETWIDGPKDTSVEDALEKTYVPRLKTLEEEVMEAMGIQETRRHKKVYWY",
+            "entity_poly_seq_one_letter_code_can": "MRLSALLALASKVTLPPNYRYGMSRPGSLSDKRKNPPGTRRRRVPVEPISDEDWHLFCGDKVEILEGKDAGKQGKVVQVIRQRNWVVVEGLNTHYRYVGKTVDYRGTMIPSEAPLLHNQVKLVDPTDRKPTDVEWRFTEAGERVRVSTRSGRIIPKPEFPRADGIVPETWIDGPKDTSVEDALEKTYVPRLKTLEEEVMEAMGIQETRRHKKVYWY",
+            "entity_poly_seq_length": 216,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1SHP6"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L39",
+            "entity_poly_strand_id": "Bc",
+            "entity_poly_seq_one_letter_code": "MAMGAWGLRLWRAVPRGEAGWRLIATSPASQLSPTELIEMQNDLFNKEKNRQLSLTPRTEKIEVKHVGKTDPGTVFVMNKNISTPYSCAMHLSEWYCRKSILALVDGQPWDMYKPLTKSCEIKFLTFKDDDPGEVNKAYWRSCAMMMGCVIERAFKDEYVVSLVRAPEVPVIAGAFCYDVVLDKRLDEWMPTKENLHSFTKDARALIYKDLPFETLEVEAKVALEIFQHNKYKLDFIEEKASQNPERIVKLHRFGDFIDVSEGPLIPRTSICFQYEVSAVHNLQTQSSLVRRFQGLSLPVHLRAHFTIWNKLLERSRKMVTEDKTKPTEESAST",
+            "entity_poly_seq_one_letter_code_can": "MAMGAWGLRLWRAVPRGEAGWRLIATSPASQLSPTELIEMQNDLFNKEKNRQLSLTPRTEKIEVKHVGKTDPGTVFVMNKNISTPYSCAMHLSEWYCRKSILALVDGQPWDMYKPLTKSCEIKFLTFKDDDPGEVNKAYWRSCAMMMGCVIERAFKDEYVVSLVRAPEVPVIAGAFCYDVVLDKRLDEWMPTKENLHSFTKDARALIYKDLPFETLEVEAKVALEIFQHNKYKLDFIEEKASQNPERIVKLHRFGDFIDVSEGPLIPRTSICFQYEVSAVHNLQTQSSLVRRFQGLSLPVHLRAHFTIWNKLLERSRKMVTEDKTKPTEESAST",
+            "entity_poly_seq_length": 334,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "Members of this family are components of the mitochondrial large ribosomal subunit.  Mature mitochondrial ribosomes consist of a small (37S) and a large (54S) subunit. The 37S subunit contains at least 33 different proteins and 1 molecule of RNA (15S). The 54S subunit contains at least 45 different proteins and 1 molecule of RNA (21S) [1][2]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L28"
+            ],
+            "pfam_accessions": [
+                "PF09812"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZP98"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L40",
+            "entity_poly_strand_id": "Bd",
+            "entity_poly_seq_one_letter_code": "MAAAALGAASRTLRPASRLVGAWPTQTRDAHERGSLFSFWGLVPMRAEPLRKKKKVDPKKDQAAKDRLKKRIRRLEKASQELIPIEDFITPVKFLNKERQRPPVELPFEESERRALLLKRWSLYKQREHEMERSAIRSLLEAQEEALQELRLSSPELHAEATKRDPSLFPFERQGPDYTPPISDYQPPEGRYQDITKVYTQVEFKK",
+            "entity_poly_seq_one_letter_code_can": "MAAAALGAASRTLRPASRLVGAWPTQTRDAHERGSLFSFWGLVPMRAEPLRKKKKVDPKKDQAAKDRLKKRIRRLEKASQELIPIEDFITPVKFLNKERQRPPVELPFEESERRALLLKRWSLYKQREHEMERSAIRSLLEAQEEALQELRLSSPELHAEATKRDPSLFPFERQGPDYTPPISDYQPPEGRYQDITKVYTQVEFKK",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "Members of this family of proteins are components of the mitochondrial ribosome large subunit. They are also involved in apoptosis and cell cycle regulation."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L27"
+            ],
+            "pfam_accessions": [
+                "PF09809"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287AWS0"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L41",
+            "entity_poly_strand_id": "Be",
+            "entity_poly_seq_one_letter_code": "MGLLSGAARALVRGADRMSKWTSKRGPRTFCKGRGAKGTGFHGRDGKFVQIKEMIPELVVPELAGFKLKPYVNYRAPEGTDTPLTAKQLFLETAAPAIEKDFKAGTFDPEHLEKYGFEPTQEGKLFQLYPKNFPR",
+            "entity_poly_seq_one_letter_code_can": "MGLLSGAARALVRGADRMSKWTSKRGPRTFCKGRGAKGTGFHGRDGKFVQIKEMIPELVVPELAGFKLKPYVNYRAPEGTDTPLTAKQLFLETAAPAIEKDFKAGTFDPEHLEKYGFEPTQEGKLFQLYPKNFPR",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "The proteins in this family are located in the mitochondrion. The family includes ribosomal protein L51, and S25. This family also includes mitochondrial NADH-ubiquinone oxidoreductase B8 subunit (CI-B8) EC:1.6.5.3. It is not known whether all members of this family form part of the NADH-ubiquinone oxidoreductase and whether they are also all ribosomal proteins. Structurally related to thioredoxin-fold."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain"
+            ],
+            "pfam_accessions": [
+                "PF05047"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1S8U4"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L43",
+            "entity_poly_strand_id": "Bg",
+            "entity_poly_seq_one_letter_code": "MTARGTASRFLTSVLHNGLGRYVQQLQRLSFSLSRDAPSSRGAREFVEREVTDFARRNPGVVIYVNPRPCCVPRVVAEYLNGAVREESIHCKSVEEIAALVQKLADQSGLDVIRIRKPFHTDSPSIQGQWHPFTNKPTTLGGLRPREVQDPAPAQVQAQ",
+            "entity_poly_seq_one_letter_code_can": "MTARGTASRFLTSVLHNGLGRYVQQLQRLSFSLSRDAPSSRGAREFVEREVTDFARRNPGVVIYVNPRPCCVPRVVAEYLNGAVREESIHCKSVEEIAALVQKLADQSGLDVIRIRKPFHTDSPSIQGQWHPFTNKPTTLGGLRPREVQDPAPAQVQAQ",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1SR64"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L44",
+            "entity_poly_strand_id": "Bh",
+            "entity_poly_seq_one_letter_code": "MASGLVRLLQWGPRRLLAPAAPTLAPPVRGAKKGFRAAYRFQKELERWRLLRCPPPPVRRSEKPNWDYHAEIQAFGHRLQETFSLDLLKTAFVNSCYIKSEEAKRQKLGIDKEAALLNLKDNQELSEQGISFSQTCLTQFFEDAFPDLPTEGVTSLVDFLTSEEVVCHVARNLAVEQLALSAEFPVPPPVLRQTFFAVIGALLQSSGPERTALFIRDFLITQMTGKELFEMWTITNPMGLLVEELKKRKISAPESRLTRQSGSTTALPVYFVGLYCDRKLIAEGPGETVLVAEEEAARVALRKLFGFTENRRPWDYSKPKEHVRAEKTITAS",
+            "entity_poly_seq_one_letter_code_can": "MASGLVRLLQWGPRRLLAPAAPTLAPPVRGAKKGFRAAYRFQKELERWRLLRCPPPPVRRSEKPNWDYHAEIQAFGHRLQETFSLDLLKTAFVNSCYIKSEEAKRQKLGIDKEAALLNLKDNQELSEQGISFSQTCLTQFFEDAFPDLPTEGVTSLVDFLTSEEVVCHVARNLAVEQLALSAEFPVPPPVLRQTFFAVIGALLQSSGPERTALFIRDFLITQMTGKELFEMWTITNPMGLLVEELKKRKISAPESRLTRQSGSTTALPVYFVGLYCDRKLIAEGPGETVLVAEEEAARVALRKLFGFTENRRPWDYSKPKEHVRAEKTITAS",
+            "entity_poly_seq_length": 332,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "Tim44 is an essential component of the machinery that mediates the translocation of nuclear-encoded proteins across the mitochondrial inner membrane [1].  Tim44 is thought to bind phospholipids of the mitochondrial inner membrane both by electrostatic interactions and by penetrating the polar head group region [1].  This family includes the C-terminal region of Tim44 that has been shown to form a stable proteolytic fragment in yeast.  This region is also found in a set of smaller bacterial proteins. The molecular function of the bacterial members of this family is unknown but transport seems likely. The crystal structure of the C terminal of Tim44 has revealed a large hydrophobic pocket which might play an important role in interacting with the acyl chains of lipid molecules in the mitochondrial membrane [3]."
+            ],
+            "pfam_descriptions": [
+                "Tim44-like domain"
+            ],
+            "pfam_accessions": [
+                "PF04280"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "I3LGM5"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L45",
+            "entity_poly_strand_id": "Bi",
+            "entity_poly_seq_one_letter_code": "MAAPVTRGLSCLPRVLGWWSRQPVLVTQSTAVVPVRTKKRFTPPTYQPKYKSEKEFVEHARKAGLVIPHERLERPIHLACTAGIFDAYVPPEGDARISSLSKEGLAQRAERLKKNVASQLSIRKIRESDPNFKIKDFPEKAKDIFIEAHLCLNNSDHDRLHTLVTENCFPDMVWDIRYKTVRWSFVESLEPPQVVQVRCSSLMNQGNIYGQVTVRMHTRQTLAIYDRFGRLMYGQEDVPRDVLEYVVFEKHLVDPYGSWRMHGKIIPPWAPPKQPILKTVMIPGPQLKPWEEFEEPQGEVHKPQPA",
+            "entity_poly_seq_one_letter_code_can": "MAAPVTRGLSCLPRVLGWWSRQPVLVTQSTAVVPVRTKKRFTPPTYQPKYKSEKEFVEHARKAGLVIPHERLERPIHLACTAGIFDAYVPPEGDARISSLSKEGLAQRAERLKKNVASQLSIRKIRESDPNFKIKDFPEKAKDIFIEAHLCLNNSDHDRLHTLVTENCFPDMVWDIRYKTVRWSFVESLEPPQVVQVRCSSLMNQGNIYGQVTVRMHTRQTLAIYDRFGRLMYGQEDVPRDVLEYVVFEKHLVDPYGSWRMHGKIIPPWAPPKQPILKTVMIPGPQLKPWEEFEEPQGEVHKPQPA",
+            "entity_poly_seq_length": 306,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A480J9Z6"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L48",
+            "entity_poly_strand_id": "Bk",
+            "entity_poly_seq_one_letter_code": "MNGALGKALCLRNDTVLKQALSLIRVRASGESPICSAGGILLSTSRHYRSKPTHGIGRYKHLVKAQEPKKKKGKVEVRPINLGTDYEYGVLNIHLIAYDMALAESYAQYVHNLCNHLAIKVEESYAMPTKTMEVLQLQEQGSKMFLDAVLTTHERVVQISGLSATFAEIFLEIIHSNLPEGVKLSVREHTEEDFKGRFKARPELEELLAKLN",
+            "entity_poly_seq_one_letter_code_can": "MNGALGKALCLRNDTVLKQALSLIRVRASGESPICSAGGILLSTSRHYRSKPTHGIGRYKHLVKAQEPKKKKGKVEVRPINLGTDYEYGVLNIHLIAYDMALAESYAQYVHNLCNHLAIKVEESYAMPTKTMEVLQLQEQGSKMFLDAVLTTHERVVQISGLSATFAEIFLEIIHSNLPEGVKLSVREHTEEDFKGRFKARPELEELLAKLN",
+            "entity_poly_seq_length": 212,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "The 39S ribosomal protein appears to be a subunit of one of the larger mitochondrial 66S or 70S units [1]. Under conditions of ethanol-stress in rats the larger subunit is largely dissociated into its smaller components [2]. In E. coli, in the absence of the enzyme pseudouridine synthase (RluD) synthase, there is an accumulation of 50S and 30S subunits and the appearance of abnormal particles (62S and 39S), with concomitant loss of 70S ribosomes [2]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal subunit 39S"
+            ],
+            "pfam_accessions": [
+                "PF10501"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "I3L9H6"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L50",
+            "entity_poly_strand_id": "Bm",
+            "entity_poly_seq_one_letter_code": "MAARWVSGLARRSLTCAVSGAPRREFWSPFRKEKQPVVAETVEEVKKEPILVCPPIQSRTYIPPEDLQSRLESHVKEVFGSSVPSNWQDISLEDVHLKFSFLARLANDLRHAVPNSRLHQMCRVRDVLDFYNVPVQDRSKFDELIASNLPHNLKITWGY",
+            "entity_poly_seq_one_letter_code_can": "MAARWVSGLARRSLTCAVSGAPRREFWSPFRKEKQPVVAETVEEVKKEPILVCPPIQSRTYIPPEDLQSRLESHVKEVFGSSVPSNWQDISLEDVHLKFSFLARLANDLRHAVPNSRLHQMCRVRDVLDFYNVPVQDRSKFDELIASNLPHNLKITWGY",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1STE5"
+            ],
+            "rcsb_pdbx_description": "'Mitochondrial ribosomal protein L30",
+            "entity_poly_strand_id": "B3",
+            "entity_poly_seq_one_letter_code": "MAGILRSVVQRPPGRLQTVTKGMESLICTDWIRHKFTRSRIPDKVFQPSPEDHEKYGGDPQYPHKLHIVTRIKSTKRRPYWEKDIIKMLGLEKAHTPQVHKNIPSVNAKLKVVKHLIRIKPLKLPQGLPTEEDMANTCLKSNGELVVRWLLNPANQEARKS",
+            "entity_poly_seq_one_letter_code_can": "MAGILRSVVQRPPGRLQTVTKGMESLICTDWIRHKFTRSRIPDKVFQPSPEDHEKYGGDPQYPHKLHIVTRIKSTKRRPYWEKDIIKMLGLEKAHTPQVHKNIPSVNAKLKVVKHLIRIKPLKLPQGLPTEEDMANTCLKSNGELVVRWLLNPANQEARKS",
+            "entity_poly_seq_length": 161,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This family of proteins is present in the intact 55S subunit of the mitochondrial ribosome. It is not known if it belongs to the 28S or to the 39S subunit [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosome protein 63"
+            ],
+            "pfam_accessions": [
+                "PF14978"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287BP93"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L57",
+            "entity_poly_strand_id": "Bt",
+            "entity_poly_seq_one_letter_code": "MFLTALLRRNRIPGRQWIGKHRRPRPVSAQAKQNMIRRLETEAENQYWLSRPFLTAEQERGHAAVRRAAAFQALKAAQAARFPAHRRLEEQLGHLLVTRKWS",
+            "entity_poly_seq_one_letter_code_can": "MFLTALLRRNRIPGRQWIGKHRRPRPVSAQAKQNMIRRLETEAENQYWLSRPFLTAEQERGHAAVRRAAAFQALKAAQAARFPAHRRLEEQLGHLLVTRKWS",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "This domain is found in peptide chain release factors such as RF-1 (Swiss:P07011) and RF-2 (Swiss:P07012), and a number of smaller proteins of unknown function such as Swiss:P40711. This domain contains the peptidyl-tRNA hydrolase activity. The domain contains a highly conserved motif GGQ, where the glutamine is thought to coordinate the water that mediates the hydrolysis."
+            ],
+            "pfam_descriptions": [
+                "RF-1 domain"
+            ],
+            "pfam_accessions": [
+                "PF00472"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZJR2"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L58",
+            "entity_poly_strand_id": "Bu",
+            "entity_poly_seq_one_letter_code": "MAAARCLRWGLNRAGAWLLPSPTRYPRRALHKQVEGTEFQSIYSLDKLYPESRGSDTAWRLPDDAKQANDIPVDRLTISYCRSSGPGGQNVNKVNSKAEVRFHLASADWIAEPVRLKLAVKHKNRINRSGELILTSECSRYQFRNLADCLQKLRDMIAEASQPAKEPSREDAELRRSRIENMNRERLRKKRISSAIKTSRRVDVD",
+            "entity_poly_seq_one_letter_code_can": "MAAARCLRWGLNRAGAWLLPSPTRYPRRALHKQVEGTEFQSIYSLDKLYPESRGSDTAWRLPDDAKQANDIPVDRLTISYCRSSGPGGQNVNKVNSKAEVRFHLASADWIAEPVRLKLAVKHKNRINRSGELILTSECSRYQFRNLADCLQKLRDMIAEASQPAKEPSREDAELRRSRIENMNRERLRKKRISSAIKTSRRVDVD",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "Members of this family of proteins act as negative regulators of G1 to S cell cycle phase progression by inhibiting cyclin-dependent kinases. Inhibitory effects are additive with GADD45 proteins but occur also in the absence of GADD45 proteins. Furthermore, they act as a repressor of the orphan nuclear receptor NR4A1 by inhibiting AB domain-mediated transcriptional activity [1]."
+            ],
+            "pfam_descriptions": [
+                "Growth arrest and DNA-damage-inducible proteins-interacting protein 1"
+            ],
+            "pfam_accessions": [
+                "PF10147"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A286ZXA6"
+            ],
+            "rcsb_pdbx_description": "'Mitochondrial ribosomal protein L59",
+            "entity_poly_strand_id": "Bv",
+            "entity_poly_seq_one_letter_code": "MAAPVQQARTLLRLVTTLGQGSRGYRARPPPRRSQEPRWPDPDDPLTPRWQLSPRYAAKQFARHGAASGVAAGSLWPSQEQLRELEAEEREWYPSLAAMQESLRVQQLAEEQKRQAREQLIEECMAKMPQMIENWRQQQQERREKEQADKDRRARLQAEAQERLGYHVDPRSARFQELLQDMEKQHRKRLKEEKQRKKKEARAAAMAAAAAQDPADSETPSS",
+            "entity_poly_seq_one_letter_code_can": "MAAPVQQARTLLRLVTTLGQGSRGYRARPPPRRSQEPRWPDPDDPLTPRWQLSPRYAAKQFARHGAASGVAAGSLWPSQEQLRELEAEEREWYPSLAAMQESLRVQQLAEEQKRQAREQLIEECMAKMPQMIENWRQQQQERREKEQADKDRRARLQAEAQERLGYHVDPRSARFQELLQDMEKQHRKRLKEEKQRKKKEARAAAMAAAAAQDPADSETPSS",
+            "entity_poly_seq_length": 222,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "mL65, MRPS30",
+            "entity_poly_strand_id": "Bw",
+            "entity_poly_seq_one_letter_code": "MAAARCWRFPLRGAGLSLHTAAKAAVTAPEVTGPDVPATPVARYPPIVASLTAKSKAARQRRVEQWQATVHAAKSVDEKLRILTKMQFMKYVVYPQTFALNADNWYQSFTKTVFLSGLPPTPAKLEPEPTLDITALREAVCDCLLQEHFFLRRKKRAPVIQDREAIASPFLDQLVASLTGLLSVHNPVLAAAALDCKRPVHFFWLRGEEIIPRGHRKGRVDALRYQINDKPHNQIRISRQLPEFVPLDYSIPIEVPVMSCKPDKLPLFKRQYENTIFIGSKTADPLCYGHTQFHLLPDKLKREKLLKQNCADQIEVVFRANAIASLFAWTGAQAMYQGFWSEADVTRPFVSQGVITDGKYFSFFCYQLNTLALTAQADQNNPRKNICWGTQSKPLYETIEDNNVKGFNDDVLLQLVQFLLNRPKEDKSQLLEN",
+            "entity_poly_seq_one_letter_code_can": "MAAARCWRFPLRGAGLSLHTAAKAAVTAPEVTGPDVPATPVARYPPIVASLTAKSKAARQRRVEQWQATVHAAKSVDEKLRILTKMQFMKYVVYPQTFALNADNWYQSFTKTVFLSGLPPTPAKLEPEPTLDITALREAVCDCLLQEHFFLRRKKRAPVIQDREAIASPFLDQLVASLTGLLSVHNPVLAAAALDCKRPVHFFWLRGEEIIPRGHRKGRVDALRYQINDKPHNQIRISRQLPEFVPLDYSIPIEVPVMSCKPDKLPLFKRQYENTIFIGSKTADPLCYGHTQFHLLPDKLKREKLLKQNCADQIEVVFRANAIASLFAWTGAQAMYQGFWSEADVTRPFVSQGVITDGKYFSFFCYQLNTLALTAQADQNNPRKNICWGTQSKPLYETIEDNNVKGFNDDVLLQLVQFLLNRPKEDKSQLLEN",
+            "entity_poly_seq_length": 433,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "F1RRH6"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein S18A",
+            "entity_poly_strand_id": "Bx",
+            "entity_poly_seq_one_letter_code": "MVGLNVLVSGCGRLLRGLLAGPAATSWARPPSRGFREVVEILDGKTTIIEGRITETPQESPNPPNPTGQCPICRWNLKHKYNYEDVLLLSQFIRPHGGMLPRRITGLCQEEHLKIEECVKMAHRAGLLPNHRPKLPEGFVPKSKPRLNRYLTRWSPRSVKPIYNKGHRWNKVRMPVGSPLLKDNVSYSGRPLLLYH",
+            "entity_poly_seq_one_letter_code_can": "MVGLNVLVSGCGRLLRGLLAGPAATSWARPPSRGFREVVEILDGKTTIIEGRITETPQESPNPPNPTGQCPICRWNLKHKYNYEDVLLLSQFIRPHGGMLPRRITGLCQEEHLKIEECVKMAHRAGLLPNHRPKLPEGFVPKSKPRLNRYLTRWSPRSVKPIYNKGHRWNKVRMPVGSPLLKDNVSYSGRPLLLYH",
+            "entity_poly_seq_length": 196,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L32",
+            "entity_poly_strand_id": "B5",
+            "entity_poly_seq_one_letter_code": "MASAMLVLVVPPWPAARGLLRNWWEQLQRKLQHNRLGLPLHPWGPALAVQGPAICTEPANDTNGSKAISSLLDSVFWMAAPKNRRSIEVNRCRRRNPQKLIKVKNNIDVCPECGHLKQKHILCGYCYEKVRKETAEIRRQMGKQEGGPFRAPTTETVVLYSGETPSEQDQGKRIIERERKRPSWFTQN",
+            "entity_poly_seq_one_letter_code_can": "MASAMLVLVVPPWPAARGLLRNWWEQLQRKLQHNRLGLPLHPWGPALAVQGPAICTEPANDTNGSKAISSLLDSVFWMAAPKNRRSIEVNRCRRRNPQKLIKVKNNIDVCPECGHLKQKHILCGYCYEKVRKETAEIRRQMGKQEGGPFRAPTTETVVLYSGETPSEQDQGKRIIERERKRPSWFTQN",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "uniprot_accession": [
+                "A0A287A119"
+            ],
+            "rcsb_pdbx_description": "Mitochondrial ribosomal protein L34",
+            "entity_poly_strand_id": "B7",
+            "entity_poly_seq_one_letter_code": "MAFLARSVGRLLDPVSRSAALVGGRWLQPQAWLGFPDTWGLPAMQQTRGKARGNEYQPSNIKRKHKHGWVRRLRTPTGVQVILRRMHKGRKSLSH",
+            "entity_poly_seq_one_letter_code_can": "MAFLARSVGRLLDPVSRSAALVGGRWLQPQAWLGFPDTWGLPAMQQTRGKARGNEYQPSNIKRKHKHGWVRRLRTPTGVQVILRRMHKGRKSLSH",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6GB2",
+            "rcsb_pdbx_description": "16S ribosomal RNA, mitochondrial",
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "entity_poly_strand_id": "BA",
+            "entity_poly_seq_one_letter_code": "ACCAAAGCUAGCUCAACAUACUAAACAAAUACAAAAAUACACCAAAAUAAAAUAAAACAUUCACCUAACAUUAAAGUAUAGGAGAUAGAAAUUUUUAUCCUGACGCUAUAGAGAUAGUACCGUAAGGGAAAGAUGAAAGAAUAAAAUAAAAGUAAAAAAAAGCAAAGAUUACCCCUUCUACCUUUUGCAUAAUGGUUUAACCAGAAAAAAUCUAACAAAGAGAACUUUAGCUAGAUACCCCGAAACCAGACGAGCUACCCAUGAGCAGUUUAAAAGAACCAACUCAUCUAUGUGGCAAAAUAGUGAGAAGACUUGUAGGUAGAGGUGAAAAGCCUAACGAGCCUGGUGAUAGCUGGUUGUCCGAGAAAGAAUUUUAGUUCAACCUUAAAAAUACCCCAAAAACCCUAAAUUCCAAUGUAUUUUUAAGAGAUAGUCUAAAAAGGUACAGCUUUUUAGAAACGGAUACAACCUUGACUAGAGAGUAAAAUCUUAAUACUACCAUAGUAGGCCUAAAAGCAGCCAUCAAUUGAGAAAGCGUUAAAGCUCAACAAAUUCACCAACAUAAUCCCAAAAACUAAUAACAAACUCCUAGCCCAAUACCGGACUAAUCUAUUGAAACAUAGAAGCAAUAAUGUUAAUAUGAGUAACAAGAAGCCUUUCUCCUCGCACACGCUUACAUCAGUAACUAAUAAUAUACUGAUAAUUAACAACCAAUAAACCAAAACAACACUAAAACGUUUAUUAAUUACAUUGUUAACCCAACACAGGAGUGCACCAAGGAAAGAUUAAAAGAAGUAAAAGGAACUCGGCAAACACAAACCCCGCCUGUUUACCAAAAACAUCACCUCUAGCAUUACUAGUAUUAGAGGCAAUGCCUGCCCAGUGACACCAGUUUAACGGCCGCGGUAUUCUGACCGUGCAAAGGUAGCAUAAUCACUUGUUCUCCAAAUAAGGACUUGUAUGAAUGGCCACACGAGGGUUUUACUGUCUCUUACUUCCAAUCAGUGAAAUUAACCUUCCCGUGAAGAGGCGGGAAUAAAAAAAUAAGACGAGAAGACCCUAUGGAGCUUUAAUUAACUAUUCCAAAAGUUAAACAACUCAACCACAAAGGGAUAAAACAUAACUUAACAUGGACUAGCAAUUUCGGUUGGGGUGACCUCGGAGUACAAAAAACCCUCCGAGUGAUUUUAAUCUAGACAAACCAGUCAAAAUAACCAUAACAUCACUUAUUGAUCCAAAAUUUUGAUCAACGGAACAAGUUACCCUAGGGAUAACAGCGCAAUCCUGUUCUAGAGUUCCUAUCGACAAUAGGGUUUACGACCUCGAUGUUGGAUCAGGACACCCAAAUGGUGCAACCGCUAUUAAAGGUUCGUUUGUUCAACGAUUAAAGUCCUACGUGAUCUGAGUUCAGACCGGAGCAAUCCAGGUCGGUUUCUAUCUAUUAUAAAUUUCUCCCAGUACGAAAGGACAAGAGAAAUGGGACCAACCUCACAAACGCGUCUCAGAGAUAAUUAAUGAUUUAAUCUUAACCUAAUUAACUCAUAAUAAAUCCAGCCCUAGAACAGGGCACA",
+            "entity_poly_seq_one_letter_code_can": "ACCAAAGCUAGCUCAACAUACUAAACAAAUACAAAAAUACACCAAAAUAAAAUAAAACAUUCACCUAACAUUAAAGUAUAGGAGAUAGAAAUUUUUAUCCUGACGCUAUAGAGAUAGUACCGUAAGGGAAAGAUGAAAGAAUAAAAUAAAAGUAAAAAAAAGCAAAGAUUACCCCUUCUACCUUUUGCAUAAUGGUUUAACCAGAAAAAAUCUAACAAAGAGAACUUUAGCUAGAUACCCCGAAACCAGACGAGCUACCCAUGAGCAGUUUAAAAGAACCAACUCAUCUAUGUGGCAAAAUAGUGAGAAGACUUGUAGGUAGAGGUGAAAAGCCUAACGAGCCUGGUGAUAGCUGGUUGUCCGAGAAAGAAUUUUAGUUCAACCUUAAAAAUACCCCAAAAACCCUAAAUUCCAAUGUAUUUUUAAGAGAUAGUCUAAAAAGGUACAGCUUUUUAGAAACGGAUACAACCUUGACUAGAGAGUAAAAUCUUAAUACUACCAUAGUAGGCCUAAAAGCAGCCAUCAAUUGAGAAAGCGUUAAAGCUCAACAAAUUCACCAACAUAAUCCCAAAAACUAAUAACAAACUCCUAGCCCAAUACCGGACUAAUCUAUUGAAACAUAGAAGCAAUAAUGUUAAUAUGAGUAACAAGAAGCCUUUCUCCUCGCACACGCUUACAUCAGUAACUAAUAAUAUACUGAUAAUUAACAACCAAUAAACCAAAACAACACUAAAACGUUUAUUAAUUACAUUGUUAACCCAACACAGGAGUGCACCAAGGAAAGAUUAAAAGAAGUAAAAGGAACUCGGCAAACACAAACCCCGCCUGUUUACCAAAAACAUCACCUCUAGCAUUACUAGUAUUAGAGGCAAUGCCUGCCCAGUGACACCAGUUUAACGGCCGCGGUAUUCUGACCGUGCAAAGGUAGCAUAAUCACUUGUUCUCCAAAUAAGGACUUGUAUGAAUGGCCACACGAGGGUUUUACUGUCUCUUACUUCCAAUCAGUGAAAUUAACCUUCCCGUGAAGAGGCGGGAAUAAAAAAAUAAGACGAGAAGACCCUAUGGAGCUUUAAUUAACUAUUCCAAAAGUUAAACAACUCAACCACAAAGGGAUAAAACAUAACUUAACAUGGACUAGCAAUUUCGGUUGGGGUGACCUCGGAGUACAAAAAACCCUCCGAGUGAUUUUAAUCUAGACAAACCAGUCAAAAUAACCAUAACAUCACUUAUUGAUCCAAAAUUUUGAUCAACGGAACAAGUUACCCUAGGGAUAACAGCGCAAUCCUGUUCUAGAGUUCCUAUCGACAAUAGGGUUUACGACCUCGAUGUUGGAUCAGGACACCCAAAUGGUGCAACCGCUAUUAAAGGUUCGUUUGUUCAACGAUUAAAGUCCUACGUGAUCUGAGUUCAGACCGGAGCAAUCCAGGUCGGUUUCUAUCUAUUAUAAAUUUCUCCCAGUACGAAAGGACAAGAGAAAUGGGACCAACCUCACAAACGCGUCUCAGAGAUAAUUAAUGAUUUAAUCUUAACCUAAUUAACUCAUAAUAAAUCCAGCCCUAGAACAGGGCACA",
+            "entity_poly_seq_length": 1571,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "rcsb_pdbx_description": "CP tRNAPhe, mitochondrial",
+            "rcsb_source_organism_description": [
+                "Sus scrofa"
+            ],
+            "rcsb_source_organism_id": [
+                9823
+            ],
+            "entity_poly_strand_id": "BB",
+            "entity_poly_seq_one_letter_code": "GUUAAUGUAGCUUAAAUUAUCAAAGCAAGGCACUGAAAAUGCCUAGAUGAGCCUCACAGCUCCAUAAACACCA",
+            "entity_poly_seq_one_letter_code_can": "GUUAAUGUAGCUUAAAUUAUCAAAGCAAGGCACUGAAAAUGCCUAGAUGAGCCUCACAGCUCCAUAAACACCA",
+            "entity_poly_seq_length": 73,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6GB2",
+            "rcsb_pdbx_description": "P-site fMet-tRNAMet, mitochondrial",
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "entity_poly_strand_id": "AV",
+            "entity_poly_seq_one_letter_code": "AGUAAGGUCAGCUAAAUAAGCUAUCGGGCCCAUACCCCGAAAAUGUUGGUUAUACCCUUCCCGUACUACCA",
+            "entity_poly_seq_one_letter_code_can": "AGUAAGGUCAGCUAAAUAAGCUAUCGGGCCCAUACCCCGAAAAUGUUGGUUAUACCCUUCCCGUACUACCA",
+            "entity_poly_seq_length": 71,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "GUANOSINE-5'-MONOPHOSPHATE",
+            "formula_weight": 0.363,
+            "chemicalId": "5GP",
+            "chemicalName": "GUANOSINE-5'-MONOPHOSPHATE",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "SPERMINE",
+            "formula_weight": 0.202,
+            "chemicalId": "SPM",
+            "chemicalName": "SPERMINE",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "5'-GUANOSINE-DIPHOSPHATE-MONOTHIOPHOSPHATE",
+            "formula_weight": 0.539,
+            "chemicalId": "GSP",
+            "chemicalName": "5'-GUANOSINE-DIPHOSPHATE-MONOTHIOPHOSPHATE",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "SODIUM ION",
+            "formula_weight": 0.023,
+            "chemicalId": "NA",
+            "chemicalName": "SODIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "N-FORMYLMETHIONINE",
+            "formula_weight": 0.177,
+            "chemicalId": "FME",
+            "chemicalName": "N-FORMYLMETHIONINE",
+            "cif_residueId": "none"
+        }
+    ]
+}

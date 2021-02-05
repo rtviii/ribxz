@@ -3,9 +3,9 @@
 
 ```typescript
 export interface Ligand {
-  name: string;
-  chemicalId: string;
-  neighbors: Array<string>;
+  name         : string;
+  chemicalId   : string;
+  neighbors    : Array<string>;
   cif_residueId: number;
 }
 ```

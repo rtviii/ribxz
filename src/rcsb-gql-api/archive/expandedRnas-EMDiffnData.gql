@@ -1,4 +1,5 @@
 entry(entry_id: "3j9m") {
+    # Fields relevant to the structure itself.
     rcsb_id
     rcsb_entry_info {
       resolution_combined
@@ -11,6 +12,7 @@ entry(entry_id: "3j9m") {
     exptl {
       method
     }
+    # Either diffraction source or 3d-em is present(depending on resolution method)
     diffrn_source {
       details
       pdbx_synchrotron_beamline
@@ -42,6 +44,7 @@ entry(entry_id: "3j9m") {
       pdbx_keywords
       text
     }
+    # Proteins and rna : polymer entites
     polymer_entities {
       entry {
         rcsb_id
@@ -61,6 +64,7 @@ entry(entry_id: "3j9m") {
       rcsb_polymer_entity {
         pdbx_description
       }
+      # rnas and proteins are differentited here by the  _rcsb_entity_polymer_type_ field
       entity_poly {
         pdbx_seq_one_letter_code
         pdbx_seq_one_letter_code_can
@@ -70,6 +74,7 @@ entry(entry_id: "3j9m") {
         type
       }
     }
+    # Ligands and smaller molecules
     nonpolymer_entities {
       pdbx_entity_nonpoly {
         comp_id

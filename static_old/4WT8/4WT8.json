@@ -1,0 +1,1973 @@
+{
+    "rcsb_id": "4WT8",
+    "expMethod": "X-RAY DIFFRACTION",
+    "resolution": 3.4,
+    "rcsb_external_ref_id": [
+        "4WT8"
+    ],
+    "rcsb_external_ref_type": [
+        "NDB"
+    ],
+    "rcsb_external_ref_link": [
+        "http://ndbserver.rutgers.edu/service/ndb/atlas/summary?searchTarget=4WT8"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": null,
+    "cryoem_exp_resolution": null,
+    "cryoem_exp_num_particles": null,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": "I04",
+    "diffrn_source_pdbx_synchrotron_site": "Diamond",
+    "diffrn_source_pdbx_wavelength": "",
+    "diffrn_source_pdbx_wavelength_list": "0.9795",
+    "diffrn_source_source": "SYNCHROTRON",
+    "diffrn_source_type": "DIAMOND BEAMLINE I04",
+    "citation_year": 2015,
+    "citation_rcsb_authors": [
+        "Amunts, A.",
+        "Fiedorczuk, K.",
+        "Truong, T.T.",
+        "Chandler, J.",
+        "Peter Greenberg, E.",
+        "Ramakrishnan, V."
+    ],
+    "citation_title": "Bactobolin A Binds to a Site on the 70S Ribosome Distinct from Previously Seen Antibiotics.",
+    "citation_pdbx_doi": "10.1016/j.jmb.2014.12.018",
+    "pdbx_keywords_text": "ribosome",
+    "_organismId": [
+        300852
+    ],
+    "_organismName": [
+        "Thermus thermophilus"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80371"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S2",
+            "entity_poly_strand_id": "AA,BA",
+            "entity_poly_seq_one_letter_code": "VKELLEAGVHFGHERKRWNPKFARYIYAERNGIHIIDLQKTMEELERTFRFIEDLAMRGGTILFVGTKKQAQDIVRMEAERAGMPYVNQRWLGGMLTNFKTISQRVHRLEELEALFASPEIEERPKKEQVRLKHELERLQKYLSGFRLLKRLPDAIFVVDPTKEAIAVREARKLFIPVIALADTDSDPDLVDYIIPGNDDAIRSIQLILSRAVDLIIQARGGVVEPSPSYALVQ",
+            "entity_poly_seq_one_letter_code_can": "VKELLEAGVHFGHERKRWNPKFARYIYAERNGIHIIDLQKTMEELERTFRFIEDLAMRGGTILFVGTKKQAQDIVRMEAERAGMPYVNQRWLGGMLTNFKTISQRVHRLEELEALFASPEIEERPKKEQVRLKHELERLQKYLSGFRLLKRLPDAIFVVDPTKEAIAVREARKLFIPVIALADTDSDPDLVDYIIPGNDDAIRSIQLILSRAVDLIIQARGGVVEPSPSYALVQ",
+            "entity_poly_seq_length": 234,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80372"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "AC",
+            "entity_poly_seq_one_letter_code": "MGNKIHPIGFRLGITRDWESRWYAGKKQYRHLLLEDQRIRGLLEKELYSAGLARVDIERAADNVAVTVHVAKPGVVIGRGGERIRVLREELAKLTGKNVALNVQEVQNPNLSAPLVAQRVAEQIERRFAVRRAIKQAVQRVMESGAKGAKVIVSGRIGGAEQARTEWAAQGRVPLHTLRANIDYGFALARTTYGVLGVKAYIFLGEVIGGQKPKARPELPKAEERPRRRRPAVRVKKE",
+            "entity_poly_seq_one_letter_code_can": "MGNKIHPIGFRLGITRDWESRWYAGKKQYRHLLLEDQRIRGLLEKELYSAGLARVDIERAADNVAVTVHVAKPGVVIGRGGERIRVLREELAKLTGKNVALNVQEVQNPNLSAPLVAQRVAEQIERRFAVRRAIKQAVQRVMESGAKGAKVIVSGRIGGAEQARTEWAAQGRVPLHTLRANIDYGFALARTTYGVLGVKAYIFLGEVIGGQKPKARPELPKAEERPRRRRPAVRVKKE",
+            "entity_poly_seq_length": 238,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80373"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S4",
+            "entity_poly_strand_id": "AD,BD",
+            "entity_poly_seq_one_letter_code": "GRYIGPVCRLCRREGVKLYLKGERCYSPKCAMERRPYPPGQHGQKRARRPSDYAVRLREKQKLRRIYGISERQFRNLFEEASKKKGVTGSVFLGLLESRLDNVVYRLGFAVSRRQARQLVRHGHITVNGRRVDLPSYRVRPGDEIAVAEKSRNLELIRQNLEAMKGRKVGPWLSLDVEGMKGKFLRLPDREDLALPVNEQLVIEFYSR",
+            "entity_poly_seq_one_letter_code_can": "GRYIGPVCRLCRREGVKLYLKGERCYSPKCAMERRPYPPGQHGQKRARRPSDYAVRLREKQKLRRIYGISERQFRNLFEEASKKKGVTGSVFLGLLESRLDNVVYRLGFAVSRRQARQLVRHGHITVNGRRVDLPSYRVRPGDEIAVAEKSRNLELIRQNLEAMKGRKVGPWLSLDVEGMKGKFLRLPDREDLALPVNEQLVIEFYSR",
+            "entity_poly_seq_length": 208,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHQ5"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S5",
+            "entity_poly_strand_id": "AE,BE",
+            "entity_poly_seq_one_letter_code": "DFEEKMILIRRTARMQAGGRRFRFGALVVVGDRQGRVGLGFGKAPEVPLAVQKAGYYARRNMVEVPLQNGTIPHEIEVEFGASKIVLKPAAPGTGVIAGAVPRAILELAGVTDILTKELGSRNPINIAYATMEALRQLRTKADVERLRKG",
+            "entity_poly_seq_one_letter_code_can": "DFEEKMILIRRTARMQAGGRRFRFGALVVVGDRQGRVGLGFGKAPEVPLAVQKAGYYARRNMVEVPLQNGTIPHEIEVEFGASKIVLKPAAPGTGVIAGAVPRAILELAGVTDILTKELGSRNPINIAYATMEALRQLRTKADVERLRKG",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SLP8"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S6",
+            "entity_poly_strand_id": "AF,BF",
+            "entity_poly_seq_one_letter_code": "MRRYEVNIVLNPNLDQSQLALEKEIIQRALENYGARVEKVEELGLRRLAYPIAKDPQGYFLWYQVEMPEDRVNDLARELRIRDNVRRVMVVKSQEPFLANA",
+            "entity_poly_seq_one_letter_code_can": "MRRYEVNIVLNPNLDQSQLALEKEIIQRALENYGARVEKVEELGLRRLAYPIAKDPQGYFLWYQVEMPEDRVNDLARELRIRDNVRRVMVVKSQEPFLANA",
+            "entity_poly_seq_length": 101,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P17291"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S7",
+            "entity_poly_strand_id": "AG,BG",
+            "entity_poly_seq_one_letter_code": "ARRRRAEVRQLQPDLVYGDVLVTAFINKIMRDGKKNLAARIFYDACKIIQEKTGQEPLKVFKQAVENVKPRMEVRSRRVGGANYQVPMEVSPRRQQSLALRWLVQAANQRPERRAAVRIAHELMDAAEGKGGAVKKKEDVERMAEANRAYAHYRW",
+            "entity_poly_seq_one_letter_code_can": "ARRRRAEVRQLQPDLVYGDVLVTAFINKIMRDGKKNLAARIFYDACKIIQEKTGQEPLKVFKQAVENVKPRMEVRSRRVGGANYQVPMEVSPRRQQSLALRWLVQAANQRPERRAAVRIAHELMDAAEGKGGAVKKKEDVERMAEANRAYAHYRW",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P0DOY9"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S8",
+            "entity_poly_strand_id": "AH,BH",
+            "entity_poly_seq_one_letter_code": "MLTDPIADMLTRIRNATRVYKESTDVPASRFKEEILRILAREGFIKGYERVDVDGKPYLRVYLKYGPRRQGPDPRPEQVIHHIRRISKPGRRVYVGVKEIPRVRRGLGIAILSTSKGVLTDREARKLGVGGELICEVW",
+            "entity_poly_seq_one_letter_code_can": "MLTDPIADMLTRIRNATRVYKESTDVPASRFKEEILRILAREGFIKGYERVDVDGKPYLRVYLKYGPRRQGPDPRPEQVIHHIRRISKPGRRVYVGVKEIPRVRRGLGIAILSTSKGVLTDREARKLGVGGELICEVW",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80374"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S9",
+            "entity_poly_strand_id": "AI,BI",
+            "entity_poly_seq_one_letter_code": "EQYYGTGRRKEAVARVFLRPGNGKVTVNGQDFNEYFQGLVRAVAALEPLRAVDALGRFDAYITVRGGGKSGQIDAIKLGIARALVQYNPDYRAKLKPLGFLTRDARVVERKKYGKHKARRAPQYSKR",
+            "entity_poly_seq_one_letter_code_can": "EQYYGTGRRKEAVARVFLRPGNGKVTVNGQDFNEYFQGLVRAVAALEPLRAVDALGRFDAYITVRGGGKSGQIDAIKLGIARALVQYNPDYRAKLKPLGFLTRDARVVERKKYGKHKARRAPQYSKR",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHN7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S10",
+            "entity_poly_strand_id": "AJ,BJ",
+            "entity_poly_seq_one_letter_code": "KIRIKLRGFDHKTLDASAQKIVEAARRSGAQVSGPIPLPTRVRRFTVIRGPFKHKDSREHFELRTHNRLVDIINPNRKTIEQLMTLDLPTGVEIEIKT",
+            "entity_poly_seq_one_letter_code_can": "KIRIKLRGFDHKTLDASAQKIVEAARRSGAQVSGPIPLPTRVRRFTVIRGPFKHKDSREHFELRTHNRLVDIINPNRKTIEQLMTLDLPTGVEIEIKT",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80376"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S11",
+            "entity_poly_strand_id": "AK,BK",
+            "entity_poly_seq_one_letter_code": "KRQVASGRAYIHASYNNTIVTITDPDGNPITWSSGGVIGYKGSRKGTPYAAQLAALDAAKKAMAYGMQSVDVIVRGTGAGREQAIRALQASGLQVKSIVDDTPVPHNGCRPKKKFRKAS",
+            "entity_poly_seq_one_letter_code_can": "KRQVASGRAYIHASYNNTIVTITDPDGNPITWSSGGVIGYKGSRKGTPYAAQLAALDAAKKAMAYGMQSVDVIVRGTGAGREQAIRALQASGLQVKSIVDDTPVPHNGCRPKKKFRKAS",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHN3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S12",
+            "entity_poly_strand_id": "AL,BL",
+            "entity_poly_seq_one_letter_code": "PTINQLVRKGREKVRKKSKVPALKGAPFRRGVCTVVRTVTPKKPNSALRKVAKVRLTSGYEVTAYIPGEGHNLQEHSVVLIRGGRVKDLPGVRYHIVRGVYDAAGVKDRKKSRSKYGTKKPKEA",
+            "entity_poly_seq_one_letter_code_can": "PTINQLVRKGREKVRKKSKVPALKGAPFRRGVCTVVRTVTPKKPNSALRKVAKVRLTSGYEVTAYIPGEGHNLQEHSVVLIRGGRVKDLPGVRYHIVRGVYDAAGVKDRKKSRSKYGTKKPKEA",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80377"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S13",
+            "entity_poly_strand_id": "AM,BM",
+            "entity_poly_seq_one_letter_code": "ARIAGVEIPRNKRVDVALTYIYGIGKARAKEALEKTGINPATRVKDLTEAEVVRLREYVENTWKLEGELRAEVAANIKRLMDIGCYRGLRHRRGLPVRGQRTRTNARTRKGPRKTVAGKKKAPR",
+            "entity_poly_seq_one_letter_code_can": "ARIAGVEIPRNKRVDVALTYIYGIGKARAKEALEKTGINPATRVKDLTEAEVVRLREYVENTWKLEGELRAEVAANIKRLMDIGCYRGLRHRRGLPVRGQRTRTNARTRKGPRKTVAGKKKAPR",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P0DOY6"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S14 type Z",
+            "entity_poly_strand_id": "AN,BN",
+            "entity_poly_seq_one_letter_code": "ARKALIEKAKRTPKFKVRAYTRCVRCGRARSVYRFFGLCRICLRELAHKGQLPGVRKASW",
+            "entity_poly_seq_one_letter_code_can": "ARKALIEKAKRTPKFKVRAYTRCVRCGRARSVYRFFGLCRICLRELAHKGQLPGVRKASW",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SJ76"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S15",
+            "entity_poly_strand_id": "AO,BO",
+            "entity_poly_seq_one_letter_code": "PITKEEKQKVIQEFARFPGDTGSTEVQVALLTLRINRLSEHLKVHKKDHHSHRGLLMMVGQRRRLLRYLQREDPERYRALIEKLGIRG",
+            "entity_poly_seq_one_letter_code_can": "PITKEEKQKVIQEFARFPGDTGSTEVQVALLTLRINRLSEHLKVHKKDHHSHRGLLMMVGQRRRLLRYLQREDPERYRALIEKLGIRG",
+            "entity_poly_seq_length": 88,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SJH3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S16",
+            "entity_poly_strand_id": "AP,BP",
+            "entity_poly_seq_one_letter_code": "MVKIRLARFGSKHNPHYRIVVTDARRKRDGKYIEKIGYYDPRKTTPDWLKVDVERARYWLSVGAQPTDTARRLLRQAGVFRQE",
+            "entity_poly_seq_one_letter_code_can": "MVKIRLARFGSKHNPHYRIVVTDARRKRDGKYIEKIGYYDPRKTTPDWLKVDVERARYWLSVGAQPTDTARRLLRQAGVFRQE",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P0DOY7"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S17",
+            "entity_poly_strand_id": "AR,BR",
+            "entity_poly_seq_one_letter_code": "PKKVLTGVVVSDKMQKTVTVLVERQFPHPLYGKVIKRSKKYLAHDPEEKYKLGDVVEIIESRPISKRKRFRVLRLVESGRMDLVEKYLIRRQNYESLSK",
+            "entity_poly_seq_one_letter_code_can": "PKKVLTGVVVSDKMQKTVTVLVERQFPHPLYGKVIKRSKKYLAHDPEEKYKLGDVVEIIESRPISKRKRFRVLRLVESGRMDLVEKYLIRRQNYESLSK",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SLQ0"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S18",
+            "entity_poly_strand_id": "AS,BS",
+            "entity_poly_seq_one_letter_code": "KAKVKATLGEFDLRDYRNVEVLKRFLSETGKILPRRRTGLSAKEQRILAKTIKRARILGLLPFTEKLVRK",
+            "entity_poly_seq_one_letter_code_can": "KAKVKATLGEFDLRDYRNVEVLKRFLSETGKILPRRRTGLSAKEQRILAKTIKRARILGLLPFTEKLVRK",
+            "entity_poly_seq_length": 70,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S19"
+            ],
+            "pfam_accessions": [
+                "PF00203"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP2"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S19",
+            "entity_poly_strand_id": "AT,BT",
+            "entity_poly_seq_one_letter_code": "SLKKGVFVDDHLLEKVLELNAKGEKRLIKTWSRRSTIVPEMVGHTIAVYNGKQHVPVYITENMVGHKLGEFAPTRTYR",
+            "entity_poly_seq_one_letter_code_can": "SLKKGVFVDDHLLEKVLELNAKGEKRLIKTWSRRSTIVPEMVGHTIAVYNGKQHVPVYITENMVGHKLGEFAPTRTYR",
+            "entity_poly_seq_length": 78,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "Bacterial ribosomal protein S20 interacts with 16S rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S20"
+            ],
+            "pfam_accessions": [
+                "PF01649"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80380"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S20",
+            "entity_poly_strand_id": "AU,BU",
+            "entity_poly_seq_one_letter_code": "RNLSALKRHRQSLKRRLRNKAKKSAIKTLSKKAIQLAQEGKAEEALKIMRKAESLIDKAAKGSTLHKNAAARRKSRLMRKVRQLLEAAGAPLIGGGLSA",
+            "entity_poly_seq_one_letter_code_can": "RNLSALKRHRQSLKRRLRNKAKKSAIKTLSKKAIQLAQEGKAEEALKIMRKAESLIDKAAKGSTLHKNAAARRKSRLMRKVRQLLEAAGAPLIGGGLSA",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "Thx forms part of the 30S ribosomal subunit. It fits into a cavity between multiple RNA elements in the top of the 30S subunit head and stabilises the organisation of these elements [1]."
+            ],
+            "pfam_descriptions": [
+                "30S ribosomal protein Thx"
+            ],
+            "pfam_accessions": [
+                "PF17070"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SIH3"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein Thx",
+            "entity_poly_strand_id": "AW,BW",
+            "entity_poly_seq_one_letter_code": "GKGDRRTRRGKIWRGTYGKYRPRK",
+            "entity_poly_seq_one_letter_code_can": "GKGDRRTRRGKIWRGTYGKYRPRK",
+            "entity_poly_seq_length": 24,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bTHX"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL",
+                "This family contains a central domain Pfam:PF00013, hence the amino and carboxyl terminal domains are stored separately. This is a minimal carboxyl-terminal domain.      Some are much longer."
+            ],
+            "pfam_descriptions": [
+                "KH domain",
+                "Ribosomal protein S3, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF07650",
+                "PF00189"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80372"
+            ],
+            "rcsb_pdbx_description": "30S ribosomal protein S3",
+            "entity_poly_strand_id": "BC",
+            "entity_poly_seq_one_letter_code": "GNKIHPIGFRLGITRDWESRWYAGKKQYRHLLLEDQRIRGLLEKELYSAGLARVDIERAADNVAVTVHVAKPGVVIGRGGERIRVLREELAKLTGKNVALNVQEVQNPNLSAPLVAQRVAEQIERRFAVRRAIKQAVQRVMESGAKGAKVIVSGRIGGAEQARTEWAAQGRVPLHTLRANIDYGFALARTTYGVLGVKAYIFLGEV",
+            "entity_poly_seq_one_letter_code_can": "GNKIHPIGFRLGITRDWESRWYAGKKQYRHLLLEDQRIRGLLEKELYSAGLARVDIERAADNVAVTVHVAKPGVVIGRGGERIRVLREELAKLTGKNVALNVQEVQNPNLSAPLVAQRVAEQIERRFAVRRAIKQAVQRVMESGAKGAKVIVSGRIGGAEQARTEWAAQGRVPLHTLRANIDYGFALARTTYGVLGVKAYIFLGEV",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes prokaryotic L1 and eukaryotic L10."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L1p/L10e family"
+            ],
+            "pfam_accessions": [
+                "PF00687"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SLP7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L1",
+            "entity_poly_strand_id": "CA",
+            "entity_poly_seq_one_letter_code": "KVYTIDEAARLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGLGKQVRVLAIAKGEKIKEAEEAGADYVGGEEIIQKILDAWMDF(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "KVYTIDEAARLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGLGKQVRVLAIAKGEKIKEAEEAGADYVGGEEIIQKILDAWMDFXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60405"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "CB,DB",
+            "entity_poly_seq_one_letter_code": "AVKKFKPYTPSRRFMTVADFSEITKTEPEKSLVKPLKKTGGRNNQGRITVRFRGGGHKRLYRIIDFKRWDKVGIPAKVAAIEYDPNRSARIALLHYVDGEKRYIIAPDGLQVGQQVVAGPDAPIQVGNALPLRFIPVGTVVHAVELEPKKGAKLARAAGTSAQIQGREGDYVILRLPSGELRKVHGECYATVGAVGNADHKNIVLGKAGRSRWLGRRPHVRGAAMNPVDHPHGGGEGRAPRGRPPASPWGWQTKGLKTRKRRKPSSRFIIA",
+            "entity_poly_seq_one_letter_code_can": "AVKKFKPYTPSRRFMTVADFSEITKTEPEKSLVKPLKKTGGRNNQGRITVRFRGGGHKRLYRIIDFKRWDKVGIPAKVAAIEYDPNRSARIALLHYVDGEKRYIIAPDGLQVGQQVVAGPDAPIQVGNALPLRFIPVGTVVHAVELEPKKGAKLARAAGTSAQIQGREGDYVILRLPSGELRKVHGECYATVGAVGNADHKNIVLGKAGRSRWLGRRPHVRGAAMNPVDHPHGGGEGRAPRGRPPASPWGWQTKGLKTRKRRKPSSRFIIA",
+            "entity_poly_seq_length": 271,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHN8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "CC,DC",
+            "entity_poly_seq_one_letter_code": "MKGILGVKVGMTRIFRDDRAVPVTVILAGPCPVVQRRTPEKDGYTAVQLGFLPQNPKRVNRPLKGHFAKAGVEPVRILREIRDFNPEGDTVTVEIFKPGERVDVTGTSKGRGFAGVMKRWNFAGGPDSHGAHKIHRHPGSIGNRKTPGRVYKGKKMAGHYGAERVTVMNLEVVDVIPEENLLLVKGAVPGPNGGLVIVRETKKA",
+            "entity_poly_seq_one_letter_code_can": "MKGILGVKVGMTRIFRDDRAVPVTVILAGPCPVVQRRTPEKDGYTAVQLGFLPQNPKRVNRPLKGHFAKAGVEPVRILREIRDFNPEGDTVTVEIFKPGERVDVTGTSKGRGFAGVMKRWNFAGGPDSHGAHKIHRHPGSIGNRKTPGRVYKGKKMAGHYGAERVTVMNLEVVDVIPEENLLLVKGAVPGPNGGLVIVRETKKA",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHN9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "CD,DD",
+            "entity_poly_seq_one_letter_code": "MKEVAVYQIPVLSPSGRRELAADLPAEINPHLLWEVVRWQLAKRRRGTASTKTRGEVAYSGRKIWPQKHTGRARHGDIGAPIFVGGGVVFGPKPRDYSYTLPKKVRKKGLAMAVADRAREGKLLLVEAFAGVNGKTKEFLAWAKEAGLDGSESVLLVTGNELVRRAARNLPWVVTLAPEGLNVYDIVRTERLVMDLDAWEVFQNRIG",
+            "entity_poly_seq_one_letter_code_can": "MKEVAVYQIPVLSPSGRRELAADLPAEINPHLLWEVVRWQLAKRRRGTASTKTRGEVAYSGRKIWPQKHTGRARHGDIGAPIFVGGGVVFGPKPRDYSYTLPKKVRKKGLAMAVADRAREGKLLLVEAFAGVNGKTKEFLAWAKEAGLDGSESVLLVTGNELVRRAARNLPWVVTLAPEGLNVYDIVRTERLVMDLDAWEVFQNRIG",
+            "entity_poly_seq_length": 207,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHQ0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "CE,DE",
+            "entity_poly_seq_one_letter_code": "PLDVALKRKYYEEVRPELIRRFGYQNVWEVPRLEKVVINQGLGEAKEDARILEKAAQELALITGQKPAVTRAKKSISNFKLRKGMPIGLRVTLRRDRMWIFLEKLLNVALPRIRDFRGLNPNSFDGRGNYNLGLREQLIFPEITYDMVDALRGMDIAVVTTAETDEEARALLELLGFPFRK",
+            "entity_poly_seq_one_letter_code_can": "PLDVALKRKYYEEVRPELIRRFGYQNVWEVPRLEKVVINQGLGEAKEDARILEKAAQELALITGQKPAVTRAKKSISNFKLRKGMPIGLRVTLRRDRMWIFLEKLLNVALPRIRDFRGLNPNSFDGRGNYNLGLREQLIFPEITYDMVDALRGMDIAVVTTAETDEEARALLELLGFPFRK",
+            "entity_poly_seq_length": 181,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P0DOY8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "CF,DF",
+            "entity_poly_seq_one_letter_code": "PKGVSVEVAPGRVKVKGPKGELEVPVSPEMRVVVEEGVVRVERPSDERRHKSLHGLTRTLIANAVKGVSEGYSKELLIKGIGYRARLVGRALELTVGFSHPVVVEPPEGITFEVPEPTRVRVSGIDKQKVGQVAANIRAIRKPSAYHEKGIYYAGEPVR",
+            "entity_poly_seq_one_letter_code_can": "PKGVSVEVAPGRVKVKGPKGELEVPVSPEMRVVVEEGVVRVERPSDERRHKSLHGLTRTLIANAVKGVSEGYSKELLIKGIGYRARLVGRALELTVGFSHPVVVEPPEGITFEVPEPTRVRVSGIDKQKVGQVAANIRAIRKPSAYHEKGIYYAGEPVR",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L9, N-terminal domain",
+                "Ribosomal protein L9, C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF01281",
+                "PF03948"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SLQ1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L9",
+            "entity_poly_strand_id": "CI,DI",
+            "entity_poly_seq_one_letter_code": "MKVILLEPLENLGDVGQVVDVKPGYARNYLLPRGLAVLATESNLKALEARIRAQAKRLAERKAEAERLKEILENLTLTIPVRAGETKIYGSVTAKDIAEALSRQHGVTIDPKRLALEKPIKELGEYVLTYKPHPEVPIQLKVSVV",
+            "entity_poly_seq_one_letter_code_can": "MKVILLEPLENLGDVGQVVDVKPGYARNYLLPRGLAVLATESNLKALEARIRAQAKRLAERKAEAERLKEILENLTLTIPVRAGETKIYGSVTAKDIAEALSRQHGVTIDPKRLALEKPIKELGEYVLTYKPHPEVPIQLKVSVV",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal L10 protein",
+            "entity_poly_strand_id": "CJ,DJ",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60488"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "CM,DM",
+            "entity_poly_seq_one_letter_code": "MKTYVPKQVEPRWVLIDAEGKTLGRLATKIATLLRGKHRPDWTPNVAMGDFVVVVNADKIRVTGKKLEQKIYTRYSGYPGGLKKIPLEKMLATHPERVLEHAVKGMLPKGPLGRRLFKRLKVYAGPDHPHQAQRPEKL",
+            "entity_poly_seq_one_letter_code_can": "MKTYVPKQVEPRWVLIDAEGKTLGRLATKIATLLRGKHRPDWTPNVAMGDFVVVVNADKIRVTGKKLEQKIYTRYSGYPGGLKKIPLEKMLATHPERVLEHAVKGMLPKGPLGRRLFKRLKVYAGPDHPHQAQRPEKL",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "CN,DN",
+            "entity_poly_seq_one_letter_code": "MIQPQTYLEVADNTGARKIMCIRVLKGSNAKYATVGDVIVASVKEAIPRGAVKEGDVVKAVVVRTKKEIKRPDGSAIRFDDNAAVIINNQLEPRGTRVFGPVARELREKGFMKIVSLAPEVL",
+            "entity_poly_seq_one_letter_code_can": "MIQPQTYLEVADNTGARKIMCIRVLKGSNAKYATVGDVIVASVKEAIPRGAVKEGDVVKAVVVRTKKEIKRPDGSAIRFDDNAAVIINNQLEPRGTRVFGPVARELREKGFMKIVSLAPEVL",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHQ7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "CO,DO",
+            "entity_poly_seq_one_letter_code": "DLRPNPGANKRRKRVGRGPGSGHGKTATRGHKGQKSRSGGLKDPRRFEGGRSTTLMRLPKRGMQGQVPGEIKRPRYQGVNLKDLARFEGEVTPELLVRAGLLKKGYRLKILGEGEAKPLKVVAHAFSKSALEKLKAAGGEPVLLEA",
+            "entity_poly_seq_one_letter_code_can": "DLRPNPGANKRRKRVGRGPGSGHGKTATRGHKGQKSRSGGLKDPRRFEGGRSTTLMRLPKRGMQGQVPGEIKRPRYQGVNLKDLARFEGEVTPELLVRAGLLKKGYRLKILGEGEAKPLKVVAHAFSKSALEKLKAAGGEPVLLEA",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60489"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "CP,DP",
+            "entity_poly_seq_one_letter_code": "MLMPRRMKYRKQQRGRLKGATKGGDYVAFGDYGLVALEPAWITAQQIEAARVAMVRHFRRGGKIFIRIFPDKPYTKKPLEVRMGKGKGNVEGYVAVVKPGRVMFEVAGVTEEQAMEALRIAGHKLPIKTKIVRRDAYDEAQ",
+            "entity_poly_seq_one_letter_code_can": "MLMPRRMKYRKQQRGRLKGATKGGDYVAFGDYGLVALEPAWITAQQIEAARVAMVRHFRRGGKIFIRIFPDKPYTKKPLEVRMGKGKGNVEGYVAVVKPGRVMFEVAGVTEEQAMEALRIAGHKLPIKTKIVRRDAYDEAQ",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q9Z9H5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "CQ,DQ",
+            "entity_poly_seq_one_letter_code": "RHLKSGRKLNRHSSHRLALYRNQAKSLLTHGRITTTVPKAKELRGFVDHLIHLAKRGDLHARRLVLRDLQDVKLVRKLFDEIAPRYRDRQGGYTRVLKLAERRRGDGAPLALVELVE",
+            "entity_poly_seq_one_letter_code_can": "RHLKSGRKLNRHSSHRLALYRNQAKSLLTHGRITTTVPKAKELRGFVDHLIHLAKRGDLHARRLVLRDLQDVKLVRKLFDEIAPRYRDRQGGYTRVLKLAERRRGDGAPLALVELVE",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHQ4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "CR,DR",
+            "entity_poly_seq_one_letter_code": "KFRVRNRIKRTGRLRLSVFRSLKHIYAQIIDDEKGVTLVSASSLALKLKGNKTEVARQVGRALAEKALALGIKQVAFDRGPYKYHGRVKALAEGAREG",
+            "entity_poly_seq_one_letter_code_can": "KFRVRNRIKRTGRLRLSVFRSLKHIYAQIIDDEKGVTLVSASSLALKLKGNKTEVARQVGRALAEKALALGIKQVAFDRGPYKYHGRVKALAEGAREG",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60490"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "CS,DS",
+            "entity_poly_seq_one_letter_code": "MNRGALIKLVESRYVRTDLPEFRPGDTVRVSYKVKEGNRTRIQDFEGIVIRIRRNGFNTTFTVRKVSYGVGVERIFPLHSPLIQKIDIVQRGRARRAKLYFIRNLSDREIRRKLRADRKRIDQDRAAERAAKEEAQK",
+            "entity_poly_seq_one_letter_code_can": "MNRGALIKLVESRYVRTDLPEFRPGDTVRVSYKVKEGNRTRIQDFEGIVIRIRRNGFNTTFTVRKVSYGVGVERIFPLHSPLIQKIDIVQRGRARRAKLYFIRNLSDREIRRKLRADRKRIDQDRAAERAAKEEAQK",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60491"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "CT,DT",
+            "entity_poly_seq_one_letter_code": "PRAKTGVVRRRKHKKILKLAKGYWGLRSKSARKARETLFAAGNYAYAHRKRRKRDFRRLWIVRINAACRQHGLNYSTFIHGLKKAGIEVDRKNLADLAVREPQVFAELVERAKAAQG",
+            "entity_poly_seq_one_letter_code_can": "PRAKTGVVRRRKHKKILKLAKGYWGLRSKSARKARETLFAAGNYAYAHRKRRKRDFRRLWIVRINAACRQHGLNYSTFIHGLKKAGIEVDRKNLADLAVREPQVFAELVERAKAAQG",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60492"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "CU,DU",
+            "entity_poly_seq_one_letter_code": "MFAIVKTGGKQYRVEPGLKLRVEKLDAEPGATVELPVLLLGGEKTVVGTPVVEGASVVAEVLGHGRGKKILVSKFKAKVQYRRKKGHRQPYTELLIKEIRG",
+            "entity_poly_seq_one_letter_code_can": "MFAIVKTGGKQYRVEPGLKLRVEKLDAEPGATVELPVLLLGGEKTVVGTPVVEGASVVAEVLGHGRGKKILVSKFKAKVQYRRKKGHRQPYTELLIKEIRG",
+            "entity_poly_seq_length": 101,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "CW",
+            "entity_poly_seq_one_letter_code": "MEAKAIARYVRISPRKVRLVVDLIRGKSLEEARNILRYTNKRGAYFVAKVLESAAANAVNNHDMLEDRLYVKAAYVDEGPALKRVLPRARGRADIIKKRTSHITVILGEKHGK",
+            "entity_poly_seq_one_letter_code_can": "MEAKAIARYVRISPRKVRLVVDLIRGKSLEEARNILRYTNKRGAYFVAKVLESAAANAVNNHDMLEDRLYVKAAYVDEGPALKRVLPRARGRADIIKKRTSHITVILGEKHGK",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "CX,DX",
+            "entity_poly_seq_one_letter_code": "TAYDVILAPVLSEKAYAGFAEGKYTFWVHPKATKTEIKNAVETAFKVKVVKVNTLHVRGKKKRLGRYLGKRPDRKKAIVQVAPGQKIEALEG",
+            "entity_poly_seq_one_letter_code_can": "TAYDVILAPVLSEKAYAGFAEGKYTFWVHPKATKTEIKNAVETAFKVKVVKVNTLHVRGKKKRLGRYLGKRPDRKKAIVQVAPGQKIEALEG",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "CY,DY",
+            "entity_poly_seq_one_letter_code": "RVKMHVKKGDTVLVASGKYKGRVGKVKEVLPKKYAVIVEGVNIVKKAVRVSPKYPQGGFIEKEAPLHASKVRPICPACGKPTRVRKKFLENGKKIRVCAK",
+            "entity_poly_seq_one_letter_code_can": "RVKMHVKKGDTVLVASGKYKGRVGKVKEVLPKKYAVIVEGVNIVKKAVRVSPKYPQGGFIEKEAPLHASKVRPICPACGKPTRVRKKFLENGKKIRVCAK",
+            "entity_poly_seq_length": 100,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family contains the C-terminal domain of ribosomal protein TL5. The N-terminal domain, which binds to 5S rRNA, is contained in family Ribosomal_L25p, Pfam:PF01386. Full length (N- and C-terminal domain) homologues of TL5 are also known as CTC proteins. TL5 or CTC are not found in Eukarya or Archaea. In some Bacteria, including E. coli, this ribosomal subunit occurs as a single domain protein (named Ribosomal subunit L25), where the only domain is homologous to TL5 N-terminal domain (hence included in family Pfam:PF01386). The function of the C-terminal domain of TLC is at present unknown.",
+                "Ribosomal protein L25 is an RNA binding protein, that binds 5S rRNA. This family includes Ctc from B. subtilis Swiss:P14194, which is induced by stress."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein TL5, C-terminal domain",
+                "Ribosomal L25p family"
+            ],
+            "pfam_accessions": [
+                "PF14693",
+                "PF01386"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHZ1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L25",
+            "entity_poly_strand_id": "CZ,DZ",
+            "entity_poly_seq_one_letter_code": "YRLKAYYREGEKPSALRRAGKLPGVMYNRHLNRKVYVDLVEFDKVFRQASIHHVIVLELPDGQSLPTLVRQVNLDKRRRRPEHVDFFVLSDEPVEMYVPLRFVGTPAGVRAGGVLQEIHRDILVKVSPRNIPEFIEVDVSGLEIGDSLHASDLKLPPGVELAVSPEETIAAVVPPE",
+            "entity_poly_seq_one_letter_code_can": "YRLKAYYREGEKPSALRRAGKLPGVMYNRHLNRKVYVDLVEFDKVFRQASIHHVIVLELPDGQSLPTLVRQVNLDKRRRRPEHVDFFVLSDEPVEMYVPLRFVGTPAGVRAGGVLQEIHRDILVKVSPRNIPEFIEVDVSGLEIGDSLHASDLKLPPGVELAVSPEETIAAVVPPE",
+            "entity_poly_seq_length": 176,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60493"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "Ca,Da",
+            "entity_poly_seq_one_letter_code": "AHKKGLGSTRNGRDSQAKRLGVKRYEGQVVRAGNILVRQRGTRFKPGKNVGMGRDFTLFALVDGVVEFQDRGRLGRYVHVRPLA",
+            "entity_poly_seq_one_letter_code_can": "AHKKGLGSTRNGRDSQAKRLGVKRYEGQVVRAGNILVRQRGTRFKPGKNVGMGRDFTLFALVDGVVEFQDRGRLGRYVHVRPLA",
+            "entity_poly_seq_length": 84,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P60494"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "CH,DH",
+            "entity_poly_seq_one_letter_code": "KVCEISGKRPIVANSIQRRGKAKREGGVGKKTTGISKRRQYPNLQKVRVRVAGQEITFRVAASHIPKVYELVERAKGLRLEGLSPKEIKKELL",
+            "entity_poly_seq_one_letter_code_can": "KVCEISGKRPIVANSIQRRGKAKREGGVGKKTTGISKRRQYPNLQKVRVRVAGQEITFRVAASHIPKVYELVERAKGLRLEGLSPKEIKKELL",
+            "entity_poly_seq_length": 93,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "CK,DK",
+            "entity_poly_seq_one_letter_code": "KLSEVRKQLEEARKLSPVELEKLVREKKRELMELRFQASIGQLSQNHKIRDLKRQIARLLTVLNEKRRQNA",
+            "entity_poly_seq_one_letter_code_can": "KLSEVRKQLEEARKLSPVELEKLVREKKRELMELRFQASIGQLSQNHKIRDLKRQIARLLTVLNEKRRQNA",
+            "entity_poly_seq_length": 71,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHQ6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "CL,DL",
+            "entity_poly_seq_one_letter_code": "MPRLKVKLVKSPIGYPKDQKAALKALGLRRLQQERVLEDTPAIRGNVEKVAHLVRVEVV",
+            "entity_poly_seq_one_letter_code_can": "MPRLKVKLVKSPIGYPKDQKAALKALGLRRLQQERVLEDTPAIRGNVEKVAHLVRVEVV",
+            "entity_poly_seq_length": 59,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31"
+            ],
+            "pfam_accessions": [
+                "PF01197"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SJE1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L31",
+            "entity_poly_strand_id": "C5,D5",
+            "entity_poly_seq_one_letter_code": "VPARIICGCGNVIETYSTKPEIYVEVCSKC",
+            "entity_poly_seq_one_letter_code_can": "VPARIICGCGNVIETYSTKPEIYVEVCSKC",
+            "entity_poly_seq_length": 30,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80339"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "C6,D6",
+            "entity_poly_seq_one_letter_code": "AKHPVPKKKTSKARRDARRSHHALTPPTLVPCPECKAMKPPHTVCPECGYYAGRKVLEV",
+            "entity_poly_seq_one_letter_code_can": "AKHPVPKKKTSKARRDARRSHHALTPPTLVPCPECKAMKPPHTVCPECGYYAGRKVLEV",
+            "entity_poly_seq_length": 59,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P35871"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "C7,D7",
+            "entity_poly_seq_one_letter_code": "LLLECTECKRRNYATEKNKRNTPNKLELRKYCPWCRKHTVHREV",
+            "entity_poly_seq_one_letter_code_can": "LLLECTECKRRNYATEKNKRNTPNKLELRKYCPWCRKHTVHREV",
+            "entity_poly_seq_length": 44,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "P80340"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "C8,D8",
+            "entity_poly_seq_one_letter_code": "MKRTWQPNRRKRAKTHGFRARMRTPGGRKVLKRRRQKGRWRLTPAVRK",
+            "entity_poly_seq_one_letter_code_can": "MKRTWQPNRRKRAKTHGFRARMRTPGGRKVLKRRRQKGRWRLTPAVRK",
+            "entity_poly_seq_length": 48,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SKU1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "C9,D9",
+            "entity_poly_seq_one_letter_code": "PKMKTHKGAKKRVKITASGKVVAMKTGKRHLNWQKSGKEIRQKGRKFVLAKPEAERIKLLLPY",
+            "entity_poly_seq_one_letter_code_can": "PKMKTHKGAKKRVKITASGKVVAMKTGKRHLNWQKSGKEIRQKGRKFVLAKPEAERIKLLLPY",
+            "entity_poly_seq_length": 63,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHR2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36",
+            "entity_poly_strand_id": "C0,D0",
+            "entity_poly_seq_one_letter_code": "KVRASVKRICDKCKVIRRHGRVYVICENPKHKQRQG",
+            "entity_poly_seq_one_letter_code_can": "KVRASVKRICDKCKVIRRHGRVYVICENPKHKQRQG",
+            "entity_poly_seq_length": 36,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes prokaryotic L1 and eukaryotic L10."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L1p/L10e family"
+            ],
+            "pfam_accessions": [
+                "PF00687"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SLP7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L1",
+            "entity_poly_strand_id": "DA",
+            "entity_poly_seq_one_letter_code": "KVYTIDEAARLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGLGKQVRVLAIAKGEKIKEAEEAGADYVGGEEIIQKILDGWMDF(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "KVYTIDEAARLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGLGKQVRVLAIAKGEKIKEAEEAGADYVGGEEIIQKILDGWMDFXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "uniprot_accession": [
+                "Q5SHP3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "DW",
+            "entity_poly_seq_one_letter_code": "MEAKAIARYVRISPRKVRLVVDLIRGKSLEEARNILRYTNKRGAYFVAKVLESAAANAVNNHDMLEDRLYVKAAYVDEGPALKRVLPRARGRADIIKKRTSHITVILGEKHGA",
+            "entity_poly_seq_one_letter_code_can": "MEAKAIARYVRISPRKVRLVVDLIRGKSLEEARNILRYTNKRGAYFVAKVLESAAANAVNNHDMLEDRLYVKAAYVDEGPALKRVLPRARGRADIIKKRTSHITVILGEKHGA",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "mRNA",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "A2",
+            "entity_poly_seq_one_letter_code": "AAAUGUUCA",
+            "entity_poly_seq_one_letter_code_can": "AAAUGUUCA",
+            "entity_poly_seq_length": 9,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "RNA (1504-MER)",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "Ab,Bb",
+            "entity_poly_seq_one_letter_code": "UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGA",
+            "entity_poly_seq_one_letter_code_can": "UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGA",
+            "entity_poly_seq_length": 1504,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "mRNA",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "B2",
+            "entity_poly_seq_one_letter_code": "AAAAUGUUCA",
+            "entity_poly_seq_one_letter_code_can": "AAAAUGUUCA",
+            "entity_poly_seq_length": 10,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "A site tNA, E site tNA",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "C2,C3,D3",
+            "entity_poly_seq_one_letter_code": "GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA",
+            "entity_poly_seq_one_letter_code_can": "GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "P site trNA",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "C4",
+            "entity_poly_seq_one_letter_code": "CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_one_letter_code_can": "CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "23S rRNA (2899-MER)",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "C1,D1",
+            "entity_poly_seq_one_letter_code": "AGAUGGUAAGGGCCCACGGUGGAUGCCUCGGCACCCGAGCCGAUGAAGGACGUGGCUACCUGCGAUAAGCCAGGGGGAGCCGGUAGCGGGCGUGGAUCCCUGGAUGUCCGAAUGGGGGAACCCGGCCGGCGGGAACGCCGGUCACCGCGCUUGCGCGGGGGGAACCUGGGGAACUGAAACAUCUCAGUACCCAGAGGAGAGGAAAGAGAAAUCGACUCCCUGAGUAGCGGCGAGCGAAAGGGGACCAGCCUAAACCGUCCGGCUUGUCCGGGCGGGGUCGUGGGGCCCUCGGGCCCCGAAUCCCCAGCCUAGCCGAAGCUGUUGGGAAGCAGCGCCAGAGAGGGUGAAAGCCCCGUAGGCGAAAGGUGGGGGGAUAGGUGAGGGUACCCGAGUACCCCGUGGUUCGUGGAGCCAUGGGGGAAUCUGGGCGGACCACCGCCUAAGGCUAAGUACUCCGGGUGACCGAUAGCGCACCAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAUAGAGCCUGAAACCGUGGGCUUACAAGCAGUCACGGCCCCUUAAGGGGUUGUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUCACGGUCGUGGGCGAGCUUAAGCCGUUGAGGCGGAGGCGUAGGGAAACCGAGUCCGAACAGGGCGCGAAGUCUGGGCUAAGUGGGAAAGGAGUCCGCGGCCGUGGACCCGAAACCGGGCGAGCUAGCCCUGGCCAGGGUGAAGCUGGGGUGAGACCCAGUGGAGGCCCGAACCGGUGGGGGAUGCAAACCCCUCGGAUGAGCUGGGGCUAGGAGUGAAAAGCUAACCGAGCCCGGAGAUAGCUGGUUCUCCCCGAAAUGACUUUAGGGUCAGCCUCAGGCGCUGACUGGGGCCUGUAGAGCACUGAUAGGGCUAGGGGGCCCACCAGCCUACCAAACCCUGUCAAACUCCGAAGGGUCCCAGGUGGAGCCUGGGAGUGAGGGCGCGAGCGAUAACGUCCGCGUCCGAGCGCGGGAACAACCGAGACCGCCAGCUAAGGCCCCCAAGUCUGGGCUAAGUGGUAAAGGAUGUGGCGCCGCGAAGACAGCCAUCCUUUAAAGAGUGCGUAAUAGCUCACUGGUCGAGCGGUGCUGCGCCGAAAAGUCGAGUGGCGCCGCGCCGAAAAUGAUCGGGGCUUAAGCCCAGCGCCGAAGCUGCGGGUCUGGGGGAUGACCCCAGGCGGUAGGGGAGCGUUCCCGAUGCCGAUGAAGGCCGACCCGCGAGGGCGGCUGGAGGUAAGGGAAGUGCGAAUGCCGGCAUGAGUAACGAUAAAGAGGGUGAGAAUCCCUCUCGCCGUAAGCCCAAGGGUUCCUACGCAAUGGUCGUCAGCGUAGGGUUAGGCGGGACCUAAGGUGAAGCCGAAAGGCGUAGCCGAAGGGCAGCCGGUUAAUAUUCCGGCCCUUCCCGCAGGUGCGAUGGGGGGACGCUCUAGGCUAGGGGGACCGGAGCCAUGGACGAGCCCGGCCAGAAGCGCAGGGUGGGAGGUAGGCAAAUCCGCCUCCCAACAAGCUCUGCGUGGUGGGGAAGCCCGGCCAGGGAGCAACCCCCCGAAGCCAGGGAGCCAAGAAAAGCCUCUAAGCACAACCUGCGGGAACCCGUACCGCAAACCGACACAGGUGGGCGGGUGCAAGAGCACUCAGGCGCGCGGGAGAACCCUCGCCAAGGAACUCUGCAAGUUGGCCCCGUAACUUCGGGAGAAGGGGUGCUCCCUGGGGUGAUGAGCCCCGGGGAGCCGCAGUGAACAGGCUCUGGCGACUGUUUACCAAAAACACAGCUCUCUGCGAACUCGUAAGAGGAGGUAUAGGGAGCGACGCUUGCCCGGUGCCGGAAGGUCAAGGGGAGGGGUGCAAGCCCCGAACCGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAAGCGUAACGACCGGAGCGCUGUCUCGGCGAGGGACCCGGUGAAAUUGAACUGGCCGUGAAGAUGCGGCCUACCCGUGGCAGGACGAAAAGACCCCGUGGAGCUUUACUGCAGCCUGGUGUUGGCUCUUGGUCGCGCCUGCGUAGGAUAGGUGGGAGCCUGUGAACCCCCGCCUCCGGGUGGGGGGGAGGCGCCGGUGAAAUACCACCCUGGCGCGGCUGGGGGCCUAACCCUCGGAUGGGGGGACAGCGCUUGGCGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCCCAAAGGUCCCCUCAGGCGGGACGGAAAUCCGCCGGAGAGCGCAAGGGUAGAAGGGGGCCUGACUGCGAGGCCUGCAAGCCGAGCAGGGGCGAAAGCCGGGCCUAGUGAACCGGUGGUCCCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGCGUCCACAGCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCCACGGGCGCAGGAGGCUUGAGGGGGGCUCUUCCUAGUACGAGAGGACCGGAAGGGACGCACCUCUGGUUUCCCAGCUGUCCCUCCAGGGGCAUAAGCUGGGUAGCCAUGUGCGGAAGGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCCGCCCCAAGAUGAGGCCUCCCACGGCGUCAAGCCGGUAAGGACCCGGGAAGACCACCCGGUGGAUGGGCCGGGGGUGUAAGCGCCGCGAGGCGUUGAGCCGACCGGUCCCAAUCGUCCGAGGUCU",
+            "entity_poly_seq_one_letter_code_can": "AGAUGGUAAGGGCCCACGGUGGAUGCCUCGGCACCCGAGCCGAUGAAGGACGUGGCUACCUGCGAUAAGCCAGGGGGAGCCGGUAGCGGGCGUGGAUCCCUGGAUGUCCGAAUGGGGGAACCCGGCCGGCGGGAACGCCGGUCACCGCGCUUGCGCGGGGGGAACCUGGGGAACUGAAACAUCUCAGUACCCAGAGGAGAGGAAAGAGAAAUCGACUCCCUGAGUAGCGGCGAGCGAAAGGGGACCAGCCUAAACCGUCCGGCUUGUCCGGGCGGGGUCGUGGGGCCCUCGGGCCCCGAAUCCCCAGCCUAGCCGAAGCUGUUGGGAAGCAGCGCCAGAGAGGGUGAAAGCCCCGUAGGCGAAAGGUGGGGGGAUAGGUGAGGGUACCCGAGUACCCCGUGGUUCGUGGAGCCAUGGGGGAAUCUGGGCGGACCACCGCCUAAGGCUAAGUACUCCGGGUGACCGAUAGCGCACCAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAUAGAGCCUGAAACCGUGGGCUUACAAGCAGUCACGGCCCCUUAAGGGGUUGUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUCACGGUCGUGGGCGAGCUUAAGCCGUUGAGGCGGAGGCGUAGGGAAACCGAGUCCGAACAGGGCGCGAAGUCUGGGCUAAGUGGGAAAGGAGUCCGCGGCCGUGGACCCGAAACCGGGCGAGCUAGCCCUGGCCAGGGUGAAGCUGGGGUGAGACCCAGUGGAGGCCCGAACCGGUGGGGGAUGCAAACCCCUCGGAUGAGCUGGGGCUAGGAGUGAAAAGCUAACCGAGCCCGGAGAUAGCUGGUUCUCCCCGAAAUGACUUUAGGGUCAGCCUCAGGCGCUGACUGGGGCCUGUAGAGCACUGAUAGGGCUAGGGGGCCCACCAGCCUACCAAACCCUGUCAAACUCCGAAGGGUCCCAGGUGGAGCCUGGGAGUGAGGGCGCGAGCGAUAACGUCCGCGUCCGAGCGCGGGAACAACCGAGACCGCCAGCUAAGGCCCCCAAGUCUGGGCUAAGUGGUAAAGGAUGUGGCGCCGCGAAGACAGCCAUCCUUUAAAGAGUGCGUAAUAGCUCACUGGUCGAGCGGUGCUGCGCCGAAAAGUCGAGUGGCGCCGCGCCGAAAAUGAUCGGGGCUUAAGCCCAGCGCCGAAGCUGCGGGUCUGGGGGAUGACCCCAGGCGGUAGGGGAGCGUUCCCGAUGCCGAUGAAGGCCGACCCGCGAGGGCGGCUGGAGGUAAGGGAAGUGCGAAUGCCGGCAUGAGUAACGAUAAAGAGGGUGAGAAUCCCUCUCGCCGUAAGCCCAAGGGUUCCUACGCAAUGGUCGUCAGCGUAGGGUUAGGCGGGACCUAAGGUGAAGCCGAAAGGCGUAGCCGAAGGGCAGCCGGUUAAUAUUCCGGCCCUUCCCGCAGGUGCGAUGGGGGGACGCUCUAGGCUAGGGGGACCGGAGCCAUGGACGAGCCCGGCCAGAAGCGCAGGGUGGGAGGUAGGCAAAUCCGCCUCCCAACAAGCUCUGCGUGGUGGGGAAGCCCGGCCAGGGAGCAACCCCCCGAAGCCAGGGAGCCAAGAAAAGCCUCUAAGCACAACCUGCGGGAACCCGUACCGCAAACCGACACAGGUGGGCGGGUGCAAGAGCACUCAGGCGCGCGGGAGAACCCUCGCCAAGGAACUCUGCAAGUUGGCCCCGUAACUUCGGGAGAAGGGGUGCUCCCUGGGGUGAUGAGCCCCGGGGAGCCGCAGUGAACAGGCUCUGGCGACUGUUUACCAAAAACACAGCUCUCUGCGAACUCGUAAGAGGAGGUAUAGGGAGCGACGCUUGCCCGGUGCCGGAAGGUCAAGGGGAGGGGUGCAAGCCCCGAACCGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAAGCGUAACGACCGGAGCGCUGUCUCGGCGAGGGACCCGGUGAAAUUGAACUGGCCGUGAAGAUGCGGCCUACCCGUGGCAGGACGAAAAGACCCCGUGGAGCUUUACUGCAGCCUGGUGUUGGCUCUUGGUCGCGCCUGCGUAGGAUAGGUGGGAGCCUGUGAACCCCCGCCUCCGGGUGGGGGGGAGGCGCCGGUGAAAUACCACCCUGGCGCGGCUGGGGGCCUAACCCUCGGAUGGGGGGACAGCGCUUGGCGGGCAGUUUGACUGGGGCGGUCGCCUCCUAAAAGGUAACGGAGGCGCCCAAAGGUCCCCUCAGGCGGGACGGAAAUCCGCCGGAGAGCGCAAGGGUAGAAGGGGGCCUGACUGCGAGGCCUGCAAGCCGAGCAGGGGCGAAAGCCGGGCCUAGUGAACCGGUGGUCCCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGCGUCCACAGCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCCACGGGCGCAGGAGGCUUGAGGGGGGCUCUUCCUAGUACGAGAGGACCGGAAGGGACGCACCUCUGGUUUCCCAGCUGUCCCUCCAGGGGCAUAAGCUGGGUAGCCAUGUGCGGAAGGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCCGCCCCAAGAUGAGGCCUCCCACGGCGUCAAGCCGGUAAGGACCCGGGAAGACCACCCGGUGGAUGGGCCGGGGGUGUAAGCGCCGCGAGGCGUUGAGCCGACCGGUCCCAAUCGUCCGAGGUCU",
+            "entity_poly_seq_length": 2899,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "5S rRNA (119-MER)",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                300852
+            ],
+            "entity_poly_strand_id": "Cs,Ds",
+            "entity_poly_seq_one_letter_code": "UCCCCCGUGCCCAUAGCGGCGUGGAACCACCCGUUCCCAUUCCGAACACGGAAGUGAAACGCGCCAGCGCCGAUGGUACUGGGCGGGCGACCGCCUGGGAGAGUAGGUCGGUGCGGGGG",
+            "entity_poly_seq_one_letter_code_can": "UCCCCCGUGCCCAUAGCGGCGUGGAACCACCCGUUCCCAUUCCGAACACGGAAGUGAAACGCGCCAGCGCCGAUGGUACUGGGCGGGCGACCGCCUGGGAGAGUAGGUCGGUGCGGGGG",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "tRNA (5'-D(*AP*UP*CP*CP*CP*CP*GP*UP*GP*UP*CP*CP*UP*UP*GP*GP*UP*UP*CP*G)-3')",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                308052
+            ],
+            "entity_poly_strand_id": "D2",
+            "entity_poly_seq_one_letter_code": "AUCCCCGUGUCCUUGGUUCG",
+            "entity_poly_seq_one_letter_code_can": "AUCCCCGUGUCCUUGGUUCG",
+            "entity_poly_seq_length": 20,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "tRNA (76-MER)",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                308052
+            ],
+            "entity_poly_strand_id": "D4",
+            "entity_poly_seq_one_letter_code": "GCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_one_letter_code_can": "GCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "4WT8",
+            "rcsb_pdbx_description": "DNA (55-MER)",
+            "rcsb_source_organism_description": [
+                "Thermus thermophilus"
+            ],
+            "rcsb_source_organism_id": [
+                308052
+            ],
+            "entity_poly_strand_id": "DV",
+            "entity_poly_seq_one_letter_code": "GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUUCCGAGUCCGGGCACC",
+            "entity_poly_seq_one_letter_code_can": "GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUUCCGAGUCCGGGCACC",
+            "entity_poly_seq_length": 55,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "PAROMOMYCIN",
+            "formula_weight": 0.616,
+            "chemicalId": "PAR",
+            "chemicalName": "PAROMOMYCIN",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "Bactobolin A",
+            "formula_weight": 0.381,
+            "chemicalId": "3V6",
+            "chemicalName": "Bactobolin A",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

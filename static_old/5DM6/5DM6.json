@@ -1,0 +1,1003 @@
+{
+    "rcsb_id": "5DM6",
+    "expMethod": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "rcsb_external_ref_id": [
+        "5DM6"
+    ],
+    "rcsb_external_ref_type": [
+        "NDB"
+    ],
+    "rcsb_external_ref_link": [
+        "http://ndbserver.rutgers.edu/service/ndb/atlas/summary?searchTarget=5DM6"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": null,
+    "cryoem_exp_resolution": null,
+    "cryoem_exp_num_particles": null,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": "X06SA",
+    "diffrn_source_pdbx_synchrotron_site": "SLS",
+    "diffrn_source_pdbx_wavelength": "",
+    "diffrn_source_pdbx_wavelength_list": "1.00000",
+    "diffrn_source_source": "SYNCHROTRON",
+    "diffrn_source_type": "SLS BEAMLINE X06SA",
+    "citation_year": 2015,
+    "citation_rcsb_authors": [
+        "Kaminishi, T.",
+        "Schedlbauer, A.",
+        "Fabbretti, A.",
+        "Brandi, L.",
+        "Ochoa-Lizarralde, B.",
+        "He, C.G.",
+        "Milon, P.",
+        "Connell, S.R.",
+        "Gualerzi, C.O.",
+        "Fucini, P."
+    ],
+    "citation_title": "Crystallographic characterization of the ribosomal binding site and molecular mechanism of action of Hygromycin A.",
+    "citation_pdbx_doi": "10.1093/nar/gkv975",
+    "pdbx_keywords_text": "protein synthesis, peptidyltransferase, ribozyme, ribonucleoprotein, ribosome",
+    "_organismId": [
+        1299
+    ],
+    "_organismName": [
+        "Deinococcus radiodurans"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RY64"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "IQTGGKQYRVSEGDVIRVESLQGEAGDKVELKALFVGGEQTVFGEDAGKYTVQAEVVEHGRGKKIYIRKYKSGVQYRRRTGHRQNFTAIKILGI",
+            "entity_poly_seq_one_letter_code_can": "IQTGGKQYRVSEGDVIRVESLQGEAGDKVELKALFVGGEQTVFGEDAGKYTVQAEVVEHGRGKKIYIRKYKSGVQYRRRTGHRQNFTAIKILGI",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family includes prokaryotic L1 and eukaryotic L10."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L1p/L10e family"
+            ],
+            "pfam_accessions": [
+                "PF00687"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSS8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L1",
+            "entity_poly_strand_id": "0",
+            "entity_poly_seq_one_letter_code": "KRYRALEGKVDRNKQYSIDEAAALVKELATAKFDETVEVHFRLGIDPRKSDQNVRGTVALPHGTGRSVRVAVITKGENVQAAEAAGADVVGSDELIERIAGGFMDFDAVVATPDMMAQIGQKLARLLGPRGLLPNPKSGTVGADVAGMVRGLKAGRIEFRNDKTGVVHAPIGKASFESGNLSANYQALISALEGAKPGTAKGVFLRSAYLTTTMGPSIPLALGG",
+            "entity_poly_seq_one_letter_code_can": "KRYRALEGKVDRNKQYSIDEAAALVKELATAKFDETVEVHFRLGIDPRKSDQNVRGTVALPHGTGRSVRVAVITKGENVQAAEAAGADVVGSDELIERIAGGFMDFDAVVATPDMMAQIGQKLARLLGPRGLLPNPKSGTVGADVAGMVRGLKAGRIEFRNDKTGVVHAPIGKASFESGNLSANYQALISALEGAKPGTAKGVFLRSAYLTTTMGPSIPLALGG",
+            "entity_poly_seq_length": 224,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSK9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "HDLKPTPGSRKDRKRVGRGPGGTDKTAGRGHKGQKSRSGAGKGAFFEGGRSRLIARLPKRGFNNVGTTYEVVKLSQLQDLEDTTFDRDTLEAYRLVRRKNRPVKLLASGEISRAVTVHVDAASAAAIKAVEAAGGRVVLPE",
+            "entity_poly_seq_one_letter_code_can": "HDLKPTPGSRKDRKRVGRGPGGTDKTAGRGHKGQKSRSGAGKGAFFEGGRSRLIARLPKRGFNNVGTTYEVVKLSQLQDLEDTTFDRDTLEAYRLVRRKNRPVKLLASGEISRAVTVHVDAASAAAIKAVEAAGGRVVLPE",
+            "entity_poly_seq_length": 141,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "KRTKFRKQFRGRMTGDAKGGDYVAFGDYGLIAMEPAWIKSNQIEACRIVMSRHFRRGGKIYIRIFPDKPVTKKPAETRMGKGKGAVEYWVSVVKPGRVMFEVAGVTEEQAKEAFRLAGHKLPIQTKMVKREVYDEA",
+            "entity_poly_seq_one_letter_code_can": "KRTKFRKQFRGRMTGDAKGGDYVAFGDYGLIAMEPAWIKSNQIEACRIVMSRHFRRGGKIYIRIFPDKPVTKKPAETRMGKGKGAVEYWVSVVKPGRVMFEVAGVTEEQAKEAFRLAGHKLPIQTKMVKREVYDEA",
+            "entity_poly_seq_length": 136,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSJ5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "HGKAGRKLNRNSSARVALARAQATALLREGRIQTTLTKAKELRPFVEQLITTAKGGDLHSRRLVAQDIHDKDVVRKVMDEVAPKYAERPGGYTRILRVGTRRGDGVTMALIEL",
+            "entity_poly_seq_one_letter_code_can": "HGKAGRKLNRNSSARVALARAQATALLREGRIQTTLTKAKELRPFVEQLITTAKGGDLHSRRLVAQDIHDKDVVRKVMDEVAPKYAERPGGYTRILRVGTRRGDGVTMALIEL",
+            "entity_poly_seq_length": 113,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSL2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "RRKLRTRRKVRTTTAASGKLRLSVYRSSKHIYAQIIDDSRGQTLAAASSAALKSGNKTDTAAAVGKALAAAAAEKGIKQVVFDRGSYKYHGRVKALADAAREGG",
+            "entity_poly_seq_one_letter_code_can": "RRKLRTRRKVRTTTAASGKLRLSVYRSSKHIYAQIIDDSRGQTLAAASSAALKSGNKTDTAAAVGKALAAAAAEKGIKQVVFDRGSYKYHGRVKALADAAREGG",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RWB4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "QTHIKINRGELLRGIEQDHTRQLPDFRPGDTVRVDTKVREGNRTRSQAFEGVVIAINGSGSRKSFTVRKISFGEGVERVFPFASPLVNQVTIVERGKVRRAKLYYGKAA",
+            "entity_poly_seq_one_letter_code_can": "QTHIKINRGELLRGIEQDHTRQLPDFRPGDTVRVDTKVREGNRTRSQAFEGVVIAINGSGSRKSFTVRKISFGEGVERVFPFASPLVNQVTIVERGKVRRAKLYYGKAA",
+            "entity_poly_seq_length": 109,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSW7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "PRAKTGIVRRRRHKKVLKRAKGFWGSRSKQYRNAFQTLLNAATYEYRDRRNKKRDFRRLWIQRINAGARLHGMNYSTFINGLKRANIDLNRKVLADIAAREPEAFKALVDASRNARQ",
+            "entity_poly_seq_one_letter_code_can": "PRAKTGIVRRRRHKKVLKRAKGFWGSRSKQYRNAFQTLLNAATYEYRDRRNKKRDFRRLWIQRINAGARLHGMNYSTFINGLKRANIDLNRKVLADIAAREPEAFKALVDASRNARQ",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "FRNKKQRKQQVKLRKPGFAVAKYVRMSPRKVRLVVDVIRGKSVQDAEDLLRFIPRSASEPVAKVLNSAKANALHNDEMLEDRLFVKEAYVDAGPTLKRLIPRARGSANIIKKRTSHITIIVAEKGNK",
+            "entity_poly_seq_one_letter_code_can": "FRNKKQRKQQVKLRKPGFAVAKYVRMSPRKVRLVVDVIRGKSVQDAEDLLRFIPRSASEPVAKVLNSAKANALHNDEMLEDRLFVKEAYVDAGPTLKRLIPRARGSANIIKKRTSHITIIVAEKGNK",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXK0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "SHYDILQAPVISEKAYSAMERGVYSFWVSPKATKTEIKDAIQQAFGVRVIGISTMNVPGKRKRVGRFIGQRNDRKKAIVRLAEGQSIEALAGQ",
+            "entity_poly_seq_one_letter_code_can": "SHYDILQAPVISEKAYSAMERGVYSFWVSPKATKTEIKDAIQQAFGVRVIGISTMNVPGKRKRVGRFIGQRNDRKKAIVRLAEGQSIEALAGQ",
+            "entity_poly_seq_length": 93,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "PSAGSHHNDKLHFKKGDTVIVLSGKHKGQTGKVLLALPRDQKVVVEGVNVITKNVKPSMTNPQGGQEQRELALHASKVALVDPETGKATRVRKQIVDGKKVRVAVASGKT",
+            "entity_poly_seq_one_letter_code_can": "PSAGSHHNDKLHFKKGDTVIVLSGKHKGQTGKVLLALPRDQKVVVEGVNVITKNVKPSMTNPQGGQEQRELALHASKVALVDPETGKATRVRKQIVDGKKVRVAVASGKT",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "AVKKYKPYTPSRRQMTTADFSGLAKKRPEKALTEALPKTGGRNNRGRITSRFIGGGHKRLYRIIDFKRRDKSGVNAKVAAIEYDPNRSARIALLHYADGEKRYILAPEGLTVGATVNAGPEAEPKLGNALPLRFVPVGAVVHALELVPGKGAQLARSAGTSVQVQGKESDYVIVRLPSGELRRVHSECYATIGAVGNAEHKNIVLGKAGRSRWLGRKPHQRGSAMNPVDHPHGGGEGRTGAGRVPVTPWGKPTKGLKTRRKRKTSDRFLVTRRK",
+            "entity_poly_seq_one_letter_code_can": "AVKKYKPYTPSRRQMTTADFSGLAKKRPEKALTEALPKTGGRNNRGRITSRFIGGGHKRLYRIIDFKRRDKSGVNAKVAAIEYDPNRSARIALLHYADGEKRYILAPEGLTVGATVNAGPEAEPKLGNALPLRFVPVGAVVHALELVPGKGAQLARSAGTSVQVQGKESDYVIVRLPSGELRRVHSECYATIGAVGNAEHKNIVLGKAGRSRWLGRKPHQRGSAMNPVDHPHGGGEGRTGAGRVPVTPWGKPTKGLKTRRKRKTSDRFLVTRRK",
+            "entity_poly_seq_length": 274,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family contains the C-terminal domain of ribosomal protein TL5. The N-terminal domain, which binds to 5S rRNA, is contained in family Ribosomal_L25p, Pfam:PF01386. Full length (N- and C-terminal domain) homologues of TL5 are also known as CTC proteins. TL5 or CTC are not found in Eukarya or Archaea. In some Bacteria, including E. coli, this ribosomal subunit occurs as a single domain protein (named Ribosomal subunit L25), where the only domain is homologous to TL5 N-terminal domain (hence included in family Pfam:PF01386). The function of the C-terminal domain of TLC is at present unknown.",
+                "Ribosomal protein L25 is an RNA binding protein, that binds 5S rRNA. This family includes Ctc from B. subtilis Swiss:P14194, which is induced by stress."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein TL5, C-terminal domain",
+                "Ribosomal L25p family"
+            ],
+            "pfam_accessions": [
+                "PF14693",
+                "PF01386"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RX88"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L25",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MELTAKPRTPKQKLDESMIAAVAYNKENNVSFALDRKAFDRAFRQQSTTGLFDITVEGGETFPALVKAVQMDKRKRAPIHVDFYMVTYGEPVEVSVPVHTTGRSQGEVQGGLVDIVVHNLQIVAPGPRRIPQELVVDVTKMNIGDHITAGDIKLPEGCTLAADPELTVVSVLPPR",
+            "entity_poly_seq_one_letter_code_can": "MELTAKPRTPKQKLDESMIAAVAYNKENNVSFALDRKAFDRAFRQQSTTGLFDITVEGGETFPALVKAVQMDKRKRAPIHVDFYMVTYGEPVEVSVPVHTTGRSQGEVQGGLVDIVVHNLQIVAPGPRRIPQELVVDVTKMNIGDHITAGDIKLPEGCTLAADPELTVVSVLPPR",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RY65"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "AHKKGVGSSKNGRDSNPKYLGVKKFGGEVVKAGNILVRQRGTKFKAGQGVGMGRDHTLFALSDGKVVFINKGKGARFISIEAAQ",
+            "entity_poly_seq_one_letter_code_can": "AHKKGVGSSKNGRDSNPKYLGVKKFGGEVVKAGNILVRQRGTKFKAGQGVGMGRDHTLFALSDGKVVFINKGKGARFISIEAAQ",
+            "entity_poly_seq_length": 84,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RRG8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "TGKKNLVVNSVIRRGKARADGGVGRKTTGITKRVQRANLHKKAIRENGQVKTVWLSANAIRTLSKGPYKGIE",
+            "entity_poly_seq_one_letter_code_can": "TGKKNLVVNSVIRRGKARADGGVGRKTTGITKRVQRANLHKKAIRENGQVKTVWLSANAIRTLSKGPYKGIE",
+            "entity_poly_seq_length": 72,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MKPSEMRNLQATDFAKEIDARKKELMELRFQAAAGQLAQPHRVRQLRREVAQLNTVKAELARKGEQ",
+            "entity_poly_seq_one_letter_code_can": "MKPSEMRNLQATDFAKEIDARKKELMELRFQAAAGQLAQPHRVRQLRREVAQLNTVKAELARKGEQ",
+            "entity_poly_seq_length": 66,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSL0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MKIKLVRSVIGRPGNQVKTVQALGLRKIGDSREVSDTPAVRGMVKTVKHLLEVQE",
+            "entity_poly_seq_one_letter_code_can": "MKIKLVRSVIGRPGNQVKTVQALGLRKIGDSREVSDTPAVRGMVKTVKHLLEVQE",
+            "entity_poly_seq_length": 55,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "P49228"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "KHPVPKKKTSKSKRDMRRSHHALTAPNLTECPQCHGKKLSHHICPNCGYYDGRQVLA",
+            "entity_poly_seq_one_letter_code_can": "KHPVPKKKTSKSKRDMRRSHHALTAPNLTECPQCHGKKLSHHICPNCGYYDGRQVLA",
+            "entity_poly_seq_length": 57,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSS4"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "AAAGAAPRIIVKMESSAGTGFYYTTTKNRRNTQAKLELKKYDPVAAHVVFAAAA",
+            "entity_poly_seq_one_letter_code_can": "AAAGAAPRIIVKMESSAGTGFYYTTTKNRRNTQAKLELKKYDPVAAHVVFAAAA",
+            "entity_poly_seq_length": 54,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSH2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "MKRTYQPNNRKRAKTHGFRARMKTKSGRNILARRRAKGRHQLTVSDE",
+            "entity_poly_seq_one_letter_code_can": "MKRTYQPNNRKRAKTHGFRARMKTKSGRNILARRRAKGRHQLTVSDE",
+            "entity_poly_seq_length": 47,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSW6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "PKMKTHKMAKRRIKITGTGKVMAFKSGKRHQNTGKSGDEIRGKGKGFVLAKAEWARMKLMLPRGK",
+            "entity_poly_seq_one_letter_code_can": "PKMKTHKMAKRRIKITGTGKVMAFKSGKRHQNTGKSGDEIRGKGKGFVLAKAEWARMKLMLPRGK",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXK2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MKGILGTKIGMTQIWKNDRAIPVTVVLAGPCPIVQRKTAQTDGYEAVQIGYAPKAERKVNKPMQGHFAKAGVAPTRILREFRGFAPDGDSVNVDIFAEGEKIDATGTSKGKGTQGVMKRWNFAGGPASHGSKKWHRRPGSIGQRKTPGRVYKGKRMAGHMGMERVTVQNLEVVEIRAGENLILVKGAIPGANGGLVVLRSAAKAS",
+            "entity_poly_seq_one_letter_code_can": "MKGILGTKIGMTQIWKNDRAIPVTVVLAGPCPIVQRKTAQTDGYEAVQIGYAPKAERKVNKPMQGHFAKAGVAPTRILREFRGFAPDGDSVNVDIFAEGEKIDATGTSKGKGTQGVMKRWNFAGGPASHGSKKWHRRPGSIGQRKTPGRVYKGKRMAGHMGMERVTVQNLEVVEIRAGENLILVKGAIPGANGGLVVLRSAAKAS",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXK1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "AQINVIGQNGGRTIELPLPEVNSGVLHEVVTWQLASRRRGTASTRTRAQVSKTGRKMYGQKGTGNARHGDRSVPTFVGGGVAFGPKPRSYDYTLPRQVRQLGLAMAIASRQEGGKLVAVDGFDIADAKTKNFISWAKQNGLDGTEKVLLVTDDENTRRAARNVSWVSVLPVAGVNVYDILRHDRLVIDAAALEIVEE",
+            "entity_poly_seq_one_letter_code_can": "AQINVIGQNGGRTIELPLPEVNSGVLHEVVTWQLASRRRGTASTRTRAQVSKTGRKMYGQKGTGNARHGDRSVPTFVGGGVAFGPKPRSYDYTLPRQVRQLGLAMAIASRQEGGKLVAVDGFDIADAKTKNFISWAKQNGLDGTEKVLLVTDDENTRRAARNVSWVSVLPVAGVNVYDILRHDRLVIDAAALEIVEE",
+            "entity_poly_seq_length": 197,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "QLKTKYNDQVRPALMQQFGYSSVMAVPRIEKIVVNEGLGSSKEDSKAIDKAAKELALITLQKPIITKAKKSISNFKLRQGMPVGIKVTLRGERMYVFLEKLINIGLPRIRDFRGINPNAFDGRGNYNLGIKEQLIFPEITYDMVDKTRGMDITIVTTAKTDEEARALLQSMGLPFRK",
+            "entity_poly_seq_one_letter_code_can": "QLKTKYNDQVRPALMQQFGYSSVMAVPRIEKIVVNEGLGSSKEDSKAIDKAAKELALITLQKPIITKAKKSISNFKLRQGMPVGIKVTLRGERMYVFLEKLINIGLPRIRDFRGINPNAFDGRGNYNLGIKEQLIFPEITYDMVDKTRGMDITIVTTAKTDEEARALLQSMGLPFRK",
+            "entity_poly_seq_length": 177,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSL3"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "GKQPIAVPSGVTVNAQDGVFKVKGPKGELTVPYNTELTVRQDGDQLLVERPSDAQKHRALHGLTRTLVANAVKGVSDGYTINLELRGVGFRAKLTGKALEMNIGYSHPVIIEPPAGVTFAVPEPTRIDVSGIDKQLVGQVAANVRKVRKPDAYHGKGVRFVGEQIALKAGK",
+            "entity_poly_seq_one_letter_code_can": "GKQPIAVPSGVTVNAQDGVFKVKGPKGELTVPYNTELTVRQDGDQLLVERPSDAQKHRALHGLTRTLVANAVKGVSDGYTINLELRGVGFRAKLTGKALEMNIGYSHPVIIEPPAGVTFAVPEPTRIDVSGIDKQLVGQVAANVRKVRKPDAYHGKGVRFVGEQIALKAGK",
+            "entity_poly_seq_length": 171,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "The N-terminal domain of Ribosomal protein L11 adopts an  alpha/beta fold and is followed by the RNA binding C-terminal domain.",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L11, N-terminal domain",
+                "Ribosomal protein L11, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03946",
+                "PF00298"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RSS7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L11",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MRRVAGIVKLQLPAGKATPAPPVGPALGQYGANIMEFTKAFNAQTADKGDAIIPVEITIYADRSFTFITKTPPMSYLIRKAAGIGKGSSTPNKAKVGKLNWDQVLEIAKTKMPDLNAGSVEAAANTVAGTARSMGVTVEGGPNA",
+            "entity_poly_seq_one_letter_code_can": "MRRVAGIVKLQLPAGKATPAPPVGPALGQYGANIMEFTKAFNAQTADKGDAIIPVEITIYADRSFTFITKTPPMSYLIRKAAGIGKGSSTPNKAKVGKLNWDQVLEIAKTKMPDLNAGSVEAAANTVAGTARSMGVTVEGGPNA",
+            "entity_poly_seq_length": 144,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXY1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "KTYIPKNDEQNWVVVDASGVPLGRLATLIASRIRGKHRPDFTPNMIQGDFVVVINAAQVALTGKKLDDKVYTRYTGYQGGLKTETAREALSKHPERVIEHAVFGMLPKGRQGRAMHTRLKVYAGETHPHSAQKPQVLKTQPL",
+            "entity_poly_seq_one_letter_code_can": "KTYIPKNDEQNWVVVDASGVPLGRLATLIASRIRGKHRPDFTPNMIQGDFVVVINAAQVALTGKKLDDKVYTRYTGYQGGLKTETAREALSKHPERVIEHAVFGMLPKGRQGRAMHTRLKVYAGETHPHSAQKPQVLKTQPL",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "uniprot_accession": [
+                "Q9RXJ2"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MIMPQSRLDVADNSGAREIMCIRVLNSGIGGKGLTTGGGGNKRYAHVGDIIVASVKDAAPRGAVKAGDVVKAVVVRTSHAIKRADGSTIRFDRNAAVIINNQGEPRGTRVFGPVARELRDRRFMKIVSLAPEVL",
+            "entity_poly_seq_one_letter_code_can": "MIMPQSRLDVADNSGAREIMCIRVLNSGIGGKGLTTGGGGNKRYAHVGDIIVASVKDAAPRGAVKAGDVVKAVVVRTSHAIKRADGSTIRFDRNAAVIINNQGEPRGTRVFGPVARELRDRRFMKIVSLAPEVL",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "5DM6",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "GGGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAACCGAAACGCUUGCGUUUCGGGGUUGUAGGACCAGUUUUUAAGAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUACUGGCACCUGAGUAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAGGGGGCCUACCAGCUUACCAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGAUAGGUGGGAGCCUGCGAAACUGGCCUUUUGGGGUCGGUGGAGGCAACGGUGAAAUACCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUUAUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCACUC",
+            "entity_poly_seq_one_letter_code_can": "GGGUCAAGAUAGUAAGGGUCCACGGUGGAUGCCCUGGCGCUGGAGCCGAUGAAGGACGCGAUUACCUGCGAAAAGCCCCGACGAGCUGGAGAUACGCUUUGACUCGGGGAUGUCCGAAUGGGGAAACCCACCUCGUAAGAGGUAUCCGCAAGGAUGGGAACUCAGGGAACUGAAACAUCUCAGUACCUGAAGGAGAAGAAAGAGAAUUCGAUUCCGUUAGUAGCGGCGAGCGAACCCGGAUCAGCCCAAACCGAAACGCUUGCGUUUCGGGGUUGUAGGACCAGUUUUUAAGAUUCAACCCCUCAAGCCGAAGUGGCUGGAAAGCUACACCUCAGAAGGUGAGAGUCCUGUAGGCGAACGAGCGGUUGACUGUACUGGCACCUGAGUAGGUCGUUGUUCGUGAAACGAUGACUGAAUCCGCGCGGACCACCGCGCAAGGCUAAAUACUCCCAGUGACCGAUAGCGCAUAGUACCGUGAGGGAAAGGUGAAAAGAACCCCGGGAGGGGAGUGAAAGAGAACCUGAAACCGUGGACUUACAAGCAGUCAUGGCACCUUAUGCGUGUUAUGGCGUGCCUAUUGAAGCAUGAGCCGGCGACUUAGACCUGACGUGCGAGCUUAAGUUGAAAAACGGAGGCGGAGCGAAAGCGAGUCCGAAUAGGGCGGCAUUAGUACGUCGGGCUAGACUCGAAACCAGGUGAGCUAAGCAUGACCAGGUUGAAACCCCCGUGACAGGGGGCGGAGGACCGAACCGGUGCCUGCUGAAACAGUCUCGGAUGAGUUGUGUUUAGGAGUGAAAAGCUAACCGAACCUGGAGAUAGCUAGUUCUCCCCGAAAUGUAUUGAGGUACAGCCUCGGAUGUUGACCAUGUCCUGUAGAGCACUCACAAGGCUAGGGGGCCUACCAGCUUACCAAACCUUAUGAAACUCCGAAGGGGCACGCGUUUAGUCCGGGAGUGAGGCUGCGAGAGCUAACUUCCGUAGCCGAGAGGGAAACAACCCAGACCAUCAGCUAAGGUCCCUAAAUGAUCGCUCAGUGGUUAAGGAUGUGUCGUCGCAUAGACAGCCAGGAGGUUGGCUUAGAAGCAGCCACCCUUCAAAGAGUGCGUAAUAGCUCACUGGUCGAGUGACGAUGCGCCGAAAAUGAUCGGGGCUCAAGUGAUCUACCGAAGCUAUGGAUUCAACUCGCGAAGCGAGUUGUCUGGUAGGGGAGCGUUCAGUCCGCGGAGAAGCCAUACCGGAAGGAGUGGUGGAGCCGACUGAAGUGCGGAUGCCGGCAUGAGUAACGAUAAAAGAAGUGAGAAUCUUCUUCGCCGUAAGGACAAGGGUUCCUGGGGAAGGGUCGUCCGCCCAGGGAAAGUCGGGACCUAAGGUGAGGCCGAACGGCGCAGCCGAUGGACAGCAGGUCAAGAUUCCUGCACCGAUCAUGUGGAGUGAUGGAGGGACGCAUUACGCUAUCCAAUGCCAAGCUAUGGCUAUGCUGGUUGGUACGCUCAAGGGCGAUCGGGUCAGAAAAUCUACCGGUCACAUGCCUCAGACGUAUCGGGAGCUUCCUCGGAAGCGAAGUUGGAAACGCGACGGUGCCAAGAAAAGCUUCUAAACGUUGAAACAUGAUUGCCCGUACCGCAAACCGACACAGGUGUCCGAGUGUCAAUGCACUAAGGCGCGCGAGAGAACCCUCGUUAAGGAACUUUGCAAUCUCACCCCGUAACUUCGGAAGAAGGGGUCCCCACGCUUCGCGUGGGGCGCAGUGAAUAGGCCCAGGCGACUGUUUACCAAAAUCACAGCACUCUGCCAACACGAACAGUGGACGUAUAGGGUGUGACGCCUGCCCGGUGCCGGAAGGUCAAGUGGAGCGGUGCAAGCUGCGAAAUGAAGCCCCGGUGAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAAGGCGUAACGAUCUGGGCGCUGUCUCAACGAGGGACUCGGUGAAAUUGAAUUGGCUGUAAAGAUGCGGCCUACCCGUAGCAGGACGAAAAGACCCCGUGGAGCUUUACUAUAGUCUGGCAUUGGGAUUCGGGUUUCUCUGCGUAGGAUAGGUGGGAGCCUGCGAAACUGGCCUUUUGGGGUCGGUGGAGGCAACGGUGAAAUACCACCCUGAGAAACUUGGAUUUCUAACCUGAAAAAUCACUUUCGGGGACCGUGCUUGGCGGGUAGUUUGACUGGGGCGGUCGCCUCCCAAAAUGUAACGGAGGCGCCCAAAGGUCACCUCAAGACGGUUGGAAAUCGUCUGUAGAGCGCAAAGGUAGAAGGUGGCUUGACUGCGAGACUGACACGUCGAGCAGGGAGGAAACUCGGGCUUAGUGAACCGGUGGUACCGUGUGGAAGGGCCAUCGAUCAACGGAUAAAAGUUACCCCGGGGAUAACAGGCUGAUCUCCCCCGAGAGUCCAUAUCGGCGGGGAGGUUUGGCACCUCGAUGUCGGCUCGUCGCAUCCUGGGGCUGAAGAAGGUCCCAAGGGUUGGGCUGUUCGCCCAUUAAAGCGGCACGCGAGCUGGGUUCAGAACGUCGUGAGACAGUUCGGUCUCUAUCCGCUACGGGCGCAGGAGAAUUGAGGGGAGUUGCUCCUAGUACGAGAGGACCGGAGUGAACGGACCGCUGGUCUCCCUGCUGUCGUACCAACGGCACAUGCAGGGUAGCUAUGUCCGGAACGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCAGCCCCAAGAUGAGUUCUCCCACUGUUUAUCAGGUAAGACUCCCGGAAGACCACCGGGUUAAGAGGCCAGGCGUGCACGCAUAGCAAUGUGUUCAGCGGACUGGUGCUCAUCAGUCGAGGUCUUGACCACUC",
+            "entity_poly_seq_length": 2881,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "5DM6",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Deinococcus radiodurans"
+            ],
+            "rcsb_source_organism_id": [
+                1299
+            ],
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "CACCCCCGUGCCCAUAGCACUGUGGAACCACCCCACCCCAUGCCGAACUGGGUCGUGAAACACAGCAGCGCCAAUGAUACUCGGACCGCAGGGUCCCGGAAAAGUCGGUCAGCGCGGGGGUU",
+            "entity_poly_seq_one_letter_code_can": "CACCCCCGUGCCCAUAGCACUGUGGAACCACCCCACCCCAUGCCGAACUGGGUCGUGAAACACAGCAGCGCCAAUGAUACUCGGACCGCAGGGUCCCGGAAAAGUCGGUCAGCGCGGGGGUU",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

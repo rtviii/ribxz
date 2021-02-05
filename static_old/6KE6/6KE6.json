@@ -1,0 +1,2159 @@
+{
+    "rcsb_id": "6KE6",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.4,
+    "rcsb_external_ref_id": [
+        "EMD-9964"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-9964"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.4,
+    "cryoem_exp_num_particles": 121139,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": null,
+    "citation_rcsb_authors": [
+        "Du, Y.",
+        "An, W.",
+        "Qi, S.",
+        "Ye, K."
+    ],
+    "citation_title": "3.4 angstrom cryo-EM structure of yeast 90S small subunit preribosome",
+    "citation_pdbx_doi": null,
+    "pdbx_keywords_text": "ribosome assembly, 90S pre-ribosome, cryo-EM, Mtr4, Ribosome",
+    "_organismId": [
+        559292
+    ],
+    "_organismName": [
+        "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+        "Saccharomyces cerevisiae S288C"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q06679"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 4",
+            "entity_poly_strand_id": "A4",
+            "entity_poly_seq_one_letter_code": "MSSSLLSVLKEKSRSLKIRNKPVKMTSQERMIVHRCRFVDFTPATITSLAFSHKSNINKLTPSDLRLAIGRSNGNIEIWNPRNNWFQEMVIEGGKDRSIEGLCWSNVNGESLRLFSIGGSTVVTEWDLATGLPLRNYDCNSGVIWSISINDSQDKLSVGCDNGTVVLIDISGGPGVLEHDTILMRQEARVLTLAWKKDDFVIGGCSDGRIRIWSAQKNDENMGRLLHTMKVDKAKKESTLVWSVIYLPRTDQIASGDSTGSIKFWDFQFATLNQSFKAHDADVLCLTTDTDNNYVFSAGVDRKIFQFSQNTNKSQKNNRWVNSSNRLLHGNDIRAICAYQSKGADFLVSGGVEKTLVINSLTSFSNGNYRKMPTVEPYSKNVLVNKEQRLVVSWSESTVKIWTMGTDSSTEQNYKLVCKLTLKDDQNISTCSLSPDGQVLVVGRPSTTKVFHLQPVGNKLKVTKLDNDLLLRTSTKLVKFIDNSKIVICSCEDDVFIVDLESEEDEKPQEVELLEVTSTKSSIKVPYINRINHLEVDQNIAVISRGCGVVDILDLKARISKPLARLNNFITAVHINTSRKSVVVITADNKIYEFNMNLNSEAENEDSESVLTQWSKNNTDNLPKEWKTLKENCVGIFSDIENSSRLWFWGATWISRIDFDVDFPINKRRKQKKRTHEGLTITDESNFMNDEEDDEDDDIDMEISENLNVLLNQGNKIKSTDVQRNEESSGHFFFTDKYKPLLFVDLISSNELAIIERNPLTFHSKQKAFIQPKLVF",
+            "entity_poly_seq_one_letter_code_can": "MSSSLLSVLKEKSRSLKIRNKPVKMTSQERMIVHRCRFVDFTPATITSLAFSHKSNINKLTPSDLRLAIGRSNGNIEIWNPRNNWFQEMVIEGGKDRSIEGLCWSNVNGESLRLFSIGGSTVVTEWDLATGLPLRNYDCNSGVIWSISINDSQDKLSVGCDNGTVVLIDISGGPGVLEHDTILMRQEARVLTLAWKKDDFVIGGCSDGRIRIWSAQKNDENMGRLLHTMKVDKAKKESTLVWSVIYLPRTDQIASGDSTGSIKFWDFQFATLNQSFKAHDADVLCLTTDTDNNYVFSAGVDRKIFQFSQNTNKSQKNNRWVNSSNRLLHGNDIRAICAYQSKGADFLVSGGVEKTLVINSLTSFSNGNYRKMPTVEPYSKNVLVNKEQRLVVSWSESTVKIWTMGTDSSTEQNYKLVCKLTLKDDQNISTCSLSPDGQVLVVGRPSTTKVFHLQPVGNKLKVTKLDNDLLLRTSTKLVKFIDNSKIVICSCEDDVFIVDLESEEDEKPQEVELLEVTSTKSSIKVPYINRINHLEVDQNIAVISRGCGVVDILDLKARISKPLARLNNFITAVHINTSRKSVVVITADNKIYEFNMNLNSEAENEDSESVLTQWSKNNTDNLPKEWKTLKENCVGIFSDIENSSRLWFWGATWISRIDFDVDFPINKRRKQKKRTHEGLTITDESNFMNDEEDDEDDDIDMEISENLNVLLNQGNKIKSTDVQRNEESSGHFFFTDKYKPLLFVDLISSNELAIIERNPLTFHSKQKAFIQPKLVF",
+            "entity_poly_seq_length": 776,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from metazoans.  This domain is predicted to bind to ribosomal RNA [1].  This domain is composed of four helices in the known structure.  However the domain is discontinuous in sequence and the alignment for this family contains only the first three helices.",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S4/S9 N-terminal domain",
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF00163",
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P32899"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar ribonucleoprotein protein IMP3",
+            "entity_poly_strand_id": "5F",
+            "entity_poly_seq_one_letter_code": "MVRKLKHHEQKLLKKVDFLEWKQDQGHRDTQVMRTYHIQNREDYHKYNRICGDIRRLANKLSLLPPTDPFRRKHEQLLLDKLYAMGVLTTKSKISDLENKVTVSAICRRRLPVIMHRLKMAETIQDAVKFIEQGHVRVGPNLINDPAYLVTRNMEDYVTWVDNSKIKKTLLRYRNQIDDFDFS",
+            "entity_poly_seq_one_letter_code_can": "MVRKLKHHEQKLLKKVDFLEWKQDQGHRDTQVMRTYHIQNREDYHKYNRICGDIRRLANKLSLLPPTDPFRRKHEQLLLDKLYAMGVLTTKSKISDLENKVTVSAICRRRLPVIMHRLKMAETIQDAVKFIEQGHVRVGPNLINDPAYLVTRNMEDYVTWVDNSKIKKTLLRYRNQIDDFDFS",
+            "entity_poly_seq_length": 183,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Fcf1 is a nucleolar protein involved in pre-rRNA processing [1]. Depletion of yeast Fcf1 and Fcf2 leads to a decrease in synthesis of the 18S rRNA and results in a deficit in 40S ribosomal subunits [1]."
+            ],
+            "pfam_descriptions": [
+                "Fcf1"
+            ],
+            "pfam_accessions": [
+                "PF04900"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q05498"
+            ],
+            "rcsb_pdbx_description": "rRNA-processing protein FCF1",
+            "entity_poly_strand_id": "5K",
+            "entity_poly_seq_one_letter_code": "MGKAKKTRKFGLVKRTLNTKKDQRLKKNQENIKTKEDPELTRNIPQVSSALFFQYNQAIKPPYQVLIDTNFINFSIQKKVDIVRGMMDCLLAKCNPLITDCVMAELEKLGPKYRIALKLARDPRIKRLSCSHKGTYADDCLVHRVLQHKCYIVATNDAGLKQRIRKIPGIPLMSVGGHAYVIEKLPDVF",
+            "entity_poly_seq_one_letter_code_can": "MGKAKKTRKFGLVKRTLNTKKDQRLKKNQENIKTKEDPELTRNIPQVSSALFFQYNQAIKPPYQVLIDTNFINFSIQKKVDIVRGMMDCLLAKCNPLITDCVMAELEKLGPKYRIALKLARDPRIKRLSCSHKGTYADDCLVHRVLQHKCYIVATNDAGLKQRIRKIPGIPLMSVGGHAYVIEKLPDVF",
+            "entity_poly_seq_length": 189,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Members of this family are essential for 40S ribosomal biogenesis.  The structure of EMG1 has revealed that it is a novel member of the superfamily of alpha/beta knot fold methyltransferases [2]."
+            ],
+            "pfam_descriptions": [
+                "EMG1/NEP1 methyltransferase"
+            ],
+            "pfam_accessions": [
+                "PF03587"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q06287"
+            ],
+            "rcsb_pdbx_description": "Ribosomal RNA small subunit methyltransferase NEP1",
+            "entity_poly_strand_id": "RG,RH",
+            "entity_poly_seq_one_letter_code": "MVEDSRVRDALKGGDQKALPASLVPQAPPVLTSKDKITKRMIVVLAMASLETHKISSNGPGGDKYVLLNCDDHQGLLKKMGRDISEARPDITHQCLLTLLDSPINKAGKLQVYIQTSRGILIEVNPTVRIPRTFKRFSGLMVQLLHKLSIRSVNSEEKLLKVIKNPITDHLPTKCRKVTLSFDAPVIRVQDYIEKLDDDESICVFVGAMARGKDNFADEYVDEKVGLSNYPLSASVACSKFCHGAEDAWNIL",
+            "entity_poly_seq_one_letter_code_can": "MVEDSRVRDALKGGDQKALPASLVPQAPPVLTSKDKITKRMIVVLAMASLETHKISSNGPGGDKYVLLNCDDHQGLLKKMGRDISEARPDITHQCLLTLLDSPINKAGKLQVYIQTSRGILIEVNPTVRIPRTFKRFSGLMVQLLHKLSIRSVNSEEKLLKVIKNPITDHLPTKCRKVTLSFDAPVIRVQDYIEKLDDDESICVFVGAMARGKDNFADEYVDEKVGLSNYPLSASVACSKFCHGAEDAWNIL",
+            "entity_poly_seq_length": 252,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Trophinin and tastin form a cell adhesion molecule complex that potentially mediates an initial attachment of the blastocyst to uterine epithelial cells at the time of implantation. Trophinin and tastin bind to an intermediary cytoplasmic protein called bystin. Bystin may be involved in implantation and trophoblast invasion because bystin is found with trophinin and tastin in the cells at human implantation sites and also in the intermediate trophoblasts at invasion front in the placenta from early pregnancy [1]. This family also includes the yeast protein ENP1. ENP1 is an essential protein in Saccharomyces cerevisiae and is localised in the nucleus [2]. It is thought that ENP1 plays a direct role in the early steps of rRNA processing as enp1 defective yeast cannot synthesise 20S pre-rRNA and hence 18S rRNA, which leads to reduced formation of 40S ribosomal subunits [3]."
+            ],
+            "pfam_descriptions": [
+                "Bystin"
+            ],
+            "pfam_accessions": [
+                "PF05291"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P38333"
+            ],
+            "rcsb_pdbx_description": "Essential nuclear protein 1",
+            "entity_poly_strand_id": "RS",
+            "entity_poly_seq_one_letter_code": "MARASSTKARKQRHDPLLKDLDAAQGTLKKINKKKLAQNDAANHDAANEEDGYIDSKASRKILQLAKEQQDEIEGEELAESERNKQFEARFTTMSYDDEDEDEDEDEEAFGEDISDFEPEGDYKEEEEIVEIDEEDAAMFEQYFKKSDDFNSLSGSYNLADKIMASIREKESQVEDMQDDEPLANEQNTSRGNISSGLKSGEGVALPEKVIKAYTTVGSILKTWTHGKLPKLFKVIPSLRNWQDVIYVTNPEEWSPHVVYEATKLFVSNLTAKESQKFINLILLERFRDNIETSEDHSLNYHIYRAVKKSLYKPSAFFKGFLFPLVETGCNVREATIAGSVLAKVSVPALHSSAALSYLLRLPFSPPTTVFIKILLDKKYALPYQTVDDCVYYFMRFRILDDGSNGEDATRVLPVIWHKAFLTFAQRYKNDITQDQRDFLLETVRQRGHKDIGPEIRRELLAGASREFVDPQEANDDLMIDVN",
+            "entity_poly_seq_one_letter_code_can": "MARASSTKARKQRHDPLLKDLDAAQGTLKKINKKKLAQNDAANHDAANEEDGYIDSKASRKILQLAKEQQDEIEGEELAESERNKQFEARFTTMSYDDEDEDEDEDEEAFGEDISDFEPEGDYKEEEEIVEIDEEDAAMFEQYFKKSDDFNSLSGSYNLADKIMASIREKESQVEDMQDDEPLANEQNTSRGNISSGLKSGEGVALPEKVIKAYTTVGSILKTWTHGKLPKLFKVIPSLRNWQDVIYVTNPEEWSPHVVYEATKLFVSNLTAKESQKFINLILLERFRDNIETSEDHSLNYHIYRAVKKSLYKPSAFFKGFLFPLVETGCNVREATIAGSVLAKVSVPALHSSAALSYLLRLPFSPPTTVFIKILLDKKYALPYQTVDDCVYYFMRFRILDDGSNGEDATRVLPVIWHKAFLTFAQRYKNDITQDQRDFLLETVRQRGHKDIGPEIRRELLAGASREFVDPQEANDDLMIDVN",
+            "entity_poly_seq_length": 483,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA."
+            ],
+            "pfam_descriptions": [
+                "S4 domain"
+            ],
+            "pfam_accessions": [
+                "PF01479"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "O13516"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S9-A",
+            "entity_poly_strand_id": "SK",
+            "entity_poly_seq_one_letter_code": "MPRAPRTYSKTYSTPKRPYESSRLDAELKLAGEFGLKNKKEIYRISFQLSKIRRAARDLLTRDEKDPKRLFEGNALIRRLVRVGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAKSVHHARVLITQRHIAVGKQIVNIPSFMVRLDSEKHIDFAPTSPFGGARPGRVARRNAARKAEASGEAADEADEADEE",
+            "entity_poly_seq_one_letter_code_can": "MPRAPRTYSKTYSTPKRPYESSRLDAELKLAGEFGLKNKKEIYRISFQLSKIRRAARDLLTRDEKDPKRLFEGNALIRRLVRVGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAKSVHHARVLITQRHIAVGKQIVNIPSFMVRLDSEKHIDFAPTSPFGGARPGRVARRNAARKAEASGEAADEADEADEE",
+            "entity_poly_seq_length": 197,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL",
+                "This short N-terminal region is found in a number of higher eukaryotic ribosomal subunit 17 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17",
+                "Ribosomal_S17 N-terminal"
+            ],
+            "pfam_accessions": [
+                "PF00366",
+                "PF16205"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX47"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S11-A",
+            "entity_poly_strand_id": "SM",
+            "entity_poly_seq_one_letter_code": "MSTELTVQSERAFQKQPHIFNNPKVKTSKRTKRWYKNAGLGFKTPKTAIEGSYIDKKCPFTGLVSIRGKILTGTVVSTKMHRTIVIRRAYLHYIPKYNRYEKRHKNVPVHVSPAFRVQVGDIVTVGQCRPISKTVRFNVVKVSAAAGKANKQFAKF",
+            "entity_poly_seq_one_letter_code_can": "MSTELTVQSERAFQKQPHIFNNPKVKTSKRTKRWYKNAGLGFKTPKTAIEGSYIDKKCPFTGLVSIRGKILTGTVVSTKMHRTIVIRRAYLHYIPKYNRYEKRHKNVPVHVSPAFRVQVGDIVTVGQCRPISKTVRFNVVKVSAAAGKANKQFAKF",
+            "entity_poly_seq_length": 156,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17",
+                "eS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P48589"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S12",
+            "entity_poly_strand_id": "SN",
+            "entity_poly_seq_one_letter_code": "MSDVEEVVEVQEETVVEQTAEVTIEDALKVVLRTALVHDGLARGLRESTKALTRGEALLVVLVSSVTEANIIKLVEGLANDPENKVPLIKVADAKQLGEWAGLGKIDREGNARKVVGASVVVVKNWGAETDELSMIMEHFSQQ",
+            "entity_poly_seq_one_letter_code_can": "MSDVEEVVEVQEETVVEQTAEVTIEDALKVVLRTALVHDGLARGLRESTKALTRGEALLVVLVSSVTEANIIKLVEGLANDPENKVPLIKVADAKQLGEWAGLGKIDREGNARKVVGASVVVVKNWGAETDELSMIMEHFSQQ",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain is found at the N-terminus of ribosomal S13 and S15 proteins.                      This domain is also identified as NUC021 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S13/S15 N-terminal domain",
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF08069",
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P05756"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S13",
+            "entity_poly_strand_id": "SO",
+            "entity_poly_seq_one_letter_code": "MGRMHSAGKGISSSAIPYSRNAPAWFKLSSESVIEQIVKYARKGLTPSQIGVLLRDAHGVTQARVITGNKIMRILKSNGLAPEIPEDLYYLIKKAVSVRKHLERNRKDKDAKFRLILIESRIHRLARYYRTVAVLPPNWKYESATASALVN",
+            "entity_poly_seq_one_letter_code_can": "MGRMHSAGKGISSSAIPYSRNAPAWFKLSSESVIEQIVKYARKGLTPSQIGVLLRDAHGVTQARVITGNKIMRILKSNGLAPEIPEDLYYLIKKAVSVRKHLERNRKDKDAKFRLILIESRIHRLARYYRTVAVLPPNWKYESATASALVN",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P06367"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S14-A",
+            "entity_poly_strand_id": "SP",
+            "entity_poly_seq_one_letter_code": "MSNVVQARDNSQVFGVARIYASFNDTFVHVTDLSGKETIARVTGGMKVKADRDESSPYAAMLAAQDVAAKCKEVGITAVHVKIRATGGTRTKTPGPGGQAALRALARSGLRIGRIEDVTPVPSDSTRKKGGRRGRRL",
+            "entity_poly_seq_one_letter_code_can": "MSNVVQARDNSQVFGVARIYASFNDTFVHVTDLSGKETIARVTGGMKVKADRDESSPYAAMLAAQDVAAKCKEVGITAVHVKIRATGGTRTKTPGPGGQAALRALARSGLRIGRIEDVTPVPSDSTRKKGGRRGRRL",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX51"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S16-A",
+            "entity_poly_strand_id": "SR",
+            "entity_poly_seq_one_letter_code": "MSAVPSVQTFGKKKSATAVAHVKAGKGLIKVNGSPITLVEPEILRFKVYEPLLLVGLDKFSNIDIRVRVTGGGHVSQVYAIRQAIAKGLVAYHQKYVDEQSKNELKKAFTSYDRTLLIADSRRPEPKKFGGKGARSRFQKSYR",
+            "entity_poly_seq_one_letter_code_can": "MSAVPSVQTFGKKKSATAVAHVKAGKGLIKVNGSPITLVEPEILRFKVYEPLLLVGLDKFSNIDIRVRVTGGGHVSQVYAIRQAIAKGLVAYHQKYVDEQSKNELKKAFTSYDRTLLIADSRRPEPKKFGGKGARSRFQKSYR",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes ribosomal protein S13 from prokaryotes and S18 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S13/S18"
+            ],
+            "pfam_accessions": [
+                "PF00416"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX55"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S18-A",
+            "entity_poly_strand_id": "ST",
+            "entity_poly_seq_one_letter_code": "MSLVVQEQGSFQHILRLLNTNVDGNIKIVYALTTIKGVGRRYSNLVCKKADVDLHKRAGELTQEELERIVQIMQNPTHYKIPAWFLNRQNDITDGKDYHTLANNVESKLRDDLERLKKIRAHRGIRHFWGLRVRGQHTKTTGRRRA",
+            "entity_poly_seq_one_letter_code_can": "MSLVVQEQGSFQHILRLLNTNVDGNIKIVYALTTIKGVGRRYSNLVCKKADVDLHKRAGELTQEELERIVQIMQNPTHYKIPAWFLNRQNDITDGKDYHTLANNVESKLRDDLERLKKIRAHRGIRHFWGLRVRGQHTKTTGRRRA",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8"
+            ],
+            "pfam_accessions": [
+                "PF00410"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q3E7Y3"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S22-B",
+            "entity_poly_strand_id": "SX",
+            "entity_poly_seq_one_letter_code": "MTRSSVLADALNAINNAEKTGKRQVLLRPSSKVIIKFLQVMQKHGYIGEFEYIDDHRSGKIVVQLNGRLNKCGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGFVY",
+            "entity_poly_seq_one_letter_code_can": "MTRSSVLADALNAINNAEKTGKRQVLLRPSSKVIIKFLQVMQKHGYIGEFEYIDDHRSGKIVVQLNGRLNKCGVISPRFNVKIGDIEKWTANLLPARQFGYVILTTSAGIMDHEEARRKHVSGKILGFVY",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS8"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX29"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S23-A",
+            "entity_poly_strand_id": "SY",
+            "entity_poly_seq_one_letter_code": "MGKGKPRGLNSARKLRVHRRNNRWAENNYKKRLLGTAFKSSPFGGSSHAKGIVLEKLGIESKQPNSAIRKCVRVQLIKNGKKVTAFVPNDGCLNFVDENDEVLLAGFGRKGKAKGDIPGVRFKVVKVSGVSLLALWKEKKEKPRS",
+            "entity_poly_seq_one_letter_code_can": "MGKGKPRGLNSARKLRVHRRNNRWAENNYKKRLLGTAFKSSPFGGSSHAKGIVLEKLGIESKQPNSAIRKCVRVQLIKNGKKVTAFVPNDGCLNFVDENDEVLLAGFGRKGKAKGDIPGVRFKVVKVSGVSLLALWKEKKEKPRS",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S24e"
+            ],
+            "pfam_accessions": [
+                "PF01282"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX31"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S24-A",
+            "entity_poly_strand_id": "SZ",
+            "entity_poly_seq_one_letter_code": "MSDAVTIRTRKVISNPLLARKQFVVDVLHPNRANVSKDELREKLAEVYKAEKDAVSVFGFRTQFGGGKSVGFGLVYNSVAEAKKFEPTYRLVRYGLAEKVEKASRQQRKQKKNRDKKIFGTGKRLAKKVARRNAD",
+            "entity_poly_seq_one_letter_code_can": "MSDAVTIRTRKVISNPLLARKQFVVDVLHPNRANVSKDELREKLAEVYKAEKDAVSVFGFRTQFGGGKSVGFGLVYNSVAEAKKFEPTYRLVRYGLAEKVEKASRQQRKQKKNRDKKIFGTGKRLAKKVARRNAD",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "es24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S27"
+            ],
+            "pfam_accessions": [
+                "PF01667"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P35997"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S27-A",
+            "entity_poly_strand_id": "Sc",
+            "entity_poly_seq_one_letter_code": "MVLVQDLLHPTAASEARKHKLKTLVQGPRSYFLDVKCPGCLNITTVFSHAQTAVTCESCSTILCTPTGGKAKLSEGTSFRRK",
+            "entity_poly_seq_one_letter_code_can": "MVLVQDLLHPTAASEARKHKLKTLVQGPRSYFLDVKCPGCLNITTVFSHAQTAVTCESCSTILCTPTGGKAKLSEGTSFRRK",
+            "entity_poly_seq_length": 82,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S28e"
+            ],
+            "pfam_accessions": [
+                "PF01200"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q3E7X9"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S28-A",
+            "entity_poly_strand_id": "Sd",
+            "entity_poly_seq_one_letter_code": "MDNKTPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTSRTIVRNVKGPVRENDILVLMESEREARRLR",
+            "entity_poly_seq_one_letter_code_can": "MDNKTPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTSRTIVRNVKGPVRENDILVLMESEREARRLR",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Fibrillarin"
+            ],
+            "pfam_accessions": [
+                "PF01269"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P15646"
+            ],
+            "rcsb_pdbx_description": "rRNA 2'-O-methyltransferase fibrillarin",
+            "entity_poly_strand_id": "3B,3C",
+            "entity_poly_seq_one_letter_code": "MSFRPGSRGGSRGGSRGGFGGRGGSRGGARGGSRGGFGGRGGSRGGARGGSRGGFGGRGGSRGGARGGSRGGRGGAAGGARGGAKVVIEPHRHAGVYIARGKEDLLVTKNMAPGESVYGEKRISVEEPSKEDGVPPTKVEYRVWNPFRSKLAAGIMGGLDELFIAPGKKVLYLGAASGTSVSHVSDVVGPEGVVYAVEFSHRPGRELISMAKKRPNIIPIIEDARHPQKYRMLIGMVDCVFADVAQPDQARIIALNSHMFLKDQGGVVISIKANCIDSTVDAETVFAREVQKLREERIKPLEQLTLEPYERDHCIVVGRYMRSGLKK",
+            "entity_poly_seq_one_letter_code_can": "MSFRPGSRGGSRGGSRGGFGGRGGSRGGARGGSRGGFGGRGGSRGGARGGSRGGFGGRGGSRGGARGGSRGGRGGAAGGARGGAKVVIEPHRHAGVYIARGKEDLLVTKNMAPGESVYGEKRISVEEPSKEDGVPPTKVEYRVWNPFRSKLAAGIMGGLDELFIAPGKKVLYLGAASGTSVSHVSDVVGPEGVVYAVEFSHRPGRELISMAKKRPNIIPIIEDARHPQKYRMLIGMVDCVFADVAQPDQARIIALNSHMFLKDQGGVVISIKANCIDSTVDAETVFAREVQKLREERIKPLEQLTLEPYERDHCIVVGRYMRSGLKK",
+            "entity_poly_seq_length": 327,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This N terminal domain is found in RNA-binding proteins of the  NOP5 family [1].",
+                "This family consists of various Pre RNA processing ribonucleoproteins. The function of the aligned region is unknown however it may be a common RNA or snoRNA or Nop1p binding domain. Nop5p (Nop58p) Swiss:Q12499 from yeast is the protein component of a ribonucleoprotein required for pre-18s rRNA processing and is suggested to function with Nop1p in a snoRNA complex [1]. Nop56p Swiss:O00567 and Nop5p interact with Nop1p and are required for ribosome biogenesis [2]. Prp31p Swiss:p49704 is required for pre-mRNA splicing in S. cerevisiae [3]. Fibrillarin, or Nop, is the catalytic subunit responsible for the methyl transfer reaction of the site-specific 2'-O-methylation of ribosomal and spliceosomal RNA [4]."
+            ],
+            "pfam_descriptions": [
+                "NOP5NT (NUC127) domain",
+                "snoRNA binding domain, fibrillarin"
+            ],
+            "pfam_accessions": [
+                "PF08156",
+                "PF01798"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q12460"
+            ],
+            "rcsb_pdbx_description": "Nucleolar protein 56",
+            "entity_poly_strand_id": "3D",
+            "entity_poly_seq_one_letter_code": "MAPIEYLLFEEPTGYAVFKVKLQQDDIGSRLKEVQEQINDFGAFTKLIELVSFAPFKGAAEALENANDISEGLVSESLKAILDLNLPKASSKKKNITLAISDKNLGPSIKEEFPYVDCISNELAQDLIRGVRLHGEKLFKGLQSGDLERAQLGLGHAYSRAKVKFSVQKNDNHIIQAIALLDQLDKDINTFAMRVKEWYGWHFPELAKLVPDNYTFAKLVLFIKDKASLNDDSLHDLAALLNEDSGIAQRVIDNARISMGQDISETDMENVCVFAQRVASLADYRRQLYDYLCEKMHTVAPNLSELIGEVIGARLISHAGSLTNLSKQAASTVQILGAEKALFRALKTKGNTPKYGLIYHSGFISKASAKNKGRISRYLANKCSMASRIDNYSEEPSNVFGSVLKKQVEQRLEFYNTGKPTLKNELAIQEAMELYNKDKPAAEVEETKEKESSKKRKLEDDDEEKKEKKEKKSKKEKKEKKEKKDKKEKKDKKEKKDKKKKSKD",
+            "entity_poly_seq_one_letter_code_can": "MAPIEYLLFEEPTGYAVFKVKLQQDDIGSRLKEVQEQINDFGAFTKLIELVSFAPFKGAAEALENANDISEGLVSESLKAILDLNLPKASSKKKNITLAISDKNLGPSIKEEFPYVDCISNELAQDLIRGVRLHGEKLFKGLQSGDLERAQLGLGHAYSRAKVKFSVQKNDNHIIQAIALLDQLDKDINTFAMRVKEWYGWHFPELAKLVPDNYTFAKLVLFIKDKASLNDDSLHDLAALLNEDSGIAQRVIDNARISMGQDISETDMENVCVFAQRVASLADYRRQLYDYLCEKMHTVAPNLSELIGEVIGARLISHAGSLTNLSKQAASTVQILGAEKALFRALKTKGNTPKYGLIYHSGFISKASAKNKGRISRYLANKCSMASRIDNYSEEPSNVFGSVLKKQVEQRLEFYNTGKPTLKNELAIQEAMELYNKDKPAAEVEETKEKESSKKRKLEDDDEEKKEKKEKKSKKEKKEKKEKKDKKEKKDKKEKKDKKKKSKD",
+            "entity_poly_seq_length": 504,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This N terminal domain is found in RNA-binding proteins of the  NOP5 family [1].",
+                "This family consists of various Pre RNA processing ribonucleoproteins. The function of the aligned region is unknown however it may be a common RNA or snoRNA or Nop1p binding domain. Nop5p (Nop58p) Swiss:Q12499 from yeast is the protein component of a ribonucleoprotein required for pre-18s rRNA processing and is suggested to function with Nop1p in a snoRNA complex [1]. Nop56p Swiss:O00567 and Nop5p interact with Nop1p and are required for ribosome biogenesis [2]. Prp31p Swiss:p49704 is required for pre-mRNA splicing in S. cerevisiae [3]. Fibrillarin, or Nop, is the catalytic subunit responsible for the methyl transfer reaction of the site-specific 2'-O-methylation of ribosomal and spliceosomal RNA [4]."
+            ],
+            "pfam_descriptions": [
+                "NOP5NT (NUC127) domain",
+                "snoRNA binding domain, fibrillarin"
+            ],
+            "pfam_accessions": [
+                "PF08156",
+                "PF01798"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q12499"
+            ],
+            "rcsb_pdbx_description": "Nucleolar protein 58",
+            "entity_poly_strand_id": "3E",
+            "entity_poly_seq_one_letter_code": "MAYVLTETSAGYALLKASDKKIYKSSSLIQDLDSSDKVLKEFKIAAFSKFNSAANALEEANSIIEGKVSSQLEKLLEEIKKDKKSTLIVSETKLANAINKLGLNFNVVSDAVTLDIYRAIKEYLPELLPGMSDNDLSKMSLGLAHSIGRHKLKFSADKVDVMIIQAIALLDDLDKELNTYAMRCKEWYGWHFPELAKIVTDSVAYARIILTMGIRSKASETDLSEILPEEIEERVKTAAEVSMGTEITQTDLDNINALAEQIVEFAAYREQLSNYLSARMKAIAPNLTQLVGELVGARLIAHSGSLISLAKSPASTIQILGAEKALFRALKTKHDTPKYGLLYHASLVGQATGKNKGKIARVLAAKAAVSLRYDALAEDRDDSGDIGLESRAKVENRLSQLEGRDLRTTPKVVREAKKVEMTEARAYNADADTAKAASDSESDSDDEEEEKKEKKEKKRKRDDDEDSKDSKKAKKEKKDKKEKKEKKEKKEKKEKKEKKEKKSKKEKKEKK",
+            "entity_poly_seq_one_letter_code_can": "MAYVLTETSAGYALLKASDKKIYKSSSLIQDLDSSDKVLKEFKIAAFSKFNSAANALEEANSIIEGKVSSQLEKLLEEIKKDKKSTLIVSETKLANAINKLGLNFNVVSDAVTLDIYRAIKEYLPELLPGMSDNDLSKMSLGLAHSIGRHKLKFSADKVDVMIIQAIALLDDLDKELNTYAMRCKEWYGWHFPELAKIVTDSVAYARIILTMGIRSKASETDLSEILPEEIEERVKTAAEVSMGTEITQTDLDNINALAEQIVEFAAYREQLSNYLSARMKAIAPNLTQLVGELVGARLIAHSGSLISLAKSPASTIQILGAEKALFRALKTKHDTPKYGLLYHASLVGQATGKNKGKIARVLAAKAAVSLRYDALAEDRDDSGDIGLESRAKVENRLSQLEGRDLRTTPKVVREAKKVEMTEARAYNADADTAKAASDSESDSDDEEEEKKEKKEKKRKRDDDEDSKDSKKAKKEKKDKKEKKEKKEKKEKKEKKEKKEKKSKKEKKEKK",
+            "entity_poly_seq_length": 511,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q06506"
+            ],
+            "rcsb_pdbx_description": "Ribosomal RNA-processing protein 9",
+            "entity_poly_strand_id": "3F",
+            "entity_poly_seq_one_letter_code": "MSDVTQQKKRKRSKGEVNPSKPTVDEEITDPSSNEDEQLEVSDEEDALESEEEFEGENPADKRRRLAKQYLENLKSEANDILTDNRNAEEKDLNNLKERTIDEYNNFDAGDLDKDIIASRLKEDVAEQQGRVFRYFGDKLLISEAKQSFTRVGENNLTCISCFQPVLNKYTFEESSNGDKNKGRLFAYTVSKDLQLTKYDITDFSKRPKKLKYAKGGAKYIPTSKHEYENTTEGHYDEILTVAASPDGKYVVTGGRDRKLIVWSTESLSPVKVIPTKDRRGEVLSLAFRKNSDQLYASCADFKIRTYSINQFSQLEILYGHHDIVEDISALAMERCVTVGARDRTAMLWKIPDETRLTFRGGDEPQKLLRRWMKENAKEGEDGEVKYPDESEAPLFFCEGSIDVVSMVDDFHFITGSDNGNICLWSLAKKKPIFTERIAHGILPEPSFNDISGETDEELRKRQLQGKKLLQPFWITSLYAIPYSNVFISGSWSGSLKVWKISDNLRSFELLGELSGAKGVVTKIQVVESGKHGKEKFRILASIAKEHRLGRWIANVSGARNGIYSAVIDQTGF",
+            "entity_poly_seq_one_letter_code_can": "MSDVTQQKKRKRSKGEVNPSKPTVDEEITDPSSNEDEQLEVSDEEDALESEEEFEGENPADKRRRLAKQYLENLKSEANDILTDNRNAEEKDLNNLKERTIDEYNNFDAGDLDKDIIASRLKEDVAEQQGRVFRYFGDKLLISEAKQSFTRVGENNLTCISCFQPVLNKYTFEESSNGDKNKGRLFAYTVSKDLQLTKYDITDFSKRPKKLKYAKGGAKYIPTSKHEYENTTEGHYDEILTVAASPDGKYVVTGGRDRKLIVWSTESLSPVKVIPTKDRRGEVLSLAFRKNSDQLYASCADFKIRTYSINQFSQLEILYGHHDIVEDISALAMERCVTVGARDRTAMLWKIPDETRLTFRGGDEPQKLLRRWMKENAKEGEDGEVKYPDESEAPLFFCEGSIDVVSMVDDFHFITGSDNGNICLWSLAKKKPIFTERIAHGILPEPSFNDISGETDEELRKRQLQGKKLLQPFWITSLYAIPYSNVFISGSWSGSLKVWKISDNLRSFELLGELSGAKGVVTKIQVVESGKHGKEKFRILASIAKEHRLGRWIANVSGARNGIYSAVIDQTGF",
+            "entity_poly_seq_length": 573,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P39990"
+            ],
+            "rcsb_pdbx_description": "13 kDa ribonucleoprotein-associated protein",
+            "entity_poly_strand_id": "3G,3H",
+            "entity_poly_seq_one_letter_code": "MSAPNPKAFPLADAALTQQILDVVQQAANLRQLKKGANEATKTLNRGISEFIIMAADCEPIEILLHLPLLCEDKNVPYVFVPSRVALGRACGVSRPVIAASITTNDASAIKTQIYAVKDKIETLLI",
+            "entity_poly_seq_one_letter_code_can": "MSAPNPKAFPLADAALTQQILDVVQQAANLRQLKKGANEATKTLNRGISEFIIMAADCEPIEILLHLPLLCEDKNVPYVFVPSRVALGRACGVSRPVIAASITTNDASAIKTQIYAVKDKIETLLI",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain is found at the C-terminus of proteins containing WD40 repeats.  These proteins are part of the U3 ribonucleoprotein the yeast protein is called Utp12 or DIP2 Swiss:Q12220 [1]."
+            ],
+            "pfam_descriptions": [
+                "Dip2/Utp12 Family"
+            ],
+            "pfam_accessions": [
+                "PF04003"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q04177"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 5",
+            "entity_poly_strand_id": "A5",
+            "entity_poly_seq_one_letter_code": "MDSPVLQSAYDPSGQYLCYVTVALDKQRVGVQPTQRATSSGVDTVWNENFLYLEDSKLKVTCLKWVNLASSDTVAIILGMNNGEIWLYSVLANEVTYKFTTGNSYEIKDIDLMGNQLWCIDSSDAFYQFDLLQFKLLQHFRINNCVQLNKLTIVPAGDSVAQLLVASHSISLIDIEEKKVVMTFPGHVSPVSTLQVITNEFFISGAEGDRFLNVYDIHSGMTKCVLVAESDIKELSHSGQADSIAVTTEDGSLEIFVDPLVSSSTKKRGNKSKKSSKKIQIVSKDGRKVPIYNAFINKDLLNVSWLQNATMPYFKNLQWREIPNEYTVEISLNWNNKNKSADRDLHGKDLASATNYVEGNARVTSGDNFKHVDDAIKSWERELTSLEQEQAKPPQANELLTETFGDKLESSTVARISGKKTNLKGSNLKTATTTGTVTVILSQALQSNDHSLLETVLNNRDERVIRDTIFRLKPALAVILLERLAERIARQTHRQGPLNVWVKWCLIIHGGYLVSIPNLMSTLSSLHSTLKRRSDLLPRLLALDARLDCTINKFKTLNYEAGDIHSSEPVVEEDEDDVEYNEELDDAGLIEDGEESYGSEEEEEGDSDNEEEQKHTSSKQDGRLETEQSDGEEEAGYSDVEME",
+            "entity_poly_seq_one_letter_code_can": "MDSPVLQSAYDPSGQYLCYVTVALDKQRVGVQPTQRATSSGVDTVWNENFLYLEDSKLKVTCLKWVNLASSDTVAIILGMNNGEIWLYSVLANEVTYKFTTGNSYEIKDIDLMGNQLWCIDSSDAFYQFDLLQFKLLQHFRINNCVQLNKLTIVPAGDSVAQLLVASHSISLIDIEEKKVVMTFPGHVSPVSTLQVITNEFFISGAEGDRFLNVYDIHSGMTKCVLVAESDIKELSHSGQADSIAVTTEDGSLEIFVDPLVSSSTKKRGNKSKKSSKKIQIVSKDGRKVPIYNAFINKDLLNVSWLQNATMPYFKNLQWREIPNEYTVEISLNWNNKNKSADRDLHGKDLASATNYVEGNARVTSGDNFKHVDDAIKSWERELTSLEQEQAKPPQANELLTETFGDKLESSTVARISGKKTNLKGSNLKTATTTGTVTVILSQALQSNDHSLLETVLNNRDERVIRDTIFRLKPALAVILLERLAERIARQTHRQGPLNVWVKWCLIIHGGYLVSIPNLMSTLSSLHSTLKRRSDLLPRLLALDARLDCTINKFKTLNYEAGDIHSSEPVVEEDEDDVEYNEELDDAGLIEDGEESYGSEEEEEGDSDNEEEQKHTSSKQDGRLETEQSDGEEEAGYSDVEME",
+            "entity_poly_seq_length": 643,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Utp8 is an essential component of the nuclear tRNA export machinery in Saccharomyces cerevisiae.  It is a tRNA binding protein that acts at a step between tRNA maturation /aminoacylation, and translocation of the tRNA across the nuclear pore complex [1]."
+            ],
+            "pfam_descriptions": [
+                "Utp8 family"
+            ],
+            "pfam_accessions": [
+                "PF10395"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P53276"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 8",
+            "entity_poly_strand_id": "A8",
+            "entity_poly_seq_one_letter_code": "MPSLSQPFRLATLPKIASLSNFSLQADYVQVADGTFNESTNNITLGISGSSISQYIINPTPKLTFDYPIPSTNIITACNAEKGQANIDGNIEASTDDEANNEKTINTQKKRNVEIWAFGLMVNKGNYTLNVITKALEDTTDTSNDHLSESDIDNKAYTGSDEFLSQYKIKAKAKVMSIKIDTKNSLVIAILQNGLIEIFDFKLTLLHSFDISYDNLKYAKWFTENGTEYVFVLCPLQDDKVCYKLLELTDCGSGESSPIKELSSTIIEGFSFENSKLCYQFGKLYKLNQGKIYIYSLPHCQLQQVIEFPMVDKLSPGDDLISFQPVSVNRVLLTVNNVIYLLDLLHCSTLSQRELTHVKTFQLLKSAVINSEKSHNSKTIAIGISTKNGPNPTSSLEIINIDVGTNTLKDSLGKSFQVGNNDSSVILKPLFDDKDINDKRVKCNDVSGDSSVPVLHCNEVIEKLSALQDNDITSFDDIFFKELKIKEEHYTEKDRYISDPGFLNKVLDLIFGKFSGNDYPKTLTFLLTHPLFPLSRTRNLLSLLRDQPRLFKQAIVTCPNLPLNELLEELFSIRNRELLLDISFRILQDFTRDSIKQEMKKLSKLDVQNFIEFITSGGEDSSPECFNPSQSTQLFQLLSLVLDSIGLFSLEGALLENLTLYIDKQVEIAERNTELWNLIDTKGFQHGFASSTFDNGTSQKRALPTYTMEYLDI",
+            "entity_poly_seq_one_letter_code_can": "MPSLSQPFRLATLPKIASLSNFSLQADYVQVADGTFNESTNNITLGISGSSISQYIINPTPKLTFDYPIPSTNIITACNAEKGQANIDGNIEASTDDEANNEKTINTQKKRNVEIWAFGLMVNKGNYTLNVITKALEDTTDTSNDHLSESDIDNKAYTGSDEFLSQYKIKAKAKVMSIKIDTKNSLVIAILQNGLIEIFDFKLTLLHSFDISYDNLKYAKWFTENGTEYVFVLCPLQDDKVCYKLLELTDCGSGESSPIKELSSTIIEGFSFENSKLCYQFGKLYKLNQGKIYIYSLPHCQLQQVIEFPMVDKLSPGDDLISFQPVSVNRVLLTVNNVIYLLDLLHCSTLSQRELTHVKTFQLLKSAVINSEKSHNSKTIAIGISTKNGPNPTSSLEIINIDVGTNTLKDSLGKSFQVGNNDSSVILKPLFDDKDINDKRVKCNDVSGDSSVPVLHCNEVIEKLSALQDNDITSFDDIFFKELKIKEEHYTEKDRYISDPGFLNKVLDLIFGKFSGNDYPKTLTFLLTHPLFPLSRTRNLLSLLRDQPRLFKQAIVTCPNLPLNELLEELFSIRNRELLLDISFRILQDFTRDSIKQEMKKLSKLDVQNFIEFITSGGEDSSPECFNPSQSTQLFQLLSLVLDSIGLFSLEGALLENLTLYIDKQVEIAERNTELWNLIDTKGFQHGFASSTFDNGTSQKRALPTYTMEYLDI",
+            "entity_poly_seq_length": 713,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P38882"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 9",
+            "entity_poly_strand_id": "A9",
+            "entity_poly_seq_one_letter_code": "MGSSLDLVASFSHDSTRFAFQASVAQKNNVDIYPLNETKDYVVNSSLVSHIDYETNDMKVSDVIFFGWCSDLIDTQSSNIKRKLDEDEGTGESSEQRCENFFVNGFPDGRIVVYSSNGKDIVNIIKNKKEILGADTDESDIWILDSDKVVKKLQYNNSKPLKTFTLVDGKDDEIVHFQILHQNGTLLVCIITKQMVYIVDPSKRRPSTKYSFEISDAVACEFSSDGKYLLIANNEELIAYDLKEDSKLIQSWPVQVKTLKTLDDLIMALTTDGKINNYKIGEADKVCSIVVNEDLEIIDFTPINSKQQVLISWLNVNEPNFESISLKEIETQGYITINKNEKNNADEADQKKLEEKEEEAQPEVQHEKKETETKINKKVSKSDQVEIANILSSHLEANSTEILDDLMSGSWTEPEIKKFILTKINTVDHLSKIFLTISKSITQNPWNEENLLPLWLKWLLTLKSGELNSIKDKHTKKNCKHLKSALRSSEEILPVLLGIQGRLEMLRRQAKLREDLAQLSMQEGEDDEIEVIEHSNVISNPLQDQASPVEKLEPDSIVYANGESDEFVDASEYKD",
+            "entity_poly_seq_one_letter_code_can": "MGSSLDLVASFSHDSTRFAFQASVAQKNNVDIYPLNETKDYVVNSSLVSHIDYETNDMKVSDVIFFGWCSDLIDTQSSNIKRKLDEDEGTGESSEQRCENFFVNGFPDGRIVVYSSNGKDIVNIIKNKKEILGADTDESDIWILDSDKVVKKLQYNNSKPLKTFTLVDGKDDEIVHFQILHQNGTLLVCIITKQMVYIVDPSKRRPSTKYSFEISDAVACEFSSDGKYLLIANNEELIAYDLKEDSKLIQSWPVQVKTLKTLDDLIMALTTDGKINNYKIGEADKVCSIVVNEDLEIIDFTPINSKQQVLISWLNVNEPNFESISLKEIETQGYITINKNEKNNADEADQKKLEEKEEEAQPEVQHEKKETETKINKKVSKSDQVEIANILSSHLEANSTEILDDLMSGSWTEPEIKKFILTKINTVDHLSKIFLTISKSITQNPWNEENLLPLWLKWLLTLKSGELNSIKDKHTKKNCKHLKSALRSSEEILPVLLGIQGRLEMLRRQAKLREDLAQLSMQEGEDDEIEVIEHSNVISNPLQDQASPVEKLEPDSIVYANGESDEFVDASEYKD",
+            "entity_poly_seq_length": 575,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This C terminal domain is found in BAP28-like nucleolar proteins [1].",
+                "This domain family is found in eukaryotes, and is approximately 120 amino acids in length. The family is found in association with Pfam:PF08146. This family is the protein associated with U3 snoRNA which is involved in the processing of pre-rRNA."
+            ],
+            "pfam_descriptions": [
+                "BP28CT (NUC211) domain",
+                "U3 small nucleolar RNA-associated protein 10"
+            ],
+            "pfam_accessions": [
+                "PF08146",
+                "PF12397"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P42945"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 10",
+            "entity_poly_strand_id": "AE",
+            "entity_poly_seq_one_letter_code": "MSSLSDQLAQVASNNATVALDRKRRQKLHSASLIYNSKTAATQDYDFIFENASKALEELSQIEPKFAIFSRTLFSESSISLDRNVQTKEEIKDLDNAINAYLLLASSKWYLAPTLHATEWLVRRFQIHVKNTEMLLLSTLNYYQTPVFKRILSIIKLPPLFNCLSNFVRSEKPPTALTMIKLFNDMDFLKLYTSYLDQCIKHNATYTNQLLFTTCCFINVVAFNSNNDEKLNQLVPILLEISAKLLASKSKDCQIAAHTILVVFATALPLKKTIILAAMETILSNLDAKEAKHSALLTICKLFQTLKGQGNVDQLPSKIFKLFDSKFDTVSILTFLDKEDKPVCDKFITSYTRSIARYDRSKLNIILSLLKKIRLERYEVRLIITDLIYLSEILEDKSQLVELFEYFISINEDLVLKCLKSLGLTGELFEIRLTTSLFTNADVNTDIVKQLSDPVETTKKDTASFQTFLDKHSELINTTNVSMLTETGERYKKVLSLFTEAIGKGYKASSFLTSFFTTLESRITFLLRVTISPAAPTALKLISLNNIAKYINSIEKEVNIFTLVPCLICALRDASIKVRTGVKKILSLIAKRPSTKHYFLSDKLYGENVTIPMLNPKDSEAWLSGFLNEYVTENYDISRILTPKRNEKVFLMFWANQALLIPSPYAKTVLLDNLNKSPTYASSYSSLFEEFISHYLENRSSWEKSCIANKTNFEHFERSLVNLVSPKEKQSFMIDFVLSALNSDYEQLANIAAERLISIFASLNNAQKLKIVQNIVDSSSNVESSYDTVGVLQSLPLDSDIFVSILNQNSISNEMDQTDFSKRRRRRSSTSKNAFLKEEVSQLAELHLRKLTIILEALDKVRNVGSEKLLFTLLSLLSDLETLDQDGGLPVLYAQETLISCTLNTITYLKEHGCTELTNVRADILVSAIRNSASPQVQNKLLLVIGSLATLSSEVILHSVMPIFTFMGAHSIRQDDEFTTKVVERTILTVVPALIKNSKGNEKEEMEFLLLSFTTALQHVPRHRRVKLFSTLIKTLDPVKALGSFLFLIAQQYSSALVNFKIGEARILIEFIKALLVDLHVNEELSGLNDLLDIIKLLTSSKSSSEKKKSLESRVLFSNGVLNFSESEFLTFMNNTFEFINKITEETDQDYYDVRRNLRLKVYSVLLDETSDKKLIRNIREEFGTLLEGVLFFINSVELTFSCITSQENEEASDSETSLSDHTTEIKEILFKVLGNVLQILPVDEFVNAVLPLLSTSTNEDIRYHLTLVIGSKFELEGSEAIPIVNNVMKVLLDRMPLESKSVVISQVILNTMTALVSKYGKKLEGSILTQALTLATEKVSSDMTEVKISSLALITNCVQVLGVKSIAFYPKIVPPSIKLFDASLADSSNPLKEQLQVAILLLFAGLIKRIPSFLMSNILDVLHVIYFSREVDSSIRLSVISLIIENIDLKEVLKVLFRIWSTEIATSNDTVAVSLFLSTLESTVENIDKKSATSQSPIFFKLLLSLFEFRSISSFDNNTISRIEASVHEISNSYVLKMNDKVFRPLFVILVRWAFDGEGVTNAGITETERLLAFFKFFNKLQENLRGIITSYFTYLLEPVDMLLKRFISKDMENVNLRRLVINSLTSSLKFDRDEYWKSTSRFELISVSLVNQLSNIENSIGKYLVKAIGALASNNSGVDEHNQILNKLIVEHMKASCSSNEKLWAIRAMKLIYSKIGESWLVLLPQLVPVIAELLEDDDEEIEREVRTGLVKVVENVLGEPFDRYLD",
+            "entity_poly_seq_one_letter_code_can": "MSSLSDQLAQVASNNATVALDRKRRQKLHSASLIYNSKTAATQDYDFIFENASKALEELSQIEPKFAIFSRTLFSESSISLDRNVQTKEEIKDLDNAINAYLLLASSKWYLAPTLHATEWLVRRFQIHVKNTEMLLLSTLNYYQTPVFKRILSIIKLPPLFNCLSNFVRSEKPPTALTMIKLFNDMDFLKLYTSYLDQCIKHNATYTNQLLFTTCCFINVVAFNSNNDEKLNQLVPILLEISAKLLASKSKDCQIAAHTILVVFATALPLKKTIILAAMETILSNLDAKEAKHSALLTICKLFQTLKGQGNVDQLPSKIFKLFDSKFDTVSILTFLDKEDKPVCDKFITSYTRSIARYDRSKLNIILSLLKKIRLERYEVRLIITDLIYLSEILEDKSQLVELFEYFISINEDLVLKCLKSLGLTGELFEIRLTTSLFTNADVNTDIVKQLSDPVETTKKDTASFQTFLDKHSELINTTNVSMLTETGERYKKVLSLFTEAIGKGYKASSFLTSFFTTLESRITFLLRVTISPAAPTALKLISLNNIAKYINSIEKEVNIFTLVPCLICALRDASIKVRTGVKKILSLIAKRPSTKHYFLSDKLYGENVTIPMLNPKDSEAWLSGFLNEYVTENYDISRILTPKRNEKVFLMFWANQALLIPSPYAKTVLLDNLNKSPTYASSYSSLFEEFISHYLENRSSWEKSCIANKTNFEHFERSLVNLVSPKEKQSFMIDFVLSALNSDYEQLANIAAERLISIFASLNNAQKLKIVQNIVDSSSNVESSYDTVGVLQSLPLDSDIFVSILNQNSISNEMDQTDFSKRRRRRSSTSKNAFLKEEVSQLAELHLRKLTIILEALDKVRNVGSEKLLFTLLSLLSDLETLDQDGGLPVLYAQETLISCTLNTITYLKEHGCTELTNVRADILVSAIRNSASPQVQNKLLLVIGSLATLSSEVILHSVMPIFTFMGAHSIRQDDEFTTKVVERTILTVVPALIKNSKGNEKEEMEFLLLSFTTALQHVPRHRRVKLFSTLIKTLDPVKALGSFLFLIAQQYSSALVNFKIGEARILIEFIKALLVDLHVNEELSGLNDLLDIIKLLTSSKSSSEKKKSLESRVLFSNGVLNFSESEFLTFMNNTFEFINKITEETDQDYYDVRRNLRLKVYSVLLDETSDKKLIRNIREEFGTLLEGVLFFINSVELTFSCITSQENEEASDSETSLSDHTTEIKEILFKVLGNVLQILPVDEFVNAVLPLLSTSTNEDIRYHLTLVIGSKFELEGSEAIPIVNNVMKVLLDRMPLESKSVVISQVILNTMTALVSKYGKKLEGSILTQALTLATEKVSSDMTEVKISSLALITNCVQVLGVKSIAFYPKIVPPSIKLFDASLADSSNPLKEQLQVAILLLFAGLIKRIPSFLMSNILDVLHVIYFSREVDSSIRLSVISLIIENIDLKEVLKVLFRIWSTEIATSNDTVAVSLFLSTLESTVENIDKKSATSQSPIFFKLLLSLFEFRSISSFDNNTISRIEASVHEISNSYVLKMNDKVFRPLFVILVRWAFDGEGVTNAGITETERLLAFFKFFNKLQENLRGIITSYFTYLLEPVDMLLKRFISKDMENVNLRRLVINSLTSSLKFDRDEYWKSTSRFELISVSLVNQLSNIENSIGKYLVKAIGALASNNSGVDEHNQILNKLIVEHMKASCSSNEKLWAIRAMKLIYSKIGESWLVLLPQLVPVIAELLEDDDEEIEREVRTGLVKVVENVLGEPFDRYLD",
+            "entity_poly_seq_length": 1769,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "U3 snoRNA is ubiquitous in eukaryotes and is required for nucleolar processing of pre-18S ribosomal RNA [1]. It is a component of the ribosomal small subunit (SSU) processome. UTP15 is needed for optimal pre-ribosomal RNA transcription by RNA polymerase I, together with a subset of U3 proteins required for transcription (t-UTPs) [2]. This entry represents the C terminal of UTP15, and is found adjacent to WD40 repeats (Pfam:PF00400).",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "UTP15 C terminal",
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF09384",
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q04305"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 15",
+            "entity_poly_strand_id": "AF",
+            "entity_poly_seq_one_letter_code": "MSTARPRIITSKAPLLPQQTTPEQRYWRQYTSAQLVKEHNSVTHISFNPQHPHDFAVTSSTRVQIFSSRTRQVIKTFSRFKDVVYSASFRSDGKLLCAGDATGLVSVYDSYNPRTILLSINASTHPTHVTKFHTQDNKILATASDDRVTRLWDISNAYEPQLELTGATDYVRTLSFIPAAPHLVATGSYDGLIRLYDTRSSGSTPIYSLNHDQPVENVIAVSPTQIVSCGGNNFKVWDLTSNKKLYERGNFNKAVTCLDYVENFDSPMQSALIASSLDGHVKVFDPLDNFQVKFGWKFSGPVLSCAVSPSTAQGNRHLVAGLSSGLLAIRTKKKEKRSSDKENAPASFNKNAKSNNFQRMMRGSEYQGDQEHIIHNDKVRSQRRMRAFERNINQFKWSEALDNAFVPGMAKELTLTVLQELRKRGKVRVALYGRDESTLEPLLNWCLKGIEDVRSASIVADWVAVVLELYGNTLESSPVLQELMIDLKTKVRHEIHKSKEAQRIEGMLQLLTS",
+            "entity_poly_seq_one_letter_code_can": "MSTARPRIITSKAPLLPQQTTPEQRYWRQYTSAQLVKEHNSVTHISFNPQHPHDFAVTSSTRVQIFSSRTRQVIKTFSRFKDVVYSASFRSDGKLLCAGDATGLVSVYDSYNPRTILLSINASTHPTHVTKFHTQDNKILATASDDRVTRLWDISNAYEPQLELTGATDYVRTLSFIPAAPHLVATGSYDGLIRLYDTRSSGSTPIYSLNHDQPVENVIAVSPTQIVSCGGNNFKVWDLTSNKKLYERGNFNKAVTCLDYVENFDSPMQSALIASSLDGHVKVFDPLDNFQVKFGWKFSGPVLSCAVSPSTAQGNRHLVAGLSSGLLAIRTKKKEKRSSDKENAPASFNKNAKSNNFQRMMRGSEYQGDQEHIIHNDKVRSQRRMRAFERNINQFKWSEALDNAFVPGMAKELTLTVLQELRKRGKVRVALYGRDESTLEPLLNWCLKGIEDVRSASIVADWVAVVLELYGNTLESSPVLQELMIDLKTKVRHEIHKSKEAQRIEGMLQLLTS",
+            "entity_poly_seq_length": 513,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q02931"
+            ],
+            "rcsb_pdbx_description": "NET1-associated nuclear protein 1",
+            "entity_poly_strand_id": "AG",
+            "entity_poly_seq_one_letter_code": "MTQSLGIEQYKLSVVSGGKPALNNLSSVTGNKNIARLSQDQRNYIIPFNNQIKVYSVETRQCVKTLKFANNSLLSGIFLQEEENNESIVKILLGDITVPQQEDAHLITVFTNNGHVIVLNYKGKLVESPKHFKISLADEKLANVFHSEGNYRILTTFKDPSQKAHNSLQSYRLYALTFDDAKKQFEVAHQAEWHNVILSNISSNGKLLAHMCKDVSTKDHEHKSISVVSLFDDSVNLSFPLGSILSSQTQSLSYNTRYVSSMAIDNMGQQLAVGFASGVISIVSLADLQIRLLKWHIDSVLSLSFSHDGSYLLSGGWEKVMSLWQLETNSQQFLPRLNGIIIDCQVLGPQGNYYSLILQMTENNSNSDYQFLLLNASDLTSKLSINGPLPVFNSTIKHIQQPISAMNTKNSNSITSLNHSKKKQSRKLIKSRRQDFTTNVEINPINKNLYFPHISAVQIFDFYKNEQVNYQYLTSGVNNSMGKVRFELNLQDPIITDLKFTKDGQWMITYEIEYPPNDLLSSKDLTHILKFWTKNDNETNWNLKTKVINPHGISVPITKILPSPRSVNNSQGCLTADNNGGLKFWSFDSHESNWCLKKISLPNFNHFSNSVSLAWSQDGSLIFHGFDDKLQILDFDTFKKFESLENTKTVSEFTLDSEIQTVKLINDTNLIVATRTTLNAINLLRGQVINSFDLYPFVNGVYKNGHMDRLITCDERTGNIALVINQQLTDLDGVPTINYKSRIIIFDSDLSTKLGNFTHHEYISWIGWNYDTDFIFLDIESTLGVVGTTVNTQLSDEVNNEGILDGLVSNTITTSASNSDIFAEQLHKLSSRGKKSDTRDKNTNDNDEDEEDIALEFINGEKKDKLVNMNSFTSMFDNIQNVQMDTFFDRVMKVLT",
+            "entity_poly_seq_one_letter_code_can": "MTQSLGIEQYKLSVVSGGKPALNNLSSVTGNKNIARLSQDQRNYIIPFNNQIKVYSVETRQCVKTLKFANNSLLSGIFLQEEENNESIVKILLGDITVPQQEDAHLITVFTNNGHVIVLNYKGKLVESPKHFKISLADEKLANVFHSEGNYRILTTFKDPSQKAHNSLQSYRLYALTFDDAKKQFEVAHQAEWHNVILSNISSNGKLLAHMCKDVSTKDHEHKSISVVSLFDDSVNLSFPLGSILSSQTQSLSYNTRYVSSMAIDNMGQQLAVGFASGVISIVSLADLQIRLLKWHIDSVLSLSFSHDGSYLLSGGWEKVMSLWQLETNSQQFLPRLNGIIIDCQVLGPQGNYYSLILQMTENNSNSDYQFLLLNASDLTSKLSINGPLPVFNSTIKHIQQPISAMNTKNSNSITSLNHSKKKQSRKLIKSRRQDFTTNVEINPINKNLYFPHISAVQIFDFYKNEQVNYQYLTSGVNNSMGKVRFELNLQDPIITDLKFTKDGQWMITYEIEYPPNDLLSSKDLTHILKFWTKNDNETNWNLKTKVINPHGISVPITKILPSPRSVNNSQGCLTADNNGGLKFWSFDSHESNWCLKKISLPNFNHFSNSVSLAWSQDGSLIFHGFDDKLQILDFDTFKKFESLENTKTVSEFTLDSEIQTVKLINDTNLIVATRTTLNAINLLRGQVINSFDLYPFVNGVYKNGHMDRLITCDERTGNIALVINQQLTDLDGVPTINYKSRIIIFDSDLSTKLGNFTHHEYISWIGWNYDTDFIFLDIESTLGVVGTTVNTQLSDEVNNEGILDGLVSNTITTSASNSDIFAEQLHKLSSRGKKSDTRDKNTNDNDEDEEDIALEFINGEKKDKLVNMNSFTSMFDNIQNVQMDTFFDRVMKVLT",
+            "entity_poly_seq_length": 896,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain is found at the C-terminus of proteins containing WD40 repeats.  These proteins are part of the U3 ribonucleoprotein the yeast protein is called Utp12 or DIP2 Swiss:Q12220 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Dip2/Utp12 Family",
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF04003",
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P25635"
+            ],
+            "rcsb_pdbx_description": "Periodic tryptophan protein 2",
+            "entity_poly_strand_id": "B1",
+            "entity_poly_seq_one_letter_code": "MKSDFKFSNLLGTVYRQGNITFSDDGKQLLSPVGNRVSVFDLINNKSFTFEYEHRKNIAAIDLNKQGTLLISIDEDGRAILVNFKARNVLHHFNFKEKCSAVKFSPDGRLFALASGRFLQIWKTPDVNKDRQFAPFVRHRVHAGHFQDITSLTWSQDSRFILTTSKDLSAKIWSVDSEEKNLAATTFNGHRDYVMGAFFSHDQEKIYTVSKDGAVFVWEFTKRPSDDDDNESEDDDKQEEVDISKYSWRITKKHFFYANQAKVKCVTFHPATRLLAVGFTSGEFRLYDLPDFTLIQQLSMGQNPVNTVSVNQTGEWLAFGSSKLGQLLVYEWQSESYILKQQGHFDSTNSLAYSPDGSRVVTASEDGKIKVWDITSGFCLATFEEHTSSVTAVQFAKRGQVMFSSSLDGTVRAWDLIRYRNFRTFTGTERIQFNCLAVDPSGEVVCAGSLDNFDIHVWSVQTGQLLDALSGHEGPVSCLSFSQENSVLASASWDKTIRIWSIFGRSQQVEPIEVYSDVLALSMRPDGKEVAVSTLKGQISIFNIEDAKQVGNIDCRKDIISGRFNQDRFTAKNSERSKFFTTIHYSFDGMAIVAGGNNNSICLYDVPNEVLLKRFIVSRNMALNGTLEFLNSKKMTEAGSLDLIDDAGENSDLEDRIDNSLPGSQRGGDLSTRKMRPEVRVTSVQFSPTANAFAAASTEGLLIYSTNDTILFDPFDLDVDVTPHSTVEALREKQFLNALVMAFRLNEEYLINKVYEAIPIKEIPLVASNIPAIYLPRILKFIGDFAIESQHIEFNLIWIKALLSASGGYINEHKYLFSTAMRSIQRFIVRVAKEVVNTTTDNKYTYRFLVSTDGSMEDGAADDDEVLLKDDADEDNEENEENDVVMESDDEEGWIGFNGKDNKLPLSNENDSSDEEENEKELP",
+            "entity_poly_seq_one_letter_code_can": "MKSDFKFSNLLGTVYRQGNITFSDDGKQLLSPVGNRVSVFDLINNKSFTFEYEHRKNIAAIDLNKQGTLLISIDEDGRAILVNFKARNVLHHFNFKEKCSAVKFSPDGRLFALASGRFLQIWKTPDVNKDRQFAPFVRHRVHAGHFQDITSLTWSQDSRFILTTSKDLSAKIWSVDSEEKNLAATTFNGHRDYVMGAFFSHDQEKIYTVSKDGAVFVWEFTKRPSDDDDNESEDDDKQEEVDISKYSWRITKKHFFYANQAKVKCVTFHPATRLLAVGFTSGEFRLYDLPDFTLIQQLSMGQNPVNTVSVNQTGEWLAFGSSKLGQLLVYEWQSESYILKQQGHFDSTNSLAYSPDGSRVVTASEDGKIKVWDITSGFCLATFEEHTSSVTAVQFAKRGQVMFSSSLDGTVRAWDLIRYRNFRTFTGTERIQFNCLAVDPSGEVVCAGSLDNFDIHVWSVQTGQLLDALSGHEGPVSCLSFSQENSVLASASWDKTIRIWSIFGRSQQVEPIEVYSDVLALSMRPDGKEVAVSTLKGQISIFNIEDAKQVGNIDCRKDIISGRFNQDRFTAKNSERSKFFTTIHYSFDGMAIVAGGNNNSICLYDVPNEVLLKRFIVSRNMALNGTLEFLNSKKMTEAGSLDLIDDAGENSDLEDRIDNSLPGSQRGGDLSTRKMRPEVRVTSVQFSPTANAFAAASTEGLLIYSTNDTILFDPFDLDVDVTPHSTVEALREKQFLNALVMAFRLNEEYLINKVYEAIPIKEIPLVASNIPAIYLPRILKFIGDFAIESQHIEFNLIWIKALLSASGGYINEHKYLFSTAMRSIQRFIVRVAKEVVNTTTDNKYTYRFLVSTDGSMEDGAADDDEVLLKDDADEDNEENEENDVVMESDDEEGWIGFNGKDNKLPLSNENDSSDEEENEKELP",
+            "entity_poly_seq_length": 923,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain is found at the C-terminus of proteins containing WD40 repeats.  These proteins are part of the U3 ribonucleoprotein the yeast protein is called Utp12 or DIP2 Swiss:Q12220 [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Dip2/Utp12 Family",
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF04003",
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q12220"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 12",
+            "entity_poly_strand_id": "B2",
+            "entity_poly_seq_one_letter_code": "MVKSYQRFEQAAAFGVIASNANCVWIPASSGNSNGSGPGQLITSALEDVNIWDIKTGDLVSKLSDGLPPGASDARGAKPAECTYLEAHKDTDLLAVGYADGVIKVWDLMSKTVLLNFNGHKAAITLLQFDGTGTRLISGSKDSNIIVWDLVGEVGLYKLRSHKDSITGFWCQGEDWLISTSKDGMIKLWDLKTHQCIETHIAHTGECWGLAVKDDLLITTGTDSQVKIWKLDIENDKMGGKLTEMGIFEKQSKQRGLKIEFITNSSDKTSFFYIQNADKTIETFRIRKEEEIARGLKKREKRLKEKGLTEEEIAKSIKESYSSFILHPFQTIRSLYKIKSASWTTVSSSKLELVLTTSSNTIEYYSIPYEKRDPTSPAPLKTHTIELQGQRTDVRSIDISDDNKLLATASNGSLKIWNIKTHKCIRTFECGYALTCKFLPGGLLVILGTRNGELQLFDLASSSLLDTIEDAHDAAIWSLDLTSDGKRLVTGSADKTVKFWDFKVENSLVPGTKNKFLPVLKLHHDTTLELTDDILCVRVSPDDRYLAISLLDNTVKVFFLDSMKFYLSLYGHKLPVLSIDISFDSKMIITSSADKNIKIWGLDFGDCHKSLFAHQDSIMNVKFLPQSHNFFSCSKDAVVKYWDGEKFECIQKLYAHQSEVWALAVATDGGFVVSSSHDHSIRIWEETEDQVFLEEEKEKELEEQYEDTLLTSLEEGNGDDAFKADASGEGVEDEASGVHKQTLESLKAGERLMEALDLGIAEIEGLEAYNRDMKLWQRKKLGEAPIKPQGNAVLIAVNKTPEQYIMDTLLRIRMSQLEDALMVMPFSYVLKFLKFIDTVMQNKTLLHSHLPLICKNLFFIIKFNHKELVSQKNEELKLQINRVKTELRSALKSTEDDLGFNVQGLKFVKQQWNLRHNYEFVDEYDQQEKESNSARKRVFGTVI",
+            "entity_poly_seq_one_letter_code_can": "MVKSYQRFEQAAAFGVIASNANCVWIPASSGNSNGSGPGQLITSALEDVNIWDIKTGDLVSKLSDGLPPGASDARGAKPAECTYLEAHKDTDLLAVGYADGVIKVWDLMSKTVLLNFNGHKAAITLLQFDGTGTRLISGSKDSNIIVWDLVGEVGLYKLRSHKDSITGFWCQGEDWLISTSKDGMIKLWDLKTHQCIETHIAHTGECWGLAVKDDLLITTGTDSQVKIWKLDIENDKMGGKLTEMGIFEKQSKQRGLKIEFITNSSDKTSFFYIQNADKTIETFRIRKEEEIARGLKKREKRLKEKGLTEEEIAKSIKESYSSFILHPFQTIRSLYKIKSASWTTVSSSKLELVLTTSSNTIEYYSIPYEKRDPTSPAPLKTHTIELQGQRTDVRSIDISDDNKLLATASNGSLKIWNIKTHKCIRTFECGYALTCKFLPGGLLVILGTRNGELQLFDLASSSLLDTIEDAHDAAIWSLDLTSDGKRLVTGSADKTVKFWDFKVENSLVPGTKNKFLPVLKLHHDTTLELTDDILCVRVSPDDRYLAISLLDNTVKVFFLDSMKFYLSLYGHKLPVLSIDISFDSKMIITSSADKNIKIWGLDFGDCHKSLFAHQDSIMNVKFLPQSHNFFSCSKDAVVKYWDGEKFECIQKLYAHQSEVWALAVATDGGFVVSSSHDHSIRIWEETEDQVFLEEEKEKELEEQYEDTLLTSLEEGNGDDAFKADASGEGVEDEASGVHKQTLESLKAGERLMEALDLGIAEIEGLEAYNRDMKLWQRKKLGEAPIKPQGNAVLIAVNKTPEQYIMDTLLRIRMSQLEDALMVMPFSYVLKFLKFIDTVMQNKTLLHSHLPLICKNLFFIIKFNHKELVSQKNEELKLQINRVKTELRSALKSTEDDLGFNVQGLKFVKQQWNLRHNYEFVDEYDQQEKESNSARKRVFGTVI",
+            "entity_poly_seq_length": 943,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL",
+                "Utp13 is a component of the five protein Pwp2 complex that forms part of a stable particle subunit independent of the U3 small nucleolar ribonucleoprotein that is essential for the initial assembly steps of the 90S pre-ribosome [1]. Pwp2 is capable of interacting directly with the 35 S pre-rRNA 5' end [1]."
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat",
+                "Utp13 specific WD40 associated domain"
+            ],
+            "pfam_accessions": [
+                "PF00400",
+                "PF08625"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q05946"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 13",
+            "entity_poly_strand_id": "B3",
+            "entity_poly_seq_one_letter_code": "MDLKTSYKGISLNPIYAGSSAVATVSENGKILATPVLDEINIIDLTPGSRKILHKISNEDEQEITALKLTPDGQYLTYVSQAQLLKIFHLKTGKVVRSMKISSPSYILDADSTSTLLAVGGTDGSIIVVDIENGYITHSFKGHGGTISSLKFYGQLNSKIWLLASGDTNGMVKVWDLVKRKCLHTLQEHTSAVRGLDIIEVPDNDEPSLNLLSGGRDDIINLWDFNMKKKCKLLKTLPVNQQVESCGFLKDGDGKRIIYTAGGDAIFQLIDSESGSVLKRTNKPIEELFIIGVLPILSNSQMFLVLSDQTLQLINVEEDLKNDEDTIQVTSSIAGNHGIIADMRYVGPELNKLALATNSPSLRIIPVPDLSGPEASLPLDVEIYEGHEDLLNSLDATEDGLWIATASKDNTAIVWRYNENSCKFDIYAKYIGHSAAVTAVGLPNIVSKGYPEFLLTASNDLTIKKWIIPKPTASMDVQIIKVSEYTRHAHEKDINALSVSPNDSIFATASYDKTCKIWNLENGELEATLANHKRGLWDVSFCQYDKLLATSSGDKTVKIWSLDTFSVMKTLEGHTNAVQRCSFINKQKQLISCGADGLIKIWDCSSGECLKTLDGHNNRLWALSTMNDGDMIVSADADGVFQFWKDCTEQEIEEEQEKAKLQVEQEQSLQNYMSKGDWTNAFLLAMTLDHPMRLFNVLKRALGESRSRQDTEEGKIEVIFNEELDQAISILNDEQLILLMKRCRDWNTNAKTHTIAQRTIRCILMHHNIAKLSEIPGMVKIVDAIIPYTQRHFTRVDNLVEQSYILDYALVEMDKLF",
+            "entity_poly_seq_one_letter_code_can": "MDLKTSYKGISLNPIYAGSSAVATVSENGKILATPVLDEINIIDLTPGSRKILHKISNEDEQEITALKLTPDGQYLTYVSQAQLLKIFHLKTGKVVRSMKISSPSYILDADSTSTLLAVGGTDGSIIVVDIENGYITHSFKGHGGTISSLKFYGQLNSKIWLLASGDTNGMVKVWDLVKRKCLHTLQEHTSAVRGLDIIEVPDNDEPSLNLLSGGRDDIINLWDFNMKKKCKLLKTLPVNQQVESCGFLKDGDGKRIIYTAGGDAIFQLIDSESGSVLKRTNKPIEELFIIGVLPILSNSQMFLVLSDQTLQLINVEEDLKNDEDTIQVTSSIAGNHGIIADMRYVGPELNKLALATNSPSLRIIPVPDLSGPEASLPLDVEIYEGHEDLLNSLDATEDGLWIATASKDNTAIVWRYNENSCKFDIYAKYIGHSAAVTAVGLPNIVSKGYPEFLLTASNDLTIKKWIIPKPTASMDVQIIKVSEYTRHAHEKDINALSVSPNDSIFATASYDKTCKIWNLENGELEATLANHKRGLWDVSFCQYDKLLATSSGDKTVKIWSLDTFSVMKTLEGHTNAVQRCSFINKQKQLISCGADGLIKIWDCSSGECLKTLDGHNNRLWALSTMNDGDMIVSADADGVFQFWKDCTEQEIEEEQEKAKLQVEQEQSLQNYMSKGDWTNAFLLAMTLDHPMRLFNVLKRALGESRSRQDTEEGKIEVIFNEELDQAISILNDEQLILLMKRCRDWNTNAKTHTIAQRTIRCILMHHNIAKLSEIPGMVKIVDAIIPYTQRHFTRVDNLVEQSYILDYALVEMDKLF",
+            "entity_poly_seq_length": 817,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P40362"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 18",
+            "entity_poly_strand_id": "B8",
+            "entity_poly_seq_one_letter_code": "MTMATTAMNVSVPPPDEEEQLLAKFVFGDTTDLQENLAKFNADFIFNEQEMDVEDQEDEGSESDNSEEDEAQNGELDHVNNDQLFFVDDGGNEDSQDKNEDTMDVDDEDDSSSDDYSEDSEEAAWIDSDDEKIKVPILVTNKTKKLRTSYNESKINGVHYINRLRSQFEKIYPRPKWVDDESDSELDDEEDDEEEGSNNVINGDINALTKILSTTYNYKDTLSNSKLLPPKKLDIVRLKDANASHPSHSAIQSLSFHPSKPLLLTGGYDKTLRIYHIDGKTNHLVTSLHLVGSPIQTCTFYTSLSNQNQQNIFTAGRRRYMHSWDLSLENLTHSQTAKIEKFSRLYGHESTQRSFENFKVAHLQNSQTNSVHGIVLLQGNNGWINILHSTSGLWLMGCKIEGVITDFCIDYQPISRGKFRTILIAVNAYGEVWEFDLNKNGHVIRRWKDQGGVGITKIQVGGGTTTTCPALQISKIKQNRWLAVGSESGFVNLYDRNNAMTSSTPTPVAALDQLTTTISNLQFSPDGQILCMASRAVKDALRLVHLPSCSVFSNWPTSGTPLGKVTSVAFSPSGGLLAVGNEQGKVRLWKLNHY",
+            "entity_poly_seq_one_letter_code_can": "MTMATTAMNVSVPPPDEEEQLLAKFVFGDTTDLQENLAKFNADFIFNEQEMDVEDQEDEGSESDNSEEDEAQNGELDHVNNDQLFFVDDGGNEDSQDKNEDTMDVDDEDDSSSDDYSEDSEEAAWIDSDDEKIKVPILVTNKTKKLRTSYNESKINGVHYINRLRSQFEKIYPRPKWVDDESDSELDDEEDDEEEGSNNVINGDINALTKILSTTYNYKDTLSNSKLLPPKKLDIVRLKDANASHPSHSAIQSLSFHPSKPLLLTGGYDKTLRIYHIDGKTNHLVTSLHLVGSPIQTCTFYTSLSNQNQQNIFTAGRRRYMHSWDLSLENLTHSQTAKIEKFSRLYGHESTQRSFENFKVAHLQNSQTNSVHGIVLLQGNNGWINILHSTSGLWLMGCKIEGVITDFCIDYQPISRGKFRTILIAVNAYGEVWEFDLNKNGHVIRRWKDQGGVGITKIQVGGGTTTTCPALQISKIKQNRWLAVGSESGFVNLYDRNNAMTSSTPTPVAALDQLTTTISNLQFSPDGQILCMASRAVKDALRLVHLPSCSVFSNWPTSGTPLGKVTSVAFSPSGGLLAVGNEQGKVRLWKLNHY",
+            "entity_poly_seq_length": 594,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Utp21 is a subunit of U3 snoRNP, which is essential for  synthesis of 18S rRNA.",
+                "Apc4 contains an N-terminal propeller-shaped WD40 domain.The N-terminus of Afi1 serves to stabilise the union between Apc4 and Apc5, both of which lie towards the bottom-front of the APC,",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Utp21 specific WD40 associated putative domain",
+                "Anaphase-promoting complex subunit 4 WD40 domain",
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF04192",
+                "PF12894",
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q06078"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 21",
+            "entity_poly_strand_id": "BE",
+            "entity_poly_seq_one_letter_code": "MSIDLKKRKVEEDVRSRGKNSKIFSPFRIIGNVSNGVPFATGTLGSTFYIVTCVGKTFQIYDANTLHLLFVSEKETPSSIVALSAHFHYVYAAYENKVGIYKRGIEEHLLELETDANVEHLCIFGDYLCASTDDNSIFIYKKSDPQDKYPSEFYTKLTVTEIQGGEIVSLQHLATYLNKLTVVTKSNVLLFNVRTGKLVFTSNEFPDQITTAEPAPVLDIIALGTVTGEVIMFNMRKGKRIRTIKIPQSRISSLSFRTDGSSHLSVGTSSGDLIFYDLDRRSRIHVLKNIHRESYGGVTQATFLNGQPIIVTSGGDNSLKEYVFDPSLSQGSGDVVVQPPRYLRSRGGHSQPPSYIAFADSQSHFMLSASKDRSLWSFSLRKDAQSQEMSQRLHKKQDGGRVGGSTIKSKFPEIVALAIENARIGEWENIITAHKDEKFARTWDMRNKRVGRWTFDTTDDGFVKSVAMSQCGNFGFIGSSNGSITIYNMQSGILRKKYKLHKRAVTGISLDGMNRKMVSCGLDGIVGFYDFNKSTLLGKLKLDAPITAMVYHRSSDLFALALDDLSIVVIDAVTQRVVRQLWGHSNRITAFDFSPEGRWIVSASLDSTIRTWDLPTGGCIDGIIVDNVATNVKFSPNGDLLATTHVTGNGICIWTNRAQFKTVSTRTIDESEFARMALPSTSVRGNDSMLSGALESNGGEDLNDIDFNTYTSLEQIDKELLTLSIGPRSKMNTLLHLDVIRKRSKPKEAPKKSEKLPFFLQLSGEKVGDEASVREGIAHETPEEIHRRDQEAQKKLDAEEQMNKFKVTGRLGFESHFTKQLREGSQSKDYSSLLATLINFSPAAVDLEIRSLNSFEPFDEIVWFIDALTQGLKSNKNFELYETFMSLLFKAHGDVIHANNKNQDIASALQNWEDVHKKEDRLDDLVKFCMGVAAFVTTA",
+            "entity_poly_seq_one_letter_code_can": "MSIDLKKRKVEEDVRSRGKNSKIFSPFRIIGNVSNGVPFATGTLGSTFYIVTCVGKTFQIYDANTLHLLFVSEKETPSSIVALSAHFHYVYAAYENKVGIYKRGIEEHLLELETDANVEHLCIFGDYLCASTDDNSIFIYKKSDPQDKYPSEFYTKLTVTEIQGGEIVSLQHLATYLNKLTVVTKSNVLLFNVRTGKLVFTSNEFPDQITTAEPAPVLDIIALGTVTGEVIMFNMRKGKRIRTIKIPQSRISSLSFRTDGSSHLSVGTSSGDLIFYDLDRRSRIHVLKNIHRESYGGVTQATFLNGQPIIVTSGGDNSLKEYVFDPSLSQGSGDVVVQPPRYLRSRGGHSQPPSYIAFADSQSHFMLSASKDRSLWSFSLRKDAQSQEMSQRLHKKQDGGRVGGSTIKSKFPEIVALAIENARIGEWENIITAHKDEKFARTWDMRNKRVGRWTFDTTDDGFVKSVAMSQCGNFGFIGSSNGSITIYNMQSGILRKKYKLHKRAVTGISLDGMNRKMVSCGLDGIVGFYDFNKSTLLGKLKLDAPITAMVYHRSSDLFALALDDLSIVVIDAVTQRVVRQLWGHSNRITAFDFSPEGRWIVSASLDSTIRTWDLPTGGCIDGIIVDNVATNVKFSPNGDLLATTHVTGNGICIWTNRAQFKTVSTRTIDESEFARMALPSTSVRGNDSMLSGALESNGGEDLNDIDFNTYTSLEQIDKELLTLSIGPRSKMNTLLHLDVIRKRSKPKEAPKKSEKLPFFLQLSGEKVGDEASVREGIAHETPEEIHRRDQEAQKKLDAEEQMNKFKVTGRLGFESHFTKQLREGSQSKDYSSLLATLINFSPAAVDLEIRSLNSFEPFDEIVWFIDALTQGLKSNKNFELYETFMSLLFKAHGDVIHANNKNQDIASALQNWEDVHKKEDRLDDLVKFCMGVAAFVTTA",
+            "entity_poly_seq_length": 939,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This is a family of U3 nucleolar RNA-associated proteins which are involved in nucleolar processing of pre-18S ribosomal RNA [1]."
+            ],
+            "pfam_descriptions": [
+                "U3 small nucleolar RNA-associated protein 6"
+            ],
+            "pfam_accessions": [
+                "PF08640"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q02354"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 6",
+            "entity_poly_strand_id": "B6",
+            "entity_poly_seq_one_letter_code": "MSKTRYYLEQCIPEMDDLVEKGLFTKNEVSLIMKKRTDFEHRLNSRGSSINDYIKYINYESNVNKLRAKRCKRILQVKKTNSLSDWSIQQRIGFIYQRGTNKFPQDLKFWAMYLNYMKARGNQTSYKKIHNIYNQLLKLHPTNVDIWISCAKYEYEVHANFKSCRNIFQNGLRFNPDVPKLWYEYVKFELNFITKLINRRKVMGLINEREQELDMQNEQKNNQAPDEEKSHLQVPSTGDSMKDKLNELPEADISVLGNAETNPALRGDIALTIFDVCMKTLGKHYINKHKGYYAISDSKMNIELNKETLNYLFSESLRYIKLFDEFLDLERDYLINHVLQFWKNDMYDLSLRKDLPELYLKTVMIDITLNIRYMPVEKLDIDQLQLSVKKYFAYISKLDSASVKSLKNEYRSYLQDNYLKKMNAEDDPRYKILDLIISKL",
+            "entity_poly_seq_one_letter_code_can": "MSKTRYYLEQCIPEMDDLVEKGLFTKNEVSLIMKKRTDFEHRLNSRGSSINDYIKYINYESNVNKLRAKRCKRILQVKKTNSLSDWSIQQRIGFIYQRGTNKFPQDLKFWAMYLNYMKARGNQTSYKKIHNIYNQLLKLHPTNVDIWISCAKYEYEVHANFKSCRNIFQNGLRFNPDVPKLWYEYVKFELNFITKLINRRKVMGLINEREQELDMQNEQKNNQAPDEEKSHLQVPSTGDSMKDKLNELPEADISVLGNAETNPALRGDIALTIFDVCMKTLGKHYINKHKGYYAISDSKMNIELNKETLNYLFSESLRYIKLFDEFLDLERDYLINHVLQFWKNDMYDLSLRKDLPELYLKTVMIDITLNIRYMPVEKLDIDQLQLSVKKYFAYISKLDSASVKSLKNEYRSYLQDNYLKKMNAEDDPRYKILDLIISKL",
+            "entity_poly_seq_length": 440,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal S3Ae family"
+            ],
+            "pfam_accessions": [
+                "PF01015"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P33442"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S1-A",
+            "entity_poly_strand_id": "SC",
+            "entity_poly_seq_one_letter_code": "MAVGKNKRLSKGKKGQKKRVVDPFTRKEWFDIKAPSTFENRNVGKTLVNKSTGLKSASDALKGRVVEVCLADLQGSEDHSFRKIKLRVDEVQGKNLLTNFHGMDFTTDKLRSMVRKWQTLIEANVTVKTSDDYVLRIFAIAFTRKQANQVKRHSYAQSSHIRAIRKVISEILTKEVQGSTLAQLTSKLIPEVINKEIENATKDIFPLQNIHVRKVKLLKQPKFDVGALMALHGEGSGEEKGKKVTGFKDEVLETV",
+            "entity_poly_seq_one_letter_code_can": "MAVGKNKRLSKGKKGQKKRVVDPFTRKEWFDIKAPSTFENRNVGKTLVNKSTGLKSASDALKGRVVEVCLADLQGSEDHSFRKIKLRVDEVQGKNLLTNFHGMDFTTDKLRSMVRKWQTLIEANVTVKTSDDYVLRIFAIAFTRKQANQVKRHSYAQSSHIRAIRKVISEILTKEVQGSTLAQLTSKLIPEVINKEIENATKDIFPLQNIHVRKVKLLKQPKFDVGALMALHGEGSGEEKGKKVTGFKDEVLETV",
+            "entity_poly_seq_length": 255,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family of proteins is associated with U3 snoRNA [1]. U3 snoRNA is required for nucleolar processing of pre-18S ribosomal RNA."
+            ],
+            "pfam_descriptions": [
+                "U3 snoRNA associated"
+            ],
+            "pfam_accessions": [
+                "PF08297"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q08492"
+            ],
+            "rcsb_pdbx_description": "Bud site selection protein 21",
+            "entity_poly_strand_id": "5B",
+            "entity_poly_seq_one_letter_code": "MSNGHVKFDADESQASASAVTDRQDDVLVISKKDKEVHSSSDEESDDDDAPQEEGLHSGKSEVESQITQREEAIRLEQSQLRSKRRKQNELYAKQKKSVNETEVTDEVIAELPEELLKNIDQKDEGSTQYSSSRHVTFDKLDESDENEEALAKAIKTKKRKTLKNLRKDSVKRGKFRVQLLSTTQDSKTLPPKKESSIIRSKDRWLNRKALNKG",
+            "entity_poly_seq_one_letter_code_can": "MSNGHVKFDADESQASASAVTDRQDDVLVISKKDKEVHSSSDEESDDDDAPQEEGLHSGKSEVESQITQREEAIRLEQSQLRSKRRKQNELYAKQKKSVNETEVTDEVIAELPEELLKNIDQKDEGSTQYSSSRHVTFDKLDESDENEEALAKAIKTKKRKTLKNLRKDSVKRGKFRVQLLSTTQDSKTLPPKKESSIIRSKDRWLNRKALNKG",
+            "entity_poly_seq_length": 214,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This C terminal domain is found in the BING4 family of nucleolar  WD40 repeat proteins [1]."
+            ],
+            "pfam_descriptions": [
+                "BING4CT (NUC141) domain"
+            ],
+            "pfam_accessions": [
+                "PF08149"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P40055"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 7",
+            "entity_poly_strand_id": "5C",
+            "entity_poly_seq_one_letter_code": "MGHKKNGHRRQIKERENQNKFERSTYTNNAKNNHTQTKDKKLRAGLKKIDEQYKKAVSSAAATDYLLPESNGYLEPENELEKTFKVQQSEIKSSVDVSTANKALDLSLKEFGPYHIKYAKNGTHLLITGRKGHVASMDWRKGQLRAELFLNETCHSATYLQNEQYFAVAQKKYTFIYDHEGTELHRLKQHIEARHLDFLPYHYLLVTAGETGWLKYHDVSTGQLVSELRTKAGPTMAMAQNPWNAVMHLGHSNGTVSLWSPSMPEPLVKLLSARGPVNSIAIDRSGYYMATTGADRSMKIWDIRNFKQLHSVESLPTPGTNVSISDTGLLALSRGPHVTLWKDALKLSGDSKPCFGSMGGNPHRNTPYMSHLFAGNKVENLGFVPFEDLLGVGHQTGITNLIVPGAGEANYDALELNPFETKKQRQEQEVRTLLNKLPADTITLDPNSIGSVDKRSSTIRLNAKDLAQTTMDANNKAKTNSDIPDVKPDVKGKNSGLRSFLRKKTQNVIDERKLRVQKQLDKEKNIRKRNHQIKQGLISEDHKDVIEEALSRFG",
+            "entity_poly_seq_one_letter_code_can": "MGHKKNGHRRQIKERENQNKFERSTYTNNAKNNHTQTKDKKLRAGLKKIDEQYKKAVSSAAATDYLLPESNGYLEPENELEKTFKVQQSEIKSSVDVSTANKALDLSLKEFGPYHIKYAKNGTHLLITGRKGHVASMDWRKGQLRAELFLNETCHSATYLQNEQYFAVAQKKYTFIYDHEGTELHRLKQHIEARHLDFLPYHYLLVTAGETGWLKYHDVSTGQLVSELRTKAGPTMAMAQNPWNAVMHLGHSNGTVSLWSPSMPEPLVKLLSARGPVNSIAIDRSGYYMATTGADRSMKIWDIRNFKQLHSVESLPTPGTNVSISDTGLLALSRGPHVTLWKDALKLSGDSKPCFGSMGGNPHRNTPYMSHLFAGNKVENLGFVPFEDLLGVGHQTGITNLIVPGAGEANYDALELNPFETKKQRQEQEVRTLLNKLPADTITLDPNSIGSVDKRSSTIRLNAKDLAQTTMDANNKAKTNSDIPDVKPDVKGKNSGLRSFLRKKTQNVIDERKLRVQKQLDKEKNIRKRNHQIKQGLISEDHKDVIEEALSRFG",
+            "entity_poly_seq_length": 554,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This protein is found to be part of a large ribonucleoprotein complex containing the U3 snoRNA [1]. Depletion of the Utp proteins impedes production of the 18S rRNA, indicating that they are part of the active pre-rRNA processing complex. This large RNP complex has been termed the small subunit (SSU) processome [1]."
+            ],
+            "pfam_descriptions": [
+                "Utp11 protein"
+            ],
+            "pfam_accessions": [
+                "PF03998"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P34247"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 11",
+            "entity_poly_strand_id": "5D",
+            "entity_poly_seq_one_letter_code": "MAKLVHDVQKKQHRERSQLTSRSRYGFLEKHKDYVKRAQDFHRKQSTLKVLREKAKERNPDEYYHAMHSRKTDAKGLLISSRHGDEEDESLSMDQVKLLKTQDSNYVRTLRQIELKKLEKGAKQLMFKSSGNHTIFVDSREKMNEFTPEKFFNTTSEMVNRSENRLTKDQLAQDISNNRNASSIMPKESLDKKKLKKFKQVKQHLQRETQLKQVQQRMDAQRELLKKGSKKKIVDSSGKISFKWKKQRKR",
+            "entity_poly_seq_one_letter_code_can": "MAKLVHDVQKKQHRERSQLTSRSRYGFLEKHKDYVKRAQDFHRKQSTLKVLREKAKERNPDEYYHAMHSRKTDAKGLLISSRHGDEEDESLSMDQVKLLKTQDSNYVRTLRQIELKKLEKGAKQLMFKSSGNHTIFVDSREKMNEFTPEKFFNTTSEMVNRSENRLTKDQLAQDISNNRNASSIMPKESLDKKKLKKFKQVKQHLQRETQLKQVQQRMDAQRELLKKGSKKKIVDSSGKISFKWKKQRKR",
+            "entity_poly_seq_length": 250,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes proteins related to Mpp10 (M phase phosphoprotein 10). The U3 small nucleolar ribonucleoprotein (snoRNP) is required for three cleavage events that generate the mature 18S rRNA from the pre-rRNA. In Saccharomyces cerevisiae, depletion of Mpp10, a U3 snoRNP-specific protein, halts 18S rRNA production and impairs cleavage at the three U3 snoRNP-dependent sites [3]."
+            ],
+            "pfam_descriptions": [
+                "Mpp10 protein"
+            ],
+            "pfam_accessions": [
+                "PF04006"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P47083"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein MPP10",
+            "entity_poly_strand_id": "5E",
+            "entity_poly_seq_one_letter_code": "MSELFGVLKSNAGRIILKDPSATSKDVKAYIDSVINTCKNGSITKKAELDEITVDGLDANQVWWQVKLVLDSIDGDLIQGIQELKDVVTPSHNLSDGSTLNSSSGEESELEEAESVFKEKQMLSADVSEIEEQSNDSLSENDEEPSMDDEKTSAEAAREEFAEEKRISSGQDERHSSPDPYGINDKFFDLEKFNRDTLAAEDSNEASEGSEDEDIDYFQDMPSDDEEEEAIYYEDFFDKPTKEPVKKHSDVKDPKEDEELDEEEHDSAMDKVKLDLFADEEDEPNAEGVGEASDKNLSSFEKQQIEIRKQIEQLENEAVAEKKWSLKGEVKAKDRPEDALLTEELEFDRTAKPVPVITSEVTESLEDMIRRRIQDSNFDDLQRRTLLDITRKSQRPQFELSDVKSSKSLAEIYEDDYTRAEDESALSEELQKAHSEISELYANLVYKLDVLSSVHFVPKPASTSLEIRVETPTISMEDAQPLYMSNASSLAPQEIYNVGKAEKDGEIRLKNGVAMSKEELTREDKNRLRRALKRKRSKANLPNVNKRSKRNDVVDTLSKAKNITVINQKGEKKDVSGKTKKSRSGPDSTNIKL",
+            "entity_poly_seq_one_letter_code_can": "MSELFGVLKSNAGRIILKDPSATSKDVKAYIDSVINTCKNGSITKKAELDEITVDGLDANQVWWQVKLVLDSIDGDLIQGIQELKDVVTPSHNLSDGSTLNSSSGEESELEEAESVFKEKQMLSADVSEIEEQSNDSLSENDEEPSMDDEKTSAEAAREEFAEEKRISSGQDERHSSPDPYGINDKFFDLEKFNRDTLAAEDSNEASEGSEDEDIDYFQDMPSDDEEEEAIYYEDFFDKPTKEPVKKHSDVKDPKEDEELDEEEHDSAMDKVKLDLFADEEDEPNAEGVGEASDKNLSSFEKQQIEIRKQIEQLENEAVAEKKWSLKGEVKAKDRPEDALLTEELEFDRTAKPVPVITSEVTESLEDMIRRRIQDSNFDDLQRRTLLDITRKSQRPQFELSDVKSSKSLAEIYEDDYTRAEDESALSEELQKAHSEISELYANLVYKLDVLSSVHFVPKPASTSLEIRVETPTISMEDAQPLYMSNASSLAPQEIYNVGKAEKDGEIRLKNGVAMSKEELTREDKNRLRRALKRKRSKANLPNVNKRSKRNDVVDTLSKAKNITVINQKGEKKDVSGKTKKSRSGPDSTNIKL",
+            "entity_poly_seq_length": 593,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Brix domain"
+            ],
+            "pfam_accessions": [
+                "PF04427"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P53941"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar ribonucleoprotein protein IMP4",
+            "entity_poly_strand_id": "5G",
+            "entity_poly_seq_one_letter_code": "MLRRQARERREYLYRKAQELQDSQLQQKRQIIKQALAQGKPLPKELAEDESLQKDFRYDQSLKESEEADDLQVDDEYAATSGIMDPRIIVTTSRDPSTRLSQFAKEIKLLFPNAVRLNRGNYVMPNLVDACKKSGTTDLVVLHEHRGVPTSLTISHFPHGPTAQFSLHNVVMRHDIINAGNQSEVNPHLIFDNFTTALGKRVVCILKHLFNAGPKKDSERVITFANRGDFISVRQHVYVRTREGVEIAEVGPRFEMRLFELRLGTLENKDADVEWQLRRFIRTANKKDYL",
+            "entity_poly_seq_one_letter_code_can": "MLRRQARERREYLYRKAQELQDSQLQQKRQIIKQALAQGKPLPKELAEDESLQKDFRYDQSLKESEEADDLQVDDEYAATSGIMDPRIIVTTSRDPSTRLSQFAKEIKLLFPNAVRLNRGNYVMPNLVDACKKSGTTDLVVLHEHRGVPTSLTISHFPHGPTAQFSLHNVVMRHDIINAGNQSEVNPHLIFDNFTTALGKRVVCILKHLFNAGPKKDSERVITFANRGDFISVRQHVYVRTREGVEIAEVGPRFEMRLFELRLGTLENKDADVEWQLRRFIRTANKKDYL",
+            "entity_poly_seq_length": 290,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Sas10 is an Essential subunit of U3-containing Small Subunit (SSU) processome complex involved in the production of the 18S rRNA and assembly of the small ribosomal subunit.",
+                "This family contains Utp3 and LCP5 which are components of the U3 ribonucleoprotein complex [2][4]. It also includes the human C1D protein and Saccharomyces cerevisiae YHR081W (rrp47), an exosome-associated protein required for the 3' processing of stable RNAs [3], and Sas10 which has been identified as a regulator of chromatin silencing [1]. This family also includes the human protein Neuroguidin an initiation factor 4E (eIF4E) binding protein [6]."
+            ],
+            "pfam_descriptions": [
+                "Sas10 C-terminal domain",
+                "Sas10/Utp3/C1D family"
+            ],
+            "pfam_accessions": [
+                "PF09368",
+                "PF04000"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q12136"
+            ],
+            "rcsb_pdbx_description": "Something about silencing protein 10",
+            "entity_poly_strand_id": "5H",
+            "entity_poly_seq_one_letter_code": "MVRKGSNRTKTSEVGDEINPYGLNEVDDFASKREKVLLGQSTFGDSNKDDDHSLLEDEDEEEVLAMDEDDESIDEREDEEEEEEEELDGAAAYKKIFGRNLETDQLPEEDEENGMLDNENAWGSTKGEYYGADDLDDDEAAKEIEKEALRQQKKHLEELNMNDYLDEEEEEEWVKSAKEFDMGEFKNSTKQADTKTSITDILNMDDEARDNYLRTMFPEFAPLSKEFTELAPKFDELKKSEENEFNKLKLIALGSYLGTISCYYSILLHELHNNEDFTSMKGHPVMEKILTTKEIWRQASELPSSFDVNEGDGSESEETANIEAFNEKKLNELQNSEDSDAEDGGKQKQEIDEEERESDEEEEEEDVDIDDFEEYVAQSRLHSKPKTSSMPEADDFIESEIADVDAQDKKARRRTLRFYTSKIDQQENKKTDRFKGDDDIPYKERLFERQQRLLDEARKRGMHDNNGADLDDKDYGSEDEAVSRSINTQGENDYYQQVQRGKQDKKISRKEAHKNAVIAAREGKLAELAENVSGDGKRAINYQILKNKGLTPKRNKDNRNSRVKKRKKYQKAQKKLKSVRAVYSGGQSGVYEGEKTGIKKGLTRSVKFKN",
+            "entity_poly_seq_one_letter_code_can": "MVRKGSNRTKTSEVGDEINPYGLNEVDDFASKREKVLLGQSTFGDSNKDDDHSLLEDEDEEEVLAMDEDDESIDEREDEEEEEEEELDGAAAYKKIFGRNLETDQLPEEDEENGMLDNENAWGSTKGEYYGADDLDDDEAAKEIEKEALRQQKKHLEELNMNDYLDEEEEEEWVKSAKEFDMGEFKNSTKQADTKTSITDILNMDDEARDNYLRTMFPEFAPLSKEFTELAPKFDELKKSEENEFNKLKLIALGSYLGTISCYYSILLHELHNNEDFTSMKGHPVMEKILTTKEIWRQASELPSSFDVNEGDGSESEETANIEAFNEKKLNELQNSEDSDAEDGGKQKQEIDEEERESDEEEEEEDVDIDDFEEYVAQSRLHSKPKTSSMPEADDFIESEIADVDAQDKKARRRTLRFYTSKIDQQENKKTDRFKGDDDIPYKERLFERQQRLLDEARKRGMHDNNGADLDDKDYGSEDEAVSRSINTQGENDYYQQVQRGKQDKKISRKEAHKNAVIAAREGKLAELAENVSGDGKRAINYQILKNKGLTPKRNKDNRNSRVKKRKKYQKAQKKLKSVRAVYSGGQSGVYEGEKTGIKKGLTRSVKFKN",
+            "entity_poly_seq_length": 610,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Sof1 is essential for cell growth and is a component of  the nucleolar rRNA processing machinery [1].",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Sof1-like domain",
+                "WD domain, G-beta repeat"
+            ],
+            "pfam_accessions": [
+                "PF04158",
+                "PF00400"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P33750"
+            ],
+            "rcsb_pdbx_description": "Protein SOF1",
+            "entity_poly_strand_id": "5I",
+            "entity_poly_seq_one_letter_code": "MKIKTIKRSADDYVPVKSTQESQMPRNLNPELHPFERAREYTKALNATKLERMFAKPFVGQLGYGHRDGVYAIAKNYGSLNKLATGSADGVIKYWNMSTREEFVSFKAHYGLVTGLCVTQPRFHDKKPDLKSQNFMLSCSDDKTVKLWSINVDDYSNKNSSDNDSVTNEEGLIRTFDGESAFQGIDSHRENSTFATGGAKIHLWDVNRLKPVSDLSWGADNITSLKFNQNETDILASTGSDNSIVLYDLRTNSPTQKIVQTMRTNAICWNPMEAFNFVTANEDHNAYYYDMRNLSRSLNVFKDHVSAVMDVDFSPTGDEIVTGSYDKSIRIYKTNHGHSREIYHTKRMQHVFQVKYSMDSKYIISGSDDGNVRLWRSKAWERSNVKTTREKNKLEYDEKLKERFRHMPEIKRISRHRHVPQVIKKAQEIKNIELSSIKRREANERRTRKDMPYISERKKQIVGTVHKYEDSGRDRKRRKEDDKRDTQEK",
+            "entity_poly_seq_one_letter_code_can": "MKIKTIKRSADDYVPVKSTQESQMPRNLNPELHPFERAREYTKALNATKLERMFAKPFVGQLGYGHRDGVYAIAKNYGSLNKLATGSADGVIKYWNMSTREEFVSFKAHYGLVTGLCVTQPRFHDKKPDLKSQNFMLSCSDDKTVKLWSINVDDYSNKNSSDNDSVTNEEGLIRTFDGESAFQGIDSHRENSTFATGGAKIHLWDVNRLKPVSDLSWGADNITSLKFNQNETDILASTGSDNSIVLYDLRTNSPTQKIVQTMRTNAICWNPMEAFNFVTANEDHNAYYYDMRNLSRSLNVFKDHVSAVMDVDFSPTGDEIVTGSYDKSIRIYKTNHGHSREIYHTKRMQHVFQVKYSMDSKYIISGSDDGNVRLWRSKAWERSNVKTTREKNKLEYDEKLKERFRHMPEIKRISRHRHVPQVIKKAQEIKNIELSSIKRREANERRTRKDMPYISERKKQIVGTVHKYEDSGRDRKRRKEDDKRDTQEK",
+            "entity_poly_seq_length": 489,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "RACK1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This is a family of eukaryotic nucleolar proteins that are involved in pre-rRNA processing [1]."
+            ],
+            "pfam_descriptions": [
+                "Fcf2 pre-rRNA processing"
+            ],
+            "pfam_accessions": [
+                "PF08698"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q12035"
+            ],
+            "rcsb_pdbx_description": "rRNA-processing protein FCF2",
+            "entity_poly_strand_id": "5J",
+            "entity_poly_seq_one_letter_code": "MDQSVEDLFGALRDASASLEVKNSAKEQVSLQQEDVLQIGNNDDEVEIESKFQEIETNLKKLPKLETGFDALANKKKKKNVLPSVETEDKRKPNKSDKNDNDWFTLPKPDDNMRREVQRDLLLIKHRAALDPKRHYKKQRWEVPERFAIGTIIEDKSEFYSSRMNRKERKSTILETLMGDEASNKYFKRKYNEIQEKSTSGRKAHYKKMKEMRKKRR",
+            "entity_poly_seq_one_letter_code_can": "MDQSVEDLFGALRDASASLEVKNSAKEQVSLQQEDVLQIGNNDDEVEIESKFQEIETNLKKLPKLETGFDALANKKKKKNVLPSVETEDKRKPNKSDKNDNDWFTLPKPDDNMRREVQRDLLLIKHRAALDPKRHYKKQRWEVPERFAIGTIIEDKSEFYSSRMNRKERKSTILETLMGDEASNKYFKRKYNEIQEKSTSGRKAHYKKMKEMRKKRR",
+            "entity_poly_seq_length": 217,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL",
+                "This domain is found at the C-terminus of 40S ribosomal protein S4.",
+                "This is the N-terminal domain of Ribosomal S4 / S4e proteins. This domain is associated with S4 and KOW domains [1].",
+                "The S4 domain is a small domain consisting of 60-65 amino acid residues that was detected in the bacterial ribosomal protein S4, eukaryotic ribosomal S9, two families of pseudouridine synthases, a novel family of predicted RNA methylases, a yeast protein containing a pseudouridine synthetase and a deaminase domain, bacterial tyrosyl-tRNA synthetases, and a number of uncharacterized, small proteins that may be involved in translation regulation [1]. The S4 domain probably mediates binding to RNA.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal family S4e",
+                "40S ribosomal protein S4 C-terminus",
+                "RS4NT (NUC023) domain",
+                "S4 domain",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF00900",
+                "PF16121",
+                "PF08071",
+                "PF01479",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX35"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S4-A",
+            "entity_poly_strand_id": "SF",
+            "entity_poly_seq_one_letter_code": "MARGPKKHLKRLAAPHHWLLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGREVKAILMQRHVKVDGKVRTDTTYPAGFMDVITLDATNENFRLVYDVKGRFAVHRITDEEASYKLGKVKKVQLGKKGVPYVVTHDGRTIRYPDPNIKVNDTVKIDLASGKITDFIKFDAGKLVYVTGGRNLGRIGTIVHKERHDGGFDLVHIKDSLDNTFVTRLNNVFVIGEQGKPYISLPKGKGIKLSIAEERDRRRAQQGL",
+            "entity_poly_seq_one_letter_code_can": "MARGPKKHLKRLAAPHHWLLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGREVKAILMQRHVKVDGKVRTDTTYPAGFMDVITLDATNENFRLVYDVKGRFAVHRITDEEASYKLGKVKKVQLGKKGVPYVVTHDGRTIRYPDPNIKVNDTVKIDLASGKITDFIKFDAGKLVYVTGGRNLGRIGTIVHKERHDGGFDLVHIKDSLDNTFVTRLNNVFVIGEQGKPYISLPKGKGIKLSIAEERDRRRAQQGL",
+            "entity_poly_seq_length": 261,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS4",
+                "uS4",
+                "uL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This small domain is found in a a novel nucleolar family [1]."
+            ],
+            "pfam_descriptions": [
+                "NUC153 domain"
+            ],
+            "pfam_accessions": [
+                "PF08159"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P48234"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein ENP2",
+            "entity_poly_strand_id": "RA",
+            "entity_poly_seq_one_letter_code": "MVLKSTSANDVSVYQVSGTNVSRSLPDWIAKKRKRQLKNDLEYQNRVELIQDFEFSEASNKIKVSRDGQYCMATGTYKPQIHVYDFANLSLKFDRHTDAENVDFTILSDDWTKSVHLQNDRSIQFQNKGGLHYTTRIPKFGRSLVYNKVNCDLYVGASGNELYRLNLEKGRFLNPFKLDTEGVNHVSINEVNGLLAAGTETNVVEFWDPRSRSRVSKLYLENNIDNRPFQVTTTSFRNDGLTFACGTSNGYSYIYDLRTSEPSIIKDQGYGFDIKKIIWLDNVGTENKIVTCDKRIAKIWDRLDGKAYASMEPSVDINDIEHVPGTGMFFTANESIPMHTYYIPSLGPSPRWCSFLDSITEELEEKPSDTVYSNYRFITRDDVKKLNLTHLVGSRVLRAYMHGFFINTELYDKVSLIANPDAYKDEREREIRRRIEKERESRIRSSGAVQKPKIKVNKTLVDKLSQKRGDKVAGKVLTDDRFKEMFEDEEFQVDEDDYDFKQLNPVKSIKETEEGAAKRIRALTAAEESDEERIAMKDGRGHYDYEDEESDEEESDDETNQKSNKEELSEKDLRKMEKQKALIERRKKEKEQSERFMNEMKAGTSTSTQRDESAHVTFGEQVGELLEVENGKKSNESILRRNQRGEAELTFIPQRKSKKDGNYKSRRHDNSSDEEGIDENGNKKDNGRSKPRFENRRRASKNAFRGM",
+            "entity_poly_seq_one_letter_code_can": "MVLKSTSANDVSVYQVSGTNVSRSLPDWIAKKRKRQLKNDLEYQNRVELIQDFEFSEASNKIKVSRDGQYCMATGTYKPQIHVYDFANLSLKFDRHTDAENVDFTILSDDWTKSVHLQNDRSIQFQNKGGLHYTTRIPKFGRSLVYNKVNCDLYVGASGNELYRLNLEKGRFLNPFKLDTEGVNHVSINEVNGLLAAGTETNVVEFWDPRSRSRVSKLYLENNIDNRPFQVTTTSFRNDGLTFACGTSNGYSYIYDLRTSEPSIIKDQGYGFDIKKIIWLDNVGTENKIVTCDKRIAKIWDRLDGKAYASMEPSVDINDIEHVPGTGMFFTANESIPMHTYYIPSLGPSPRWCSFLDSITEELEEKPSDTVYSNYRFITRDDVKKLNLTHLVGSRVLRAYMHGFFINTELYDKVSLIANPDAYKDEREREIRRRIEKERESRIRSSGAVQKPKIKVNKTLVDKLSQKRGDKVAGKVLTDDRFKEMFEDEEFQVDEDDYDFKQLNPVKSIKETEEGAAKRIRALTAAEESDEERIAMKDGRGHYDYEDEESDEEESDDETNQKSNKEELSEKDLRKMEKQKALIERRKKEKEQSERFMNEMKAGTSTSTQRDESAHVTFGEQVGELLEVENGKKSNESILRRNQRGEAELTFIPQRKSKKDGNYKSRRHDNSSDEEGIDENGNKKDNGRSKPRFENRRRASKNAFRGM",
+            "entity_poly_seq_length": 707,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family contains Utp3 and LCP5 which are components of the U3 ribonucleoprotein complex [2][4]. It also includes the human C1D protein and Saccharomyces cerevisiae YHR081W (rrp47), an exosome-associated protein required for the 3' processing of stable RNAs [3], and Sas10 which has been identified as a regulator of chromatin silencing [1]. This family also includes the human protein Neuroguidin an initiation factor 4E (eIF4E) binding protein [6]."
+            ],
+            "pfam_descriptions": [
+                "Sas10/Utp3/C1D family"
+            ],
+            "pfam_accessions": [
+                "PF04000"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P40079"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar ribonucleoprotein protein LCP5",
+            "entity_poly_strand_id": "RB",
+            "entity_poly_seq_one_letter_code": "MSELNALLKDINGSLTATSESLERLSGIYSNSATDEIPESNQLHEHLFYDAKKPAEKVSLLSLKNGSMLGYINSLLMLIGNRLDDECKDPSAMDARERSIQHRVVLERGVKPLEKKLAYQLDKLTRAYVKMEKEYKDAEKRALEKSTLVNHSGNDDSEDDESSEDEIAYRPNTSGIINTNKKSSAYRVEETAKQENGEENDDNETGVYKPPKITAVLPPQQTHFEDRFDAREHKDRSNKSRMQAMEEYIRESSDQPDWSASIGADIVNHGRGGIKSLRDTEKERRVTSFEEDNFTRLNITNKAEKRKQKQRERNARMNVIGGEDFGIFSSKRKLEDSTSRRGAKKTRSAWDRAQRRL",
+            "entity_poly_seq_one_letter_code_can": "MSELNALLKDINGSLTATSESLERLSGIYSNSATDEIPESNQLHEHLFYDAKKPAEKVSLLSLKNGSMLGYINSLLMLIGNRLDDECKDPSAMDARERSIQHRVVLERGVKPLEKKLAYQLDKLTRAYVKMEKEYKDAEKRALEKSTLVNHSGNDDSEDDESSEDEIAYRPNTSGIINTNKKSSAYRVEETAKQENGEENDDNETGVYKPPKITAVLPPQQTHFEDRFDAREHKDRSNKSRMQAMEEYIRESSDQPDWSASIGADIVNHGRGGIKSLRDTEKERRVTSFEEDNFTRLNITNKAEKRKQKQRERNARMNVIGGEDFGIFSSKRKLEDSTSRRGAKKTRSAWDRAQRRL",
+            "entity_poly_seq_length": 357,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This entry represents the first KH domain in the KRR1 protein [1]. Krr1 is a ribosomal assembly factor. The KH1 domain is a divergent KH domain that lacks the RNA-binding GXXG motif and is involved in binding another assembly factor, Kri1 [1]."
+            ],
+            "pfam_descriptions": [
+                "Krr1 KH1 domain"
+            ],
+            "pfam_accessions": [
+                "PF17903"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P25586"
+            ],
+            "rcsb_pdbx_description": "KRR1 small subunit processome component",
+            "entity_poly_strand_id": "RC",
+            "entity_poly_seq_one_letter_code": "MVSTHNRDKPWDTDDIDKWKIEEFKEEDNASGQPFAEESSFMTLFPKYRESYLKTIWNDVTRALDKHNIACVLDLVEGSMTVKTTRKTYDPAIILKARDLIKLLARSVPFPQAVKILQDDMACDVIKIGNFVTNKERFVKRRQRLVGPNGNTLKALELLTKCYILVQGNTVSAMGPFKGLKEVRRVVEDCMKNIHPIYHIKELMIKRELAKRPELANEDWSRFLPMFKKRNVARKKPKKIRNVEKKVYTPFPPAQLPRKVDLEIESGEYFLSKREKQMKKLNEQKEKQMEREIERQEERAKDFIAPEEEAYKPNQN",
+            "entity_poly_seq_one_letter_code_can": "MVSTHNRDKPWDTDDIDKWKIEEFKEEDNASGQPFAEESSFMTLFPKYRESYLKTIWNDVTRALDKHNIACVLDLVEGSMTVKTTRKTYDPAIILKARDLIKLLARSVPFPQAVKILQDDMACDVIKIGNFVTNKERFVKRRQRLVGPNGNTLKALELLTKCYILVQGNTVSAMGPFKGLKEVRRVVEDCMKNIHPIYHIKELMIKRELAKRPELANEDWSRFLPMFKKRNVARKKPKKIRNVEKKVYTPFPPAQLPRKVDLEIESGEYFLSKREKQMKKLNEQKEKQMEREIERQEERAKDFIAPEEEAYKPNQN",
+            "entity_poly_seq_length": 316,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Members of this family are nucleolar RNA-associated proteins (Nrap) which are highly conserved from yeast (Saccharomyces cerevisiae) to human. In the mouse, Nrap is ubiquitously expressed and is specifically localised in the nucleolus [1]. Nrap is a large nucleolar protein (of more than 1000 amino acids). Nrap appears to be associated with ribosome biogenesis by interacting with pre-rRNA primary transcript [1]. This domain has a nucleotidyltransferase structure.",
+                "Members of this family are nucleolar RNA-associated proteins (Nrap) which are highly conserved from yeast (Saccharomyces cerevisiae) to human. In the mouse, Nrap is ubiquitously expressed and is specifically localised in the nucleolus [1]. Nrap is a large nucleolar protein (of more than 1000 amino acids). Nrap appears to be associated with ribosome biogenesis by interacting with pre-rRNA primary transcript [1]."
+            ],
+            "pfam_descriptions": [
+                "Nrap protein domain 1",
+                "Nrap protein PAP/OAS-like domain",
+                "Nrap protein PAP/OAS1-like domain 5",
+                "Nrap protein domain 6",
+                "Nrap protein domain 3",
+                "Nrap protein nucleotidyltransferase domain 4"
+            ],
+            "pfam_accessions": [
+                "PF03813",
+                "PF17403",
+                "PF17406",
+                "PF17407",
+                "PF17404",
+                "PF17405"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P53254"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 22",
+            "entity_poly_strand_id": "RE",
+            "entity_poly_seq_one_letter_code": "MATSVKRKASETSDQNIVKVQKKHSTQDSTTDNGSKENDHSSQAINERTVPEQENDESDTSPESNEVATNTAATRHNGKVTATESYDIHIARETAELFKSNIFKLQIDELLEQVKLKQKHVLKVEKFLHKLYDILQEIPDWEEKSLAEVDSFFKNKIVSVPFVDPKPIPQNTNYKFNYKKPDISLIGSFALKAGIYQPNGSSIDTLLTMPKELFEKKDFLNFRCLHKRSVYLAYLTHHLLILLKKDKLDSFLQLEYSYFDNDPLLPILRISCSKPTGDSLSDYNFYKTRFSINLLIGFPYKVFEPKKLLPNRNCIRIAQESKEQSLPATPLYNFSVLSSSTHENYLKYLYKTKKQTESFVEATVLGRLWLQQRGFSSNMSHSGSLGGFGTFEFTILMAALLNGGGINSNKILLHGFSSYQLFKGVIKYLATMDLCHDGHLQFHSNPENSSSSPASKYIDEGFQTPTLFDKSTKVNILTKMTVSSYQILKEYAGETLRMLNNVVQDQFSNIFLTNISRFDNLKYDLCYDVQLPLGKYNNLETSLAATFGSMERVKFITLENFLAHKITNVARYALGDRIKYIQIEMVGQKSDFPITKRKVYSNTGGNHFNFDFVRVKLIVNPSECDKLVTKGPAHSETMSTEAAVFKNFWGIKSSLRRFKDGSITHCCVWSTSSSEPIISSIVNFALQKHVSKKAQISNETIKKFHNFLPLPNLPSSAKTSVLNLSSFFNLKKSFDDLYKIIFQMKLPLSVKSILPVGSAFRYTSLCQPVPFAYSDPDFFQDVILEFETSPKWPDEITSLEKAKTAFLLKIQEELSANSSTYRSFFSRDESIPYNLEIVTLNILTPEGYGFKFRVLTERDEILYLRAIANARNELKPELEATFLKFTAKYLASVRHTRTLENISHSYQFYSPVVRLFKRWLDTHLLLGHITDELAELIAIKPFVDPAPYFIPGSLENGFLKVLKFISQWNWKDDPLILDLVKPEDDIRDTFETSIGAGSELDSKTMKKLSERLTLAQYKGIQMNFTNLRNSDPNGTHLQFFVASKNDPSGILYSSGIPLPIATRLTALAKVAVNLLQTHGLNQQTINLLFTPGLKDYDFVVDLRTPIGLKSSCGILSATEFKNITNDQAPSNFPENLNDLSEKMDPTYQLVKYLNLKYKNSLILSSRKYIGVNGGEKGDKNVITGLIKPLFKGAHKFRVNLDCNVKPVDDENVILNKEAIFHEIAAFGNDMVINFETD",
+            "entity_poly_seq_one_letter_code_can": "MATSVKRKASETSDQNIVKVQKKHSTQDSTTDNGSKENDHSSQAINERTVPEQENDESDTSPESNEVATNTAATRHNGKVTATESYDIHIARETAELFKSNIFKLQIDELLEQVKLKQKHVLKVEKFLHKLYDILQEIPDWEEKSLAEVDSFFKNKIVSVPFVDPKPIPQNTNYKFNYKKPDISLIGSFALKAGIYQPNGSSIDTLLTMPKELFEKKDFLNFRCLHKRSVYLAYLTHHLLILLKKDKLDSFLQLEYSYFDNDPLLPILRISCSKPTGDSLSDYNFYKTRFSINLLIGFPYKVFEPKKLLPNRNCIRIAQESKEQSLPATPLYNFSVLSSSTHENYLKYLYKTKKQTESFVEATVLGRLWLQQRGFSSNMSHSGSLGGFGTFEFTILMAALLNGGGINSNKILLHGFSSYQLFKGVIKYLATMDLCHDGHLQFHSNPENSSSSPASKYIDEGFQTPTLFDKSTKVNILTKMTVSSYQILKEYAGETLRMLNNVVQDQFSNIFLTNISRFDNLKYDLCYDVQLPLGKYNNLETSLAATFGSMERVKFITLENFLAHKITNVARYALGDRIKYIQIEMVGQKSDFPITKRKVYSNTGGNHFNFDFVRVKLIVNPSECDKLVTKGPAHSETMSTEAAVFKNFWGIKSSLRRFKDGSITHCCVWSTSSSEPIISSIVNFALQKHVSKKAQISNETIKKFHNFLPLPNLPSSAKTSVLNLSSFFNLKKSFDDLYKIIFQMKLPLSVKSILPVGSAFRYTSLCQPVPFAYSDPDFFQDVILEFETSPKWPDEITSLEKAKTAFLLKIQEELSANSSTYRSFFSRDESIPYNLEIVTLNILTPEGYGFKFRVLTERDEILYLRAIANARNELKPELEATFLKFTAKYLASVRHTRTLENISHSYQFYSPVVRLFKRWLDTHLLLGHITDELAELIAIKPFVDPAPYFIPGSLENGFLKVLKFISQWNWKDDPLILDLVKPEDDIRDTFETSIGAGSELDSKTMKKLSERLTLAQYKGIQMNFTNLRNSDPNGTHLQFFVASKNDPSGILYSSGIPLPIATRLTALAKVAVNLLQTHGLNQQTINLLFTPGLKDYDFVVDLRTPIGLKSSCGILSATEFKNITNDQAPSNFPENLNDLSEKMDPTYQLVKYLNLKYKNSLILSSRKYIGVNGGEKGDKNVITGLIKPLFKGAHKFRVNLDCNVKPVDDENVILNKEAIFHEIAAFGNDMVINFETD",
+            "entity_poly_seq_length": 1237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain corresponds to the N-terminal RNA-binding domain found in the Rrp7 protein.  It has an RRM-like fold with a circular permutation [1].",
+                "RRP7 is an essential protein in yeast that is involved in pre-rRNA processing and ribosome assembly [1].  It is speculated to be required for correct assembly of rpS27 into the pre-ribosomal particle [1-2]."
+            ],
+            "pfam_descriptions": [
+                "Rrp7 RRM-like N-terminal domain",
+                "Ribosomal RNA-processing protein 7 (RRP7) C-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF17799",
+                "PF12923"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P25368"
+            ],
+            "rcsb_pdbx_description": "Ribosomal RNA-processing protein 7",
+            "entity_poly_strand_id": "RF",
+            "entity_poly_seq_one_letter_code": "MGIEDISAMKNGFIVVPFKLPDHKALPKSQEASLHFMFAKRHQSSNSNESDCLFLVNLPLLSNIEHMKKFVGQLCGKYDTVSHVEELLYNDEFGLHEVDLSALTSDLMSSTDVNEKRYTPRNTALLKFVDAASINNCWNALKKYSNLHAKHPNELFEWTYTTPSFTTFVNFYKPLDIDYLKEDIHTHMAIFEQREAQAQEDVQSSIVDEDGFTLVVGKNTKSLNSIRKKILNKNPLSKHENKAKPISNIDKKAKKDFYRFQVRERKKQEINQLLSKFKEDQERIKVMKAKRKFNPYT",
+            "entity_poly_seq_one_letter_code_can": "MGIEDISAMKNGFIVVPFKLPDHKALPKSQEASLHFMFAKRHQSSNSNESDCLFLVNLPLLSNIEHMKKFVGQLCGKYDTVSHVEELLYNDEFGLHEVDLSALTSDLMSSTDVNEKRYTPRNTALLKFVDAASINNCWNALKKYSNLHAKHPNELFEWTYTTPSFTTFVNFYKPLDIDYLKEDIHTHMAIFEQREAQAQEDVQSSIVDEDGFTLVVGKNTKSLNSIRKKILNKNPLSKHENKAKPISNIDKKAKKDFYRFQVRERKKQEINQLLSKFKEDQERIKVMKAKRKFNPYT",
+            "entity_poly_seq_length": 297,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family includes prokaryotic L1 and eukaryotic L10."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L1p/L10e family"
+            ],
+            "pfam_accessions": [
+                "PF00687"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P36144"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein UTP30",
+            "entity_poly_strand_id": "RI",
+            "entity_poly_seq_one_letter_code": "MVESNDIIKSGLAEKALKALILQCEENPSLKNDKDIHIIINTGKKMGINRDNIPRIIPLTKYKLFKPRDLNILLITKDPSALYRETLTKDEHTSELFKEIISVKNLRRRFKGSKLTQLYKDFDLVVADYRVHHLLPEVLGSRFYHGSKKLPYMIRMSKEVKLKRQQMVEKCDPIYVRAQLRSICKNTSYIPNNDNCLSVRVGYIQKHSIPEILQNIQDTINFLTDKSKRPQGGVIKGGIISIFVKTSNSTSLPIYQFSEARENQKNEDLSDIKL",
+            "entity_poly_seq_one_letter_code_can": "MVESNDIIKSGLAEKALKALILQCEENPSLKNDKDIHIIINTGKKMGINRDNIPRIIPLTKYKLFKPRDLNILLITKDPSALYRETLTKDEHTSELFKEIISVKNLRRRFKGSKLTQLYKDFDLVVADYRVHHLLPEVLGSRFYHGSKKLPYMIRMSKEVKLKRQQMVEKCDPIYVRAQLRSICKNTSYIPNNDNCLSVRVGYIQKHSIPEILQNIQDTINFLTDKSKRPQGGVIKGGIISIFVKTSNSTSLPIYQFSEARENQKNEDLSDIKL",
+            "entity_poly_seq_length": 274,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL1"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain is the central domain of AARP2.  It is weakly similar to  the GTP-binding domain of elongation factor TU [1].",
+                "RIBIOP_C is a family of eukaryotic proteins from the C-terminus of pre-rRNA-processing protein or ribosome biogenesis proteins BMS1 and TSR1. These proteins act, in the nucleolus, as a molecular switch during maturation of the 40S ribosomal subunit [1,2]. This domain, domain IV of translation elongation factor selb, adopts the same fold as translation proteins such as domain II of GTP-elongation factor Tu proteins [3].",
+                "AAA family proteins often perform chaperone-like functions that assist in the assembly, operation, or disassembly of protein complexes [2]."
+            ],
+            "pfam_descriptions": [
+                "AARP2CN (NUC121) domain",
+                "40S ribosome biogenesis protein Tsr1 and BMS1 C-terminal",
+                "ATPase family associated with various cellular activities (AAA)"
+            ],
+            "pfam_accessions": [
+                "PF08142",
+                "PF04950",
+                "PF00004"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q08965"
+            ],
+            "rcsb_pdbx_description": "Ribosome biogenesis protein BMS1",
+            "entity_poly_strand_id": "RJ",
+            "entity_poly_seq_one_letter_code": "MEQSNKQHRKAKEKNTAKKKLHTQGHNAKAFAVAAPGKMARTMQRSSDVNERKLHVPMVDRTPEDDPPPFIVAVVGPPGTGKTTLIRSLVRRMTKSTLNDIQGPITVVSGKHRRLTFLECPADDLNAMIDIAKIADLVLLLIDGNFGFEMETMEFLNIAQHHGMPRVLGVATHLDLFKSQSTLRASKKRLKHRFWTEVYQGAKLFYLSGVINGRYPDREILNLSRFISVMKFRPLKWRNEHPYMLADRFTDLTHPELIETQGLQIDRKVAIYGYLHGTPLPSAPGTRVHIAGVGDFSVAQIEKLPDPCPTPFYQQKLDDFEREKMKEEAKANGEITTASTTRRRKRLDDKDKLIYAPMSDVGGVLMDKDAVYIDIGKKNEEPSFVPGQERGEGEKLMTGLQSVEQSIAEKFDGVGLQLFSNGTELHEVADHEGMDVESGEESIEDDEGKSKGRTSLRKPRIYGKPVQEEDADIDNLPSDEEPYTNDDDVQDSEPRMVEIDFNNTGEQGAEKLALETDSEFEESEDEFSWERTAANKLKKTESKKRTWNIGKLIYMDNISPEECIRRWRGEDDDSKDESDIEEDVDDDFFRKKDGTVTKEGNKDHAVDLEKFVPYFDTFEKLAKKWKSVDAIKERFLGAGILGNDNKTKSDSNEGGEELYGDFEDLEDGNPSEQAEDNSDKESEDEDENEDTNGDDDNSFTNFDAEEKKDLTMEQEREMNAAKKEKLRAQFEIEEGENFKEDDENNEYDTWYELQKAKISKQLEINNIEYQEMTPEQRQRIEGFKAGSYVRIVFEKVPMEFVKNFNPKFPIVMGGLLPTEIKFGIVKARLRRHRWHKKILKTNDPLVLSLGWRRFQTLPIYTTTDSRTRTRMLKYTPEHTYCNAAFYGPLCSPNTPFCGVQIVANSDTGNGFRIAATGIVEEIDVNIEIVKKLKLVGFPYKIFKNTAFIKDMFSSAMEVARFEGAQIKTVSGIRGEIKRALSKPEGHYRAAFEDKILMSDIVILRSWYPVRVKKFYNPVTSLLLKEKTEWKGLRLTGQIRAAMNLETPSNPDSAYHKIERVERHFNGLKVPKAVQKELPFKSQIHQMKPQKKKTYMAKRAVVLGGDEKKARSFIQKVLTISKAKDSKRKEQKASQRKERLKKLAKMEEEKSQRDKEKKKEYFAQNGKRTTMGGDDESRPRKMRR",
+            "entity_poly_seq_one_letter_code_can": "MEQSNKQHRKAKEKNTAKKKLHTQGHNAKAFAVAAPGKMARTMQRSSDVNERKLHVPMVDRTPEDDPPPFIVAVVGPPGTGKTTLIRSLVRRMTKSTLNDIQGPITVVSGKHRRLTFLECPADDLNAMIDIAKIADLVLLLIDGNFGFEMETMEFLNIAQHHGMPRVLGVATHLDLFKSQSTLRASKKRLKHRFWTEVYQGAKLFYLSGVINGRYPDREILNLSRFISVMKFRPLKWRNEHPYMLADRFTDLTHPELIETQGLQIDRKVAIYGYLHGTPLPSAPGTRVHIAGVGDFSVAQIEKLPDPCPTPFYQQKLDDFEREKMKEEAKANGEITTASTTRRRKRLDDKDKLIYAPMSDVGGVLMDKDAVYIDIGKKNEEPSFVPGQERGEGEKLMTGLQSVEQSIAEKFDGVGLQLFSNGTELHEVADHEGMDVESGEESIEDDEGKSKGRTSLRKPRIYGKPVQEEDADIDNLPSDEEPYTNDDDVQDSEPRMVEIDFNNTGEQGAEKLALETDSEFEESEDEFSWERTAANKLKKTESKKRTWNIGKLIYMDNISPEECIRRWRGEDDDSKDESDIEEDVDDDFFRKKDGTVTKEGNKDHAVDLEKFVPYFDTFEKLAKKWKSVDAIKERFLGAGILGNDNKTKSDSNEGGEELYGDFEDLEDGNPSEQAEDNSDKESEDEDENEDTNGDDDNSFTNFDAEEKKDLTMEQEREMNAAKKEKLRAQFEIEEGENFKEDDENNEYDTWYELQKAKISKQLEINNIEYQEMTPEQRQRIEGFKAGSYVRIVFEKVPMEFVKNFNPKFPIVMGGLLPTEIKFGIVKARLRRHRWHKKILKTNDPLVLSLGWRRFQTLPIYTTTDSRTRTRMLKYTPEHTYCNAAFYGPLCSPNTPFCGVQIVANSDTGNGFRIAATGIVEEIDVNIEIVKKLKLVGFPYKIFKNTAFIKDMFSSAMEVARFEGAQIKTVSGIRGEIKRALSKPEGHYRAAFEDKILMSDIVILRSWYPVRVKKFYNPVTSLLLKEKTEWKGLRLTGQIRAAMNLETPSNPDSAYHKIERVERHFNGLKVPKAVQKELPFKSQIHQMKPQKKKTYMAKRAVVLGGDEKKARSFIQKVLTISKAKDSKRKEQKASQRKERLKKLAKMEEEKSQRDKEKKKEYFAQNGKRTTMGGDDESRPRKMRR",
+            "entity_poly_seq_length": 1183,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "RNA cyclases are a family of RNA-modifying enzymes that are conserved in all cellular organisms. They catalyse the ATP-dependent conversion of the 3'-phosphate to the 2',3'-cyclic phosphodiester at the end of  RNA, in a reaction involving formation of the covalent AMP-cyclase  intermediate [1]. The structure of RTC demonstrates that RTCs are  comprised two domain.  The larger domain contains an insert domain of approximately 100 amino acids [1]."
+            ],
+            "pfam_descriptions": [
+                "RNA 3'-terminal phosphate cyclase (RTC), insert domain",
+                "RNA 3'-terminal phosphate cyclase"
+            ],
+            "pfam_accessions": [
+                "PF05189",
+                "PF01137"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q08096"
+            ],
+            "rcsb_pdbx_description": "RNA 3'-terminal phosphate cyclase-like protein",
+            "entity_poly_strand_id": "RK",
+            "entity_poly_seq_one_letter_code": "MSSSAPKYTTFQGSQNFRLRIVLATLSGKPIKIEKIRSGDLNPGLKDYEVSFLRLIESVTNGSVIEISYTGTTVIYRPGIIVGGASTHICPSSKPVGYFVEPMLYLAPFSKKKFSILFKGITASHNDAGIEAIKWGLMPVMEKFGVRECALHTLKRGSPPLGGGEVHLVVDSLIAQPITMHEIDRPIISSITGVAYSTRVSPSLVNRMIDGAKKVLKNLQCEVNITADVWRGENSGKSPGWGITLVAQSKQKGWSYFAEDIGDAGSIPEELGEKVACQLLEEISKSAAVGRNQLPLAIVYMVIGKEDIGRLRINKEQIDERFIILLRDIKKIFNTEVFLKPVDEADNEDMIATIKGIGFTNTSKKIA",
+            "entity_poly_seq_one_letter_code_can": "MSSSAPKYTTFQGSQNFRLRIVLATLSGKPIKIEKIRSGDLNPGLKDYEVSFLRLIESVTNGSVIEISYTGTTVIYRPGIIVGGASTHICPSSKPVGYFVEPMLYLAPFSKKKFSILFKGITASHNDAGIEAIKWGLMPVMEKFGVRECALHTLKRGSPPLGGGEVHLVVDSLIAQPITMHEIDRPIISSITGVAYSTRVSPSLVNRMIDGAKKVLKNLQCEVNITADVWRGENSGKSPGWGITLVAQSKQKGWSYFAEDIGDAGSIPEELGEKVACQLLEEISKSAAVGRNQLPLAIVYMVIGKEDIGRLRINKEQIDERFIILLRDIKKIFNTEVFLKPVDEADNEDMIATIKGIGFTNTSKKIA",
+            "entity_poly_seq_length": 367,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This domain, found at the C-terminus of tRNA(Met) cytidine acetyltransferase, may be involved in tRNA-binding [1].",
+                "This domain of unknown function is often found at the N-terminus of proteins containing Pfam:PF05127. Its fold resembles that of Pfam:PF05127, but it does not appear to bind ATP [1].",
+                "This domain has N-acetyltransferase activity [1,2]. It has a GCN5-related N-acetyltransferase (GNAT) fold [2].",
+                "This domain contains a P-loop (Walker A) motif, suggesting that it has ATPase activity, and a Walker B motif. In tRNA(Met) cytidine acetyltransferase (TmcA) it may function as an RNA helicase motor (driven by ATP hydrolysis) which delivers the wobble base to the active centre of the GCN5-related N-acetyltransferase (GNAT) domain [1]. It is found in the bacterial exodeoxyribonuclease V alpha chain (RecD), which has 5'-3' helicase activity. It is structurally similar to the motor domain 1A in other SF1 helicases [2]."
+            ],
+            "pfam_descriptions": [
+                "Possible tRNA binding domain",
+                "Domain of unknown function (DUF1726)",
+                "GNAT acetyltransferase 2",
+                "Helicase"
+            ],
+            "pfam_accessions": [
+                "PF13725",
+                "PF08351",
+                "PF13718",
+                "PF05127"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P53914"
+            ],
+            "rcsb_pdbx_description": "RNA cytidine acetyltransferase",
+            "entity_poly_strand_id": "RL,RM",
+            "entity_poly_seq_one_letter_code": "MAKKAIDSRIPSLIRNGVQTKQRSIFVIVGDRARNQLPNLHYLMMSADLKMNKSVLWAYKKKLLGFTSHRKKRENKIKKEIKRGTREVNEMDPFESFISNQNIRYVYYKESEKILGNTYGMCILQDFEALTPNLLARTIETVEGGGIVVILLKSMSSLKQLYTMTMDVHARYRTEAHGDVVARFNERFILSLGSNPNCLVVDDELNVLPLSGAKNVKPLPPKEDDELPPKQLELQELKESLEDVQPAGSLVSLSKTVNQAHAILSFIDAISEKTLNFTVALTAGRGRGKSAALGISIAAAVSHGYSNIFVTSPSPENLKTLFEFIFKGFDALGYQEHIDYDIIQSTNPDFNKAIVRVDIKRDHRQTIQYIVPQDHQVLGQAELVVIDEAAAIPLPIVKNLLGPYLVFMASTINGYEGTGRSLSLKLIQQLRNQNNTSGRESTQTAVVSRDNKEKDSHLHSQSRQLREISLDEPIRYAPGDPIEKWLNKLLCLDVTLIKNPRFATRGTPHPSQCNLFVVNRDTLFSYHPVSENFLEKMMALYVSSHYKNSPNDLQLMSDAPAHKLFVLLPPIDPKDGGRIPDPLCVIQIALEGEISKESVRNSLSRGQRAGGDLIPWLISQQFQDEEFASLSGARIVRIATNPEYASMGYGSRAIELLRDYFEGKFTDMSEDVRPKDYSIKRVSDKELAKTNLLKDDVKLRDAKTLPPLLLKLSEQPPHYLHYLGVSYGLTQSLHKFWKNNSFVPVYLRQTANDLTGEHTCVMLNVLEGRESNWLVEFAKDFRKRFLSLLSYDFHKFTAVQALSVIESSKKAQDLSDDEKHDNKELTRTHLDDIFSPFDLKRLDSYSNNLLDYHVIGDMIPMLALLYFGDKMGDSVKLSSVQSAILLAIGLQRKNIDTIAKELNLPSNQTIAMFAKIMRKMSQYFRQLLSQSIEETLPNIKDDAIAEMDGEEIKNYNAAEALDQMEEDLEEAGSEAVQAMREKQKELINSLNLDKYAINDNSEEWAESQKSLEIAAKAKGVVSLKTGKKRTTEKAEDIYRQEMKAMKKPRKSKKAAN",
+            "entity_poly_seq_one_letter_code_can": "MAKKAIDSRIPSLIRNGVQTKQRSIFVIVGDRARNQLPNLHYLMMSADLKMNKSVLWAYKKKLLGFTSHRKKRENKIKKEIKRGTREVNEMDPFESFISNQNIRYVYYKESEKILGNTYGMCILQDFEALTPNLLARTIETVEGGGIVVILLKSMSSLKQLYTMTMDVHARYRTEAHGDVVARFNERFILSLGSNPNCLVVDDELNVLPLSGAKNVKPLPPKEDDELPPKQLELQELKESLEDVQPAGSLVSLSKTVNQAHAILSFIDAISEKTLNFTVALTAGRGRGKSAALGISIAAAVSHGYSNIFVTSPSPENLKTLFEFIFKGFDALGYQEHIDYDIIQSTNPDFNKAIVRVDIKRDHRQTIQYIVPQDHQVLGQAELVVIDEAAAIPLPIVKNLLGPYLVFMASTINGYEGTGRSLSLKLIQQLRNQNNTSGRESTQTAVVSRDNKEKDSHLHSQSRQLREISLDEPIRYAPGDPIEKWLNKLLCLDVTLIKNPRFATRGTPHPSQCNLFVVNRDTLFSYHPVSENFLEKMMALYVSSHYKNSPNDLQLMSDAPAHKLFVLLPPIDPKDGGRIPDPLCVIQIALEGEISKESVRNSLSRGQRAGGDLIPWLISQQFQDEEFASLSGARIVRIATNPEYASMGYGSRAIELLRDYFEGKFTDMSEDVRPKDYSIKRVSDKELAKTNLLKDDVKLRDAKTLPPLLLKLSEQPPHYLHYLGVSYGLTQSLHKFWKNNSFVPVYLRQTANDLTGEHTCVMLNVLEGRESNWLVEFAKDFRKRFLSLLSYDFHKFTAVQALSVIESSKKAQDLSDDEKHDNKELTRTHLDDIFSPFDLKRLDSYSNNLLDYHVIGDMIPMLALLYFGDKMGDSVKLSSVQSAILLAIGLQRKNIDTIAKELNLPSNQTIAMFAKIMRKMSQYFRQLLSQSIEETLPNIKDDAIAEMDGEEIKNYNAAEALDQMEEDLEEAGSEAVQAMREKQKELINSLNLDKYAINDNSEEWAESQKSLEIAAKAKGVVSLKTGKKRTTEKAEDIYRQEMKAMKKPRKSKKAAN",
+            "entity_poly_seq_length": 1056,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P26783"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S5",
+            "entity_poly_strand_id": "SG",
+            "entity_poly_seq_one_letter_code": "MSDTEAPVEVQEDFEVVEEFTPVVLATPIPEEVQQAQTEIKLFNKWSFEEVEVKDASLVDYVQVRQPIFVAHTAGRYANKRFRKAQCPIIERLTNSLMMNGRNNGKKLKAVRIIKHTLDIINVLTDQNPIQVVVDAITNTGPREDTTRVGGGGAARRQAVDVSPLRRVNQAIALLTIGAREAAFRNIKTIAETLAEELINAAKGSSTSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_one_letter_code_can": "MSDTEAPVEVQEDFEVVEEFTPVVLATPIPEEVQQAQTEIKLFNKWSFEEVEVKDASLVDYVQVRQPIFVAHTAGRYANKRFRKAQCPIIERLTNSLMMNGRNNGKKLKAVRIIKHTLDIINVLTDQNPIQVVVDAITNTGPREDTTRVGGGGAARRQAVDVSPLRRVNQAIALLTIGAREAAFRNIKTIAETLAEELINAAKGSSTSYAIKKKDELERVAKSNR",
+            "entity_poly_seq_length": 225,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "Emg1 and Nop14 are novel proteins whose interaction is  required for the maturation of the 18S rRNA and for 40S  ribosome production [1]."
+            ],
+            "pfam_descriptions": [
+                "Nop14-like family"
+            ],
+            "pfam_accessions": [
+                "PF04147"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q99207"
+            ],
+            "rcsb_pdbx_description": "Nucleolar complex protein 14",
+            "entity_poly_strand_id": "RN",
+            "entity_poly_seq_one_letter_code": "MAGSQLKNLKAALKARGLTGQTNVKSKNKKNSKRQAKEYDREEKKKAIAEIREEFNPFEIKAARNKRRDGLPSKTADRIAVGKPGISKQIGEEQRKRAFEARKMMKNKRGGVIDKRFGERDKLLTEEEKMLERFTRERQSQSKRNANLFNLEDDEDDGDMFGDGLTHLGQSLSLEDELANDEEDFLASKRFNEDDAELQQPQRKKTKAEVMKEVIAKSKFYKQERQKAQGIMEDQIDNLDDNFEDVMSELMMTQPKKNPMEPKTDLDKEYDIKVKELQLDKRAAPSDRTKTEEEKNAEAEEKKRELEQQRLDRMNGMIELEEGEERGVEDLDDGFWENEEDYEDDNDGIADSDDDIKFEDQGRDEGFSQILKKKNISISCPRTHDALLDQVKKLDLDDHPKIVKNIIKAYQPKLAEGNKEKLGKFTAVLLRHIIFLSNQNYLKNVQSFKRTQNALISILKSLSEKYNRELSEECRDYINEMQARYKKNHFDALSNGDLVFFSIIGILFSTSDQYHLVITPALILMSQFLEQIKFNSLKRIAFGAVLVRIVSQYQRISKRYIPEVVYFFQKILLTFIVEKENQEKPLDFENIRLDSYELGLPLDVDFTKKRSTIIPLHTLSTMDTEAHPVDQCVSVLLNVMESLDATISTVWKSLPAFNEIILPIQQLLSAYTSKYSDFEKPRNILNKVEKLTKFTEHIPLALQNHKPVSIPTHAPKYEENFNPDKKSYDPDRTRSEINKMKAQLKKERKFTMKEIRKDAKFEARQRIEEKNKESSDYHAKMAHIVNTINTEEGAEKNKYERERKLRGGKK",
+            "entity_poly_seq_one_letter_code_can": "MAGSQLKNLKAALKARGLTGQTNVKSKNKKNSKRQAKEYDREEKKKAIAEIREEFNPFEIKAARNKRRDGLPSKTADRIAVGKPGISKQIGEEQRKRAFEARKMMKNKRGGVIDKRFGERDKLLTEEEKMLERFTRERQSQSKRNANLFNLEDDEDDGDMFGDGLTHLGQSLSLEDELANDEEDFLASKRFNEDDAELQQPQRKKTKAEVMKEVIAKSKFYKQERQKAQGIMEDQIDNLDDNFEDVMSELMMTQPKKNPMEPKTDLDKEYDIKVKELQLDKRAAPSDRTKTEEEKNAEAEEKKRELEQQRLDRMNGMIELEEGEERGVEDLDDGFWENEEDYEDDNDGIADSDDDIKFEDQGRDEGFSQILKKKNISISCPRTHDALLDQVKKLDLDDHPKIVKNIIKAYQPKLAEGNKEKLGKFTAVLLRHIIFLSNQNYLKNVQSFKRTQNALISILKSLSEKYNRELSEECRDYINEMQARYKKNHFDALSNGDLVFFSIIGILFSTSDQYHLVITPALILMSQFLEQIKFNSLKRIAFGAVLVRIVSQYQRISKRYIPEVVYFFQKILLTFIVEKENQEKPLDFENIRLDSYELGLPLDVDFTKKRSTIIPLHTLSTMDTEAHPVDQCVSVLLNVMESLDATISTVWKSLPAFNEIILPIQQLLSAYTSKYSDFEKPRNILNKVEKLTKFTEHIPLALQNHKPVSIPTHAPKYEENFNPDKKSYDPDRTRSEINKMKAQLKKERKFTMKEIRKDAKFEARQRIEEKNKESSDYHAKMAHIVNTINTEEGAEKNKYERERKLRGGKK",
+            "entity_poly_seq_length": 810,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "CBF/Mak21 family"
+            ],
+            "pfam_accessions": [
+                "PF03914"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q06512"
+            ],
+            "rcsb_pdbx_description": "Nucleolar complex protein 4",
+            "entity_poly_strand_id": "RO",
+            "entity_poly_seq_one_letter_code": "MVLLISEIKDIAKRLTAAGDRKQYNSIIKLINELVIPENVTQLEEDETEKNLRFLVMSLFQIFRKLFSRGDLTLPSSKKSTLEKEQFVNWCRKVYEAFKTKLLAIISDIPFETSLGLDSLDVYLQLAELESTHFASEKGAPFFPNKTFRKLIIALWSSNMGEIEDVKSSGASENLIIVEFTEKYYTKFADIQYYFQSEFNQLLEDPAYQDLLLKNVGKWLALVNHDKHCSSVDADLEIFVPNPPQAIENESKFKSNFEKNWLSLLNGQLSLQQYKSILLILHKRIIPHFHTPTKLMDFLTDSYNLQSSNKNAGVVPILALNGLFELMKRFNLEYPNFYMKLYQIINPDLMHVKYRARFFRLMDVFLSSTHLSAHLVASFIKKLARLTLESPPSAIVTVIPFIYNLIRKHPNCMIMLHNPAFISNPFQTPDQVANLKTLKENYVDPFDVHESDPELTHALDSSLWELASLMEHYHPNVATLAKIFAQPFKKLSYNMEDFLDWNYDSLLNAESSRKLKTLPTLEFEAFTNVFDNEDGDSEASSQGNVYLPGVAW",
+            "entity_poly_seq_one_letter_code_can": "MVLLISEIKDIAKRLTAAGDRKQYNSIIKLINELVIPENVTQLEEDETEKNLRFLVMSLFQIFRKLFSRGDLTLPSSKKSTLEKEQFVNWCRKVYEAFKTKLLAIISDIPFETSLGLDSLDVYLQLAELESTHFASEKGAPFFPNKTFRKLIIALWSSNMGEIEDVKSSGASENLIIVEFTEKYYTKFADIQYYFQSEFNQLLEDPAYQDLLLKNVGKWLALVNHDKHCSSVDADLEIFVPNPPQAIENESKFKSNFEKNWLSLLNGQLSLQQYKSILLILHKRIIPHFHTPTKLMDFLTDSYNLQSSNKNAGVVPILALNGLFELMKRFNLEYPNFYMKLYQIINPDLMHVKYRARFFRLMDVFLSSTHLSAHLVASFIKKLARLTLESPPSAIVTVIPFIYNLIRKHPNCMIMLHNPAFISNPFQTPDQVANLKTLKENYVDPFDVHESDPELTHALDSSLWELASLMEHYHPNVATLAKIFAQPFKKLSYNMEDFLDWNYDSLLNAESSRKLKTLPTLEFEAFTNVFDNEDGDSEASSQGNVYLPGVAW",
+            "entity_poly_seq_length": 552,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "These eukaryotic proteins include DRIM  (Down-Regulated In Metastasis) (Swiss:O75691), which is differentially expressed in metastatic and non-metastatic human breast carcinoma cells [1].  It is believed to be involved in processing of non-coding RNA [2]."
+            ],
+            "pfam_descriptions": [
+                "Down-regulated in metastasis"
+            ],
+            "pfam_accessions": [
+                "PF07539"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P35194"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 20",
+            "entity_poly_strand_id": "RP",
+            "entity_poly_seq_one_letter_code": "MAKQRQTTKSSKRYRYSSFKARIDDLKIEPARNLEKRVHDYVESSHFLASFDQWKEINLSAKFTEFAAEIEHDVQTLPQILYHDKKIFNSLVSFINFHDEFSLQPLLDLLAQFCHDLGPDFLKFYEEAIKTLINLLDAAIEFESSNVFEWGFNCLAYIFKYLSKFLVKKLVLTCDLLIPLLSHSKEYLSRFSAEALSFLVRKCPVSNLREFVRSVFEKLEGDDEQTNLYEGLLILFTESMTSTQETLHSKAKAIMSVLLHEALTKSSPERSVSLLSDIWMNISKYASIESLLPVYEVMYQDFNDSLDATNIDRILKVLTTIVFSESGRKIPDWNKITILIERIMSQSENCASLSQDKVAFLFALFIRNSDVKTLTLFHQKLFNYALTNISDCFLEFFQFALRLSYERVFSFNGLKFLQLFLKKNWQSQGKKIALFFLEVDDKPELQKVREVNFPEEFILSIRDFFVTAEINDSNDLFEIYWRAIIFKYSKLQNTEIIIPLLERIFSTFASPDNFTKDMVGTLLKIYRKEDDASGNNLLKTILDNYENYKESLNFLRGWNKLVSNLHPSESLKGLMSHYPSLLLSLTDNFMLPDGKIRYETLELMKTLMILQGMQVPDLLSSCMVIEEIPLTLQNARDLTIRIKNVGAEFGKTKTDKLVSSFFLKYLFGLLTVRFSPVWTGVFDTLPNVYTKDEALVWKLVLSFIKLPDENQNLDYYQPLLEDGANKVLWDSSVVRLRDTIDTFSHIWSKYSTQNTSIISTTIERRGNTTYPILIRNQALKVMLSIPQVAENHFVDIAPFVYNDFKTYKDEEDMENERVITGSWTEVDRNVFLKTLSKFKNIKNVYSATELHDHLMVLLGSRNTDVQKLALDALLAYKNPTLNKYRDNLKNLLDDTLFKDEITTFLTENGSQSIKAEDEKVVMPYVLRIFFGRAQVPPTSGQKRSRKIAVISVLPNFKKPYINDFLSLASERLDYNYFFGNSHQINSSKATLKTIRRMTGFVNIVNSTLSVLRTNFPLHTNSVLQPLIYSIAMAYYVLDTESTEEVHLRKMASNLRQQGLKCLSSVFEFVGNTFDWSTSMEDIYAVVVKPRISHFSDENLQQPSSLLRLFLYWAHNPSLYQFLYYDEFATATALMDTISNQHVKEAVIGPIIEAADSIIRNPVNDDHYVDLVTLICTSCLKILPSLYVKLSDSNSISTFLNLLVSITEMGFIQDDHVRSRLISSLISILKGKLKKLQENDTQKILKILKLIVFNYNCSWSDIEELYTTISSLFKTFDERNLRVSLTELFIELGRKVPELESISKLVADLNSYSSSRMHEYDFPRILSTFKGLIEDGYKSYSELEWLPLLFTFLHFINNKEELALRTNASHAIMKFIDFINEKPNLNEASKSISMLKDILLPNIRIGLRDSLEEVQSEYVSVLSYMVKNTKYFTDFEDMAILLYNGDEEADFFTNVNHIQLHRRQRAIKRLGEHAHQLKDNSISHYLIPMIEHYVFSDDERYRNIGNETQIAIGGLAQHMSWNQYKALLRRYISMLKTKPNQMKQAVQLIVQLSVPLRETLRIVRDGAESKLTLSKFPSNLDEPSNFIKQELYPTLSKILGTRDDETIIERMPIAEALVNIVLGLTNDDITNFLPSILTNICQVLRSKSEELRDAVRVTLGKISIILGAEYLVFVIKELMATLKRGSQIHVLSYTVHYILKSMHGVLKHSDLDTSSSMIVKIIMENIFGFAGEEKDSENYHTKVKEIKSNKSYDAGEILASNISLTEFGTLLSPVKALLMVRINLRNQNKLSELLRRYLLGLNHNSDSESESILKFCHQLFQESEMSNSPQIPKKKVKDQVDEKEDFFLVNLESKSYTINSNSLLLNSTLQKFALDLLRNVITRHRSFLTVSHLEGFIPFLRDSLLSENEGVVISTLRILITLIRLDFSDESSEIFKNCARKVLNIIKVSPSTSSELCQMGLKFLSAFIRHTDSTLKDTALSYVLGRVLPDLNEPSRQGLAFNFLKALVSKHIMLPELYDIADTTREIMVTNHSKEIRDVSRSVYYQFLMEYDQSKGRLEKQFKFMVDNLQYPTESGRQSVMELINLIITKANPALLSKLSSSFFLALVNVSFNDDAPRCREMASVLISTMLPKLENKDLEIVEKYIAAWLKQVDNASFLNLGLRTYKVYLKSIGFEHTIELDELAIKRIRYILSDTSVGSEHQWDLVYSALNTFSSYMEATESVYKHGFKDIWDGIITCLLYPHSWVRQSAANLVHQLIANKDKLEISLTNLEIQTIATRILHQLGAPSIPENLANVSIKTLVNISILWKEQRTPFIMDVSKQTGEDLKYTTAIDYMVTRIGGIIRSDEHRMDSFMSKKACIQLLALLVQVLDEDEVIAEGEKILLPLYGYLETYYSRAVDEEQEELRTLSNECLKILEDKLQVSDFTKIYTAVKQTVLERRKERRSKRAILAVNAPQISADKKLRKHARSREKRKHEKDENGYYQRRNKRKRA",
+            "entity_poly_seq_one_letter_code_can": "MAKQRQTTKSSKRYRYSSFKARIDDLKIEPARNLEKRVHDYVESSHFLASFDQWKEINLSAKFTEFAAEIEHDVQTLPQILYHDKKIFNSLVSFINFHDEFSLQPLLDLLAQFCHDLGPDFLKFYEEAIKTLINLLDAAIEFESSNVFEWGFNCLAYIFKYLSKFLVKKLVLTCDLLIPLLSHSKEYLSRFSAEALSFLVRKCPVSNLREFVRSVFEKLEGDDEQTNLYEGLLILFTESMTSTQETLHSKAKAIMSVLLHEALTKSSPERSVSLLSDIWMNISKYASIESLLPVYEVMYQDFNDSLDATNIDRILKVLTTIVFSESGRKIPDWNKITILIERIMSQSENCASLSQDKVAFLFALFIRNSDVKTLTLFHQKLFNYALTNISDCFLEFFQFALRLSYERVFSFNGLKFLQLFLKKNWQSQGKKIALFFLEVDDKPELQKVREVNFPEEFILSIRDFFVTAEINDSNDLFEIYWRAIIFKYSKLQNTEIIIPLLERIFSTFASPDNFTKDMVGTLLKIYRKEDDASGNNLLKTILDNYENYKESLNFLRGWNKLVSNLHPSESLKGLMSHYPSLLLSLTDNFMLPDGKIRYETLELMKTLMILQGMQVPDLLSSCMVIEEIPLTLQNARDLTIRIKNVGAEFGKTKTDKLVSSFFLKYLFGLLTVRFSPVWTGVFDTLPNVYTKDEALVWKLVLSFIKLPDENQNLDYYQPLLEDGANKVLWDSSVVRLRDTIDTFSHIWSKYSTQNTSIISTTIERRGNTTYPILIRNQALKVMLSIPQVAENHFVDIAPFVYNDFKTYKDEEDMENERVITGSWTEVDRNVFLKTLSKFKNIKNVYSATELHDHLMVLLGSRNTDVQKLALDALLAYKNPTLNKYRDNLKNLLDDTLFKDEITTFLTENGSQSIKAEDEKVVMPYVLRIFFGRAQVPPTSGQKRSRKIAVISVLPNFKKPYINDFLSLASERLDYNYFFGNSHQINSSKATLKTIRRMTGFVNIVNSTLSVLRTNFPLHTNSVLQPLIYSIAMAYYVLDTESTEEVHLRKMASNLRQQGLKCLSSVFEFVGNTFDWSTSMEDIYAVVVKPRISHFSDENLQQPSSLLRLFLYWAHNPSLYQFLYYDEFATATALMDTISNQHVKEAVIGPIIEAADSIIRNPVNDDHYVDLVTLICTSCLKILPSLYVKLSDSNSISTFLNLLVSITEMGFIQDDHVRSRLISSLISILKGKLKKLQENDTQKILKILKLIVFNYNCSWSDIEELYTTISSLFKTFDERNLRVSLTELFIELGRKVPELESISKLVADLNSYSSSRMHEYDFPRILSTFKGLIEDGYKSYSELEWLPLLFTFLHFINNKEELALRTNASHAIMKFIDFINEKPNLNEASKSISMLKDILLPNIRIGLRDSLEEVQSEYVSVLSYMVKNTKYFTDFEDMAILLYNGDEEADFFTNVNHIQLHRRQRAIKRLGEHAHQLKDNSISHYLIPMIEHYVFSDDERYRNIGNETQIAIGGLAQHMSWNQYKALLRRYISMLKTKPNQMKQAVQLIVQLSVPLRETLRIVRDGAESKLTLSKFPSNLDEPSNFIKQELYPTLSKILGTRDDETIIERMPIAEALVNIVLGLTNDDITNFLPSILTNICQVLRSKSEELRDAVRVTLGKISIILGAEYLVFVIKELMATLKRGSQIHVLSYTVHYILKSMHGVLKHSDLDTSSSMIVKIIMENIFGFAGEEKDSENYHTKVKEIKSNKSYDAGEILASNISLTEFGTLLSPVKALLMVRINLRNQNKLSELLRRYLLGLNHNSDSESESILKFCHQLFQESEMSNSPQIPKKKVKDQVDEKEDFFLVNLESKSYTINSNSLLLNSTLQKFALDLLRNVITRHRSFLTVSHLEGFIPFLRDSLLSENEGVVISTLRILITLIRLDFSDESSEIFKNCARKVLNIIKVSPSTSSELCQMGLKFLSAFIRHTDSTLKDTALSYVLGRVLPDLNEPSRQGLAFNFLKALVSKHIMLPELYDIADTTREIMVTNHSKEIRDVSRSVYYQFLMEYDQSKGRLEKQFKFMVDNLQYPTESGRQSVMELINLIITKANPALLSKLSSSFFLALVNVSFNDDAPRCREMASVLISTMLPKLENKDLEIVEKYIAAWLKQVDNASFLNLGLRTYKVYLKSIGFEHTIELDELAIKRIRYILSDTSVGSEHQWDLVYSALNTFSSYMEATESVYKHGFKDIWDGIITCLLYPHSWVRQSAANLVHQLIANKDKLEISLTNLEIQTIATRILHQLGAPSIPENLANVSIKTLVNISILWKEQRTPFIMDVSKQTGEDLKYTTAIDYMVTRIGGIIRSDEHRMDSFMSKKACIQLLALLVQVLDEDEVIAEGEKILLPLYGYLETYYSRAVDEEQEELRTLSNECLKILEDKLQVSDFTKIYTAVKQTVLERRKERRSKRAILAVNAPQISADKKLRKHARSREKRKHEKDENGYYQRRNKRKRA",
+            "entity_poly_seq_length": 2493,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "Q04500"
+            ],
+            "rcsb_pdbx_description": "U3 small nucleolar RNA-associated protein 14",
+            "entity_poly_strand_id": "RQ",
+            "entity_poly_seq_one_letter_code": "MAKKKSKSRSKSSRRVLDALQLAEREINGEFDNSSDNDKRHDARRNGTVVNLLKRSKGDTNSDEDDIDSESFEDEELNSDEALGSDDDYDILNSKFSQTIRDKKENANYQEEEDEGGYTSIDEEDLMPLSQVWDMDEKTAQSNGNDDEDASPQLKLQDTDISSESSSSEESESESEDDEEEEDPFDEISEDEEDIELNTITSKLIDETKSKAPKRLDTYGSGEANEYVLPSANAASGASGKLSLTDMMNVIDDRQVIENANLLKGKSSTYEVPLPQRIQQRHDRKAAYEISRQEVSKWNDIVQQNRRADHLIFPLNKPTEHNHASAFTRTQDVPQTELQEKVDQVLQESNLANPEKDSKFEELSTAKMTPEEMRKRTTEMRLMRELMFREERKARRLKKIKSKTYRKIKKKELMKNRELAAVSSDEDNEDHDIARAKERMTLKHKTNSKWAKDMIKHGMTNDAETREEMEEMLRQGERLKAKMLDRNSDDEEDGRVQTLSDVENEEKENIDSEALKSKLGKTGVMNMAFMKNGEAREREANKETLRQLRAVENGDDIKLFESDEEETNGENIQINKGRRIYTPGSLESNKDMNELNDHTRKENKVDESRSLENRLRAKNSGQSKNARTNAEGAIIVEEESDGEPLQDGQNNQQDEEAKDVNPWLANESDEEHTVKKQSSKVNVIDKDSSKNVKAMNKMEKAELKQKKKKKGKSNDDEDLLLTADDSTRLKIVDPYGGSDDEQGDNVFMFKQQDVIAEAFAGDDVVAEFQEEKKRVIDDEDDKEVDTTLPGWGEWAGAGSKPKNKKRKFIKKVKGVVNKDKRRDKNLQNVIINEKVNKKNLKYQSSAVPFPFENREQYERSLRMPIGQEWTSRASHQELIKPRIMTKPGQVIDPLKAPFK",
+            "entity_poly_seq_one_letter_code_can": "MAKKKSKSRSKSSRRVLDALQLAEREINGEFDNSSDNDKRHDARRNGTVVNLLKRSKGDTNSDEDDIDSESFEDEELNSDEALGSDDDYDILNSKFSQTIRDKKENANYQEEEDEGGYTSIDEEDLMPLSQVWDMDEKTAQSNGNDDEDASPQLKLQDTDISSESSSSEESESESEDDEEEEDPFDEISEDEEDIELNTITSKLIDETKSKAPKRLDTYGSGEANEYVLPSANAASGASGKLSLTDMMNVIDDRQVIENANLLKGKSSTYEVPLPQRIQQRHDRKAAYEISRQEVSKWNDIVQQNRRADHLIFPLNKPTEHNHASAFTRTQDVPQTELQEKVDQVLQESNLANPEKDSKFEELSTAKMTPEEMRKRTTEMRLMRELMFREERKARRLKKIKSKTYRKIKKKELMKNRELAAVSSDEDNEDHDIARAKERMTLKHKTNSKWAKDMIKHGMTNDAETREEMEEMLRQGERLKAKMLDRNSDDEEDGRVQTLSDVENEEKENIDSEALKSKLGKTGVMNMAFMKNGEAREREANKETLRQLRAVENGDDIKLFESDEEETNGENIQINKGRRIYTPGSLESNKDMNELNDHTRKENKVDESRSLENRLRAKNSGQSKNARTNAEGAIIVEEESDGEPLQDGQNNQQDEEAKDVNPWLANESDEEHTVKKQSSKVNVIDKDSSKNVKAMNKMEKAELKQKKKKKGKSNDDEDLLLTADDSTRLKIVDPYGGSDDEQGDNVFMFKQQDVIAEAFAGDDVVAEFQEEKKRVIDDEDDKEVDTTLPGWGEWAGAGSKPKNKKRKFIKKVKGVVNKDKRRDKNLQNVIINEKVNKKNLKYQSSAVPFPFENREQYERSLRMPIGQEWTSRASHQELIKPRIMTKPGQVIDPLKAPFK",
+            "entity_poly_seq_length": 899,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae S288C"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Pre-rRNA-processing protein PNO1",
+            "entity_poly_strand_id": "RT",
+            "entity_poly_seq_one_letter_code": "MVAPTALKKATVTPVSGQDGGSSRIIGINNTESIDEDDDDDVLLDDSDNNTAKEEVEGEEGSRKTHESKTVVVDDQGKPRFTSASKTQGNKIKFESRKIMVPPHRMTPLRNSWTKIYPPLVEHLKLQVRMNLKTKSVELRTNPKFTTDPGALQKGADFIKAFTLGFDLDDSIALLRLDDLYIETFEVKDVKTLTGDHLSRAIGRIAGKDGKTKFAIENATRTRIVLADSKIHILGGFTHIRMARESVVSLILGSPPGKVYGNLRTVASRLKERYGRRIPGLINPWKRRWKKNFIAVSAANRFKKISSSGALDYDIPTTASENLYFQ",
+            "entity_poly_seq_one_letter_code_can": "MVAPTALKKATVTPVSGQDGGSSRIIGINNTESIDEDDDDDVLLDDSDNNTAKEEVEGEEGSRKTHESKTVVVDDQGKPRFTSASKTQGNKIKFESRKIMVPPHRMTPLRNSWTKIYPPLVEHLKLQVRMNLKTKSVELRTNPKFTTDPGALQKGADFIKAFTLGFDLDDSIALLRLDDLYIETFEVKDVKTLTGDHLSRAIGRIAGKDGKTKFAIENATRTRIVLADSKIHILGGFTHIRMARESVVSLILGSPPGKVYGNLRTVASRLKERYGRRIPGLINPWKRRWKKNFIAVSAANRFKKISSSGALDYDIPTTASENLYFQ",
+            "entity_poly_seq_length": 326,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P40546"
+            ],
+            "rcsb_pdbx_description": "Protein FAF1",
+            "entity_poly_strand_id": "RV",
+            "entity_poly_seq_one_letter_code": "MTLDDDDYIKQMELQRKAFESQFGSLESMGFEDKTKNIRTEVDTRDSSGDEIDNSDHGSDFKDGTIESSNSSDEDSGNETAEENNQDSKPKTQPKVIRFNGPSDVYVPPSKKTQKLLRSGKTLTQINKKLESTEAKEEKEDETLEAENLQNDLELQQFLRESHLLSAFNNGGSGSTNSGVSLTLQSMGGGNDDGIVYQDDQVIGKARSRTLEMRLNRLSRVNGHQDKINKLEKVPMHIRRGMIDKHVKRIKKYEQEAAEGGIVLSKVKKGQFRKIESTYKKDIERRIGGSIKARDKEKATKRERGLKISSVGRSTRNGLIVSKRDIARISGGERSGKFNGKKKSRR",
+            "entity_poly_seq_one_letter_code_can": "MTLDDDDYIKQMELQRKAFESQFGSLESMGFEDKTKNIRTEVDTRDSSGDEIDNSDHGSDFKDGTIESSNSSDEDSGNETAEENNQDSKPKTQPKVIRFNGPSDVYVPPSKKTQKLLRSGKTLTQINKKLESTEAKEEKEDETLEAENLQNDLELQQFLRESHLLSAFNNGGSGSTNSGVSLTLQSMGGGNDDGIVYQDDQVIGKARSRTLEMRLNRLSRVNGHQDKINKLEKVPMHIRRGMIDKHVKRIKKYEQEAAEGGIVLSKVKKGQFRKIESTYKKDIERRIGGSIKARDKEKATKRERGLKISSVGRSTRNGLIVSKRDIARISGGERSGKFNGKKKSRR",
+            "entity_poly_seq_length": 346,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae S288C"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Unassigned helices",
+            "entity_poly_strand_id": "X1",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 347,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6e"
+            ],
+            "pfam_accessions": [
+                "PF01092"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX37"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S6-A",
+            "entity_poly_strand_id": "SH",
+            "entity_poly_seq_one_letter_code": "MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVDGEAVGDEFKGYVFKISGGNDKQGFPMKQGVLLPTRIKLLLTKNVSCYRPRRDGERKRKSVRGAIVGPDLAVLALVIVKKGEQELEGLTDTTVPKRLGPKRANNIRKFFGLSKEDDVRDFVIRREVTKGEKTYTKAPKIQRLVTPQRLQRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA",
+            "entity_poly_seq_one_letter_code_can": "MKLNISYPVNGSQKTFEIDDEHRIRVFFDKRIGQEVDGEAVGDEFKGYVFKISGGNDKQGFPMKQGVLLPTRIKLLLTKNVSCYRPRRDGERKRKSVRGAIVGPDLAVLALVIVKKGEQELEGLTDTTVPKRLGPKRANNIRKFFGLSKEDDVRDFVIRREVTKGEKTYTKAPKIQRLVTPQRLQRKRHQRALKVRNAQAQREAAAEYAQLLAKRLSERKAEKAEIRKRRASSLKA",
+            "entity_poly_seq_length": 236,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7e"
+            ],
+            "pfam_accessions": [
+                "PF01251"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P26786"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S7-A",
+            "entity_poly_strand_id": "SI",
+            "entity_poly_seq_one_letter_code": "MSAPQAKILSQAPTELELQVAQAFVELENSSPELKAELRPLQFKSIREIDVAGGKKALAIFVPVPSLAGFHKVQTKLTRELEKKFQDRHVIFLAERRILPKPSRTSRQVQKRPRSRTLTAVHDKILEDLVFPTEIVGKRVRYLVGGNKIQKVLLDSKDVQQIDYKLESFQAVYNKLTGKQIVFEIPSETH",
+            "entity_poly_seq_one_letter_code_can": "MSAPQAKILSQAPTELELQVAQAFVELENSSPELKAELRPLQFKSIREIDVAGGKKALAIFVPVPSLAGFHKVQTKLTRELEKKFQDRHVIFLAERRILPKPSRTSRQVQKRPRSRTLTAVHDKILEDLVFPTEIVGKRVRYLVGGNKIQKVLLDSKDVQQIDYKLESFQAVYNKLTGKQIVFEIPSETH",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S8e"
+            ],
+            "pfam_accessions": [
+                "PF01201"
+            ],
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "uniprot_accession": [
+                "P0CX39"
+            ],
+            "rcsb_pdbx_description": "40S ribosomal protein S8-A",
+            "entity_poly_strand_id": "SJ",
+            "entity_poly_seq_one_letter_code": "MGISRDSRHKRSATGAKRAQFRKKRKFELGRQPANTKIGAKRIHSVRTRGGNKKYRALRIETGNFSWASEGISKKTRIAGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWFEAHYGQTLGKKKNVKEEETVAKSKNAERKWAARAASAKIESSVESQFSAGRLYACISSRPGQSGRCDGYILEGEELAFYLRRLTAKK",
+            "entity_poly_seq_one_letter_code_can": "MGISRDSRHKRSATGAKRAQFRKKRKFELGRQPANTKIGAKRIHSVRTRGGNKKYRALRIETGNFSWASEGISKKTRIAGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWFEAHYGQTLGKKKNVKEEETVAKSKNAERKWAARAASAKIESSVESQFSAGRLYACISSRPGQSGRCDGYILEGEELAFYLRRLTAKK",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS8"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6KE6",
+            "rcsb_pdbx_description": "U3 snoRNA",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae S288C"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "entity_poly_strand_id": "3A",
+            "entity_poly_seq_one_letter_code": "GUCGACGUACUUCAUAGGAUCAUUUCUAUAGGAAUCGUCACUCUUUGACUCUUCAAAAGAGCCACUGAAUCCAACUUGGUUGAUGAGUCCCAUAACCUUUGUACCCCAGAGUGAGAAACCGAAAUUGAAUCUAAAUUAGCUUGGUCCGCAAUCCUUAGCGGUUCGGCCAUCUAUAAUUUUGAAUAAAAAUUUUGCUUUGCCGUUGCAUUUGUAGUUUUUUCCUUUGGAAGUAAUUACAAUAUUUUAUGGCGCGAUGAUCUUGACCCAUCCUAUGUACUUCUUUUUUGAAGGGAUAGGGCUCUAUGGGUGGGUACAAAUGGCAGUCUGACAAGU",
+            "entity_poly_seq_one_letter_code_can": "GUCGACGUACUUCAUAGGAUCAUUUCUAUAGGAAUCGUCACUCUUUGACUCUUCAAAAGAGCCACUGAAUCCAACUUGGUUGAUGAGUCCCAUAACCUUUGUACCCCAGAGUGAGAAACCGAAAUUGAAUCUAAAUUAGCUUGGUCCGCAAUCCUUAGCGGUUCGGCCAUCUAUAAUUUUGAAUAAAAAUUUUGCUUUGCCGUUGCAUUUGUAGUUUUUUCCUUUGGAAGUAAUUACAAUAUUUUAUGGCGCGAUGAUCUUGACCCAUCCUAUGUACUUCUUUUUUGAAGGGAUAGGGCUCUAUGGGUGGGUACAAAUGGCAGUCUGACAAGU",
+            "entity_poly_seq_length": 333,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "rcsb_pdbx_description": "5' ETS",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae S288C"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "entity_poly_strand_id": "5A",
+            "entity_poly_seq_one_letter_code": "AUGCGAAAGCAGUUGAAGACAAGUUCGAAAAGAGUUUGGAAACGAAUUCGAGUAGGCUUGUCGUUCGUUAUGUUUUUGUAAAUGGCCUCGUCAAACGGUGGAGAGAGUCGCUAGGUGAUCGUCAGAUCUGCCUAGUCUCUAUACAGCGUGUUUAAUUGACAUGGGUUGAUGCGUAUUGAGAGAUACAAUUUGGGAAGAAAUUCCCAGAGUGUGUUUCUUUUGCGUUUAACCUGAACAGUCUCAUCGUGGGCAUCUUGCGAUUCCAUUGGUGAGCAGCGAAGGAUUUGGUGGAUUACUAGCUAAUAGCAAUCUAUUUCAAAGAAUUCAAACUUGGGGGAAUGCCUUGUUGAAUAGCCGGUCGCAAGACUGUGAUUCUUCAAGUGUAACCUCCUCUCAAAUCAGCGAUAUCAAACGUACCAUUCCGUGAAACACCGGGGUAUCUGUUUGGUGGAACCUGAUUAGAGGAAACUCAAAGAGUGCUAUGGUAUGGUGACGGAGUGCGCUGGUCAAGAGUGUAAAAGCUUUUUGAACAGAGAGCAUUUCCGGCAGCAGAGAGACCUGAAAAAGCAAUUUUUCUGGAAUUUCAGCUGUUUCCAAACUCAAUAAGUAUCUUCUAGCAAGAGGGAAUAGGUGGGAAAAAAAAAAAGAGAUUUCGGUUUCUUUCUUUUUUACUGCUUGUUGCUUCUUCUUUUAAGAUAGU",
+            "entity_poly_seq_one_letter_code_can": "AUGCGAAAGCAGUUGAAGACAAGUUCGAAAAGAGUUUGGAAACGAAUUCGAGUAGGCUUGUCGUUCGUUAUGUUUUUGUAAAUGGCCUCGUCAAACGGUGGAGAGAGUCGCUAGGUGAUCGUCAGAUCUGCCUAGUCUCUAUACAGCGUGUUUAAUUGACAUGGGUUGAUGCGUAUUGAGAGAUACAAUUUGGGAAGAAAUUCCCAGAGUGUGUUUCUUUUGCGUUUAACCUGAACAGUCUCAUCGUGGGCAUCUUGCGAUUCCAUUGGUGAGCAGCGAAGGAUUUGGUGGAUUACUAGCUAAUAGCAAUCUAUUUCAAAGAAUUCAAACUUGGGGGAAUGCCUUGUUGAAUAGCCGGUCGCAAGACUGUGAUUCUUCAAGUGUAACCUCCUCUCAAAUCAGCGAUAUCAAACGUACCAUUCCGUGAAACACCGGGGUAUCUGUUUGGUGGAACCUGAUUAGAGGAAACUCAAAGAGUGCUAUGGUAUGGUGACGGAGUGCGCUGGUCAAGAGUGUAAAAGCUUUUUGAACAGAGAGCAUUUCCGGCAGCAGAGAGACCUGAAAAAGCAAUUUUUCUGGAAUUUCAGCUGUUUCCAAACUCAAUAAGUAUCUUCUAGCAAGAGGGAAUAGGUGGGAAAAAAAAAAAGAGAUUUCGGUUUCUUUCUUUUUUACUGCUUGUUGCUUCUUCUUUUAAGAUAGU",
+            "entity_poly_seq_length": 700,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6KE6",
+            "rcsb_pdbx_description": "18S rRNA",
+            "rcsb_source_organism_description": [
+                "Saccharomyces cerevisiae S288C"
+            ],
+            "rcsb_source_organism_id": [
+                559292
+            ],
+            "entity_poly_strand_id": "SA",
+            "entity_poly_seq_one_letter_code": "AGAUAGUUAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGUAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCUUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGCCCGGUUGGCCGGUCCGAUUUUUUCGUGUACUGGAUUUCCAACGGGGCCUUUCCUUCUGGCUAACCUUGAGUCCUUGUGGCUCUUGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGUAUUGCUCGAAUAUAUUAGCAUGGAAUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUUUAAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGGAAACUCACCAGGUCCAGACACAAUAAGGAUUGACAGAUUGAGAGCUCUUUCUUGAUUUUGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGUGAUUUGUCUGCUUAAUUGCGAUAACGAACGAGACCUUAACCUACUAAAUAGUGGUGCUAGCAUUUGCUGGUUAUCCACUUCUUAGAGGGACUAUCGGUUUCAAGCCGAUGGAAGUUUGAGGCAAUAACAGGUCUGUGAUGCCCUUAGACGUUCUGGGCCGCACGCGCGCUACACUGACGGAGCCAGCGAGUCUAACCUUGGCCGAGAGGUCUUGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACCGAUUGAAUGGCUUAGUGAGGCCUCAGGAUCUGCUUAGAGAAGGGGGCAACUCCAUCUCAGAGCGGAGAAUUUGGACAAACUUGGUCAUUUAGAGGAACUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_one_letter_code_can": "AGAUAGUUAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGUAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCUUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGCCCGGUUGGCCGGUCCGAUUUUUUCGUGUACUGGAUUUCCAACGGGGCCUUUCCUUCUGGCUAACCUUGAGUCCUUGUGGCUCUUGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGUAUUGCUCGAAUAUAUUAGCAUGGAAUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUUUAAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGGAAACUCACCAGGUCCAGACACAAUAAGGAUUGACAGAUUGAGAGCUCUUUCUUGAUUUUGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGUGAUUUGUCUGCUUAAUUGCGAUAACGAACGAGACCUUAACCUACUAAAUAGUGGUGCUAGCAUUUGCUGGUUAUCCACUUCUUAGAGGGACUAUCGGUUUCAAGCCGAUGGAAGUUUGAGGCAAUAACAGGUCUGUGAUGCCCUUAGACGUUCUGGGCCGCACGCGCGCUACACUGACGGAGCCAGCGAGUCUAACCUUGGCCGAGAGGUCUUGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACCGAUUGAAUGGCUUAGUGAGGCCUCAGGAUCUGCUUAGAGAAGGGGGCAACUCCAUCUCAGAGCGGAGAAUUUGGACAAACUUGGUCAUUUAGAGGAACUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA",
+            "entity_poly_seq_length": 1807,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "GUANOSINE-5'-TRIPHOSPHATE",
+            "formula_weight": 0.523,
+            "chemicalId": "GTP",
+            "chemicalName": "GUANOSINE-5'-TRIPHOSPHATE",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

@@ -1,0 +1,1761 @@
+{
+    "rcsb_id": "6RM3",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.4,
+    "rcsb_external_ref_id": [
+        "EMD-4935"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-4935"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.4,
+    "cryoem_exp_num_particles": 185445,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2019,
+    "citation_rcsb_authors": [
+        "Barandun, J.",
+        "Hunziker, M.",
+        "Vossbrinck, C.R.",
+        "Klinge, S."
+    ],
+    "citation_title": "Evolutionary compaction and adaptation visualized by the structure of the dormant microsporidian ribosome.",
+    "citation_pdbx_doi": "10.1038/s41564-019-0514-6",
+    "pdbx_keywords_text": "Microsporidia, Ribosome, Intracellular Parasite",
+    "_organismId": [
+        6039
+    ],
+    "_organismName": [
+        "Vairimorpha necatrix"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS2",
+            "entity_poly_strand_id": "SA0",
+            "entity_poly_seq_one_letter_code": "MAKVNIPIPEDFVKLILISQGHLGGIKTSKHMGRYVYGTRKPENIKVIDIEKTWEKFILASRMFCSLQNPSEAVVVSTKTFGRKGVLKFCEATNATPVIGRFIPGTFCNNQVKRPLEPRVLIVSDPFADKQALDESSYVNLQTVAFCNTDNDVSFVDVVIPMNNRSPVSISTGLFILSRLVRFMKTGEPLDENMKEIELFIYRDPVELERLVEEQKAIDSANINIGNQEFSDPEDYSTVNNWASDMTNISVETTRSGAERGWGN",
+            "entity_poly_seq_one_letter_code_can": "MAKVNIPIPEDFVKLILISQGHLGGIKTSKHMGRYVYGTRKPENIKVIDIEKTWEKFILASRMFCSLQNPSEAVVVSTKTFGRKGVLKFCEATNATPVIGRFIPGTFCNNQVKRPLEPRVLIVSDPFADKQALDESSYVNLQTVAFCNTDNDVSFVDVVIPMNNRSPVSISTGLFILSRLVRFMKTGEPLDENMKEIELFIYRDPVELERLVEEQKAIDSANINIGNQEFSDPEDYSTVNNWASDMTNISVETTRSGAERGWGN",
+            "entity_poly_seq_length": 264,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS26",
+            "entity_poly_strand_id": "SAA",
+            "entity_poly_seq_one_letter_code": "MPVKRKNHGKNRKNRGSCKPVQCDKCGRCVPKDKAIKRFKIVPLVEAGSMDDVKVASIYDIFEVPRISYKNQYCISCACHARIVRVRSRQGRKIRYDGERRMIK",
+            "entity_poly_seq_one_letter_code_can": "MPVKRKNHGKNRKNRGSCKPVQCDKCGRCVPKDKAIKRFKIVPLVEAGSMDDVKVASIYDIFEVPRISYKNQYCISCACHARIVRVRSRQGRKIRYDGERRMIK",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS1",
+            "entity_poly_strand_id": "SB0",
+            "entity_poly_seq_one_letter_code": "MAIQPPGSYAKANKKGSKKNQKIDNFTKKEWYNLKAPSVFPNNVCGKTMATRTSNKQDLSTLLIGRKFEVNQADLTGNLEEHARKFSFRVNEVRGKDCIGVFDGMHMTSDKIKGIVRKWHTLIEAEKDIVTKDGAILRVFVNAVTKKTPACTSKRVYCKSSDEKRIRKVMFDIIEEELKDQDISKIMKKLSQEVIGKNIEKAGSAIYPLQNCCVIKVKTVKKAREERHPMTVEAETY",
+            "entity_poly_seq_one_letter_code_can": "MAIQPPGSYAKANKKGSKKNQKIDNFTKKEWYNLKAPSVFPNNVCGKTMATRTSNKQDLSTLLIGRKFEVNQADLTGNLEEHARKFSFRVNEVRGKDCIGVFDGMHMTSDKIKGIVRKWHTLIEAEKDIVTKDGAILRVFVNAVTKKTPACTSKRVYCKSSDEKRIRKVMFDIIEEELKDQDISKIMKKLSQEVIGKNIEKAGSAIYPLQNCCVIKVKTVKKAREERHPMTVEAETY",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL29",
+            "entity_poly_strand_id": "LBB",
+            "entity_poly_seq_one_letter_code": "MAKKKNGTLANKNYKDHRNGIKRQKIGKLLELPGVNQKFLRNMKYAREGLKSSNE",
+            "entity_poly_seq_one_letter_code_can": "MAKKKNGTLANKNYKDHRNGIKRQKIGKLLELPGVNQKFLRNMKYAREGLKSSNE",
+            "entity_poly_seq_length": 55,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS27",
+            "entity_poly_strand_id": "SBB",
+            "entity_poly_seq_one_letter_code": "MVSKNLHNFQNFDLAFPTEEQIKKTHKTKNLYAVPTGYFMQVLCDGCKGVTLCYSHSQRDMNCKGCGETILKSTGGKARLIGECAFKKVDYSFE",
+            "entity_poly_seq_one_letter_code_can": "MVSKNLHNFQNFDLAFPTEEQIKKTHKTKNLYAVPTGYFMQVLCDGCKGVTLCYSHSQRDMNCKGCGETILKSTGGKARLIGECAFKKVDYSFE",
+            "entity_poly_seq_length": 94,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL4",
+            "entity_poly_strand_id": "LC0",
+            "entity_poly_seq_one_letter_code": "MDSKINIYELDGNTVKSTVNLPDVFSVDIRSDIIEQVHSLERLNLRQPYAVSPNAGMQHSAVSWGTGRAIARCPRIGGGGSRRSGQGAFANFCRKGRMAHPTTTMRRWCRKIVLNTRRIALAMSIAASAKTSFVESRGHKIENLKNIPLVVSDDLKKFEKTKDAFELLKNFNLTEEVERVKNSKTLRGTKGKMRNRRFRMRKGLLLIHDSPVELKAFRNIPGVDQLSINKLNIFELAPGGHAGRLVMWTESAFKKLEKLFGKFNEESRILKKFTLPKKMITTDSLEELFLSKEVQAVLNEPAYIPEFSPRKTEEEIAEGEKFISMFDSERILSK",
+            "entity_poly_seq_one_letter_code_can": "MDSKINIYELDGNTVKSTVNLPDVFSVDIRSDIIEQVHSLERLNLRQPYAVSPNAGMQHSAVSWGTGRAIARCPRIGGGGSRRSGQGAFANFCRKGRMAHPTTTMRRWCRKIVLNTRRIALAMSIAASAKTSFVESRGHKIENLKNIPLVVSDDLKKFEKTKDAFELLKNFNLTEEVERVKNSKTLRGTKGKMRNRRFRMRKGLLLIHDSPVELKAFRNIPGVDQLSINKLNIFELAPGGHAGRLVMWTESAFKKLEKLFGKFNEESRILKKFTLPKKMITTDSLEELFLSKEVQAVLNEPAYIPEFSPRKTEEEIAEGEKFISMFDSERILSK",
+            "entity_poly_seq_length": 334,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS5",
+            "entity_poly_strand_id": "SC0",
+            "entity_poly_seq_one_letter_code": "MQNKKFNRNAKEEEWVPKTKLGKLVKDRKIQSLDTIFTHSLQIREAGIVDFLLGQNIRDEVLAIKSVQKQTRAGQKTSIKAVVAIGDGKGYVGIGTFSSKDAATAIKTAASKAKCNIRPVRLGLWQGEMGQVHTVTTRASGKCGSSVVKIIPAPKGTGISASSVPKTILELAGVKDAYTQCFGATYTTENFAKATIEALEKSSSLFLPSQWTEPIKQLNPLMEFSNHLNKQEKIQFN",
+            "entity_poly_seq_one_letter_code_can": "MQNKKFNRNAKEEEWVPKTKLGKLVKDRKIQSLDTIFTHSLQIREAGIVDFLLGQNIRDEVLAIKSVQKQTRAGQKTSIKAVVAIGDGKGYVGIGTFSSKDAATAIKTAASKAKCNIRPVRLGLWQGEMGQVHTVTTRASGKCGSSVVKIIPAPKGTGISASSVPKTILELAGVKDAYTQCFGATYTTENFAKATIEALEKSSSLFLPSQWTEPIKQLNPLMEFSNHLNKQEKIQFN",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL30",
+            "entity_poly_strand_id": "LCC",
+            "entity_poly_seq_one_letter_code": "MSRRYSKAVGLAASLPLVVKTGKYDIGFKSALRNVITKKAKCIVVSSSLPSVKRKQLEYYCVLAGGIPLKFYEGTNNALANLCELKYRTGVMSVLHEGESDLLTEKIN",
+            "entity_poly_seq_one_letter_code_can": "MSRRYSKAVGLAASLPLVVKTGKYDIGFKSALRNVITKKAKCIVVSSSLPSVKRKQLEYYCVLAGGIPLKFYEGTNNALANLCELKYRTGVMSVLHEGESDLLTEKIN",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS28",
+            "entity_poly_strand_id": "SCC",
+            "entity_poly_seq_one_letter_code": "MEANLQQQFYCKVLKTADRAGSAGALVLVRVELLNNGRKMNRLIKGSVREGDIIALLECEREHRRSR",
+            "entity_poly_seq_one_letter_code_can": "MEANLQQQFYCKVLKTADRAGSAGALVLVRVELLNNGRKMNRLIKGSVREGDIIALLECEREHRRSR",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL18",
+            "entity_poly_strand_id": "LD0",
+            "entity_poly_seq_one_letter_code": "MARKAGRRNKKAKSAATKRSRFQVKRRRRRECKTNYRHRINLIKQDYNKQGALKFRLVVRRTNTKVICQITRSYIDGDRVFAFADSTELKNYGVDFGLKNHFAFYATGFLAARRALAKLEMDDLYKAKETDGTYTVTEDIDEERRALKVFLDIGLSRSTKGGNTFIAMKGCSDAGVYIPHSESKFIGYEKNKPFKADELRDRIFCKHVSEYMKTLKENDEEKFKIQFSDYIKKNIEPDNIAGIYQNALDGIIKNPSRQEKEKKDYSGFKKFKVEKLSLEERKKRIQEKLSALKAN",
+            "entity_poly_seq_one_letter_code_can": "MARKAGRRNKKAKSAATKRSRFQVKRRRRRECKTNYRHRINLIKQDYNKQGALKFRLVVRRTNTKVICQITRSYIDGDRVFAFADSTELKNYGVDFGLKNHFAFYATGFLAARRALAKLEMDDLYKAKETDGTYTVTEDIDEERRALKVFLDIGLSRSTKGGNTFIAMKGCSDAGVYIPHSESKFIGYEKNKPFKADELRDRIFCKHVSEYMKTLKENDEEKFKIQFSDYIKKNIEPDNIAGIYQNALDGIIKNPSRQEKEKKDYSGFKKFKVEKLSLEERKKRIQEKLSALKAN",
+            "entity_poly_seq_length": 295,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS3",
+            "entity_poly_strand_id": "SD0",
+            "entity_poly_seq_one_letter_code": "MGNDNKILKKFIADGMIFAELKELFEKCLINEGFSSLELRLEESPVKVILKVVKPHDLIGDKKWKVNQIQHLVASRLSLPDSNVVVIIDKVVEKGLCPIYQANLIKEKMLANIPHKRAANLVLKNTKFAGATGCLVTISGKLKGLRACTKKFLEGVVIKSGQPSRDYVKKHITTVNTKQGVIGIQVSIMLPHDPEGIIGPSTLLPDKIVVLDAKE",
+            "entity_poly_seq_one_letter_code_can": "MGNDNKILKKFIADGMIFAELKELFEKCLINEGFSSLELRLEESPVKVILKVVKPHDLIGDKKWKVNQIQHLVASRLSLPDSNVVVIIDKVVEKGLCPIYQANLIKEKMLANIPHKRAANLVLKNTKFAGATGCLVTISGKLKGLRACTKKFLEGVVIKSGQPSRDYVKKHITTVNTKQGVIGIQVSIMLPHDPEGIIGPSTLLPDKIVVLDAKE",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL31",
+            "entity_poly_strand_id": "LDD",
+            "entity_poly_seq_one_letter_code": "MNTALENNKMMEITVNLGKLTKGCNWTKKASIAIKKFRSHLKKMLKTDEKITIQKDLNKYIFSKGLTKVPRRVRIKVERIADKDNAELNVIKCSHVLVGNFKGLKTEIISE",
+            "entity_poly_seq_one_letter_code_can": "MNTALENNKMMEITVNLGKLTKGCNWTKKASIAIKKFRSHLKKMLKTDEKITIQKDLNKYIFSKGLTKVPRRVRIKVERIADKDNAELNVIKCSHVLVGNFKGLKTEIISE",
+            "entity_poly_seq_length": 111,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS14",
+            "entity_poly_strand_id": "SDD",
+            "entity_poly_seq_one_letter_code": "MNLADILDVPIKQNEPKGPFSHKVATNEEAKKCRACSGFRGIIFKYDMTICRRCFREYAKDIGFNVYD",
+            "entity_poly_seq_one_letter_code_can": "MNLADILDVPIKQNEPKGPFSHKVATNEEAKKCRACSGFRGIIFKYDMTICRRCFREYAKDIGFNVYD",
+            "entity_poly_seq_length": 68,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL6",
+            "entity_poly_strand_id": "LE0",
+            "entity_poly_seq_one_letter_code": "AIKDIQIRLQETAKYQSEDVPKYIEKYMKKLNKQNERKRRTDLECGMIVVVCEGIYEAKRVFYLKGLDKNLVLCAVLKDGNNVSFFKIDESYLLATSTKININVNEIHISEDEVPLITKDKSIEIMDIENSEKMTKIEKSIMDEVRKVDYLKTYLNTPFEIDSSVEFYSQKY",
+            "entity_poly_seq_one_letter_code_can": "AIKDIQIRLQETAKYQSEDVPKYIEKYMKKLNKQNERKRRTDLECGMIVVVCEGIYEAKRVFYLKGLDKNLVLCAVLKDGNNVSFFKIDESYLLATSTKININVNEIHISEDEVPLITKDKSIEIMDIENSEKMTKIEKSIMDEVRKVDYLKTYLNTPFEIDSSVEFYSQKY",
+            "entity_poly_seq_length": 172,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS4",
+            "entity_poly_strand_id": "SE0",
+            "entity_poly_seq_one_letter_code": "TGGPRKHLNRKVAPTSWKLDKSIGTYAIRPHSGPHKKDLCIPLAYVLEKFLEYANNRKEIQIILKSKNIKINGKIIEKRKYPVGFGDVLSIIKTDEHYRVFYGVDKNFTFIKIDKEEANFKLAKVTNKKVMYENVPYIFTNDGACFKYCDPAININDTVKIDLETRLVVDYVSFKEGDVVFVMRGEDTGRVGIIKKIQNTTVICEDLSNKEFETSIDSMIVIGDNEESLLISLPEEKGIRLTALEESNLKFGEIVENEVEVN",
+            "entity_poly_seq_one_letter_code_can": "TGGPRKHLNRKVAPTSWKLDKSIGTYAIRPHSGPHKKDLCIPLAYVLEKFLEYANNRKEIQIILKSKNIKINGKIIEKRKYPVGFGDVLSIIKTDEHYRVFYGVDKNFTFIKIDKEEANFKLAKVTNKKVMYENVPYIFTNDGACFKYCDPAININDTVKIDLETRLVVDYVSFKEGDVVFVMRGEDTGRVGIIKKIQNTTVICEDLSNKEFETSIDSMIVIGDNEESLLISLPEEKGIRLTALEESNLKFGEIVENEVEVN",
+            "entity_poly_seq_length": 262,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL32",
+            "entity_poly_strand_id": "LEE",
+            "entity_poly_seq_one_letter_code": "MEEQFTAPNPLIAIKEEFRKKIKFVRHHSDRYNRVKPSWRKPRGIDSNVRKGLHGQRKMPKIGYKKPDVVRYLLPNGLRKFIIHNADDLEPLICLNRTYCAEIAHSVGAKKRIAIVNRAKELGIHVTNEKARLVEAIPE",
+            "entity_poly_seq_one_letter_code_can": "MEEQFTAPNPLIAIKEEFRKKIKFVRHHSDRYNRVKPSWRKPRGIDSNVRKGLHGQRKMPKIGYKKPDVVRYLLPNGLRKFIIHNADDLEPLICLNRTYCAEIAHSVGAKKRIAIVNRAKELGIHVTNEKARLVEAIPE",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS30",
+            "entity_poly_strand_id": "SEE",
+            "entity_poly_seq_one_letter_code": "MATQINIKKAGKVKNQTPKVAKQEKQRAKTGRCANRRKYEARLEMGYFECNGKMKLNLKA",
+            "entity_poly_seq_one_letter_code_can": "MATQINIKKAGKVKNQTPKVAKQEKQRAKTGRCANRRKYEARLEMGYFECNGKMKLNLKA",
+            "entity_poly_seq_length": 60,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL30",
+            "entity_poly_strand_id": "LF0",
+            "entity_poly_seq_one_letter_code": "MSSSVAPNSFKSLQEYEKKQALIIDAKKSEYEQRVLRNKEYALETTEKLLNKYYDSVKELEKTKSDYKSKNMLYIPKEPNFLVVVKIKSSIGAAPRQRSILKLLRLNKTNSAVLVKNNKSMKRMLQLAKDYISYGSISYELLRKLVYKHGVIKVNDKHRKLNNENIEDAFRGELKCIEEIIHNIYFGTEYFKVCANTLIPFRLKSPQGGFKGKKSKGFTEGGNLGNHYDLIGELVERML",
+            "entity_poly_seq_one_letter_code_can": "MSSSVAPNSFKSLQEYEKKQALIIDAKKSEYEQRVLRNKEYALETTEKLLNKYYDSVKELEKTKSDYKSKNMLYIPKEPNFLVVVKIKSSIGAAPRQRSILKLLRLNKTNSAVLVKNNKSMKRMLQLAKDYISYGSISYELLRKLVYKHGVIKVNDKHRKLNNENIEDAFRGELKCIEEIIHNIYFGTEYFKVCANTLIPFRLKSPQGGFKGKKSKGFTEGGNLGNHYDLIGELVERML",
+            "entity_poly_seq_length": 239,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL33",
+            "entity_poly_strand_id": "LFF",
+            "entity_poly_seq_one_letter_code": "MFIPGIFVSHRRALRRIRHTQALIKINNVVNKEQAKNYIGHVVVSKRLNDDKTPRDVEGVVIGVHGNKGLVRVKFERNMPAKSVTNVVEVRLVKKEIN",
+            "entity_poly_seq_one_letter_code_can": "MFIPGIFVSHRRALRRIRHTQALIKINNVVNKEQAKNYIGHVVVSKRLNDDKTPRDVEGVVIGVHGNKGLVRVKFERNMPAKSVTNVVEVRLVKKEIN",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL8",
+            "entity_poly_strand_id": "LG0",
+            "entity_poly_seq_one_letter_code": "MALGKPKQKKSFVPKLTKDQKDEKERLITKKIYKLAYAIKRPPAIQQFKTILESEDCKRALALFSKYKPETHEERLERLKKSNPQEGPKPILAKQGLRHVTRLIETKKAKFVLVAADVNPAELVLFIPTLCKKMNIPYAIVESQNMLGSVVNMKKTTILALCDVKGEDKKELEEIIKISNEMFSEQYEQHMTRWGGLRTN",
+            "entity_poly_seq_one_letter_code_can": "MALGKPKQKKSFVPKLTKDQKDEKERLITKKIYKLAYAIKRPPAIQQFKTILESEDCKRALALFSKYKPETHEERLERLKKSNPQEGPKPILAKQGLRHVTRLIETKKAKFVLVAADVNPAELVLFIPTLCKKMNIPYAIVESQNMLGSVVNMKKTTILALCDVKGEDKKELEEIIKISNEMFSEQYEQHMTRWGGLRTN",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS6",
+            "entity_poly_strand_id": "SG0",
+            "entity_poly_seq_one_letter_code": "MKLNIADPVNGTQKMYEIEHKAQLKLYNKKIGDQFNGDILDEKFNGYVFEITGGDDAQGFPMSKKYLTPNRIRPLLSKGDVGYRCRRKGVRMRKSVRGAIVSEETNVLAIIVIKKGDNELEGLTDRSNPRTHLPKKDKKLRSMFNIPEGEDIVTYLKDLLSKNLPEGAKLPNIKPTGHIHERKRAQKEASKKAHAERKARNEAQRQQWLKTYNIKQD",
+            "entity_poly_seq_one_letter_code_can": "MKLNIADPVNGTQKMYEIEHKAQLKLYNKKIGDQFNGDILDEKFNGYVFEITGGDDAQGFPMSKKYLTPNRIRPLLSKGDVGYRCRRKGVRMRKSVRGAIVSEETNVLAIIVIKKGDNELEGLTDRSNPRTHLPKKDKKLRSMFNIPEGEDIVTYLKDLLSKNLPEGAKLPNIKPTGHIHERKRAQKEASKKAHAERKARNEAQRQQWLKTYNIKQD",
+            "entity_poly_seq_length": 217,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL34",
+            "entity_poly_strand_id": "LGG",
+            "entity_poly_seq_one_letter_code": "MHKIIIHKGRTYKTRSNVRKVVKTPSGKLVARRQKKHAKFHRCHECNTKLLSIARMRPAEFSRQKVSARKVNRPLGSTTCGKCVKEKIIEAFLNDEERIVREKATA",
+            "entity_poly_seq_one_letter_code_can": "MHKIIIHKGRTYKTRSNVRKVVKTPSGKLVARRQKKHAKFHRCHECNTKLLSIARMRPAEFSRQKVSARKVNRPLGSTTCGKCVKEKIIEAFLNDEERIVREKATA",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "RACK1",
+            "entity_poly_strand_id": "SGG",
+            "entity_poly_seq_one_letter_code": "MSSSDLRVLEPLLAHKQSVTCIQKLRNGSSNVLISASKDKSIFYWSLDSEIESDFGKLLKEYAGKHSKNVNGVAISPNGDMLVSVGSDKMGYIWDVTSKNITASLKGHDRDILSVAINKEGTKIVTGSVDCSIKLWNTKGILINTFGPGLENCHKNWVTCLEFDSRDENILYSGSKDGSVKIWNIEDGTLLKTFVEGNVLDYQNYEKETGEKPKDNELALSVTCLTFCEGGNFLIYGGKNNKVYIVNLDTNECVASVAVENTVRSVTSFESFAGIAIGTDDAIYIYDVCSKSIVATHSLLEMGKGISCNSLVSQGNILYCGLSNGQIYTLEYSKRSE",
+            "entity_poly_seq_one_letter_code_can": "MSSSDLRVLEPLLAHKQSVTCIQKLRNGSSNVLISASKDKSIFYWSLDSEIESDFGKLLKEYAGKHSKNVNGVAISPNGDMLVSVGSDKMGYIWDVTSKNITASLKGHDRDILSVAINKEGTKIVTGSVDCSIKLWNTKGILINTFGPGLENCHKNWVTCLEFDSRDENILYSGSKDGSVKIWNIEDGTLLKTFVEGNVLDYQNYEKETGEKPKDNELALSVTCLTFCEGGNFLIYGGKNNKVYIVNLDTNECVASVAVENTVRSVTSFESFAGIAIGTDDAIYIYDVCSKSIVATHSLLEMGKGISCNSLVSQGNILYCGLSNGQIYTLEYSKRSE",
+            "entity_poly_seq_length": 337,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL6",
+            "entity_poly_strand_id": "LH0",
+            "entity_poly_seq_one_letter_code": "MTRILTERKISIPGECQVDLTKKCFTFTGPKGKLVHDCSKYLMYFTVEDSEIVIRLWHAKRKQIALATTVTSLLRNSITAVTKGFSYVMKAVHKHFSINFEIKENGKVLLIKNFMGEKAPREFRMKGQAVVKMLPERKGCISIEGPSLPDVSQTAGDITNACRAKKLDARLFLDGIYVVEKTTMVE",
+            "entity_poly_seq_one_letter_code_can": "MTRILTERKISIPGECQVDLTKKCFTFTGPKGKLVHDCSKYLMYFTVEDSEIVIRLWHAKRKQIALATTVTSLLRNSITAVTKGFSYVMKAVHKHFSINFEIKENGKVLLIKNFMGEKAPREFRMKGQAVVKMLPERKGCISIEGPSLPDVSQTAGDITNACRAKKLDARLFLDGIYVVEKTTMVE",
+            "entity_poly_seq_length": 186,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS7",
+            "entity_poly_strand_id": "SH0",
+            "entity_poly_seq_one_letter_code": "MSAQTETEKQISEIIKKFVTDIDEKKLQEINIQTFIRDNKRKVMTVKVPVEIISKSQINFGSIIKNIKQKFQDYYIILVENIKNEEKTSWNDCKKIFKGACYPFNINGIRTDVISPEEEIVNVLLEKKCTFNEDEFKMIETAIKGLVGMNVVVSTNFHSLN",
+            "entity_poly_seq_one_letter_code_can": "MSAQTETEKQISEIIKKFVTDIDEKKLQEINIQTFIRDNKRKVMTVKVPVEIISKSQINFGSIIKNIKQKFQDYYIILVENIKNEEKTSWNDCKKIFKGACYPFNINGIRTDVISPEEEIVNVLLEKKCTFNEDEFKMIETAIKGLVGMNVVVSTNFHSLN",
+            "entity_poly_seq_length": 161,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL29",
+            "entity_poly_strand_id": "LHH",
+            "entity_poly_seq_one_letter_code": "MKMDCQSFREKNISELEEEIINLKNDLLQLRQKKVSSTVEPDEIKTARKNIAKALRVRHEKLLEEQCKKYENMPLNKIPKELRPKKTRAERRKLTKKQANRKVPKVWRRELKNPKIYFAYTE",
+            "entity_poly_seq_one_letter_code_can": "MKMDCQSFREKNISELEEEIINLKNDLLQLRQKKVSSTVEPDEIKTARKNIAKALRVRHEKLLEEQCKKYENMPLNKIPKELRPKKTRAERRKLTKKQANRKVPKVWRRELKNPKIYFAYTE",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL16",
+            "entity_poly_strand_id": "LI0",
+            "entity_poly_seq_one_letter_code": "MARRPGRCYRYLSKKAYHKSRFCKSVPDLKIKIWDSGRRKAEVLDFPICINLISHARENISEQALDAARIAAHHYMVKTAGRDNFHLRVNVYPFHVLRINKMLSCAGADRLQTGMRQSFGKPEGRVARIFFDQIVMSIRTKKGNEAAAMEALRRSRHKFPGKYEVQVSSKFGFTGLYTEEFNKLREEGCLLANGNTVAVLKQKGPISQYMKKLEKQL",
+            "entity_poly_seq_one_letter_code_can": "MARRPGRCYRYLSKKAYHKSRFCKSVPDLKIKIWDSGRRKAEVLDFPICINLISHARENISEQALDAARIAAHHYMVKTAGRDNFHLRVNVYPFHVLRINKMLSCAGADRLQTGMRQSFGKPEGRVARIFFDQIVMSIRTKKGNEAAAMEALRRSRHKFPGKYEVQVSSKFGFTGLYTEEFNKLREEGCLLANGNTVAVLKQKGPISQYMKKLEKQL",
+            "entity_poly_seq_length": 217,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS8",
+            "entity_poly_strand_id": "SI0",
+            "entity_poly_seq_one_letter_code": "NLLIIFLGINHRGEHKRKKSGGKSVLHRKKRNNRRGSQMAATKVGSTKVVEKRARGGNKKYKALRLNEGEFLYKSGNIINSSKIIEVMYHPTNNDYVRTNTITKSSVVKISSEGIKIQDEEDLKEMYEKGYLYAVINSRPGQVGKAEGEILQGSKLEFYTNLFKKN",
+            "entity_poly_seq_one_letter_code_can": "NLLIIFLGINHRGEHKRKKSGGKSVLHRKKRNNRRGSQMAATKVGSTKVVEKRARGGNKKYKALRLNEGEFLYKSGNIINSSKIIEVMYHPTNNDYVRTNTITKSSVVKISSEGIKIQDEEDLKEMYEKGYLYAVINSRPGQVGKAEGEILQGSKLEFYTNLFKKN",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL5",
+            "entity_poly_strand_id": "LJ0",
+            "entity_poly_seq_one_letter_code": "MKINPMREIKIKKLSIVINVGGGSSTRLNNAAKVLKQLTSQDCLFSKARYTLRNFGIRRNEKISVHVNVSGDKAMEILKKALKVREYELSKDCFNQTGCFGLGINEHIDLGMKYDPDIGIYGMNFYVDLKRPGDRVSKRKRFRSKIGNKQKISKEDAQKWFVDTFEGILLE",
+            "entity_poly_seq_one_letter_code_can": "MKINPMREIKIKKLSIVINVGGGSSTRLNNAAKVLKQLTSQDCLFSKARYTLRNFGIRRNEKISVHVNVSGDKAMEILKKALKVREYELSKDCFNQTGCFGLGINEHIDLGMKYDPDIGIYGMNFYVDLKRPGDRVSKRKRFRSKIGNKQKISKEDAQKWFVDTFEGILLE",
+            "entity_poly_seq_length": 171,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS4",
+            "entity_poly_strand_id": "SJ0",
+            "entity_poly_seq_one_letter_code": "MANQFSKRLVHKPRNPFEKDRLIKEMQIVGKFGLKNKHELRLVEKNFSNDKKEARLLLTSNKVEDISINSRNLLDKLCTAGILNGIDLTSKEEILNGLNSILDLTIDSYLERTLQYKVYSSGLAKSVHHSRWLITKGQISIQGVVIKRPNYVVKAEEEAFIELTPYSWSNNTKITKSQKKKAAKTDEEE",
+            "entity_poly_seq_one_letter_code_can": "MANQFSKRLVHKPRNPFEKDRLIKEMQIVGKFGLKNKHELRLVEKNFSNDKKEARLLLTSNKVEDISINSRNLLDKLCTAGILNGIDLTSKEEILNGLNSILDLTIDSYLERTLQYKVYSSGLAKSVHHSRWLITKGQISIQGVVIKRPNYVVKAEEEAFIELTPYSWSNNTKITKSQKKKAAKTDEEE",
+            "entity_poly_seq_length": 189,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL37",
+            "entity_poly_strand_id": "LJJ",
+            "entity_poly_seq_one_letter_code": "MSKGTASFGKKNKRNHTLCKRCGKMSYHKQLRKCASCAYPQPKMRTPGSIKARRRNALGTGRMRHLKKVIHEHVHGKKVNPILAAFWKTIKQD",
+            "entity_poly_seq_one_letter_code_can": "MSKGTASFGKKNKRNHTLCKRCGKMSYHKQLRKCASCAYPQPKMRTPGSIKARRRNALGTGRMRHLKKVIHEHVHGKKVNPILAAFWKTIKQD",
+            "entity_poly_seq_length": 93,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS17",
+            "entity_poly_strand_id": "SL0",
+            "entity_poly_seq_one_letter_code": "MIDTTLKYKIFPEQKGVSLDPYATAEELKASRRINEMREGFTVPKTAIDATYIDKKCPFTGDVKVTGKIFEGVVYKMKADKTIVVRINRLVYNKKYRRYGRRHTNVSTHMSPCFEGLIHVGDTVICGETRRLSKTKSSVVLDFRKKSTEGNFKRLEDF",
+            "entity_poly_seq_one_letter_code_can": "MIDTTLKYKIFPEQKGVSLDPYATAEELKASRRINEMREGFTVPKTAIDATYIDKKCPFTGDVKVTGKIFEGVVYKMKADKTIVVRINRLVYNKKYRRYGRRHTNVSTHMSPCFEGLIHVGDTVICGETRRLSKTKSSVVLDFRKKSTEGNFKRLEDF",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL39",
+            "entity_poly_strand_id": "LLL",
+            "entity_poly_seq_one_letter_code": "MGSRKTEIIKTRLVRARRSNRAIPAWKSELPEFKDKYNMKRRHWRAKKLKIY",
+            "entity_poly_seq_one_letter_code_can": "MGSRKTEIIKTRLVRARRSNRAIPAWKSELPEFKDKYNMKRRHWRAKKLKIY",
+            "entity_poly_seq_length": 52,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL14",
+            "entity_poly_strand_id": "LM0",
+            "entity_poly_seq_one_letter_code": "MKFIELGRLVAPIIKKERNIKAIIIGIIDSTFVVLKKSNGENEVCPVSSLILLDEVYDIKNLSSEEIVKLIENKKEEGGASNDFERFKNKLREEVKKNILREKGI",
+            "entity_poly_seq_one_letter_code_can": "MKFIELGRLVAPIIKKERNIKAIIIGIIDSTFVVLKKSNGENEVCPVSSLILLDEVYDIKNLSSEEIVKLIENKKEEGGASNDFERFKNKLREEVKKNILREKGI",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL40",
+            "entity_poly_strand_id": "LMM",
+            "entity_poly_seq_one_letter_code": "MSIICRFNNKSSFYAQETAADLKQEISTRNALSYDSILLSSGCRILEDTFQLSSLNGLEINATVKCLGGGNMLDENDRELANKRNKKLICRRCNVRLSVNATNCRKKGCGSKDLRPKKQLKPKALKK",
+            "entity_poly_seq_one_letter_code_can": "MSIICRFNNKSSFYAQETAADLKQEISTRNALSYDSILLSSGCRILEDTFQLSSLNGLEINATVKCLGGGNMLDENDRELANKRNKKLICRRCNVRLSVNATNCRKKGCGSKDLRPKKQLKPKALKK",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS12",
+            "entity_poly_strand_id": "SM0",
+            "entity_poly_seq_one_letter_code": "MSDEEYKPIVEQQYTLRDALTQACRAARISNNLAKGGRECVKKICANNAKFVLLAEDCEPKIKTVATFFAQKNKIPIISIEDRKELGRILNFEKTNLAGKVRNNGCGIALISEFNEKTKASEFILNELETN",
+            "entity_poly_seq_one_letter_code_can": "MSDEEYKPIVEQQYTLRDALTQACRAARISNNLAKGGRECVKKICANNAKFVLLAEDCEPKIKTVATFFAQKNKIPIISIEDRKELGRILNFEKTNLAGKVRNNGCGIALISEFNEKTKASEFILNELETN",
+            "entity_poly_seq_length": 131,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL15",
+            "entity_poly_strand_id": "LN0",
+            "entity_poly_seq_one_letter_code": "MAAADYIREIQKAKQSDIMRYLLRLRVCEYRQRGEVFRVERPTFLQRARTLGYRNKEGVLCYIARVKKGNRKREYNNGNTRGKCKNARIHQITPAVRHQATAEQIVGKRHPNLRVLNSYWVNQDLVYKYFEVIMVDPFHNAIRNDPKLNWICKGVMKHRECRGLTSASKKSRGLGHGIKYNNTIGGSVRACWKRNVTTSLRRFR",
+            "entity_poly_seq_one_letter_code_can": "MAAADYIREIQKAKQSDIMRYLLRLRVCEYRQRGEVFRVERPTFLQRARTLGYRNKEGVLCYIARVKKGNRKREYNNGNTRGKCKNARIHQITPAVRHQATAEQIVGKRHPNLRVLNSYWVNQDLVYKYFEVIMVDPFHNAIRNDPKLNWICKGVMKHRECRGLTSASKKSRGLGHGIKYNNTIGGSVRACWKRNVTTSLRRFR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS15",
+            "entity_poly_strand_id": "SN0",
+            "entity_poly_seq_one_letter_code": "MAKMHSSGRGISTSMKPFSTMFPTWIDVSVDEIKADVLKMNTKGVSSAEIGNKLRDVYGVGDCKTIFDGLSLSRFLEKEGNFIEIPEDVKDLVKRANILRKHINTHSRDKDSKYRLGLIISRLNRCVKHYKKKLRIPSTWKPKLVELIK",
+            "entity_poly_seq_one_letter_code_can": "MAKMHSSGRGISTSMKPFSTMFPTWIDVSVDEIKADVLKMNTKGVSSAEIGNKLRDVYGVGDCKTIFDGLSLSRFLEKEGNFIEIPEDVKDLVKRANILRKHINTHSRDKDSKYRLGLIISRLNRCVKHYKKKLRIPSTWKPKLVELIK",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "MDF2",
+            "entity_poly_strand_id": "LNN",
+            "entity_poly_seq_one_letter_code": "MEKQQNEKKLNEEETEKLALTEEHPKKKVNEEDNLDTLPEKREEDIVFKKVNVEKNKEKEEDHNFSSNYADHKIDLLSVENKDFPKKQKKVKDSLHLLKENRDRDFGRSKRGHVRNKKQGRETGTRRIKIRKNNYESNDINNYNIKTISKKSRRKEAERQ",
+            "entity_poly_seq_one_letter_code_can": "MEKQQNEKKLNEEETEKLALTEEHPKKKVNEEDNLDTLPEKREEDIVFKKVNVEKNKEKEEDHNFSSNYADHKIDLLSVENKDFPKKQKKVKDSLHLLKENRDRDFGRSKRGHVRNKKQGRETGTRRIKIRKNNYESNDINNYNIKTISKKSRRKEAERQ",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "MDF1",
+            "entity_poly_strand_id": "SNN",
+            "entity_poly_seq_one_letter_code": "MKYELIAKADFDNIKGLSCDQTYPAILSCTACSFVHPKVVILTSESTIKEPNVYKCNWEMKCHSCKNDIKVSIYKSPSLSTVNIKDRYEDDVLVSYNPVNKNECLLSILECSGGEIREIKNVPLNILTDDLRLFNEKVVDEKRSLAEVYGNNKTYSIINYELEIRRVK",
+            "entity_poly_seq_one_letter_code_can": "MKYELIAKADFDNIKGLSCDQTYPAILSCTACSFVHPKVVILTSESTIKEPNVYKCNWEMKCHSCKNDIKVSIYKSPSLSTVNIKDRYEDDVLVSYNPVNKNECLLSILECSGGEIREIKNVPLNILTDDLRLFNEKVVDEKRSLAEVYGNNKTYSIINYELEIRRVK",
+            "entity_poly_seq_length": 168,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL13",
+            "entity_poly_strand_id": "LO0",
+            "entity_poly_seq_one_letter_code": "MHKHIVVDASNHVAGKLASKIAKFLLEGHKVTVLCTERSILTGPLDRSILKFKSFMNKRCRVNPRKGPFHHVLPSMRFKRIIRGMIPYKFHKGKEALKNLECHEGIPSEFINSERVMFPECLLKYCNKPGKKYCLLGELLVKFGWKHSKIVKELTDSILEKEKSRETTSEIEKIVESKEFQDELEKRLLSLK",
+            "entity_poly_seq_one_letter_code_can": "MHKHIVVDASNHVAGKLASKIAKFLLEGHKVTVLCTERSILTGPLDRSILKFKSFMNKRCRVNPRKGPFHHVLPSMRFKRIIRGMIPYKFHKGKEALKNLECHEGIPSEFINSERVMFPECLLKYCNKPGKKYCLLGELLVKFGWKHSKIVKELTDSILEKEKSRETTSEIEKIVESKEFQDELEKRLLSLK",
+            "entity_poly_seq_length": 192,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS11",
+            "entity_poly_strand_id": "SO0",
+            "entity_poly_seq_one_letter_code": "MTEAIETSNEYTAICHIKATKNNTIIHVTDITGSETICRISGGMRVKSKRDEGSPYAAMIAAQDVAAIIAKRGVKTVHFMLRGAGGVKPKALGAGAQVAVRSIIRSGIKMGRIEDVTPEPTDKVRMKGGHRGRRV",
+            "entity_poly_seq_one_letter_code_can": "MTEAIETSNEYTAICHIKATKNNTIIHVTDITGSETICRISGGMRVKSKRDEGSPYAAMIAAQDVAAIIAKRGVKTVHFMLRGAGGVKPKALGAGAQVAVRSIIRSGIKMGRIEDVTPEPTDKVRMKGGHRGRRV",
+            "entity_poly_seq_length": 135,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL42",
+            "entity_poly_strand_id": "LOO",
+            "entity_poly_seq_one_letter_code": "MVNLPKVRRTHCAHCNAHTVHKVSLYKKSKDSEIVSGARRYRLKQKTIGQTKPILKRKAKLTKKIMLKLECPKCKKIQQKVCKRAKHVVMGGEKKRKNEALEY",
+            "entity_poly_seq_one_letter_code_can": "MVNLPKVRRTHCAHCNAHTVHKVSLYKKSKDSEIVSGARRYRLKQKTIGQTKPILKRKAKLTKKIMLKLECPKCKKIQQKVCKRAKHVVMGGEKKRKNEALEY",
+            "entity_poly_seq_length": 103,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS19",
+            "entity_poly_strand_id": "SP0",
+            "entity_poly_seq_one_letter_code": "MAPTEKKSFRKFSYRGVDFDIIKNMKFSEYAELLPSRLRRRVKRGLSGREVELIKSCIASKEAMTNAHEKPEIVKTHARSAIIWPCMVGSIVGVHVGNGYLPIEIRPEMLGCLLSDFAPTRVHPKHGKPGIADHAGSKFVPLK",
+            "entity_poly_seq_one_letter_code_can": "MAPTEKKSFRKFSYRGVDFDIIKNMKFSEYAELLPSRLRRRVKRGLSGREVELIKSCIASKEAMTNAHEKPEIVKTHARSAIIWPCMVGSIVGVHVGNGYLPIEIRPEMLGCLLSDFAPTRVHPKHGKPGIADHAGSKFVPLK",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL43",
+            "entity_poly_strand_id": "LPP",
+            "entity_poly_seq_one_letter_code": "MSNGTKKVGISGRFGARYGSTLRKRMKKVLETQKKTYECRACGKTSVKRDVVGIWTCRSCKIKFAGGAYAYVTPAGTTFNNMLKQSNAN",
+            "entity_poly_seq_one_letter_code_can": "MSNGTKKVGISGRFGARYGSTLRKRMKKVLETQKKTYECRACGKTSVKRDVVGIWTCRSCKIKFAGGAYAYVTPAGTTFNNMLKQSNAN",
+            "entity_poly_seq_length": 89,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL18",
+            "entity_poly_strand_id": "LQ0",
+            "entity_poly_seq_one_letter_code": "MAITFAKKIIPKSTVIKRKTVKSPNPLLQSLADFYIKVAKNCSNDDIKRIAKRLTMSNKDRPVVRVSEIVKSLNEDSDKVAVVVGKVLDDERLVTLPPMRIVALDWSKSVQEKVERSSGKFFTLDQLFKICSDLNNMVLIQGDRMKRKSAKYWGKSPGQKGSTTLPRANKKQRGGEKRIRMKGRKASNKKSEN",
+            "entity_poly_seq_one_letter_code_can": "MAITFAKKIIPKSTVIKRKTVKSPNPLLQSLADFYIKVAKNCSNDDIKRIAKRLTMSNKDRPVVRVSEIVKSLNEDSDKVAVVVGKVLDDERLVTLPPMRIVALDWSKSVQEKVERSSGKFFTLDQLFKICSDLNNMVLIQGDRMKRKSAKYWGKSPGQKGSTTLPRANKKQRGGEKRIRMKGRKASNKKSEN",
+            "entity_poly_seq_length": 193,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS9",
+            "entity_poly_strand_id": "SQ0",
+            "entity_poly_seq_one_letter_code": "MTGTIKSVITQGKRKTALATCKCSESEEMSILVDKVPYKILSNKLMLSKIKEIICVVDDVNLKNLSFQITTKIKEGVVTHKKGNGEVALAYAVRMAFAKAIVAYYGTYCDEWKKQEIKKVLMSFDRYCLVGDIRKKEPKKFGGPGARARYQKSYR",
+            "entity_poly_seq_one_letter_code_can": "MTGTIKSVITQGKRKTALATCKCSESEEMSILVDKVPYKILSNKLMLSKIKEIICVVDDVNLKNLSFQITTKIKEGVVTHKKGNGEVALAYAVRMAFAKAIVAYYGTYCDEWKKQEIKKVLMSFDRYCLVGDIRKKEPKKFGGPGARARYQKSYR",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL19",
+            "entity_poly_strand_id": "LR0",
+            "entity_poly_seq_one_letter_code": "MESEKKINKSEKARSMAAKVLNCGKNKIWLDPSGKEQINQVSTREQIRQLIDDNVIIKKLDKYNSKGRSRIYKEAVAKGRHMGLGKRLGTANARLNKKTLWIKKIRVMRKELKDMKAEGKINAEEYQLFRKRAKGNLFKNRVTMKEHIAKKQAAELRIKELEEQAKALKMKKNSN",
+            "entity_poly_seq_one_letter_code_can": "MESEKKINKSEKARSMAAKVLNCGKNKIWLDPSGKEQINQVSTREQIRQLIDDNVIIKKLDKYNSKGRSRIYKEAVAKGRHMGLGKRLGTANARLNKKTLWIKKIRVMRKELKDMKAEGKINAEEYQLFRKRAKGNLFKNRVTMKEHIAKKQAAELRIKELEEQAKALKMKKNSN",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS17",
+            "entity_poly_strand_id": "SR0",
+            "entity_poly_seq_one_letter_code": "GNIRNRVIKRAARQIVEKHFLSLDKSFDDNLLVVQDVALVQSKRVRNQIAGYVTHLYKCILKGTAKKLYIKSHEDEREKKENIMPKDSIMDTEVVEVDPMTLEMLNKNEYRGNFKLITY",
+            "entity_poly_seq_one_letter_code_can": "GNIRNRVIKRAARQIVEKHFLSLDKSFDDNLLVVQDVALVQSKRVRNQIAGYVTHLYKCILKGTAKKLYIKSHEDEREKKENIMPKDSIMDTEVVEVDPMTLEMLNKNEYRGNFKLITY",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS13",
+            "entity_poly_strand_id": "SS0",
+            "entity_poly_seq_one_letter_code": "MSAENEVRSYTSDPQELQHIIRIFNTNVDGTKRIAHALCAITGVGKRISNAICKRVGVDVLRRAGDLNSDELEKIQKAIADPTSVGIPTSFFNFKRNPVDGNDVHLVSTRMDAEYRMMLEKGKKMRHVRLCRVACGLKVHGQRSKSNGRHIRAGMVFRRK",
+            "entity_poly_seq_one_letter_code_can": "MSAENEVRSYTSDPQELQHIIRIFNTNVDGTKRIAHALCAITGVGKRISNAICKRVGVDVLRRAGDLNSDELEKIQKAIADPTSVGIPTSFFNFKRNPVDGNDVHLVSTRMDAEYRMMLEKGKKMRHVRLCRVACGLKVHGQRSKSNGRHIRAGMVFRRK",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL21",
+            "entity_poly_strand_id": "LT0",
+            "entity_poly_seq_one_letter_code": "MSAGGYRRKTRQLLKQPFRKHGTPGLSVYLATYRIGDYVTISINPSIHKGMPFKYYHGRTGRVFTVNPKSVGVVLHKKVNGRLSVKTIFVRVEHLKKYKGRDAFLERVNKNNEILKEAREKGIKLEYIRQKEEGPREEFILNLDENKPVKVGYEPFIKVY",
+            "entity_poly_seq_one_letter_code_can": "MSAGGYRRKTRQLLKQPFRKHGTPGLSVYLATYRIGDYVTISINPSIHKGMPFKYYHGRTGRVFTVNPKSVGVVLHKKVNGRLSVKTIFVRVEHLKKYKGRDAFLERVNKNNEILKEAREKGIKLEYIRQKEEGPREEFILNLDENKPVKVGYEPFIKVY",
+            "entity_poly_seq_length": 160,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS19",
+            "entity_poly_strand_id": "ST0",
+            "entity_poly_seq_one_letter_code": "MDEIYTVKTTDFVNILKKSLQSNTDITLPKDHDILKTSTGKENCPVSDDWYYARMAAILNLIAKKGNMTVEEACVEFGNYKNRGRRPSMFVKADEMFMKSIFENLEKIGYLKENKLTSNAKEIIMDVIQSLSE",
+            "entity_poly_seq_one_letter_code_can": "MDEIYTVKTTDFVNILKKSLQSNTDITLPKDHDILKTSTGKENCPVSDDWYYARMAAILNLIAKKGNMTVEEACVEFGNYKNRGRRPSMFVKADEMFMKSIFENLEKIGYLKENKLTSNAKEIIMDVIQSLSE",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL22",
+            "entity_poly_strand_id": "LU0",
+            "entity_poly_seq_one_letter_code": "MSKDNSQKKEYSIDCTHPASDNLLSPSDLQSHLEEKIKTYTGKKEKLLEVSVNDTTVVVKVNEDIINKQGLKNVIRRFLHAKRLSAFIKVYGDKKNGFEFRYMNVAE",
+            "entity_poly_seq_one_letter_code_can": "MSKDNSQKKEYSIDCTHPASDNLLSPSDLQSHLEEKIKTYTGKKEKLLEVSVNDTTVVVKVNEDIINKQGLKNVIRRFLHAKRLSAFIKVYGDKKNGFEFRYMNVAE",
+            "entity_poly_seq_length": 107,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS10",
+            "entity_poly_strand_id": "SU0",
+            "entity_poly_seq_one_letter_code": "MKVHIDISTTNKSAITLACEKFEAFAENFIESLEKEVLPKQVGLVPTLKTPCGQGTKTWAKYKIIVHQVRYVITSSHDQLEKVIQFLKNFPEININLGIYN",
+            "entity_poly_seq_one_letter_code_can": "MKVHIDISTTNKSAITLACEKFEAFAENFIESLEKEVLPKQVGLVPTLKTPCGQGTKTWAKYKIIVHQVRYVITSSHDQLEKVIQFLKNFPEININLGIYN",
+            "entity_poly_seq_length": 101,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL14",
+            "entity_poly_strand_id": "LV0",
+            "entity_poly_seq_one_letter_code": "MAAEKKVDSGEKKVARKPHRRMTKGCQMETLLKCADNSGAKLLKVIGVRGYKGRLNRYPAAAPGDIVVVSCKKGKPDLRKKVHYAILVRQKKVWRREDGTHIGFEDNAAVLITAKGDMRGGQISGSLPKEVAECWPKISNSGNSIN",
+            "entity_poly_seq_one_letter_code_can": "MAAEKKVDSGEKKVARKPHRRMTKGCQMETLLKCADNSGAKLLKVIGVRGYKGRLNRYPAAAPGDIVVVSCKKGKPDLRKKVHYAILVRQKKVWRREDGTHIGFEDNAAVLITAKGDMRGGQISGSLPKEVAECWPKISNSGNSIN",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS21",
+            "entity_poly_strand_id": "SV0",
+            "entity_poly_seq_one_letter_code": "MFERRICSFTKRPIASSDKSSVQITLADIDENGRLLNTISTYDVCGVVRRNGLSDGYLTDKIFGEEY",
+            "entity_poly_seq_one_letter_code_can": "MFERRICSFTKRPIASSDKSSVQITLADIDENGRLLNTISTYDVCGVVRRNGLSDGYLTDKIFGEEY",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL24",
+            "entity_poly_strand_id": "LW0",
+            "entity_poly_seq_one_letter_code": "MIDGISIYSGRAIPKGSSTVRITNDGKQQLTANKKERSLISRKINPKLVKWTIPSRVVRKKHELFTSSQKNIPRPARIERGFRNISADLLK",
+            "entity_poly_seq_one_letter_code_can": "MIDGISIYSGRAIPKGSSTVRITNDGKQQLTANKKERSLISRKINPKLVKWTIPSRVVRKKHELFTSSQKNIPRPARIERGFRNISADLLK",
+            "entity_poly_seq_length": 91,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS8",
+            "entity_poly_strand_id": "SW0",
+            "entity_poly_seq_one_letter_code": "MKQLSNLCKAINNASRAGKRQLLLHESNSVTRDFLKQMLKHGYITKYSYVDDKRKGKTIVWLNGRLNKCGAICPNYKVSLDHIENYRSRLLPARQFGHLLFSTEKGIIDHNECIGSNLGGSILGFFY",
+            "entity_poly_seq_one_letter_code_can": "MKQLSNLCKAINNASRAGKRQLLLHESNSVTRDFLKQMLKHGYITKYSYVDDKRKGKTIVWLNGRLNKCGAICPNYKVSLDHIENYRSRLLPARQFGHLLFSTEKGIIDHNECIGSNLGGSILGFFY",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS12",
+            "entity_poly_strand_id": "SX0",
+            "entity_poly_seq_one_letter_code": "MNGLFAANDLIKSRKVKRRSDPYYRKKILGTKYKHSKIGNGPQAKGIVLEKTGVEAKQPNSAVRKIVKIQLIKTGKKISAFVPHDGSLNYIELNDEVVVEGFGKKGHSCGDIPGISYKVVKVQNVSLLALFKGKKEKPSR",
+            "entity_poly_seq_one_letter_code_can": "MNGLFAANDLIKSRKVKRRSDPYYRKKILGTKYKHSKIGNGPQAKGIVLEKTGVEAKQPNSAVRKIVKIQLIKTGKKISAFVPHDGSLNYIELNDEVVVEGFGKKGHSCGDIPGISYKVVKVQNVSLLALFKGKKEKPSR",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "msL1",
+            "entity_poly_strand_id": "LXX",
+            "entity_poly_seq_one_letter_code": "MASKLKKSWKDEKKKSKTAIFSLEKQKVMKQERLQKAKILREKIKGLKEKKKQYYLDLARQKADKLEADKLLN",
+            "entity_poly_seq_one_letter_code_can": "MASKLKKSWKDEKKKSKTAIFSLEKQKVMKQERLQKAKILREKIKGLKEKKKQYYLDLARQKADKLEADKLLN",
+            "entity_poly_seq_length": 73,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL24",
+            "entity_poly_strand_id": "LY0",
+            "entity_poly_seq_one_letter_code": "MLAGRKTKSSLRKKQRKALFTAVGKDRLKRMSSHLSEELRSQYGFRSFPVAVGDIVKVHSGPYKGKEGQILEVFLKDYRITVEGCLEENEEKENVPAKLHPCNVTFVKFNMDNGREKQLEEKKIARVQHIEREQKKIVQ",
+            "entity_poly_seq_one_letter_code_can": "MLAGRKTKSSLRKKQRKALFTAVGKDRLKRMSSHLSEELRSQYGFRSFPVAVGDIVKVHSGPYKGKEGQILEVFLKDYRITVEGCLEENEEKENVPAKLHPCNVTFVKFNMDNGREKQLEEKKIARVQHIEREQKKIVQ",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL27",
+            "entity_poly_strand_id": "LZ0",
+            "entity_poly_seq_one_letter_code": "MLFIPNMIVIPTAGKFAGKKAVVVKNLDNRNVLIAGVQRLPKESEDYMSKVEKRKNDRFLSFVKKVNVRHLMATRYKADIGLGEADYSKIDDLNIKKEVRNKVVEIMKKAQESGKAKFLFTELKFQ",
+            "entity_poly_seq_one_letter_code_can": "MLFIPNMIVIPTAGKFAGKKAVVVKNLDNRNVLIAGVQRLPKESEDYMSKVEKRKNDRFLSFVKKVNVRHLMATRYKADIGLGEADYSKIDDLNIKKEVRNKVVEIMKKAQESGKAKFLFTELKFQ",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS25",
+            "entity_poly_strand_id": "SZ0",
+            "entity_poly_seq_one_letter_code": "MAKKVQETKEKKALKAASTSKKEKKKWTEIKKKDEARKVFTVSDELLQKVEKEVKKMKIVTIFSLGSKMNLTLSVSKNLLRHCVNKGIISLIHKSQQTSIYGQPIEVQAPVESVVPVEEVVTE",
+            "entity_poly_seq_one_letter_code_can": "MAKKVQETKEKKALKAASTSKKEKKKWTEIKKKDEARKVFTVSDELLQKVEKEVKKMKIVTIFSLGSKMNLTLSVSKNLLRHCVNKGIISLIHKSQQTSIYGQPIEVQAPVESVVPVEEVVTE",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uS7",
+            "entity_poly_strand_id": "SF0",
+            "entity_poly_seq_one_letter_code": "MADIKLFEKYSYDDVNCSDESISSYINLSRRFIIPHEGSRAIIKSKTKANLSIINRFVNSLMRNGRNSGKKRLANVCVEDAFVIINCLTKKNPLQVLVDAIINAGPREDTARVGRGGSMKRTAVDVSPSKRVSLAIQLLSNGIRSSAFKSRKSLAECIADELNNAAANSQNSYAVKKREEIERIAKSNR",
+            "entity_poly_seq_one_letter_code_can": "MADIKLFEKYSYDDVNCSDESISSYINLSRRFIIPHEGSRAIIKSKTKANLSIINRFVNSLMRNGRNSGKKRLANVCVEDAFVIINCLTKKNPLQVLVDAIINAGPREDTARVGRGGSMKRTAVDVSPSKRVSLAIQLLSNGIRSSAFKSRKSLAECIADELNNAAANSQNSYAVKKREEIERIAKSNR",
+            "entity_poly_seq_length": 189,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS31",
+            "entity_poly_strand_id": "SFF",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLEVEPSDSIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGNKKKKAFKTPKIVKPAVVKEKMGWLKNFRIGTDGSVQVIGKMCEKCDDCSFMRNMKFNYKCGKCGLSENKQEISA",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLEVEPSDSIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGNKKKKAFKTPKIVKPAVVKEKMGWLKNFRIGTDGSVQVIGKMCEKCDDCSFMRNMKFNYKCGKCGLSENKQEISA",
+            "entity_poly_seq_length": 151,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL2",
+            "entity_poly_strand_id": "LA0",
+            "entity_poly_seq_one_letter_code": "MGKVTRKIREETKKLRNPRKLSSPKYPNFPETTQGTVVDLVHERGRGVPLAHVKFNDEIYSLIATEGLYTGQTIFIGDNAPISIGNITKLKNVPGGMAVHSIEYDYEDGGCVGMTGGAYSTVVTHREETNETVLGLPSGQKKIFSSEVRCIVGVPSAGGIKEKPFLKASVAHYFNKAHCKKWPRVRCVAMNPVDHKFGGGNHQHVGRPTTISKRRPHAQLMGLIGARRTGRVKGSKK",
+            "entity_poly_seq_one_letter_code_can": "MGKVTRKIREETKKLRNPRKLSSPKYPNFPETTQGTVVDLVHERGRGVPLAHVKFNDEIYSLIATEGLYTGQTIFIGDNAPISIGNITKLKNVPGGMAVHSIEYDYEDGGCVGMTGGAYSTVVTHREETNETVLGLPSGQKKIFSSEVRCIVGVPSAGGIKEKPFLKASVAHYFNKAHCKKWPRVRCVAMNPVDHKFGGGNHQHVGRPTTISKRRPHAQLMGLIGARRTGRVKGSKK",
+            "entity_poly_seq_length": 237,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL36",
+            "entity_poly_strand_id": "LII",
+            "entity_poly_seq_one_letter_code": "MRRGLKKTQVHHQVTKIDIPKIMPKYKKNSKRIEEKKFARSLVREISGYAPYESKAISILKLKDIARATIFLKRRLGSNKRTQKKIKELQIAASE",
+            "entity_poly_seq_one_letter_code_can": "MRRGLKKTQVHHQVTKIDIPKIMPKYKKNSKRIEEKKFARSLVREISGYAPYESKAISILKLKDIARATIFLKRRLGSNKRTQKKIKELQIAASE",
+            "entity_poly_seq_length": 95,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL13",
+            "entity_poly_strand_id": "LL0",
+            "entity_poly_seq_one_letter_code": "MKNNHILPNNHRNAMKRVKEWHNQPSRAQRRAKTRSSKAKVLYPAPLKKLCPIVRCPTIRYNKKQRLGKGFTPEELKEAGLEVNYARRIGIRVDNRRRNMNKETLDLNAQRLKEYLSKITIFKNGKEAKESGVKQHLGRIMPVHKMTPKVEIIKKAEVASYE",
+            "entity_poly_seq_one_letter_code_can": "MKNNHILPNNHRNAMKRVKEWHNQPSRAQRRAKTRSSKAKVLYPAPLKKLCPIVRCPTIRYNKKQRLGKGFTPEELKEAGLEVNYARRIGIRVDNRRRNMNKETLDLNAQRLKEYLSKITIFKNGKEAKESGVKQHLGRIMPVHKMTPKVEIIKKAEVASYE",
+            "entity_poly_seq_length": 162,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL15",
+            "entity_poly_strand_id": "LAA",
+            "entity_poly_seq_one_letter_code": "MLKHVKKTRKLRGHVSHGHGRVGKHRKHSGGRGICGGLKHMKTWFQKYHPDYFGKRGHRIYHRKKNDEWARWISAAKLWSLIPKETRYELIDKQQEGVPVINCRDFGYHVVVGGELSLDRPVVVKARKFTEDAKEQIEKVGGKWIICP",
+            "entity_poly_seq_one_letter_code_can": "MLKHVKKTRKLRGHVSHGHGRVGKHRKHSGGRGICGGLKHMKTWFQKYHPDYFGKRGHRIYHRKKNDEWARWISAAKLWSLIPKETRYELIDKQQEGVPVINCRDFGYHVVVGGELSLDRPVVVKARKFTEDAKEQIEKVGGKWIICP",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL22",
+            "entity_poly_strand_id": "LP0",
+            "entity_poly_seq_one_letter_code": "MAINFAYDVVDPTKVIKSQIDSARVSFKKTRETANTLRKRSLLNAISYLNNVVVKKECVPMRRYARGCGHTRQARAFNQRKGRWPKKSALALLQVLENIKEQAVEKGLEVEKLDLDHVQICRAPKVFGRIFRAHGRVNPFNKSPCHILVAAKVRDLEVNEENDIMKQEE",
+            "entity_poly_seq_one_letter_code_can": "MAINFAYDVVDPTKVIKSQIDSARVSFKKTRETANTLRKRSLLNAISYLNNVVVKKECVPMRRYARGCGHTRQARAFNQRKGRWPKKSALALLQVLENIKEQAVEKGLEVEKLDLDHVQICRAPKVFGRIFRAHGRVNPFNKSPCHILVAAKVRDLEVNEENDIMKQEE",
+            "entity_poly_seq_length": 169,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eL20",
+            "entity_poly_strand_id": "LS0",
+            "entity_poly_seq_one_letter_code": "MDFAKRNYTVPPFKEYKLSACLTPTSKNPQPQIYESTIYAQNHVFARSKFFKLLNDKYKLKPSKLVLLGAEEIKEQVTGEVKNYGISFVFRCKKGLQNSYREFRAISRVSALDFLFREAAIRIRCKRNDIFVIDIKELEDEEIKTGKVAEFNQPDLKFPVFGKYANTRDLYVPVNTNLSD",
+            "entity_poly_seq_one_letter_code_can": "MDFAKRNYTVPPFKEYKLSACLTPTSKNPQPQIYESTIYAQNHVFARSKFFKLLNDKYKLKPSKLVLLGAEEIKEQVTGEVKNYGISFVFRCKKGLQNSYREFRAISRVSALDFLFREAAIRIRCKRNDIFVIDIKELEDEEIKTGKVAEFNQPDLKFPVFGKYANTRDLYVPVNTNLSD",
+            "entity_poly_seq_length": 180,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL3",
+            "entity_poly_strand_id": "LB0",
+            "entity_poly_seq_one_letter_code": "MSCRKFNAPRHGSLAFCPRKRSKTIRPPIRAFPKDDPSSKIHLTGFIGYKAGMTHVVRTKTVQTKNKQSLKEILDAVTIVETPANVIYGVTGYEQTGRGLKRVATVFSNHIDQGVLRRRYGLKWEEISGKLSGLSIEDTETKISEIKKRSCVIRVLVHSQPSKIPVLNLKKSHTAEIQVNGGSIEEKVDWALEHFEKEFNVQDIFGVDENLDVIGVTKGKGFTGVIKRFGVTKQPRKSRKGIRKVACIGAWHPSRVMTTVARAGGKGFHRRTEINKKVYMIGHGNEKIKTEYDLTKKFITPMGGFPHYGQIKNEFIMLKGAIVGPSKRVVTLRKSLLKNQKKNEDLVIKFVDTSSKIGNGRFQTTEEKRAFYGIKKSEVVNSTD",
+            "entity_poly_seq_one_letter_code_can": "MSCRKFNAPRHGSLAFCPRKRSKTIRPPIRAFPKDDPSSKIHLTGFIGYKAGMTHVVRTKTVQTKNKQSLKEILDAVTIVETPANVIYGVTGYEQTGRGLKRVATVFSNHIDQGVLRRRYGLKWEEISGKLSGLSIEDTETKISEIKKRSCVIRVLVHSQPSKIPVLNLKKSHTAEIQVNGGSIEEKVDWALEHFEKEFNVQDIFGVDENLDVIGVTKGKGFTGVIKRFGVTKQPRKSRKGIRKVACIGAWHPSRVMTTVARAGGKGFHRRTEINKKVYMIGHGNEKIKTEYDLTKKFITPMGGFPHYGQIKNEFIMLKGAIVGPSKRVVTLRKSLLKNQKKNEDLVIKFVDTSSKIGNGRFQTTEEKRAFYGIKKSEVVNSTD",
+            "entity_poly_seq_length": 384,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "uL23",
+            "entity_poly_strand_id": "LX0",
+            "entity_poly_seq_one_letter_code": "METVKKETKRIIPKPDIVPQDIIKNIHTSEKAMRNVEMHNTLVLIVDKKFNKRQIRNAVTKLYGCPCIKVNTLIDFKGRKKAYAKLKNDGDAIKIAGQSGAI",
+            "entity_poly_seq_one_letter_code_can": "METVKKETKRIIPKPDIVPQDIIKNIHTSEKAMRNVEMHNTLVLIVDKKFNKRQIRNAVTKLYGCPCIKVNTLIDFKGRKKAYAKLKNDGDAIKIAGQSGAI",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS24",
+            "entity_poly_strand_id": "SY0",
+            "entity_poly_seq_one_letter_code": "MAANCELEILLQKSNSLLSRKELSLKIHHEESPVPQKKVITDKLSKLFQTKNDNIVVYDITNTPGTHTSIGRVNIYSNQDDMKRVEKSYMVARKTGETSIRKPRRTRKDERKKAYKRFGTVKRAMKKAERKNK",
+            "entity_poly_seq_one_letter_code_can": "MAANCELEILLQKSNSLLSRKELSLKIHHEESPVPQKKVITDKLSKLFQTKNDNIVVYDITNTPGTHTSIGRVNIYSNQDDMKRVEKSYMVARKTGETSIRKPRRTRKDERKKAYKRFGTVKRAMKKAERKNK",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "eS10",
+            "entity_poly_strand_id": "SK0",
+            "entity_poly_seq_one_letter_code": "MSLTNSQKVAVMKHFKNKGSLLVYDRKLEKNEILDINNKKLRSYIQSLKDQGYIEEHYVWQQLYCFATESGMKYFNDQLEIPDVIEEGIRMEAVQQKEE",
+            "entity_poly_seq_one_letter_code_can": "MSLTNSQKVAVMKHFKNKGSLLVYDRKLEKNEILDINNKKLRSYIQSLKDQGYIEEHYVWQQLYCFATESGMKYFNDQLEIPDVIEEGIRMEAVQQKEE",
+            "entity_poly_seq_length": 99,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6RM3",
+            "rcsb_pdbx_description": "16S rRNA",
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "entity_poly_strand_id": "S60",
+            "entity_poly_seq_one_letter_code": "ACCAGGUUGAUUCUGCCUGACGUAGACGCUAUUCCCUAAGAUUAACCCAUGCAUGUUUUUGAUAUGGAAAAAUGGACUGCUCAGUAAUACUCACUUUAUUUAAUGUAUUAAAUUAGUAUAACUGCGUUAAAGUGUAGCAUAAGACAUAUACAGUAAGAGUGAGACCUAUCAGCUAGUUGUUAAGGUAAUGGCUUAACAAGGCAAUGACGGGUAACGGUAUUACUUUGUAAUAUUCCGGAGAAGGAGCCUGAGAGACGGCUACUAAGUCUAAGGAUUGCAGCAGGGGCGAAACUUGACCUAUGGAUUUUAUCUGAGGCAGUUAUGGGAAGUAAUAUUCUAUUGUUUCAUAUUGUAAAAGUAUAUGAGGUGAUUAAUUGGAGGGCAAAUCAAGUGCCAGCAGCCGCGGUAAUACUUGUUCCAAGAGUGUGUAUGAUGAUUGAUGCAGUUAAAAAGUCCGUAGUUUAUAUUUAAGAAGCAAUAUGAGGUGUACUGUAUAGUUGGGAGAGAGAUGAAAUGUGACGACCCUGACUGGACGAACAGAAGCGAAAGCUGUACACUUGUAUGUAUUUUUUGAACAAGGACGUAAGCUGGAGGAGCGAAGAUGAUUAGAUACCAUUGUAGUUCCAGCAGUAAACUAUGCCGACGAUGUGAUAUGAUAUUAAUUGUAUUAGAUGAUAGAAAUUUGAGUUUUUUGGCUCUGGGGAUAGUAUGAUCGCAAGAUUGAAAAUUAAAGAAAUUGACGGAAGAAUACCACAAGGAGUGGAUUGUGCGGCUUAAUUUGACUCAACGCGAGGUAACUUACCAAUAUUUUAUUAUUCAGAGAAGAUUUUAAUCUGAGAAUGAUAAUAGUGGUGCAUGGCCGUUUUCAAUGGAUGCUGUGAAGUUUUGAUUAAUUUCAACAAGACGUGAGACCCUUUUAUUAAUAGACAGACACAAUCAGUGUAGGAAGGAAAGGAUUAAAACAGGUCCGUUAUGCCCUCAGACAUUUUGGGCUGCACGCGCAAUACAAUAGAUAUAUAAUCUUUAUGGGAUAAUAUUUUGUAAGAGAUAUUUGAACUUGGAAUUGCUAGUAAAUUUUAUUAAAUAAGUAGAAUUGAAUGUGUCCCUGUUCUUUGUACACACCGCCCGUCGCUAUCUAAGAUGAUAUGUGUUGUGAAAUUAGUGAAAACUACUUGAACAAUAUGUAUUAGAUCUGAUAUAAGUCGUAACAUGGUUGCUGUUGGAGAACCAUUAGCAGGAUCAUA",
+            "entity_poly_seq_one_letter_code_can": "ACCAGGUUGAUUCUGCCUGACGUAGACGCUAUUCCCUAAGAUUAACCCAUGCAUGUUUUUGAUAUGGAAAAAUGGACUGCUCAGUAAUACUCACUUUAUUUAAUGUAUUAAAUUAGUAUAACUGCGUUAAAGUGUAGCAUAAGACAUAUACAGUAAGAGUGAGACCUAUCAGCUAGUUGUUAAGGUAAUGGCUUAACAAGGCAAUGACGGGUAACGGUAUUACUUUGUAAUAUUCCGGAGAAGGAGCCUGAGAGACGGCUACUAAGUCUAAGGAUUGCAGCAGGGGCGAAACUUGACCUAUGGAUUUUAUCUGAGGCAGUUAUGGGAAGUAAUAUUCUAUUGUUUCAUAUUGUAAAAGUAUAUGAGGUGAUUAAUUGGAGGGCAAAUCAAGUGCCAGCAGCCGCGGUAAUACUUGUUCCAAGAGUGUGUAUGAUGAUUGAUGCAGUUAAAAAGUCCGUAGUUUAUAUUUAAGAAGCAAUAUGAGGUGUACUGUAUAGUUGGGAGAGAGAUGAAAUGUGACGACCCUGACUGGACGAACAGAAGCGAAAGCUGUACACUUGUAUGUAUUUUUUGAACAAGGACGUAAGCUGGAGGAGCGAAGAUGAUUAGAUACCAUUGUAGUUCCAGCAGUAAACUAUGCCGACGAUGUGAUAUGAUAUUAAUUGUAUUAGAUGAUAGAAAUUUGAGUUUUUUGGCUCUGGGGAUAGUAUGAUCGCAAGAUUGAAAAUUAAAGAAAUUGACGGAAGAAUACCACAAGGAGUGGAUUGUGCGGCUUAAUUUGACUCAACGCGAGGUAACUUACCAAUAUUUUAUUAUUCAGAGAAGAUUUUAAUCUGAGAAUGAUAAUAGUGGUGCAUGGCCGUUUUCAAUGGAUGCUGUGAAGUUUUGAUUAAUUUCAACAAGACGUGAGACCCUUUUAUUAAUAGACAGACACAAUCAGUGUAGGAAGGAAAGGAUUAAAACAGGUCCGUUAUGCCCUCAGACAUUUUGGGCUGCACGCGCAAUACAAUAGAUAUAUAAUCUUUAUGGGAUAAUAUUUUGUAAGAGAUAUUUGAACUUGGAAUUGCUAGUAAAUUUUAUUAAAUAAGUAGAAUUGAAUGUGUCCCUGUUCUUUGUACACACCGCCCGUCGCUAUCUAAGAUGAUAUGUGUUGUGAAAUUAGUGAAAACUACUUGAACAAUAUGUAUUAGAUCUGAUAUAAGUCGUAACAUGGUUGCUGUUGGAGAACCAUUAGCAGGAUCAUA",
+            "entity_poly_seq_length": 1244,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "rcsb_pdbx_description": "5S rRNA",
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "entity_poly_strand_id": "L70",
+            "entity_poly_seq_one_letter_code": "AGUUACGGCCAUAUCUACUGUAAAACACCGGAACUCGUCAGCUCUCCGAAGUUAAGCCAGUAAGAGCCUUGUGAGUACUGAGAUGGGAGACCGCUCGGAAAAGCAAGGUGCUGUAAUUU",
+            "entity_poly_seq_one_letter_code_can": "AGUUACGGCCAUAUCUACUGUAAAACACCGGAACUCGUCAGCUCUCCGAAGUUAAGCCAGUAAGAGCCUUGUGAGUACUGAGAUGGGAGACCGCUCGGAAAAGCAAGGUGCUGUAAUUU",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6RM3",
+            "rcsb_pdbx_description": "23S rRNA",
+            "rcsb_source_organism_description": [
+                "Vairimorpha necatrix"
+            ],
+            "rcsb_source_organism_id": [
+                6039
+            ],
+            "entity_poly_strand_id": "L50",
+            "entity_poly_seq_one_letter_code": "AUUUACCCACACAUGGGAUCAAUAGGAUACCAUAACGAUGAAGGUCGUAAUAGAAUACGAAAGUAUAUUAUUUACCUAAUUAAUAUAUUUAUAAUGUAUUGAUAACCCUUUGAACUUAAGCAUAUCAUUAAAAGGAGGAAAAGAAACUAACUAGGAUUUCUUUAGUAGCAGCGAGUGAACAAGAAAUAACCCUCCAUUGUAAUCCUUAAUUGGAGUUGUAAAUGGUUUAUUCUAUUAAUUAUAUUUAUAGAGAAUAUUAUAUUCGUUAUUAAUAGAAUAGAAUAAUGUACUUGAGUAGAGCUGCUUGGUAGUGCAGUUUGAAUAAAGGUAGAAUGAAAUAUCUAAGGUUAAAUAUAAUGGUAUACCGAUAGAAAAUAAGUACUGCGAAGGAACUUGUGAAAAUGUGUGGAGUUUAGCCUUAUUUUUAAGGACCCGUCUUGAAACACGGACCAAGGAGAUUAUAAUUAUAGCAAGAUAAAAAUUAAAUUUUUUAAUCUUUAUUAACUUGAUUAGUUAUAAUUAUAAGACCCGAAACACAGUGAACUAUACAUGUUCUGGUUGAAGAUAAGCAACAGUUUAUUGGAAGACCAUAAUCAUUCUGACGUGCAAAUCGAUGAUUUAAGAUGUGUAUAGUGGCGAAAGACCAAUCGAACUGUGUGGUAGCUGGUUCACAGCGAAAUGUCUCUCAGGACAGCAGUUAUUAUUAUAUAGGACAUAGAUGUAGGACACUGUUAUAGUUUUUUAACUAUGAGAAAUCUUUAAUUCUAUGGAAUUAUAUAAAUUAAAUUUAUAUAAUGAAUCUAUUGUAUAACUAGUGGGCACAUGAUUGUAAGAAUGAUGUGCAAAAAGGGAUGAACCUUAUGAAACAUUAAAUAUUCUAAAUAGUAGAUAUUAUACCAUAAAUAUGAUGAAUACAUUGAGACAGUAGGGCGGUUGUUAUGGAAGUAGAAAUCCGCUAAGAAACGUGUUACAACGUACCUACCGAAUGUAUUAUUGUAUAAAAUGGAAGAAGAUUACUACUUUUAUGAGAUGUUUCUAAUAAAUAUUUAGGUAGCUGUGCAAUUUGUUUGUAUUGAAGUAUAUAUGUGAGUAUAUAUAGAAGAAACAAAUGAGCCGAUCUUGGAGGCAGUAACAAUAUAUUUGUAUAGAUAUAGACUAGGGUUUUCAAUUAUUAUUGAAGUGAAUCGGUGUUAUUUAUAAAAACAAAAAAGAUUAAUAAUUCUUUAUUAAAUUAUUAUAAGGUAACUUGAUAAUGACAGUAUAUUUCAAUAAAUUUAAGAUAAAUGAAUUAAAUUUAAUUUUAACUAUGGAUUGUCAUGAUAAGAAAUAGUUAAUUAUAUAUACUUGAUAAAAAUAAAAUAAUUUUAACCGUACCUAUACCGCAUCAGGUGUCUUUGUAUCAUAACAAAUAUUUUAAAUUAAAGUAAGUAAGGGAAUUCGGCAAAUUAGAUCUGUAACUUUGGGAUAAAGAUUGGCUCUAGCAUGCUAGAACUUUUACUAUGUAAGGAAUCUGACUGUUUAUUAAAAACAUAGCUUUUUGUAUUUACAAGAAGUGAAUUCUGCCCAGUGCAUUUAUUGUUAAAGUUGUGUAAGCGAAUGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUUUAAUUGGUGACGCGCAUGAAUGGAGCAACGAGAUUCCUACUGUCCCUACUUACAAUUUUGUGAAACCACGAGACAAGGGAACGGGCUUGUUAUUUAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUUUAGUAUGUUUUAAUAAAUAUUCGGUAUAUUGUAGAGAGGUGGGAGAAGUAUUGUGAAACCACUAGUAUGUUUGAAUAUUUAUUUAUUAGAAUAUAUGGGGAGUUUGGCUGGGGCGGUACAGCUGUUAAAAAGUAACACAGCUGUCCUAAGGUAGAUGAAUGAUGGAUGGUAACCAUCAGUUUAUUAUAAGGGAAUAAAUCUGCUUUACUUUAUGCAUAUGACUGUAUUUAGUAGGGAAACCUUGGCCUAGCGAUCCCAAUUACAUUCAUUAUGUAUUGGGUGAUUGAAAAGUUACCACAGGGAUAACUGGCUUGUAGCAGGCAAGCGAUCAUAGCGACUCUGCUUUUUGAUUCUUCGAUGUCGUCUCUUCUGAUCAUCGUAGUGUAUAUGUUACGAAGUGUUGGAUUGUUCACCCGGUAAUGAGGAACGUGAGAUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGUAAGUAUUUUUGAGUGAACUUUGAUAGUACGAGAGGAACUCUAAGUGAUGACCACUGGUAGUGCGAUUAACUAUUAAGUUAUGUUGCUUAGCUACGUCGUUUCGAUUAAGGCUGAAAGCCUCUUAAGCCUGAAGCGUAGCUCAAAGAUACAUUUAGGAGAAUACUACUCUUUUAAGCAGAACUGUAAGAAUGAAGGUGUAUGCCGACAUUUUGAGGUUACUGCUU",
+            "entity_poly_seq_one_letter_code_can": "AUUUACCCACACAUGGGAUCAAUAGGAUACCAUAACGAUGAAGGUCGUAAUAGAAUACGAAAGUAUAUUAUUUACCUAAUUAAUAUAUUUAUAAUGUAUUGAUAACCCUUUGAACUUAAGCAUAUCAUUAAAAGGAGGAAAAGAAACUAACUAGGAUUUCUUUAGUAGCAGCGAGUGAACAAGAAAUAACCCUCCAUUGUAAUCCUUAAUUGGAGUUGUAAAUGGUUUAUUCUAUUAAUUAUAUUUAUAGAGAAUAUUAUAUUCGUUAUUAAUAGAAUAGAAUAAUGUACUUGAGUAGAGCUGCUUGGUAGUGCAGUUUGAAUAAAGGUAGAAUGAAAUAUCUAAGGUUAAAUAUAAUGGUAUACCGAUAGAAAAUAAGUACUGCGAAGGAACUUGUGAAAAUGUGUGGAGUUUAGCCUUAUUUUUAAGGACCCGUCUUGAAACACGGACCAAGGAGAUUAUAAUUAUAGCAAGAUAAAAAUUAAAUUUUUUAAUCUUUAUUAACUUGAUUAGUUAUAAUUAUAAGACCCGAAACACAGUGAACUAUACAUGUUCUGGUUGAAGAUAAGCAACAGUUUAUUGGAAGACCAUAAUCAUUCUGACGUGCAAAUCGAUGAUUUAAGAUGUGUAUAGUGGCGAAAGACCAAUCGAACUGUGUGGUAGCUGGUUCACAGCGAAAUGUCUCUCAGGACAGCAGUUAUUAUUAUAUAGGACAUAGAUGUAGGACACUGUUAUAGUUUUUUAACUAUGAGAAAUCUUUAAUUCUAUGGAAUUAUAUAAAUUAAAUUUAUAUAAUGAAUCUAUUGUAUAACUAGUGGGCACAUGAUUGUAAGAAUGAUGUGCAAAAAGGGAUGAACCUUAUGAAACAUUAAAUAUUCUAAAUAGUAGAUAUUAUACCAUAAAUAUGAUGAAUACAUUGAGACAGUAGGGCGGUUGUUAUGGAAGUAGAAAUCCGCUAAGAAACGUGUUACAACGUACCUACCGAAUGUAUUAUUGUAUAAAAUGGAAGAAGAUUACUACUUUUAUGAGAUGUUUCUAAUAAAUAUUUAGGUAGCUGUGCAAUUUGUUUGUAUUGAAGUAUAUAUGUGAGUAUAUAUAGAAGAAACAAAUGAGCCGAUCUUGGAGGCAGUAACAAUAUAUUUGUAUAGAUAUAGACUAGGGUUUUCAAUUAUUAUUGAAGUGAAUCGGUGUUAUUUAUAAAAACAAAAAAGAUUAAUAAUUCUUUAUUAAAUUAUUAUAAGGUAACUUGAUAAUGACAGUAUAUUUCAAUAAAUUUAAGAUAAAUGAAUUAAAUUUAAUUUUAACUAUGGAUUGUCAUGAUAAGAAAUAGUUAAUUAUAUAUACUUGAUAAAAAUAAAAUAAUUUUAACCGUACCUAUACCGCAUCAGGUGUCUUUGUAUCAUAACAAAUAUUUUAAAUUAAAGUAAGUAAGGGAAUUCGGCAAAUUAGAUCUGUAACUUUGGGAUAAAGAUUGGCUCUAGCAUGCUAGAACUUUUACUAUGUAAGGAAUCUGACUGUUUAUUAAAAACAUAGCUUUUUGUAUUUACAAGAAGUGAAUUCUGCCCAGUGCAUUUAUUGUUAAAGUUGUGUAAGCGAAUGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUUUAAUUGGUGACGCGCAUGAAUGGAGCAACGAGAUUCCUACUGUCCCUACUUACAAUUUUGUGAAACCACGAGACAAGGGAACGGGCUUGUUAUUUAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUUUAGUAUGUUUUAAUAAAUAUUCGGUAUAUUGUAGAGAGGUGGGAGAAGUAUUGUGAAACCACUAGUAUGUUUGAAUAUUUAUUUAUUAGAAUAUAUGGGGAGUUUGGCUGGGGCGGUACAGCUGUUAAAAAGUAACACAGCUGUCCUAAGGUAGAUGAAUGAUGGAUGGUAACCAUCAGUUUAUUAUAAGGGAAUAAAUCUGCUUUACUUUAUGCAUAUGACUGUAUUUAGUAGGGAAACCUUGGCCUAGCGAUCCCAAUUACAUUCAUUAUGUAUUGGGUGAUUGAAAAGUUACCACAGGGAUAACUGGCUUGUAGCAGGCAAGCGAUCAUAGCGACUCUGCUUUUUGAUUCUUCGAUGUCGUCUCUUCUGAUCAUCGUAGUGUAUAUGUUACGAAGUGUUGGAUUGUUCACCCGGUAAUGAGGAACGUGAGAUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGUAAGUAUUUUUGAGUGAACUUUGAUAGUACGAGAGGAACUCUAAGUGAUGACCACUGGUAGUGCGAUUAACUAUUAAGUUAUGUUGCUUAGCUACGUCGUUUCGAUUAAGGCUGAAAGCCUCUUAAGCCUGAAGCGUAGCUCAAAGAUACAUUUAGGAGAAUACUACUCUUUUAAGCAGAACUGUAAGAAUGAAGGUGUAUGCCGACAUUUUGAGGUUACUGCUU",
+            "entity_poly_seq_length": 2484,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

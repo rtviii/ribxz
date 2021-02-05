@@ -1,0 +1,982 @@
+{
+    "rcsb_id": "6YHS",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.7,
+    "rcsb_external_ref_id": [
+        "EMD-10809"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-10809"
+    ],
+    "cryoem_exp_detail": "Multi-body refinement was carried out in RELION 3.0 to obtain the final '50S subunit' reconstruction. The mask used for this procedure is deposited with this entry.",
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.7,
+    "cryoem_exp_num_particles": 51958,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2020,
+    "citation_rcsb_authors": [
+        "Nicholson, D.",
+        "Edwards, T.A.",
+        "O'Neill, A.J.",
+        "Ranson, N.A."
+    ],
+    "citation_title": "Structure of the 70S Ribosome from the Human Pathogen Acinetobacter baumannii in Complex with Clinically Relevant Antibiotics.",
+    "citation_pdbx_doi": "10.1016/j.str.2020.08.004",
+    "pdbx_keywords_text": "antibiotic, amikacin, translation, ribosome",
+    "_organismId": [
+        575584
+    ],
+    "_organismName": [
+        "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD00"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L2",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "MPIQKCKPTSPGRRFVEKVVHDHLHKGAPYAPLVEAKKRTGGRNNNGHITTRHVGGGHKQHYRIVDFKRNKDGVPAVVERIEYDPSRTAHIALLKYADGERRYIIAPKGLRAGDKVQSGNDAPIRPGNCLPLRNMPIGSTLHNVELKIGKGAQLARSAGASVQLLGRDGSYAIIRLRSGEMRKVHVECRAVIGEVSNQENNLRSLGKAGAARWRGVRPTVRGMAMNPIDHPHGGGEGRNKGIQPVSPWGQKAKGYKTRTNKRTTKMIIRDRRVK",
+            "entity_poly_seq_one_letter_code_can": "MPIQKCKPTSPGRRFVEKVVHDHLHKGAPYAPLVEAKKRTGGRNNNGHITTRHVGGGHKQHYRIVDFKRNKDGVPAVVERIEYDPSRTAHIALLKYADGERRYIIAPKGLRAGDKVQSGNDAPIRPGNCLPLRNMPIGSTLHNVELKIGKGAQLARSAGASVQLLGRDGSYAIIRLRSGEMRKVHVECRAVIGEVSNQENNLRSLGKAGAARWRGVRPTVRGMAMNPIDHPHGGGEGRNKGIQPVSPWGQKAKGYKTRTNKRTTKMIIRDRRVK",
+            "entity_poly_seq_length": 274,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CCZ7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MAIGLVGRKCGMTRIFTDAGVSVPVTVIEVDPNRITQIKTLETDGYQAVQVTTGERRESRVTNAQKGHFAKAGVAAGRLVKEFRVTEAELEGREVGGTIGVDLFTVGQIVDVTGQSKGKGFQGGVKRWNFRTQDATHGNSVSHRVLGSTGQNQTPGRVFKGKKMAGHLGDERVTVQGLEIVSVDTERSVLVVKGAIPGATGGDVIVRPTIKA",
+            "entity_poly_seq_one_letter_code_can": "MAIGLVGRKCGMTRIFTDAGVSVPVTVIEVDPNRITQIKTLETDGYQAVQVTTGERRESRVTNAQKGHFAKAGVAAGRLVKEFRVTEAELEGREVGGTIGVDLFTVGQIVDVTGQSKGKGFQGGVKRWNFRTQDATHGNSVSHRVLGSTGQNQTPGRVFKGKKMAGHLGDERVTVQGLEIVSVDTERSVLVVKGAIPGATGGDVIVRPTIKA",
+            "entity_poly_seq_length": 212,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CCZ8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L4",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MNLKTVSGSAVELSEVAFGREFNEALVHQVVTAYLAGGRQGTRAHKSRADVSGGGKKPFRQKGTGRARAGSIRSPIWVGGGKTFAARPQDWSQKVNRKMYRGAMQCILAELVRQDRLVLVEEFAVAAPKTKELLAKLNDLNAARALIVTDAVDENLYLAARNLPHVDVVDATAIDPVSLIAFDKVVMSVAAAKKIEVELG",
+            "entity_poly_seq_one_letter_code_can": "MNLKTVSGSAVELSEVAFGREFNEALVHQVVTAYLAGGRQGTRAHKSRADVSGGGKKPFRQKGTGRARAGSIRSPIWVGGGKTFAARPQDWSQKVNRKMYRGAMQCILAELVRQDRLVLVEEFAVAAPKTKELLAKLNDLNAARALIVTDAVDENLYLAARNLPHVDVVDATAIDPVSLIAFDKVVMSVAAAKKIEVELG",
+            "entity_poly_seq_length": 200,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD09"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L5",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MARLKARYNDELKAKLQEELSIKNVMEIPRITKITLNMGVGAAATDKKLLDGAVADMQLIAGQKPVVTLARKSIAGFKIRDGWPIGCKVTLRGDQMYEFLDRLISIAIPRIRDFRGFSAKSFDGRGNYSMGLKEQIVFPEIDFDKIDRIRGMDITITTTARTDDEGRALMRAFGFPFK",
+            "entity_poly_seq_one_letter_code_can": "MARLKARYNDELKAKLQEELSIKNVMEIPRITKITLNMGVGAAATDKKLLDGAVADMQLIAGQKPVVTLARKSIAGFKIRDGWPIGCKVTLRGDQMYEFLDRLISIAIPRIRDFRGFSAKSFDGRGNYSMGLKEQIVFPEIDFDKIDRIRGMDITITTTARTDDEGRALMRAFGFPFK",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD12"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L6",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MSRVAKAPVTVPNGVTVTQNGRQVEVKGSKGTLSFNLHALVELKQEEGKLQLAPAKESKDAWMQAGTARAVLNNLVKGVSEGFERKLQLVGVGYKAAVKGTVVNLNLGYSHPIDYALPEGVTAETPTATEIILKSANKQLLGQVAAEIRAYRSPEPYKGKGVRYSDEVILRKEAKKK",
+            "entity_poly_seq_one_letter_code_can": "MSRVAKAPVTVPNGVTVTQNGRQVEVKGSKGTLSFNLHALVELKQEEGKLQLAPAKESKDAWMQAGTARAVLNNLVKGVSEGFERKLQLVGVGYKAAVKGTVVNLNLGYSHPIDYALPEGVTAETPTATEIILKSANKQLLGQVAAEIRAYRSPEPYKGKGVRYSDEVILRKEAKKK",
+            "entity_poly_seq_length": 177,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CG35"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L13",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MKTLSAKPAEVQHDWFVVDATGKTLGRLATEIARRLRGKHKTSYTPHVDAGDYIIVINAEQVQVTGNKALDKKYYRHTEFPGGLKETNFEKLVAHKPEEIFERAVKGMLPKGPLGYAMIKKMKVYAGSEHPHAAQQPQVLDI",
+            "entity_poly_seq_one_letter_code_can": "MKTLSAKPAEVQHDWFVVDATGKTLGRLATEIARRLRGKHKTSYTPHVDAGDYIIVINAEQVQVTGNKALDKKYYRHTEFPGGLKETNFEKLVAHKPEEIFERAVKGMLPKGPLGYAMIKKMKVYAGSEHPHAAQQPQVLDI",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD07"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L14",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MIQTETMLDVADNSGARRVQCIKVLGGSHRRYASVGDIIKVTVKEAIPRARVKKGDVMNAVVVRTKFGIRRPDGSVIRFDDNAAVILNNNKAPIATRIFGPVTRELRTEQFMKIISLAPEVL",
+            "entity_poly_seq_one_letter_code_can": "MIQTETMLDVADNSGARRVQCIKVLGGSHRRYASVGDIIKVTVKEAIPRARVKKGDVMNAVVVRTKFGIRRPDGSVIRFDDNAAVILNNNKAPIATRIFGPVTRELRTEQFMKIISLAPEVL",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD16"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L15",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MTLRLNELAPAEGAKREHRRLGRGIGSGVGKTGGRGIKGQKSRKSGGVRPGFEGGQTAIYRRLPKFGFTSQIALKTAEVRLSELSKVEGDIVSLETLKAANVVRRDQIRARIVLSGEITRAFTVQGVALTKGAKAAIEAAGGKVEE",
+            "entity_poly_seq_one_letter_code_can": "MTLRLNELAPAEGAKREHRRLGRGIGSGVGKTGGRGIKGQKSRKSGGVRPGFEGGQTAIYRRLPKFGFTSQIALKTAEVRLSELSKVEGDIVSLETLKAANVVRRDQIRARIVLSGEITRAFTVQGVALTKGAKAAIEAAGGKVEE",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD04"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L16",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MLQPKRTKFRKVHKGRNTGLAHRGSTVSFGSIAIKATERGRMTARQIEAARRTISRRIKRGGKIFIRVFPDKPITEKPLEVRMGNGKGNVEYWVCEIKPGKILYEIEGVNEDLAREAFALAAAKLPFKTTIVTRTVM",
+            "entity_poly_seq_one_letter_code_can": "MLQPKRTKFRKVHKGRNTGLAHRGSTVSFGSIAIKATERGRMTARQIEAARRTISRRIKRGGKIFIRVFPDKPITEKPLEVRMGNGKGNVEYWVCEIKPGKILYEIEGVNEDLAREAFALAAAKLPFKTTIVTRTVM",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD23"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L17",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MRHRNSGVKLGRTSSHRKAMFQNLANSLFEHELIKTTLPKAKELRRVAEPLITLAKNDTVANRRLAFARTRNAATVGKLFTVLGPRYKERNGGYLRVLKAGFRAGDAAPMAYVELVDREVNTSAE",
+            "entity_poly_seq_one_letter_code_can": "MRHRNSGVKLGRTSSHRKAMFQNLANSLFEHELIKTTLPKAKELRRVAEPLITLAKNDTVANRRLAFARTRNAATVGKLFTVLGPRYKERNGGYLRVLKAGFRAGDAAPMAYVELVDREVNTSAE",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD13"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L18",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MNEKKQSRLRRAKSTRLHIRALGATRLCVNRTPRHIYAQVISADGGKVLAQASTLDASLRSGTTGNIEAATKVGALIAERAKAAGVTKVAFDRSGFKYHGRIKALADAAREGGLEF",
+            "entity_poly_seq_one_letter_code_can": "MNEKKQSRLRRAKSTRLHIRALGATRLCVNRTPRHIYAQVISADGGKVLAQASTLDASLRSGTTGNIEAATKVGALIAERAKAAGVTKVAFDRSGFKYHGRIKALADAAREGGLEF",
+            "entity_poly_seq_length": 116,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CCR8"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L19",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MSGKHPLVQAIENSQLKTDLPEFAPGDTVVVQVKVKEGDRERLQAFEGVVIAKKNRGLNSAFTVRKISSGVGVERVFQTHSPVVAKIEVKRRGDVRRAKLYYLRDLSGKAARIREKLPARKA",
+            "entity_poly_seq_one_letter_code_can": "MSGKHPLVQAIENSQLKTDLPEFAPGDTVVVQVKVKEGDRERLQAFEGVVIAKKNRGLNSAFTVRKISSGVGVERVFQTHSPVVAKIEVKRRGDVRRAKLYYLRDLSGKAARIREKLPARKA",
+            "entity_poly_seq_length": 122,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CA76"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L20",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MARVKRGVVAHRRHKKILARAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQKKRQFRALWIARINAGARQNGLSYSRMIDGLKKAQVIIDRRVLADIAMHDAVAFAALAEKAKGALAA",
+            "entity_poly_seq_one_letter_code_can": "MARVKRGVVAHRRHKKILARAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQKKRQFRALWIARINAGARQNGLSYSRMIDGLKKAQVIIDRRVLADIAMHDAVAFAALAEKAKGALAA",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CDQ6"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L21",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MYAVIQSGGKQHRVVEGETLKVELLKAESGATITFDDVLMVVNGDNIQIGAPVVAGAKVTAEVIGHGRHDKIRIIKMRRRKHYRKQQGHRQWFTELKITGISG",
+            "entity_poly_seq_one_letter_code_can": "MYAVIQSGGKQHRVVEGETLKVELLKAESGATITFDDVLMVVNGDNIQIGAPVVAGAKVTAEVIGHGRHDKIRIIKMRRRKHYRKQQGHRQWFTELKITGISG",
+            "entity_poly_seq_length": 103,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD02"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L22",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MMEVTAKLRGAAISAQKARLVADLIRGKSVAHALNILNFSNKKAAVLVKKALESAIANAEHNNSLDVDDLKVSTIYVDEGMSLKRIMPRAKGRADRITKRTCHITVKVGV",
+            "entity_poly_seq_one_letter_code_can": "MMEVTAKLRGAAISAQKARLVADLIRGKSVAHALNILNFSNKKAAVLVKKALESAIANAEHNNSLDVDDLKVSTIYVDEGMSLKRIMPRAKGRADRITKRTCHITVKVGV",
+            "entity_poly_seq_length": 110,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CCZ9"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L23",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MNNERIYQVLKGPVFSEKAQVLGDTAGVQVFKVDINATKLEIKKAVEKLFGVEVVKVNTTITKGKTKRFGRTLGRRSDVKKAYVTLKAGQDVEMADLGDTAESAAE",
+            "entity_poly_seq_one_letter_code_can": "MNNERIYQVLKGPVFSEKAQVLGDTAGVQVFKVDINATKLEIKKAVEKLFGVEVVKVNTTITKGKTKRFGRTLGRRSDVKKAYVTLKAGQDVEMADLGDTAESAAE",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD08"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L24",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MAKIKKGDQVIVIAGKEKGKQGTVLSVSEDRVKVEGLNLVKKHQKPNRVTGAEGGIVTQEASLHISNVAILNATTQKADRVGYQVIDGVKTRVYKSTGESVAVAK",
+            "entity_poly_seq_one_letter_code_can": "MAKIKKGDQVIVIAGKEKGKQGTVLSVSEDRVKVEGLNLVKKHQKPNRVTGAEGGIVTQEASLHISNVAILNATTQKADRVGYQVIDGVKTRVYKSTGESVAVAK",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "Ribosomal protein L25 is an RNA binding protein, that binds 5S rRNA. This family includes Ctc from B. subtilis Swiss:P14194, which is induced by stress."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L25p family"
+            ],
+            "pfam_accessions": [
+                "PF01386"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0C9L7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L25",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MANFVLNAQARAEDKQGKGASRRLRRESLVPAIIYGGNAEPVAVTLELRELVKALESNAFFEEVVEIKVGDKVENVKIQALQRHPAKNTPMHADFKRA",
+            "entity_poly_seq_one_letter_code_can": "MANFVLNAQARAEDKQGKGASRRLRRESLVPAIIYGGNAEPVAVTLELRELVKALESNAFFEEVVEIKVGDKVENVKIQALQRHPAKNTPMHADFKRA",
+            "entity_poly_seq_length": 98,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CDQ7"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L27",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MATKKAGGSTKNGRDSNPKMLGVKVYGGQTVTAGNIIVRQRGTEFHAGANVGMGRDHTLFATADGVVKFEVKGQFGRRYVKVETV",
+            "entity_poly_seq_one_letter_code_can": "MATKKAGGSTKNGRDSNPKMLGVKVYGGQTVTAGNIIVRQRGTEFHAGANVGMGRDHTLFATADGVVKFEVKGQFGRRYVKVETV",
+            "entity_poly_seq_length": 85,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "The ribosomal 28 family includes L28 proteins from bacteria and chloroplasts.  The L24 protein from yeast Swiss:P36525 also contains a region of similarity to prokaryotic L28 proteins.  L24 from yeast is also found in the large ribosomal subunit"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28 family"
+            ],
+            "pfam_accessions": [
+                "PF00830"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CAL0"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L28",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MSKVCQVTGKRPVVGNNVSHANNKTKRRFEPNLHHHRFWLESEKRFVRLRLTTKGMRIIDKLGIEKVVADLRAQGQKI",
+            "entity_poly_seq_one_letter_code_can": "MSKVCQVTGKRPVVGNNVSHANNKTKRRFEPNLHHHRFWLESEKRFVRLRLTTKGMRIIDKLGIEKVVADLRAQGQKI",
+            "entity_poly_seq_length": 78,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD05"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L29",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MKTKDLREKSVEELKALLDEQQLNQFRLRMAKATGQLGKSHEVQVARKTIARIKTLLTEKQGNGQ",
+            "entity_poly_seq_one_letter_code_can": "MKTKDLREKSVEELKALLDEQQLNQFRLRMAKATGQLGKSHEVQVARKTIARIKTLLTEKQGNGQ",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD15"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L30",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MKTIKVTQTKSSSHRLKNHKLCLQGLGLRRIGHTVEVQDTPSNRGMINKVYYMVSVEE",
+            "entity_poly_seq_one_letter_code_can": "MKTIKVTQTKSSSHRLKNHKLCLQGLGLRRIGHTVEVQDTPSNRGMINKVYYMVSVEE",
+            "entity_poly_seq_length": 58,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0C9K5"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L32",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MAVQQNRKSRSRRDMRRSHDALTENALTVDQATGETHRRHHVTKDGFYRGRQLFAKAADAE",
+            "entity_poly_seq_one_letter_code_can": "MAVQQNRKSRSRRDMRRSHDALTENALTVDQATGETHRRHHVTKDGFYRGRQLFAKAADAE",
+            "entity_poly_seq_length": 61,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CAL1"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L33",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MRDKIRLVSSAGTGYFYTTTKNKRTMPEKMEIKKFDPKIRQHVIFKEAKIK",
+            "entity_poly_seq_one_letter_code_can": "MRDKIRLVSSAGTGYFYTTTKNKRTMPEKMEIKKFDPKIRQHVIFKEAKIK",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CG06"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L34",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MKRTFQPSELKRKRVHGFRARMATKAGRQVLARRRAKGRHSLTV",
+            "entity_poly_seq_one_letter_code_can": "MKRTFQPSELKRKRVHGFRARMATKAGRQVLARRRAKGRHSLTV",
+            "entity_poly_seq_length": 44,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CA77"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L35",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MAKLKTRRGAAKRFKATANGFKRKQAFKRHILTKKSAKRIRQLRGCVMVHVSDVASVRRMCPYI",
+            "entity_poly_seq_one_letter_code_can": "MAKLKTRRGAAKRFKATANGFKRKQAFKRHILTKKSAKRIRQLRGCVMVHVSDVASVRRMCPYI",
+            "entity_poly_seq_length": 64,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "uniprot_accession": [
+                "D0CD18"
+            ],
+            "rcsb_pdbx_description": "50S ribosomal protein L36",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MKVQASVKKICGSCKVIRRNGVIRVICSAEPRHKQRQG",
+            "entity_poly_seq_one_letter_code_can": "MKVQASVKKICGSCKVIRRNGVIRVICSAEPRHKQRQG",
+            "entity_poly_seq_length": 38,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "6YHS",
+            "rcsb_pdbx_description": "23S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "AGUCAAGUAAUUAAGUGCAUGUGGUGGAUGCCUUGGCAGUCAGAGGCGAUGAAAGACGUGAUAGCCUGCGAAAAGCUCCGGGGAGGCGGCAAAUAUCCUUUGAUCCGGAGAUGUCUGAAUGGGGGAACCCACCUACUUUAAGGUAGGUAUUGCAACAUGAAUACAUAGUGUUGCAAGGCGAACGAGGGGAAGUGAAACAUCUCAGUACCCUUAGGAAAAGAAAUCAAUUGAGAUUCCCUCAGUAGCGGCGAGCGAACGGGGAUCAGCCCAUUAAGUUAUGUGUGUUUUAGUGGAACGCUCUGGGAAGUGCGAACGUAGAGGGUGAUAUUCCCGUACACGAAAGGGCACACAUAAUGAUGACGAGUAGGGCGAGGCACGUGAAACCUUGUCUGAAUAUGGGGGGACCAUCCUCCAAGGCUAAAUACUCCUGACUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGCGAAAAGAACCCCUGUGAGGGGAGUGAAAUAGAUCCUGAAACCGCAUGCAUACAAGCAGUGGGAGCACCUUUGUGGUGUGACUGCGUACCUUUUGUAUAAUGGGUCAGCGACUUAUAUUCAGUAGCGAGGUUAACCGUAUAGGGGAGCCGUAGAGAAAUCGAGUCUUAAUAGGGCGUUUAGUUGCUGGGUAUAGACCCGAAACCAGGCGAUCUAUCCAUGAGCAGGUUGAAGGUUGGGUAACACUAACUGGAGGACCGAACCCACUGUCGUUGAAAAGCCAGGGGAUGACUUGUGGAUAGGGGUGAAAGGCUAAUCAAGCCUGGUGAUAGCUGGUUCUCCCCGAAAGCUAUUUAGGUAGCGCCUCGGACGAAUACCAUAGGGGGUAGAGCACUGUUUCGGCUAGGGGGUCAUCCCGACUUACCAAACCGAUGCAAACUCCGAAUACCUAUGAGUACUAUCCGGGAGACAGACUGCGGGUGCUAACGUCCGUAGUCAAGAGGAAAACAAUCCAGACCGCCAGCUAAGGCCCCAAAAUCAUAGUUAAGUGGGAAACGAUGUGGGAAGGCAUAGACAGCUAGGAGGUUGGCUUAGAAGCAGCCACCCUUUAAAGAAAGCGUAAUAGCUCACUAGUCGAGUCGGCCUGCGCGGAAGAUGUAACGGGGCUAAAACUAUGUGCCGAAGCUGCGGAUGUAUACUUUGUAUACGUGGUAGGGGAGCGUUCUGUAAGCCGAUGAAGGUGUGUUGAGAAGCAUGCUGGAGGUAUCAGAAGUGCGAAUGCUGACGUGAGUAACGACAAAACGGGUGAAAAACCCGUUCGCCGAAAGACCAAGGGUUCCAGUCCAACGUUAAUCGGGGCUGGGUGAGUCGACCCCUAAGGCGAGGCCGAAAGGCGUAGUCGAUGGGAAAAUGGUUAAUAUUCCAUUACUUCUGUGUAAUGCGAUGAGAGGACGGAGAAGGCUAAAUCAGCCUGGCGUUGGUUGUCCAGGUGAAAGGAUGUAGGCAUGUAUCUUAGGCAAAUCCGGGGUACUCUAUGCUGAGAUCUGAUAGCAAGCUGUACUUGUACAGCGAAGUGGUUGAUGCCAUGCUUCCAGGAAAAGUCUCUAAGCUUCAGUUACACAGGAAUCGUACCCGAAACCGACACAGGUGGUCAGGUCGAGUAGACCAAGGCGCUUGAGAGAACUCUGCUGAAGGAACUAGGCAAAAUGGUACCGUAACUUCGGGAGAAGGUACGCUGUUGUUGGUGAUGGAACUCGCUUCCUGAGCUGACGACAGCCGCAGAAACCAGGCCGCUGCAACUGUUUAUUAAAAACAUAGCACUCUGCAAACACGAAAGUGGACGUAUAGGGUGUGAUGCCUGCCCGGUGCUGGAAGGUUAAUUGAUGGGGUUAGCGUAAGCGAAGCUCUUGAUCGAAGCCCCAGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAUGGCAUAAUGAUGGCGGCGCUGUCUCCAGCAGAGGCUCAGUGAAAUCGAAAUCGCUGUGAAGAUGCAGUGUACCCGCGGCUAGACGGAAAGACCCCGUGAACCUUUACUGCAGCUUGACACUGAACUUUGACCUUACUUGUGUAGGAUAGGUGGGAGGCUUUGAAGCUGGAACGCUAGUUCCAGUGGAGCCGUCCUUGAAAUACCACCCUGGUAAUGUUGAGGUUCUAACUCUGUCCCGUGAUCCGGGACGAGGACCGUGUCUGGUGGGUAGUUUGACUGGGGCGGUCUCCUCCUAAAGAGUAACGGAGGAGUACGAAGGUGCGCUCAGCGUGGUCGGAAAUCACGCGUAGAGUAUAAAGGCAAAAGCGCGCUUAACUGCGAGACCCACAAGUCGAGCAGGUACGAAAGUAGGUCUUAGUGAUCCGGUGGUUCUGUAUGGAAGGGCCAUCGCUCAACGGAUAAAAGGUACUCUGGGGAUAACAGGCUGAUACCGCCCAAGAGUUCAUAUCGACGGCGGUGUUUGGCACCUCGAUGUCGGCUCAUCUCAUCCUGGGGCUGAAGCAGGUCCCAAGGGUAUGGCUGUUCGCCAUUUAAAGAGGUACGCGAGCUGGGUUUAGAACGUCGUGAGACAGUUCGGUCCCUAUCUACCGUGGGCGCUGGAAAUUUGAGAGGAUCUGCUCCUAGUACGAGAGGACCAGAGUGGACGAACCUCUGGUGUACCGGUUGUGACGCCAGUCGCAUCGCCGGGUAGCUAUGUUCGGAAGGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCUACCUCAAGAUAAGAUUUCCCUAGGACUUUAUGUCCUCUAAAGAGCCGUUCGAGACUAGGACGUUGAUAGGUUGGAUGUGGAAGCAUAGUGAUAUGUGAAGCUGACCAAUACUAAUUGCUCGUGAGGCUUGACUAUACAACACCCA",
+            "entity_poly_seq_one_letter_code_can": "AGUCAAGUAAUUAAGUGCAUGUGGUGGAUGCCUUGGCAGUCAGAGGCGAUGAAAGACGUGAUAGCCUGCGAAAAGCUCCGGGGAGGCGGCAAAUAUCCUUUGAUCCGGAGAUGUCUGAAUGGGGGAACCCACCUACUUUAAGGUAGGUAUUGCAACAUGAAUACAUAGUGUUGCAAGGCGAACGAGGGGAAGUGAAACAUCUCAGUACCCUUAGGAAAAGAAAUCAAUUGAGAUUCCCUCAGUAGCGGCGAGCGAACGGGGAUCAGCCCAUUAAGUUAUGUGUGUUUUAGUGGAACGCUCUGGGAAGUGCGAACGUAGAGGGUGAUAUUCCCGUACACGAAAGGGCACACAUAAUGAUGACGAGUAGGGCGAGGCACGUGAAACCUUGUCUGAAUAUGGGGGGACCAUCCUCCAAGGCUAAAUACUCCUGACUGACCGAUAGUGAACCAGUACCGUGAGGGAAAGGCGAAAAGAACCCCUGUGAGGGGAGUGAAAUAGAUCCUGAAACCGCAUGCAUACAAGCAGUGGGAGCACCUUUGUGGUGUGACUGCGUACCUUUUGUAUAAUGGGUCAGCGACUUAUAUUCAGUAGCGAGGUUAACCGUAUAGGGGAGCCGUAGAGAAAUCGAGUCUUAAUAGGGCGUUUAGUUGCUGGGUAUAGACCCGAAACCAGGCGAUCUAUCCAUGAGCAGGUUGAAGGUUGGGUAACACUAACUGGAGGACCGAACCCACUGUCGUUGAAAAGCCAGGGGAUGACUUGUGGAUAGGGGUGAAAGGCUAAUCAAGCCUGGUGAUAGCUGGUUCUCCCCGAAAGCUAUUUAGGUAGCGCCUCGGACGAAUACCAUAGGGGGUAGAGCACUGUUUCGGCUAGGGGGUCAUCCCGACUUACCAAACCGAUGCAAACUCCGAAUACCUAUGAGUACUAUCCGGGAGACAGACUGCGGGUGCUAACGUCCGUAGUCAAGAGGAAAACAAUCCAGACCGCCAGCUAAGGCCCCAAAAUCAUAGUUAAGUGGGAAACGAUGUGGGAAGGCAUAGACAGCUAGGAGGUUGGCUUAGAAGCAGCCACCCUUUAAAGAAAGCGUAAUAGCUCACUAGUCGAGUCGGCCUGCGCGGAAGAUGUAACGGGGCUAAAACUAUGUGCCGAAGCUGCGGAUGUAUACUUUGUAUACGUGGUAGGGGAGCGUUCUGUAAGCCGAUGAAGGUGUGUUGAGAAGCAUGCUGGAGGUAUCAGAAGUGCGAAUGCUGACGUGAGUAACGACAAAACGGGUGAAAAACCCGUUCGCCGAAAGACCAAGGGUUCCAGUCCAACGUUAAUCGGGGCUGGGUGAGUCGACCCCUAAGGCGAGGCCGAAAGGCGUAGUCGAUGGGAAAAUGGUUAAUAUUCCAUUACUUCUGUGUAAUGCGAUGAGAGGACGGAGAAGGCUAAAUCAGCCUGGCGUUGGUUGUCCAGGUGAAAGGAUGUAGGCAUGUAUCUUAGGCAAAUCCGGGGUACUCUAUGCUGAGAUCUGAUAGCAAGCUGUACUUGUACAGCGAAGUGGUUGAUGCCAUGCUUCCAGGAAAAGUCUCUAAGCUUCAGUUACACAGGAAUCGUACCCGAAACCGACACAGGUGGUCAGGUCGAGUAGACCAAGGCGCUUGAGAGAACUCUGCUGAAGGAACUAGGCAAAAUGGUACCGUAACUUCGGGAGAAGGUACGCUGUUGUUGGUGAUGGAACUCGCUUCCUGAGCUGACGACAGCCGCAGAAACCAGGCCGCUGCAACUGUUUAUUAAAAACAUAGCACUCUGCAAACACGAAAGUGGACGUAUAGGGUGUGAUGCCUGCCCGGUGCUGGAAGGUUAAUUGAUGGGGUUAGCGUAAGCGAAGCUCUUGAUCGAAGCCCCAGUAAACGGCGGCCGUAACUAUAACGGUCCUAAGGUAGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACGAAUGGCAUAAUGAUGGCGGCGCUGUCUCCAGCAGAGGCUCAGUGAAAUCGAAAUCGCUGUGAAGAUGCAGUGUACCCGCGGCUAGACGGAAAGACCCCGUGAACCUUUACUGCAGCUUGACACUGAACUUUGACCUUACUUGUGUAGGAUAGGUGGGAGGCUUUGAAGCUGGAACGCUAGUUCCAGUGGAGCCGUCCUUGAAAUACCACCCUGGUAAUGUUGAGGUUCUAACUCUGUCCCGUGAUCCGGGACGAGGACCGUGUCUGGUGGGUAGUUUGACUGGGGCGGUCUCCUCCUAAAGAGUAACGGAGGAGUACGAAGGUGCGCUCAGCGUGGUCGGAAAUCACGCGUAGAGUAUAAAGGCAAAAGCGCGCUUAACUGCGAGACCCACAAGUCGAGCAGGUACGAAAGUAGGUCUUAGUGAUCCGGUGGUUCUGUAUGGAAGGGCCAUCGCUCAACGGAUAAAAGGUACUCUGGGGAUAACAGGCUGAUACCGCCCAAGAGUUCAUAUCGACGGCGGUGUUUGGCACCUCGAUGUCGGCUCAUCUCAUCCUGGGGCUGAAGCAGGUCCCAAGGGUAUGGCUGUUCGCCAUUUAAAGAGGUACGCGAGCUGGGUUUAGAACGUCGUGAGACAGUUCGGUCCCUAUCUACCGUGGGCGCUGGAAAUUUGAGAGGAUCUGCUCCUAGUACGAGAGGACCAGAGUGGACGAACCUCUGGUGUACCGGUUGUGACGCCAGUCGCAUCGCCGGGUAGCUAUGUUCGGAAGGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCUACCUCAAGAUAAGAUUUCCCUAGGACUUUAUGUCCUCUAAAGAGCCGUUCGAGACUAGGACGUUGAUAGGUUGGAUGUGGAAGCAUAGUGAUAUGUGAAGCUGACCAAUACUAAUUGCUCGUGAGGCUUGACUAUACAACACCCA",
+            "entity_poly_seq_length": 2903,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "UGCUGGCGACCAUAGCAAGAGUGAACCACCUGAUCCCUUCCCGAACUCAGAAGUGAAACCUCUUAGCGCUGAUGGUAGUGUGGGAUUACCCAUGUGAGAGUAAGUCAUCGCCAGCUC",
+            "entity_poly_seq_one_letter_code_can": "UGCUGGCGACCAUAGCAAGAGUGAACCACCUGAUCCCUUCCCGAACUCAGAAGUGAAACCUCUUAGCGCUGAUGGUAGUGUGGGAUUACCCAUGUGAGAGUAAGUCAUCGCCAGCUC",
+            "entity_poly_seq_length": 117,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "6YHS",
+            "rcsb_pdbx_description": "E-site tRNA",
+            "rcsb_source_organism_description": [
+                "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841"
+            ],
+            "rcsb_source_organism_id": [
+                575584
+            ],
+            "entity_poly_strand_id": "6,8",
+            "entity_poly_seq_one_letter_code": "CGCGGGG(N)GGAGCAGCCUGG(N)AGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGG(N)(N)CAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_one_letter_code_can": "CGCGGGGNGGAGCAGCCUGGNAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGNNCAAAUCCGGCCCCCGCAACCA",
+            "entity_poly_seq_length": 77,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

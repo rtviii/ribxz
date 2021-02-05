@@ -1,0 +1,2641 @@
+{
+    "rcsb_id": "3J9M",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.5,
+    "rcsb_external_ref_id": [
+        "EMD-2876"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-2876"
+    ],
+    "cryoem_exp_detail": "Data were processed in Relion to compensate for beam-induced movement.",
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.5,
+    "cryoem_exp_num_particles": 884122,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2015,
+    "citation_rcsb_authors": [
+        "Amunts, A.",
+        "Brown, A.",
+        "Toots, J.",
+        "Scheres, S.H.",
+        "Ramakrishnan, V."
+    ],
+    "citation_title": "Ribosome. The structure of the human mitochondrial ribosome.",
+    "citation_pdbx_doi": "10.1126/science.aaa1193",
+    "pdbx_keywords_text": "Mitochondria, translation, RIBOSOME",
+    "_organismId": [
+        9606
+    ],
+    "_organismName": [
+        "Homo sapiens"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q5T653"
+            ],
+            "rcsb_pdbx_description": "uL2m",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MALCALTRALRSLNLAPPTVAAPAPSLFPAAQMMNNGLLQQPSALMLLPCRPVLTSVALNANFVSWKSRTKYTITPVKMRKSGGRDHTGRIRVHGIGGGHKQRYRMIDFLRFRPEETKSGPFEEKVIQVRYDPCRSADIALVAGGSRKRWIIATENMQAGDTILNSNHIGRMAVAAREGDAHPLGALPVGTLINNVESEPGRGAQYIRAAGTCGVLLRKVNGTAIIQLPSKRQMQVLETCVATVGRVSNVDHNKRVIGKAGRNRWLGKRPNSGRWHRKGGWAGRKIRPLPPMKSYVKLPSASAQS",
+            "entity_poly_seq_one_letter_code_can": "MALCALTRALRSLNLAPPTVAAPAPSLFPAAQMMNNGLLQQPSALMLLPCRPVLTSVALNANFVSWKSRTKYTITPVKMRKSGGRDHTGRIRVHGIGGGHKQRYRMIDFLRFRPEETKSGPFEEKVIQVRYDPCRSADIALVAGGSRKRWIIATENMQAGDTILNSNHIGRMAVAAREGDAHPLGALPVGTLINNVESEPGRGAQYIRAAGTCGVLLRKVNGTAIIQLPSKRQMQVLETCVATVGRVSNVDHNKRVIGKAGRNRWLGKRPNSGRWHRKGGWAGRKIRPLPPMKSYVKLPSASAQS",
+            "entity_poly_seq_length": 305,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P09001"
+            ],
+            "rcsb_pdbx_description": "uL3m",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MPGWRLLTQVGAQVLGRLGDGLGAALGPGNRTHIWLFVRGLHGKSGTWWDEHLSEENVPFIKQLVSDEDKAQLASKLCPLKDEPWPIHPWEPGSFRVGLIALKLGMMPLWTKDGQKHVVTLLQVQDCHVLKYTSKENCNGKMATLSVGGKTVSRFRKATSILEFYRELGLPPKQTVKIFNITDNAAIKPGTPLYAAHFRPGQYVDVTAKTIGKGFQGVMKRWGFKGQPATHGQTKTHRRPGAVATGDIGRVWPGTKMPGKMGNIYRTEYGLKVWRINTKHNIIYVNGSVPGHKNCLVKVKDSKLPAYKDLGKNLPFPTYFPDGDEEELPEDLYDENVCQPGAPSITFA",
+            "entity_poly_seq_one_letter_code_can": "MPGWRLLTQVGAQVLGRLGDGLGAALGPGNRTHIWLFVRGLHGKSGTWWDEHLSEENVPFIKQLVSDEDKAQLASKLCPLKDEPWPIHPWEPGSFRVGLIALKLGMMPLWTKDGQKHVVTLLQVQDCHVLKYTSKENCNGKMATLSVGGKTVSRFRKATSILEFYRELGLPPKQTVKIFNITDNAAIKPGTPLYAAHFRPGQYVDVTAKTIGKGFQGVMKRWGFKGQPATHGQTKTHRRPGAVATGDIGRVWPGTKMPGKMGNIYRTEYGLKVWRINTKHNIIYVNGSVPGHKNCLVKVKDSKLPAYKDLGKNLPFPTYFPDGDEEELPEDLYDENVCQPGAPSITFA",
+            "entity_poly_seq_length": 348,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BYD3"
+            ],
+            "rcsb_pdbx_description": "uL4m",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MLQFVRAGARAWLRPTGSQGLSSLAEEAARATENPEQVASEGLPEPVLRKVELPVPTHRRPVQAWVESLRGFEQERVGLADLHPDVFATAPRLDILHQVAMWQKNFKRISYAKTKTRAEVRGGGRKPWPQKGTGRARHGSIRSPLWRGGGVAHGPRGPTSYYYMLPMKVRALGLKVALTVKLAQDDLHIMDSLELPTGDPQYLTELAHYRRWGDSVLLVDLTHEEMPQSIVEATSRLKTFNLIPAVGLNVHSMLKHQTLVLTLPTVAFLEDKLLWQDSRYRPLYPFSLPYSDFPRPLPHATQGPAATPYHC",
+            "entity_poly_seq_one_letter_code_can": "MLQFVRAGARAWLRPTGSQGLSSLAEEAARATENPEQVASEGLPEPVLRKVELPVPTHRRPVQAWVESLRGFEQERVGLADLHPDVFATAPRLDILHQVAMWQKNFKRISYAKTKTRAEVRGGGRKPWPQKGTGRARHGSIRSPLWRGGGVAHGPRGPTSYYYMLPMKVRALGLKVALTVKLAQDDLHIMDSLELPTGDPQYLTELAHYRRWGDSVLLVDLTHEEMPQSIVEATSRLKTFNLIPAVGLNVHSMLKHQTLVLTLPTVAFLEDKLLWQDSRYRPLYPFSLPYSDFPRPLPHATQGPAATPYHC",
+            "entity_poly_seq_length": 311,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L9, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF01281"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BYD2"
+            ],
+            "rcsb_pdbx_description": "bL9m",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MAAPVVTAPGRALLRAGAGRLLRGGVQELLRPRHEGNAPDLACNFSLSQNRGTVIVERWWKVPLAGEGRKPRLHRRHRVYKLVEDTKHRPKENLELILTQSVENVGVRGDLVSVKKSLGRNRLLPQGLAVYASPENKKLFEEEKLLRQEGKLEKIQTKAGEATVKFLKSCRLEVGMKNNVKWELNPEIVARHFFKNLGVVVAPHTLKLPEEPITRWGEYWCEVTVNGLDTVRVPMSVVNFEKPKTKRYKYWLAQQAAKAMAPTSPQI",
+            "entity_poly_seq_one_letter_code_can": "MAAPVVTAPGRALLRAGAGRLLRGGVQELLRPRHEGNAPDLACNFSLSQNRGTVIVERWWKVPLAGEGRKPRLHRRHRVYKLVEDTKHRPKENLELILTQSVENVGVRGDLVSVKKSLGRNRLLPQGLAVYASPENKKLFEEEKLLRQEGKLEKIQTKAGEATVKFLKSCRLEVGMKNNVKWELNPEIVARHFFKNLGVVVAPHTLKLPEEPITRWGEYWCEVTVNGLDTVRVPMSVVNFEKPKTKRYKYWLAQQAAKAMAPTSPQI",
+            "entity_poly_seq_length": 267,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L10"
+            ],
+            "pfam_accessions": [
+                "PF00466"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q7Z7H8"
+            ],
+            "rcsb_pdbx_description": "uL10m",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MAAAVAGMLRGGLLPQAGRLPTLQTVRYGSKAVTRHRRVMHFQRQKLMAVTEYIPPKPAIHPSCLPSPPSPPQEEIGLIRLLRREIAAVFQDNRMIAVCQNVALSAEDKLLMRHQLRKHKILMKVFPNQVLKPFLEDSKYQNLLPLFVGHNMLLVSEEPKVKEMVRILRTVPFLPLLGGCIDDTILSRQGFINYSKLPSLPLVQGELVGGLTCLTAQTHSLLQHQPLQLTTLLDQYIREQREKDSVMSANGKPDPDTVPDS",
+            "entity_poly_seq_one_letter_code_can": "MAAAVAGMLRGGLLPQAGRLPTLQTVRYGSKAVTRHRRVMHFQRQKLMAVTEYIPPKPAIHPSCLPSPPSPPQEEIGLIRLLRREIAAVFQDNRMIAVCQNVALSAEDKLLMRHQLRKHKILMKVFPNQVLKPFLEDSKYQNLLPLFVGHNMLLVSEEPKVKEMVRILRTVPFLPLLGGCIDDTILSRQGFINYSKLPSLPLVQGELVGGLTCLTAQTHSLLQHQPLQLTTLLDQYIREQREKDSVMSANGKPDPDTVPDS",
+            "entity_poly_seq_length": 261,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "The N-terminal domain of Ribosomal protein L11 adopts an  alpha/beta fold and is followed by the RNA binding C-terminal domain.",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L11, N-terminal domain",
+                "Ribosomal protein L11, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03946",
+                "PF00298"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y3B7"
+            ],
+            "rcsb_pdbx_description": "uL11m",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MSKLGRAARGLRKPEVGGVIRAIVRAGLAMPGPPLGPVLGQRGVSINQFCKEFNERTKDIKEGIPLPTKILVKPDRTFEIKIGQPTVSYFLKAAAGIEKGARQTGKEVAGLVTLKHVYEIARIKAQDEAFALQDVPLSSVVRSIIGSARSLGIRVVKDLSSEELAAFQKERAIFLAAQKEADLAAQEEAAKK",
+            "entity_poly_seq_one_letter_code_can": "MSKLGRAARGLRKPEVGGVIRAIVRAGLAMPGPPLGPVLGQRGVSINQFCKEFNERTKDIKEGIPLPTKILVKPDRTFEIKIGQPTVSYFLKAAAGIEKGARQTGKEVAGLVTLKHVYEIARIKAQDEAFALQDVPLSSVVRSIIGSARSLGIRVVKDLSSEELAAFQKERAIFLAAQKEADLAAQEEAAKK",
+            "entity_poly_seq_length": 192,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BYD1"
+            ],
+            "rcsb_pdbx_description": "uL13m",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MSSFSRAPQQWATFARIWYLLDGKMQPPGKLAAMASIRLQGLHKPVYHALSDCGDHVVIMNTRHIAFSGNKWEQKVYSSHTGYPGGFRQVTAAQLHLRDPVAIVKLAIYGMLPKNLHRRTMMERLHLFPDEYIPEDILKNLVEELPQPRKIPKRLDEYTQEEIDAFPRLWTPPEDYRL",
+            "entity_poly_seq_one_letter_code_can": "MSSFSRAPQQWATFARIWYLLDGKMQPPGKLAAMASIRLQGLHKPVYHALSDCGDHVVIMNTRHIAFSGNKWEQKVYSSHTGYPGGFRQVTAAQLHLRDPVAIVKLAIYGMLPKNLHRRTMMERLHLFPDEYIPEDILKNLVEELPQPRKIPKRLDEYTQEEIDAFPRLWTPPEDYRL",
+            "entity_poly_seq_length": 178,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q6P1L8"
+            ],
+            "rcsb_pdbx_description": "uL14m",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MAFFTGLWGPFTCVSRVLSHHCFSTTGSLSAIQKMTRVRVVDNSALGNSPYHRAPRCIHVYKKNGVGKVGDQILLAIKGQKKKALIVGHCMPGPRMTPRFDSNNVVLIEDNGNPVGTRIKTPIPTSLRKREGEYSKVLAIAQNFV",
+            "entity_poly_seq_one_letter_code_can": "MAFFTGLWGPFTCVSRVLSHHCFSTTGSLSAIQKMTRVRVVDNSALGNSPYHRAPRCIHVYKKNGVGKVGDQILLAIKGQKKKALIVGHCMPGPRMTPRFDSNNVVLIEDNGNPVGTRIKTPIPTSLRKREGEYSKVLAIAQNFV",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9P015"
+            ],
+            "rcsb_pdbx_description": "uL15m",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MAGPLQGGGARALDLLRGLPRVSLANLKPNPGSKKPERRPRGRRRGRKCGRGHKGERQRGTRPRLGFEGGQTPFYIRIPKYGFNEGHSFRRQYKPLSLNRLQYLIDLGRVDPSQPIDLTQLVNGRGVTIQPLKRDYGVQLVEEGADTFTAKVNIEVQLASELAIAAIEKNGGVVTTAFYDPRSLDIVCKPVPFFLRGQPIPKRMLPPEELVPYYTDAKNRGYLADPAKFPEARLELARKYGYILPDITKDELFKMLCTRKDPRQIFFGLAPGWVVNMADKKILKPTDENLLKYYTS",
+            "entity_poly_seq_one_letter_code_can": "MAGPLQGGGARALDLLRGLPRVSLANLKPNPGSKKPERRPRGRRRGRKCGRGHKGERQRGTRPRLGFEGGQTPFYIRIPKYGFNEGHSFRRQYKPLSLNRLQYLIDLGRVDPSQPIDLTQLVNGRGVTIQPLKRDYGVQLVEEGADTFTAKVNIEVQLASELAIAAIEKNGGVVTTAFYDPRSLDIVCKPVPFFLRGQPIPKRMLPPEELVPYYTDAKNRGYLADPAKFPEARLELARKYGYILPDITKDELFKMLCTRKDPRQIFFGLAPGWVVNMADKKILKPTDENLLKYYTS",
+            "entity_poly_seq_length": 296,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NX20"
+            ],
+            "rcsb_pdbx_description": "uL16m",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MWRLLARASAPLLRVPLSDSWALLPASAGVKTLLPVPSFEDVSIPEKPKLRFIERAPLVPKVRREPKNLSDIRGPSTEATEFTEGNFAILALGGGYLHWGHFEMMRLTINRSMDPKNMFAIWRVPAPFKPITRKSVGHRMGGGKGAIDHYVTPVKAGRLVVEMGGRCEFEEVQGFLDQVAHKLPFAAKAVSRGTLEKMRKDQEERERNNQNPWTFERIATANMLGIRKVLSPYDLTHKGKYWGKFYMPKRV",
+            "entity_poly_seq_one_letter_code_can": "MWRLLARASAPLLRVPLSDSWALLPASAGVKTLLPVPSFEDVSIPEKPKLRFIERAPLVPKVRREPKNLSDIRGPSTEATEFTEGNFAILALGGGYLHWGHFEMMRLTINRSMDPKNMFAIWRVPAPFKPITRKSVGHRMGGGKGAIDHYVTPVKAGRLVVEMGGRCEFEEVQGFLDQVAHKLPFAAKAVSRGTLEKMRKDQEERERNNQNPWTFERIATANMLGIRKVLSPYDLTHKGKYWGKFYMPKRV",
+            "entity_poly_seq_length": 251,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L17"
+            ],
+            "pfam_accessions": [
+                "PF01196"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NRX2"
+            ],
+            "rcsb_pdbx_description": "bL17m",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MRLSVAAAISHGRVFRRMGLGPESRIHLLRNLLTGLVRHERIEAPWARVDEMRGYAEKLIDYGKLGDTNERAMRMADFWLTEKDLIPKLFQVLAPRYKDQTGGYTRMLQIPNRSLDRAKMAVIEYKGNCLPPLPLPRRDSHLTLLNQLLQGLRQDLRQSQEASNHSSHTAQTPGI",
+            "entity_poly_seq_one_letter_code_can": "MRLSVAAAISHGRVFRRMGLGPESRIHLLRNLLTGLVRHERIEAPWARVDEMRGYAEKLIDYGKLGDTNERAMRMADFWLTEKDLIPKLFQVLAPRYKDQTGGYTRMLQIPNRSLDRAKMAVIEYKGNCLPPLPLPRRDSHLTLLNQLLQGLRQDLRQSQEASNHSSHTAQTPGI",
+            "entity_poly_seq_length": 175,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes the large subunit ribosomal proteins from bacteria, archaea, the mitochondria and the chloroplast. It does not include the 60S L18 or L5 proteins from Metazoa."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast"
+            ],
+            "pfam_accessions": [
+                "PF00861"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "A8K9D2"
+            ],
+            "rcsb_pdbx_description": "uL18m",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MALRSQFWGFSVCRNPGCRFAALSTSSEPAAKPEVDPVENEAVAPEFTNRNPRNLELLSVARKERGWRTVFPSREFWHRLRVIRTQHHVEALVEHQNGKVVVSASTREWAIKKHLYSTRNVVACESIGRVLAQRCLEAGINFMVYQPTPWEAASDSMKRLQSAMTEGGVVLREPQRIYE",
+            "entity_poly_seq_one_letter_code_can": "MALRSQFWGFSVCRNPGCRFAALSTSSEPAAKPEVDPVENEAVAPEFTNRNPRNLELLSVARKERGWRTVFPSREFWHRLRVIRTQHHVEALVEHQNGKVVVSASTREWAIKKHLYSTRNVVACESIGRVLAQRCLEAGINFMVYQPTPWEAASDSMKRLQSAMTEGGVVLREPQRIYE",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19"
+            ],
+            "pfam_accessions": [
+                "PF01245"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P49406"
+            ],
+            "rcsb_pdbx_description": "bL19m",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MAACIAAGHWAAMGLGRSFQAARTLLPPPASIACRVHAGPVRQQSTGPSEPGAFQPPPKPVIVDKHRPVEPERRFLSPEFIPRRGRTDPLKFQIERKDMLERRKVLHIPEFYVGSILRVTTADPYASGKISQFLGICIQRSGRGLGATFILRNVIEGQGVEICFELYNPRVQEIQVVKLEKRLDDSLLYLRDALPEYSTFDVNMKPVVQEPNQKVPVNELKVKMKPKPWSKRWERPNFNIKGIRFDLCLTEQQMKEAQKWNQPWLEFDMMREYDTSKIEAAIWKEIEASKRS",
+            "entity_poly_seq_one_letter_code_can": "MAACIAAGHWAAMGLGRSFQAARTLLPPPASIACRVHAGPVRQQSTGPSEPGAFQPPPKPVIVDKHRPVEPERRFLSPEFIPRRGRTDPLKFQIERKDMLERRKVLHIPEFYVGSILRVTTADPYASGKISQFLGICIQRSGRGLGATFILRNVIEGQGVEICFELYNPRVQEIQVVKLEKRLDDSLLYLRDALPEYSTFDVNMKPVVQEPNQKVPVNELKVKMKPKPWSKRWERPNFNIKGIRFDLCLTEQQMKEAQKWNQPWLEFDMMREYDTSKIEAAIWKEIEASKRS",
+            "entity_poly_seq_length": 292,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L20"
+            ],
+            "pfam_accessions": [
+                "PF00453"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BYC9"
+            ],
+            "rcsb_pdbx_description": "bL20m",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MVFLTAQLWLRNRVTDRYFRIQEVLKHARHFRGRKNRCYRLAVRTVIRAFVKCTKARYLKKKNMRTLWINRITAASQEHGLKYPALIGNLVKCQVELNRKVLADLAIYEPKTFKSLAALASRRRHEGFAAALGDGKEPEGIFSRVVQYH",
+            "entity_poly_seq_one_letter_code_can": "MVFLTAQLWLRNRVTDRYFRIQEVLKHARHFRGRKNRCYRLAVRTVIRAFVKCTKARYLKKKNMRTLWINRITAASQEHGLKYPALIGNLVKCQVELNRKVLADLAIYEPKTFKSLAALASRRRHEGFAAALGDGKEPEGIFSRVVQYH",
+            "entity_poly_seq_length": 149,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal prokaryotic L21 protein"
+            ],
+            "pfam_accessions": [
+                "PF00829"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q7Z2W9"
+            ],
+            "rcsb_pdbx_description": "bL21m",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MAASSLTVTLGRLASACSHSILRPSGPGAASLWSASRRFNSQSTSYLPGYVPKTSLSSPPWPEVVLPDPVEETRHHAEVVKKVNEMIVTGQYGRLFAVVHFASRQWKVTSEDLILIGNELDLACGERIRLEKVLLVGADNFTLLGKPLLGKDLVRVEATVIEKTESWPRIIMRFRKRKNFKKKRIVTTPQTVLRINSIEIAPCLL",
+            "entity_poly_seq_one_letter_code_can": "MAASSLTVTLGRLASACSHSILRPSGPGAASLWSASRRFNSQSTSYLPGYVPKTSLSSPPWPEVVLPDPVEETRHHAEVVKKVNEMIVTGQYGRLFAVVHFASRQWKVTSEDLILIGNELDLACGERIRLEKVLLVGADNFTLLGKPLLGKDLVRVEATVIEKTESWPRIIMRFRKRKNFKKKRIVTTPQTVLRINSIEIAPCLL",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "E7ESL0"
+            ],
+            "rcsb_pdbx_description": "uL22m",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MAAAVLGQLGALWIHNLRSRGKLALGLLSFHSVLPQSYIHTSASLDISRKWEKKNKIVYPPQLPGEPRRPAEIYHCRRQIKYSKDKMWYLAKLIRGMSIDQALAQLEFNDKKGAKIIKEVLLEAQDMAVRDHNVEFRSNLYIAESTSGRGQCLKRIRYHGRGRFGIMEKVYCHYFVKLVEGPPPPPEPPKTAVAHAKEYIQQLRSRTIVHTL",
+            "entity_poly_seq_one_letter_code_can": "MAAAVLGQLGALWIHNLRSRGKLALGLLSFHSVLPQSYIHTSASLDISRKWEKKNKIVYPPQLPGEPRRPAEIYHCRRQIKYSKDKMWYLAKLIRGMSIDQALAQLEFNDKKGAKIIKEVLLEAQDMAVRDHNVEFRSNLYIAESTSGRGQCLKRIRYHGRGRFGIMEKVYCHYFVKLVEGPPPPPEPPKTAVAHAKEYIQQLRSRTIVHTL",
+            "entity_poly_seq_length": 212,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q16540"
+            ],
+            "rcsb_pdbx_description": "uL23m",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MARNVVYPLYRLGGPQLRVFRTNFFIQLVRPGVAQPEDTVQFRIPMEMTRVDLRNYLEGIYNVPVAAVRTRVQHGSNKRRDHRNVRIKKPDYKVAYVQLAHGQTFTFPDLFPEKDESPEGSAADDLYSMLEEERQQRQSSDPRRGGVPSWFGL",
+            "entity_poly_seq_one_letter_code_can": "MARNVVYPLYRLGGPQLRVFRTNFFIQLVRPGVAQPEDTVQFRIPMEMTRVDLRNYLEGIYNVPVAAVRTRVQHGSNKRRDHRNVRIKKPDYKVAYVQLAHGQTFTFPDLFPEKDESPEGSAADDLYSMLEEERQQRQSSDPRRGGVPSWFGL",
+            "entity_poly_seq_length": 153,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This is the family of bacterial 50S ribosomal subunit proteins L24. It also carries some mitochondrial 39S L24 proteins.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S L24/mitochondrial 39S L24",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF17136",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96A35"
+            ],
+            "rcsb_pdbx_description": "uL24m",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MRLSALLALASKVTLPPHYRYGMSPPGSVADKRKNPPWIRRRPVVVEPISDEDWYLFCGDTVEILEGKDAGKQGKVVQVIRQRNWVVVGGLNTHYRYIGKTMDYRGTMIPSEAPLLHRQVKLVDPMDRKPTEIEWRFTEAGERVRVSTRSGRIIPKPEFPRADGIVPETWIDGPKDTSVEDALERTYVPCLKTLQEEVMEAMGIKETRKYKKVYWY",
+            "entity_poly_seq_one_letter_code_can": "MRLSALLALASKVTLPPHYRYGMSPPGSVADKRKNPPWIRRRPVVVEPISDEDWYLFCGDTVEILEGKDAGKQGKVVQVIRQRNWVVVGGLNTHYRYIGKTMDYRGTMIPSEAPLLHRQVKLVDPMDRKPTEIEWRFTEAGERVRVSTRSGRIIPKPEFPRADGIVPETWIDGPKDTSVEDALERTYVPCLKTLQEEVMEAMGIKETRKYKKVYWY",
+            "entity_poly_seq_length": 216,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27 protein"
+            ],
+            "pfam_accessions": [
+                "PF01016"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9P0M9"
+            ],
+            "rcsb_pdbx_description": "bL27m",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MASVVLALRTRTAVTSLLSPTPATALAVRYASKKSGGSSKNLGGKSSGRRQGIKKMEGHYVHAGNIIATQRHFRWHPGAHVGVGKNKCLYALEEGIVRYTKEVYVPHPRNTEAVDLITRLPKGAVLYKTFVHVVPAKPEGTFKLVAML",
+            "entity_poly_seq_one_letter_code_can": "MASVVLALRTRTAVTSLLSPTPATALAVRYASKKSGGSSKNLGGKSSGRRQGIKKMEGHYVHAGNIIATQRHFRWHPGAHVGVGKNKCLYALEEGIVRYTKEVYVPHPRNTEAVDLITRLPKGAVLYKTFVHVVPAKPEGTFKLVAML",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "bL28m",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MPLHKYPVWLWKRLQLREGICSRLPGHYLRSLEEERTPTPVHYRPHGAKFKINPKNGQRERVEDVPIPIYFPPESQRGLWGGEGWILGQIYANNDKLSKRLKKVWKPQLFEREFYSEILDKKFTVTVTMRTLDLIDEAYGLDFYILKASGEDLCSKFGMDLKRGMLLRLARQDPQLHPEDPERRAAIYDKYKEFAIPEEEAEWVGLTLEEAIEKQRLLEEKDPVPLFKIYVAELIQQLQQQALSEPAVVQKRASGQ",
+            "entity_poly_seq_one_letter_code_can": "MPLHKYPVWLWKRLQLREGICSRLPGHYLRSLEEERTPTPVHYRPHGAKFKINPKNGQRERVEDVPIPIYFPPESQRGLWGGEGWILGQIYANNDKLSKRLKKVWKPQLFEREFYSEILDKKFTVTVTMRTLDLIDEAYGLDFYILKASGEDLCSKFGMDLKRGMLLRLARQDPQLHPEDPERRAAIYDKYKEFAIPEEEAEWVGLTLEEAIEKQRLLEEKDPVPLFKIYVAELIQQLQQQALSEPAVVQKRASGQ",
+            "entity_poly_seq_length": 256,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family represents the N-terminal region (approximately 8 residues) of the eukaryotic mitochondrial 39-S ribosomal protein L47 (MRP-L47). Mitochondrial ribosomal proteins (MRPs) are the counterparts of the cytoplasmic ribosomal proteins, in that they fulfil similar functions in protein biosynthesis. However, they are distinct in number, features and primary structure [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 39-S ribosomal protein L47 (MRP-L47)"
+            ],
+            "pfam_accessions": [
+                "PF06984"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9HD33"
+            ],
+            "rcsb_pdbx_description": "uL29m",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MAAAGLALLCRRVSSALKSSRSLITPQVPACTGFFLSLLPKSTPNVTSFHQYRLLHTTLSRKGLEEFFDDPKNWGQEKVKSGAAWTCQQLRNKSNEDLHKLWYVLLKERNMLLTLEQEAKRQRLPMPSPERLDKVVDSMDALDKVVQEREDALRLLQTGQERARPGAWRRDIFGRIIWHKFKQWVIPWHLNKRYNRKRFFALPYVDHFLRLEREKRARIKARKENLERKKAKILLKKFPHLAEAQKSSLV",
+            "entity_poly_seq_one_letter_code_can": "MAAAGLALLCRRVSSALKSSRSLITPQVPACTGFFLSLLPKSTPNVTSFHQYRLLHTTLSRKGLEEFFDDPKNWGQEKVKSGAAWTCQQLRNKSNEDLHKLWYVLLKERNMLLTLEQEAKRQRLPMPSPERLDKVVDSMDALDKVVQEREDALRLLQTGQERARPGAWRRDIFGRIIWHKFKQWVIPWHLNKRYNRKRFFALPYVDHFLRLEREKRARIKARKENLERKKAKILLKKFPHLAEAQKSSLV",
+            "entity_poly_seq_length": 250,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q8TCC3"
+            ],
+            "rcsb_pdbx_description": "uL30m",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MAGILRLVVQWPPGRLQTVTKGVESLICTDWIRHKFTRSRIPEKVFQASPEDHEKYGGDPQNPHKLHIVTRIKSTRRRPYWEKDIIKMLGLEKAHTPQVHKNIPSVNAKLKVVKHLIRIKPLKLPQGLPAEENMSNTCLKSTGELVVQWHLKPVEQKAHES",
+            "entity_poly_seq_one_letter_code_can": "MAGILRLVVQWPPGRLQTVTKGVESLICTDWIRHKFTRSRIPEKVFQASPEDHEKYGGDPQNPHKLHIVTRIKSTRRRPYWEKDIIKMLGLEKAHTPQVHKNIPSVNAKLKVVKHLIRIKPLKLPQGLPAEENMSNTCLKSTGELVVQWHLKPVEQKAHES",
+            "entity_poly_seq_length": 161,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L32p protein family"
+            ],
+            "pfam_accessions": [
+                "PF01783"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BYC8"
+            ],
+            "rcsb_pdbx_description": "bL32m",
+            "entity_poly_strand_id": "0",
+            "entity_poly_seq_one_letter_code": "MALAMLVLVVSPWSAARGVLRNYWERLLRKLPQSRPGFPSPPWGPALAVQGPAMFTEPANDTSGSKENSSLLDSIFWMAAPKNRRTIEVNRCRRRNPQKLIKVKNNIDVCPECGHLKQKHVLCAYCYEKVCKETAEIRRQIGKQEGGPFKAPTIETVVLYTGETPSEQDQGKRIIERDRKRPSWFTQN",
+            "entity_poly_seq_one_letter_code_can": "MALAMLVLVVSPWSAARGVLRNYWERLLRKLPQSRPGFPSPPWGPALAVQGPAMFTEPANDTSGSKENSSLLDSIFWMAAPKNRRTIEVNRCRRRNPQKLIKVKNNIDVCPECGHLKQKHVLCAYCYEKVCKETAEIRRQIGKQEGGPFKAPTIETVVLYTGETPSEQDQGKRIIERDRKRPSWFTQN",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L33"
+            ],
+            "pfam_accessions": [
+                "PF00471"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "O75394"
+            ],
+            "rcsb_pdbx_description": "bL33m",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "MFLSAVFFAKSKSKNILVRMVSEAGTGFCFNTKRNRLREKLTLLHYDPVVKQRVLFVEKKKIRSL",
+            "entity_poly_seq_one_letter_code_can": "MFLSAVFFAKSKSKNILVRMVSEAGTGFCFNTKRNRLREKLTLLHYDPVVKQRVLFVEKKKIRSL",
+            "entity_poly_seq_length": 65,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34"
+            ],
+            "pfam_accessions": [
+                "PF00468"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BQ48"
+            ],
+            "rcsb_pdbx_description": "bL34m",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQARGKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH",
+            "entity_poly_seq_one_letter_code_can": "MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQARGKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35"
+            ],
+            "pfam_accessions": [
+                "PF01632"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NZE8"
+            ],
+            "rcsb_pdbx_description": "bL35m",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "MAASAFAGAVRAASGILRPLNILASSTYRNCVKNASLISALSTGRFSHIQTPVVSSTPRLTTSERNLTCGHTSVILNRMAPVLPSVLKLPVRSLTYFSARKGKRKTVKAVIDRFLRLHCGLWVRRKAGYKKKLWKKTPARKKRLREFVFCNKTQSKLLDKMTTSFWKRRNWYVDDPYQKYHDRTNLKV",
+            "entity_poly_seq_one_letter_code_can": "MAASAFAGAVRAASGILRPLNILASSTYRNCVKNASLISALSTGRFSHIQTPVVSSTPRLTTSERNLTCGHTSVILNRMAPVLPSVLKLPVRSLTYFSARKGKRKTVKAVIDRFLRLHCGLWVRRKAGYKKKLWKKTPARKKRLREFVFCNKTQSKLLDKMTTSFWKRRNWYVDDPYQKYHDRTNLKV",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL35"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family consists of several eukaryotic mitochondrial 28S ribosomal protein S30 (or programmed cell death protein 9 PDCD9) sequences. The exact function of this family is unknown although it is known to be a component of the mitochondrial ribosome and a component in cellular apoptotic signaling pathways [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S30 (PDCD9)"
+            ],
+            "pfam_accessions": [
+                "PF07147"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BZE1"
+            ],
+            "rcsb_pdbx_description": "mL37",
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "MALASGPARRALAGSGQLGLGGFGAPRRGAYEWGVRSTRKSEPPPLDRVYEIPGLEPITFAGKMHFVPWLARPIFPPWDRGYKDPRFYRSPPLHEHPLYKDQACYIFHHRCRLLEGVKQALWLTKTKLIEGLPEKVLSLVDDPRNHIENQDECVLNVISHARLWQTTEEIPKRETYCPVIVDNLIQLCKSQILKHPSLARRICVQNSTFSATWNRESLLLQVRGSGGARLSTKDPLPTIASREEIEATKNHVLETFYPISPIIDLHECNIYDVKNDTGFQEGYPYPYPHTLYLLDKANLRPHRLQPDQLRAKMILFAFGSALAQARLLYGNDAKVLEQPVVVQSVGTDGRVFHFLVFQLNTTDLDCNEGVKNLAWVDSDQLLYQHFWCLPVIKKRVVVEPVGPVGFKPETFRKFLALYLHGAA",
+            "entity_poly_seq_one_letter_code_can": "MALASGPARRALAGSGQLGLGGFGAPRRGAYEWGVRSTRKSEPPPLDRVYEIPGLEPITFAGKMHFVPWLARPIFPPWDRGYKDPRFYRSPPLHEHPLYKDQACYIFHHRCRLLEGVKQALWLTKTKLIEGLPEKVLSLVDDPRNHIENQDECVLNVISHARLWQTTEEIPKRETYCPVIVDNLIQLCKSQILKHPSLARRICVQNSTFSATWNRESLLLQVRGSGGARLSTKDPLPTIASREEIEATKNHVLETFYPISPIIDLHECNIYDVKNDTGFQEGYPYPYPHTLYLLDKANLRPHRLQPDQLRAKMILFAFGSALAQARLLYGNDAKVLEQPVVVQSVGTDGRVFHFLVFQLNTTDLDCNEGVKNLAWVDSDQLLYQHFWCLPVIKKRVVVEPVGPVGFKPETFRKFLALYLHGAA",
+            "entity_poly_seq_length": 423,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Phosphatidylethanolamine-binding protein"
+            ],
+            "pfam_accessions": [
+                "PF01161"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96DV4"
+            ],
+            "rcsb_pdbx_description": "mL38",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "MAAPWWRAALCECRRWRGFSTSAVLGRRTPPLGPMPNSDIDLSNLERLEKYRSFDRYRRRAEQEAQAPHWWRTYREYFGEKTDPKEKIDIGLPPPKVSRTQQLLERKQAIQELRANVEEERAARLRTASVPLDAVRAEWERTCGPYHKQRLAEYYGLYRDLFHGATFVPRVPLHVAYAVGEDDLMPVYCGNEVTPTEAAQAPEVTYEAEEGSLWTLLLTSLDGHLLEPDAEYLHWLLTNIPGNRVAEGQVTCPYLPPFPARGSGIHRLAFLLFKQDQPIDFSEDARPSPCYQLAQRTFRTFDFYKKHQETMTPAGLSFFQCRWDDSVTYIFHQLLDMREPVFEFVRPPPYHPKQKRFPHRQPLRYLDRYRDSHEPTYGIY",
+            "entity_poly_seq_one_letter_code_can": "MAAPWWRAALCECRRWRGFSTSAVLGRRTPPLGPMPNSDIDLSNLERLEKYRSFDRYRRRAEQEAQAPHWWRTYREYFGEKTDPKEKIDIGLPPPKVSRTQQLLERKQAIQELRANVEEERAARLRTASVPLDAVRAEWERTCGPYHKQRLAEYYGLYRDLFHGATFVPRVPLHVAYAVGEDDLMPVYCGNEVTPTEAAQAPEVTYEAEEGSLWTLLLTSLDGHLLEPDAEYLHWLLTNIPGNRVAEGQVTCPYLPPFPARGSGIHRLAFLLFKQDQPIDFSEDARPSPCYQLAQRTFRTFDFYKKHQETMTPAGLSFFQCRWDDSVTYIFHQLLDMREPVFEFVRPPPYHPKQKRFPHRQPLRYLDRYRDSHEPTYGIY",
+            "entity_poly_seq_length": 380,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NYK5"
+            ],
+            "rcsb_pdbx_description": "mL39",
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "MEALAMGSRALRLWLVAPGGGIKWRFIATSSASQLSPTELTEMRNDLFNKEKARQLSLTPRTEKIEVKHVGKTDPGTVFVMNKNISTPYSCAMHLSEWYCRKSILALVDGQPWDMYKPLTKSCEIKFLTFKDCDPGEVNKAYWRSCAMMMGCVIERAFKDEYMVNLVRAPEVPVISGAFCYDVVLDSKLDEWMPTKENLRSFTKDAHALIYKDLPFETLEVEAKVALEIFQHSKYKVDFIEEKASQNPERIVKLHRIGDFIDVSEGPLIPRTSICFQYEVSAVHNLQPTQPSLIRRFQGVSLPVHLRAHFTIWDKLLERSRKMVTEDQSKATEECTST",
+            "entity_poly_seq_one_letter_code_can": "MEALAMGSRALRLWLVAPGGGIKWRFIATSSASQLSPTELTEMRNDLFNKEKARQLSLTPRTEKIEVKHVGKTDPGTVFVMNKNISTPYSCAMHLSEWYCRKSILALVDGQPWDMYKPLTKSCEIKFLTFKDCDPGEVNKAYWRSCAMMMGCVIERAFKDEYMVNLVRAPEVPVISGAFCYDVVLDSKLDEWMPTKENLRSFTKDAHALIYKDLPFETLEVEAKVALEIFQHSKYKVDFIEEKASQNPERIVKLHRIGDFIDVSEGPLIPRTSICFQYEVSAVHNLQPTQPSLIRRFQGVSLPVHLRAHFTIWDKLLERSRKMVTEDQSKATEECTST",
+            "entity_poly_seq_length": 338,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Members of this family are components of the mitochondrial large ribosomal subunit.  Mature mitochondrial ribosomes consist of a small (37S) and a large (54S) subunit. The 37S subunit contains at least 33 different proteins and 1 molecule of RNA (15S). The 54S subunit contains at least 45 different proteins and 1 molecule of RNA (21S) [1][2]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L28"
+            ],
+            "pfam_accessions": [
+                "PF09812"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NQ50"
+            ],
+            "rcsb_pdbx_description": "mL40",
+            "entity_poly_strand_id": "8",
+            "entity_poly_seq_one_letter_code": "MTASVLRSISLALRPTSGLLGTWQTQLRETHQRASLLSFWELIPMRSEPLRKKKKVDPKKDQEAKERLKRKIRKLEKATQELIPIEDFITPLKFLDKARERPQVELTFEETERRALLLKKWSLYKQQERKMERDTIRAMLEAQQEALEELQLESPKLHAEAIKRDPNLFPFEKEGPHYTPPIPNYQPPEGRYNDITKVYTQVEFKR",
+            "entity_poly_seq_one_letter_code_can": "MTASVLRSISLALRPTSGLLGTWQTQLRETHQRASLLSFWELIPMRSEPLRKKKKVDPKKDQEAKERLKRKIRKLEKATQELIPIEDFITPLKFLDKARERPQVELTFEETERRALLLKKWSLYKQQERKMERDTIRAMLEAQQEALEELQLESPKLHAEAIKRDPNLFPFEKEGPHYTPPIPNYQPPEGRYNDITKVYTQVEFKR",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Members of this family of proteins are components of the mitochondrial ribosome large subunit. They are also involved in apoptosis and cell cycle regulation."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L27"
+            ],
+            "pfam_accessions": [
+                "PF09809"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q8IXM3"
+            ],
+            "rcsb_pdbx_description": "mL41",
+            "entity_poly_strand_id": "9",
+            "entity_poly_seq_one_letter_code": "MGVLAAAARCLVRGADRMSKWTSKRGPRSFRGRKGRGAKGIGFLTSGWRFVQIKEMVPEFVVPDLTGFKLKPYVSYLAPESEETPLTAAQLFSEAVAPAIEKDFKDGTFDPDNLEKYGFEPTQEGKLFQLYPRNFLR",
+            "entity_poly_seq_one_letter_code_can": "MGVLAAAARCLVRGADRMSKWTSKRGPRSFRGRKGRGAKGIGFLTSGWRFVQIKEMVPEFVVPDLTGFKLKPYVSYLAPESEETPLTAAQLFSEAVAPAIEKDFKDGTFDPDNLEKYGFEPTQEGKLFQLYPRNFLR",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This entry is of a family of short, approximately 100 amino acid residues, proteins which are mitochondrial 28S ribosomal proteins named as MRP-S32.        Their exact function could not be confirmed."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S32"
+            ],
+            "pfam_accessions": [
+                "PF10210"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y6G3"
+            ],
+            "rcsb_pdbx_description": "mL42",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MAVAAVKWVMSKRTILKHLFPVQNGALYCVCHKSTYSPLPDDYNCNVELALTSDGRTIVCYHPSVDIPYEHTKPIPRPDPVHNNEETHDQVLKTRLEEKVEHLEEGPMIEQLSKMFFTTKHRWYPHGRYHRCRKNLNPPKDR",
+            "entity_poly_seq_one_letter_code_can": "MAVAAVKWVMSKRTILKHLFPVQNGALYCVCHKSTYSPLPDDYNCNVELALTSDGRTIVCYHPSVDIPYEHTKPIPRPDPVHNNEETHDQVLKTRLEEKVEHLEEGPMIEQLSKMFFTTKHRWYPHGRYHRCRKNLNPPKDR",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "The proteins in this family are located in the mitochondrion. The family includes ribosomal protein L51, and S25. This family also includes mitochondrial NADH-ubiquinone oxidoreductase B8 subunit (CI-B8) EC:1.6.5.3. It is not known whether all members of this family form part of the NADH-ubiquinone oxidoreductase and whether they are also all ribosomal proteins. Structurally related to thioredoxin-fold."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain"
+            ],
+            "pfam_accessions": [
+                "PF05047"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q8N983"
+            ],
+            "rcsb_pdbx_description": "mL43",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MTARGTPSRFLASVLHNGLGRYVQQLQRLSFSVSRDGASSRGAREFVEREVIDFARRNPGVVIYVNSRPCCVPRVVAEYLNGAVREESIHCKSVEEISTLVQKLADQSGLDVIRIRKPFHTDNPSIQGQWHPFTNKPTTFRGLRPREVQDPAPAQ",
+            "entity_poly_seq_one_letter_code_can": "MTARGTPSRFLASVLHNGLGRYVQQLQRLSFSVSRDGASSRGAREFVEREVIDFARRNPGVVIYVNSRPCCVPRVVAEYLNGAVREESIHCKSVEEISTLVQKLADQSGLDVIRIRKPFHTDNPSIQGQWHPFTNKPTTFRGLRPREVQDPAPAQ",
+            "entity_poly_seq_length": 155,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9H9J2"
+            ],
+            "rcsb_pdbx_description": "mL44",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MASGLVRLLQQGHRCLLAPVAPKLVPPVRGVKKGFRAAFRFQKELERQRLLRCPPPPVRRSEKPNWDYHAEIQAFGHRLQENFSLDLLKTAFVNSCYIKSEEAKRQQLGIEKEAVLLNLKSNQELSEQGTSFSQTCLTQFLEDEYPDMPTEGIKNLVDFLTGEEVVCHVARNLAVEQLTLSEEFPVPPAVLQQTFFAVIGALLQSSGPERTALFIRDFLITQMTGKELFEMWKIINPMGLLVEELKKRNVSAPESRLTRQSGGTTALPLYFVGLYCDKKLIAEGPGETVLVAEEEAARVALRKLYGFTENRRPWNYSKPKETLRAEKSITAS",
+            "entity_poly_seq_one_letter_code_can": "MASGLVRLLQQGHRCLLAPVAPKLVPPVRGVKKGFRAAFRFQKELERQRLLRCPPPPVRRSEKPNWDYHAEIQAFGHRLQENFSLDLLKTAFVNSCYIKSEEAKRQQLGIEKEAVLLNLKSNQELSEQGTSFSQTCLTQFLEDEYPDMPTEGIKNLVDFLTGEEVVCHVARNLAVEQLTLSEEFPVPPAVLQQTFFAVIGALLQSSGPERTALFIRDFLITQMTGKELFEMWKIINPMGLLVEELKKRNVSAPESRLTRQSGGTTALPLYFVGLYCDKKLIAEGPGETVLVAEEEAARVALRKLYGFTENRRPWNYSKPKETLRAEKSITAS",
+            "entity_poly_seq_length": 332,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Tim44 is an essential component of the machinery that mediates the translocation of nuclear-encoded proteins across the mitochondrial inner membrane [1].  Tim44 is thought to bind phospholipids of the mitochondrial inner membrane both by electrostatic interactions and by penetrating the polar head group region [1].  This family includes the C-terminal region of Tim44 that has been shown to form a stable proteolytic fragment in yeast.  This region is also found in a set of smaller bacterial proteins. The molecular function of the bacterial members of this family is unknown but transport seems likely. The crystal structure of the C terminal of Tim44 has revealed a large hydrophobic pocket which might play an important role in interacting with the acyl chains of lipid molecules in the mitochondrial membrane [3]."
+            ],
+            "pfam_descriptions": [
+                "Tim44-like domain"
+            ],
+            "pfam_accessions": [
+                "PF04280"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BRJ2"
+            ],
+            "rcsb_pdbx_description": "mL45",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MAAPIPQGFSCLSRFLGWWFRQPVLVTQSAAIVPVRTKKRFTPPIYQPKFKTEKEFMQHARKAGLVIPPEKSDRSIHLACTAGIFDAYVPPEGDARISSLSKEGLIERTERMKKTMASQVSIRRIKDYDANFKIKDFPEKAKDIFIEAHLCLNNSDHDRLHTLVTEHCFPDMTWDIKYKTVRWSFVESLEPSHVVQVRCSSMMNQGNVYGQITVRMHTRQTLAIYDRFGRLMYGQEDVPKDVLEYVVFEKQLTNPYGSWRMHTKIVPPWAPPKQPILKTVMIPGPQLKPEEEYEEAQGEAQKPQLA",
+            "entity_poly_seq_one_letter_code_can": "MAAPIPQGFSCLSRFLGWWFRQPVLVTQSAAIVPVRTKKRFTPPIYQPKFKTEKEFMQHARKAGLVIPPEKSDRSIHLACTAGIFDAYVPPEGDARISSLSKEGLIERTERMKKTMASQVSIRRIKDYDANFKIKDFPEKAKDIFIEAHLCLNNSDHDRLHTLVTEHCFPDMTWDIKYKTVRWSFVESLEPSHVVQVRCSSMMNQGNVYGQITVRMHTRQTLAIYDRFGRLMYGQEDVPKDVLEYVVFEKQLTNPYGSWRMHTKIVPPWAPPKQPILKTVMIPGPQLKPEEEYEEAQGEAQKPQLA",
+            "entity_poly_seq_length": 306,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This is the L46 subunit of the mammalian mitochondrial ribosome, conserved from plants and fungi."
+            ],
+            "pfam_descriptions": [
+                "39S mitochondrial ribosomal protein L46"
+            ],
+            "pfam_accessions": [
+                "PF11788"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9H2W6"
+            ],
+            "rcsb_pdbx_description": "mL46",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MAAPVRRTLLGVAGGWRRFERLWAGSLSSRSLALAAAPSSNGSPWRLLGALCLQRPPVVSKPLTPLQEEMASLLQQIEIERSLYSDHELRALDENQRLAKKKADLHDEEDEQDILLAQDLEDMWEQKFLQFKLGARITEADEKNDRTSLNRKLDRNLVLLVREKFGDQDVWILPQAEWQPGETLRGTAERTLATLSENNMEAKFLGNAPCGHYTFKFPQAMRTESNLGAKVFFFKALLLTGDFSQAGNKGHHVWVTKDELGDYLKPKYLAQVRRFVSDL",
+            "entity_poly_seq_one_letter_code_can": "MAAPVRRTLLGVAGGWRRFERLWAGSLSSRSLALAAAPSSNGSPWRLLGALCLQRPPVVSKPLTPLQEEMASLLQQIEIERSLYSDHELRALDENQRLAKKKADLHDEEDEQDILLAQDLEDMWEQKFLQFKLGARITEADEKNDRTSLNRKLDRNLVLLVREKFGDQDVWILPQAEWQPGETLRGTAERTLATLSENNMEAKFLGNAPCGHYTFKFPQAMRTESNLGAKVFFFKALLLTGDFSQAGNKGHHVWVTKDELGDYLKPKYLAQVRRFVSDL",
+            "entity_poly_seq_length": 279,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family of proteins have been identified as part of the mitochondrial large ribosomal subunit in yeast [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial large subunit ribosomal protein (Img2)"
+            ],
+            "pfam_accessions": [
+                "PF05046"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q13405"
+            ],
+            "rcsb_pdbx_description": "mL49",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MAATMFRATLRGWRTGVQRGCGLRLLSQTQGPPDYPRFVESVDEYQFVERLLPATRIPDPPKHEHYPTPSGWQPPRDPPPNLPYFVRRSRMHNIPVYKDITHGNRQMTVIRKVEGDIWALQKDVEDFLSPLLGKTPVTQVNEVTGTLRIKGYFDQELKAWLLEKGF",
+            "entity_poly_seq_one_letter_code_can": "MAATMFRATLRGWRTGVQRGCGLRLLSQTQGPPDYPRFVESVDEYQFVERLLPATRIPDPPKHEHYPTPSGWQPPRDPPPNLPYFVRRSRMHNIPVYKDITHGNRQMTVIRKVEGDIWALQKDVEDFLSPLLGKTPVTQVNEVTGTLRIKGYFDQELKAWLLEKGF",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "The 39S ribosomal protein appears to be a subunit of one of the larger mitochondrial 66S or 70S units [1]. Under conditions of ethanol-stress in rats the larger subunit is largely dissociated into its smaller components [2]. In E. coli, in the absence of the enzyme pseudouridine synthase (RluD) synthase, there is an accumulation of 50S and 30S subunits and the appearance of abnormal particles (62S and 39S), with concomitant loss of 70S ribosomes [2]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal subunit 39S"
+            ],
+            "pfam_accessions": [
+                "PF10501"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q8N5N7"
+            ],
+            "rcsb_pdbx_description": "mL50",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MAARSVSGITRRVFMWTVSGTPCREFWSRFRKEKEPVVVETVEEKKEPILVCPPLRSRAYTPPEDLQSRLESYVKEVFGSSLPSNWQDISLEDSRLKFNLLAHLADDLGHVVPNSRLHQMCRVRDVLDFYNVPIQDRSKFDELSASNLPPNLKITWSY",
+            "entity_poly_seq_one_letter_code_can": "MAARSVSGITRRVFMWTVSGTPCREFWSRFRKEKEPVVVETVEEKKEPILVCPPLRSRAYTPPEDLQSRLESYVKEVFGSSLPSNWQDISLEDSRLKFNLLAHLADDLGHVVPNSRLHQMCRVRDVLDFYNVPIQDRSKFDELSASNLPPNLKITWSY",
+            "entity_poly_seq_length": 158,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "MRP-L53 is also known as Mrp144. It is part of the 39S ribosome [1]."
+            ],
+            "pfam_descriptions": [
+                "39S ribosomal protein L53/MRP-L53"
+            ],
+            "pfam_accessions": [
+                "PF10780"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96EL3"
+            ],
+            "rcsb_pdbx_description": "mL53",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MAAALARLGLRPVKQVRVQFCPFEKNVESTRTFLQTVSSEKVRSTNLNCSVIADVRHDGSEPCVDVLFGDGHRLIMRGAHLTALEMLTAFASHIRARDAAGSGDKPGADTGR",
+            "entity_poly_seq_one_letter_code_can": "MAAALARLGLRPVKQVRVQFCPFEKNVESTRTFLQTVSSEKVRSTNLNCSVIADVRHDGSEPCVDVLFGDGHRLIMRGAHLTALEMLTAFASHIRARDAAGSGDKPGADTGR",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes yeast MRPL37 a mitochondrial ribosomal protein [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L37"
+            ],
+            "pfam_accessions": [
+                "PF08561"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q6P161"
+            ],
+            "rcsb_pdbx_description": "mL54",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MATKRLFGATRTWAGWGAWELLNPATSGRLLARDYAKKPVMKGAKSGKGAVTSEALKDPDVCTDPVQLTTYAMGVNIYKEGQDVPLKPDAEYPEWLFEMNLGPPKTLEELDPESREYWRRLRKQNIWRHNRLSKNKRL",
+            "entity_poly_seq_one_letter_code_can": "MATKRLFGATRTWAGWGAWELLNPATSGRLLARDYAKKPVMKGAKSGKGAVTSEALKDPDVCTDPVQLTTYAMGVNIYKEGQDVPLKPDAEYPEWLFEMNLGPPKTLEELDPESREYWRRLRKQNIWRHNRLSKNKRL",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Members of this family are involved in mitochondrial biogenesis and G2/M phase cell cycle progression. They form a component of the mitochondrial ribosome large subunit (39S) which comprises a 16S rRNA and about 50 distinct proteins."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L55"
+            ],
+            "pfam_accessions": [
+                "PF09776"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q7Z7F7"
+            ],
+            "rcsb_pdbx_description": "bL31m",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "MAAVGSLLGRLRQSTVKATGPALRRLHTSSWRADSSRASLTRVHRQAYARLYPVLLVKQDGSTIHIRYREPRRMLAMPIDLDTLSPEERRARLRKREAQLQSRKEYEQELSDDLHVERYRQFWTRTKK",
+            "entity_poly_seq_one_letter_code_can": "MAAVGSLLGRLRQSTVKATGPALRRLHTSSWRADSSRASLTRVHRQAYARLYPVLLVKQDGSTIHIRYREPRRMLAMPIDLDTLSPEERRARLRKREAQLQSRKEYEQELSDDLHVERYRQFWTRTKK",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family of proteins is present in the intact 55S subunit of the mitochondrial ribosome. It is not known if it belongs to the 28S or to the 39S subunit [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosome protein 63"
+            ],
+            "pfam_accessions": [
+                "PF14978"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BQC6"
+            ],
+            "rcsb_pdbx_description": "mL63",
+            "entity_poly_strand_id": "o",
+            "entity_poly_seq_one_letter_code": "MFLTALLWRGRIPGRQWIGKHRRPRFVSLRAKQNMIRRLEIEAENHYWLSMPYMTREQERGHAAVRRREAFEAIKAAATSKFPPHRFIADQLDHLNVTKKWS",
+            "entity_poly_seq_one_letter_code_can": "MFLTALLWRGRIPGRQWIGKHRRPRFVSLRAKQNMIRRLEIEAENHYWLSMPYMTREQERGHAAVRRREAFEAIKAAATSKFPPHRFIADQLDHLNVTKKWS",
+            "entity_poly_seq_length": 102,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This domain is found in peptide chain release factors such as RF-1 (Swiss:P07011) and RF-2 (Swiss:P07012), and a number of smaller proteins of unknown function such as Swiss:P40711. This domain contains the peptidyl-tRNA hydrolase activity. The domain contains a highly conserved motif GGQ, where the glutamine is thought to coordinate the water that mediates the hydrolysis."
+            ],
+            "pfam_descriptions": [
+                "RF-1 domain"
+            ],
+            "pfam_accessions": [
+                "PF00472"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q14197"
+            ],
+            "rcsb_pdbx_description": "mL62 (ICT1)",
+            "entity_poly_strand_id": "p",
+            "entity_poly_seq_one_letter_code": "MAATRCLRWGLSRAGVWLLPPPARCPRRALHKQKDGTEFKSIYSLDKLYPESQGSDTAWRVPNGAKQADSDIPLDRLTISYCRSSGPGGQNVNKVNSKAEVRFHLATAEWIAEPVRQKIAITHKNKINRLGELILTSESSRYQFRNLADCLQKIRDMITEASQTPKEPTKEDVKLHRIRIENMNRERLRQKRIHSAVKTSRRVDMD",
+            "entity_poly_seq_one_letter_code_can": "MAATRCLRWGLSRAGVWLLPPPARCPRRALHKQKDGTEFKSIYSLDKLYPESQGSDTAWRVPNGAKQADSDIPLDRLTISYCRSSGPGGQNVNKVNSKAEVRFHLATAEWIAEPVRQKIAITHKNKINRLGELILTSESSRYQFRNLADCLQKIRDMITEASQTPKEPTKEDVKLHRIRIENMNRERLRQKRIHSAVKTSRRVDMD",
+            "entity_poly_seq_length": 206,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Members of this family of proteins act as negative regulators of G1 to S cell cycle phase progression by inhibiting cyclin-dependent kinases. Inhibitory effects are additive with GADD45 proteins but occur also in the absence of GADD45 proteins. Furthermore, they act as a repressor of the orphan nuclear receptor NR4A1 by inhibiting AB domain-mediated transcriptional activity [1]."
+            ],
+            "pfam_descriptions": [
+                "Growth arrest and DNA-damage-inducible proteins-interacting protein 1"
+            ],
+            "pfam_accessions": [
+                "PF10147"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q8TAE8"
+            ],
+            "rcsb_pdbx_description": "mL64 (CRIF1)",
+            "entity_poly_strand_id": "q",
+            "entity_poly_seq_one_letter_code": "MAASVRQARSLLGVAATLAPGSRGYRARPPPRRRPGPRWPDPEDLLTPRWQLGPRYAAKQFARYGAASGVVPGSLWPSPEQLRELEAEEREWYPSLATMQESLRVKQLAEEQKRREREQHIAECMAKMPQMIVNWQQQQRENWEKAQADKERRARLQAEAQELLGYQVDPRSARFQELLQDLEKKERKRLKEEKQKRKKEARAAALAAAVAQDPAASGAPSS",
+            "entity_poly_seq_one_letter_code_can": "MAASVRQARSLLGVAATLAPGSRGYRARPPPRRRPGPRWPDPEDLLTPRWQLGPRYAAKQFARYGAASGVVPGSLWPSPEQLRELEAEEREWYPSLATMQESLRVKQLAEEQKRREREQHIAECMAKMPQMIVNWQQQQRENWEKAQADKERRARLQAEAQELLGYQVDPRSARFQELLQDLEKKERKRLKEEKQKRKKEARAAALAAAVAQDPAASGAPSS",
+            "entity_poly_seq_length": 222,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NVS2"
+            ],
+            "rcsb_pdbx_description": "mL66 (bS18a)",
+            "entity_poly_strand_id": "r",
+            "entity_poly_seq_one_letter_code": "MAALKALVSGCGRLLRGLLAGPAATSWSRLPARGFREVVETQEGKTTIIEGRITATPKESPNPPNPSGQCPICRWNLKHKYNYDDVLLLSQFIRPHGGMLPRKITGLCQEEHRKIEECVKMAHRAGLLPNHRPRLPEGVVPKSKPQLNRYLTRWAPGSVKPIYKKGPRWNRVRMPVGSPLLRDNVCYSRTPWKLYH",
+            "entity_poly_seq_one_letter_code_can": "MAALKALVSGCGRLLRGLLAGPAATSWSRLPARGFREVVETQEGKTTIIEGRITATPKESPNPPNPSGQCPICRWNLKHKYNYDDVLLLSQFIRPHGGMLPRKITGLCQEEHRKIEECVKMAHRAGLLPNHRPRLPEGVVPKSKPQLNRYLTRWAPGSVKPIYKKGPRWNRVRMPVGSPLLRDNVCYSRTPWKLYH",
+            "entity_poly_seq_length": 196,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family consists of several eukaryotic mitochondrial 28S ribosomal protein S30 (or programmed cell death protein 9 PDCD9) sequences. The exact function of this family is unknown although it is known to be a component of the mitochondrial ribosome and a component in cellular apoptotic signaling pathways [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S30 (PDCD9)"
+            ],
+            "pfam_accessions": [
+                "PF07147"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NP92"
+            ],
+            "rcsb_pdbx_description": "mL65 (mS30)",
+            "entity_poly_strand_id": "s",
+            "entity_poly_seq_one_letter_code": "MAAARCWRPLLRGPRLSLHTAANAAATATETTCQDVAATPVARYPPIVASMTADSKAARLRRIERWQATVHAAESVDEKLRILTKMQFMKYMVYPQTFALNADRWYQYFTKTVFLSGLPPPPAEPEPEPEPEPEPALDLAALRAVACDCLLQEHFYLRRRRRVHRYEESEVISLPFLDQLVSTLVGLLSPHNPALAAAALDYRCPVHFYWVRGEEIIPRGHRRGRIDDLRYQIDDKPNNQIRISKQLAEFVPLDYSVPIEIPTIKCKPDKLPLFKRQYENHIFVGSKTADPCCYGHTQFHLLPDKLRRERLLRQNCADQIEVVFRANAIASLFAWTGAQAMYQGFWSEADVTRPFVSQAVITDGKYFSFFCYQLNTLALTTQADQNNPRKNICWGTQSKPLYETIEDNDVKGFNDDVLLQIVHFLLNRPKEEKSQLLEN",
+            "entity_poly_seq_one_letter_code_can": "MAAARCWRPLLRGPRLSLHTAANAAATATETTCQDVAATPVARYPPIVASMTADSKAARLRRIERWQATVHAAESVDEKLRILTKMQFMKYMVYPQTFALNADRWYQYFTKTVFLSGLPPPPAEPEPEPEPEPEPALDLAALRAVACDCLLQEHFYLRRRRRVHRYEESEVISLPFLDQLVSTLVGLLSPHNPALAAAALDYRCPVHFYWVRGEEIIPRGHRRGRIDDLRYQIDDKPNNQIRISKQLAEFVPLDYSVPIEIPTIKCKPDKLPLFKRQYENHIFVGSKTADPCCYGHTQFHLLPDKLRRERLLRQNCADQIEVVFRANAIASLFAWTGAQAMYQGFWSEADVTRPFVSQAVITDGKYFSFFCYQLNTLALTTQADQNNPRKNICWGTQSKPLYETIEDNDVKGFNDDVLLQIVHFLLNRPKEEKSQLLEN",
+            "entity_poly_seq_length": 439,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "Unknown protein/protein extension",
+            "entity_poly_strand_id": "t",
+            "entity_poly_seq_one_letter_code": "(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)",
+            "entity_poly_seq_one_letter_code_can": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "entity_poly_seq_length": 28,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S2"
+            ],
+            "pfam_accessions": [
+                "PF00318"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y399"
+            ],
+            "rcsb_pdbx_description": "uS2m",
+            "entity_poly_strand_id": "AB",
+            "entity_poly_seq_one_letter_code": "MATSSAALPRILGAGARAPSRWLGFLGKATPRPARPSRRTLGSATALMIRESEDSTDFNDKILNEPLKHSDFFNVKELFSVRSLFDARVHLGHKAGCRHRFMEPYIFGSRLDHDIIDLEQTATHLQLALNFTAHMAYRKGIILFISRNRQFSYLIENMARDCGEYAHTRYFRGGMLTNARLLFGPTVRLPDLIIFLHTLNNIFEPHVAVRDAAKMNIPTVGIVDTNCNPCLITYPVPGNDDSPLAVHLYCRLFQTAITRAKEKRQQVEALYRLQGQKEPGDQGPAHPPGADMSHSL",
+            "entity_poly_seq_one_letter_code_can": "MATSSAALPRILGAGARAPSRWLGFLGKATPRPARPSRRTLGSATALMIRESEDSTDFNDKILNEPLKHSDFFNVKELFSVRSLFDARVHLGHKAGCRHRFMEPYIFGSRLDHDIIDLEQTATHLQLALNFTAHMAYRKGIILFISRNRQFSYLIENMARDCGEYAHTRYFRGGMLTNARLLFGPTVRLPDLIIFLHTLNNIFEPHVAVRDAAKMNIPTVGIVDTNCNPCLITYPVPGNDDSPLAVHLYCRLFQTAITRAKEKRQQVEALYRLQGQKEPGDQGPAHPPGADMSHSL",
+            "entity_poly_seq_length": 296,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family of proteins corresponds to mitochondrial ribosomal subunit S24 in eukaryotes [1-2]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosome subunit S24"
+            ],
+            "pfam_accessions": [
+                "PF14955"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96EL2"
+            ],
+            "rcsb_pdbx_description": "uS3m",
+            "entity_poly_strand_id": "AC",
+            "entity_poly_seq_one_letter_code": "MAASVCSGLLGPRVLSWSRELPCAWRALHTSPVCAKNRAARVRVSKGDKPVTYEEAHAPHYIAHRKGWLSLHTGNLDGEDHAAERTVEDVFLRKFMWGTFPGCLADQLVLKRRGNQLEICAVVLRQLSPHKYYFLVGYSETLLSYFYKCPVRLHLQTVPSKVVYKYL",
+            "entity_poly_seq_one_letter_code_can": "MAASVCSGLLGPRVLSWSRELPCAWRALHTSPVCAKNRAARVRVSKGDKPVTYEEAHAPHYIAHRKGWLSLHTGNLDGEDHAAERTVEDVFLRKFMWGTFPGCLADQLVLKRRGNQLEICAVVLRQLSPHKYYFLVGYSETLLSYFYKCPVRLHLQTVPSKVVYKYL",
+            "entity_poly_seq_length": 167,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "es24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S5, C-terminal domain",
+                "Ribosomal protein S5, N-terminal domain"
+            ],
+            "pfam_accessions": [
+                "PF03719",
+                "PF00333"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82675"
+            ],
+            "rcsb_pdbx_description": "uS5m",
+            "entity_poly_strand_id": "AD",
+            "entity_poly_seq_one_letter_code": "MATAVRAVGCLPVLCSGTAGHLLGRQCSLNTLPAASILAWKSVLGNGHLSSLGTRDTHPYASLSRALQTQCCISSPSHLMSQQYRPYSFFTKLTADELWKGALAETGAGAKKGRGKRTKKKKRKDLNRGQIIGEGRYGFLWPGLNVPLMKNGAVQTIAQRSKEEQEKVEADMIQQREEWDRKKKMKVKRERGWSGNSWGGISLGPPDPGPCGETYEDFDTRILEVRNVFTMTAKEGRKKSIRVLVAVGNGKGAAGFSIGKATDRMDAFRKAKNRAVHHLHYIERYEDHTIFHDISLRFKRTHIKMKKQPKGYGLRCHRAIITICRLIGIKDMYAKVSGSINMLSLTQGLFRGLSRQETHQQLADKKGLHVVEIREECGPLPIVVASPRGPLRKDPEPEDEVPDVKLDWEDVKTAQGMKRSVWSNLKRAAT",
+            "entity_poly_seq_one_letter_code_can": "MATAVRAVGCLPVLCSGTAGHLLGRQCSLNTLPAASILAWKSVLGNGHLSSLGTRDTHPYASLSRALQTQCCISSPSHLMSQQYRPYSFFTKLTADELWKGALAETGAGAKKGRGKRTKKKKRKDLNRGQIIGEGRYGFLWPGLNVPLMKNGAVQTIAQRSKEEQEKVEADMIQQREEWDRKKKMKVKRERGWSGNSWGGISLGPPDPGPCGETYEDFDTRILEVRNVFTMTAKEGRKKSIRVLVAVGNGKGAAGFSIGKATDRMDAFRKAKNRAVHHLHYIERYEDHTIFHDISLRFKRTHIKMKKQPKGYGLRCHRAIITICRLIGIKDMYAKVSGSINMLSLTQGLFRGLSRQETHQQLADKKGLHVVEIREECGPLPIVVASPRGPLRKDPEPEDEVPDVKLDWEDVKTAQGMKRSVWSNLKRAAT",
+            "entity_poly_seq_length": 430,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S6"
+            ],
+            "pfam_accessions": [
+                "PF01250"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82932"
+            ],
+            "rcsb_pdbx_description": "bS6m",
+            "entity_poly_strand_id": "AE",
+            "entity_poly_seq_one_letter_code": "MPRYELALILKAMQRPETAATLKRTIEALMDRGAIVRDLENLGERALPYRISAHSQQHNRGGYFLVDFYAPTAAVESMVEHLSRDIDVIRGNIVKHPLTQELKECEGIVPVPLAEKLYSTKKRKK",
+            "entity_poly_seq_one_letter_code_can": "MPRYELALILKAMQRPETAATLKRTIEALMDRGAIVRDLENLGERALPYRISAHSQQHNRGGYFLVDFYAPTAAVESMVEHLSRDIDVIRGNIVKHPLTQELKECEGIVPVPLAEKLYSTKKRKK",
+            "entity_poly_seq_length": 125,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family contains ribosomal protein S7 from prokaryotes and S5 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S7p/S5e"
+            ],
+            "pfam_accessions": [
+                "PF00177"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y2R9"
+            ],
+            "rcsb_pdbx_description": "uS7m",
+            "entity_poly_strand_id": "AF",
+            "entity_poly_seq_one_letter_code": "MAAPAVKVARGWSGLALGVRRAVLQLPGLTQVRWSRYSPEFKDPLIDKEYYRKPVEELTEEEKYVRELKKTQLIKAAPAGKTSSVFEDPVISKFTNMMMIGGNKVLARSLMIQTLEAVKRKQFEKYHAASAEEQATIERNPYTIFHQALKNCEPMIGLVPILKGGRFYQVPVPLPDRRRRFLAMKWMITECRDKKHQRTLMPEKLSHKLLEAFHNQGPVIKRKHDLHKMAEANRALAHYRWW",
+            "entity_poly_seq_one_letter_code_can": "MAAPAVKVARGWSGLALGVRRAVLQLPGLTQVRWSRYSPEFKDPLIDKEYYRKPVEELTEEEKYVRELKKTQLIKAAPAGKTSSVFEDPVISKFTNMMMIGGNKVLARSLMIQTLEAVKRKQFEKYHAASAEEQATIERNPYTIFHQALKNCEPMIGLVPILKGGRFYQVPVPLPDRRRRFLAMKWMITECRDKKHQRTLMPEKLSHKLLEAFHNQGPVIKRKHDLHKMAEANRALAHYRWW",
+            "entity_poly_seq_length": 242,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS7"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S9 from prokaryotes and S16 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S9/S16"
+            ],
+            "pfam_accessions": [
+                "PF00380"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82933"
+            ],
+            "rcsb_pdbx_description": "uS9m",
+            "entity_poly_strand_id": "AG",
+            "entity_poly_seq_one_letter_code": "MAAPCVSYGGAVSYRLLLWGRGSLARKQGLWKTAAPELQTNVRSQILRLRHTAFVIPKKNVPTSKRETYTEDFIKKQIEEFNIGKRHLANMMGEDPETFTQEDIDRAIAYLFPSGLFEKRARPVMKHPEQIFPRQRAIQWGEDGRPFHYLFYTGKQSYYSLMHDVYGMLLNLEKHQSHLQAKSLLPEKTVTRDVIGSRWLIKEELEEMLVEKLSDLDYMQFIRLLEKLLTSQCGAAEEEFVQRFRRSVTLESKKQLIEPVQYDEQGMAFSKSEGKRKTAKAEAIVYKHGSGRIKVNGIDYQLYFPITQDREQLMFPFHFVDRLGKHDVTCTVSGGGRSAQAGAIRLAMAKALCSFVTEDEVEWMRQAGLLTTDPRVRERKKPGQEGARRKFTWKKR",
+            "entity_poly_seq_one_letter_code_can": "MAAPCVSYGGAVSYRLLLWGRGSLARKQGLWKTAAPELQTNVRSQILRLRHTAFVIPKKNVPTSKRETYTEDFIKKQIEEFNIGKRHLANMMGEDPETFTQEDIDRAIAYLFPSGLFEKRARPVMKHPEQIFPRQRAIQWGEDGRPFHYLFYTGKQSYYSLMHDVYGMLLNLEKHQSHLQAKSLLPEKTVTRDVIGSRWLIKEELEEMLVEKLSDLDYMQFIRLLEKLLTSQCGAAEEEFVQRFRRSVTLESKKQLIEPVQYDEQGMAFSKSEGKRKTAKAEAIVYKHGSGRIKVNGIDYQLYFPITQDREQLMFPFHFVDRLGKHDVTCTVSGGGRSAQAGAIRLAMAKALCSFVTEDEVEWMRQAGLLTTDPRVRERKKPGQEGARRKFTWKKR",
+            "entity_poly_seq_length": 396,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS9"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82664"
+            ],
+            "rcsb_pdbx_description": "uS10m",
+            "entity_poly_strand_id": "AH",
+            "entity_poly_seq_one_letter_code": "MAARTAFGAVCRRLWQGLGNFSVNTSKGNTAKNGGLLLSTNMKWVQFSNLHVDVPKDLTKPVVTISDEPDILYKRLSVLVKGHDKAVLDSYEYFAVLAAKELGISIKVHEPPRKIERFTLLQSVHIYKKHRVQYEMRTLYRCLELEHLTGSTADVYLEYIQRNLPEGVAMEVTKTQLEQLPEHIKEPIWETLSEEKEESKS",
+            "entity_poly_seq_one_letter_code_can": "MAARTAFGAVCRRLWQGLGNFSVNTSKGNTAKNGGLLLSTNMKWVQFSNLHVDVPKDLTKPVVTISDEPDILYKRLSVLVKGHDKAVLDSYEYFAVLAAKELGISIKVHEPPRKIERFTLLQSVHIYKKHRVQYEMRTLYRCLELEHLTGSTADVYLEYIQRNLPEGVAMEVTKTQLEQLPEHIKEPIWETLSEEKEESKS",
+            "entity_poly_seq_length": 201,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S11"
+            ],
+            "pfam_accessions": [
+                "PF00411"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82912"
+            ],
+            "rcsb_pdbx_description": "uS11m",
+            "entity_poly_strand_id": "AI",
+            "entity_poly_seq_one_letter_code": "MQAVRNAGSRFLRSWTWPQTAGRVVARTPAGTICTGARQLQDAAAKQKVEQNAAPSHTKFSIYPPIPGEESSLRWAGKKFEEIPIAHIKASHNNTQIQVVSASNEPLAFASCGTEGFRNAKKGTGIAAQTAGIAAAARAKQKGVIHIRVVVKGLGPGRLSAMHGLIMGGLEVISITDNTPIPHNGCRPRKARKL",
+            "entity_poly_seq_one_letter_code_can": "MQAVRNAGSRFLRSWTWPQTAGRVVARTPAGTICTGARQLQDAAAKQKVEQNAAPSHTKFSIYPPIPGEESSLRWAGKKFEEIPIAHIKASHNNTQIQVVSASNEPLAFASCGTEGFRNAKKGTGIAAQTAGIAAAARAKQKGVIHIRVVVKGLGPGRLSAMHGLIMGGLEVISITDNTPIPHNGCRPRKARKL",
+            "entity_poly_seq_length": 194,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS11"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This protein is known as S12 in bacteria and archaea and S23 in eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S12/S23"
+            ],
+            "pfam_accessions": [
+                "PF00164"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "O15235"
+            ],
+            "rcsb_pdbx_description": "uS12m",
+            "entity_poly_strand_id": "AJ",
+            "entity_poly_seq_one_letter_code": "MSWSGLLHGLNTSLTCGPALVPRLWATCSMATLNQMHRLGPPKRPPRKLGPTEGRPQLKGVVLCTFTRKPKKPNSANRKCCRVRLSTGREAVCFIPGEGHTLQEHQIVLVEGGRTQDLPGVKLTVVRGKYDCGHVQKK",
+            "entity_poly_seq_one_letter_code_can": "MSWSGLLHGLNTSLTCGPALVPRLWATCSMATLNQMHRLGPPKRPPRKLGPTEGRPQLKGVVLCTFTRKPKKPNSANRKCCRVRLSTGREAVCFIPGEGHTLQEHQIVLVEGGRTQDLPGVKLTVVRGKYDCGHVQKK",
+            "entity_poly_seq_length": 138,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes both ribosomal S14 from prokaryotes and S29 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S14p/S29e"
+            ],
+            "pfam_accessions": [
+                "PF00253"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "O60783"
+            ],
+            "rcsb_pdbx_description": "uS14m",
+            "entity_poly_strand_id": "AK",
+            "entity_poly_seq_one_letter_code": "MAAFMLGSLLRTFKQMVPSSASGQVRSHYVDWRMWRDVKRRKMAYEYADERLRINSLRKNTILPKILQDVADEEIAALPRDSCPVRIRNRCVMTSRPRGVKRRWRLSRIVFRHLADHGQLSGIQRATW",
+            "entity_poly_seq_one_letter_code_can": "MAAFMLGSLLRTFKQMVPSSASGQVRSHYVDWRMWRDVKRRKMAYEYADERLRINSLRKNTILPKILQDVADEEIAALPRDSCPVRIRNRCVMTSRPRGVKRRWRLSRIVFRHLADHGQLSGIQRATW",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S15"
+            ],
+            "pfam_accessions": [
+                "PF00312"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82914"
+            ],
+            "rcsb_pdbx_description": "uS15m",
+            "entity_poly_strand_id": "AL",
+            "entity_poly_seq_one_letter_code": "MLRVAWRTLSLIRTRAVTQVLVPGLPGGGSAKFPFNQWGLQPRSLLLQAARGYVVRKPAQSRLDDDPPPSTLLKDYQNVPGIEKVDDVVKRLLSLEMANKKEMLKIKQEQFMKKIVANPEDTRSLEARIIALSVKIRSYEEHLEKHRKDKAHKRYLLMSIDQRKKMLKNLRNTNYDVFEKICWGLGIEYTFPPLYYRRAHRRFVTKKALCIRVFQETQKLKKRRRALKAAAAAQKQAKRRNPDSPAKAIPKTLKDSQ",
+            "entity_poly_seq_one_letter_code_can": "MLRVAWRTLSLIRTRAVTQVLVPGLPGGGSAKFPFNQWGLQPRSLLLQAARGYVVRKPAQSRLDDDPPPSTLLKDYQNVPGIEKVDDVVKRLLSLEMANKKEMLKIKQEQFMKKIVANPEDTRSLEARIIALSVKIRSYEEHLEKHRKDKAHKRYLLMSIDQRKKMLKNLRNTNYDVFEKICWGLGIEYTFPPLYYRRAHRRFVTKKALCIRVFQETQKLKKRRRALKAAAAAQKQAKRRNPDSPAKAIPKTLKDSQ",
+            "entity_poly_seq_length": 257,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S16"
+            ],
+            "pfam_accessions": [
+                "PF00886"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y3D3"
+            ],
+            "rcsb_pdbx_description": "bS16m",
+            "entity_poly_strand_id": "AM",
+            "entity_poly_seq_one_letter_code": "MVHLTTLLCKAYRGGHLTIRLALGGCTNRPFYRIVAAHNKCPRDGRFVEQLGSYDPLPNSHGEKLVALNLDRIRHWIGCGAHLSKPMEKLLGLAGFFPLHPMMITNAERLRRKRAREVLLASQKTDAEATDTEATET",
+            "entity_poly_seq_one_letter_code_can": "MVHLTTLLCKAYRGGHLTIRLALGGCTNRPFYRIVAAHNKCPRDGRFVEQLGSYDPLPNSHGEKLVALNLDRIRHWIGCGAHLSKPMEKLLGLAGFFPLHPMMITNAERLRRKRAREVLLASQKTDAEATDTEATET",
+            "entity_poly_seq_length": 137,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S17"
+            ],
+            "pfam_accessions": [
+                "PF00366"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y2R5"
+            ],
+            "rcsb_pdbx_description": "uS17m",
+            "entity_poly_strand_id": "AN",
+            "entity_poly_seq_one_letter_code": "MSVVRSSVHARWIVGKVIGTKMQKTAKVRVTRLVLDPYLLKYFNKRKTYFAHDALQQCTVGDIVLLRALPVPRAKHVKHELAEIVFKVGKVIDPVTGKPCAGTTYLESPLSSETTQLSKNLEELNISSAQ",
+            "entity_poly_seq_one_letter_code_can": "MSVVRSSVHARWIVGKVIGTKMQKTAKVRVTRLVLDPYLLKYFNKRKTYFAHDALQQCTVGDIVLLRALPVPRAKHVKHELAEIVFKVGKVIDPVTGKPCAGTTYLESPLSSETTQLSKNLEELNISSAQ",
+            "entity_poly_seq_length": 130,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS17"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y676"
+            ],
+            "rcsb_pdbx_description": "mS40 (bS18b)",
+            "entity_poly_strand_id": "AO",
+            "entity_poly_seq_one_letter_code": "MAASVLNTVLRRLPMLSLFRGSHRVQVPLQTLCTKAPSEEDSLSSVPISPYKDEPWKYLESEEYQERYGSRPVWADYRRNHKGGVPPQRTRKTCIRRNKVVGNPCPICRDHKLHVDFRNVKLLEQFVCAHTGIIFYAPYTGVCVKQHKRLTQAIQKARDHGLLIYHIPQVEPRDLDFSTSHGAVSATPPAPTLVSGDPWYPWYNWKQPPERELSRLRRLYQGHLQEESGPPPESMPKMPPRTPAEASSTGQTGPQSAL",
+            "entity_poly_seq_one_letter_code_can": "MAASVLNTVLRRLPMLSLFRGSHRVQVPLQTLCTKAPSEEDSLSSVPISPYKDEPWKYLESEEYQERYGSRPVWADYRRNHKGGVPPQRTRKTCIRRNKVVGNPCPICRDHKLHVDFRNVKLLEQFVCAHTGIIFYAPYTGVCVKQHKRLTQAIQKARDHGLLIYHIPQVEPRDLDFSTSHGAVSATPPAPTLVSGDPWYPWYNWKQPPERELSRLRRLYQGHLQEESGPPPESMPKMPPRTPAEASSTGQTGPQSAL",
+            "entity_poly_seq_length": 258,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S21"
+            ],
+            "pfam_accessions": [
+                "PF01165"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82921"
+            ],
+            "rcsb_pdbx_description": "bS21m",
+            "entity_poly_strand_id": "AQ",
+            "entity_poly_seq_one_letter_code": "MAKHLKFIARTVMVQEGNVESAYRTLNRILTMDGLIEDIKHRRYYEKPCRRRQRESYERCRRIYNMEMARKINFLMRKNRADPWQGC",
+            "entity_poly_seq_one_letter_code_can": "MAKHLKFIARTVMVQEGNVESAYRTLNRILTMDGLIEDIKHRRYYEKPCRRRQRESYERCRRIYNMEMARKINFLMRKNRADPWQGC",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This is the conserved N-terminus and central portion of the mitochondrial small subunit 28S ribosomal protein S22.  Mammalian mitochondria carry out the synthesis of 13 polypeptides that are essential for oxidative phosphorylation and, hence, for the synthesis of the majority of the ATP used by eukaryotic organisms. The number of proteins produced by prokaryotes is smaller, reflected in the lower number of ribosomal proteins present in them [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S22"
+            ],
+            "pfam_accessions": [
+                "PF10245"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82650"
+            ],
+            "rcsb_pdbx_description": "mS22",
+            "entity_poly_strand_id": "AR",
+            "entity_poly_seq_one_letter_code": "MAPLGTTVLLWSLLRSSPGVERVCFRARIQPWHGGLLQPLPCSFEMGLPRRRFSSEAAESGSPETKKPTFMDEEVQSILTKMTGLNLQKTFKPAIQELKPPTYKLMTQAQLEEATRQAVEAAKVRLKMPPVLEERVPINDVLAEDKILEGTETTKYVFTDISYSIPHRERFIVVREPSGTLRKASWEERDRMIQVYFPKEGRKILTPIIFKEENLRTMYSQDRHVDVLNLCFAQFEPDSTEYIKVHHKTYEDIDKRGKYDLLRSTRYFGGMVWYFVNNKKIDGLLIDQIQRDLIDDATNLVQLYHVLHPDGQSAQGAKDQAAEGINLIKVFAKTEAQKGAYIELTLQTYQEALSRHSAAS",
+            "entity_poly_seq_one_letter_code_can": "MAPLGTTVLLWSLLRSSPGVERVCFRARIQPWHGGLLQPLPCSFEMGLPRRRFSSEAAESGSPETKKPTFMDEEVQSILTKMTGLNLQKTFKPAIQELKPPTYKLMTQAQLEEATRQAVEAAKVRLKMPPVLEERVPINDVLAEDKILEGTETTKYVFTDISYSIPHRERFIVVREPSGTLRKASWEERDRMIQVYFPKEGRKILTPIIFKEENLRTMYSQDRHVDVLNLCFAQFEPDSTEYIKVHHKTYEDIDKRGKYDLLRSTRYFGGMVWYFVNNKKIDGLLIDQIQRDLIDDATNLVQLYHVLHPDGQSAQGAKDQAAEGINLIKVFAKTEAQKGAYIELTLQTYQEALSRHSAAS",
+            "entity_poly_seq_length": 360,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "MRP-S23 is one of the proteins that makes up the 55S ribosome in eukaryotes from nematodes to humans. It does not appear to carry any common motifs, either RNA binding or ribosomal protein motifs [1]. All of the mammalian MRPs are encoded in nuclear genes that are evolving more rapidly than those encoding cytoplasmic ribosomal proteins. The MRPs are imported into mitochondria where they assemble coordinately with mitochondrially transcribed rRNAs into ribosomes that are responsible for translating the 13 mRNAs for essential proteins of the oxidative phosphorylation system [2]. MRP-S23 is significantly up-regulated in uterine cancer cells [3]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein S23"
+            ],
+            "pfam_accessions": [
+                "PF10484"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y3D9"
+            ],
+            "rcsb_pdbx_description": "mS23",
+            "entity_poly_strand_id": "AS",
+            "entity_poly_seq_one_letter_code": "MAGSRLETVGSIFSRTRDLVRAGVLKEKPLWFDVYDAFPPLREPVFQRPRVRYGKAKAPIQDIWYHEDRIRAKFYSVYGSGQRAFDLFNPNFKSTCQRFVEKYTELQKLGETDEEKLFVETGKALLAEGVILRRVGEARTQHGGSHVSRKSEHLSVRPQTALEENETQKEVPQDQHLEAPADQSKGLLPP",
+            "entity_poly_seq_one_letter_code_can": "MAGSRLETVGSIFSRTRDLVRAGVLKEKPLWFDVYDAFPPLREPVFQRPRVRYGKAKAPIQDIWYHEDRIRAKFYSVYGSGQRAFDLFNPNFKSTCQRFVEKYTELQKLGETDEEKLFVETGKALLAEGVILRRVGEARTQHGGSHVSRKSEHLSVRPQTALEENETQKEVPQDQHLEAPADQSKGLLPP",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "The proteins in this family are located in the mitochondrion. The family includes ribosomal protein L51, and S25. This family also includes mitochondrial NADH-ubiquinone oxidoreductase B8 subunit (CI-B8) EC:1.6.5.3. It is not known whether all members of this family form part of the NADH-ubiquinone oxidoreductase and whether they are also all ribosomal proteins. Structurally related to thioredoxin-fold."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain"
+            ],
+            "pfam_accessions": [
+                "PF05047"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82663"
+            ],
+            "rcsb_pdbx_description": "mS25",
+            "entity_poly_strand_id": "AT",
+            "entity_poly_seq_one_letter_code": "MPMKGRFPIRRTLQYLSQGNVVFKDSVKVMTVNYNTHGELGEGARKFVFFNIPQIQYKNPWVQIMMFKNMTPSPFLRFYLDSGEQVLVDVETKSNKEIMEHIRKILGKNEETLREEEEEKKQLSHPANFGPRKYCLRECICEVEGQVPCPSLVPLPKEMRGKYKAALKADAQD",
+            "entity_poly_seq_one_letter_code_can": "MPMKGRFPIRRTLQYLSQGNVVFKDSVKVMTVNYNTHGELGEGARKFVFFNIPQIQYKNPWVQIMMFKNMTPSPFLRFYLDSGEQVLVDVETKSNKEIMEHIRKILGKNEETLREEEEEKKQLSHPANFGPRKYCLRECICEVEGQVPCPSLVPLPKEMRGKYKAALKADAQD",
+            "entity_poly_seq_length": 173,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eS25"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family of proteins corresponds to mitochondrial ribosomal subunit S26 in eukaryotes [1]"
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosome subunit S26"
+            ],
+            "pfam_accessions": [
+                "PF14943"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9BYN8"
+            ],
+            "rcsb_pdbx_description": "mS26",
+            "entity_poly_strand_id": "AU",
+            "entity_poly_seq_one_letter_code": "MLRALSRLGAGTPCRPRAPLVLPARGRKTRHDPLAKSKIERVNMPPAVDPAEFFVLMERYQHYRQTVRALRMEFVSEVQRKVHEARAGVLAERKALKDAAEHRELMAWNQAENRRLHELRIARLRQEEREQEQRQALEQARKAEEVQAWAQRKEREVLQLQEEVKNFITRENLEARVEAALDSRKNYNWAITREGLVVRPQRRDS",
+            "entity_poly_seq_one_letter_code_can": "MLRALSRLGAGTPCRPRAPLVLPARGRKTRHDPLAKSKIERVNMPPAVDPAEFFVLMERYQHYRQTVRALRMEFVSEVQRKVHEARAGVLAERKALKDAAEHRELMAWNQAENRRLHELRIARLRQEEREQEQRQALEQARKAEEVQAWAQRKEREVLQLQEEVKNFITRENLEARVEAALDSRKNYNWAITREGLVVRPQRRDS",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Members of this family of small ribosomal proteins possess one of three conserved blocks of sequence found in proteins that stimulate the dissociation of guanine nucleotides from G-proteins, leaving open the possibility that MRP-S27 might be a functional partner of GTP-binding ribosomal proteins [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S27"
+            ],
+            "pfam_accessions": [
+                "PF10037"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q92552"
+            ],
+            "rcsb_pdbx_description": "mS27",
+            "entity_poly_strand_id": "AV",
+            "entity_poly_seq_one_letter_code": "MAASIVRRGMLLARQVVLPQLSPAGKRYLLSSAYVDSHKWEAREKEHYCLADLASLMDKTFERKLPVSSLTISRLIDNISSREEIDHAEYYLYKFRHSPNCWYLRNWTIHTWIRQCLKYDAQDKALYTLVNKVQYGIFPDNFTFNLLMDSFIKKENYKDALSVVFEVMMQEAFEVPSTQLLSLYVLFHCLAKKTDFSWEEERNFGASLLLPGLKQKNSVGFSSQLYGYALLGKVELQQGLRAVYHNMPLIWKPGYLDRALQVMEKVAASPEDIKLCREALDVLGAVLKALTSADGASEEQSQNDEDNQGSEKLVEQLDIEETEQSKLPQYLERFKALHSKLQALGKIESEGLLSLTTQLVKEKLSTCEAEDIATYEQNLQQWHLDLVQLIQREQQQREQAKQEYQAQKAAKASA",
+            "entity_poly_seq_one_letter_code_can": "MAASIVRRGMLLARQVVLPQLSPAGKRYLLSSAYVDSHKWEAREKEHYCLADLASLMDKTFERKLPVSSLTISRLIDNISSREEIDHAEYYLYKFRHSPNCWYLRNWTIHTWIRQCLKYDAQDKALYTLVNKVQYGIFPDNFTFNLLMDSFIKKENYKDALSVVFEVMMQEAFEVPSTQLLSLYVLFHCLAKKTDFSWEEERNFGASLLLPGLKQKNSVGFSSQLYGYALLGKVELQQGLRAVYHNMPLIWKPGYLDRALQVMEKVAASPEDIKLCREALDVLGAVLKALTSADGASEEQSQNDEDNQGSEKLVEQLDIEETEQSKLPQYLERFKALHSKLQALGKIESEGLLSLTTQLVKEKLSTCEAEDIATYEQNLQQWHLDLVQLIQREQQQREQAKQEYQAQKAAKASA",
+            "entity_poly_seq_length": 414,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This is a family of short mitochondrial ribosomal proteins, less than 200 amino acids long. that are highly conserved from worms to humans. The structure has previously been referred to as MRP-S18 but the current numbering fits the preferred nomenclature from these authors."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal protein MRP-S35"
+            ],
+            "pfam_accessions": [
+                "PF10246"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y2Q9"
+            ],
+            "rcsb_pdbx_description": "bS1m",
+            "entity_poly_strand_id": "AW",
+            "entity_poly_seq_one_letter_code": "MAALCRTRAVAAESHFLRVFLFFRPFRGVGTESGSESGSSNAKEPKTRAGGFASALERHSELLQKVEPLQKGSPKNVESFASMLRHSPLTQMGPAKDKLVIGRIFHIVENDLYIDFGGKFHCVCRRPEVDGEKYQKGTRVRLRLLDLELTSRFLGATTDTTVLEANAVLLGIQESKDSRSKEEHHEK",
+            "entity_poly_seq_one_letter_code_can": "MAALCRTRAVAAESHFLRVFLFFRPFRGVGTESGSESGSSNAKEPKTRAGGFASALERHSELLQKVEPLQKGSPKNVESFASMLRHSPLTQMGPAKDKLVIGRIFHIVENDLYIDFGGKFHCVCRRPEVDGEKYQKGTRVRLRLLDLELTSRFLGATTDTTVLEANAVLLGIQESKDSRSKEEHHEK",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "MRP-S31 is the mitochondrial 28S ribosomal subunit S31. This family of proteins is found in eukaryotes. Proteins in this family are typically between 246 and 395 amino acids in length. There are two conserved sequence motifs: RHFMELV and GLSKN."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S31"
+            ],
+            "pfam_accessions": [
+                "PF15433"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q92665"
+            ],
+            "rcsb_pdbx_description": "mS31",
+            "entity_poly_strand_id": "AY",
+            "entity_poly_seq_one_letter_code": "MFPRVSTFLPLRPLSRHPLSSGSPETSAAAIMLLTVRHGTVRYRSSALLARTKNNIQRYFGTNSVICSKKDKQSVRTEETSKETSESQDSEKENTKKDLLGIIKGMKVELSTVNVRTTKPPKRRPLKSLEATLGRLRRATEYAPKKRIEPLSPELVAAASAVADSLPFDKQTTKSELLSQLQQHEEESRAQRDAKRPKISFSNIISDMKVARSATARVRSRPELRIQFDEGYDNYPGQEKTDDLKKRKNIFTGKRLNIFDMMAVTKEAPETDTSPSLWDVEFAKQLATVNEQPLQNGFEELIQWTKEGKLWEFPINNEAGFDDDGSEFHEHIFLEKHLESFPKQGPIRHFMELVTCGLSKNPYLSVKQKVEHIEWFRNYFNEKKDILKESNIQFN",
+            "entity_poly_seq_one_letter_code_can": "MFPRVSTFLPLRPLSRHPLSSGSPETSAAAIMLLTVRHGTVRYRSSALLARTKNNIQRYFGTNSVICSKKDKQSVRTEETSKETSESQDSEKENTKKDLLGIIKGMKVELSTVNVRTTKPPKRRPLKSLEATLGRLRRATEYAPKKRIEPLSPELVAAASAVADSLPFDKQTTKSELLSQLQQHEEESRAQRDAKRPKISFSNIISDMKVARSATARVRSRPELRIQFDEGYDNYPGQEKTDDLKKRKNIFTGKRLNIFDMMAVTKEAPETDTSPSLWDVEFAKQLATVNEQPLQNGFEELIQWTKEGKLWEFPINNEAGFDDDGSEFHEHIFLEKHLESFPKQGPIRHFMELVTCGLSKNPYLSVKQKVEHIEWFRNYFNEKKDILKESNIQFN",
+            "entity_poly_seq_length": 395,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family of proteins corresponds to mitochondrial ribosomal subunit S27 in prokaryotes [1] and to subunit S33 in humans [2]. It is a small 106 residue protein.The evolutionary history of the mitoribosomal proteome that is encoded by a diverse subset of eukaryotic genomes, reveals an ancestral ribosome of alpha-proteobacterial descent that more than doubled its protein content in most eukaryotic lineages. Several new MRPs have originated via duplication of existing MRPs as well as by recruitment from outside of the mitoribosomal proteome [3]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal subunit S27"
+            ],
+            "pfam_accessions": [
+                "PF08293"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y291"
+            ],
+            "rcsb_pdbx_description": "mS33",
+            "entity_poly_strand_id": "AZ",
+            "entity_poly_seq_one_letter_code": "MSSLSEYAFRMSRLSARLFGEVTRPTNSKSMKVVKLFSELPLAKKKETYDWYPNHHTYAELMQTLRFLGLYRDEHQDFMDEQKRLKKLRGKEKPKKGEGKRAAKRK",
+            "entity_poly_seq_one_letter_code_can": "MSSLSEYAFRMSRLSARLFGEVTRPTNSKSMKVVKLFSELPLAKKKETYDWYPNHHTYAELMQTLRFLGLYRDEHQDFMDEQKRLKKLRGKEKPKKGEGKRAAKRK",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial 28S ribosomal protein S34"
+            ],
+            "pfam_accessions": [
+                "PF16053"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82930"
+            ],
+            "rcsb_pdbx_description": "mS34",
+            "entity_poly_strand_id": "A0",
+            "entity_poly_seq_one_letter_code": "MARKKVRPRLIAELARRVRALREQLNRPRDSQLYAVDYETLTRPFSGRRLPVRAWADVRRESRLLQLLGRLPLFGLGRLVTRKSWLWQHDEPCYWRLTRVRPDYTAQNLDHGKAWGILTFKGKTESEAREIEHVMYHDWRLVPKHEEEAFTAFTPAPEDSLASVPYPPLLRAMIIAERQKNGDTSTEEPMLNVQRIRMEPWDYPAKQEDKGRAKGTPV",
+            "entity_poly_seq_one_letter_code_can": "MARKKVRPRLIAELARRVRALREQLNRPRDSQLYAVDYETLTRPFSGRRLPVRAWADVRRESRLLQLLGRLPLFGLGRLVTRKSWLWQHDEPCYWRLTRVRPDYTAQNLDHGKAWGILTFKGKTESEAREIEHVMYHDWRLVPKHEEEAFTAFTPAPEDSLASVPYPPLLRAMIIAERQKNGDTSTEEPMLNVQRIRMEPWDYPAKQEDKGRAKGTPV",
+            "entity_poly_seq_length": 218,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This is a conserved region of approx. 125 residues of one of the proteins that makes up the small subunit of the mitochondrial ribosome. In Saccharomyces cerevisiae the protein is MRP-S24 whereas in humans it is MRP-S28. The human mitochondrial ribosome has 29 distinct proteins in the small subunit and these have homologues in, for example, Drosophila melanogaster, Caenorhabditis elegans, and in the genomes of several fungi [1]."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal subunit protein"
+            ],
+            "pfam_accessions": [
+                "PF10213"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P82673"
+            ],
+            "rcsb_pdbx_description": "mS35",
+            "entity_poly_strand_id": "A1",
+            "entity_poly_seq_one_letter_code": "MAAAALPAWLSLQSRARTLRAFSTAVYSATPVPTPSLPERTPGNERPPRRKALPPRTEKMAVDQDWPSVYPVAAPFKPSAVPLPVRMGYPVKKGVPMAKEGNLELLKIPNFLHLTPVAIKKHCEALKDFCTEWPAALDSDEKCEKHFPIEIDSTDYVSSGPSVRNPRARVVVLRVKLSSLNLDDHAKKKLIKLVGERYCKTTDVLTIKTDRCPLRRQNYDYAVYLLTVLYHESWNTEEWEKSKTEADMEEYIWENSSSERNILETLLQMKAAEKNMEINKEELLGTKEIEEYKKSVVSLKNEEENENSISQYKESVKRLLNVT",
+            "entity_poly_seq_one_letter_code_can": "MAAAALPAWLSLQSRARTLRAFSTAVYSATPVPTPSLPERTPGNERPPRRKALPPRTEKMAVDQDWPSVYPVAAPFKPSAVPLPVRMGYPVKKGVPMAKEGNLELLKIPNFLHLTPVAIKKHCEALKDFCTEWPAALDSDEKCEKHFPIEIDSTDYVSSGPSVRNPRARVVVLRVKLSSLNLDDHAKKKLIKLVGERYCKTTDVLTIKTDRCPLRRQNYDYAVYLLTVLYHESWNTEEWEKSKTEADMEEYIWENSSSERNILETLLQMKAAEKNMEINKEELLGTKEIEEYKKSVVSLKNEEENENSISQYKESVKRLLNVT",
+            "entity_poly_seq_length": 323,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "we have identified a conserved motif in the LOC118487 protein that we have called the CHCH motif. Alignment of this protein with related members showed the presence of three subgroups of proteins, which are called the S (Small), N (N-terminal extended) and C (C-terminal extended) subgroups. All three sub-groups of proteins have in common that they contain a predicted conserved [coiled coil 1]-[helix 1]-[coiled coil 2]-[helix 2] domain (CHCH domain). Within each helix of the CHCH domain, there are two cysteines present in a C-X9-C motif. The N-group contains an additional double helix domain, and each helix contains the C-X9-C motif. This family contains a number of characterised proteins: Cox19 protein - a nuclear gene of Saccharomyces cerevisiae, codes for an 11-kDa protein (Cox19p) required for expression of cytochrome oxidase. Because cox19 mutants are able to synthesise the mitochondrial and nuclear gene products of cytochrome oxidase, Cox19p probably functions post-translationally during assembly of the enzyme. Cox19p is present in the cytoplasm and mitochondria, where it exists as a soluble intermembrane protein. This dual location is similar to what was previously reported for Cox17p, a low molecular weight copper protein thought to be required for maturation of the CuA centre of subunit 2 of cytochrome oxidase. Cox19p have four conserved potential metal ligands, these are three cysteines and one histidine. Mrp10 - belongs to the class of yeast mitochondrial ribosomal proteins that are essential for translation [2]. Eukaryotic NADH-ubiquinone oxidoreductase 19 kDa (NDUFA8) subunit [3]. The CHCH domain was previously called DUF657 [4]."
+            ],
+            "pfam_descriptions": [
+                "CHCH domain"
+            ],
+            "pfam_accessions": [
+                "PF06747"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96BP2"
+            ],
+            "rcsb_pdbx_description": "mS37",
+            "entity_poly_strand_id": "A2",
+            "entity_poly_seq_one_letter_code": "MATPSLRGRLARFGNPRKPVLKPNKPLILANRVGERRREKGEATCITEMSVMMACWKQNEFRDDACRKEIQGFLDCAARAQEARKMRSIQETLGESGSLLPNKLNKLLQRFPNKPYLS",
+            "entity_poly_seq_one_letter_code_can": "MATPSLRGRLARFGNPRKPVLKPNKPLILANRVGERRREKGEATCITEMSVMMACWKQNEFRDDACRKEIQGFLDCAARAQEARKMRSIQETLGESGSLLPNKLNKLLQRFPNKPYLS",
+            "entity_poly_seq_length": 118,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This domain is found at the C terminal end of mitochondrial proteins of unknown function."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial domain of unknown function (DUF1713)"
+            ],
+            "pfam_accessions": [
+                "PF08213"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9NWT8"
+            ],
+            "rcsb_pdbx_description": "mS38",
+            "entity_poly_strand_id": "A3",
+            "entity_poly_seq_one_letter_code": "MLLGRLTSQLLRAVPWAGGRPPWPVSGVLGSRVCGPLYSTSPAGPGRAASLPRKGAQLELEEMLVPRKMSVSPLESWLTARCFLPRLDTGTAGTVAPPQSYQCPPSQIGEGAEQGDEGVADAPQIQCKNVLKIRRRKMNHHKYRKLVKKTRFLRRKVQEGRLRRKQIKFEKDLRRIWLKAGLKEAPEGWQTPKIYLRGK",
+            "entity_poly_seq_one_letter_code_can": "MLLGRLTSQLLRAVPWAGGRPPWPVSGVLGSRVCGPLYSTSPAGPGRAASLPRKGAQLELEEMLVPRKMSVSPLESWLTARCFLPRLDTGTAGTVAPPQSYQCPPSQIGEGAEQGDEGVADAPQIQCKNVLKIRRRKMNHHKYRKLVKKTRFLRRKVQEGRLRRKQIKFEKDLRRIWLKAGLKEAPEGWQTPKIYLRGK",
+            "entity_poly_seq_length": 199,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family matches additional variants of the PPR repeat that were not captured by the model for Pfam:PF01535. In the case of the Arabidopsis protein UniProtKB:Q66GI4, the repeated helices in this N-terminal region, of protein-only RNase P (PRORP) enzymes, form the pentatricopeptide repeat (PPR) domain which enhances pre-tRNA binding affinity. PROPRP enzymes process precursor tRNAs in human mitochondria and in all tRNA-using compartments of Arabidopsis thaliana [1].",
+                "This repeat has no known function. It is about 35 amino acids long and is found in up to 18 copies in some proteins.        The family appears to be greatly expanded in plants and fungi. The repeat has been called PPR [1]."
+            ],
+            "pfam_descriptions": [
+                "Pentatricopeptide repeat domain",
+                "PPR repeat family"
+            ],
+            "pfam_accessions": [
+                "PF13812",
+                "PF13041"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96EY7"
+            ],
+            "rcsb_pdbx_description": "mS39",
+            "entity_poly_strand_id": "A4",
+            "entity_poly_seq_one_letter_code": "MAVVSAVRWLGLRSRLGQPLTGRRAGLCEQARSCRFYSGSATLSKVEGTDVTGIEEVVIPKKKTWDKVAVLQALASTVNRDTTAVPYVFQDDPYLMPASSLESRSFLLAKKSGENVAKFIINSYPKYFQKDIAEPHIPCLMPE(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)SLATYHHIIRLFD(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)(UNK)KFFQSAMSICSSLRDLELAYQVHGLLKTGDNWKFIGPDQHRNFYYSKFFDLICLMEQIDVTLKWYEDLIPSAYFPHSQTMIHLLQALDVANRLEVIPKIWKDSKEYGHTFRSDLREEILMLMARDKHPPELQVAFADCAADIKSAYESQPIRQTAQDWPATSLNCIAILFLRAGRTQEAWKMLGLFRKHNKIPRSELLNELMDSAKVSNSPSQAIEVVELASAFSLPICEGLTQRVMSDFAINQEQKEALSNLTALTSDSDTDSSSDSDSDTSEGK",
+            "entity_poly_seq_one_letter_code_can": "MAVVSAVRWLGLRSRLGQPLTGRRAGLCEQARSCRFYSGSATLSKVEGTDVTGIEEVVIPKKKTWDKVAVLQALASTVNRDTTAVPYVFQDDPYLMPASSLESRSFLLAKKSGENVAKFIINSYPKYFQKDIAEPHIPCLMPEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLATYHHIIRLFDXXXXXXXXXXXXXXKFFQSAMSICSSLRDLELAYQVHGLLKTGDNWKFIGPDQHRNFYYSKFFDLICLMEQIDVTLKWYEDLIPSAYFPHSQTMIHLLQALDVANRLEVIPKIWKDSKEYGHTFRSDLREEILMLMARDKHPPELQVAFADCAADIKSAYESQPIRQTAQDWPATSLNCIAILFLRAGRTQEAWKMLGLFRKHNKIPRSELLNELMDSAKVSNSPSQAIEVVELASAFSLPICEGLTQRVMSDFAINQEQKEALSNLTALTSDSDTDSSSDSDSDTSEGK",
+            "entity_poly_seq_length": 579,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36"
+            ],
+            "pfam_accessions": [
+                "PF00444"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9P0J6"
+            ],
+            "rcsb_pdbx_description": "bL36m",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MANLFIRKMVNPLLYLSRHTVKPRALSTFLFGSIRGAAPVAVEPGAAVRSLLSPGLLPHLLPALGFKNKTVLKKRCKDCYLVKRRGRWYVYCKTHPRHKQRQM",
+            "entity_poly_seq_one_letter_code_can": "MANLFIRKMVNPLLYLSRHTVKPRALSTFLFGSIRGAAPVAVEPGAAVRSLLSPGLLPHLLPALGFKNKTVLKKRCKDCYLVKRRGRWYVYCKTHPRHKQRQM",
+            "entity_poly_seq_length": 103,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This family includes small ribosomal subunit S10 from prokaryotes and S20 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S10p/S20e"
+            ],
+            "pfam_accessions": [
+                "PF00338"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q96GC5"
+            ],
+            "rcsb_pdbx_description": "mL48",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MSGTLEKVLCLRNNTIFKQAFSLLRFRTSGEKPIYSVGGILLSISRPYKTKPTHGIGKYKHLIKAEEPKKKKGKVEVRAINLGTDYEYGVLNIHLTAYDMTLAESYAQYVHNLCNSLSIKVEESYAMPTKTIEVLQLQDQGSKMLLDSVLTTHERVVQISGLSATFAEIFLEIIQSSLPEGVRLSVKEHTEEDF",
+            "entity_poly_seq_one_letter_code_can": "MSGTLEKVLCLRNNTIFKQAFSLLRFRTSGEKPIYSVGGILLSISRPYKTKPTHGIGKYKHLIKAEEPKKKKGKVEVRAINLGTDYEYGVLNIHLTAYDMTLAESYAQYVHNLCNSLSIKVEESYAMPTKTIEVLQLQDQGSKMLLDSVLTTHERVVQISGLSATFAEIFLEIIQSSLPEGVRLSVKEHTEEDF",
+            "entity_poly_seq_length": 194,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uS10"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "MRP-L51 is a family of small proteins from the intact 55 S mitochondrial ribosome [2]. It has otherwise been referred to as bMRP-64 [1]. The exact function of this family is not known."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal subunit"
+            ],
+            "pfam_accessions": [
+                "PF10244"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q4U2R6"
+            ],
+            "rcsb_pdbx_description": "mL51",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MAGNLLSGAGRRLWDWVPLACRSFSLGVPRLIGIRLTLPPPKVVDRWNEKRAMFGVYDNIGILGNFEKHPKELIRGPIWLRGWKGNELQRCIRKRKMVGSRMFADDLHNLNKRIRYLYKHFNRHGKFR",
+            "entity_poly_seq_one_letter_code_can": "MAGNLLSGAGRRLWDWVPLACRSFSLGVPRLIGIRLTLPPPKVVDRWNEKRAMFGVYDNIGILGNFEKHPKELIRGPIWLRGWKGNELQRCIRKRKMVGSRMFADDLHNLNKRIRYLYKHFNRHGKFR",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "Members of this family include the mamalian mitoribosomal proteins mL52 which is found in the 39S subunit. The mL52 has no homologues in yeast [1 , 2]."
+            ],
+            "pfam_descriptions": [
+                "Mitoribosomal protein mL52"
+            ],
+            "pfam_accessions": [
+                "PF18699"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "A8K7J6"
+            ],
+            "rcsb_pdbx_description": "mL52",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MAALVTVLFTGVRRLHCSAAAWAGGQWRLQQGLAANPSGYGPLTELPDWSYADGRPAPPMKGQLRRKAERETFARRVVLLSQEMDAGLQAWQLRQQKLQEEQRKQENALKPKGASLKSPLPSQ",
+            "entity_poly_seq_one_letter_code_can": "MAALVTVLFTGVRRLHCSAAAWAGGQWRLQQGLAANPSGYGPLTELPDWSYADGRPAPPMKGQLRRKAERETFARRVVLLSQEMDAGLQAWQLRQQKLQEEQRKQENALKPKGASLKSPLPSQ",
+            "entity_poly_seq_length": 123,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein S18"
+            ],
+            "pfam_accessions": [
+                "PF01084"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "Q9Y3D5"
+            ],
+            "rcsb_pdbx_description": "bS18m (bS18c)",
+            "entity_poly_strand_id": "AP",
+            "entity_poly_seq_one_letter_code": "MAAVVAVCGGLGRKKLTHLVTAAVSLTHPGTHTVLWRRGCSQQVSSNEDLPISMENPYKEPLKKCILCGKHVDYKNVQLLSQFVSPFTGCIYGRHITGLCGKKQKEITKAIKRAQIMGFMPVTYKDPAYLKDPKVCNIRYRE",
+            "entity_poly_seq_one_letter_code_can": "MAAVVAVCGGLGRKKLTHLVTAAVSLTHPGTHTVLWRRGCSQQVSSNEDLPISMENPYKEPLKKCILCGKHVDYKNVQLLSQFVSPFTGCIYGRHITGLCGKKQKEITKAIKRAQIMGFMPVTYKDPAYLKDPKVCNIRYRE",
+            "entity_poly_seq_length": 142,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "bS18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "pfam_comments": [
+                "This is a family of conserved proteins which were originally described as death-associated-protein-3 (DAP-3). The proteins carry a P-loop DNA-binding motif, and induce apoptosis [1]. DAP3 has been shown to be a pro-apoptotic factor in the mitochondrial matrix [2] and to be crucial for mitochondrial biogenesis and so has also been designated as MRP-S29 (mitochondrial ribosomal protein subunit 29)."
+            ],
+            "pfam_descriptions": [
+                "Mitochondrial ribosomal death-associated protein 3"
+            ],
+            "pfam_accessions": [
+                "PF10236"
+            ],
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "uniprot_accession": [
+                "P51398"
+            ],
+            "rcsb_pdbx_description": "mS29",
+            "entity_poly_strand_id": "AX",
+            "entity_poly_seq_one_letter_code": "MMLKGITRLISRIHKLDPGRFLHMGTQARQSIAAHLDNQVPVESPRAISRTNENDPAKHGDQHEGQHYNISPQDLETVFPHGLPPRFVMQVKTFSEACLMVRKPALELLHYLKNTSFAYPAIRYLLYGEKGTGKTLSLCHVIHFCAKQDWLILHIPDAHLWVKNCRDLLQSSYNKQRFDQPLEASTWLKNFKTTNERFLNQIKVQEKYVWNKRESTEKGSPLGEVVEQGITRVRNATDAVGIVLKELKRQSSLGMFHLLVAVDGINALWGRTTLKREDKSPIAPEELALVHNLRKMMKNDWHGGAIVSALSQTGSLFKPRKAYLPQELLGKEGFDALDPFIPILVSNYNPKEFESCIQYYLENNWLQHEKAPTEEGKKELLFLSNANPSLLERHCAYL",
+            "entity_poly_seq_one_letter_code_can": "MMLKGITRLISRIHKLDPGRFLHMGTQARQSIAAHLDNQVPVESPRAISRTNENDPAKHGDQHEGQHYNISPQDLETVFPHGLPPRFVMQVKTFSEACLMVRKPALELLHYLKNTSFAYPAIRYLLYGEKGTGKTLSLCHVIHFCAKQDWLILHIPDAHLWVKNCRDLLQSSYNKQRFDQPLEASTWLKNFKTTNERFLNQIKVQEKYVWNKRESTEKGSPLGEVVEQGITRVRNATDAVGIVLKELKRQSSLGMFHLLVAVDGINALWGRTTLKREDKSPIAPEELALVHNLRKMMKNDWHGGAIVSALSQTGSLFKPRKAYLPQELLGKEGFDALDPFIPILVSNYNPKEFESCIQYYLENNWLQHEKAPTEEGKKELLFLSNANPSLLERHCAYL",
+            "entity_poly_seq_length": 398,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "3J9M",
+            "rcsb_pdbx_description": "16S rRNA",
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "GCUAAACCUAGCCCCAAACCCACUCCACCUUACUACCAGACAACCUUAGCCAAACCAUUUACCCAAAUAAAGUAUAGGCGAUAGAAAUUGAAACCUGGCGCAAUAGAUAUAGUACCGCAAGGGAAAGAUGAAAAAUUAUAACCAAGCAUAAUAUAGCAAGGACUAACCCCUAUACCUUCUGCAUAAUGAAUUAACUAGAAAUAACUUUGCAAGGAGAGCCAAAGCUAAGACCCCCGAAACCAGACGAGCUACCUAAGAACAGCUAAAAGAGCACACCCGUCUAUGUAGCAAAAUAGUGGGAAGAUUUAUAGGUAGAGGCGACAAACCUACCGAGCCUGGUGAUAGCUGGUUGUCCAAGAUAGAAUCUUAGUUCAACUUUAAAUUUGCCCACAGAACCCUCUAAAUCCCCUUGUAAAUUUAACUGUUAGUCCAAAGAGGAACAGCUCUUUGGACACUAGGAAAAAACCUUGUAGAGAGAGUAAAAAAUUUAACACCCAUAGUAGGCCUAAAAGCAGCCACCAAUUAAGAAAGCGUUCAAGCUCAACACCCACUACCUAAAAAAUCCCAAACAUAUAACUGAACUCCUCACACCCAAUUGGACCAAUCUAUCACCCUAUAGAAGAACUAAUGUUAGUAUAAGUAACAUGAAAACAUUCUCCUCCGCAUAAGCCUGCGUCAGAUUAAAACACUGAACUGACAAUUAACAGCCCAAUAUCUACAAUCAACCAACAAGUCAUUAUUACCCUCACUGUCAACCCAACACAGGCAUGCUCAUAAGGAAAGGUUAAAAAAAGUAAAAGGAACUCGGCAAAUCUUACCCCGCCUGUUUACCAAAAACAUCACCUCUAGCAUCACCAGUAUUAGAGGCACCGCCUGCCCAGUGACACAUGUUUAACGGCCGCGGUACCCUAACCGUGCAAAGGUAGCAUAAUCACUUGUUCCUUAAAUAGGGACCUGUAUGAAUGGCUCCACGAGGGUUCAGCUGUCUCUUACUUUUAACCAGUGAAAUUGACCUGCCCGUGAAGAGGCGGGCAUAACACAGCAAGACGAGAAGACCCUAUGGAGCUUUAAUUUAUUAAUGCAAACAGUACCUAACAAACCCACAGGUCCUAAACUACCAAACCUGCAUUAAAAAUUUCGGUUGGGGCGACCUCGGAGCAGAACCCAACCUCCGAGCAGUACAUGCUAAGACUUCACCAGUCAAAGCGAACUACUAUACUCAAUUGAUCCAAUAACUUGACCAACGGAACAAGUUACCCUAGGGAUAACAGCGCAAUCCUAUUCUAGAGUCCAUAUCAACAAUAGGGUUUACGACCUCGAUGUUGGAUCAGGACAUCCCGAUGGUGCAGCCGCUAUUAAAGGUUCGUUUGUUCAACGAUUAAAGUCCUACGUGAUCUGAGUUCAGACCGGAGUAAUCCAGGUCGGUUUCUAUCUACUUUCAAAUUCCUCCCUGUACGAAAGGACAAGAGAAAUAAGGCCUACUUCACAAAGCGCCUUCCCCCGUAAAUGAUAUCAUCUCAACUUAGUAUUAUACCCACACCCACCCAAGAACAGGGUUU",
+            "entity_poly_seq_one_letter_code_can": "GCUAAACCUAGCCCCAAACCCACUCCACCUUACUACCAGACAACCUUAGCCAAACCAUUUACCCAAAUAAAGUAUAGGCGAUAGAAAUUGAAACCUGGCGCAAUAGAUAUAGUACCGCAAGGGAAAGAUGAAAAAUUAUAACCAAGCAUAAUAUAGCAAGGACUAACCCCUAUACCUUCUGCAUAAUGAAUUAACUAGAAAUAACUUUGCAAGGAGAGCCAAAGCUAAGACCCCCGAAACCAGACGAGCUACCUAAGAACAGCUAAAAGAGCACACCCGUCUAUGUAGCAAAAUAGUGGGAAGAUUUAUAGGUAGAGGCGACAAACCUACCGAGCCUGGUGAUAGCUGGUUGUCCAAGAUAGAAUCUUAGUUCAACUUUAAAUUUGCCCACAGAACCCUCUAAAUCCCCUUGUAAAUUUAACUGUUAGUCCAAAGAGGAACAGCUCUUUGGACACUAGGAAAAAACCUUGUAGAGAGAGUAAAAAAUUUAACACCCAUAGUAGGCCUAAAAGCAGCCACCAAUUAAGAAAGCGUUCAAGCUCAACACCCACUACCUAAAAAAUCCCAAACAUAUAACUGAACUCCUCACACCCAAUUGGACCAAUCUAUCACCCUAUAGAAGAACUAAUGUUAGUAUAAGUAACAUGAAAACAUUCUCCUCCGCAUAAGCCUGCGUCAGAUUAAAACACUGAACUGACAAUUAACAGCCCAAUAUCUACAAUCAACCAACAAGUCAUUAUUACCCUCACUGUCAACCCAACACAGGCAUGCUCAUAAGGAAAGGUUAAAAAAAGUAAAAGGAACUCGGCAAAUCUUACCCCGCCUGUUUACCAAAAACAUCACCUCUAGCAUCACCAGUAUUAGAGGCACCGCCUGCCCAGUGACACAUGUUUAACGGCCGCGGUACCCUAACCGUGCAAAGGUAGCAUAAUCACUUGUUCCUUAAAUAGGGACCUGUAUGAAUGGCUCCACGAGGGUUCAGCUGUCUCUUACUUUUAACCAGUGAAAUUGACCUGCCCGUGAAGAGGCGGGCAUAACACAGCAAGACGAGAAGACCCUAUGGAGCUUUAAUUUAUUAAUGCAAACAGUACCUAACAAACCCACAGGUCCUAAACUACCAAACCUGCAUUAAAAAUUUCGGUUGGGGCGACCUCGGAGCAGAACCCAACCUCCGAGCAGUACAUGCUAAGACUUCACCAGUCAAAGCGAACUACUAUACUCAAUUGAUCCAAUAACUUGACCAACGGAACAAGUUACCCUAGGGAUAACAGCGCAAUCCUAUUCUAGAGUCCAUAUCAACAAUAGGGUUUACGACCUCGAUGUUGGAUCAGGACAUCCCGAUGGUGCAGCCGCUAUUAAAGGUUCGUUUGUUCAACGAUUAAAGUCCUACGUGAUCUGAGUUCAGACCGGAGUAAUCCAGGUCGGUUUCUAUCUACUUUCAAAUUCCUCCCUGUACGAAAGGACAAGAGAAAUAAGGCCUACUUCACAAAGCGCCUUCCCCCGUAAAUGAUAUCAUCUCAACUUAGUAUUAUACCCACACCCACCCAAGAACAGGGUUU",
+            "entity_poly_seq_length": 1559,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "rcsb_pdbx_description": "mt-tRNAVal",
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "CCAGAGUGUAGCUUAACACAAAGCACCCAACUUACACUUAGGAGAUUUCAACUUAACUUGACCGCUCUGACCA",
+            "entity_poly_seq_one_letter_code_can": "CCAGAGUGUAGCUUAACACAAAGCACCCAACUUACACUUAGGAGAUUUCAACUUAACUUGACCGCUCUGACCA",
+            "entity_poly_seq_length": 73,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "rcsb_pdbx_description": "E-site tRNA",
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "entity_poly_strand_id": "u",
+            "entity_poly_seq_one_letter_code": "CA",
+            "entity_poly_seq_one_letter_code_can": "CA",
+            "entity_poly_seq_length": 2,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J9M",
+            "rcsb_pdbx_description": "12S rRNA",
+            "rcsb_source_organism_description": [
+                "Homo sapiens"
+            ],
+            "rcsb_source_organism_id": [
+                9606
+            ],
+            "entity_poly_strand_id": "AA",
+            "entity_poly_seq_one_letter_code": "AAUAGGUUUGGUCCUAGCCUUUCUAUUAGCUCUUAGUAAGAUUACACAUGCAAGCAUCCCCGUUCCAGUGAGUUCACCCUCUAAAUCACCACGAUCAAAAGGAACAAGCAUCAAGCACGCAGCAAUGCAGCUCAAAACGCUUAGCCUAGCCACACCCCCACGGGAAACAGCAGUGAUUAACCUUUAGCAAUAAACGAAAGUUUAACUAAGCUAUACUAACCCCAGGGUUGGUCAAUUUCGUGCCAGCCACCGCGGUCACACGAUUAACCCAAGUCAAUAGAAGCCGGCGUAAAGAGUGUUUUAGAUCACCCCCUCCCCAAUAAAGCUAAAACUCACCUGAGUUGUAAAAAACUCCAGUUGACACAAAAUAGACUACGAAAGUGGCUUUAACAUAUCUGAACACACAAUAGCUAAGACCCAAACUGGGAUUAGAUACCCCACUAUGCUUAGCCCUAAACCUCAACAGUUAAAUCAACAAAACUGCUCGCCAGAACACUACGAGCCACAGCUUAAAACUCAAAGGACCUGGCGGUGCUUCAUAUCCCUCUAGAGGAGCCUGUUCUGUAAUCGAUAAACCCCGAUCAACCUCACCACCUCUUGCUCAGCCUAUAUACCGCCAUCUUCAGCAAACCCUGAUGAAGGCUACAAAGUAAGCGCAAGUACCCACGUAAAGACGUUAGGUCAAGGUGUAGCCCAUGAGGUGGCAAGAAAUGGGCUACAUUUUCUACCCCAGAAAACUACGAUAGCCCUUAUGAAACUUAAGGGUCGAAGGUGGAUUUAGCAGUAAACUAAGAGUAGAGUGCUUAGUUGAACAGGGCCCUGAAGCGCGUACACACCGCCCGUCACCCUCCUCAAGUAUACUUCAAAGGACAUUUAACUAAAACCCCUACGCAUUUAUAUAGAGGAGACAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGGACGAAC",
+            "entity_poly_seq_one_letter_code_can": "AAUAGGUUUGGUCCUAGCCUUUCUAUUAGCUCUUAGUAAGAUUACACAUGCAAGCAUCCCCGUUCCAGUGAGUUCACCCUCUAAAUCACCACGAUCAAAAGGAACAAGCAUCAAGCACGCAGCAAUGCAGCUCAAAACGCUUAGCCUAGCCACACCCCCACGGGAAACAGCAGUGAUUAACCUUUAGCAAUAAACGAAAGUUUAACUAAGCUAUACUAACCCCAGGGUUGGUCAAUUUCGUGCCAGCCACCGCGGUCACACGAUUAACCCAAGUCAAUAGAAGCCGGCGUAAAGAGUGUUUUAGAUCACCCCCUCCCCAAUAAAGCUAAAACUCACCUGAGUUGUAAAAAACUCCAGUUGACACAAAAUAGACUACGAAAGUGGCUUUAACAUAUCUGAACACACAAUAGCUAAGACCCAAACUGGGAUUAGAUACCCCACUAUGCUUAGCCCUAAACCUCAACAGUUAAAUCAACAAAACUGCUCGCCAGAACACUACGAGCCACAGCUUAAAACUCAAAGGACCUGGCGGUGCUUCAUAUCCCUCUAGAGGAGCCUGUUCUGUAAUCGAUAAACCCCGAUCAACCUCACCACCUCUUGCUCAGCCUAUAUACCGCCAUCUUCAGCAAACCCUGAUGAAGGCUACAAAGUAAGCGCAAGUACCCACGUAAAGACGUUAGGUCAAGGUGUAGCCCAUGAGGUGGCAAGAAAUGGGCUACAUUUUCUACCCCAGAAAACUACGAUAGCCCUUAUGAAACUUAAGGGUCGAAGGUGGAUUUAGCAGUAAACUAAGAGUAGAGUGCUUAGUUGAACAGGGCCCUGAAGCGCGUACACACCGCCCGUCACCCUCCUCAAGUAUACUUCAAAGGACAUUUAACUAAAACCCCUACGCAUUUAUAUAGAGGAGACAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGGACGAAC",
+            "entity_poly_seq_length": 954,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "GUANOSINE-5'-DIPHOSPHATE",
+            "formula_weight": 0.443,
+            "chemicalId": "GDP",
+            "chemicalName": "GUANOSINE-5'-DIPHOSPHATE",
+            "cif_residueId": "none"
+        }
+    ]
+}

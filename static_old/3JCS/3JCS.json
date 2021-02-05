@@ -1,0 +1,1422 @@
+{
+    "rcsb_id": "3JCS",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 2.8,
+    "rcsb_external_ref_id": [
+        "EMD-6583"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-6583"
+    ],
+    "cryoem_exp_detail": null,
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 2.8,
+    "cryoem_exp_num_particles": 107134,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2016,
+    "citation_rcsb_authors": [
+        "Shalev-Benami, M.",
+        "Zhang, Y.",
+        "Matzov, D.",
+        "Halfon, Y.",
+        "Zackay, A.",
+        "Rozenberg, H.",
+        "Zimmerman, E.",
+        "Bashan, A.",
+        "Jaffe, C.L.",
+        "Yonath, A.",
+        "Skiniotis, G."
+    ],
+    "citation_title": "2.8- angstrom Cryo-EM Structure of the Large Ribosomal Subunit from the Eukaryotic Parasite Leishmania.",
+    "citation_pdbx_doi": "10.1016/j.celrep.2016.06.014",
+    "pdbx_keywords_text": "Leishmania donovani, ribosome, the large ribosomal subunit, eukaryotic parasite",
+    "_organismId": [
+        5661
+    ],
+    "_organismName": [
+        "Leishmania donovani"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L2",
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "MGKTVLSCRKGNGSVYQVHGHKRLGPAKLRILDYAERHGYMRGVVKSIEHEAGRGAALARVEFRHPYKFRRVKELMVAPEGMFTGQSVFCGQKAPLAIGNVLPLGQITEGCIVCNVEAKPGDRGTLARASGDYCIIISHNHETGRTRLKLPSGQKKSVPSTSRAMIGIISGGGRIEKPVLKAGNSFYRFRGKRNCWPKVRGVARNPVEHPHGGGNHQHIGHPSTVSRHSPPGQKVGLIAARRTGRIRGGKAVKGAWHPEE",
+            "entity_poly_seq_one_letter_code_can": "MGKTVLSCRKGNGSVYQVHGHKRLGPAKLRILDYAERHGYMRGVVKSIEHEAGRGAALARVEFRHPYKFRRVKELMVAPEGMFTGQSVFCGQKAPLAIGNVLPLGQITEGCIVCNVEAKPGDRGTLARASGDYCIIISHNHETGRTRLKLPSGQKKSVPSTSRAMIGIISGGGRIEKPVLKAGNSFYRFRGKRNCWPKVRGVARNPVEHPHGGGNHQHIGHPSTVSRHSPPGQKVGLIAARRTGRIRGGKAVKGAWHPEE",
+            "entity_poly_seq_length": 260,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family is found at the very C-terminal of 60 ribosomal L4 proteins.",
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "60S ribosomal protein L4 C-terminal domain",
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF14374",
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BKR3"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L4",
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "MSARPSVSVYSASSDSVVGTCPLPAVFTAPIRNDIVKFVHTNMAKNSRQAYAVNRLSGMNHSAHSWGTGRAVARIPRISGGGTSTSGAGAFGNMCRGGRMFAPTKIFRRWHRKINLHQKRFAVVSALAASSVPSLVMSRGHRIDNVPEVPLVVEDSIQGYEKTKEAMAFLKAIAAIDDVNRVNDSREIRAGRGKMRNRRYVARRGPMLVMPNNKGTRAFRNIFGLDLANVSALNLLHLAPGGHVGRFVIWTKSAFEQLDKIFGTFTEASAVKKGFTLPAPMLTNTDVTRIMQSEEVRRVLKPKKLQAKKASRYQTPTNGIKNRRLRLRLNPYVKRETAAAKGMRNVANRDARRKAKMARVTKAKKAATKSAKQ",
+            "entity_poly_seq_one_letter_code_can": "MSARPSVSVYSASSDSVVGTCPLPAVFTAPIRNDIVKFVHTNMAKNSRQAYAVNRLSGMNHSAHSWGTGRAVARIPRISGGGTSTSGAGAFGNMCRGGRMFAPTKIFRRWHRKINLHQKRFAVVSALAASSVPSLVMSRGHRIDNVPEVPLVVEDSIQGYEKTKEAMAFLKAIAAIDDVNRVNDSREIRAGRGKMRNRRYVARRGPMLVMPNNKGTRAFRNIFGLDLANVSALNLLHLAPGGHVGRFVIWTKSAFEQLDKIFGTFTEASAVKKGFTLPAPMLTNTDVTRIMQSEEVRRVLKPKKLQAKKASRYQTPTNGIKNRRLRLRLNPYVKRETAAAKGMRNVANRDARRKAKMARVTKAKKAATKSAKQ",
+            "entity_poly_seq_length": 373,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BFL1"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L5",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MVAESKAANPMREIVVKKLCINICVGESGDRLTRASKVLEQLCEQTPVLSRARLTVRTFGIRRNEKIAVHCTVRGKKAEELLEKGLKVKEFELKSYNFSDTGSFGFGIDEHIDLGIKYDPSTGIYGMDFYVVLGRRGERVAHRKRKCSRVGHSHHVTKEEAMKWFEKVHDGIIFQAKKKKKMIRRRRR",
+            "entity_poly_seq_one_letter_code_can": "MVAESKAANPMREIVVKKLCINICVGESGDRLTRASKVLEQLCEQTPVLSRARLTVRTFGIRRNEKIAVHCTVRGKKAEELLEKGLKVKEFELKSYNFSDTGSFGFGIDEHIDLGIKYDPSTGIYGMDFYVVLGRRGERVAHRKRKCSRVGHSHHVTKEEAMKWFEKVHDGIIFQAKKKKKMIRRRRR",
+            "entity_poly_seq_length": 188,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BFB5"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L6",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MVKVKSLCTLQIPEGVTVDVKGRKVTVTGKRGTLTKDLTHLQLDLRVDKKNRTFTVIRWFGSKIPIACLNTTKAHVQNMITGVTKGYRFKVRCAYAHFPINVSVDGQNIEVRNFLGEKRVRRQLVPSSVKVSQTDPSKVKDEIIFDGNDLEQVSREAAVLHQMCLVKKKDIRKFLDGIYVQTKTNIEGME",
+            "entity_poly_seq_one_letter_code_can": "MVKVKSLCTLQIPEGVTVDVKGRKVTVTGKRGTLTKDLTHLQLDLRVDKKNRTFTVIRWFGSKIPIACLNTTKAHVQNMITGVTKGYRFKVRCAYAHFPINVSVDGQNIEVRNFLGEKRVRRQLVPSSVKVSQTDPSKVKDEIIFDGNDLEQVSREAAVLHQMCLVKKKDIRKFLDGIYVQTKTNIEGME",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L6e",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MAATKSAASAAKRKAAKKVSRKSPEYTTLRKSCAPGVIAIILAGRFRGRRAVILKQLPHNGPLVVSGPMKYNGVPIRRIDSRYVIATSTKVDISSVDTAPITPEVFQRPKAEKLTKSEGDFMGDKQKARAEKAAKKTSKAGKKTPVSDARAQLQKKIDAALIAAIKKDAQGKEKAGYLRSVFTVKPGDAPHRWNW",
+            "entity_poly_seq_one_letter_code_can": "MAATKSAASAAKRKAAKKVSRKSPEYTTLRKSCAPGVIAIILAGRFRGRRAVILKQLPHNGPLVVSGPMKYNGVPIRRIDSRYVIATSTKVDISSVDTAPITPEVFQRPKAEKLTKSEGDFMGDKQKARAEKAAKKTSKAGKKTPVSDARAQLQKKIDAALIAAIKKDAQGKEKAGYLRSVFTVKPGDAPHRWNW",
+            "entity_poly_seq_length": 195,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9B949"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L8e",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MTVRSSPTANLYLTYLLLSCPICTSPFPFATLIRTHLHHRVAPAFAFLLFFGCAHVCACVLARLLLPYFHSTFSASISRRAEKSMPGKEVKKATQPAKAASPYKKPAVASHFAARPKNFGIGQDVPYARDLSRFMRWPTFVTMQRKKRVLQRRLKVPPALNQFTKVLDRASRNEALKLIKKYAPETRKARRERLHKAAEEKKKDPKKTVSTRAPLAVVTGLQEVTRAIEKKQARMVVIANNVDPVELVLWMPNLCRANKIPYAIVKDMARLGDAIGRKTATCVAITDVNAEDEATLKNLIRSVNARFLSRSDVIRRQWGGLQLSLRSRAELRKKHARNAGVDAAAIIQ",
+            "entity_poly_seq_one_letter_code_can": "MTVRSSPTANLYLTYLLLSCPICTSPFPFATLIRTHLHHRVAPAFAFLLFFGCAHVCACVLARLLLPYFHSTFSASISRRAEKSMPGKEVKKATQPAKAASPYKKPAVASHFAARPKNFGIGQDVPYARDLSRFMRWPTFVTMQRKKRVLQRRLKVPPALNQFTKVLDRASRNEALKLIKKYAPETRKARRERLHKAAEEKKKDPKKTVSTRAPLAVVTGLQEVTRAIEKKQARMVVIANNVDPVELVLWMPNLCRANKIPYAIVKDMARLGDAIGRKTATCVAITDVNAEDEATLKNLIRSVNARFLSRSDVIRRQWGGLQLSLRSRAELRKKHARNAGVDAAAIIQ",
+            "entity_poly_seq_length": 348,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L13",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MAFPSRKDASRAQRKSAKKHRPEIIVIDLKDHVLGRAAAVVAKQLLLGKKITVVRCEQLNIAGTEIRNKIKYLQYLRKRKLTNPTKGPFHHRAPSDVFVRTVRSMLPRYTKRGMKALNSLVAYEGIPPNVVRTGGRVVIPRAQRHVCYRSERPYTVLGNMCKHVGWKYSDVVANLEKARVEKASRHHEKQAKLREAWKAARKEALAKMPKHNVEVLKKFGYA",
+            "entity_poly_seq_one_letter_code_can": "MAFPSRKDASRAQRKSAKKHRPEIIVIDLKDHVLGRAAAVVAKQLLLGKKITVVRCEQLNIAGTEIRNKIKYLQYLRKRKLTNPTKGPFHHRAPSDVFVRTVRSMLPRYTKRGMKALNSLVAYEGIPPNVVRTGGRVVIPRAQRHVCYRSERPYTVLGNMCKHVGWKYSDVVANLEKARVEKASRHHEKQAKLREAWKAARKEALAKMPKHNVEVLKKFGYA",
+            "entity_poly_seq_length": 222,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L13e",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MPKGNNAIPHVHQKKHWNPCSSQKGNVKVFLNQPAQKHRRRRLRLLKAKKVFPRPLKALRPQVNCPTVRHNMKRRLGRGFSPAELKAAGLNPQYAATIGIRVDSRRKNKSEEGMNVNVQRLKTYMSKLVLFPMNHKKVQKGEASEEEVKAATQDRSRFGDAAVGAVVYPSAETPRAVSAEEKSMCVYAFLKKNHSAVRFFGARSARAARKEAAKEEKAGK",
+            "entity_poly_seq_one_letter_code_can": "MPKGNNAIPHVHQKKHWNPCSSQKGNVKVFLNQPAQKHRRRRLRLLKAKKVFPRPLKALRPQVNCPTVRHNMKRRLGRGFSPAELKAAGLNPQYAATIGIRVDSRRKNKSEEGMNVNVQRLKTYMSKLVLFPMNHKKVQKGEASEEEVKAATQDRSRFGDAAVGAVVYPSAETPRAVSAEEKSMCVYAFLKKNHSAVRFFGARSARAARKEAAKEEKAGK",
+            "entity_poly_seq_length": 220,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes the eukaryotic ribosomal protein L14."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14"
+            ],
+            "pfam_accessions": [
+                "PF01929"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BG02"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L14e",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MLRCRLLCVDSPGALPPRSISLSSSVLRLPTHTNTHTDAYAVPLSPLLSCAQGIALCIMVKSHYICAGRLVRILRGPRQDRVGVIVDIVDANRVLVENPEDAKMWRHVQNLKNVEPLKYCVSVSRNCSAKALKDALASSKALEKYAKTRTAARVEAKKACAASTDFERYQLRVARRSRAHWARKVFDEKDAKTPVSWHKVALKKMQKKAAKMDSTEGAKRRMQKAIAARKAKK",
+            "entity_poly_seq_one_letter_code_can": "MLRCRLLCVDSPGALPPRSISLSSSVLRLPTHTNTHTDAYAVPLSPLLSCAQGIALCIMVKSHYICAGRLVRILRGPRQDRVGVIVDIVDANRVLVENPEDAKMWRHVQNLKNVEPLKYCVSVSRNCSAKALKDALASSKALEKYAKTRTAARVEAKKACAASTDFERYQLRVARRSRAHWARKVFDEKDAKTPVSWHKVALKKMQKKAAKMDSTEGAKRRMQKAIAARKAKK",
+            "entity_poly_seq_length": 233,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L15"
+            ],
+            "pfam_accessions": [
+                "PF00827"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BMB4"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L15e",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MGAFMYLNELWKKKSSDVMRFIQRIRSWEFRHQHTVVRLRRPTRPEKARMLGYKTKQGFCVFRVRVRRGGRKRPVHKGITYGKPKTSGVLGMKLNKNNQAVAEQRLGKRFGNLRVLNSYWVNMDSTFKWYEVIAVDPMCKTIRRDPRINWIVNSVHKHREQRGLTSAGRKHRGLRHKGHKASKLRPSYRAAWRRNNRIVFLRKR",
+            "entity_poly_seq_one_letter_code_can": "MGAFMYLNELWKKKSSDVMRFIQRIRSWEFRHQHTVVRLRRPTRPEKARMLGYKTKQGFCVFRVRVRRGGRKRPVHKGITYGKPKTSGVLGMKLNKNNQAVAEQRLGKRFGNLRVLNSYWVNMDSTFKWYEVIAVDPMCKTIRRDPRINWIVNSVHKHREQRGLTSAGRKHRGLRHKGHKASKLRPSYRAAWRRNNRIVFLRKR",
+            "entity_poly_seq_length": 204,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9B840"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L16",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MARRPSRCYRFCKNKPYPKSRFCRGVPDPKIRNFDIGRRRATVDEFPVCIHVVSRELEQIASEALEAARIQANKYMVKRANKDVFHMRTRAHPFHVLRINKMLSCAGADRLQTGMRGAFGKPNGVCARVRIGQILLSMRTKEAYVPQAFEALRRAKMKFPGRQIIVMSKYWGFTNILRTEYEALRDAGKLEQRGTHCKLIAPKGKITMRNVMA",
+            "entity_poly_seq_one_letter_code_can": "MARRPSRCYRFCKNKPYPKSRFCRGVPDPKIRNFDIGRRRATVDEFPVCIHVVSRELEQIASEALEAARIQANKYMVKRANKDVFHMRTRAHPFHVLRINKMLSCAGADRLQTGMRGAFGKPNGVCARVRIGQILLSMRTKEAYVPQAFEALRRAKMKFPGRQIIVMSKYWGFTNILRTEYEALRDAGKLEQRGTHCKLIAPKGKITMRNVMA",
+            "entity_poly_seq_length": 213,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family contains the large 60S ribosomal L5 proteins from Eukaryota and the 50S L18 proteins from Archaea. It has been shown that the amino terminal 93 amino acids of Swiss:P09895 are necessary and sufficient to bind 5S rRNA in vitro [1], suggesting that the entire family has a function in rRNA binding [2,3,4,5].",
+                "This domain is the C-terminal end of ribosomal L18/L5 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal large subunit proteins 60S L5, and 50S L18",
+                "Ribosomal L18 C-terminal region"
+            ],
+            "pfam_accessions": [
+                "PF17144",
+                "PF14204"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BS61"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L18",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MPFVKVVKNKAYFKRFQVKYRRRREGKTDYHARRQMVLQDKTKFGSPKYRLVVRITNKDIIAQIVQAKIVGDEVVMAAYAHELPAFGIEHGLTNYAAAYATGLLLARRTLAKLGIADKFQGAKEADGSYSAVRTKKDDEGDDEERFPFKAILDVGLARTTTGARVFGVLKGAVDGGMAVPHRPNRFPGYNKEKSSLDAKVHRDRIFGKHVAEYLKQVKEEASSNPDEKCVQFSRYMAAKVLPESIEGMYKKAHAAIRADPSKSLPKKAKKEGVAHKSYKTKKLSGAEKRAAAKAKVAAIRERLGK",
+            "entity_poly_seq_one_letter_code_can": "MPFVKVVKNKAYFKRFQVKYRRRREGKTDYHARRQMVLQDKTKFGSPKYRLVVRITNKDIIAQIVQAKIVGDEVVMAAYAHELPAFGIEHGLTNYAAAYATGLLLARRTLAKLGIADKFQGAKEADGSYSAVRTKKDDEGDDEERFPFKAILDVGLARTTTGARVFGVLKGAVDGGMAVPHRPNRFPGYNKEKSSLDAKVHRDRIFGKHVAEYLKQVKEEASSNPDEKCVQFSRYMAAKVLPESIEGMYKKAHAAIRADPSKSLPKKAKKEGVAHKSYKTKKLSGAEKRAAAKAKVAAIRERLGK",
+            "entity_poly_seq_length": 305,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This is a family of ribosomal proteins, 60S L18 from eukaryotes and 50S L18e from Archaea."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein 60S L18 and 50S L18e"
+            ],
+            "pfam_accessions": [
+                "PF17135"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BUI1"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L18e",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MGVDLTGISKKSRVIRHHTYSTNPYIKLLIKLYKFLAKRTSSGFNKVVYQRLIKSRSNRAPISLSRIAVVMKRKAVFTAKSKAAPIAVVVGDVLDDVRMARIPAMRVCALRFSKSARQSIVAAGGECLTFDQLAMIAPTGKNTYLLRGRKSGRESVRHFGASGVPGSHSKPYATNRGKETKRGRRTGRSYKRKAFRHV",
+            "entity_poly_seq_one_letter_code_can": "MGVDLTGISKKSRVIRHHTYSTNPYIKLLIKLYKFLAKRTSSGFNKVVYQRLIKSRSNRAPISLSRIAVVMKRKAVFTAKSKAAPIAVVVGDVLDDVRMARIPAMRVCALRFSKSARQSIVAAGGECLTFDQLAMIAPTGKNTYLLRGRKSGRESVRHFGASGVPGSHSKPYATNRGKETKRGRRTGRSYKRKAFRHV",
+            "entity_poly_seq_length": 198,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19e"
+            ],
+            "pfam_accessions": [
+                "PF01280"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9B8Q2"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L19e",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MVSLKLQARLASSILGCGRARVWLDPNEAVEIQNANSRKSVRKLIKDGFIIRKPVKVHSRARWRKMKEAKDMGRHNGVGRREGSREARMPSKELWMRRLRILRRLLRKYRADKKIDRHVYRDLYVRAKGNVFRNKRNLVEHIHKIKNEKKKERQLAEQLAAKHLRDEQNRNKARKQELRKREKERERARRDDAAAAAQKKKADAAKKSAASAAKSAAPAAKSAAPAAKVAAPATKGAAPVKKSKK",
+            "entity_poly_seq_one_letter_code_can": "MVSLKLQARLASSILGCGRARVWLDPNEAVEIQNANSRKSVRKLIKDGFIIRKPVKVHSRARWRKMKEAKDMGRHNGVGRREGSREARMPSKELWMRRLRILRRLLRKYRADKKIDRHVYRDLYVRAKGNVFRNKRNLVEHIHKIKNEKKKERQLAEQLAAKHLRDEQNRNKARKQELRKREKERERARRDDAAAAAQKKKADAAKKSAASAAKSAAPAAKSAAPAAKVAAPATKGAAPVKKSKK",
+            "entity_poly_seq_length": 245,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes: archaeal 50S ribosomal protein L18Ae, often referred to as L20e or LX; fungal 60S ribosomal protein L20; and higher eukaryote 60S ribosomal protein L18A."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A"
+            ],
+            "pfam_accessions": [
+                "PF01775"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BRT7"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L20e",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MVKPHLRHYQVVGRESPSEKNPEPTVYKFEVFAPNFVVAKSRFWRMMRVKNKVKATHGDVLSCKVVKDAKLVARNYLVDIAYYSQRCGYTRMVKEFRDVSKTGAVSQAYHDLASRHRARYHNIEVLNVKSIPDHEVKHLSIAQYHAPNLSFPLLQRRIKAARKDRAIFVKKNTKRAVVA",
+            "entity_poly_seq_one_letter_code_can": "MVKPHLRHYQVVGRESPSEKNPEPTVYKFEVFAPNFVVAKSRFWRMMRVKNKVKATHGDVLSCKVVKDAKLVARNYLVDIAYYSQRCGYTRMVKEFRDVSKTGAVSQAYHDLASRHRARYHNIEVLNVKSIPDHEVKHLSIAQYHAPNLSFPLLQRRIKAARKDRAIFVKKNTKRAVVA",
+            "entity_poly_seq_length": 179,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L21e"
+            ],
+            "pfam_accessions": [
+                "PF01157"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BRE2"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L21e",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MVHSYGYKSGTRHLFAKKFRKHGAPSVSTILTNIKVGDYVDVVADSAVREGMPHKYYHGRTGIVWNVTPRGVGVIINKPVRTRTLRKRICVRFEHVRKSRCQEAFKAKEHQFQAYLAAKKAGKALPPLKKSSRMGGIVRPKNVEVLARRVADYEAMVPY",
+            "entity_poly_seq_one_letter_code_can": "MVHSYGYKSGTRHLFAKKFRKHGAPSVSTILTNIKVGDYVDVVADSAVREGMPHKYYHGRTGIVWNVTPRGVGVIINKPVRTRTLRKRICVRFEHVRKSRCQEAFKAKEHQFQAYLAAKKAGKALPPLKKSSRMGGIVRPKNVEVLARRVADYEAMVPY",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BGL6"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L22",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MTHYSRKPQVSSKSAKAKVSDLRCHYKNTFETANVINGMPLRKAQQLYRQVLAKTRCIPFKRYNGKIGRTAQAKEWGQTKGRWPRKSVVAMMSLLKNAEANAIEKGLDPNQMVIKHVQVDQAARMRRRTYRAHGRITPYMCSPCHVQLFMSEKKERVPTPKSAPKK",
+            "entity_poly_seq_one_letter_code_can": "MTHYSRKPQVSSKSAKAKVSDLRCHYKNTFETANVINGMPLRKAQQLYRQVLAKTRCIPFKRYNGKIGRTAQAKEWGQTKGRWPRKSVVAMMSLLKNAEANAIEKGLDPNQMVIKHVQVDQAARMRRRTYRAHGRITPYMCSPCHVQLFMSEKKERVPTPKSAPKK",
+            "entity_poly_seq_length": 166,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L22e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01776"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BU52"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L22e",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MVAVRAKVGSRSYVRQKQLAKGKKVFKIDCSIPAADGIFSEDVLGNFEQFFQDNTKLNGRKGKLSDKVRLSMNDNVLTISTTMAYRKKYFKYLTKKFLKKKDLRDWIRILATGKGTYQLKYFNIQDQEE",
+            "entity_poly_seq_one_letter_code_can": "MVAVRAKVGSRSYVRQKQLAKGKKVFKIDCSIPAADGIFSEDVLGNFEQFFQDNTKLNGRKGKLSDKVRLSMNDNVLTISTTMAYRKKYFKYLTKKFLKKKDLRDWIRILATGKGTYQLKYFNIQDQEE",
+            "entity_poly_seq_length": 129,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L24",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MASIKCGSRRKARRAHFQAPSHVRRVLMSAPLSKELRAKYNVRAMPVRKDDEVIVKRGTFKGREGKVTACYRLKWVILIDKVNREKANGSTVAVGIHPSNVEITKLKLTHHRKSILERKDRSSKSDKGKGKISAADKAMQQMD",
+            "entity_poly_seq_one_letter_code_can": "MASIKCGSRRKARRAHFQAPSHVRRVLMSAPLSKELRAKYNVRAMPVRKDDEVIVKRGTFKGREGKVTACYRLKWVILIDKVNREKANGSTVAVGIHPSNVEITKLKLTHHRKSILERKDRSSKSDKGKGKISAADKAMQQMD",
+            "entity_poly_seq_length": 143,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L24e",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MRTIECEFSHFAVHPGHGRRYVPFAFLSTKPVLTFSRPKCFALYMRKKNPRFIPWTRTYRRIHRKTTTDRVNRRRAARAVRVQRAIVGADLSYIQEVRAARKEDRSAKAKAIRAEVAERKAAKK",
+            "entity_poly_seq_one_letter_code_can": "MRTIECEFSHFAVHPGHGRRYVPFAFLSTKPVLTFSRPKCFALYMRKKNPRFIPWTRTYRRIHRKTTTDRVNRRRAARAVRVQRAIVGADLSYIQEVRAARKEDRSAKAKAIRAEVAERKAAKK",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "The N-terminal region of the eukaryotic ribosomal L27 has the KOW motif.  C-terminal region is represented by this family.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27e protein family",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF01777",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BP34"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L27e",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MTKFLKPGKVVIVTAGRYAGHKAVIVQNSDIATKERPYGRALLAGIKKYPKKVVRGMSKQTIARRSQVGVFLRVVNHKHFLPTRYNVDMSKELRGKINVSDASKRSRSKRLVRHVFQARYNAGSSMWFFQRLRF",
+            "entity_poly_seq_one_letter_code_can": "MTKFLKPGKVVIVTAGRYAGHKAVIVQNSDIATKERPYGRALLAGIKKYPKKVVRGMSKQTIARRSQVGVFLRVVNHKHFLPTRYNVDMSKELRGKINVSDASKRSRSKRLVRHVFQARYNAGSSMWFFQRLRF",
+            "entity_poly_seq_length": 134,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL27",
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01778"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BAU9"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L28e",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MSHSVDLQWILVRQNSRFLQKRGGIRMSNDPFNNNGNWTKRHCGFLNEKAAVVKPAKGGAICVTVKDGSSNNKPRQTYRKTVHAAGVRASDVSRAVAAVRPDLADVSFRRARRMACIASRTAKVAAARKARSEKIKFSRKSVRAKRH",
+            "entity_poly_seq_one_letter_code_can": "MSHSVDLQWILVRQNSRFLQKRGGIRMSNDPFNNNGNWTKRHCGFLNEKAAVVKPAKGGAICVTVKDGSSNNKPRQTYRKTVHAAGVRASDVSRAVAAVRPDLADVSFRRARRMACIASRTAKVAAARKARSEKIKFSRKSVRAKRH",
+            "entity_poly_seq_length": 147,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BIP6"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L29",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MSHHMKIKDLREKSKDDLLKTLTEYKKELSQLRVVQQTGGAETRLGRIRPIRKSIARILTVLNQNERSNLKMFYADRKLRCKTPKVLRAKLTHRRRLALKENEKNRKTSRQMRQAHKFPKRVYAVKI",
+            "entity_poly_seq_one_letter_code_can": "MSHHMKIKDLREKSKDDLLKTLTEYKKELSQLRVVQQTGGAETRLGRIRPIRKSIARILTVLNQNERSNLKMFYADRKLRCKTPKVLRAKLTHRRRLALKENEKNRKTSRQMRQAHKFPKRVYAVKI",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01779"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BU64"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L29e",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MAKSKNHTNHNQSSKNHRNGIKGPMPLHLHNSKRGSWLPALVNARRVRKHNQKAALKKRRERIAAFAAKN",
+            "entity_poly_seq_one_letter_code_can": "MAKSKNHTNHNQSSKNHRNGIKGPMPLHLHNSKRGSWLPALVNARRVRKHNQKAALKKRRERIAAFAAKN",
+            "entity_poly_seq_length": 70,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BRQ6"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L30e",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MAKKTKSKVDTINAKLQLVMKSGKYVLGTQQALTTLRQGRSKLIVISNNCPPIRRAEVEYYCTLSKTPIHHYSGNNLDLGTACGKHFRTCVLSVTNVGDSDIAA",
+            "entity_poly_seq_one_letter_code_can": "MAKKTKSKVDTINAKLQLVMKSGKYVLGTQQALTTLRQGRSKLIVISNNCPPIRRAEVEYYCTLSKTPIHHYSGNNLDLGTACGKHFRTCVLSVTNVGDSDIAA",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31e"
+            ],
+            "pfam_accessions": [
+                "PF01198"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BSK4"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L31e",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MKGKVLGKEKKAAIIDARKKDAESRKNRDDKRWKRVLANMDEEKRKKFHGVGNTAKNSRVRGATRASLRKRTGRKPDAVSMEATIHLSKLLKKKTFSKRAPLAIKRIKAFVGRLMKTKDNRIDASLNTYIWHKGVKGVPGRVRVLIQRKSETTEGNKHKHFYTVISNVPVASFKGLTTKTVEQ",
+            "entity_poly_seq_one_letter_code_can": "MKGKVLGKEKKAAIIDARKKDAESRKNRDDKRWKRVLANMDEEKRKKFHGVGNTAKNSRVRGATRASLRKRTGRKPDAVSMEATIHLSKLLKKKTFSKRAPLAIKRIKAFVGRLMKTKDNRIDASLNTYIWHKGVKGVPGRVRVLIQRKSETTEGNKHKHFYTVISNVPVASFKGLTTKTVEQ",
+            "entity_poly_seq_length": 183,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes ribosomal protein L32 from eukaryotes and archaebacteria."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L32"
+            ],
+            "pfam_accessions": [
+                "PF01655"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BFJ5"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L32e",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MVKPTVSKAIVKKRTKRFTRHRYELFPQLSSSWRKPRGEDSPVRRRYKGQKAMPNKGYGSDRATKYITPSGFRSFPINNVEDLYMLVMQNRKYAGVISHTVGARKRKAIARKAMELDVRLANGNAKLRKIANQ",
+            "entity_poly_seq_one_letter_code_can": "MVKPTVSKAIVKKRTKRFTRHRYELFPQLSSSWRKPRGEDSPVRRRYKGQKAMPNKGYGSDRATKYITPSGFRSFPINNVEDLYMLVMQNRKYAGVISHTVGARKRKAIARKAMELDVRLANGNAKLRKIANQ",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35Ae"
+            ],
+            "pfam_accessions": [
+                "PF01247"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BR22"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L33e",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MTTSKVHSQRSKKLHQLSAKTSRVNRNRKAPRLYMKGTLAGYTRGLHGQTKQTALVRVENVNTREDATWYVGKRVCYVYHGKKVKRCVRWSKAPARRSTTRALWGRVTRPHGNAGMMRVKFNGASVPASAIGRRIRVYLYPSQI",
+            "entity_poly_seq_one_letter_code_can": "MTTSKVHSQRSKKLHQLSAKTSRVNRNRKAPRLYMKGTLAGYTRGLHGQTKQTALVRVENVNTREDATWYVGKRVCYVYHGKKVKRCVRWSKAPARRSTTRALWGRVTRPHGNAGMMRVKFNGASVPASAIGRRIRVYLYPSQI",
+            "entity_poly_seq_length": 144,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34e"
+            ],
+            "pfam_accessions": [
+                "PF01199"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BUA1"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L34e",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MSCPRVQYRRRMHYATRGNRMKMVRTPGNKLVMQKRAKRSQGIHTPWVLGHKRLGGTKALRHIDARLASRHEKSVSRAYGGVLSHDQVRDRVVRAFLVEEQRIVKQALKEHSKMKLSHKRTANKKKSKQSKKEAIAKKISTKTVSKKKAPAKKATTTRQPVGSKLVKK",
+            "entity_poly_seq_one_letter_code_can": "MSCPRVQYRRRMHYATRGNRMKMVRTPGNKLVMQKRAKRSQGIHTPWVLGHKRLGGTKALRHIDARLASRHEKSVSRAYGGVLSHDQVRDRVVRAFLVEEQRIVKQALKEHSKMKLSHKRTANKKKSKQSKKEAIAKKISTKTVSKKKAPAKKATTTRQPVGSKLVKK",
+            "entity_poly_seq_length": 168,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36e"
+            ],
+            "pfam_accessions": [
+                "PF01158"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BF65"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L36e",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MSAPTPRTGIIAGFNKGHVTTRRPRQPSPNDRFAVPHKHLRAVKAIIADLVGLSPLEKRVQEFLRVGKEKRALKYCKKRLGDFTAAKKKRSKMEEALRHTTKKHH",
+            "entity_poly_seq_one_letter_code_can": "MSAPTPRTGIIAGFNKGHVTTRRPRQPSPNDRFAVPHKHLRAVKAIIADLVGLSPLEKRVQEFLRVGKEKRALKYCKKRLGDFTAAKKKRSKMEEALRHTTKKHH",
+            "entity_poly_seq_length": 105,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes ribosomal protein L37 from eukaryotes and archaebacteria. The family contains many conserved cysteines and histidines suggesting that this protein may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L37e"
+            ],
+            "pfam_accessions": [
+                "PF01907"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "P62885"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L37e",
+            "entity_poly_strand_id": "j",
+            "entity_poly_seq_one_letter_code": "MTKGTTSMGQRHGRTHILCRRCGRNSYHVQWERCAACAYPRASRRRYNWSVKAIKRRRTGTGRCRYLKVVNRRIANHFKTPKA",
+            "entity_poly_seq_one_letter_code_can": "MTKGTTSMGQRHGRTHILCRRCGRNSYHVQWERCAACAYPRASRRRYNWSVKAIKRRRTGTGRCRYLKVVNRRIANHFKTPKA",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL37"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L38e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01781"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9B7P2"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L38e",
+            "entity_poly_strand_id": "k",
+            "entity_poly_seq_one_letter_code": "MPREIKTLKEFLAICSRKDARCVKVKHNPSATKFKVRCSRYLYTLVVNDKKKADKIERSIHPSVKKIAVTARSHAKTNAGSKQ",
+            "entity_poly_seq_one_letter_code_can": "MPREIKTLKEFLAICSRKDARCVKVKHNPSATKFKVRCSRYLYTLVVNDKKKADKIERSIHPSVKKIAVTARSHAKTNAGSKQ",
+            "entity_poly_seq_length": 83,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL38"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L39 protein"
+            ],
+            "pfam_accessions": [
+                "PF00832"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BCX6"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L39e",
+            "entity_poly_strand_id": "l",
+            "entity_poly_seq_one_letter_code": "MGRFKPLAVKKKYAKKMNQNKPVPYWIRLRTGNRIKWNEKRRHWRRTKLNY",
+            "entity_poly_seq_one_letter_code_can": "MGRFKPLAVKKKYAKKMNQNKPVPYWIRLRTGNRIKWNEKRRHWRRTKLNY",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL39"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This ribosomal protein is found in archaebacteria and eukaryotes. It contains four conserved cysteine residues that may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L37ae protein family"
+            ],
+            "pfam_accessions": [
+                "PF01780"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BFK4"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L43e",
+            "entity_poly_strand_id": "m",
+            "entity_poly_seq_one_letter_code": "MAKRTVKMGVMGRYGTRYGANPRKRAKKLEVSQHAKHFCSFCGKFAFRRKAVGIWRCDGCSKTVAGGAYTLSTPNNSTVRSTVRRLRELAKI",
+            "entity_poly_seq_one_letter_code_can": "MAKRTVKMGVMGRYGTRYGANPRKRAKKLEVSQHAKHFCSFCGKFAFRRKAVGIWRCDGCSKTVAGGAYTLSTPNNSTVRSTVRRLRELAKI",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL43"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L44"
+            ],
+            "pfam_accessions": [
+                "PF00935"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BBL5"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L44e",
+            "entity_poly_strand_id": "n",
+            "entity_poly_seq_one_letter_code": "MVNYPKKKVMHCGDARCNAHKSFKVVQYKAGKARLFARGKRRYDRKQSGYGGQTKPVFHKKAKTTKKIVLKLQCSGCKSIRQVVLKRTKHFELNDKKKTGNKDPTW",
+            "entity_poly_seq_one_letter_code_can": "MVNYPKKKVMHCGDARCNAHKSFKVVQYKAGKARLFARGKRRYDRKQSGYGGQTKPVFHKKAKTTKKIVLKLQCSGCKSIRQVVLKRTKHFELNDKKKTGNKDPTW",
+            "entity_poly_seq_length": 106,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL42"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "ribosomal protein L3",
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "MSHCKFEHPRHGHLGFLPRKRSRQIRGRARAFPKDDATQKPHLTSFMVFKAGMTHIVRDVDRPGSKVNKKEVVEPVTILEAPPMVIVGIVGYRQTPVGLKTIGTVWAHHTSVEFRRRYYKNWKQSAQLAFSRQKQFANTKEGKVAEARTLNAFAKKASVIRVIAHTQLRKLRNHRVGVKKAHVQEIQINGGNVAAKIALAKSLLEKEVRVDSVFQQSEACDVCSVTKGHGTEGVVKRWGVACLPRKTHRGLRKVACIGAWHPARVMYTVARAGQHGYHHRTQLNKKIYQIGRSVAVEPNQATTTYDLTAKTITPMGGFVGYGTVRNDYVMLKGSVSGPRRRVMTLRRPMAPQTSRHLKEKIVLKFIDTSSKIGHGRFQTKKEKNQWFGPLKKDRIRREERLRKERAARAVERKAKVAKK",
+            "entity_poly_seq_one_letter_code_can": "MSHCKFEHPRHGHLGFLPRKRSRQIRGRARAFPKDDATQKPHLTSFMVFKAGMTHIVRDVDRPGSKVNKKEVVEPVTILEAPPMVIVGIVGYRQTPVGLKTIGTVWAHHTSVEFRRRYYKNWKQSAQLAFSRQKQFANTKEGKVAEARTLNAFAKKASVIRVIAHTQLRKLRNHRVGVKKAHVQEIQINGGNVAAKIALAKSLLEKEVRVDSVFQQSEACDVCSVTKGHGTEGVVKRWGVACLPRKTHRGLRKVACIGAWHPARVMYTVARAGQHGYHHRTQLNKKIYQIGRSVAVEPNQATTTYDLTAKTITPMGGFVGYGTVRNDYVMLKGSVSGPRRRVMTLRRPMAPQTSRHLKEKIVLKFIDTSSKIGHGRFQTKKEKNQWFGPLKKDRIRREERLRKERAARAVERKAKVAKK",
+            "entity_poly_seq_length": 419,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BSQ4"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L14",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MGKDQANVKGCRFRVSVALPVGAVVNCADNTGAKNLYVISVKGYHGRLNRLPSAALGDMVMCSVKKGKPELRKKVLNAVIIRQRKSWRRKDGTVIYFEDNAGVIVNPKGEMKGSGIAGPVAKESADLWPKISTHAPAIV",
+            "entity_poly_seq_one_letter_code_can": "MGKDQANVKGCRFRVSVALPVGAVVNCADNTGAKNLYVISVKGYHGRLNRLPSAALGDMVMCSVKKGKPELRKKVLNAVIIRQRKSWRRKDGTVIYFEDNAGVIVNPKGEMKGSGIAGPVAKESADLWPKISTHAPAIV",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BSQ2"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L15",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MPTRFKKCRHQRGSTFCGYGRVGKHRKHESGRGNAGGMHHHRINFDKYHPGYFGKLGMDHYHRKKNPMWKPTINLNNLSRLIAAEEAAKATKGGTLPVVDLQSSGYAKLLGNGHIQVPCIVKARYVSKLADKKIRKAGGAVVLQA",
+            "entity_poly_seq_one_letter_code_can": "MPTRFKKCRHQRGSTFCGYGRVGKHRKHESGRGNAGGMHHHRINFDKYHPGYFGKLGMDHYHRKKNPMWKPTINLNNLSRLIAAEEAAKATKGGTLPVVDLQSSGYAKLLGNGHIQVPCIVKARYVSKLADKKIRKAGGAVVLQA",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9B8R9"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L23",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MPLAQKTAKKAAPKDAKATKVVKVTKRKSYTRPQFRRPHTYRKPAMAKPSNRVTVESKDIAAFSVIRYPLTTDKAMKKIEENNTLTFIVDSRANKTEIKKAMRKLYQVKAVKVNTLIRPDGLKKAYIRLSAAHDALDTANKIGLV",
+            "entity_poly_seq_one_letter_code_can": "MPLAQKTAKKAAPKDAKATKVVKVTKRKSYTRPQFRRPHTYRKPAMAKPSNRVTVESKDIAAFSVIRYPLTTDKAMKKIEENNTLTFIVDSRANKTEIKKAMRKLYQVKAVKVNTLIRPDGLKKAYIRLSAAHDALDTANKIGLV",
+            "entity_poly_seq_length": 145,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of Ribosomal L30 proteins and has been termed RL30NT or NUC018 [1].",
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L30 N-terminal domain",
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF08079",
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "uniprot_accession": [
+                "E9BI29"
+            ],
+            "rcsb_pdbx_description": "ribosomal protein L30",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MTTHSVYGNASDMPAVPAPESAIKRAAFKQQQTENFKKAVVARKAAKAALKKTAYLRARKYSREYRGAEKKLVTLRRQAASHGNYYLEAKPKVAVVTRIRGIAKVNPKQRKILQLLRLRQIFNTVFVKMNKPMENMLRAVEPYIAYGYPSLATVRAMVYKRGYLKINGQRVKITDNQMIKDKYNNADIVCAEDMVNQIYTCGKHFRTVTHGMWPFKLAPPAGGMRQKRRHFVEGGDYGNRDTLINRFLARMI",
+            "entity_poly_seq_one_letter_code_can": "MTTHSVYGNASDMPAVPAPESAIKRAAFKQQQTENFKKAVVARKAAKAALKKTAYLRARKYSREYRGAEKKLVTLRRQAASHGNYYLEAKPKVAVVTRIRGIAKVNPKQRKILQLLRLRQIFNTVFVKMNKPMENMLRAVEPYIAYGYPSLATVRAMVYKRGYLKINGQRVKITDNQMIKDKYNNADIVCAEDMVNQIYTCGKHFRTVTHGMWPFKLAPPAGGMRQKRRHFVEGGDYGNRDTLINRFLARMI",
+            "entity_poly_seq_length": 252,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "26S delta ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "UCCCAACUGCAGACCGUACUCAUCACCGCAUCAGGUCCCCAAGCAUAGAAUGCUCUGGUACAUAGAGAAA(OMG)GUACACUCAGGGAAGUCGGCAAAAUAGAUGCGUAAGUUCGCAAGAAGCAUUGGCUCUGAGGGCAAAGUCAGAGAAAACCGGAAGGCCAGUGUCCUCUCGCAUGCAGCCGUUCUUCAGAUGUUGUUUUGGCGCUCGCCGCCUUAGCACGCUGAUAGCGACUGUACUGUCGUCUGUGAAGGCUACCUUCCCGAGGCGUCGUAACCCGGCGUCUCACUCUGGCACGGGCCGGUCUUGGCGGGUUCACGCUCGCCUUGUGCCGCGUCCCACAAAUUGCCAACUCAGAACUGCUUACGGCGGGGAAUCCAACUGU(A2M)UAAUUAAAACAUAGGUUUGUGAUGCAUCCAAGUGGUGUAUAUCGCAAACUGAUUUCUGCC(OMC)AGUGCUCUGAAUGUCAACGUGACGAGAUUCACCGACGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAA(A2M)UGCCUC(OMG)UCUUCCAAUUAGAGACGCG(OMC)AUGAAUGGAUUAAUGA(OMG)(A2M)UUCCCUCUGU(OMC)CCGAGUU(A2M)CUAUCUAGCGAAACGACAGUCAAGGGAACGGACUUG(A2M)AGGGCUAAGCGG(OMG)GAAAGAAGACCCU(OMG)(OMU)UGAGUUUGAC(OMU)CCAGUCUGGCUCUGUGCGGCGACAUCUGAGGUGUAGUAUAGGUGGAAGCGCAAGCGCAAAUGAAAUACCACCACUCGGAACGUUGCUUCACUUAUCGAAUGAAGAGACCAAUGGGUUUAGCGUAGUCUUCGGGCUAUGCACCGUCUAGGUUUGGGAGUAAUUUUAUGGCGGUAACCCCGUCCCCACGGGAAAGGGUGGUGUGCUUUUUUCUGCGUGCGUCUUCACGGGCGUCGCGCGGGCCCCGCUCUUUUUUAUUACGUUUCCUUCGGGGGGCGUGACUCGUGGGUACCCAACCGUGCUGUAAACUGAACCAACGGGAUUGCCUCGUGCAGUUCCGGAGUCUUGUUUCGAGACAUCUGCCAGAUGGGGAGUUUGGCUGGGGCGGCAUAUCUGUUACACGACAACGCAGG(OMU)(OMG)UCCUAAGGCGAGCUCAGUGGGAACAGAAAUCUCACGUAGAACACAAGCGUAAAAGCUUGCUUGAUUAACGAUU(OMU)CCAGUA(OMC)GAAUCGAGACUGCGAAAGCAAGGCC(A2M)GCGAUCCUUUGCGAAGAAUAGGAAAUAUGAACAAAUCAUACCA(OMG)AGGUGUCAGAAUAAUUAC(OMC)ACAG(OMG)GAUAACUGGCUUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGG(OMC)UCUUCCUAACCUAGCGCCGCAGAAGACGCUAAGGGUUGGAUUGUUCACCCACUGACAGGGAACGUGAGCUGGGUUUAGA(OMC)CGUCG(H2U)GAGACAGGUUGGUUUUACCCUACUUAGCUGGAAAUUGCGAGAAAAAGAUUAUCCGUGCAAAGCGGACGUCGGGUCGUUCUUGGGCCUGGCGAGCGGUGGGUAGUACUUGGUACGCUCAUCACC",
+            "entity_poly_seq_one_letter_code_can": "UCCCAACUGCAGACCGUACUCAUCACCGCAUCAGGUCCCCAAGCAUAGAAUGCUCUGGUACAUAGAGAAAGGUACACUCAGGGAAGUCGGCAAAAUAGAUGCGUAAGUUCGCAAGAAGCAUUGGCUCUGAGGGCAAAGUCAGAGAAAACCGGAAGGCCAGUGUCCUCUCGCAUGCAGCCGUUCUUCAGAUGUUGUUUUGGCGCUCGCCGCCUUAGCACGCUGAUAGCGACUGUACUGUCGUCUGUGAAGGCUACCUUCCCGAGGCGUCGUAACCCGGCGUCUCACUCUGGCACGGGCCGGUCUUGGCGGGUUCACGCUCGCCUUGUGCCGCGUCCCACAAAUUGCCAACUCAGAACUGCUUACGGCGGGGAAUCCAACUGUAUAAUUAAAACAUAGGUUUGUGAUGCAUCCAAGUGGUGUAUAUCGCAAACUGAUUUCUGCCCAGUGCUCUGAAUGUCAACGUGACGAGAUUCACCGACGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCUUCCAAUUAGAGACGCGCAUGAAUGGAUUAAUGAGAUUCCCUCUGUCCCGAGUUACUAUCUAGCGAAACGACAGUCAAGGGAACGGACUUGAAGGGCUAAGCGGGGAAAGAAGACCCUGUUGAGUUUGACUCCAGUCUGGCUCUGUGCGGCGACAUCUGAGGUGUAGUAUAGGUGGAAGCGCAAGCGCAAAUGAAAUACCACCACUCGGAACGUUGCUUCACUUAUCGAAUGAAGAGACCAAUGGGUUUAGCGUAGUCUUCGGGCUAUGCACCGUCUAGGUUUGGGAGUAAUUUUAUGGCGGUAACCCCGUCCCCACGGGAAAGGGUGGUGUGCUUUUUUCUGCGUGCGUCUUCACGGGCGUCGCGCGGGCCCCGCUCUUUUUUAUUACGUUUCCUUCGGGGGGCGUGACUCGUGGGUACCCAACCGUGCUGUAAACUGAACCAACGGGAUUGCCUCGUGCAGUUCCGGAGUCUUGUUUCGAGACAUCUGCCAGAUGGGGAGUUUGGCUGGGGCGGCAUAUCUGUUACACGACAACGCAGGUGUCCUAAGGCGAGCUCAGUGGGAACAGAAAUCUCACGUAGAACACAAGCGUAAAAGCUUGCUUGAUUAACGAUUUCCAGUACGAAUCGAGACUGCGAAAGCAAGGCCAGCGAUCCUUUGCGAAGAAUAGGAAAUAUGAACAAAUCAUACCAGAGGUGUCAGAAUAAUUACCACAGGGAUAACUGGCUUGUGGCGGCCAAGCGUUCAUAGCGACGUCGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAACCUAGCGCCGCAGAAGACGCUAAGGGUUGGAUUGUUCACCCACUGACAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUGGUUUUACCCUACUUAGCUGGAAAUUGCGAGAAAAAGAUUAUCCGUGCAAAGCGGACGUCGGGUCGUUCUUGGGCCUGGCGAGCGGUGGGUAGUACUUGGUACGCUCAUCACC",
+            "entity_poly_seq_length": 1527,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "26S gamma ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "UAGUGGUAAUGCGAAACACUUGCCAGGUAACAAAUCAAUCCUCCCACGGUGAGCUUUCUUUUCACCAUAAUCCACAUCUCCGGCUUUGCUGGGGCUUGGGCCUUUUUACUUCUCGCGUUGUUCGGAGCGGGGGCUCAAGAUUGAAAAAUGCAGCUCUCCCUACGUACUGUCAUUGUUGUGAGUUCUGCGCAUUAAAGCAAAAACCUGGGGUGU",
+            "entity_poly_seq_one_letter_code_can": "UAGUGGUAAUGCGAAACACUUGCCAGGUAACAAAUCAAUCCUCCCACGGUGAGCUUUCUUUUCACCAUAAUCCACAUCUCCGGCUUUGCUGGGGCUUGGGCCUUUUUACUUCUCGCGUUGUUCGGAGCGGGGGCUCAAGAUUGAAAAAUGCAGCUCUCCCUACGUACUGUCAUUGUUGUGAGUUCUGCGCAUUAAAGCAAAAACCUGGGGUGU",
+            "entity_poly_seq_length": 213,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "26S delta ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "GUGAGAUUGUGAAGGGAUCUCGCAGGUAUCGUGAGGGAAGUAUGGGGUAGUACGAGAGGAACUCCCAUGCCGUGCCUCUAGUUUCUGGGGUUUGUCGAACGGCAAGUGCCCCGAAGCCAUCGCACGGUGGUUCUCGGCUGAACGCCUCUAAGCCAGAAGCCAAUCCCAAGACCAGAUGCCCAC",
+            "entity_poly_seq_one_letter_code_can": "GUGAGAUUGUGAAGGGAUCUCGCAGGUAUCGUGAGGGAAGUAUGGGGUAGUACGAGAGGAACUCCCAUGCCGUGCCUCUAGUUUCUGGGGUUUGUCGAACGGCAAGUGCCCCGAAGCCAUCGCACGGUGGUUCUCGGCUGAACGCCUCUAAGCCAGAAGCCAAUCCCAAGACCAGAUGCCCAC",
+            "entity_poly_seq_length": 183,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "26S zeta ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "UCAUCGAAUCGCCACCUACAAGACUGGAGCUUGCUCCCUCGAAGGCGCCAAGUAUAUUCAUGAUCACAAGACAUUC",
+            "entity_poly_seq_one_letter_code_can": "UCAUCGAAUCGCCACCUACAAGACUGGAGCUUGCUCCCUCGAAGGCGCCAAGUAUAUUCAUGAUCACAAGACAUUC",
+            "entity_poly_seq_length": 76,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "5.8S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "AACGUG(OMU)CGCGAUGGAUGACUUGGCUUCCUAUUUCGUUGAAGAACGCAGUAAAGUGCGAUAAGUGGUAUCAAUUGCAGAAUCAUUCAAUUACCGAAUCUUUGAACGCAAACGGCGCAUGGGAGAAGCUCUAUUGUGUCAUCCCCGUGCAUGCCAUAUUCUC(A2M)GUGUCGAAC",
+            "entity_poly_seq_one_letter_code_can": "AACGUGUCGCGAUGGAUGACUUGGCUUCCUAUUUCGUUGAAGAACGCAGUAAAGUGCGAUAAGUGGUAUCAAUUGCAGAAUCAUUCAAUUACCGAAUCUUUGAACGCAAACGGCGCAUGGGAGAAGCUCUAUUGUGUCAUCCCCGUGCAUGCCAUAUUCUCAGUGUCGAAC",
+            "entity_poly_seq_length": 171,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "8",
+            "entity_poly_seq_one_letter_code": "UCGAGUACGACCAUACUUGAGUGAAAACACCAUAUCCCGUCCGAUUUGUGAAGUUAAGCACUCACAGGCUCAGUUAGUACUGAGGUCAGUGAUGACUCGGGAACCCUGAGUGCCGUACUCC",
+            "entity_poly_seq_one_letter_code_can": "UCGAGUACGACCAUACUUGAGUGAAAACACCAUAUCCCGUCCGAUUUGUGAAGUUAAGCACUCACAGGCUCAGUUAGUACUGAGGUCAGUGAUGACUCGGGAACCCUGAGUGCCGUACUCC",
+            "entity_poly_seq_length": 121,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "26S alpha ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "ACAGACCUGAGUGUGGCAGGACUACCCGCCGAACU(OMU)AAGCAUAUUAC(OMU)CAGCGGAGGAAAAGAAAACAACCGUGAUUCUCUCAGUGAGCGGCGAGCGAAGAGGGAACGAACUCGUUGCCGAAUCGGGUCUUACAAGGCCUUGAGUUGUGGCACAAAUAUCAUUUCGUGGUUGGUGCAGGAGUGGCGAAAUUCAAGCGCAAAGCAAACCCGUUGCUGAAUACAACCCUUCAUGUGAGUAUUGAGCCAAAGAAGGUGUUAGCCCAUUGAGCCAUAAACCUGAGCGCCUCAUGAACUGUAUUAAGCGAGUAGCACUGUUUGGGAAUGCAGUGUCAAGUUGGCAGGUAUUUGUCUGCCAAAGUUAAAUACAGAGUAGGAAGACCGAUAGCGAACAAGUAGCGUGAGCGAAAGUUUGAAAAGCACUUUGGAAAGAGAGUGAAAUAGAACCUGAAGUCGUGACAAAGACAAUGGAAGUACCUCCAUUUCAACGGCCAGAACCAGCCCUACUGCAUUAUCCUGUCGGGGGUCAAAAUCCGGCGGGCAACGAAGUGCAAGAAUUUUGGGUCUUGGUGAAAUGAGCGGAGUAUUUGAGCUGUGCACGGCGCAAGCCGCACGCACUGGUUUCUUCUCCGUGAUGCUCCAUGUUGGCGAUGGAAAUGGGGUGCCCCCACCCGUCUUGA(A2M)AC(A2M)CGGACCAAGGAGU(OMC)AAACAGACGCGCAAGGGAGGAGAUAUGGUUGCCAGUACUUCUCUCGUACUGAAAGGGAGAUGCAAAAUGCAUCUGUGGUGUGCACACGUCAAAUCCGUUUGAUUUGCCCAACACCGACCGGCCCUCCGUGGGUUGCGUUGGAGUGUGCC(OMU)G(OMU)UUGGACCC(OMG)AAAGGUGGUGAACUAUGCCUGAACAAGGUGAAGCCCGGGGAAACCCAGGUGGAGGCCUGUAGCGAUGCUG(A2M)CGUGCAAAUCGCUCGUAUGAUUUGGGU(A2M)UCG(OMG)AGCGAAAGACUCAUCGAACCACCUAGUAGCUGGUUCACAUCGAAGUUUCCCUCAGGAUAGCUGGUGCUAGUAGAAGUAUUGUGCGGUAAAGCAAAUGAUUAGAGGCAUUGGUGUUCUUAGAAUAUCGACCUAUUCUCAAACUUUAAAUGUGCAAACAAACCGUGCCUUAGCCAACUGCAAGGCCGGAAAGAAAAGAAUUAGAGGCACCAAGUGGGCCUUCUUCGGUAAGCGGAGCAGGCGAUGCGGAAUGAACCGCUUAGGGAUAUGUGGCGUCAAAACUUAUGGGCUCAUUCUCGAUACGUGAAAAGGGUGUUGGUGGAUAUGGACAGUUGGACGGUGGCCAUGGAAGUCGGCAUCCGCUAAGGAGUGUGUAACAACUCACCAACCGAAUCCACCGGCCCCGAAAAUGGAUGACGCUUAAGCCCAAUUAGUGAUUGCCCAUUAUUCCUUUGGUAAGGGCGGAAACAAAACUCUUGGAGAAAGUGUAGCCCUUCCGAUGUAGAUGUGGCCUGGAGGUUAGGACGAAGCUUAUGGCGUGAGCCUAAGAUGGACCGGCCUCUAGUGCA(OMG)AU(OMC)UUGGUUGGCGU(A2M)(OMG)CAAAGAUCUAACGGAGAUAUACUCAACAUGCAACGUUGGAUACUGGAGCGGGGAAGGAUUUCGUGCCAACGGCACUCGUACACGA(OMG)UUGUUCGGAAACUGAGCACAACGUUAUAUCGUUUUGUUAGGAAAGUGAAGGUGUGUCGGCGGCAGCUGCUUUCGGGUAGCUGUUCGACUGGCCAUAACUGAAAAGGGGCAACAGAGAACCUGGGAUUAUAUUCCAAAAAGAAAUUGCAUGUGGG",
+            "entity_poly_seq_one_letter_code_can": "ACAGACCUGAGUGUGGCAGGACUACCCGCCGAACUUAAGCAUAUUACUCAGCGGAGGAAAAGAAAACAACCGUGAUUCUCUCAGUGAGCGGCGAGCGAAGAGGGAACGAACUCGUUGCCGAAUCGGGUCUUACAAGGCCUUGAGUUGUGGCACAAAUAUCAUUUCGUGGUUGGUGCAGGAGUGGCGAAAUUCAAGCGCAAAGCAAACCCGUUGCUGAAUACAACCCUUCAUGUGAGUAUUGAGCCAAAGAAGGUGUUAGCCCAUUGAGCCAUAAACCUGAGCGCCUCAUGAACUGUAUUAAGCGAGUAGCACUGUUUGGGAAUGCAGUGUCAAGUUGGCAGGUAUUUGUCUGCCAAAGUUAAAUACAGAGUAGGAAGACCGAUAGCGAACAAGUAGCGUGAGCGAAAGUUUGAAAAGCACUUUGGAAAGAGAGUGAAAUAGAACCUGAAGUCGUGACAAAGACAAUGGAAGUACCUCCAUUUCAACGGCCAGAACCAGCCCUACUGCAUUAUCCUGUCGGGGGUCAAAAUCCGGCGGGCAACGAAGUGCAAGAAUUUUGGGUCUUGGUGAAAUGAGCGGAGUAUUUGAGCUGUGCACGGCGCAAGCCGCACGCACUGGUUUCUUCUCCGUGAUGCUCCAUGUUGGCGAUGGAAAUGGGGUGCCCCCACCCGUCUUGAAACACGGACCAAGGAGUCAAACAGACGCGCAAGGGAGGAGAUAUGGUUGCCAGUACUUCUCUCGUACUGAAAGGGAGAUGCAAAAUGCAUCUGUGGUGUGCACACGUCAAAUCCGUUUGAUUUGCCCAACACCGACCGGCCCUCCGUGGGUUGCGUUGGAGUGUGCCUGUUUGGACCCGAAAGGUGGUGAACUAUGCCUGAACAAGGUGAAGCCCGGGGAAACCCAGGUGGAGGCCUGUAGCGAUGCUGACGUGCAAAUCGCUCGUAUGAUUUGGGUAUCGGAGCGAAAGACUCAUCGAACCACCUAGUAGCUGGUUCACAUCGAAGUUUCCCUCAGGAUAGCUGGUGCUAGUAGAAGUAUUGUGCGGUAAAGCAAAUGAUUAGAGGCAUUGGUGUUCUUAGAAUAUCGACCUAUUCUCAAACUUUAAAUGUGCAAACAAACCGUGCCUUAGCCAACUGCAAGGCCGGAAAGAAAAGAAUUAGAGGCACCAAGUGGGCCUUCUUCGGUAAGCGGAGCAGGCGAUGCGGAAUGAACCGCUUAGGGAUAUGUGGCGUCAAAACUUAUGGGCUCAUUCUCGAUACGUGAAAAGGGUGUUGGUGGAUAUGGACAGUUGGACGGUGGCCAUGGAAGUCGGCAUCCGCUAAGGAGUGUGUAACAACUCACCAACCGAAUCCACCGGCCCCGAAAAUGGAUGACGCUUAAGCCCAAUUAGUGAUUGCCCAUUAUUCCUUUGGUAAGGGCGGAAACAAAACUCUUGGAGAAAGUGUAGCCCUUCCGAUGUAGAUGUGGCCUGGAGGUUAGGACGAAGCUUAUGGCGUGAGCCUAAGAUGGACCGGCCUCUAGUGCAGAUCUUGGUUGGCGUAGCAAAGAUCUAACGGAGAUAUACUCAACAUGCAACGUUGGAUACUGGAGCGGGGAAGGAUUUCGUGCCAACGGCACUCGUACACGAGUUGUUCGGAAACUGAGCACAACGUUAUAUCGUUUUGUUAGGAAAGUGAAGGUGUGUCGGCGGCAGCUGCUUUCGGGUAGCUGUUCGACUGGCCAUAACUGAAAAGGGGCAACAGAGAACCUGGGAUUAUAUUCCAAAAAGAAAUUGCAUGUGGG",
+            "entity_poly_seq_length": 1782,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3JCS",
+            "rcsb_pdbx_description": "26S epsilon ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Leishmania donovani"
+            ],
+            "rcsb_source_organism_id": [
+                5661
+            ],
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "UACGUCCCUCUCCAAACGAGAGAACAUGCAUGGGCUGGCAUGAGCGGCAUGCUUCACUUCGGUGGGGCUCGAGGGGCAUUUACGUCCCGAGGCGCUGAACCUUGAGGCCUGAAAUUUCAUGCUCAGGGACACA",
+            "entity_poly_seq_one_letter_code_can": "UACGUCCCUCUCCAAACGAGAGAACAUGCAUGGGCUGGCAUGAGCGGCAUGCUUCACUUCGGUGGGGCUCGAGGGGCAUUUACGUCCCGAGGCGCUGAACCUUGAGGCCUGAAAUUUCAUGCUCAGGGACACA",
+            "entity_poly_seq_length": 133,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        }
+    ]
+}

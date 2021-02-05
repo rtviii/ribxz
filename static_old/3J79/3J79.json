@@ -1,0 +1,1478 @@
+{
+    "rcsb_id": "3J79",
+    "expMethod": "ELECTRON MICROSCOPY",
+    "resolution": 3.2,
+    "rcsb_external_ref_id": [
+        "EMD-2660"
+    ],
+    "rcsb_external_ref_type": [
+        "EM DATA RESOURCE"
+    ],
+    "rcsb_external_ref_link": [
+        "https://www.emdataresource.org/EMD-2660"
+    ],
+    "cryoem_exp_detail": "A newly developed statistical movie processing approach was used to compensate for beam-induced movement.",
+    "cryoem_exp_algorithm": null,
+    "cryoem_exp_resolution_method": "FSC 0.143 CUT-OFF",
+    "cryoem_exp_resolution": 3.2,
+    "cryoem_exp_num_particles": 105247,
+    "cryoem_exp_magnification_calibration": null,
+    "diffrn_source_details": null,
+    "diffrn_source_pdbx_synchrotron_beamline": null,
+    "diffrn_source_pdbx_synchrotron_site": null,
+    "diffrn_source_pdbx_wavelength": null,
+    "diffrn_source_pdbx_wavelength_list": null,
+    "diffrn_source_source": null,
+    "diffrn_source_type": null,
+    "citation_year": 2014,
+    "citation_rcsb_authors": [
+        "Wong, W.",
+        "Bai, X.C.",
+        "Brown, A.",
+        "Fernandez, I.S.",
+        "Hanssen, E.",
+        "Condron, M.",
+        "Tan, Y.H.",
+        "Baum, J.",
+        "Scheres, S.H."
+    ],
+    "citation_title": "Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine.",
+    "citation_pdbx_doi": "10.7554/eLife.03080",
+    "pdbx_keywords_text": "emetine, RIBOSOME-INHIBITOR complex",
+    "_organismId": [
+        36329
+    ],
+    "_organismName": [
+        "Plasmodium falciparum"
+    ],
+    "proteins": [
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family is found at the very C-terminal of 60 ribosomal L4 proteins.",
+                "This family includes Ribosomal L4/L1 from eukaryotes and archaebacteria and L4 from eubacteria. L4 from yeast has been shown to bind rRNA [1]."
+            ],
+            "pfam_descriptions": [
+                "60S ribosomal protein L4 C-terminal domain",
+                "Ribosomal protein L4/L1 family"
+            ],
+            "pfam_accessions": [
+                "PF14374",
+                "PF00573"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8I431"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL4",
+            "entity_poly_strand_id": "F",
+            "entity_poly_seq_one_letter_code": "MATIRPVANVYSTNGKNVVGEVEIPVVFQTPIRNDLIQSVYTNMSKNRRHPYAVKLGAGYETSAESWGTGRAVARIPRVPGGGTHRAGQGAFGNMCRGGGMFNPTKIWRRWGRKVNLKEKRYAVCSSIAASGVTSLVLARGHRISHLKEVPLVVSNDIESLSKTKEAVNFLVSLGLKDEVNRLVKSKKIRAGKGKMRNRKYKIRNGPLIIYENDNGVKKAFRNIPGVDLCKVTKLNLLKLAPGGSIGRLCIWSESAFKKLDVIYGKIHEKKVTKKNYILPKSIVHNPDIYRIIHSDKVQASLLAKKKPCKKRLQNKNSLTNFAVRCRLNPAYKLLRSLAVLRMRKSILEKSKNKKEKRVQKQIQKKELQKINHDYYKGVAKAVKKKKKREEKKAKSKKTANQAVINVAAEE",
+            "entity_poly_seq_one_letter_code_can": "MATIRPVANVYSTNGKNVVGEVEIPVVFQTPIRNDLIQSVYTNMSKNRRHPYAVKLGAGYETSAESWGTGRAVARIPRVPGGGTHRAGQGAFGNMCRGGGMFNPTKIWRRWGRKVNLKEKRYAVCSSIAASGVTSLVLARGHRISHLKEVPLVVSNDIESLSKTKEAVNFLVSLGLKDEVNRLVKSKKIRAGKGKMRNRKYKIRNGPLIIYENDNGVKKAFRNIPGVDLCKVTKLNLLKLAPGGSIGRLCIWSESAFKKLDVIYGKIHEKKVTKKNYILPKSIVHNPDIYRIIHSDKVQASLLAKKKPCKKRLQNKNSLTNFAVRCRLNPAYKLLRSLAVLRMRKSILEKSKNKKEKRVQKQIQKKELQKINHDYYKGVAKAVKKKKKREEKKAKSKKTANQAVINVAAEE",
+            "entity_poly_seq_length": 411,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL",
+                "This region is found associated with Pfam:PF00281."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L5",
+                "ribosomal L5P family C-terminus"
+            ],
+            "pfam_accessions": [
+                "PF00281",
+                "PF00673"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IBQ6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL5",
+            "entity_poly_strand_id": "G",
+            "entity_poly_seq_one_letter_code": "MENKEQNVMREIKVNKLVLNICVGESGDRLTRAARVLEQLTEQKPIFGKCRFTIRSFGVRRNEKISCFVTVRGKKALEILEKGLKVKEYELRRKNFSDTGNFGFGIQEHIDLGIKYDPSTGIYGMDFYVHLSRSGYRVTRRTRRRSKISKTHKVTKEDAMKWFQTKFDGILLK",
+            "entity_poly_seq_one_letter_code_can": "MENKEQNVMREIKVNKLVLNICVGESGDRLTRAARVLEQLTEQKPIFGKCRFTIRSFGVRRNEKISCFVTVRGKKALEILEKGLKVKEYELRRKNFSDTGNFGFGIQEHIDLGIKYDPSTGIYGMDFYVHLSRSGYRVTRRTRRRSKISKTHKVTKEDAMKWFQTKFDGILLK",
+            "entity_poly_seq_length": 173,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL5"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13e"
+            ],
+            "pfam_accessions": [
+                "PF01294"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IAX6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL13",
+            "entity_poly_strand_id": "L",
+            "entity_poly_seq_one_letter_code": "MVAHNNVLPNVHLHKWWQRHVRVNFSKNIKKKKRRLLREKRRKANGGTPIEKLHPIVHCPTQRYNFRTRLGKGFTFEELKGAGLTPRAAQTIGICYDKRRKNRSEESLTKNVERLLKYKNSLVMIPLKKNKAKKGIGGIPADADKNTIKEFRNKKPLLSIFKKEKNTKPFYETIEVSKIDKEFLAYKTLRRAKLAERRKNRRQQKKDIKFKSKDN",
+            "entity_poly_seq_one_letter_code_can": "MVAHNNVLPNVHLHKWWQRHVRVNFSKNIKKKKRRLLREKRRKANGGTPIEKLHPIVHCPTQRYNFRTRLGKGFTFEELKGAGLTPRAAQTIGICYDKRRKNRSEESLTKNVERLLKYKNSLVMIPLKKNKAKKGIGGIPADADKNTIKEFRNKKPLLSIFKKEKNTKPFYETIEVSKIDKEFLAYKTLRRAKLAERRKNRRQQKKDIKFKSKDN",
+            "entity_poly_seq_length": 215,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L16p/L10e"
+            ],
+            "pfam_accessions": [
+                "PF00252"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8ILV2"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL16",
+            "entity_poly_strand_id": "Q",
+            "entity_poly_seq_one_letter_code": "MGRRPARCYRYCKNKPYPKSRYCRGVPDPKIRIYDMGRKKADVNEFSGVVHLVSYEYEQISSEALEAARISANKYMITNCGKDNFHLRVRIHPFHVLRINKMLSCAGADRLQTGMRGAFGKPNGVVARVDIGQVLLSIRTKENFVSKACEALRRAKYKFPGRQKVFVSNKWGFTPFSKDEYQQYKKKGRIISDGVSCKFIREKGPLDKIYKDINTVLES",
+            "entity_poly_seq_one_letter_code_can": "MGRRPARCYRYCKNKPYPKSRYCRGVPDPKIRIYDMGRKKADVNEFSGVVHLVSYEYEQISSEALEAARISANKYMITNCGKDNFHLRVRIHPFHVLRINKMLSCAGADRLQTGMRGAFGKPNGVVARVDIGQVLLSIRTKENFVSKACEALRRAKYKFPGRQKVFVSNKWGFTPFSKDEYQQYKKKGRIISDGVSCKFIREKGPLDKIYKDINTVLES",
+            "entity_poly_seq_length": 219,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL16"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L22e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01776"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IB51"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL22",
+            "entity_poly_strand_id": "X",
+            "entity_poly_seq_one_letter_code": "MVAKKDSTKVSKKLKKKVVKKTKIVKGLKKQKMNKSTKGIKYVLDCTKPVKDTILDISGLEQFFKDKIKVDKKTNNLKNKVVVTSDEYKIYITVHIPFSKRYIKYLAKKYIKMHQIRDFLRVIAKGKLAYEFKYFQLNN",
+            "entity_poly_seq_one_letter_code_can": "MVAKKDSTKVSKKLKKKVVKKTKIVKGLKKQKMNKSTKGIKYVLDCTKPVKDTILDISGLEQFFKDKIKVDKKTNNLKNKVVVTSDEYKIYITVHIPFSKRYIKYLAKKYIKMHQIRDFLRVIAKGKLAYEFKYFQLNN",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "The N-terminal domain appears to be specific to the  eukaryotic ribosomal proteins L25, L23, and L23a.",
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L23, N-terminal domain",
+                "Ribosomal protein L23"
+            ],
+            "pfam_accessions": [
+                "PF03939",
+                "PF00276"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IE82"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL23",
+            "entity_poly_strand_id": "Y",
+            "entity_poly_seq_one_letter_code": "MTQVEKKKKNVKNVNKHKIIHKRVIKKGNRKYTNGNTKVKYRKQVVKKTINKNVSKKKLLKENVDKDEKKKKMKISIRFKKPKTLIYARNPKCPRIVKSCHSKTLDKYGLIKYPLTSEKAMKKIEEINTLVFMCDKRANKKNIKKSVKNLFGIECDKVNVLNTLNGDKKAYVRLSGEHDALEVANKIGIL",
+            "entity_poly_seq_one_letter_code_can": "MTQVEKKKKNVKNVNKHKIIHKRVIKKGNRKYTNGNTKVKYRKQVVKKTINKNVSKKKLLKENVDKDEKKKKMKISIRFKKPKTLIYARNPKCPRIVKSCHSKTLDKYGLIKYPLTSEKAMKKIEEINTLVFMCDKRANKKNIKKSVKNLFGIECDKVNVLNTLNGDKKAYVRLSGEHDALEVANKIGIL",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL23"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "The N-terminal region of the eukaryotic ribosomal L27 has the KOW motif.  C-terminal region is represented by this family."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L27e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01777"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IKM5"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL27",
+            "entity_poly_strand_id": "1",
+            "entity_poly_seq_one_letter_code": "MGKLLKPGKVIIILNGRRAGKKAVIVNTYEGQTRERPYSYCLVAGIEKHPLKVNKSMTKKKIVKRSKVKAFIKCINVNHILPTRYQVANDFDIKSLASDDVLKSKNKKKEVKKLGKIFRDKFLEPVNKKTGEVSKDISFLHKKLYF",
+            "entity_poly_seq_one_letter_code_can": "MGKLLKPGKVIIILNGRRAGKKAVIVNTYEGQTRERPYSYCLVAGIEKHPLKVNKSMTKKKIVKRSKVKAFIKCINVNHILPTRYQVANDFDIKSLASDDVLKSKNKKKEVKKLGKIFRDKFLEPVNKKTGEVSKDISFLHKKLYF",
+            "entity_poly_seq_length": 146,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL27"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L28e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01778"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IHU0"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL28",
+            "entity_poly_strand_id": "2",
+            "entity_poly_seq_one_letter_code": "MSNVSNALVWELTRKSNCFIKKNKAGKKGVFLCDPLNVNYKNTPSSSGLVKSNSTNVTLKDGKVVFSVKTSKESNVVNQHFKAKNMKNVEKLLQQHGSFEKAKNKEKLLKKYKRLSKLYETSHKKTN",
+            "entity_poly_seq_one_letter_code_can": "MSNVSNALVWELTRKSNCFIKKNKAGKKGVFLCDPLNVNYKNTPSSSGLVKSNSTNVTLKDGKVVFSVKTSKESNVVNQHFKAKNMKNVEKLLQQHGSFEKAKNKEKLLKKYKRLSKLYETSHKKTN",
+            "entity_poly_seq_length": 127,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL28"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01779"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C6S3J6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL29",
+            "entity_poly_strand_id": "4",
+            "entity_poly_seq_one_letter_code": "MAKSKNHTNHNQNRKAHKNGIKKPKKHKFMSRKGLDPNFFRNQKYCLKGIQKKKKELKLKAKQEKNN",
+            "entity_poly_seq_one_letter_code_can": "MAKSKNHTNHNQNRKAHKNGIKKPKKHKFMSRKGLDPNFFRNQKYCLKGIQKKKKELKLKAKQEKNN",
+            "entity_poly_seq_length": 67,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IJK8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL30",
+            "entity_poly_strand_id": "6",
+            "entity_poly_seq_one_letter_code": "MAKKSKKSAGDNINAKLQLVMKSGKYQFGRKSCLKALRTGKGKLVIVSSNCPSIQRSVIEYYAMLSKCGVHDYHGDNNDLGTACGKLFRISCLVITDVGDSDIIKTNE",
+            "entity_poly_seq_one_letter_code_can": "MAKKSKKSAGDNINAKLQLVMKSGKYQFGRKSCLKALRTGKGKLVIVSSNCPSIQRSVIEYYAMLSKCGVHDYHGDNNDLGTACGKLFRISCLVITDVGDSDIIKTNE",
+            "entity_poly_seq_length": 108,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L31e"
+            ],
+            "pfam_accessions": [
+                "PF01198"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8I463"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL31",
+            "entity_poly_strand_id": "7",
+            "entity_poly_seq_one_letter_code": "MVKGTVKKQKKTLKPVTKFITINLSKLTHKVCYKRKAPRAIKEIRSIAGKLMHTKDVRLDVKLNKFIWSKGVRNPPKRVRVKLERKRNEDEDSKEKMYTIVEHVMVDSYKGLVNECEANE",
+            "entity_poly_seq_one_letter_code_can": "MVKGTVKKQKKTLKPVTKFITINLSKLTHKVCYKRKAPRAIKEIRSIAGKLMHTKDVRLDVKLNKFIWSKGVRNPPKRVRVKLERKRNEDEDSKEKMYTIVEHVMVDSYKGLVNECEANE",
+            "entity_poly_seq_length": 120,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL31"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes ribosomal protein L32 from eukaryotes and archaebacteria."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L32"
+            ],
+            "pfam_accessions": [
+                "PF01655"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8I3B0"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL32",
+            "entity_poly_strand_id": "8",
+            "entity_poly_seq_one_letter_code": "MAVKKVGKIIKKRTKKFTRFQSNRFMRVKPAWRKPRGIDCRVRRRYKGTNLMPSIGYGSNKKTKFLLPNNKYKYVVKNVKEMEPLIMNHTKYCVQIAHNVSSKKRKQIIERAKQMNVSVINAKARLQKTEE",
+            "entity_poly_seq_one_letter_code_can": "MAVKKVGKIIKKRTKKFTRFQSNRFMRVKPAWRKPRGIDCRVRRRYKGTNLMPSIGYGSNKKTKFLLPNNKYKYVVKNVKEMEPLIMNHTKYCVQIAHNVSSKKRKQIIERAKQMNVSVINAKARLQKTEE",
+            "entity_poly_seq_length": 131,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL32"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L34e"
+            ],
+            "pfam_accessions": [
+                "PF01199"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IBY4"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL34",
+            "entity_poly_strand_id": "a",
+            "entity_poly_seq_one_letter_code": "MAQRVHYRRHNHYNTKSNKVRPVRTPGGKLTIHVVKKKAGKPKCADCKTAIQGVKALRPADNYRARRKNRTVARAYGGSICARCIRERIMRAFLFEEQKCVRQVLKEKKKQEKKVKKVKKEKKKVNAKEVKKTATDNKKAKKVADKKKGK",
+            "entity_poly_seq_one_letter_code_can": "MAQRVHYRRHNHYNTKSNKVRPVRTPGGKLTIHVVKKKAGKPKCADCKTAIQGVKALRPADNYRARRKNRTVARAYGGSICARCIRERIMRAFLFEEQKCVRQVLKEKKKQEKKVKKVKKEKKKVNAKEVKKTATDNKKAKKVADKKKGK",
+            "entity_poly_seq_length": 150,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL34"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "Bovine L40 has been identified as a secondary RNA binding protein [1]. L40 is fused to a ubiquitin protein [2].",
+                "This family contains a number of ubiquitin-like proteins: SUMO (smt3 homologue) (see Swiss:Q02724), Nedd8 (see Swiss:P29595), Elongin B (see Swiss:Q15370), Rub1 (see Swiss:Q9SHE7), and Parkin (see Swiss:O60260). A number of them are thought to carry a distinctive five-residue motif termed the proteasome-interacting motif (PIM), which may have a biologically significant role in protein delivery to proteasomes and recruitment of proteasomes to transcription sites [5]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L40e family",
+                "Ubiquitin family"
+            ],
+            "pfam_accessions": [
+                "PF01020",
+                "PF00240"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8ID50"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL40",
+            "entity_poly_strand_id": "f",
+            "entity_poly_seq_one_letter_code": "MQIFVKTLTGKTITLDVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAIEPSLAQLAQKYNCQKLICRKCYARLHPRATNCRNKKCGRTNQLRPKKKLK",
+            "entity_poly_seq_one_letter_code_can": "MQIFVKTLTGKTITLDVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGAIEPSLAQLAQKYNCQKLICRKCYARLHPRATNCRNKKCGRTNQLRPKKKLK",
+            "entity_poly_seq_length": 128,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL40"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L41"
+            ],
+            "pfam_accessions": [
+                "PF05162"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C6S3G4"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL41",
+            "entity_poly_strand_id": "g",
+            "entity_poly_seq_one_letter_code": "MAHGASRYKKSRAKMRWKWKKKRTRRLQKKRRKMRQRSR",
+            "entity_poly_seq_one_letter_code_can": "MAHGASRYKKSRAKMRWKWKKKRTRRLQKKRRKMRQRSR",
+            "entity_poly_seq_length": 39,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL41"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This ribosomal protein is found in archaebacteria and eukaryotes. It contains four conserved cysteine residues that may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L37ae protein family"
+            ],
+            "pfam_accessions": [
+                "PF01780"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "O96184"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL43",
+            "entity_poly_strand_id": "h",
+            "entity_poly_seq_one_letter_code": "MSRRTKKVGLTGKYGTRYGSSLRKQIKKIELMQHAKYLCTFCGKTATKRTCVGIWKCKKCKRKVCGGAWSLTTPAAVAAKSTIIRLRKQKEEAQKS",
+            "entity_poly_seq_one_letter_code_can": "MSRRTKKVGLTGKYGTRYGSSLRKQIKKIELMQHAKYLCTFCGKTATKRTCVGIWKCKKCKRKVCGGAWSLTTPAAVAAKSTIIRLRKQKEEAQKS",
+            "entity_poly_seq_length": 96,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL43"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes: Ribosomal L7A from metazoa, Ribosomal L8-A and L8-B from fungi, 30S ribosomal protein HS6 from archaebacteria, 40S ribosomal protein S12 from eukaryotes, Ribosomal protein L30 from eukaryotes and archaebacteria. Gadd45 and MyD118 [1]."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L7Ae/L30e/S12e/Gadd45 family"
+            ],
+            "pfam_accessions": [
+                "PF01248"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8ILL2"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL8",
+            "entity_poly_strand_id": "J",
+            "entity_poly_seq_one_letter_code": "MAKDKKQQKKPSKKTPAPCPLSTKVTVKKEIKKEKKTGIKDNPLIFEKKKRSNIIGVGVRPKKDLSKYVKWPRYIRIQRKKKILLQRLKVPPSINQFNHTLPKSQTQDLLNFLKAYKPESKTDKKQRLLNKAKEALNKNITKDKKPLFLKYGINHITKLVENKKANLVVIANDVSPIELVLFLPALCRLKEVPYCIVKDKATLGKLVHKKTATAVCLESVKKEDQEKLDYFAKVCKENFNDNVDLRRKWGGQKMSAKSMLLKKMKDKARKIEEAKKKEISAKL",
+            "entity_poly_seq_one_letter_code_can": "MAKDKKQQKKPSKKTPAPCPLSTKVTVKKEIKKEKKTGIKDNPLIFEKKKRSNIIGVGVRPKKDLSKYVKWPRYIRIQRKKKILLQRLKVPPSINQFNHTLPKSQTQDLLNFLKAYKPESKTDKKQRLLNKAKEALNKNITKDKKPLFLKYGINHITKLVENKKANLVVIANDVSPIELVLFLPALCRLKEVPYCIVKDKATLGKLVHKKTATAVCLESVKKEDQEKLDYFAKVCKENFNDNVDLRRKWGGQKMSAKSMLLKKMKDKARKIEEAKKKEISAKL",
+            "entity_poly_seq_length": 283,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL8",
+                "eL30",
+                "eS12"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L13"
+            ],
+            "pfam_accessions": [
+                "PF00572"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IJZ7"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL13",
+            "entity_poly_strand_id": "K",
+            "entity_poly_seq_one_letter_code": "MYKKEYVIDCKGHLLGRLASLIAKELLNGQRIVAVRCEDINISGSLYRNKLKYQEFLRLRTNTNPKKGPLHLREPSKILWRCVRGMLPHKTYKGQLALKKLKVCVGMPYPYDKKKKYVLPSALRAFRLKKHRRYCRLGTLSSRVGWNYDTLVKKNEVLRKQVSKAYYKKKVNNLNEKKEIKTEALNLINPEQRQVLENFGYA",
+            "entity_poly_seq_one_letter_code_can": "MYKKEYVIDCKGHLLGRLASLIAKELLNGQRIVAVRCEDINISGSLYRNKLKYQEFLRLRTNTNPKKGPLHLREPSKILWRCVRGMLPHKTYKGQLALKKLKVCVGMPYPYDKKKKYVLPSALRAFRLKKHRRYCRLGTLSSRVGWNYDTLVKKNEVLRKQVSKAYYKKKVNNLNEKKEIKTEALNLINPEQRQVLENFGYA",
+            "entity_poly_seq_length": 202,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL13"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14p/L23e"
+            ],
+            "pfam_accessions": [
+                "PF00238"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IE09"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL14",
+            "entity_poly_strand_id": "M",
+            "entity_poly_seq_one_letter_code": "MKRGRAGTLKNKMRITLSLPVGALINCCDNSGGKNLYIIAVQGFGSCLNRLPAASLGDMVLATVKKGKPDLRKKVLNAIICRQSKAWRRHEGYYIYFEDNAGVIVNPKGEMKGSAITGPVARECAELWPKLSSAASAIV",
+            "entity_poly_seq_one_letter_code_can": "MKRGRAGTLKNKMRITLSLPVGALINCCDNSGGKNLYIIAVQGFGSCLNRLPAASLGDMVLATVKKGKPDLRKKVLNAIICRQSKAWRRHEGYYIYFEDNAGVIVNPKGEMKGSAITGPVARECAELWPKLSSAASAIV",
+            "entity_poly_seq_length": 139,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes the eukaryotic ribosomal protein L14."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L14"
+            ],
+            "pfam_accessions": [
+                "PF01929"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8ILE8"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL14",
+            "entity_poly_strand_id": "N",
+            "entity_poly_seq_one_letter_code": "MPRVELTEEEKLYISKKNLLFKRFVEPGRLCLIEYGPYAGKLCFIVDIVTITRVIVDGAFITGVPRMVIPLKRLKLLKERIKINKNCKSGFLRKTVNSTKVLEEFNNSKLGKKMIIKKKRDEATDFERFQVYFAKRELKKKMTTIKNKKNGENKKVKKNVQKVKA",
+            "entity_poly_seq_one_letter_code_can": "MPRVELTEEEKLYISKKNLLFKRFVEPGRLCLIEYGPYAGKLCFIVDIVTITRVIVDGAFITGVPRMVIPLKRLKLLKERIKINKNCKSGFLRKTVNSTKVLEEFNNSKLGKKMIIKKKRDEATDFERFQVYFAKRELKKKMTTIKNKKNGENKKVKKNVQKVKA",
+            "entity_poly_seq_length": 165,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL14"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes higher eukaryotic ribosomal 60S L27A, archaeal 50S L18e, prokaryotic 50S L15, fungal mitochondrial L10, plant L27A, mitochondrial L15 and chloroplast L18-3 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A"
+            ],
+            "pfam_accessions": [
+                "PF00828"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C6KT23"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL15",
+            "entity_poly_strand_id": "O",
+            "entity_poly_seq_one_letter_code": "MATRFKKNRKKRGHVSAGHGRVGKHRKHPGGRGKAGGLHHMRINFDKYHPGYFGKVGMRHLNLLKNRTYCPTINVDKLWGLLPEEKKKEFSENKDIAPVIDVTRKGYFKVLGNGKLKHNQPIVVKARYFSSVAEKKIKAVGGQCILVA",
+            "entity_poly_seq_one_letter_code_can": "MATRFKKNRKKRGHVSAGHGRVGKHRKHPGGRGKAGGLHHMRINFDKYHPGYFGKVGMRHLNLLKNRTYCPTINVDKLWGLLPEEKKKEFSENKDIAPVIDVTRKGYFKVLGNGKLKHNQPIVVKARYFSSVAEKKIKAVGGQCILVA",
+            "entity_poly_seq_length": 148,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L15"
+            ],
+            "pfam_accessions": [
+                "PF00827"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C0H4A6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL15",
+            "entity_poly_strand_id": "P",
+            "entity_poly_seq_one_letter_code": "MGAYKYIQEIWKKKQSDAMHFLLRVRTWEYRQLPVVHRVSKPSRPDKARRLGYKAIQGFVIYRVRVRRGDRKKRVKKGIVHGKPKHQGVHKQKSTRNLKSVAEGKVGKSICGNLRVLNSYWVGQDAVYKYYEVILVDPNHNAVRNNPKINWICNPVHKHRELRGLTSAGKKYRGLRVKGHLSAKSRPSIRANWKRRQLIKLRKCR",
+            "entity_poly_seq_one_letter_code_can": "MGAYKYIQEIWKKKQSDAMHFLLRVRTWEYRQLPVVHRVSKPSRPDKARRLGYKAIQGFVIYRVRVRRGDRKKRVKKGIVHGKPKHQGVHKQKSTRNLKSVAEGKVGKSICGNLRVLNSYWVGQDAVYKYYEVILVDPNHNAVRNNPKINWICNPVHKHRELRGLTSAGKKYRGLRVKGHLSAKSRPSIRANWKRRQLIKLRKCR",
+            "entity_poly_seq_length": 205,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL15"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family contains the large 60S ribosomal L5 proteins from Eukaryota and the 50S L18 proteins from Archaea. It has been shown that the amino terminal 93 amino acids of Swiss:P09895 are necessary and sufficient to bind 5S rRNA in vitro [1], suggesting that the entire family has a function in rRNA binding [2,3,4,5].",
+                "This domain is the C-terminal end of ribosomal L18/L5 proteins."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal large subunit proteins 60S L5, and 50S L18",
+                "Ribosomal L18 C-terminal region"
+            ],
+            "pfam_accessions": [
+                "PF17144",
+                "PF14204"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8ILL3"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL18",
+            "entity_poly_strand_id": "R",
+            "entity_poly_seq_one_letter_code": "MAYVKVVKNKAYFKRYQVKYRRRREGKTDYRARKALILQDKNKYNAQKLRFVVRKTNSQVICQIACAHIEGDKILAEAKSKELIRYGIPVGLKNYAAAYATGLLCARRFLKSLNLDTQFLGVEKVTGEIENNEDKEDEEGRKPIKAFLDVGITRTTTGNRVFAALKGACDGGLNIPHGNNRFPGSKNEFNPEQLRKNILGIHVAEYMKTLQEEDNDKYKTHFNDYLKNNIGADDIEQMYLNAHEKIRQNPEKESKDTKNVKKFVSKHEKPKKLNAKLRKKRVKEKLALYVEKLQ",
+            "entity_poly_seq_one_letter_code_can": "MAYVKVVKNKAYFKRYQVKYRRRREGKTDYRARKALILQDKNKYNAQKLRFVVRKTNSQVICQIACAHIEGDKILAEAKSKELIRYGIPVGLKNYAAAYATGLLCARRFLKSLNLDTQFLGVEKVTGEIENNEDKEDEEGRKPIKAFLDVGITRTTTGNRVFAALKGACDGGLNIPHGNNRFPGSKNEFNPEQLRKNILGIHVAEYMKTLQEEDNDKYKTHFNDYLKNNIGADDIEQMYLNAHEKIRQNPEKESKDTKNVKKFVSKHEKPKKLNAKLRKKRVKEKLALYVEKLQ",
+            "entity_poly_seq_length": 294,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This is a family of ribosomal proteins, 60S L18 from eukaryotes and 50S L18e from Archaea."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein 60S L18 and 50S L18e"
+            ],
+            "pfam_accessions": [
+                "PF17135"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C0H5G3"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL18",
+            "entity_poly_strand_id": "S",
+            "entity_poly_seq_one_letter_code": "MGIALKNVGRIKKHGRKHLVSKNPYLRLLVKLYNFLARRTNANFNKIIAKRLIMPKRYRPPLSLSKLQYHMANHPNDIAVVVGSITDDKRLFSLKQLKVCALRFTETARKRIEDAGGECLTFDQLALKYPTGKKCVLLRGPTKARTAEKHFGKAPGKPKSKARPYVRSKGRKFEKARGRRKSRAYKK",
+            "entity_poly_seq_one_letter_code_can": "MGIALKNVGRIKKHGRKHLVSKNPYLRLLVKLYNFLARRTNANFNKIIAKRLIMPKRYRPPLSLSKLQYHMANHPNDIAVVVGSITDDKRLFSLKQLKVCALRFTETARKRIEDAGGECLTFDQLALKYPTGKKCVLLRGPTKARTAEKHFGKAPGKPKSKARPYVRSKGRKFEKARGRRKSRAYKK",
+            "entity_poly_seq_length": 187,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL18"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L19e"
+            ],
+            "pfam_accessions": [
+                "PF01280"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C6KSY6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL19",
+            "entity_poly_strand_id": "T",
+            "entity_poly_seq_one_letter_code": "MSLTLQKRLAASVLKCGKNKIWMDPNEISEISLANSRFSIRKLYKEGLILKKPQKVHSRARVRLYKLAKRKGRHMGIGKRKGTKNARTNQKTLWIKRQRVLRRLLKRLRDSKKVDRHLYHSFYLKCKGNQFKNKRTLIEAIQREKNETLKKKAIADQLEAKRLKAQVLRNKRKLKKDKEVVA",
+            "entity_poly_seq_one_letter_code_can": "MSLTLQKRLAASVLKCGKNKIWMDPNEISEISLANSRFSIRKLYKEGLILKKPQKVHSRARVRLYKLAKRKGRHMGIGKRKGTKNARTNQKTLWIKRQRVLRRLLKRLRDSKKVDRHLYHSFYLKCKGNQFKNKRTLIEAIQREKNETLKKKAIADQLEAKRLKAQVLRNKRKLKKDKEVVA",
+            "entity_poly_seq_length": 182,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL19"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes: archaeal 50S ribosomal protein L18Ae, often referred to as L20e or LX; fungal 60S ribosomal protein L20; and higher eukaryote 60S ribosomal protein L18A."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins 50S-L18Ae/60S-L20/60S-L18A"
+            ],
+            "pfam_accessions": [
+                "PF01775"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IDS6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL20",
+            "entity_poly_strand_id": "U",
+            "entity_poly_seq_one_letter_code": "MVKKIDNSLNTNIHQYHIVGRAIPTAKDKNPNVYRMCIFAKNDTNAKSRFWYFMKKINKLKKSNGELLACEQIKERFPLRVKNYGVLLRYDSRTGTHNMYKEFRDTTKEGAIAQLYSEMAGRHRARASSINIIRISEISSSLVRRPHIKQLLKRRLRFPALHLPTLQKEYRKKFASKRPSTYRM",
+            "entity_poly_seq_one_letter_code_can": "MVKKIDNSLNTNIHQYHIVGRAIPTAKDKNPNVYRMCIFAKNDTNAKSRFWYFMKKINKLKKSNGELLACEQIKERFPLRVKNYGVLLRYDSRTGTHNMYKEFRDTTKEGAIAQLYSEMAGRHRARASSINIIRISEISSSLVRRPHIKQLLKRRLRFPALHLPTLQKEYRKKFASKRPSTYRM",
+            "entity_poly_seq_length": 184,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL20"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L21e"
+            ],
+            "pfam_accessions": [
+                "PF01157"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8ILK3"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL21",
+            "entity_poly_strand_id": "V",
+            "entity_poly_seq_one_letter_code": "MGGKSRGKRSGTRYKFSKKFRKHGECTANKYLEKLNYGDYVDIVCDSTQQKGMPFNYYHGKTGKIFHITKRGVGVLVNKRVKHRIEQKKVCVRIEHVRKSRCNEDFLLRKIKNAELIKEAKLKNEHINIKRKTEGPKPAAMIKVPPSKIITIEPLPFYEEY",
+            "entity_poly_seq_one_letter_code_can": "MGGKSRGKRSGTRYKFSKKFRKHGECTANKYLEKLNYGDYVDIVCDSTQQKGMPFNYYHGKTGKIFHITKRGVGVLVNKRVKHRIEQKKVCVRIEHVRKSRCNEDFLLRKIKNAELIKEAKLKNEHINIKRKTEGPKPAAMIKVPPSKIITIEPLPFYEEY",
+            "entity_poly_seq_length": 161,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL21"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes L22 from prokaryotes and chloroplasts and L17 from eukaryotes."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L22p/L17e"
+            ],
+            "pfam_accessions": [
+                "PF00237"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IDI5"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL22",
+            "entity_poly_strand_id": "W",
+            "entity_poly_seq_one_letter_code": "MVKYAKKIRNLGKCAKGAGVDLRVHFKNTYEAARAIRRMKLLEAKKYLNDVIEKKRCVPFRKYNGGVGRTNQAKEFNHTQGRWPAKSCKFLLNILDNVQANAESRNLDVSKLRLIHVMVNKARPGRRRTYKAHGRINPFMSSPCHIQIIAREINKPAKKSLLSNAEKQKKLPFKVTLKKLIKLNISNQNRLKNKSVKKQQTVQ",
+            "entity_poly_seq_one_letter_code_can": "MVKYAKKIRNLGKCAKGAGVDLRVHFKNTYEAARAIRRMKLLEAKKYLNDVIEKKRCVPFRKYNGGVGRTNQAKEFNHTQGRWPAKSCKFLLNILDNVQANAESRNLDVSKLRLIHVMVNKARPGRRRTYKAHGRINPFMSSPCHIQIIAREINKPAKKSLLSNAEKQKKLPFKVTLKKLIKLNISNQNRLKNKSVKKQQTVQ",
+            "entity_poly_seq_length": 203,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL22"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "Ribosomal_L26 is a family of the 50S and the 60S ribosomal proteins from eukaryotes - L26 - and archaea - L25.",
+                "This family has been extended to coincide with ref [1]. The KOW (Kyprides, Ouzounis, Woese) motif is found in a variety of ribosomal proteins and NusG."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal proteins L26 eukaryotic, L24P archaeal",
+                "KOW motif"
+            ],
+            "pfam_accessions": [
+                "PF16906",
+                "PF00467"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "O77364"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL24",
+            "entity_poly_strand_id": "Z",
+            "entity_poly_seq_one_letter_code": "MKFNKQKSSSRRKMRKAHFTAPAGLRRKIMSSKLSKELRLKYKTRSLPVRKDDEVLICRGHNHGREGKVVKINRKRYKIYVERVTREKVNGESTFIGIHPSNVVLTKLKVDKNRKKILDRKAAKEN",
+            "entity_poly_seq_one_letter_code_can": "MKFNKQKSSSRRKMRKAHFTAPAGLRRKIMSSKLSKELRLKYKTRSLPVRKDDEVLICRGHNHGREGKVVKINRKRYKIYVERVTREKVNGESTFIGIHPSNVVLTKLKVDKNRKKILDRKAAKEN",
+            "entity_poly_seq_length": 126,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL24",
+                "eS4"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L24e"
+            ],
+            "pfam_accessions": [
+                "PF01246"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IEM3"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL24",
+            "entity_poly_strand_id": "0",
+            "entity_poly_seq_one_letter_code": "MSQIKTTVKTEACSFSEYRIYPGRGQKYIARDGKVYFYLSSKFASLALQKKKAAKLRWTQTWRRNNKKTKIETTQRRRYKKTIKVQKAVCGLTVEDIRNRKAYVQSIEAKNKAKFGTKEKEDKKKTKDDKKKNLVHFQQKKDFTKSKMLNMAKSKMHKMMKK",
+            "entity_poly_seq_one_letter_code_can": "MSQIKTTVKTEACSFSEYRIYPGRGQKYIARDGKVYFYLSSKFASLALQKKKAAKLRWTQTWRRNNKKTKIETTQRRRYKKTIKVQKAVCGLTVEDIRNRKAYVQSIEAKNKAKFGTKEKEDKKKTKDDKKKNLVHFQQKKDFTKSKMLNMAKSKMHKMMKK",
+            "entity_poly_seq_length": 162,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL24"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L29 protein"
+            ],
+            "pfam_accessions": [
+                "PF00831"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IIB4"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL29",
+            "entity_poly_strand_id": "3",
+            "entity_poly_seq_one_letter_code": "MSNVKAYELRTLKKKELLDKLDELKKELSGLRISKALGNSAKNSKIHGVRKNVARVLTVYNQKRKMELRQLYKNKKFKPYNLRKKLTKNKRLQLSPKQKAAMTLRQKKKVQNFPQRKYLVVHKE",
+            "entity_poly_seq_one_letter_code_can": "MSNVKAYELRTLKKKELLDKLDELKKELSGLRISKALGNSAKNSKIHGVRKNVARVLTVYNQKRKMELRQLYKNKKFKPYNLRKKLTKNKRLQLSPKQKAAMTLRQKKKVQNFPQRKYLVVHKE",
+            "entity_poly_seq_length": 124,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL29"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This presumed domain is found at the N-terminus of Ribosomal L30 proteins and has been termed RL30NT or NUC018 [1].",
+                "This family includes prokaryotic L30 and eukaryotic L7."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L30 N-terminal domain",
+                "Ribosomal protein L30p/L7e"
+            ],
+            "pfam_accessions": [
+                "PF08079",
+                "PF00327"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "O97250"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL30",
+            "entity_poly_strand_id": "5",
+            "entity_poly_seq_one_letter_code": "MADRYENQVENELGKSMTSLRAKKVNKNKELKQAAAKKIKTLKLINKKKRNDLRQRTLRYEEEYESERKKIIELKREARKNNCFYREAEKKVVFVIRLKGVNKLPPKVRSVFRLLRLLQVHNGVFVKVNKATKEMLKIVEPYVTYGYPTLSTVRKLLYKRGYVRVGKVRRYARKKIQDNADISKHLGKYNVHGIEDMVYQLYTCGPVFKKVNNFLWAFKLKPPRKGFKAKRHAFNEPRPGDWGNREAHINELINRMI",
+            "entity_poly_seq_one_letter_code_can": "MADRYENQVENELGKSMTSLRAKKVNKNKELKQAAAKKIKTLKLINKKKRNDLRQRTLRYEEEYESERKKIIELKREARKNNCFYREAEKKVVFVIRLKGVNKLPPKVRSVFRLLRLLQVHNGVFVKVNKATKEMLKIVEPYVTYGYPTLSTVRKLLYKRGYVRVGKVRRYARKKIQDNADISKHLGKYNVHGIEDMVYQLYTCGPVFKKVNNFLWAFKLKPPRKGFKAKRHAFNEPRPGDWGNREAHINELINRMI",
+            "entity_poly_seq_length": 257,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL30"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L35Ae"
+            ],
+            "pfam_accessions": [
+                "PF01247"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IHT9"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL33",
+            "entity_poly_strand_id": "9",
+            "entity_poly_seq_one_letter_code": "MENVKVKKEQTEVSQKKKVVKKVLKKNKKTSNKKLQAVRLYEKGVILGYKRSQRNQDPNFTLISIKNVNTKKHAQFYVGKRVAYVYRTTKHHDGVKIKCIWGKVCRTHGNSGVIRAKFKTHIPPKAFGDRVRILMYPSNI",
+            "entity_poly_seq_one_letter_code_can": "MENVKVKKEQTEVSQKKKVVKKVLKKNKKTSNKKLQAVRLYEKGVILGYKRSQRNQDPNFTLISIKNVNTKKHAQFYVGKRVAYVYRTTKHHDGVKIKCIWGKVCRTHGNSGVIRAKFKTHIPPKAFGDRVRILMYPSNI",
+            "entity_poly_seq_length": 140,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL33"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L36e"
+            ],
+            "pfam_accessions": [
+                "PF01158"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8I713"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL36",
+            "entity_poly_strand_id": "b",
+            "entity_poly_seq_one_letter_code": "MGRKSTIKPATGIAVGFNSGHVVTKRNLKLHKKKKPFSKRKELIKDVVREITGFSPYEKRIIELIKIGTSASTKRSLKYAKKKLGTHKRGKAKREEIQKVVILQRRKAAEKH",
+            "entity_poly_seq_one_letter_code_can": "MGRKSTIKPATGIAVGFNSGHVVTKRNLKLHKKKKPFSKRKELIKDVVREITGFSPYEKRIIELIKIGTSASTKRSLKYAKKKLGTHKRGKAKREEIQKVVILQRRKAAEKH",
+            "entity_poly_seq_length": 112,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL36"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "This family includes ribosomal protein L37 from eukaryotes and archaebacteria. The family contains many conserved cysteines and histidines suggesting that this protein may bind to zinc."
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L37e"
+            ],
+            "pfam_accessions": [
+                "PF01907"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C0H4L5"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL37",
+            "entity_poly_strand_id": "c",
+            "entity_poly_seq_one_letter_code": "MGKAGKGTGSFGKRNGKTHFLCLRCGKRSYHLQKKKCASCGYPSAKKRRFNWSVKAKRRNTTGTGRCRYIKTLRRKLKNKFTEGSTPKPKQR",
+            "entity_poly_seq_one_letter_code_can": "MGKAGKGTGSFGKRNGKTHFLCLRCGKRSYHLQKKKCASCGYPSAKKRRFNWSVKAKRRNTTGTGRCRYIKTLRRKLKNKFTEGSTPKPKQR",
+            "entity_poly_seq_length": 92,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL37"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal Proteins L2, C-terminal domain",
+                "Ribosomal Proteins L2, RNA binding domain"
+            ],
+            "pfam_accessions": [
+                "PF03947",
+                "PF00181"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8I3T9"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL2",
+            "entity_poly_strand_id": "D",
+            "entity_poly_seq_one_letter_code": "MGRVIRGQRKGRGSIFKSHNHHRKGAAKLRHLDYCEKKGYIKGLVKDIIHDPGRGAPLAKVIFKRTEKYGKKEELIIASEGMFTGQYISCGTKAPLSVGNILPIGKMPEGTLICNLEHRTGNRGTLVKASGCYATVVGQSEDGKKTKVRLPSGAKKTIDAKARAMVGVVGAGGRIDKPILKAGVAHHKYRVKRNCWPKVRGVAMNPVEHPHGGGNHQHIGHPSTVSRSAPAGQKVGLIAARRTGLLRGAKKTKLVGKSEE",
+            "entity_poly_seq_one_letter_code_can": "MGRVIRGQRKGRGSIFKSHNHHRKGAAKLRHLDYCEKKGYIKGLVKDIIHDPGRGAPLAKVIFKRTEKYGKKEELIIASEGMFTGQYISCGTKAPLSVGNILPIGKMPEGTLICNLEHRTGNRGTLVKASGCYATVVGQSEDGKKTKVRLPSGAKKTIDAKARAMVGVVGAGGRIDKPILKAGVAHHKYRVKRNCWPKVRGVAMNPVEHPHGGGNHQHIGHPSTVSRSAPAGQKVGLIAARRTGLLRGAKKTKLVGKSEE",
+            "entity_poly_seq_length": 260,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL2"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L38e protein family"
+            ],
+            "pfam_accessions": [
+                "PF01781"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8II62"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL38",
+            "entity_poly_strand_id": "d",
+            "entity_poly_seq_one_letter_code": "MPKQITDIRKFLKISRKPDTTAVIIMKKKSKTKKNTVITKLKLRTKKYLYTMVFADRKKAERIENSLLPSLKRIYYPQKKVGKTVKK",
+            "entity_poly_seq_one_letter_code_can": "MPKQITDIRKFLKISRKPDTTAVIIMKKKSKTKKNTVITKLKLRTKKYLYTMVFADRKKAERIENSLLPSLKRIYYPQKKVGKTVKK",
+            "entity_poly_seq_length": 87,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL38"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal L39 protein"
+            ],
+            "pfam_accessions": [
+                "PF00832"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "C0H4H3"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL39",
+            "entity_poly_strand_id": "e",
+            "entity_poly_seq_one_letter_code": "MGSIKRFRLKQRLGKCRRQNRPVPHWYRLKKDTKIRYNTKRRHWRRTKLGL",
+            "entity_poly_seq_one_letter_code_can": "MGSIKRFRLKQRLGKCRRQNRPVPHWYRLKKDTKIRYNTKRRHWRRTKLGL",
+            "entity_poly_seq_length": 51,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL39"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L44"
+            ],
+            "pfam_accessions": [
+                "PF00935"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "O97231"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein eL44",
+            "entity_poly_strand_id": "i",
+            "entity_poly_seq_one_letter_code": "MVNVPKTRKTYCSNKCKKHTMHKVSQYKKGKERLSSLGRRRYDMKQKGFGGQTKPVFKKKAKTTKKIVLKLECTKCKKKRFQTMKRCKTFEMGADKKKKGGAVY",
+            "entity_poly_seq_one_letter_code_can": "MVNVPKTRKTYCSNKCKKHTMHKVSQYKKGKERLSSLGRRRYDMKQKGFGGQTKPVFKKKAKTTKKIVLKLECTKCKKKRFQTMKRCKTFEMGADKKKKGGAVY",
+            "entity_poly_seq_length": 104,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "eL42"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L3"
+            ],
+            "pfam_accessions": [
+                "PF00297"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IJC6"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL3",
+            "entity_poly_strand_id": "E",
+            "entity_poly_seq_one_letter_code": "MSHRKFERPRHGSLGFLPRKRCKRLRGKIRSFPKDDKEKPPHFTAFMGYKAGMTHIVREVDKPGSKLHKKEIVEACTIIECAPMVVVGIVGYRETPKGLRILSTVWANHVSDEFRRRYYKNWYKSEKKAFTKSLNVPEATKNCLLKRIEKYCTVLRAICHTQPSKTPLRMKKAHIMEVQINGGSMKEKLEFVKEMLEKNLPVSTVFNPNEMIDVISVTKGHGTKGVVSRYGVKRLPRKTHRGLRKVACIGAWHPARVQFQIPRHGQKGYFHRTERNKKIYRIGLKTDKNSASTDADITEKKITPMGGFPHYGVVNEDFLLLKGCVAGTKKRPITLRKNIVPQVSRDALAQVSLKFIDTSSKIGHGRFQTSEEKVKYYGPLKKDLKA",
+            "entity_poly_seq_one_letter_code_can": "MSHRKFERPRHGSLGFLPRKRCKRLRGKIRSFPKDDKEKPPHFTAFMGYKAGMTHIVREVDKPGSKLHKKEIVEACTIIECAPMVVVGIVGYRETPKGLRILSTVWANHVSDEFRRRYYKNWYKSEKKAFTKSLNVPEATKNCLLKRIEKYCTVLRAICHTQPSKTPLRMKKAHIMEVQINGGSMKEKLEFVKEMLEKNLPVSTVFNPNEMIDVISVTKGHGTKGVVSRYGVKRLPRKTHRGLRKVACIGAWHPARVQFQIPRHGQKGYFHRTERNKKIYRIGLKTDKNSASTDADITEKKITPMGGFPHYGVVNEDFLLLKGCVAGTKKRPITLRKNIVPQVSRDALAQVSLKFIDTSSKIGHGRFQTSEEKVKYYGPLKKDLKA",
+            "entity_poly_seq_length": 386,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL3"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [
+                "NULL"
+            ],
+            "pfam_descriptions": [
+                "Ribosomal protein L6"
+            ],
+            "pfam_accessions": [
+                "PF00347"
+            ],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [
+                "Q8IE85"
+            ],
+            "rcsb_pdbx_description": "60S ribosomal protein uL6",
+            "entity_poly_strand_id": "H",
+            "entity_poly_seq_one_letter_code": "MKTIVSTQKVLIPEGVKVAINARKVTVSGKYGTLRRSFRHLPIDIRLNKLKKYIKVVMWFGVPDSLACIRTVCTHLKNMFTGVTKKFLYKMRLVHAHFPINSNIVDNNTRIEIRNYLGEKSVRFVKALPGVVIEKSPNVKDEIYVSGADIENVSLTAALIHQSVLCRNKDIRKFLDGIYVSEVTTVEKDE",
+            "entity_poly_seq_one_letter_code_can": "MKTIVSTQKVLIPEGVKVAINARKVTVSGKYGTLRRSFRHLPIDIRLNKLKKYIKVVMWFGVPDSLACIRTVCTHLKNMFTGVTKKFLYKMRLVHAHFPINSNIVDNNTRIEIRNYLGEKSVRFVKALPGVVIEKSPNVKDEIYVSGADIENVSLTAALIHQSVLCRNKDIRKFLDGIYVSEVTTVEKDE",
+            "entity_poly_seq_length": 190,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [
+                "uL6"
+            ],
+            "surface_ratio": null
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "pfam_comments": [],
+            "pfam_descriptions": [],
+            "pfam_accessions": [],
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "uniprot_accession": [],
+            "rcsb_pdbx_description": "60S ribosomal protein eL6",
+            "entity_poly_strand_id": "I",
+            "entity_poly_seq_one_letter_code": "MTNTSNELKHYNVKGKKKVLVPVNAKKTINKKYFGRKVASKKKYVVQRKLRKSIEVGKVAIILTGKHMGKRCIITKILNSGLLAVVGPYEINGVPLKRVDSRYLVVTSTNIFNFENIAKLKDDFLNYAQDIDDDSFIKTLEIKKKQKKLLKNKNEALFMNNVIDKIKEIRKEDPKVQKLEGIQKDIGSLLKPEILKNKVFAHYLKSKFTLRNDMVLHKMKF",
+            "entity_poly_seq_one_letter_code_can": "MTNTSNELKHYNVKGKKKVLVPVNAKKTINKKYFGRKVASKKKYVVQRKLRKSIEVGKVAIILTGKHMGKRCIITKILNSGLLAVVGPYEINGVPLKRVDSRYLVVTSTNIFNFENIAKLKDDFLNYAQDIDDDSFIKTLEIKKKQKKLLKNKNEALFMNNVIDKIKEIRKEDPKVQKLEGIQKDIGSLLKPEILKNKVFAHYLKSKFTLRNDMVLHKMKF",
+            "entity_poly_seq_length": 221,
+            "entity_poly_polymer_type": "Protein",
+            "entity_poly_entity_type": "polypeptide(L)",
+            "nomenclature": [],
+            "surface_ratio": null
+        }
+    ],
+    "rnas": [
+        {
+            "parent_rcsb_id": "3J79",
+            "rcsb_pdbx_description": "5S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "entity_poly_strand_id": "B",
+            "entity_poly_seq_one_letter_code": "UGACUCGUUCAUACUACAGUGGAUACACCAGAUCCCAUCAGAACUCUGAAGUUAAGCACUGUAAGGCUUGGCUAGUACUGAGGUGGGAGACCGCUCGGGAACACCAGGUGAUGAGUCAG",
+            "entity_poly_seq_one_letter_code_can": "UGACUCGUUCAUACUACAGUGGAUACACCAGAUCCCAUCAGAACUCUGAAGUUAAGCACUGUAAGGCUUGGCUAGUACUGAGGUGGGAGACCGCUCGGGAACACCAGGUGAUGAGUCAG",
+            "entity_poly_seq_length": 119,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "rcsb_pdbx_description": "5.8S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "entity_poly_strand_id": "C",
+            "entity_poly_seq_one_letter_code": "UAGCACAGUCUUAACGAUGGAUGUCUUGGUUCCUACAGCGAUGAAGGCCGCAGCAAAAUGCGAUACGCAAUGAAAAUUGCAGUGACUGUGAAUCAUCAGAAUGCUGAAUGUAAACUACACCAAUUCCCUUCGGGGAAUAGUGGUACUCCUACAGAAAAU",
+            "entity_poly_seq_one_letter_code_can": "UAGCACAGUCUUAACGAUGGAUGUCUUGGUUCCUACAGCGAUGAAGGCCGCAGCAAAAUGCGAUACGCAAUGAAAAUUGCAGUGACUGUGAAUCAUCAGAAUGCUGAAUGUAAACUACACCAAUUCCCUUCGGGGAAUAGUGGUACUCCUACAGAAAAU",
+            "entity_poly_seq_length": 159,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        },
+        {
+            "parent_rcsb_id": "3J79",
+            "rcsb_pdbx_description": "28S ribosomal RNA",
+            "rcsb_source_organism_description": [
+                "Plasmodium falciparum"
+            ],
+            "rcsb_source_organism_id": [
+                36329
+            ],
+            "entity_poly_strand_id": "A",
+            "entity_poly_seq_one_letter_code": "GUUUGAUUUGAUGUUAGGAGGGCAAAUCCGCCGAAUUUAAGCAUAUAAUUAAGCGGAAGAAAAGAAAAUAACUAUGAUUCCUUUAGUAACGGCGAGUGAACAAGGACCAGCUCAAACGGUUAAUCCUUCGUUUGGUGCAAACCUUUCGACGGAAUUGUCGUUGAAUUAUUCCAUGAAUGCCUUUAAUUUGAGCAAAGUGAGCAGGAAUGCUUCCCCAUAGAGGGUGAAAGGCCCAUAGUUCUUUUUAAUUUAUUCAUUGGAAUUUUUCAUGUCGAGUCGUGUUCUUUGAGAUUGGAGCACUAAUACGUGUGAUACAUUUCACAUAAAGCUAAAUAUAUGUAGGAGACCGAUAGCAAACAAGUACCGUGAGGGAAAGAUGAAAUAGUACUCAGGAAUGAGCAAUUAAAUAGUACCUGAAAUCGUUAAGAUGGAACGGAUUAAGAGAGAAAACAAGUAAAGAGGGGAAUUUUUAAUUUUUUUUGUUAUAAUUCUCUUCUUUAUUAAAAGAAACAUCAGUGAUUAAUUUAAUUUCAAUAAAGCAAUCCCCUGAAAUUCAAAAUUUCUUUUAAUUUUGUUUUCACUUUCUCCCCGCACUAAUGUGGGGAAAACUGGCUUUAUUUCUUCAAUUAUUUUUUUUGCUGAGGAAUUUUAAAAUUAUUUGAAUUUUUCUUCUUAUAAUUUAAGUUGUUUCUAUACAGUACUUUCUUAACCCACUCGUCUUGAAACACGGACCAAGGAGUCUAGCAAAUGUGCAAGUGUAUAUGAUUCUUUAAACAUUUCUCUUUUUAAUAUACGCAUAAUUAAUGUAAUAUGUUUUCUUCAUUGUAGAUUUGUGGUGUUUAAUUUUUAUUAAAUCCCCACUUUGCAUACAAUACCGGUAAGCAAUUAUGCUUUAUUGAGUACGAGCAUAUUUGGUAGGACCCGAGAGGCUUUGAACUAAGCGUGAUGAGAUUGAAGUCAGACGAAAGUCUGAUGGAGGAUCGAGUUGAUACUGACGUGCAAAUCGUUCAUUUCAAUCACGUUUAGGGGCGAAAGACUAAUCGAAAAGCCUAUUAGCUGGUUAUUUUCGAAAGAUCUCUCAGGAUCGCUGGAGUUGAUUAAUAUAAUUUUACCAGGUAGAGAUAAUGAUUAGAGGAAUCAGGGAAAUCGUUUUCCUUGACCUAUUCUCAAACUCCCAAUAGGUAAAAAGGGCGAAAUAACUCAAUUUGUAUUUCACUCAUAUUAAAUAAAAUAACUCCAAGUGGGCCAUUUUUGGUAAGCAGAACUGGCGAUGAGGGAUGCUCCUAACGCUUGGAUAAGGUGCCUAAAUAUUCGCUCAUGAGAUCCCAUAAAAGGUGUUGGUUCAUAAUGACAGUAGGACGGUGGUCAUGGAAGUCGAAAUCCGCUAAGGAGUGUGUAACAACUCACCUACCGAAUGAACUAGCCCUGAAAAUGGAUGGCGCUAAAGCGGAUUACCGAUACCAAGCCAUAAAAAGAACAGAAAAAAUUUAUUUUUUUUUUAGAAUCUUUUUAUGAGUAGAAAAUCGUGGGGUUUGUGUUGAAGCGAAAUACGUGAGUUUUCGUGGAACAUCUCCCUAGUGCAGAUCUUGGUGGAAGUAGCAACUAUUCAAAUGAGAACUUUGAAGACUGAAGUGGAGAAGGGUUUCUUGUCAACUGUGAUUGAACAAGAGUUAGCCGCUCCUAAGGGAUAGCUGAAAAGUGUUUAAAAGGGGGUUCCUUCCCCGUCUCAAAAGGGAAACAGGUUGAUAUUCCUGUGCCAAUAGUAUUAUGAGUUUCUUAGAUGGUAACAUAUAUAUAAAUGAACUCCUUUACAUAGGCUUUACACUCGGGGUGCGUUUUCUUUGCACUUUACCUUUAUAACAAACCUUGGAAUCAAUUUACUUGGAGAAGAGGUUCGUUGAACUCAAUUCAAAAAAUUUCUUGAACGGGGUUUUCGGAUUCAGUUCAUUUUAUUUUUUGUUUUGUAGCAAUAGUAAUUCGUUUUUAUGAAUUAUCCGAAGUGGUAAGGACUAUCCUUGAAAAAAGGAGGGAACGGCUUUGUAACUUGGUUUCUUCUGAUUCCAUUUUGCUUUGCUUAUACUCUUAAUACUUGUAUGAGCGUACCAACAACCGCAUCAGGUCUCCAAGGUUAACAGCCUCUGGUUAAAUAGAAAAAAGUAGGUAAGGGAAGUCGGCAAAAUAGAUCCGUAACUUCGGGAAAAGGAUUGGCUCUGAGGACAUUAGAAAAGAGAAGAAAAAAAGAGGGUCGAAAAUAAAAUUGCAGUCUUUAUUUGCUUUUCUUUCGAUUUGCUUGUAAUCUGCUUUUUCUUUUUCUUCUUUCUUUUUUUCUCCCCCUCUUUUCGCCUUCACUUUAUUGUAAUUUUAUUACUUUAAUUUGAUACCUAUAAUGUUAACUCAGAACUGAAACGGACAAGGGGAAUCCGACUGUUUAAUUAAAACAUAGCAUUGUGAAAAGCCACAACUGGUAUUAACACAAUGUGAUUUCUGCCCAGUGCUUUGAAUGUCAACUUGAUGAAAUUCAAUCAAGCGCAGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACGAGAUUCCCACUGUCCCUACUUGCUAUCUAGCGAAACCACAGCCAAGGGAACGGGCUUGGCAAAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUUACUCUAGUCUGGCUUUGUGAAACGACUUAAGAGGUGUAGCAUAAGUGGGAGUAGAAACUGAAAUAUGUUUUUACGACAGUGAAAUACCACUACUUUUAAAGUUGUUUUACUUAUCCAUUUAUAGGGAAAUAUAUUAUGCUUUAUCCUUCGGGAAGGCAUUCUGAUAUUAUUUGAAUUUUUAAGAAACUUGUUUCUUAUCUUUCUCCCAAUUUCUAUGGAGACAUAGCCAGGUGGGGAGUUUGACUGGGGCGGUACAUCUGUUAAAUAUUAACGCAGAUGUCCAAAGACAAGCUCAAAGAGAACAGAAAUCUCUUGUAGACUAAAAGGGGAAAAGCUUGUUUGAUUUCUAUUUUCAGAACAAGUAGAAAACGUGAAAGCGUGGCCUAUCGAUCCUUUAUAUUUGCAAAAUGACGUAAAUUACUUACUACUGUGCAUAUAGAGGUGUCUGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCUGCCAAGCGCUCCUAGCGACGUAGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGGGACGCAGAAGUCUCAAAGUGUCGGAUUGUUCACCCGCUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAAUUUUAUUAUAUUUUUUAUAUAUACAUAUAGUAUUGUGACAGUAAUCCAACUUGGUACGAGAGGAUUAGUUGGUUCAGACAAUUGGUACAGCAAUUGGUUGACAAACCAGUGUUGCGAAGCUAAGUCUGUUGGAUAAUGGCUGAACGCCUCUUAAGCCAGAAACCAUGCUGAUUAAACAAUACUAUUUCGUUCUUUUUUGUUUCCUUUUUUACUGCUAAUGUAAAAGAGAAAUUAUAUAUGUACCUUUUUUUGGUACAUAAAUAAUCCUAUCACCUUUUUCGUGAGCUGUGAGCUGUGAGCUAGGCAAUAGUUCUUUAACAACAAAAAAGAAUUGCACAAACUGUAGACGACUUUUUUGCCUCAGGGUGCUGUAAACAUGAAAGUAAACUUUGUUUUACGAUCUGUUGAGGCUUAUCCCUAGUGGUAAAGUGUUU",
+            "entity_poly_seq_one_letter_code_can": "GUUUGAUUUGAUGUUAGGAGGGCAAAUCCGCCGAAUUUAAGCAUAUAAUUAAGCGGAAGAAAAGAAAAUAACUAUGAUUCCUUUAGUAACGGCGAGUGAACAAGGACCAGCUCAAACGGUUAAUCCUUCGUUUGGUGCAAACCUUUCGACGGAAUUGUCGUUGAAUUAUUCCAUGAAUGCCUUUAAUUUGAGCAAAGUGAGCAGGAAUGCUUCCCCAUAGAGGGUGAAAGGCCCAUAGUUCUUUUUAAUUUAUUCAUUGGAAUUUUUCAUGUCGAGUCGUGUUCUUUGAGAUUGGAGCACUAAUACGUGUGAUACAUUUCACAUAAAGCUAAAUAUAUGUAGGAGACCGAUAGCAAACAAGUACCGUGAGGGAAAGAUGAAAUAGUACUCAGGAAUGAGCAAUUAAAUAGUACCUGAAAUCGUUAAGAUGGAACGGAUUAAGAGAGAAAACAAGUAAAGAGGGGAAUUUUUAAUUUUUUUUGUUAUAAUUCUCUUCUUUAUUAAAAGAAACAUCAGUGAUUAAUUUAAUUUCAAUAAAGCAAUCCCCUGAAAUUCAAAAUUUCUUUUAAUUUUGUUUUCACUUUCUCCCCGCACUAAUGUGGGGAAAACUGGCUUUAUUUCUUCAAUUAUUUUUUUUGCUGAGGAAUUUUAAAAUUAUUUGAAUUUUUCUUCUUAUAAUUUAAGUUGUUUCUAUACAGUACUUUCUUAACCCACUCGUCUUGAAACACGGACCAAGGAGUCUAGCAAAUGUGCAAGUGUAUAUGAUUCUUUAAACAUUUCUCUUUUUAAUAUACGCAUAAUUAAUGUAAUAUGUUUUCUUCAUUGUAGAUUUGUGGUGUUUAAUUUUUAUUAAAUCCCCACUUUGCAUACAAUACCGGUAAGCAAUUAUGCUUUAUUGAGUACGAGCAUAUUUGGUAGGACCCGAGAGGCUUUGAACUAAGCGUGAUGAGAUUGAAGUCAGACGAAAGUCUGAUGGAGGAUCGAGUUGAUACUGACGUGCAAAUCGUUCAUUUCAAUCACGUUUAGGGGCGAAAGACUAAUCGAAAAGCCUAUUAGCUGGUUAUUUUCGAAAGAUCUCUCAGGAUCGCUGGAGUUGAUUAAUAUAAUUUUACCAGGUAGAGAUAAUGAUUAGAGGAAUCAGGGAAAUCGUUUUCCUUGACCUAUUCUCAAACUCCCAAUAGGUAAAAAGGGCGAAAUAACUCAAUUUGUAUUUCACUCAUAUUAAAUAAAAUAACUCCAAGUGGGCCAUUUUUGGUAAGCAGAACUGGCGAUGAGGGAUGCUCCUAACGCUUGGAUAAGGUGCCUAAAUAUUCGCUCAUGAGAUCCCAUAAAAGGUGUUGGUUCAUAAUGACAGUAGGACGGUGGUCAUGGAAGUCGAAAUCCGCUAAGGAGUGUGUAACAACUCACCUACCGAAUGAACUAGCCCUGAAAAUGGAUGGCGCUAAAGCGGAUUACCGAUACCAAGCCAUAAAAAGAACAGAAAAAAUUUAUUUUUUUUUUAGAAUCUUUUUAUGAGUAGAAAAUCGUGGGGUUUGUGUUGAAGCGAAAUACGUGAGUUUUCGUGGAACAUCUCCCUAGUGCAGAUCUUGGUGGAAGUAGCAACUAUUCAAAUGAGAACUUUGAAGACUGAAGUGGAGAAGGGUUUCUUGUCAACUGUGAUUGAACAAGAGUUAGCCGCUCCUAAGGGAUAGCUGAAAAGUGUUUAAAAGGGGGUUCCUUCCCCGUCUCAAAAGGGAAACAGGUUGAUAUUCCUGUGCCAAUAGUAUUAUGAGUUUCUUAGAUGGUAACAUAUAUAUAAAUGAACUCCUUUACAUAGGCUUUACACUCGGGGUGCGUUUUCUUUGCACUUUACCUUUAUAACAAACCUUGGAAUCAAUUUACUUGGAGAAGAGGUUCGUUGAACUCAAUUCAAAAAAUUUCUUGAACGGGGUUUUCGGAUUCAGUUCAUUUUAUUUUUUGUUUUGUAGCAAUAGUAAUUCGUUUUUAUGAAUUAUCCGAAGUGGUAAGGACUAUCCUUGAAAAAAGGAGGGAACGGCUUUGUAACUUGGUUUCUUCUGAUUCCAUUUUGCUUUGCUUAUACUCUUAAUACUUGUAUGAGCGUACCAACAACCGCAUCAGGUCUCCAAGGUUAACAGCCUCUGGUUAAAUAGAAAAAAGUAGGUAAGGGAAGUCGGCAAAAUAGAUCCGUAACUUCGGGAAAAGGAUUGGCUCUGAGGACAUUAGAAAAGAGAAGAAAAAAAGAGGGUCGAAAAUAAAAUUGCAGUCUUUAUUUGCUUUUCUUUCGAUUUGCUUGUAAUCUGCUUUUUCUUUUUCUUCUUUCUUUUUUUCUCCCCCUCUUUUCGCCUUCACUUUAUUGUAAUUUUAUUACUUUAAUUUGAUACCUAUAAUGUUAACUCAGAACUGAAACGGACAAGGGGAAUCCGACUGUUUAAUUAAAACAUAGCAUUGUGAAAAGCCACAACUGGUAUUAACACAAUGUGAUUUCUGCCCAGUGCUUUGAAUGUCAACUUGAUGAAAUUCAAUCAAGCGCAGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUUAACGAGAUUCCCACUGUCCCUACUUGCUAUCUAGCGAAACCACAGCCAAGGGAACGGGCUUGGCAAAAUCAGCGGGGAAAGAAGACCCUGUUGAGCUUUACUCUAGUCUGGCUUUGUGAAACGACUUAAGAGGUGUAGCAUAAGUGGGAGUAGAAACUGAAAUAUGUUUUUACGACAGUGAAAUACCACUACUUUUAAAGUUGUUUUACUUAUCCAUUUAUAGGGAAAUAUAUUAUGCUUUAUCCUUCGGGAAGGCAUUCUGAUAUUAUUUGAAUUUUUAAGAAACUUGUUUCUUAUCUUUCUCCCAAUUUCUAUGGAGACAUAGCCAGGUGGGGAGUUUGACUGGGGCGGUACAUCUGUUAAAUAUUAACGCAGAUGUCCAAAGACAAGCUCAAAGAGAACAGAAAUCUCUUGUAGACUAAAAGGGGAAAAGCUUGUUUGAUUUCUAUUUUCAGAACAAGUAGAAAACGUGAAAGCGUGGCCUAUCGAUCCUUUAUAUUUGCAAAAUGACGUAAAUUACUUACUACUGUGCAUAUAGAGGUGUCUGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCUGCCAAGCGCUCCUAGCGACGUAGCUUUUUGAUCCUUCGAUGUCGGCUCUUCCUAUCAUUGGGACGCAGAAGUCUCAAAGUGUCGGAUUGUUCACCCGCUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGAUGAAUUUUAUUAUAUUUUUUAUAUAUACAUAUAGUAUUGUGACAGUAAUCCAACUUGGUACGAGAGGAUUAGUUGGUUCAGACAAUUGGUACAGCAAUUGGUUGACAAACCAGUGUUGCGAAGCUAAGUCUGUUGGAUAAUGGCUGAACGCCUCUUAAGCCAGAAACCAUGCUGAUUAAACAAUACUAUUUCGUUCUUUUUUGUUUCCUUUUUUACUGCUAAUGUAAAAGAGAAAUUAUAUAUGUACCUUUUUUUGGUACAUAAAUAAUCCUAUCACCUUUUUCGUGAGCUGUGAGCUGUGAGCUAGGCAAUAGUUCUUUAACAACAAAAAAGAAUUGCACAAACUGUAGACGACUUUUUUGCCUCAGGGUGCUGUAAACAUGAAAGUAAACUUUGUUUUACGAUCUGUUGAGGCUUAUCCCUAGUGGUAAAGUGUUU",
+            "entity_poly_seq_length": 3788,
+            "entity_poly_polymer_type": "RNA",
+            "entity_poly_entity_type": "polyribonucleotide"
+        }
+    ],
+    "ligands": [
+        {
+            "pdbx_description": "MAGNESIUM ION",
+            "formula_weight": 0.024,
+            "chemicalId": "MG",
+            "chemicalName": "MAGNESIUM ION",
+            "cif_residueId": "none"
+        },
+        {
+            "pdbx_description": "ZINC ION",
+            "formula_weight": 0.065,
+            "chemicalId": "ZN",
+            "chemicalName": "ZINC ION",
+            "cif_residueId": "none"
+        }
+    ]
+}
