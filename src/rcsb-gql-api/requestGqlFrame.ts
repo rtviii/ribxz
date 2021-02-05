@@ -1,5 +1,5 @@
 import axios from "axios";
-import { toString, uniq } from "lodash";
+import { chain, toString, uniq } from "lodash";
 import {
   BanClass,
   Ligand,
@@ -145,15 +145,62 @@ const reshape_ToLigand = (nonpoly: Nonpolymer_Entity): Ligand => {
   };
 };
 
-const reshape_ToRibosomalProtein = (poly: Polymer_Entity): RibosomalProtein => {
-  console.log("Reshaping proteins: ", poly)
-  var [nomenclature, pfamIds] = matchPolymerNomenclature(poly);
+// certain poly_entites, especially in the case of xray diffraction are marked with two comma-separated chain-names at the same time
+// because there are multiple models contained in the crystallographic file. We according duplicate the information, 
+// but add the two chains separately to PROTEINS and RNA where appropriate.
+
+// const reshape_ToRibosomalProtein = (poly: Polymer_Entity): RibosomalProtein => {
+//   var [nomenclature, pfamIds] = matchPolymerNomenclature(poly);
 
 
-  if (poly.pfams) {
-    var pfam_comments     = uniq(poly.pfams.map(pfam => pfam.rcsb_pfam_comment))
-    var pfam_descriptions = uniq(poly.pfams.map(pfam => pfam.rcsb_pfam_description))
-    var pfam_ids          = uniq(poly.pfams.map(pfam => pfam.rcsb_pfam_accession))
+//   if (poly.pfams) {
+//     var pfam_comments     = uniq(poly.pfams.map(pfam => pfam.rcsb_pfam_comment))
+//     var pfam_descriptions = uniq(poly.pfams.map(pfam => pfam.rcsb_pfam_description))
+//     var pfam_ids          = uniq(poly.pfams.map(pfam => pfam.rcsb_pfam_accession))
+//   } else {
+//     var pfam_comments     : string[] = [];
+//     var pfam_descriptions : string[] = [];
+//     var pfam_ids          : string[] = [];
+//   }
+
+//   var organism_ids         : number[];
+//   var organism_descriptions: string[];
+//   organism_ids          = poly.rcsb_entity_source_organism.map(org => org.ncbi_taxonomy_id)
+//   organism_descriptions = poly.rcsb_entity_source_organism.map(org => org.scientific_name)
+
+
+  
+//   var uni       = poly.uniprots ? poly.uniprots.map(entry => entry.rcsb_id) : [];
+
+//   return {
+//   parent_rcsb_id                     : poly.entry.rcsb_id,
+//   pfam_comments                      : pfam_comments,
+//   pfam_descriptions                  : pfam_descriptions,
+//   pfam_accessions                    : pfam_ids,
+//   rcsb_source_organism_description   : organism_descriptions,
+//   rcsb_source_organism_id            : organism_ids,
+//   uniprot_accession                  : uni,
+//   rcsb_pdbx_description              : poly.rcsb_polymer_entity.pdbx_description ? poly.rcsb_polymer_entity.pdbx_description: null,
+//   entity_poly_strand_id              : poly.entity_poly.pdbx_strand_id,
+//   entity_poly_seq_one_letter_code    : poly.entity_poly.pdbx_seq_one_letter_code,
+//   entity_poly_seq_one_letter_code_can: poly.entity_poly.pdbx_seq_one_letter_code_can,
+//   entity_poly_seq_length             : poly.entity_poly.rcsb_sample_sequence_length,
+//   entity_poly_polymer_type           : poly.entity_poly.rcsb_entity_polymer_type,
+//   entity_poly_entity_type            : poly.entity_poly.type,
+//   nomenclature                       : nomenclature,
+//   surface_ratio                      : null,
+//   };
+// };
+
+const reshape_ToRibosomalProtein = (polymers: Polymer_Entity[]): RibosomalProtein[] => {
+
+  return polymers.reduce((rp_transformed:RibosomalProtein[], current_poly:Polymer_Entity)=>{
+  var [nomenclature, pfamIds] = matchPolymerNomenclature(current_poly);
+
+  if (current_poly.pfams) {
+    var pfam_comments     = uniq(current_poly.pfams.map(pfam => pfam.rcsb_pfam_comment))
+    var pfam_descriptions = uniq(current_poly.pfams.map(pfam => pfam.rcsb_pfam_description))
+    var pfam_ids          = uniq(current_poly.pfams.map(pfam => pfam.rcsb_pfam_accession))
   } else {
     var pfam_comments     : string[] = [];
     var pfam_descriptions : string[] = [];
@@ -162,59 +209,159 @@ const reshape_ToRibosomalProtein = (poly: Polymer_Entity): RibosomalProtein => {
 
   var organism_ids         : number[];
   var organism_descriptions: string[];
-  organism_ids          = poly.rcsb_entity_source_organism.map(org => org.ncbi_taxonomy_id)
-  organism_descriptions = poly.rcsb_entity_source_organism.map(org => org.scientific_name)
-
-
+  organism_ids          = current_poly.rcsb_entity_source_organism.map(org => org.ncbi_taxonomy_id)
+  organism_descriptions = current_poly.rcsb_entity_source_organism.map(org => org.scientific_name)
   
-  var uni       = poly.uniprots ? poly.uniprots.map(entry => entry.rcsb_id) : [];
+  var uni       = current_poly.uniprots ? current_poly.uniprots.map(entry => entry.rcsb_id) : [];
 
-  return {
-  parent_rcsb_id                     : poly.entry.rcsb_id,
-  pfam_comments                      : pfam_comments,
-  pfam_descriptions                  : pfam_descriptions,
-  pfam_accessions                    : pfam_ids,
-  rcsb_source_organism_description   : organism_descriptions,
-  rcsb_source_organism_id            : organism_ids,
-  uniprot_accession                  : uni,
-  rcsb_pdbx_description              : poly.rcsb_polymer_entity.pdbx_description ? poly.rcsb_polymer_entity.pdbx_description: null,
-  entity_poly_strand_id              : poly.entity_poly.pdbx_strand_id,
-  entity_poly_seq_one_letter_code    : poly.entity_poly.pdbx_seq_one_letter_code,
-  entity_poly_seq_one_letter_code_can: poly.entity_poly.pdbx_seq_one_letter_code_can,
-  entity_poly_seq_length             : poly.entity_poly.rcsb_sample_sequence_length,
-  entity_poly_polymer_type           : poly.entity_poly.rcsb_entity_polymer_type,
-  entity_poly_entity_type            : poly.entity_poly.type,
-  nomenclature                       : nomenclature,
-  surface_ratio                      : null,
-  };
+
+
+  // If the chain is duplicated, as it would be for two models packed inside a cif file from an xray experiment,
+  // reduce each name to an individual record.
+  var chains_in_record:RibosomalProtein[] = current_poly.entity_poly.pdbx_strand_id.includes(',')?   current_poly.entity_poly.pdbx_strand_id.split(',').reduce(
+    (chainobjects:RibosomalProtein[], chainid:string)=>  
+    [...chainobjects, {
+    parent_rcsb_id                     : current_poly.entry.rcsb_id,
+    pfam_comments                      : pfam_comments,
+    pfam_descriptions                  : pfam_descriptions,
+    pfam_accessions                    : pfam_ids,
+    rcsb_source_organism_description   : organism_descriptions,
+    rcsb_source_organism_id            : organism_ids,
+    uniprot_accession                  : uni,
+    rcsb_pdbx_description              : current_poly.rcsb_polymer_entity.pdbx_description ? current_poly.rcsb_polymer_entity.pdbx_description: null,
+    entity_poly_strand_id              : chainid,
+    entity_poly_seq_one_letter_code    : current_poly.entity_poly.pdbx_seq_one_letter_code,
+    entity_poly_seq_one_letter_code_can: current_poly.entity_poly.pdbx_seq_one_letter_code_can,
+    entity_poly_seq_length             : current_poly.entity_poly.rcsb_sample_sequence_length,
+    entity_poly_polymer_type           : current_poly.entity_poly.rcsb_entity_polymer_type,
+    entity_poly_entity_type            : current_poly.entity_poly.type,
+    nomenclature                       : nomenclature,
+    surface_ratio                      : null,
+    } ]
+    ,[]
+  ): [ {
+    parent_rcsb_id                     : current_poly.entry.rcsb_id,
+    pfam_comments                      : pfam_comments,
+    pfam_descriptions                  : pfam_descriptions,
+    pfam_accessions                    : pfam_ids,
+    rcsb_source_organism_description   : organism_descriptions,
+    rcsb_source_organism_id            : organism_ids,
+    uniprot_accession                  : uni,
+    rcsb_pdbx_description              : current_poly.rcsb_polymer_entity.pdbx_description ? current_poly.rcsb_polymer_entity.pdbx_description: null,
+    entity_poly_strand_id              : current_poly.entity_poly.pdbx_strand_id,
+    entity_poly_seq_one_letter_code    : current_poly.entity_poly.pdbx_seq_one_letter_code,
+    entity_poly_seq_one_letter_code_can: current_poly.entity_poly.pdbx_seq_one_letter_code_can,
+    entity_poly_seq_length             : current_poly.entity_poly.rcsb_sample_sequence_length,
+    entity_poly_polymer_type           : current_poly.entity_poly.rcsb_entity_polymer_type,
+    entity_poly_entity_type            : current_poly.entity_poly.type,
+    nomenclature                       : nomenclature,
+    surface_ratio                      : null,
+    } ]
+    return [...rp_transformed, ...chains_in_record]
+  }
+  ,[])
 };
 
-const reshape_TorRNA = (poly: Polymer_Entity): rRNA => {
+// const reshape_TorRNA = (poly: Polymer_Entity): rRNA => {
 
-  var organism_ids         : number[];
-  var organism_descriptions: string[];
+//   var organism_ids         : number[];
+//   var organism_descriptions: string[];
   
-  if ( poly.rcsb_entity_source_organism ){
-  organism_ids          = poly.rcsb_entity_source_organism.map(org => org.ncbi_taxonomy_id)
-  organism_descriptions = poly.rcsb_entity_source_organism.map(org => org.scientific_name)
-  } else {
-  organism_ids          = []
-  organism_descriptions = []
-  }
+//   if ( poly.rcsb_entity_source_organism ){
+//   organism_ids          = poly.rcsb_entity_source_organism.map(org => org.ncbi_taxonomy_id)
+//   organism_descriptions = poly.rcsb_entity_source_organism.map(org => org.scientific_name)
+//   } else {
+//   organism_ids          = []
+//   organism_descriptions = []
+//   }
 
-  return {
-  parent_rcsb_id                     : poly.entry.rcsb_id,
-  rcsb_pdbx_description              : poly.rcsb_polymer_entity.pdbx_description ? poly.rcsb_polymer_entity.pdbx_description: null,
-  rcsb_source_organism_description   : organism_descriptions,
-  rcsb_source_organism_id            : organism_ids,
-  entity_poly_strand_id              : poly.entity_poly.pdbx_strand_id,
-  entity_poly_seq_one_letter_code    : poly.entity_poly.pdbx_seq_one_letter_code,
-  entity_poly_seq_one_letter_code_can: poly.entity_poly.pdbx_seq_one_letter_code_can,
-  entity_poly_seq_length             : poly.entity_poly.rcsb_sample_sequence_length,
-  entity_poly_polymer_type           : poly.entity_poly.rcsb_entity_polymer_type,
-  entity_poly_entity_type            : poly.entity_poly.type,
+//   return {
+//   parent_rcsb_id                     : poly.entry.rcsb_id,
+//   rcsb_pdbx_description              : poly.rcsb_polymer_entity.pdbx_description ? poly.rcsb_polymer_entity.pdbx_description: null,
+//   rcsb_source_organism_description   : organism_descriptions,
+//   rcsb_source_organism_id            : organism_ids,
+//   entity_poly_strand_id              : poly.entity_poly.pdbx_strand_id,
+//   entity_poly_seq_one_letter_code    : poly.entity_poly.pdbx_seq_one_letter_code,
+//   entity_poly_seq_one_letter_code_can: poly.entity_poly.pdbx_seq_one_letter_code_can,
+//   entity_poly_seq_length             : poly.entity_poly.rcsb_sample_sequence_length,
+//   entity_poly_polymer_type           : poly.entity_poly.rcsb_entity_polymer_type,
+//   entity_poly_entity_type            : poly.entity_poly.type,
 
-  };
+//   };
+// };
+const reshape_TorRNA = (polymers: Polymer_Entity[]): rRNA[] => {
+
+  return polymers.reduce((rna_transformed:rRNA[], curr_poly:Polymer_Entity)=>{
+
+    var organism_ids         : number[];
+    var organism_descriptions: string[];
+
+    if (curr_poly.rcsb_entity_source_organism) {
+      organism_ids = curr_poly.rcsb_entity_source_organism.map(
+        org => org.ncbi_taxonomy_id
+      );
+      organism_descriptions = curr_poly.rcsb_entity_source_organism.map(
+        org => org.scientific_name
+      );
+    } else {
+      organism_ids = [];
+      organism_descriptions = [];
+    }
+    var chains_in_record: rRNA[] = curr_poly.entity_poly.pdbx_strand_id.includes(
+      ","
+    )
+      ? curr_poly.entity_poly.pdbx_strand_id
+          .split(",")
+          .reduce((chains_in_record: rRNA[], chainid: string) => {
+            return [
+              ...chains_in_record,
+              {
+                parent_rcsb_id: curr_poly.entry.rcsb_id,
+                rcsb_pdbx_description: curr_poly.rcsb_polymer_entity
+                  .pdbx_description
+                  ? curr_poly.rcsb_polymer_entity.pdbx_description
+                  : null,
+                rcsb_source_organism_description: organism_descriptions,
+                rcsb_source_organism_id: organism_ids,
+                entity_poly_strand_id: chainid,
+                entity_poly_seq_one_letter_code:
+                  curr_poly.entity_poly.pdbx_seq_one_letter_code,
+                entity_poly_seq_one_letter_code_can:
+                  curr_poly.entity_poly.pdbx_seq_one_letter_code_can,
+                entity_poly_seq_length:
+                  curr_poly.entity_poly.rcsb_sample_sequence_length,
+                entity_poly_polymer_type:
+                  curr_poly.entity_poly.rcsb_entity_polymer_type,
+                entity_poly_entity_type: curr_poly.entity_poly.type,
+              },
+            ];
+          }, [])
+      : [
+          {
+            parent_rcsb_id: curr_poly.entry.rcsb_id,
+            rcsb_pdbx_description: curr_poly.rcsb_polymer_entity
+              .pdbx_description
+              ? curr_poly.rcsb_polymer_entity.pdbx_description
+              : null,
+            rcsb_source_organism_description: organism_descriptions,
+            rcsb_source_organism_id: organism_ids,
+            entity_poly_strand_id: curr_poly.entity_poly.pdbx_strand_id,
+            entity_poly_seq_one_letter_code:
+              curr_poly.entity_poly.pdbx_seq_one_letter_code,
+            entity_poly_seq_one_letter_code_can:
+              curr_poly.entity_poly.pdbx_seq_one_letter_code_can,
+            entity_poly_seq_length:
+              curr_poly.entity_poly.rcsb_sample_sequence_length,
+            entity_poly_polymer_type:
+              curr_poly.entity_poly.rcsb_entity_polymer_type,
+            entity_poly_entity_type: curr_poly.entity_poly.type,
+          },
+        ];
+
+    return [...rna_transformed, ...chains_in_record]
+  },[]
+
+  )
 };
 
 
@@ -256,8 +403,8 @@ export const requestGqlFrame = async (pdbid: string):Promise<RibosomeStructure> 
     var rnas                      = pdbRecord.entry.polymer_entities.filter(poly => poly.entity_poly.rcsb_entity_polymer_type === "RNA");
     var ligands                   = pdbRecord.entry.nonpolymer_entities;
     
-    var reshaped_proteins:RibosomalProtein[] = proteins.map(rp => reshape_ToRibosomalProtein(rp));
-    var reshaped_rrnas:rRNA[]                = rnas.map(rp => reshape_TorRNA(rp));
+    var reshaped_proteins:RibosomalProtein[] = reshape_ToRibosomalProtein(proteins);
+    var reshaped_rrnas:rRNA[]                = reshape_TorRNA(rnas)
     var reshaped_ligands:Ligand[] | null     = ligands == null ? null : ligands.map(r => reshape_ToLigand(r));
 
     var organismtuple =  inferOrganismFromPolymers(reshaped_proteins)
