@@ -8,3 +8,5 @@ https://neo4j.com/developer/kb/permission_denied_errors_after_neo4j_admin/
 The recommended approach to all neo4j-admin commands, such as backup, restore, store-info, import is to leverage sudo -u neo4j:
 
 *sudo -u neo4j neo4j-admin backup --from=localhost --name=graph.db_backup_with_user --backup-dir=/tmp*
+----
+

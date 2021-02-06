@@ -1,35 +1,35 @@
 import os
 from typing import List, Tuple
 import sys
-
 import pandas as pd
+
 from Bio.PDB.MMCIFParser import FastMMCIFParser
 from Bio.PDB.NeighborSearch import NeighborSearch
 from Bio.PDB.Residue import Residue
 from Bio.PDB.Structure import Structure
-from neo4j import  GraphDatabase, BoltStatementResult
+
 import json
 from asyncio import run
 
 from dotenv import load_dotenv
-load_dotenv(dotenv_path='./../.env')
-STATIC_ROOT=os.getenv( 'STATIC_ROOT' )
 
-uri        = os.getenv( 'NEO4J_URI' )
-authglobal = (os.getenv( 'NEO4J_USER' ),os.getenv( 'NEO4J_PASSWORD' ))
-current_db = os.getenv( 'NEO4J_CURRENTDB' )
 
-# pdbid = sys.argv[1].upper()
+uri         = os.getenv('NEO4J_URI')
+authglobal  = (os.getenv('NEO4J_USER'),
+os.getenv('NEO4J_PASSWORD'))
+current_db  = os.getenv('NEO4J_CURRENTDB')
 
-def Neoget(CYPHER):
-    driver = GraphDatabase.driver(uri,auth=authglobal)
-    def make_query(tx):
-        return tx.run(CYPHER)
+def root_self(rootname:str='')->str:
+    """Returns the rootpath for the project if it's unique in the current folder tree."""
+    root=os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
+    sys.path.append(root)
+    load_dotenv(os.path.join(root,'.env'))
 
-    with driver.session(database=current_db) as session:
-        result:BoltStatementResult = session.read_transaction(make_query)
-        driver.close()
-    return result
+
+root_self('ribxz')
+
+STATIC_ROOT = os.getenv('STATIC_ROOT')
+from ciftools.Neoget import _neoget
 
 class ResidueFullIdDict(): 
     def __init__(self, res:Residue):
@@ -60,7 +60,6 @@ def getLigandResIds(ligchemid:str, struct: Structure, dict_or_res:bool='dict')->
         return [ ResidueFullIdDict(res) for res in ligandResidues ]
     else:
         return ligandResidues
-
 def filterIons(entry):
     if " ion" in entry['name'].lower():
        print("Filtered ION:", entry['name'])
@@ -72,12 +71,11 @@ async def matchStrandToClass(pdbid:str, strand_id:str)->str:
     match (r:RibosomeStructure{{_PDBId: "{}"}})-[]-(rp:RibosomalProtein{{strand_id:"{}"}})-[]-(n:NomenclatureClass)
     return n.class_id""".format(pdbid.upper(), strand_id)
 
-    resp = Neoget(CYPHER).values()
+    resp = _neoget(CYPHER)
     if len(resp) > 0:
         return resp[0]
     else:
         return None
-
 class ResidueId(object):
 
     def __init__(self, res:Residue):
@@ -97,13 +95,11 @@ class ResidueId(object):
         return {
             "resn": self.resname,
          "strand_id": self.strand_id, "resid": self.residue_id, "struct":self.struct}
-
 def addBanClass(x:ResidueId):
     profile = x.asdict()
     bc      = run(matchStrandToClass(profile[ 'struct' ],profile[ 'strand_id' ]))
     profile['banClass'] = bc
     return profile
-
 def getLigandNbrs(resids: List[Residue], struct:Structure):
 
     ns   = NeighborSearch(list( struct.get_atoms() ))
@@ -129,15 +125,14 @@ def getLigandNbrs(resids: List[Residue], struct:Structure):
 
 
     return [ * map(lambda x: addBanClass(x) ,  set(filtered) ) ]
-
 def parseLigandNeighborhoods(pdbid:str):
     if ("." in pdbid):
         print("Provide a PDB *ID*, not the file. The filepaths are defined in the .env.")
         return
 
     print(f"Requesting ligands for {pdbid}")
-    x     = Neoget("match (l:Ligand)-[]-(r:RibosomeStructure{{rcsb_id:\"{}\"}}) return {{struct: r.rcsb_id, ligs: collect({{ id:l.chemicalId, name: l.chemicalName }})}}".format(pdbid))
-    entry = x.value()
+    entry:List     = _neoget("""match (l:Ligand)-[]-(r:RibosomeStructure{{rcsb_id:"{pdbid}"}}) 
+    return {{struct: r.rcsb_id, ligs: collect({{ id:l.chemicalId, name: l.chemicalName }})}}""".format_map({ "pdbid":pdbid }))[0]
 
     if len(entry)  == 0:
         print(f"No ligands for {pdbid} the DB. Exiting..")
@@ -184,5 +179,4 @@ def parseLigandNeighborhoods(pdbid:str):
 
 if __name__ == "__main__":
     pdbid = sys.argv[1]
-    print(f"Got arg {pdbid}")
     parseLigandNeighborhoods(pdbid=pdbid)

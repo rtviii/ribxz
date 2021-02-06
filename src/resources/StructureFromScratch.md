@@ -1,5 +1,4 @@
 
-
 # Digitizing the ribosome
 
 
@@ -180,3 +179,17 @@ ___
 Given a PDB accession, say __6O8W__ :
 - Get the spine of the profile at rcsb: https://www.rcsb.org/pdb/rest/describeMol?structureId=6O8w
 RCSB has made some real progress https://data.rcsb.org/index.html#data-schema
+
+
+# Neo4j/CypherShell Notes
+
+Make sure to __execute neo4j-admin commands as neo4j, the user.__ ```sudo -u neo4j <command>```
+
+:use system
+
+Backup:
+neo4j-admin dump --database='...' --to='...date'
+
+*There is a template with all the pfam, uniprot registries and constraints kicking around already*:
+
+  neo4j-admin load --from='_template_rxz.dump' --database=<database> [--force]

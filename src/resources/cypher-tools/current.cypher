@@ -1,6 +1,6 @@
 CREATE CONSTRAINT ON (ipro:InterProFamily) ASSERT ipro.family_id IS UNIQUE
 CREATE CONSTRAINT ON (go:GOClass) ASSERT go.class_id IS UNIQUE
-CREATE CONSTRAINT ON (q:RibosomeStructure) Assert q._PDBId IS UNIQUE
+CREATE CONSTRAINT ON (q:RibosomeStructure) Assert q.rcsb_id IS UNIQUE
 CREATE CONSTRAINT ON (pf:PFAMFamily) assert pf.family_id is unique
 CREATE CONSTRAINT ON (lig:Ligand) assert lig.chemicalId is unique
 CREATE CONSTRAINT ON (nc:NomenclatureClass) assert nc.class_id is unique
@@ -31,7 +31,7 @@ unwind(keys(value)) as key
 merge (nc:NomenclatureClass {class_id:key})
 
 // following the type
-call apoc.load.json("file:///Resources/STRUCTS_RCSB_GQL/6EM5.json") yield value
+call apoc.load.json("file:///static/4UJE/4UJE.json") yield value
 with    value.rcsb_id                                           as pdbid,
         value.expMethod                                         as exp, 
         value.resolution                                        as reso, 
@@ -64,32 +64,29 @@ merge (struct:RibosomeStructure{
         rcsb_id                                : pdbid,
         expMethod                              : exp,
         resolution                             : reso,
-
         citation_year                          : cit_year,
         citation_rcsb_authors                  : cit_authors,
         citation_title                         : cit_title,
         citation_pdbx_doi                      : cit_doi,
-
         _organismId                            : orgid,
-        _organismName                          : orgname
-        })
+        _organismName                          : orgname})
         on create set
-        struct.cryoem_exp_detail                      = CASE WHEN c_exp_detail  = null then "null" else c_exp_detail END,
-        struct.cryoem_exp_algorithm                   = CASE WHEN c_exp_algo  = null then "null" else c_exp_algo END,
-        struct.cryoem_exp_resolution                  = CASE WHEN c_exp_reso  = null then "null" else c_exp_reso END,
-        struct.rcsb_external_ref_id                   = CASE WHEN ref_id = null then "null" else ref_id END,
-        struct.rcsb_external_ref_type                 = CASE WHEN ref_type = null then "null" else ref_type END,
-        struct.rcsb_external_ref_link                 = CASE WHEN ref_link = null then "null" else ref_link END,
-        struct.cryoem_exp_resolution_method           = CASE WHEN c_exp_reso_method  = null then "null" else c_exp_reso_method END,
-        struct.cryoem_exp_magnification_calibration   = CASE WHEN c_exp_mag_calibration  = null then "null" else c_exp_mag_calibration END,
-        struct.cryoem_exp_num_particles               = CASE WHEN c_exp_n_particles  = null then "null" else c_exp_n_particles END,
-        struct.diffrn_source_details                  = CASE WHEN difn_details  = null then "null" else difn_details END,
-        struct.diffrn_source_pdbx_synchrotron_beamline= CASE WHEN difn_sync_beam  = null then "null" else difn_sync_beam END,
-        struct.diffrn_source_pdbx_synchrotron_site    = CASE WHEN difn_sync_site  = null then "null" else difn_sync_site END,
-        struct.diffrn_source_pdbx_wavelength          = CASE WHEN difn_omega  = null then "null" else difn_omega END,
-        struct.diffrn_source_pdbx_wavelength_list     = CASE WHEN difn_omega_list  = null then "null" else difn_omega_list END,
-        struct.diffrn_source_source                   = CASE WHEN difn_source  = null then "null" else difn_source END,
-        struct.diffrn_source_type                     = CASE WHEN difn_type  = null then "null" else difn_type END
+        struct.cryoem_exp_detail                       = CASE WHEN c_exp_detail          = null then "null" else c_exp_detail END,
+        struct.cryoem_exp_algorithm                    = CASE WHEN c_exp_algo            = null then "null" else c_exp_algo END,
+        struct.cryoem_exp_resolution                   = CASE WHEN c_exp_reso            = null then "null" else c_exp_reso END,
+        struct.rcsb_external_ref_id                    = CASE WHEN ref_id                = null then "null" else ref_id END,
+        struct.rcsb_external_ref_type                  = CASE WHEN ref_type              = null then "null" else ref_type END,
+        struct.rcsb_external_ref_link                  = CASE WHEN ref_link              = null then "null" else ref_link END,
+        struct.cryoem_exp_resolution_method            = CASE WHEN c_exp_reso_method     = null then "null" else c_exp_reso_method END,
+        struct.cryoem_exp_magnification_calibration    = CASE WHEN c_exp_mag_calibration = null then "null" else c_exp_mag_calibration END,
+        struct.cryoem_exp_num_particles                = CASE WHEN c_exp_n_particles     = null then "null" else c_exp_n_particles END,
+        struct.diffrn_source_details                   = CASE WHEN difn_details          = null then "null" else difn_details END,
+        struct.diffrn_source_pdbx_synchrotron_beamline = CASE WHEN difn_sync_beam        = null then "null" else difn_sync_beam END,
+        struct.diffrn_source_pdbx_synchrotron_site     = CASE WHEN difn_sync_site        = null then "null" else difn_sync_site END,
+        struct.diffrn_source_pdbx_wavelength           = CASE WHEN difn_omega            = null then "null" else difn_omega END,
+        struct.diffrn_source_pdbx_wavelength_list      = CASE WHEN difn_omega_list       = null then "null" else difn_omega_list END,
+        struct.diffrn_source_source                    = CASE WHEN difn_source           = null then "null" else difn_source END,
+        struct.diffrn_source_type                      = CASE WHEN difn_type             = null then "null" else difn_type END
 with value, struct
 unwind value.proteins as protein
 with    protein,
@@ -114,14 +111,16 @@ merge (rp:RibosomalProtein {
     })-[:RibosomalProtein_of]->(struct)
     on create set 
     rp.rcsb_pdbx_description = CASE WHEN protein.rcsb_pdbx_description = null then "null" else protein.rcsb_pdbx_description END
+//     connect protein to PFAMFamily
 with rp, struct, value
 unwind rp.pfam_accessions as pfamils
 match (pf:PFAMFamily {family_id:pfamils})
 with rp,struct,value,pf
 merge (rp)-[:Belogns_To]->(pf)
+// Connect RNAS
 with value,struct
 unwind value.rnas as rna
-merge (s:rRNA{
+merge (newrna:rRNA {
         parent_rcsb_id                     :rna.parent_rcsb_id,
         rcsb_source_organism_description   :rna.rcsb_source_organism_description,
         rcsb_source_organism_id            :rna.rcsb_source_organism_id,
@@ -132,7 +131,8 @@ merge (s:rRNA{
         entity_poly_polymer_type           :rna.entity_poly_polymer_type,
         entity_poly_entity_type            :rna.entity_poly_entity_type
         })-[:rRNA_of]->(struct)
-on create set s.rcsb_pdbx_description = CASE WHEN rna.rcsb_pdbx_description = null then "null"  else rna.rcsb_pdbx_description END
+on create set newrna.rcsb_pdbx_description = CASE WHEN rna.rcsb_pdbx_description = null then "null"  else rna.rcsb_pdbx_description END
+// connect Ligands
 with value, struct
 unwind value.ligands as lig
 merge (l:Ligand {
@@ -144,6 +144,7 @@ merge (l:Ligand {
 merge (l)<-[:ContainsLigand{cif_residueId: lig.cif_residueId}]-(struct)
 return struct;
 
+// ---------------------------------------------
 
 // CONNECT NOMENCLATURE
 match (n:RibosomalProtein) where n.nomenclature[0] is not null
