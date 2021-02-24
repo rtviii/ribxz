@@ -70,9 +70,6 @@ if __name__ == "__main__":
     cord = log.get_struct(pdbid)['PTC_average'].values[0]
     origins.append([cord])
 
-
-
-
 # ---------------------------------
     #original
     # args['Points']             = origins

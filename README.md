@@ -9,7 +9,12 @@ Some tools and scripts to curate and analyze ribosomal structures as they pass f
 Quoting from RCSB [ web services ](https://www.rcsb.org/docs/general-help/web-services-overview):
 "All data stored in the PDB archive conform to the [PDBx/mmCIF data dictionary](https://mmcif.wwpdb.org/). This data is augmented with annotations coming from external resources and internally added fields. The RCSB PDB data representation, powered by the JSON Schema language, is connected to the [ data hierarchy ](https://data.rcsb.org/#data-organization)."
 
-__The process of constructing an individual ribosome's profile is described in more detail [ here ](src/resources/StructureFromScratch.md).__
+__The process of constructing an individual ribosome's profile is described in more detail [ here ](src/resources/StructureFromScratch.md)__.
+
+__The process of extracting and loggin the tunnel is described [here](ciftools/TunnelScripts/TunnelExtraction.md)__.
+
+
+
 
 
 
