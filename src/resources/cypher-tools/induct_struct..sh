@@ -9,7 +9,7 @@ DATABASE_NAME='rxzv03'
 
 #The assumption is that the static folder with all the json and cif files 
 #organized by structure exists exactly at $NEOIMPORT/static/
-⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯
+#⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯
 
 filepath=$1
 

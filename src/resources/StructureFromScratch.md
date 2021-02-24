@@ -33,12 +33,11 @@ Folder structure is as following:
 
 ## 1.Semantic Preprocessing
 
-The candidate structures are obtained at rcsb from a tabular report on rcsb search api:
+The candidate structures([ex.](candidates_February2020.txt)) are obtained at rcsb from a tabular report on rcsb search api:
 https://www.rcsb.org/search, exported as a single txt file with all the structures.
+Ideally, there is no preprocessing step to this and we work with the GraphQL endpoint directly and feed it into the database. Far from it currently.
 
-          Ideally, there is no preprocessing step to this and we work with the GraphQL endpoint directly and feed it into the database. The fieldnames for the schema
-
-- ```ribxyz``` utility is built to download the relevant fields and transform the rcsb response from a gql, but a bunch of methods are obsoleted. The script is ```generateStructProfileFromRCSBCandidates.sh``` is written such that would generate profile given pdbids as lines. *Be careful and execute in root of ribxz*. This produces a template for each structure: the outline of proteins, rnas, ligands. The nomenclature is injencted for proteins where possible.  The resulting templates conform to (our own) schema defined in [ RibosomeTypes.ts](./../../src/../src/RibosomeTypes.ts)
+- ```ribxyz``` utility is built to download the relevant fields and transform the rcsb response from a gql, but a bunch of methods are obsoleted. The script is [```generateStructProfileFromRCSBCandidates.sh```](../rcsb-gql-api/requestGqlFrame.ts) is written such that would generate profile given pdbids as lines. *Be careful and execute in root of ribxz*. This produces a template for each structure: the outline of proteins, rnas, ligands. The nomenclature is injencted for proteins where possible.  The resulting templates conform to (our own) schema defined in [ RibosomeTypes.ts](./../../src/../src/RibosomeTypes.ts)
 
 - A bit about the rcsb [ schema ](../src/rcsb-gql-api/archive/expandedRnas-EMDiffnData.gql):
 
