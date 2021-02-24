@@ -1,7 +1,10 @@
 # ribxz 
 
 Some tools and scripts to curate and analyze ribosomal structures as they pass from rcsb.org to ribosome.xyz.
-TS cli in [ /src ](/src/cli.ts) mostly deals with pulling down and transforming the structures' representations from rcsb with own fields like the nomenclature. Some(most) information provided by  
+
+- [ /src ](/src/cli.ts) mostly deals with pulling down and transforming the structures' representations from rcsb with own fields like the nomenclature. Some(most) information provided by  
+-   /ciftools contains structural scripts and the [ mole ](ciftools/mole/mole2/mole2.exe) utility.
+
 
 Quoting from RCSB [ web services ](https://www.rcsb.org/docs/general-help/web-services-overview):
 "All data stored in the PDB archive conform to the [PDBx/mmCIF data dictionary](https://mmcif.wwpdb.org/). This data is augmented with annotations coming from external resources and internally added fields. The RCSB PDB data representation, powered by the JSON Schema language, is connected to the [ data hierarchy ](https://data.rcsb.org/#data-organization)."
@@ -25,4 +28,3 @@ __The process of constructing an individual ribosome's profile is described in m
     - [ ] Connect binding site, exit tunnel reports  to the db-schema such that they can be queried.
 
 
-## Log:
