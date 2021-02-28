@@ -59,8 +59,9 @@ Total  Structures : {}
        Ligands    : {}
 Tunnel Reports    : {}
 Tunnel Centerlines: {}
-"".format(
+""".format(
     structstotal,ligands,tunnels,centerlines
 ))
+
 with open("static_files_catalogue.json", 'w') as outfile:
     json.dump(report, outfile)

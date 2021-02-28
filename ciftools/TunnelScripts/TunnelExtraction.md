@@ -1,9 +1,8 @@
 Some of the parameters like scoop radius, structfile and executable paths figure in the `.env` which is in root.
 
-
 ### Whole procedure
 
-For each struct:
+For each structure:
 
 1. Locate the [ptc](#PTC). Write barycenter(just averaging out the coordinates now hoping for something better than just a single nucleotide's position) to log.
 2. Locate the [ constriction site ](#constriction). Write to Log.
@@ -12,8 +11,6 @@ For each struct:
 5. Curate manually([ `tview.py` ](tview.py) to help).  
 6. [ Generate ](#Report) "PDBID_TUNNEL_REPORT.json" based on the chosen csv tunnel. -> [ Tunnel Generation ](WallsReportGeneration.py)
 7. Various [ plotting options ](PlotMultiple.py) in the works.
-
-
 
 
 
@@ -61,8 +58,8 @@ The following positions are 100% and near-100% conserved in bacteria and archea 
 Decided to stick with a single tunnel choice for now.
 Assigining a negative value to the moletunnel of the dataframe to indicate that:
 
-     - mole was unable to find the correct tunnel(0)
-    - something is obviously blocking the tunnel (-1)
-    - the ribosome is not canonically assembled(PTC is   fragmented/constriction site is far away from ptc)( -2)
+    - (0) mole was unable to find the correct tunnel
+    - (-1) something is obviously blocking the tunnel 
+    - (-2) the ribosome is not canonically assembled (PTC is fragmented/constriction site is far away from ptc)
 
 ### Report Generation(Tunnel Walls)

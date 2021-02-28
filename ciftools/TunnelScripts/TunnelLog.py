@@ -27,6 +27,7 @@ from ciftools.Structure import fetchStructure
 from ciftools.Neoget import _neoget
 
 Nucleotides  = ['A', 'U', 'G', 'C', 'T']
+
 # AAs by assumed charge
 AMINO_ACIDS={"ALA":0,'ARG':1,'ASN':0,'ASP':-1,'CYS':0,'GLN':0,'GLU':-1,'GLY':0,'HIS':0,'ILE':0,'LEU':0,'LYS':1,'MET':0,'PHE':0,'PRO':0,'SER':0,'THR':0,'TRP':0,'TYR':0,'VAL':0,'SEC':0,'PYL':0}
 
