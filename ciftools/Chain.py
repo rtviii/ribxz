@@ -15,7 +15,6 @@ from neo4j import GraphDatabase
 from ciftools.Neoget import _neoget
 
 # staticFilesPath = os.path.join(os.getenv('STATIC_ROOT'))
-
 # to get a cif file : curl -O https://files.rcsb.org/download/3j9m.cif 
 
 async def matchClassToStrand(pdbid:str, banClass:str)->str:
