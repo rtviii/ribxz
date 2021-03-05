@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
 NEOIMPORT='/var/lib/neo4j/import'
-USER='rt'
-PASS='rrr'
+USER=$1
+PASS=$2
 
 # The current instance of the neo4j database.
 DATABASE_NAME='rxzv03'
@@ -11,7 +11,7 @@ DATABASE_NAME='rxzv03'
 #organized by structure exists exactly at $NEOIMPORT/static/
 #⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯⋱⋰⋯⋯⋯⋅⋄⋱⋰⋯⋯⋯
 
-filepath=$1
+filepath=$3
 
 if [ -f $filepath ];
 then
@@ -19,10 +19,9 @@ then
 	extension=${file: -4}
 	if [ $extension != "json" ];
 	then
-		echo "The profile file must be a json registry. Exiting."
+		echo "The profile file must be a .json. Exiting."
 		exit 2
 	fi
-	# verify that the id is uppercase
 	structid=${file::4}
 	structid=${structid^^}
 
