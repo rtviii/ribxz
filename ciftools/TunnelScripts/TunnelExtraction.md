@@ -42,8 +42,8 @@ The following positions are 100% and near-100% conserved in bacteria and archea 
 
 ### Implementing now with the following mole setups for ecoli, Dec 22 after a go-ahead from Khanh:
 
-```python 
-      #After Khanh's feedback, tunnel cutoffs on the edge of the scoop.
+```pythonh's feedback on tunnel cutoffs / the edge of the scoop.
+
       args['Points']             = origins
       args['ProbeRadius']        = "12"
       args['InteriorThreshold']  = "1.25"
@@ -61,5 +61,11 @@ Assigining a negative value to the moletunnel of the dataframe to indicate that:
     - (0) mole was unable to find the correct tunnel
     - (-1) something is obviously blocking the tunnel 
     - (-2) the ribosome is not canonically assembled (PTC is fragmented/constriction site is far away from ptc)
+
+
+There is a pretty urgent question of how to structure the interactions of MOLE's initiations with the common log, how much dependency there should be.
+I'd like to keep PTC, constriction sites logged and accessible.
+
+-----------------------
 
 ### Report Generation(Tunnel Walls)

@@ -2,15 +2,14 @@
 
 import asyncio
 import os,sys
-sys.path.append(os.path.dirname( os.path.dirname( os.path.dirname(os.path.realpath(__file__)) ) ))
-from ciftools.mole.cli_parser import makeparser
-from ciftools.mole.makeconfig import make_input_config
+from cli_parser import makeparser
+from makeconfig import make_input_config
 from dotenv import load_dotenv
 
 
 if __name__ == "__main__":
 
-    from ciftools.TunnelScripts.TunnelLog import Log
+
 
     """
     So here is how this works:
@@ -37,16 +36,13 @@ if __name__ == "__main__":
     pdbid       = args['PDBID'].upper()
     load_dotenv('/home/rxz/dev/ribxz/.env')
 
-    log          = Log(os.getenv("TUNNEL_LOG"))
-    record       = log.get_struct(pdbid)
-
-    species      = str( int( record.taxid.values[0] ) )
-    constriction = record.constriction_coord.values[0]
+    species      = str(83333)
 
     inputconfigpath = os.path.join(TUNNELS, species, pdbid, '{}_moleinput.xml'.format(pdbid) )
     inputstructpath = os.path.join(TUNNELS, species, pdbid, '{}_{}Ascoop.pdb'.format(pdbid, SCOOP_RADIUS))
     outpath         = os.path.join(TUNNELS, species, pdbid)
 
+    print(inputconfigpath)
     args['Input']         =  inputstructpath
     args['Output']        =  outpath
     args['ConfigPath']    =  inputconfigpath
@@ -56,9 +52,7 @@ if __name__ == "__main__":
     # cords = pymol.cmd.get_coords('PTC', 1)
 
     origins = []
-
-    cord = log.get_struct(pdbid)['PTC_average'].values[0]
-    origins.append([cord])
+    origins.append([123,123,123])
 
 # ---------------------------------
     #original
@@ -78,7 +72,6 @@ if __name__ == "__main__":
     args['BottleneckRadius']   = "1"
     args['exports']            = "t"
 # ---------------------------------
-
 
     asyncio.run(make_input_config(args))
     os.system("mono {} {}".format(MOLE_EXE, inputconfigpath))

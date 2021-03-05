@@ -23,13 +23,7 @@ from ciftools.TunnelScripts.WallsReportGeneration import InitWalls
 from ciftools.TunnelScripts.WallsReportGeneration import add_nomenclature_map_to_report
 TUNNELS     = os.getenv("TUNNELS")
 STATIC_ROOT = os.getenv("STATIC_ROOT")
-
 log         = Log(os.getenv('TUNNEL_LOG'))
-
-
-
-
-
 
 
 # for struct in log.all_structs():
