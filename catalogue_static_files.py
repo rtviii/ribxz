@@ -1,13 +1,8 @@
 #!/bin/usr/python3
 
-
 import sys, os,json
 import re
 from pathlib import Path
-from typing import Pattern
-
-
-
 
 # checking for:
 #! LIGANDS
@@ -19,12 +14,14 @@ STATIC = sys.argv[1]
 
 report = {
 }
-tunnels     = 0
-ligands     = 0
-centerlines = 0
-structstotal =0
+
+tunnels      = 0
+ligands      = 0
+centerlines  = 0
+structstotal = 0
+
 for struct in os.listdir(STATIC):
-    structstotal+=1
+    structstotal += 1
     report[struct] = {}
     # This is the GLOB that im looking for.
     for item in ['LIGAND', 'TUNNEL_REPORT', 'CENTERLINE']:
@@ -47,8 +44,8 @@ for struct in os.listdir(STATIC):
         if item == 'LIGAND':
             if len(results) > 0:
                 def getChemid(filename:str):
-                    pattenr = r'(?<=\_)(.*?)(?=\.)'
-                    return re.search(pattenr,filename)[0]
+                    pattern = r'(?<=\_)(.*?)(?=\.)'
+                    return re.search(pattern,filename)[0]
                 report[struct][item] = results
                 ligands+=len(results)
             else:
