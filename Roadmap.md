@@ -21,6 +21,7 @@
 
 ### General
 
+- [ ] [ 1 day ]                   API: Description page and Endpoint Specifications
 - [ ] [ ? depends on the parser ] Viewer Integration  ( __High priority__ )
 - [ ] [ 1-2 weeks ]               Deep search, filtering logic  ( __High priority__ )
 - [ ] [ 1 week ]                  Corrections to layout   ( __High priority__ )

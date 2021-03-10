@@ -1,11 +1,11 @@
 from neo4j import GraphDatabase, Result
 from dotenv import load_dotenv
 import os
-from typing import List, Tuple
+from typing import List, Tuple, TypedDict, Union, Callable
 import sys
+from neo4j.work.simple import Query
 import pandas as pd
-
-from Bio.PDB.MMCIFParser import FastMMCIFParser
+from Bio.PDB.MMCIFParser import FastMMCIFParser, MMCIFParser
 from Bio.PDB.NeighborSearch import NeighborSearch
 from Bio.PDB.Residue import Residue
 from Bio.PDB.Structure import Structure
@@ -13,15 +13,11 @@ import json
 from asyncio import run
 from dotenv import load_dotenv
 
-def root_self(rootname:str='')->str:
-    """Returns the rootpath for the project if it's unique in the current folder tree."""
-    root=os.path.abspath(__file__)[:os.path.abspath(__file__).find(rootname)+len(rootname)]
-    sys.path.append(root)
-    load_dotenv(os.path.join(root,'.env'))
 
+load_dotenv(dotenv_path='/home/rtviii/dev/ribxz/.env')
 
-root_self('ribxz')
 STATIC_ROOT = os.getenv('STATIC_ROOT')
+print(STATIC_ROOT)
 
 def _neoget(CYPHER_STRING:str)->Result:
     driver = GraphDatabase.driver(
@@ -38,35 +34,51 @@ def _neoget(CYPHER_STRING:str)->Result:
         return session.read_transaction(parametrized_query)
 
 
+class ResidueAsDict(TypedDict, total=False):
+    resn       :  str
+    strand_id  :  str
+    resid      :  int
+    struct     :  str
+    banClass   :  str
+class ResidueDict():
+    """This is needed to hash and compare two residues inside a list"""
 
-class ResidueFullIdDict(): 
-    # Just a class to restructure biopython's definition of a residue
-    # Keeping track of an individual residue's ids
     def __init__(self, res:Residue):
-        fullid            = list( res.get_full_id() )
-        self.structure    = fullid[0]
-        self.model        = fullid[1]
-        self.strand_id    = fullid[2]
-        self.chemicalName = res.get_resname()
-        self.residue_id   = [*fullid[3]][1]
+        fid  =  list(res.get_full_id())
+        self.model       :int  =  fid[1]
+        self.resname     :str  =  fid[3][0]
+        self.struct      :str  =  fid[0]
+        self.chemicalName:str  =  res.get_resname()
+        self.strand_id   :str  =  fid[2]
+        self.residue_id  :int  =  [*fid[3]][1]
+        self.banClass    :str  = ""
 
+    def __eq__(self, other):
+        return self.residue_id == other.residue_id and self.strand_id == other.strand_id
 
-def getLigandResIds(ligchemid:str, struct: Structure)->List[ResidueFullIdDict]:
-    """Returns a list of dictionaries specifying each _ligand_ as a biopython-residue inside a given struct."""
+    def __hash__(self):
+        return hash(( 'strand_id',self.strand_id,'residue_id', self.residue_id ))
+    
+    def toJSON(self):
+            return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=4)
+
+    def asdict(self)->ResidueAsDict:
+        return {
+            "resn"       :  self.resname,
+            "strand_id"  :  self.strand_id,
+            "resid"      :  self.residue_id,
+            "struct"     :  self.struct,
+            "banClass"   :  self.banClass}
+
+def getLigandResIds(ligchemid:str, struct: Structure)->List[Residue]:
+    """Returns a list of dictionaries specifying each _ligand_ of type @ligchemid as a biopython-residue inside a given @struct."""
+    """*ligchemids are of type https://www.rcsb.org/ligand/IDS"""
     ligandResidues: List[Residue] = list(filter(lambda x: x.get_resname() == ligchemid, list( struct.get_residues() )))
-    return [ ResidueFullIdDict(res) for res in ligandResidues ]
+    return ligandResidues
 
-def filterIons(entry):
-    """Helper function to filter ions. """
-    if "ion" in entry['name'].lower():
-       print("Filtered ION:", entry['name'])
-       return False
-    else:
-        return entry['id']
 
-async def matchStrandToClass(pdbid:str, strand_id:str)->str:
+async def matchStrandToClass(pdbid:str, strand_id:str)->Union[str, None]:
     """Request Ban nomenclature classes from the db given a protein's entity_poly_strand_id."""
-
     CYPHER="""match (r:RibosomeStructure{{_rcsb_id: "{}"}})-[]-(rp:RibosomalProtein{{entity_poly_strand_id:"{}"}})-[]-(n:NomenclatureClass)
     return n.class_id""".format(pdbid.upper(), strand_id)
     resp = _neoget(CYPHER)
@@ -75,109 +87,106 @@ async def matchStrandToClass(pdbid:str, strand_id:str)->str:
     else:
         return None
 
-class ResidueId():
 
-    def __init__(self, res:Residue):
-        fid             = list(res.get_full_id())
-        self.resname    = fid[3][0]
-        self.struct     = fid[0]
-        self.strand_id  = fid[2]
-        self.residue_id = [*fid[3]][1]
+def addBanClass(x:ResidueDict)->ResidueDict:
+    """Tag a residue dictionary with the nomenclature of the strand it belongs to, if any is found"""
+    banClass:str            =  run(matchStrandToClass(x.struct,x.strand_id))
+    x.banClass = banClass
+    return x
 
-    def __eq__(self, other):
-        return self.residue_id == other.residue_id and self.strand_id == other.strand_id
+def getLigandNbrs(resids: List[Residue], struct:Structure)->List[ResidueDict]:
 
-    def __hash__(self):
-        return hash(( 'strand_id',self.strand_id,'residue_id', self.residue_id ))
-
-    def asdict(self):
-        return {
-            "resn"     : self.resname,
-            "strand_id": self.strand_id,
-            "resid"    : self.residue_id,
-            "struct"   : self.struct}
-
-def addBanClass(x:ResidueId):
-
-    profile = x.asdict()
-    bc      = run(matchStrandToClass(profile[ 'struct' ],profile[ 'strand_id' ]))
-    profile['banClass'] = bc
-    return profile
-
-def getLigandNbrs(resids: List[Residue], struct:Structure):
+    """KDTree search the neighbors of a given list of residues(which constitue a ligand) 
+    and return unique having tagged them with a ban identifier proteins within 5 angstrom of these residues. """
     ns   = NeighborSearch(list( struct.get_atoms() ))
     nbrs = []
+
     for r in resids:
         # a ligand consists of residues
-        resatom = r.child_list[0]
+        resatoms = r.child_list[0]
         #  each residue has an atom plucked at random
-        for nbr in ns.search(resatom.get_coord(), 5,level='R'):
-            # we grab all residues in radius around that atom and extend the list with those
-            nbrs.extend([* nbr])
+        for nbrresidues in ns.search(resatoms.get_coord(), 5,level='R'):
+            # we grab all residues in radius around that atom and extend the list of neighbors with those
+            nbrs.extend([nbrresidues])
+
+    # Filter out the residues that constitute the ligand itself
     filtered = [] 
-    for neighor in nbrs:
+    for neighbor in nbrs:
         present = 0
         for constit in resids:
-            if ResidueId( constit ) == ResidueId( neighor ):
+            if ResidueDict(constit)==ResidueDict( neighbor ):
                 present = 1
         if present == 0:
-            filtered.append(ResidueId(neighor))
+            filtered.append(ResidueDict(neighbor))
+
     return [ * map(lambda x: addBanClass(x) ,  set(filtered) ) ]
 
-def parseLigandNeighborhoods(pdbid:str):
-    pdbid=pdbid.upper()
+def openStructutre(pdbid:str, cifpath: str)->Structure:
+    return FastMMCIFParser(QUIET=True).get_structure(pdbid,cifpath)
+
+def parseLigandNeighborhoods(pdbid:str,pathtostruct:str)->None:
+    pdbid  =  pdbid.upper()
+
     if ("." in pdbid):
         print("Provide a PDB *ID*, not the file. The filepaths are defined in the .env.")
         return
 
-    print(f"Requesting ligands for {pdbid}")
-    
-    print("GOT PDBID", pdbid)
-
-    entry:List     = _neoget("""match (l:Ligand)-[]-(r:RibosomeStructure{{rcsb_id:"{pdbid}"}}) 
+    db_response     = _neoget("""match (l:Ligand)-[]-(r:RibosomeStructure{{rcsb_id:"{pdbid}"}}) 
     return {{struct: r.rcsb_id, ligs: collect({{ id:l.chemicalId, name: l.chemicalName }})}}""".format_map({ "pdbid":pdbid }))[0]
 
-    if len(entry)  == 0:
+    class ResponseLigand(TypedDict):
+        id:str;name:str
+    presentLigands:List[ResponseLigand]
+
+    if len(db_response)  == 0:
         print(f"No ligands for {pdbid} the DB. Exiting..")
         return
     else:
-        print("Received ligands for {}: ".format(pdbid), entry)
+        print("Received ligands for {}: ".format(pdbid), db_response)
+        presentLigands:List[ResponseLigand] = db_response[0]['ligs']
 
-    ligandsResponse:List[str] = entry[0]['ligs']
-    ligandIds = [* map(lambda x : filterIons(x), ligandsResponse) ]
-    ligandIds = [i for i in ligandIds if i] 
-    
-    pathtostruct        = os.path.join(STATIC_ROOT,pdbid,'{}.cif'.format(pdbid))
+    # filtering the ions out
+    dropIon       :Callable[[ResponseLigand], bool ]  =  lambda x: True if "ion" not in x['name'] else False
+    presentLigands:List[ResponseLigand]                   =  [*filter(dropIon,presentLigands)]
 
-    for x in ligandIds:
-        savepath = os.path.join(STATIC_ROOT, pdbid, 'LIGAND_{}.json'.format(x))
+    for ligand in presentLigands:
 
+        # savepath = os.path.join(STATIC_ROOT, pdbid, 'LIGAND_{}.json'.format(x))
+        savepath = os.path.join('LIGAND_{}.json'.format(ligand['id']))
+        # ! These are a few of the things that turned out to be "problematic". Either whole structs not rendering or failing silently.
         # if pdbid in ['4U3N'] or x in ['A', 'OHX', ]:
         #     print("Skipping problematic {}".format(pdbid))
         #     continue
-        if pdbid in ['5TGM'] or x in ['A', 'OHX', 'LEU']:
-            continue
+        # if pdbid in ['5TGM'] or x in ['A', 'OHX', 'LEU']:
+        #     continue
 
         if os.path.exists(savepath):
             print(savepath, " already exists. Skipping rendering.")
             continue
         else:
-            struct              = fetchStructure(pdbid, pathtostruct)
-            print("Parsing residues of {}".format(x))
-            asresiudes = getLigandResIds(x, struct, 'res')
-            internals  = [addBanClass( ResidueId(residue) ) for residue in asresiudes ]
-            nbrs       = getLigandNbrs(asresiudes, struct)
+            struct:Structure = openStructutre(pdbid, pathtostruct)
+            # Parsing residues of ligand x
+            ligand_as_residues    :List[Residue]      =  getLigandResIds(ligand['id'], struct )
+            ligand_as_residuedicts:List[ResidueDict]  =  [ ResidueDict(res) for res in ligand_as_residues ]
+
+            internal_residues   =  [addBanClass(ResidueDict(x)) for x in ligand_as_residues ]
+
+            nbrs        =  getLigandNbrs(ligand_as_residues, struct)
             for nbr in nbrs:
-                run(matchStrandToClass(nbr[ 'struct' ],nbr[ 'strand_id' ]))
-            ligprofile = {'constituents': internals,'nbrs':         nbrs}
+                run(matchStrandToClass(nbr.struct,nbr.strand_id))
+
+            ligandProfile  =  {
+            'constituents': [ *map(lambda x: x.asdict(),internal_residues) ],
+            'nbrs':         [ *map(lambda x: x.asdict(),nbrs) ]}
             with open(savepath, 'w') as json_file:
-                json.dump(ligprofile,json_file)
-                print(f'Wrote to {savepath}')
+                json.dump(ligandProfile,json_file)
+                print(f'Wrote report for {struct}/{ligand} to {savepath}')
     print('Done.')
 
 
 
 if __name__ == "__main__":
-    pdbid = sys.argv[1]
-    parseLigandNeighborhoods(pdbid=pdbid)
+    pdbid         =  sys.argv[1]
+    pathtostruct  =  sys.argv[2]
+    parseLigandNeighborhoods(pdbid,pathtostruct)
    
